@@ -1,3 +1,22 @@
+Package: com.kernelrw.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.13
+Section: Tweaks
+Maintainer: leftyfl1p
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debians/rootful/com.kernelrw.carbridge13_2.0.13_iphoneos-arm.deb
+Size: 431032
+MD5sum: 0333d0b8c2bac06b8a2a80cf34e483d7
+SHA1: c994d2b5b1ccb9b7d24bae5935e2f0e5d0cff8b9
+SHA256: 37ff2ebe9e86bcfaf3e14518657e68fac4b6552e150d87cbdd31a917d52eb6d3
+SHA512: db9c7209bd08f85ee69a4373a4a92fdf363c9c4be0bf42c2b47fddddf7eba4adb05f3392e3b4927a677f1b5f8ff1098ca5707d5ab380a5543d7955b647b996d0
+Description: Open any app in CarPlay!
+Tag: cydia::commercial
+Name: CarBridge
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
 Version: 1.0
@@ -70,6 +89,25 @@ Author: pxcex
 Depiction: https://d.plutorepo.com/posts/AutoScroll
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
+
+Package: com.kernelrw.carbridge13
+Architecture: iphoneos-arm64
+Version: 2.0.13
+Section: Tweaks
+Maintainer: leftyfl1p
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debians/rootless/com.kernelrw.carbridge13_2.0.13_iphoneos-arm64.deb
+Size: 434240
+MD5sum: 49fb6e89c11d434a956b7305ce8da45e
+SHA1: ef9c179d824b9e5e8df6fe69a2b55b4955603996
+SHA256: 9822094a334f2882773177114acec50cd66eab4a65f649efa7b14d474152c177
+SHA512: 1bf990ea8d23b1251da05731f3e9c7947dd7799c4db352b34480b3586d5fa0ae7d7dfb4ca1e09aba413b2d7f10139cf08f29caeee4f1d2729a0d49cabcf45aa3
+Description: Open any app in CarPlay!
+Tag: cydia::commercial
+Name: CarBridge
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
 
 Package: com.kernelrw.globalize
 Architecture: iphoneos-arm64
@@ -195,30 +233,4 @@ Description: Download/Share images & videos from social apps easily!
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
-
-Package: com.kernelrw.carbridge13
- Section: Tweaks
- Maintainer: leftyfl1p
- Architecture: iphoneos-arm
- Version: 2.0.13
- Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
- Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
- Description: Open any app in CarPlay!
- Name: CarBridge
- Author: leftyfl1p <carbridge@havoc.app>
- Depiction: https://havoc.app/package/carbridge
- Tag: cydia::commercial
-
-Package: com.kernelrw.carbridge13
- Section: Tweaks
- Maintainer: leftyfl1p
- Architecture: iphoneos-arm64
- Version: 2.0.13
- Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
- Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
- Description: Open any app in CarPlay!
- Name: CarBridge
- Author: leftyfl1p <carbridge@havoc.app>
- Depiction: https://havoc.app/package/carbridge
- Tag: cydia::commercial
 
