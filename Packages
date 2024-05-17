@@ -1,0 +1,34 @@
+Package: com.kernelrw.autoscroll
+ Section: Tweaks
+ Installed-Size: 152
+ Maintainer: pxcex
+ Architecture: iphoneos-arm64
+ Version: 1.0.0
+ Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+ Description: Smart Auto Scroll & Faster Scrolling on all app.
+ Name: AutoScroll
+ Author: pxcex
+ Depiction: https://d.plutorepo.com/posts/AutoScroll
+ Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
+ SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
+
+Package: com.kernelrw.globalize
+ Name: Globalize
+ Depends: mobilesubstrate, firmware (>= 9)
+ Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+ Maintainer: parrotgeek1
+ Author: parrotgeek1
+ Section: Tweaks
+ Architecture: iphoneos-arm64
+ Version: 0.3.2
+ Installed-Size: 440
+
+Package: com.kernelrw.regram
+ Section: Tweaks
+ Maintainer: Fouad Raheb
+ Architecture: iphoneos-arm64
+ Version: 1.0-beta1
+ Depends: mobilesubstrate
+ Description: The all-in-one tweak for Instagram
+ Name: Regram for Instagram
+ Author: Fouad Raheb
