@@ -1,3 +1,39 @@
+Package: ios.kernelrw.ccwifijoin
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: nqt1195
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/rootful/ios.kernelrw.ccwifijoin_1.0_iphoneos-arm.deb
+Size: 8792
+MD5sum: da4dfa38a84ad038c28330d05d0fed46
+SHA1: 4cc4dd886b3e66fe9d5e903d088773cdb79282e5
+SHA256: 0b6f4b48a047aebd8b89466338bd2cbcf1ee0ee4b127851c089899e453cb21a9
+SHA512: ae76119fda957c78348d51528fd31852994aa7c1cdc3d696fa583d88a8d4fb739774a8b1f4f79c45e56a917ff53b916683428ddd3149ebe9fe7ae0cc81af266e
+Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
+Name: CCWiFiJoin
+Author: nqt1195
+
+Package: love.kernelrw.rose
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Tweaks
+Maintainer: Litten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/rootful/love.kernelrw.rose_1.0.9_iphoneos-arm.deb
+Size: 433092
+MD5sum: 90131b441b2371b25dca01f2f6c17a86
+SHA1: a77ee7dce1ae5a50ca5c672e02eb429f449183df
+SHA256: 538750d11cf76dd3a51934ce3c153caf43d1dd42020935e55c12a3fcd8042178
+SHA512: a7529692c64eb1b6607339e98268e4743be96d4da699cce1a6781f743f16b155c0607bc507ba82b5f54886829cf05582cd279eab2fe0d002a680ff8c25b127cd
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Name: Rose 🌹
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Rose/index.html
+SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
+Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
+
 Package: me.kernelrw.dleasy
 Architecture: iphoneos-arm
 Version: 2.14.4
@@ -68,89 +104,95 @@ Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb
 
-Package: ios.kernelrw.ccwifijoin
- Name: CCWiFiJoin
- Depends: mobilesubstrate, firmware (>= 13.0)
- Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
- Maintainer: nqt1195
- Author: nqt1195
- Section: Tweaks
- Architecture: iphoneos-arm
- Version: 1.0
- Installed-Size: 136
-
-Package: love.kernelrw.rose
- Section: Tweaks
- Maintainer: Litten
- Architecture: iphoneos-arm
- Version: 1.0.9
- Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
- Description: Getting peeped by a rose doesn't feel that good, it's time to change that
- Name: Rose 🌹
- Author: Litten
- Depiction: https://repo.litten.love/depictions/Rose/index.html
- SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
- Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
-
-Package: ez.kernelrw.xinaminepatcherscript
- Section: System
- Maintainer: NoW4U2Kid
- Architecture: iphoneos-arm64
- Version: 1.7.4
- Depends: mobilesubstrate, ellekit, file, odcctools, ldid, emt.paisseon.xinamine
- Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
-  - YES, this is much better than Derootifier or any other rootless conversion script.
-  - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
-  - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak.
-  - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
- Name: Xinamine Patcher
- Author: NoW4U2Kid
-
-Package: ios.kernelrw.ccwifijoin
- Name: CCWiFiJoin
- Depends: mobilesubstrate, firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
- Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
- Maintainer: nqt1195
- Author: nqt1195
- Section: Tweaks
- Architecture: iphoneos-arm64
- Version: 1.0
- Installed-Size: 136
-
-Package: love.kernelrw.rose
- Section: Tweaks
- Maintainer: Litten
- Architecture: iphoneos-arm64
- Version: 1.0.9
- Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
- Description: Getting peeped by a rose doesn't feel that good, it's time to change that
- Name: Rose 🌹
- Author: Litten
- Depiction: https://repo.litten.love/depictions/Rose/index.html
- SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
- Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
-
-Package: me.kernelrw.dleasy
- Section: Tweaks
- Maintainer: AhmedBafkir <prooxy0@gmail.com>
- Architecture: iphoneos-arm64
- Version: 2.14.4
- Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
- Description: Download/Share images & videos from social apps easily!
- Name: DLEasy
- Author: AhmedBafkir <prooxy0@gmail.com>
- Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
-
 Package: emt.kernelrw.xinamine
-Section: System
-Maintainer: Sudo + Paisseon
 Architecture: iphoneos-arm64
 Version: 0.0.5-1
+Section: System
+Maintainer: Sudo + Paisseon
 Depends: ellekit, oldabi
+Filename: ./debians/rootless/emt.kernelrw.xinamine_0.0.5-1_iphoneos-arm64.deb
+Size: 60740
+MD5sum: 2ab5753e970146809656d3034e7ccb5e
+SHA1: 52ac18e3a62c00dcc840f3d4bf107544cc8ec68f
+SHA256: af6d4c2dd84e3f3544ea770cf7ace50770f631b59429bba3580151dc97a30474
+SHA512: ea4f4bcdb6cbe602aaa1301d9707008a452ae60d8b616e6df1c513da23e20e3860dd171501e206722b31948ef41b8ee53edb35aadae94e46d36bf20e55f85ef2
 Description: Add Xina tweak compatibility to Dopamine
 Name: Xinamine
 Author: Sudo + Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
 Icon: https://paisseon.github.io/icons/Xinamine.png
+
+Package: ez.kernelrw.xinaminepatcherscript
+Architecture: iphoneos-arm64
+Version: 1.7.4
+Section: System
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit, file, odcctools, ldid, emt.paisseon.xinamine
+Filename: ./debians/rootless/ez.kernelrw.xinaminepatcherscript_1.7.4_iphoneos-arm64.deb
+Size: 4232
+MD5sum: 0df61cd5d23796946f95136878777ff7
+SHA1: d1eaaa180c120eea34ee7be92478a92213d181ea
+SHA256: 7222a728175c27bc4f332e37a08d9230f217d782fdfc75c2b2b6cab74b76cdd2
+SHA512: 36e82532eb7b182df704b8e13a26c10dfde79d22a972e196e6ba95d650866e2ec5708e4d68cb6ed3bf35e5b3db67830067f6b95c252ed163ef32b17758100bc3
+Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Name: Xinamine Patcher
+Author: NoW4U2Kid
+
+Package: ios.kernelrw.ccwifijoin
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: nqt1195
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/ios.kernelrw.ccwifijoin_1.0_iphoneos-arm64.deb
+Size: 8884
+MD5sum: a802454939afc677ac9ed5fe04dbf40a
+SHA1: 82a6faa3ac88714ab979c4c12bf46a8feeff9f05
+SHA256: b98d355b60fbbded9ffcce912b1e3eddc109bf0e2d475138fedbc7557868af36
+SHA512: e75c53d8c01493ba108412c10a0580a458cff29223f165560e81113ba3bf0f087693b3e3dbf218eac3b5aaad1a305233bea9982eb0ea3517e6c0bec4c75bbbde
+Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
+Name: CCWiFiJoin
+Author: nqt1195
+
+Package: love.kernelrw.rose
+Architecture: iphoneos-arm64
+Version: 1.0.9
+Section: Tweaks
+Maintainer: Litten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/love.kernelrw.rose_1.0.9_iphoneos-arm64.deb
+Size: 430008
+MD5sum: f8fec353d73b04ff67ca91d81530fe2a
+SHA1: acb85f8ca6b726889ac929ca15ece49284476b0f
+SHA256: 91a7fed7f3572c80e9aafcd464a493fe5c117ea6e90b44896214554d9ce4ae12
+SHA512: fa7ec8d67cb545fcd386a23170b486621797e785a2f981b4a8d1762a5052abd04b1a000cc90c351529c7e5665557e4a8e321914810b263ddb1cee003b1d9f108
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Name: Rose 🌹
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Rose/index.html
+SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
+Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
+
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.kernelrw.dleasy_2.14.4_iphoneos-arm64.deb
+Size: 5531064
+MD5sum: 6ec1d9c466f9c32ec8ef9c72356013f4
+SHA1: aff310e98e472f3225f5334be2f455c62ba50ad1
+SHA256: b428427ed8a0967578c48fc4fa5e900a2312b4c131a98c9de94fe8f336fa5833
+SHA512: 94ca3b249f0543056720e68caad328e1e4ea99df24feb1ef8c3953238f39544bddcf7d4e34730aa0e83b0fbfa0fb25e6569fd84c1f71bf170990bc5d0e366735
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
