@@ -68,3 +68,89 @@ Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb
 
+Package: ios.kernelrw.ccwifijoin
+ Name: CCWiFiJoin
+ Depends: mobilesubstrate, firmware (>= 13.0)
+ Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
+ Maintainer: nqt1195
+ Author: nqt1195
+ Section: Tweaks
+ Architecture: iphoneos-arm
+ Version: 1.0
+ Installed-Size: 136
+
+Package: love.kernelrw.rose
+ Section: Tweaks
+ Maintainer: Litten
+ Architecture: iphoneos-arm
+ Version: 1.0.9
+ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+ Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+ Name: Rose 🌹
+ Author: Litten
+ Depiction: https://repo.litten.love/depictions/Rose/index.html
+ SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
+ Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
+
+Package: ez.kernelrw.xinaminepatcherscript
+ Section: System
+ Maintainer: NoW4U2Kid
+ Architecture: iphoneos-arm64
+ Version: 1.7.4
+ Depends: mobilesubstrate, ellekit, file, odcctools, ldid, emt.paisseon.xinamine
+ Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+  - YES, this is much better than Derootifier or any other rootless conversion script.
+  - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+  - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak.
+  - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+ Name: Xinamine Patcher
+ Author: NoW4U2Kid
+
+Package: ios.kernelrw.ccwifijoin
+ Name: CCWiFiJoin
+ Depends: mobilesubstrate, firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+ Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
+ Maintainer: nqt1195
+ Author: nqt1195
+ Section: Tweaks
+ Architecture: iphoneos-arm64
+ Version: 1.0
+ Installed-Size: 136
+
+Package: love.kernelrw.rose
+ Section: Tweaks
+ Maintainer: Litten
+ Architecture: iphoneos-arm64
+ Version: 1.0.9
+ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+ Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+ Name: Rose 🌹
+ Author: Litten
+ Depiction: https://repo.litten.love/depictions/Rose/index.html
+ SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
+ Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
+
+Package: me.kernelrw.dleasy
+ Section: Tweaks
+ Maintainer: AhmedBafkir <prooxy0@gmail.com>
+ Architecture: iphoneos-arm64
+ Version: 2.14.4
+ Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+ Description: Download/Share images & videos from social apps easily!
+ Name: DLEasy
+ Author: AhmedBafkir <prooxy0@gmail.com>
+ Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: emt.kernelrw.xinamine
+Section: System
+Maintainer: Sudo + Paisseon
+Architecture: iphoneos-arm64
+Version: 0.0.5-1
+Depends: ellekit, oldabi
+Description: Add Xina tweak compatibility to Dopamine
+Name: Xinamine
+Author: Sudo + Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+
