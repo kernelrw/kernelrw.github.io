@@ -1,0 +1,9 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: kernel
+Components: main
+Date: Fri, 26 Apr 2024 19:30:10 +0000
+Description: kernel
+Label: kernel
+Origin: kernel
+Suite: stable
+Version: 1.0

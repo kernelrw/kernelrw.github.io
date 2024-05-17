@@ -1,0 +1,23 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{296, 148}",
+	"itemCornerRadius": 10,
+	"banners": [
+		{
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/me.kernelrw.dleasy/screenshots/DLEasy.png?raw=true",
+			"title": "DLEasy",
+			"package": "me.kernelrw.dleasy",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/com.kernelrw.autoscroll/screenshots/AutoScroll.png?raw=true",
+			"title": "AutoScroll",
+			"package": "com.kernelrw.autoscroll",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/com.kernelrw.a-font/screenshots/A-Font.png?raw=true",
+			"title": "A-Font",
+			"package": "com.kernelrw.a-font",
+			"hideShadow": false
+		}
