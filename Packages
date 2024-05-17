@@ -196,3 +196,29 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: com.kernelrw.carbridge13
+ Section: Tweaks
+ Maintainer: leftyfl1p
+ Architecture: iphoneos-arm
+ Version: 2.0.13
+ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+ Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+ Description: Open any app in CarPlay!
+ Name: CarBridge
+ Author: leftyfl1p <carbridge@havoc.app>
+ Depiction: https://havoc.app/package/carbridge
+ Tag: cydia::commercial
+
+Package: com.kernelrw.carbridge13
+ Section: Tweaks
+ Maintainer: leftyfl1p
+ Architecture: iphoneos-arm64
+ Version: 2.0.13
+ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+ Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+ Description: Open any app in CarPlay!
+ Name: CarBridge
+ Author: leftyfl1p <carbridge@havoc.app>
+ Depiction: https://havoc.app/package/carbridge
+ Tag: cydia::commercial
+
