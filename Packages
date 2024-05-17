@@ -1,3 +1,21 @@
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.kernelrw.dleasy_2.14.4_iphoneos-arm.deb
+Size: 5451208
+MD5sum: 
+77fd568235b760c5b17c5fc67250c740
+SHA1: 27dcbbf26c99b5fa113511ec2e790b357b2b86a5
+SHA256: 1a1684b1daffec8b0547496f2a7bba13e2afba239bec003f0b54e3191b35aa29
+SHA512: 0207b2d47592886d51d92f46922a0d94cb6b7e8f75c56f3e332ef51d0ec834a36e67ae297397b3292a2e0c8ef95367d7b9037771ea6af0ac7e6db376a977308a
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: com.kernelrw.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -7,8 +25,7 @@ Installed-Size: 152
 Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/rootless/com.kernelrw.autoscroll_1.0.0_iphoneos-arm64.deb
 Size: 26408
-MD5sum:
- 6aa5730e4a4143b3148c283e2605ad68
+MD5sum: 6aa5730e4a4143b3148c283e2605ad68
 SHA1: ed657cabb0cc72fb698e3b1c20f708eec5a1cedb
 SHA256: f524d2aadda3aab25611fe6000465dc378d28901012bace9b5b94fee2cb37e03
 SHA512: 276c8a418d08a14d8e7c4d75e2638a136c01c644743174c06768bb75dff01fd6101398f586648df15e9b6e4350e98f5181a8535c6ce85c7e9c0ad3ba03d9ab0d
@@ -28,8 +45,7 @@ Installed-Size: 440
 Depends: mobilesubstrate, firmware (>= 9)
 Filename: ./debians/rootless/com.kernelrw.globalize_0.3.2_iphoneos-arm64.deb
 Size: 5952
-MD5sum: 
-dd0307cb560d1b5ac51392d535fe4e17
+MD5sum: dd0307cb560d1b5ac51392d535fe4e17
 SHA1: 85725c56157e049b00d26684b1a2a49247664d66
 SHA256: b131ea59cc26a3220aacd19b2c4d98c0100020987739eccad9e26c07a3c4c9c7
 SHA512: 419654762bbf39ac45cea3c5d32d191b3afc902cf9ea952484fa1c84aac2d21e3ebea8cd47ef6f948dc6c5bac74602db9852664a478dcc60aefa66366d227b4d
@@ -45,8 +61,7 @@ Maintainer: Fouad Raheb
 Depends: mobilesubstrate
 Filename: ./debians/rootless/com.kernelrw.regram_1.0-beta1_iphoneos-arm64.deb
 Size: 5725456
-MD5sum: 
-415b9903005461b9b64ecada171d525b
+MD5sum: 415b9903005461b9b64ecada171d525b
 SHA1: 507cf23df046add4562002f34822dcd3e067bee4
 SHA256: 18dc5ccb08e21368b2889093d7a1bc1892b0c5b14411b3d6b45f59b1a17d1702
 SHA512: be1b9e0ef7c25c3178da1296788edac3ce6e33732cffa5c6dbbd52e11ffc50f5805448d9844a54d21aec5ef36d57f22fc1f17d25bf7ffe1dce5b5a17369081cc
