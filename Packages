@@ -6,13 +6,12 @@ Maintainer: leftyfl1p
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./debians/rootful/com.kernelrw.carbridge13_2.0.13_iphoneos-arm.deb
-Size: 431032
-MD5sum: 0333d0b8c2bac06b8a2a80cf34e483d7
-SHA1: c994d2b5b1ccb9b7d24bae5935e2f0e5d0cff8b9
-SHA256: 37ff2ebe9e86bcfaf3e14518657e68fac4b6552e150d87cbdd31a917d52eb6d3
-SHA512: db9c7209bd08f85ee69a4373a4a92fdf363c9c4be0bf42c2b47fddddf7eba4adb05f3392e3b4927a677f1b5f8ff1098ca5707d5ab380a5543d7955b647b996d0
+Size: 430992
+MD5sum: 1439470a8efdd25878d1902022ad4171
+SHA1: 3802c478ae6461e5a30a02ff06d23326b8f3b89d
+SHA256: a414d4dbed55e526e2bfdb6b97ced285f6f1c389d792f37d8a56b2970d37f16c
+SHA512: 10411d418ced6ee42d6b0a37c80e778e32b1a7da519a1c571269430bc2064819d73d32e87e62729670c815a69526bf078eea99a5ea5b77370fc4013186224350
 Description: Open any app in CarPlay!
-Tag: cydia::commercial
 Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
@@ -98,13 +97,12 @@ Maintainer: leftyfl1p
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./debians/rootless/com.kernelrw.carbridge13_2.0.13_iphoneos-arm64.deb
-Size: 434240
-MD5sum: 49fb6e89c11d434a956b7305ce8da45e
-SHA1: ef9c179d824b9e5e8df6fe69a2b55b4955603996
-SHA256: 9822094a334f2882773177114acec50cd66eab4a65f649efa7b14d474152c177
-SHA512: 1bf990ea8d23b1251da05731f3e9c7947dd7799c4db352b34480b3586d5fa0ae7d7dfb4ca1e09aba413b2d7f10139cf08f29caeee4f1d2729a0d49cabcf45aa3
+Size: 434676
+MD5sum: f15de43cf0c047711ccdf5c27617f152
+SHA1: b4ce8469bfa2e083ac0af8eb66ebe44c8ed9ec1b
+SHA256: a60ce087430487008c24717c5bff46f0d8ddd5c9f54f60c3f2f16e73c4a68371
+SHA512: 7fdf9d54aa6d7549699613d8e3f96fdf9bcaed8eb43e5267e288b0327d0053be861e913344cb4b3f69a62b135f7af490dce533ba33ba285cb2bbbbce8a0bb50d
 Description: Open any app in CarPlay!
-Tag: cydia::commercial
 Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
