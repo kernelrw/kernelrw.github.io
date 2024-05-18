@@ -4,19 +4,19 @@
 	"itemCornerRadius": 10,
 	"banners": [
 		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/me.kernelrw.dleasy/screenshots/DLEasy.png?raw=true",
+			"url": "https://github.com/Nef0pam/Nef0pam.github.io/blob/master/depictions/web/me.nef0pam.dleasy/screenshots/DLEasy.png?raw=true",
 			"title": "DLEasy",
-			"package": "me.kernelrw.dleasy",
+			"package": "me.nef0pam.dleasy",
 			"hideShadow": false
 		},
 		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/com.kernelrw.autoscroll/screenshots/AutoScroll.png?raw=true",
+			"url": "https://github.com/Nef0pam/Nef0pam.github.io/blob/master/depictions/web/com.nef0pam.autoscroll/screenshots/AutoScroll.png?raw=true",
 			"title": "AutoScroll",
-			"package": "com.kernelrw.autoscroll",
+			"package": "com.nef0pam.autoscroll",
 			"hideShadow": false
 		},
 		{
-			"url": "https://github.com/nef0pam/nef0pam.github.io/blob/master/depictions/web/com.nef0pam.a-font/screenshots/A-Font.png?raw=true",
+			"url": "https://github.com/Nef0pam/Nef0pam.github.io/blob/master/depictions/web/com.nef0pam.a-font/screenshots/A-Font.png?raw=true",
 			"title": "A-Font",
 			"package": "com.nef0pam.a-font",
 			"hideShadow": false
