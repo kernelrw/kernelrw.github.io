@@ -16,6 +16,23 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
+Package: com.kernelrw.ring
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Yan
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), com.opa334.ccsupport
+Filename: ./debians/rootful/com.kernelrw.ring_1.0.2_iphoneos-arm.deb
+Size: 133188
+MD5sum: 186b8c4649aeea3cf01d94169081b539
+SHA1: d72ac584079d9a69638b8931b7ba75d86cb7438f
+SHA256: b194774dce9f73a35b9eb428da0776cecdbcfc20a89944d34401af41ef76b625
+SHA512: 046d1421940d53fed8587cf44184074bfd7272a43b8abcb51d27ba933cd51b3ffa36bd5d3cfe2d7a301a38b52ce418e24f73f90bb3756194a99731d8b9ed6652
+Description: Effortlessly manage your ringer volume!
+Name: Ring
+Author: Yan
+Icon: https://media.havoc.app/660068a52b78a631ec05699f
+
 Package: com.kernelrw.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -157,6 +174,23 @@ SHA512: be1b9e0ef7c25c3178da1296788edac3ce6e33732cffa5c6dbbd52e11ffc50f5805448d9
 Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb
+
+Package: com.kernelrw.ring
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Yan
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debians/rootless/com.kernelrw.ring_1.0.2_iphoneos-arm64.deb
+Size: 134960
+MD5sum: 95a0b8d8d08f03c53704a18ac9136851
+SHA1: 47586878193c6db41e1dab99015933fa624263d7
+SHA256: 55b008a5afc1f5717680bfbb0181f3f486fd97fc42a697a1b7289d2849bb424c
+SHA512: 55ca42d2a1209b6949b27d1f8dcc657b897a15fec384a230d00470bbdc850af3cd64f0253df19e933457cfe37cb9113429657523e6fec8571aafede20656189c
+Description: Effortlessly manage your ringer volume!
+Name: Ring
+Author: Yan
+Icon: https://media.havoc.app/660068a52b78a631ec05699f
 
 Package: com.kernelrw.snapper3
 Architecture: iphoneos-arm64
