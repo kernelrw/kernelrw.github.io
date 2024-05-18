@@ -33,6 +33,21 @@ Name: Ring
 Author: Yan
 Icon: https://media.havoc.app/660068a52b78a631ec05699f
 
+Package: com.kernelrw.rosemary
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: kernrlrw
+Filename: ./debians/rootful/com.kernelrw.rosemary_1.0_iphoneos-arm.deb
+Size: 252376
+MD5sum: 1fdd06db06a0377cc7e335807162602a
+SHA1: a427ae5e8029066ed12fb86b4664b3e148312ff4
+SHA256: a080c24aadbbacd18bfef237479f782088b63d8b29fba082512df9570630a23b
+SHA512: 46e94627641f456ab496bb1328580717f85a2c686013310f9252a8f08966352d33e322a3a69de50911cb50dc5d2ca8d385431a74074566c8562336072371d7be
+Description: Rosemary font for A-Font
+Name: Rosemary
+Author: kernelrw
+
 Package: com.kernelrw.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -191,6 +206,21 @@ Description: Effortlessly manage your ringer volume!
 Name: Ring
 Author: Yan
 Icon: https://media.havoc.app/660068a52b78a631ec05699f
+
+Package: com.kernelrw.rosemary
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: kernrlrw
+Filename: ./debians/rootless/com.kernelrw.rosemary_1.0_iphoneos-arm64.deb
+Size: 252360
+MD5sum: 479c151b407a473d812d7fe0c19fe259
+SHA1: cb170da6959845bf2c9aeaae480746b8cfa50cde
+SHA256: 0524bcf00f7e07037e4650eb62c2bd38f6515a62c8e26f3d1f1bfe3b7414c308
+SHA512: 885773b17e4eedb806dcdf1cd351318478e09d0ba8a5067736d6c3fa4fb8159486e8d54db128a74875ca406dea138ac1102d82a8d2469856b79d6f8ebfec1eab
+Description: Rosemary font for A-Font
+Name: Rosemary
+Author: kernelrw
 
 Package: com.kernelrw.snapper3
 Architecture: iphoneos-arm64
