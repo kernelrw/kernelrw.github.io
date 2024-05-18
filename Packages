@@ -16,6 +16,24 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
+Package: com.kernelrw.snapper3
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debians/rootful/com.kernelrw.snapper3_1.2.1_iphoneos-arm.deb
+Size: 1024304
+MD5sum: 18bd69cdc698da0e81fb31e537df9086
+SHA1: a0e38c2979200695cd57ffd42d3e0cb70fb3bec3
+SHA256: 3bf0f1dd6eca84df20e4a28678e3f83a252d7ec88e63cb114e2ab14de025ede3
+SHA512: bb1a4c6a5f66b9f8d62f8c4b1a289dc35f429242c7daf3ccb974e682299bda686858cf4c56aaa828f1445e113b120fdc20c36edb51ade8db836836b98d8fd009
+Description: Pin screenshots on the screen.
+Name: Snapper 3
+Author: Jonathan Winger-lang
+
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
 Version: 1.0
@@ -139,6 +157,24 @@ SHA512: be1b9e0ef7c25c3178da1296788edac3ce6e33732cffa5c6dbbd52e11ffc50f5805448d9
 Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb
+
+Package: com.kernelrw.snapper3
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debians/rootless/com.kernelrw.snapper3_1.2.1_iphoneos-arm64.deb
+Size: 1032652
+MD5sum: 9785748810e2490dbb70f71b0075cec3
+SHA1: 208baac646dac0311c7e20e979bc3ff049dc75cf
+SHA256: 9134567e6d88d75e5ff3e94e9b1cd38804cb3767dd802b3a310f863dcb62cec3
+SHA512: 40ced1c1e242f709ff199fe4e405fc0a7f3e92292351d50d7cafa924a19ae2b0c0b3d47c1b3c3580d96788ec258b4e25ece127b5a4e72beb16cdd813ef897ac3
+Description: Pin screenshots on the screen.
+Name: Snapper 3
+Author: Jonathan Winger-lang
 
 Package: emt.kernelrw.xinamine
 Architecture: iphoneos-arm64
