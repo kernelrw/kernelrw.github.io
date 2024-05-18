@@ -4,15 +4,15 @@
 	"itemCornerRadius": 10,
 	"banners": [
 		{
-			"url": "https://github.com/nef0pam/nef0pam.github.io/blob/master/depictions/web/me.nef0pam.dleasy/screenshots/DLEasy.png?raw=true",
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/me.kernelrw.dleasy/screenshots/DLEasy.png?raw=true",
 			"title": "DLEasy",
-			"package": "me.nef0pam.dleasy",
+			"package": "me.kernelrw.dleasy",
 			"hideShadow": false
 		},
 		{
-			"url": "https://github.com/nef0pam/nef0pam.github.io/blob/master/depictions/web/com.nef0pam.autoscroll/screenshots/AutoScroll.png?raw=true",
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/com.kernelrw.autoscroll/screenshots/AutoScroll.png?raw=true",
 			"title": "AutoScroll",
-			"package": "com.nef0pam.autoscroll",
+			"package": "com.kernelrw.autoscroll",
 			"hideShadow": false
 		},
 		{
