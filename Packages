@@ -48,6 +48,23 @@ Description: Rosemary font for A-Font
 Name: Rosemary
 Author: kernelrw
 
+Package: com.kernelrw.saferespring
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: nicho1asdev
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.kernelrw.saferespring_0.0.1_iphoneos-arm.deb
+Size: 5680
+MD5sum: cd0fa721a026cd3aad9abfef789c1ad7
+SHA1: 3a7fff5e02a4c8a112231b9048c8e393866b2372
+SHA256: 05fb01f10923281fb91ae55437311d88163dfec15a3c59147b8a0a9bbf4ab610
+SHA512: 2a9b31d0e9737288250dc01efee673170e043acae76a52927698e71b2daed2d1319a89cfdd66892cdd06b6b496ddb28625b0a62d42576c225f6d12a8c3213ea2
+Description: A tweak to hopefully save you when your device gets frozen to be able to respring by pressing the volume buttons in a specific pattern.
+Name: SafeRespring
+Author: nicho1asdev
+
 Package: com.kernelrw.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -221,6 +238,23 @@ SHA512: 885773b17e4eedb806dcdf1cd351318478e09d0ba8a5067736d6c3fa4fb8159486e8d54d
 Description: Rosemary font for A-Font
 Name: Rosemary
 Author: kernelrw
+
+Package: com.kernelrw.saferespring
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: nicho1asdev
+Installed-Size: 200
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.saferespring_0.0.1_iphoneos-arm64.deb
+Size: 6320
+MD5sum: eb13bdd51491c6529b3aa62b8e02d38d
+SHA1: f442ef5bcbc7f6c482dcc707e2564c472e32ba6c
+SHA256: 745e3e2eeeb88160c379097caeb02641a91d28c76faebd4f71dab143f76b0072
+SHA512: b99584eb0c3ed25525a744fc8d66833494397ffea6e6feebf8bf2eb6118df3fdc1601e50b6d46e5d66ed9c53c1be4208b6b85371df2a7386e45c422bfe445fbc
+Description: A tweak to hopefully save you when your device gets frozen to be able to respring by pressing the volume buttons in a specific pattern.
+Name: SafeRespring
+Author: nicho1asdev
 
 Package: com.kernelrw.snapper3
 Architecture: iphoneos-arm64
