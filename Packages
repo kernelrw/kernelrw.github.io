@@ -136,6 +136,22 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: me.kernelrw.stageduo
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: tomt000
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debians/rootful/me.kernelrw.stageduo_1.1.1_iphoneos-arm.deb
+Size: 4556092
+MD5sum: d2a3076d074678e11f2d99f396af2aec
+SHA1: 8a1862b0b3e56a67dc66e60176f12e0eb58c8363
+SHA256: 28cc9b9a68058c51706091023dfc1c9eabd289328c13eb577f2bc4cff19f5581
+SHA512: be02f5ac2a29379b5758d9383b41ea984d7692bf96f231e0517106caf0904700360bc6fb44fd3c31085825dac0b4a34c9a13a61afd50e27d6e03385eb0e3231e
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage
+Author: tomt000
+
 Package: com.kernelrw.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -383,6 +399,22 @@ Description: Download/Share images & videos from social apps easily!
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.stageduo
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: tomt000
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debians/rootless/me.kernelrw.stageduo_1.1.1_iphoneos-arm64.deb
+Size: 4584612
+MD5sum: 247bbad9acb8df871c8172e9e0723e09
+SHA1: 6ec29acdbd182d65fecdcf17d6a58642f8dee6d0
+SHA256: e36769d105ba725736fc9e7fad488b6db871640a3fa9c6c9dbe62cd101a46a69
+SHA512: 64eec85d4365c916e9275500bfeca4d1209fccfc19e601eeebdec2278d1e2ddc90fbba68884d8130b0aa74b2e8809f0071d53aaef761559d23f3ce771e4cd1bf
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage
+Author: tomt000
 
 Package: wiki.kernelrw.chromatic
 Architecture: iphoneos-arm64
