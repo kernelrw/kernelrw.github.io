@@ -1,3 +1,20 @@
+Package: com.jontelang.snapper3
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debians/rootful/com.jontelang.snapper3_1.2.1_iphoneos-arm.deb
+Size: 1022232
+MD5sum: 578b02b4a587247af8c3c657173f91e2
+SHA1: 2e95fa8590d717195e45ba99e00c141dd5cf40e9
+SHA256: 97427227e7f6e64669e1c9b944ed48dcabd67cfc7b5deac910a0a1533da87d64
+SHA512: 646ac978d26fa71cc117937619611e6ea64699c7cb05aee822e844f863395c430ca4bf7329b00bbcba458bedbc915c8031478b6cfbb0812e2bc34dc2c1b2bf50
+Description: Pin screenshots on the screen.
+Name: Snapper 3
+Author: Jonathan Winger-lang
+
 Package: com.kernelrw.carbridge13
 Architecture: iphoneos-arm
 Version: 2.0.13
@@ -64,24 +81,6 @@ SHA512: 2a9b31d0e9737288250dc01efee673170e043acae76a52927698e71b2daed2d1319a89cf
 Description: A tweak to hopefully save you when your device gets frozen to be able to respring by pressing the volume buttons in a specific pattern.
 Name: SafeRespring
 Author: nicho1asdev
-
-Package: com.kernelrw.snapper3
-Architecture: iphoneos-arm
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Jonathan Winger-lang
-Installed-Size: 4148
-Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
-Filename: ./debians/rootful/com.kernelrw.snapper3_1.2.1_iphoneos-arm.deb
-Size: 1024304
-MD5sum: 18bd69cdc698da0e81fb31e537df9086
-SHA1: a0e38c2979200695cd57ffd42d3e0cb70fb3bec3
-SHA256: 3bf0f1dd6eca84df20e4a28678e3f83a252d7ec88e63cb114e2ab14de025ede3
-SHA512: bb1a4c6a5f66b9f8d62f8c4b1a289dc35f429242c7daf3ccb974e682299bda686858cf4c56aaa828f1445e113b120fdc20c36edb51ade8db836836b98d8fd009
-Description: Pin screenshots on the screen.
-Name: Snapper 3
-Author: Jonathan Winger-lang
 
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
@@ -152,6 +151,23 @@ SHA512: 011fa9f12d840a815d72c46248722c3446509c63b8a8cda75f62432702547bcf537f6da7
 Description: Stage Manager Reimagined for iPhone
 Name: Dynamic Stage
 Author: tomt000
+
+Package: com.jontelang.snapper3
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debians/rootless/com.jontelang.snapper3_1.2.1_iphoneos-arm64.deb
+Size: 1031844
+MD5sum: 753cf87681d9caa1fdc472a045a90812
+SHA1: 5b159c6be5dfda5170503fac588b90aa51e4b66b
+SHA256: 40b20c2482d79ed86ade5a2ab447ecc14bac7da3ad2224a19f2e8b3f7a381fcd
+SHA512: 9833e308b671333d053d8d02a1789538a8f1515188bfaacc713535401f3181951cba4a3bb1eeea756dd8b8e2f09fed01ef90063fd94d7a7232a646b18719d912
+Description: Pin screenshots on the screen.
+Name: Snapper 3
+Author: Jonathan Winger-lang
 
 Package: com.kernelrw.autoscroll
 Architecture: iphoneos-arm64
@@ -272,24 +288,6 @@ SHA512: b99584eb0c3ed25525a744fc8d66833494397ffea6e6feebf8bf2eb6118df3fdc1601e50
 Description: A tweak to hopefully save you when your device gets frozen to be able to respring by pressing the volume buttons in a specific pattern.
 Name: SafeRespring
 Author: nicho1asdev
-
-Package: com.kernelrw.snapper3
-Architecture: iphoneos-arm64
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Jonathan Winger-lang
-Installed-Size: 4148
-Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
-Filename: ./debians/rootless/com.kernelrw.snapper3_1.2.1_iphoneos-arm64.deb
-Size: 1032652
-MD5sum: 9785748810e2490dbb70f71b0075cec3
-SHA1: 208baac646dac0311c7e20e979bc3ff049dc75cf
-SHA256: 9134567e6d88d75e5ff3e94e9b1cd38804cb3767dd802b3a310f863dcb62cec3
-SHA512: 40ced1c1e242f709ff199fe4e405fc0a7f3e92292351d50d7cafa924a19ae2b0c0b3d47c1b3c3580d96788ec258b4e25ece127b5a4e72beb16cdd813ef897ac3
-Description: Pin screenshots on the screen.
-Name: Snapper 3
-Author: Jonathan Winger-lang
 
 Package: emt.kernelrw.xinamine
 Architecture: iphoneos-arm64
