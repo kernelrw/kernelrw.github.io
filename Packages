@@ -1,3 +1,37 @@
+Package: me.tomt000.stageduo
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 8316
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debians/me.tomt000.stageduo_1.1.1_iphoneos-arm.deb
+Size: 4555632
+MD5sum: 274d4acf8eeb2d5e6db6e2c63c2929ec
+SHA1: 55533398b6825f67cce9fe0313b76aa81beaf229
+SHA256: 7bec135ca7779a813989d5788f3a57ad468cba919904bc7122a3a04919fb833f
+SHA512: 011fa9f12d840a815d72c46248722c3446509c63b8a8cda75f62432702547bcf537f6da74e5e5828a6d5e8806678301fcd861a6cc99538e9a299212e7f943162
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage
+Author: tomt000
+
+Package: me.tomt000.stageduo
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 8316
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debians/me.tomt000.stageduo_1.1.1_iphoneos-arm64.deb
+Size: 4597854
+MD5sum: 96139068cb49b5092a1f4648839fcb22
+SHA1: 7cfad56578d2f9cd64694b07f2dd3116bd32dcaf
+SHA256: 69e9ecc5da69a453b68a71f95ff83a87ad5e9e45ba5df1f22d2b2b01350e1f7a
+SHA512: b6ad09043ded89cf53fcfb9c3432b1fbc6202df764196e4585e42c87c4799796c7db65c24afed1caedd83628521da851e7200c803b697f84de02a620a722d948
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage
+Author: tomt000
+
 Package: com.kernelrw.carbridge13
 Architecture: iphoneos-arm
 Version: 2.0.13
