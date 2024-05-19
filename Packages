@@ -384,3 +384,24 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: wiki.kernelrw.chromatic
+Architecture: iphoneos-arm64
+Version: 2.1-Rootless
+Section: Packaging
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debians/rootless/wiki.kernelrw.chromatic_2.1-Rootless_iphoneos-arm64.deb
+Size: 3472396
+MD5sum: 18b99123daf31df216b598c3402bd4b1
+SHA1: 5f18fdb353a7519530305249b3c5ffbca9ff01b6
+SHA256: 2e061b25f5edf7fbce85afd47649251116d1fc92a86a8802042a0ae575dbb17f
+SHA512: 62788a512393a2a4261631e56c743ca656bd1329df440d70d63d6173e3a7affb4398e7d89c7306c3d2da484cd6ea80af922d8c6380eab85197803811086b58fa
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful. Crazy
+Name: Saily
+Author: Saily Team <support.0xa1@qaq.wiki>
+Website: https://sailyteam.github.io/Saily/index.html
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
