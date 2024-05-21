@@ -240,6 +240,22 @@ Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb
 
+Package: com.kernelrw.regram
+Architecture: iphoneos-arm64
+Version: 1.0-beta4
+Section: Tweaks
+Maintainer: Fouad Raheb
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.regram_1.0-beta4_iphoneos-arm64.deb
+Size: 5721352
+MD5sum: fe481ad0edde29ef92e270c6c3e3ccdf
+SHA1: fa168a8ea414c8c4253c66e7d3a03a5dffb3db3a
+SHA256: 83d547aaabd3ff4184ec64ab2e8d9acbc845fcf8fb1ebda6136b84c38fca6e61
+SHA512: 5b0799544e9d9420b1205389b52c088b9c5dd9707fd3199c244c9c0b7f22b958979ee70d964d212a4e34d411493488ca272798f8931de2af0633215b6193a7ea
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb
+
 Package: com.kernelrw.ring
 Architecture: iphoneos-arm64
 Version: 1.0.2
