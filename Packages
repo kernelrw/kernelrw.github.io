@@ -305,6 +305,44 @@ Description: A tweak to hopefully save you when your device gets frozen to be ab
 Name: SafeRespring
 Author: nicho1asdev
 
+Package: com.kernelrw.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.32
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6644
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.23)
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/rootless/com.kernelrw.watusi3_1.2.32_iphoneos-arm64.deb
+Size: 1980112
+MD5sum: b0ce517fa3708af38ec4f1a8f42cb370
+SHA1: 6b8fd4f99196fc6b5900df0bd46e60abb95a53d4
+SHA256: 7bcde2e63293c0a9d80f22a6fc5e89c1f92491a80659ea5693dab5e57ff26047
+SHA512: 66649a990cac62294f08fdfcd1999a83fa7bc9711fd24e2f5d2b4fad92e492826e40418962b825266241526fed9d7b8ea9f315de2b49b84e575eb08e7b29e3f7
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.kernelrw.watusitools
+Architecture: iphoneos-arm64
+Version: 2.4.25
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/rootless/com.kernelrw.watusitools_2.4.25_iphoneos-arm64.deb
+Size: 4505280
+MD5sum: 548dc122554d72b2d0f94b4d140824ef
+SHA1: 8f3a2e461db1257f0e77bc89fcfc4185a8065091
+SHA256: 4bf5f19ed9c295a9a1e0bfa4b5ec08227ceb3342cc6cca04efab202a897a43fb
+SHA512: e040a7c3c1b2abe4c9a574f0eca4123d40130016721ebe1093b78eade325b0dd25741896e039c5b40f4eace26a14bdd25507d5575961e1b5e4ed3c2da3bede2e
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: emt.kernelrw.xinamine
 Architecture: iphoneos-arm64
 Version: 0.0.5-1
