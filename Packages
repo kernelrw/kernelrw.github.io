@@ -305,6 +305,22 @@ Description: A tweak to hopefully save you when your device gets frozen to be ab
 Name: SafeRespring
 Author: nicho1asdev
 
+Package: com.kernelrw.swiftgramplus
+Architecture: iphoneos-arm64
+Version: 4.2.0
+Section: Tweaks
+Maintainer: Randy420
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.swiftgramplus_4.2.0_iphoneos-arm64.deb
+Size: 378964
+MD5sum: a4e27202c1a0bcae5949d956902048ec
+SHA1: 0deec70112b6b39cf46b4ca2176e7f2357979e24
+SHA256: abf476f77e6e6aa5d450c710fff5999f73ebbbd973286e664a0005b48e9ac261
+SHA512: e59e50739236090d3aa306905a02a9dc258595833180043170a2b248889086f8878685a2680daeedafae460bccdeadc1b5ab953efc840b0c733becc1b95ca243
+Description: Remove ALL chat block restrictions (including 18+) & enables stealth mode for stories.
+Name: Swiftgram++
+Author: Randy420
+
 Package: com.kernelrw.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.32
