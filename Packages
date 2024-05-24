@@ -240,6 +240,22 @@ Description: Disables almost all region differences/restrictions on iOS devices.
 Name: Globalize
 Author: parrotgeek1
 
+Package: com.kernelrw.haptic16
+Architecture: iphoneos-arm64
+Version: 0.8
+Section: Tweaks
+Maintainer: Brandon Plank
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.haptic16_0.8_iphoneos-arm64.deb
+Size: 13040
+MD5sum: 817020626aaf3df1be8dcb0b43650a35
+SHA1: 02699351aabd8fd334c875768518bab8b29e5897
+SHA256: d33d362c684d63b48d077976f3488475a7d47435241902f0d804f2add933e140
+SHA512: 69ad183f293f8e8a07e767e72c5bb1fe179cfa03ba64e1a9e79a2f659ded87bd2ab9b277ec20bd7477b0186b69cf373a8abaa324edea99ae486e4417dd2b73f1
+Description: Puts haptics in places apple should have!
+Name: Haptic rootless (12.0 -17.5.1)
+Author: Brandon Plank
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64
 Version: 1.0-beta1
