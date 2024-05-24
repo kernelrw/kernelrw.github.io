@@ -328,15 +328,15 @@ Section: Tweaks
 Maintainer: Antoine
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17)
 Filename: ./debians/rootless/com.kernelrw.senri_1.1_iphoneos-arm64.deb
-Size: 204828
-MD5sum: 9e64b4c8754a9f8962bdf26792468ce3
-SHA1: 64e9a339ee479e9e4f769e1319bbb7cb1af0214a
-SHA256: 35dc9c63099d58454af8fd0f1815c2982542a2ba016e627d2da1836d6642db1b
-SHA512: 86458cd417e74fcb7811811b75d977c02c66255e9f39a827a7e1946d994186227913dca8f39dd70ed8e4fc30db91fc943306414184d900e4ef163ac1676872c2
-Description: Notifications logs
-Name: Senri
+Size: 204976
+MD5sum: 24873c6c06eee9e065794d074eb4945d
+SHA1: 786531068a80ec0405b8de15f0ce98bf8646e5c1
+SHA256: 65afbf3174c87084cf1d8f4a70e5f9909767915b4ec59d64358063a9c501cae2
+SHA512: 5cc7b015832d8161e59c182b6934d502df4d2537a5fb5319e954dc57528040700a03ee972ee6626f166dfc829489d40962318a90a1931de1df68adcb46c6b3a9
+Description: Never lose your Notifications again.
 Author: Antoine
-Sponsor: Antoine
+Name: Senri
+Icon: https://img.chariz.cloud/icon/senri/icon@3x.png
 
 Package: com.kernelrw.swiftgramplus
 Architecture: iphoneos-arm64
