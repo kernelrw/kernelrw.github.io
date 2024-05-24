@@ -256,6 +256,26 @@ Description: Puts haptics in places apple should have!
 Name: Haptic rootless (12.0 -17.5.1)
 Author: Brandon Plank
 
+Package: com.kernelrw.letmeknow
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.letmeknow_1.4.2_iphoneos-arm64.deb
+Size: 26468
+MD5sum: 59365597fb292e26e9ebcfd68a56e823
+SHA1: dfab10a0a2c998abd6695d4d33a919aa2be5e762
+SHA256: 1a1adc09f2d18329c437837c1e5c8f073ffa38cdfa4634f32440831e4b88b82c
+SHA512: e482c1c638f33e78b113de5fa23c6536e95f338b1c79c33e92130f62b025e7f6af146aad3c2416e5fbc7d45a8c61e51ebf79f40338e8b8b91e73023a25dc04da
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Name: LetMeKnow
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.letmeknow/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.letmeknow
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.letmeknow.json
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64
 Version: 1.0-beta1
