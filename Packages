@@ -189,6 +189,22 @@ Depiction: https://d.plutorepo.com/posts/AutoScroll
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
 
+Package: com.kernelrw.autotooth
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Tr1fecta
+Depends: firmware (>=11.0), firmware (>= 11.0),  mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3) , emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.autotooth_1.0_iphoneos-arm64.deb
+Size: 21436
+MD5sum: b709d74b34ae61aaa15200d775a53f47
+SHA1: 648fa60fb7fd9492d595e7d4830346e4dda32d64
+SHA256: 60f76bab64c77dbad67119520db08fd323758e56b064c49c50a02d5929e93b8c
+SHA512: 30b5d93b2f0de35c6a2728e07737fe35f6c6d8ad3c4405becdbb803e0b075ad25b8af4703e416874ef4e1b860a55d0a393d1558d1f72b11d577435ceb9278d2e
+Description: Control your BlueTooth & WiFi .
+Name: AutoTooth
+Author: Tr1fecta
+
 Package: com.kernelrw.carbridge13
 Architecture: iphoneos-arm64
 Version: 2.0.13
@@ -304,6 +320,23 @@ SHA512: b99584eb0c3ed25525a744fc8d66833494397ffea6e6feebf8bf2eb6118df3fdc1601e50
 Description: A tweak to hopefully save you when your device gets frozen to be able to respring by pressing the volume buttons in a specific pattern.
 Name: SafeRespring
 Author: nicho1asdev
+
+Package: com.kernelrw.senri
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Antoine
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17)
+Filename: ./debians/rootless/com.kernelrw.senri_1.1_iphoneos-arm64.deb
+Size: 204828
+MD5sum: 9e64b4c8754a9f8962bdf26792468ce3
+SHA1: 64e9a339ee479e9e4f769e1319bbb7cb1af0214a
+SHA256: 35dc9c63099d58454af8fd0f1815c2982542a2ba016e627d2da1836d6642db1b
+SHA512: 86458cd417e74fcb7811811b75d977c02c66255e9f39a827a7e1946d994186227913dca8f39dd70ed8e4fc30db91fc943306414184d900e4ef163ac1676872c2
+Description: Notifications logs
+Name: Senri
+Author: Antoine
+Sponsor: Antoine
 
 Package: com.kernelrw.swiftgramplus
 Architecture: iphoneos-arm64
