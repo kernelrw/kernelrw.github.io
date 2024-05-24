@@ -232,11 +232,11 @@ Installed-Size: 3120
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debians/rootless/com.kernelrw.crane_1.3.14-6_iphoneos-arm64.deb
-Size: 534384
-MD5sum: fb3b60bdf1b45cf8b1e75c624797f394
-SHA1: 8845f7b6a8a7dbda7032bea6f711576df7dd4a3a
-SHA256: 2efab306214e611e4100dd6dd06aaf1c1078d287cd87b665b8ccbce45598ba47
-SHA512: 516f7fd6b960f6433156e3be7ad6882a2fe5835fa4eddf74d647de16bdeff1032060466697215c2c8363c4832086bd928fdccc45e472df26791b4107e622b53b
+Size: 571288
+MD5sum: 508db1461d081e4fd3e102c040471559
+SHA1: 7662d61bef9492dd4ab983d514f929108400f2ad
+SHA256: eb9c63a48d114b14c0f332ca5f1ed0ff01233ae82981cfed824235dfa5cea54d
+SHA512: 4934cf6b2095bb6d55ad13c7203282971956904e93c590ed3313d6558cc11bb3c582c346ae7692d373d966c6cfa44fc7e4b271356caed59947c2f2cec5946f71
 Description: Multiple containers for your applications!
 Name: Crane
 Author: opa334
