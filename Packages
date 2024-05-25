@@ -560,14 +560,14 @@ Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
 Maintainer: MiRO <tweaks_support@miro92.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>= 1.0.2), com.opa334.libsandy
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.kernelrw.libmiroshared (>= 1.0.2), com.opa334.libsandy
 Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
 Filename: ./debians/rootless/com.kernelrw.yellowpages2_1.1_iphoneos-arm64.deb
-Size: 239788
-MD5sum: d21a4364c8c13b5538ede2f2125a1188
-SHA1: 10bcecb3f02ca0133e07dcab03f48230ebc702da
-SHA256: ba2d2804934fc9b342da956b5bd096d99cb5879f75a985906e5ada6ea8f2b87f
-SHA512: 04a755d26c0a98b450e178b0fcb0d2f453dd28312a1b26ee31e603ab2c24287f9b7f8f72896fa9819357d5ec3c38191b19c4e0aa12a1416161610282a6ad276a
+Size: 239980
+MD5sum: b1fbd989b32c4cf76075729e60d4273a
+SHA1: 1b707ce9d7fb5c682529b255438579886e33e427
+SHA256: f0972254c298d0aa1f2d78200e05a0e980962a66d02f3a22d1978215ce91f2b6
+SHA512: 211f7af508fe91865fbcc91259a74f738c77b5062e04295a5a29665f5fec2666125b50e4f41c05293069fbcbbd8ab2a9cab2bb6772afb12f92989802ff8e2e4d
 Description: Say Goodbye to Unknown Callers
 Tag: purpose::extension, compatible_min::ios14
 Name: YellowPages 2
