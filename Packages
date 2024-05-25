@@ -593,6 +593,23 @@ Name: YouTubePatcher
 Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
 
+Package: dev.kernelrw.kayoko
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 956
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/rootless/dev.kernelrw.kayoko_1.4.2_iphoneos-arm64.deb
+Size: 79772
+MD5sum: 2ffadbe61f5af93f02c48c84eb2ae86c
+SHA1: 3855a36a3e57685509ee8684b01e7edefd2a04fe
+SHA256: 657b8f0193a53058d44cd95ad6d01056e89114c79e433a5d14f13345a3fe464f
+SHA512: b292407a6b3d6918fc61d93498a424c862f459f39f551b720480456bcccebfe3e66a6a738e0c8547767bead042c9a5f897a97e4a0203e15376e8ca74129410f9
+Description: Feature rich clipboard manager for iOS
+Name: Kayoko
+Author: Traurige <hello@traurige.dev>
+
 Package: emt.kernelrw.xinamine
 Architecture: iphoneos-arm64
 Version: 0.0.5-1
