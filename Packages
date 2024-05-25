@@ -241,6 +241,29 @@ Description: Multiple containers for your applications!
 Name: Crane
 Author: opa334
 
+Package: com.kernelrw.digitalbattery13
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 509
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg.batterypercent12, com.dpkg.arkrome, ca.ndoizo.perxent, com.asterix.modernbatteryx, com.laughingquoll.cowbell, com.peterdev.half, com.asterix.digitalnotchedbattery
+Filename: ./debians/rootless/com.kernelrw.digitalbattery13_1.1.0_iphoneos-arm64.deb
+Size: 40000
+MD5sum: 51c1ba679e3b31bb62e2273be225bfb6
+SHA1: 1b2379431b2e6e8568c1da13305b958c42dc98e1
+SHA256: 6fa69f7f7a55a82c137498f269209ea39c506d2120e46dfaa149306c4d4339e6
+SHA512: 5ec8e7d0fef4c5d0aeaa2ba30a0cfffc9a2f546754aa97a848becdbb5f0295a931ea140da91105b3a543a73388db4df865d07259f0035ac4bec370032d2ab0d0
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Description: Digital battery in statusbar for iOS13 - iOS16
+Author: Asterix <asterix_gaul@outlook.com>
+Name: DigitalBattery
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: asterix
+Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
+
 Package: com.kernelrw.globalize
 Architecture: iphoneos-arm64
 Version: 0.3.2
