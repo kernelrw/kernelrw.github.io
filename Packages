@@ -337,6 +337,24 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.letmeknow/icon.
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.letmeknow
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.letmeknow.json
 
+Package: com.kernelrw.libmiroshared
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>= 14.0)
+Filename: ./debians/rootless/com.kernelrw.libmiroshared_1.0.2_iphoneos-arm64.deb
+Size: 733612
+MD5sum: 1f22675e7f3fc94edf433f39a0bba6f1
+SHA1: 6d1d9d47d50cfa45faac2549873ba102d9c14b79
+SHA256: cdca8e7e20b9b7ddd181b67d5cb7b9858d328359c2d4d96ea0ac21c222db7d7c
+SHA512: a2831e50e3f3578bf116ebb290e014b3d30786d42d86d422770c198c27a50349c52069a3eec27bf14bd7ea062eb6941672fe8ae96247dd6e4310d76fa8e9a496
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Name: libMiROShared
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64
 Version: 1.0-beta1
@@ -536,6 +554,26 @@ Description: Library for Watusi and WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.kernelrw.yellowpages2
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>= 1.0.2), com.opa334.libsandy
+Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
+Filename: ./debians/rootless/com.kernelrw.yellowpages2_1.1_iphoneos-arm64.deb
+Size: 239788
+MD5sum: d21a4364c8c13b5538ede2f2125a1188
+SHA1: 10bcecb3f02ca0133e07dcab03f48230ebc702da
+SHA256: ba2d2804934fc9b342da956b5bd096d99cb5879f75a985906e5ada6ea8f2b87f
+SHA512: 04a755d26c0a98b450e178b0fcb0d2f453dd28312a1b26ee31e603ab2c24287f9b7f8f72896fa9819357d5ec3c38191b19c4e0aa12a1416161610282a6ad276a
+Description: Say Goodbye to Unknown Callers
+Tag: purpose::extension, compatible_min::ios14
+Name: YellowPages 2
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
 Package: com.kernelrw.youtopia
 Architecture: iphoneos-arm64
