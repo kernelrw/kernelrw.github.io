@@ -431,6 +431,54 @@ Description: Remove ALL chat block restrictions (including 18+) & enables stealt
 Name: Swiftgram++
 Author: Randy420
 
+Package: com.kernelrw.visionkeysaurora
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootless/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm64.deb
+Size: 511188
+MD5sum: 82ea772672edff4a233690090caaa5b0
+SHA1: 238323ecabfa877239e2d06990bb8a0721a190a1
+SHA256: 2c922883cdefe41e5f7f2b182fb1f3330865e9d123cef85484c86c56b6f5a621
+SHA512: 683119c1d35f3ff6cea9e6b40bb014d81235630b29581d57b7a2c1c5276a85570b3f7750fed48648a544fe5e56a05bcdd47a960e37712ed2c18399b5f7ea5aef
+Description: A beautiful Dark Blue theme for Laetus .
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.kernelrw.visionkeyscelestia
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootless/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm64.deb
+Size: 967988
+MD5sum: f3c91fc2fda453dee91eb6b53dc8d84f
+SHA1: 605f96bb2f33af223f401ee65dd816ea01c40550
+SHA256: ea20e5816c7f48d36698c1d28ae866896e75fdd73a0106f23a35778fd92ead7e
+SHA512: 2a709a0cda610e09b9aca2e47bf686f0fd115c8080195627bfed4c936fa73936869e82a6a3927edb18a0cc0a2c73b9f2197b4d9263fb7bccc8bc228fddbe3d0c
+Description: A beautiful Light mode theme for Laetus .
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.kernelrw.visionkeysobsidian
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootless/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm64.deb
+Size: 291572
+MD5sum: 2f8a4d70a7e8b45d21b5a2a3947a9412
+SHA1: c9f3c6b211765929fc8f85715fc23fa03536144e
+SHA256: 97ef291dade59863e99fb8150998b09228fe31ecddf2c348eb2e7b5f1f7c33df
+SHA512: 1d02eaac2ba687058710dc11c28215abf15a1772d31ed194cc1672d4895ac6ab37baabf4b47d3cd750251b2f46b1d164f471612cec8a25b672beb8800a5ebcdd
+Description: A beautiful Dark mode theme for Laetus .
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
 Package: com.kernelrw.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.32
