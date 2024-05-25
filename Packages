@@ -211,18 +211,14 @@ Version: 1.0
 Section: Tweaks
 Maintainer: SGWC <southerngirlwhocode@gmail.com>
 Filename: ./debians/rootless/com.kernelrw.breezy_1.0_iphoneos-arm64.deb
-Size: 47580
-MD5sum: aba0f9bba11fbcee0cf0faa2bf88e2bc
-SHA1: cb0fe6ee93b1f3044ec845a88589fc58c9292928
-SHA256: 97aac08c961260a6303a6cb15928087ce970b7d935175e36dcd063a8d156d58f
-SHA512: be71369f154bb4c71411617ef98f6bb080eae804679c2fe6536c0bef2aae46b6095adc83eda752047b0e64e043acfc364c426eea5a6edcdb9becb226d07b4ff6
-Homepage: https://southerngirlwhocode.github.io/
+Size: 47624
+MD5sum: 0bc10e8c90354f3a9473d6aaf054c45f
+SHA1: 10147b2c7a4a5875f0f45ee1bcb07d7531a4e17b
+SHA256: bb8933e566f9ea2356475a864a4da6e1108e1f57581b18fa53d0cd3ae63d527a
+SHA512: 764fccd3130dbf2d342d5872e6d081596fff0fb95d7bcc9d3d0e1f6d019b47fb40986ce962de45426ff47dc0675c5619b52d40b3b01874d1de6a16c6d8b48cec
 Description: Fake notifications
 Tag: role::enduser
 Name: Breezy
-Depiction: https://southerngirlwhocode.github.io/depiction/web/com.sgwc.breezy.html
-SileoDepiction: https://southerngirlwhocode.github.io/depiction/native/com.sgwc.breezy.json
-ModernDepiction: https://southerngirlwhocode.github.io/depiction/native/com.sgwc.breezy.json
 Icon: https://southerngirlwhocode.github.io/assets/com.sgwc.breezy/icon.png
 Tags: compatible_min::ios15.0, compatible_max::ios16.7.7
 Author: SGWC <southerngirlwhocode@gmail.com>
