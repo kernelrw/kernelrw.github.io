@@ -1,59 +1,3 @@
-Package: com.kernelrw.youtopia
-Architecture: iphoneos-arm64
-Version: 0.0.2
-Section: Tweaks
-Maintainer: sinfool
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/com.kernelrw.youtopia_0.0.2_iphoneos-arm64.deb
-Size: 3800
-MD5sum: b31f9eccfd9596f84cce32420dc0836a
-SHA1: 52f0e8ea253d30d8d7f403fbde913df3bd0af6b5
-SHA256: e4d3c8fc3acab405370e1d291dc43c44941cfaa761e60576daafcbb2d26423a4
-SHA512: b64f7c4eabff41aeedbdd60388bde89262e4cd145ac8e9e96acf42952a5eda7b68f3d919fcc8c65e80e98f869dfe1cbd61acd54f386fad31a2e95f822e8615fd
-Description: YouTopia by sinfool | The perfect YouTube experience!
- - No Home Feed Ads
- - No Video Ads
- - Enable Background Playback
- Officially hosted by MYXXdev
- - https://www.reddit.com/r/jailbreak/s/mK0CmCje9J
-Name: YouTopia
-Author: sinfool
-
-Package: com.kernelrw.youtubedrl
-Architecture: iphoneos-arm64
-Version: 1.0-1+debug
-Section: Tweaks
-Maintainer: Little 34306
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.kernelrw.youtubedrl_1.0-1+debug_iphoneos-arm64.deb
-Size: 3900
-MD5sum: 5e5776e557f71e84d341d6b4f73111b6
-SHA1: 6b0267eb7f10906f6af45f923c9d9fbda81447c4
-SHA256: c5b99bbd389d439ff1a742d7f4cc8ee04a918f15e89f92a867762b3b63cf6bfd
-SHA512: 5c8146391accc0188f56b3608f1633aaca758d6d9cd412d5445dcf8f0e192b7045ba5b96b6acbc794ca1d19f27c189ccf57af2f04a05491c63f68a2d28ce4189
-Description: You'll never seen Ads in Never gonna give you up anymore!
-Name: Youtubed rootless
-Author: 34306
-
-Package: com.kernelrw.youtubepatcher
-Architecture: iphoneos-arm64
-Version: 0.3-3
-Section: Tweaks
-Maintainer: ichitaso
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debians/com.kernelrw.youtubepatcher_0.3-3_iphoneos-arm64.deb
-Size: 2864
-MD5sum: 9fed43bceb352920f6206dbd47495d30
-SHA1: a2004e1fab066cbfc54b5101b10e3a96eafad359
-SHA256: 54f5ec9c6e5b20eeb0a52df54a51e0b8f678887de8e26f1287bf2880df4421b0
-SHA512: 5912a521f9c7ceb9c297695616cc4a60670418b51dd9a085f6bc70c7da8d7665c47b4f4c722fbc9292c349c4b41a9c2d19ca0531b7e901c39452e8acd22bc108
-Description: No inline Ads/Background Play back
-Name: YouTubePatcher
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
-
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -592,6 +536,62 @@ Description: Library for Watusi and WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.kernelrw.youtopia
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: sinfool
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.youtopia_0.0.2_iphoneos-arm64.deb
+Size: 3800
+MD5sum: b31f9eccfd9596f84cce32420dc0836a
+SHA1: 52f0e8ea253d30d8d7f403fbde913df3bd0af6b5
+SHA256: e4d3c8fc3acab405370e1d291dc43c44941cfaa761e60576daafcbb2d26423a4
+SHA512: b64f7c4eabff41aeedbdd60388bde89262e4cd145ac8e9e96acf42952a5eda7b68f3d919fcc8c65e80e98f869dfe1cbd61acd54f386fad31a2e95f822e8615fd
+Description: YouTopia by sinfool | The perfect YouTube experience!
+ - No Home Feed Ads
+ - No Video Ads
+ - Enable Background Playback
+ Officially hosted by MYXXdev
+ - https://www.reddit.com/r/jailbreak/s/mK0CmCje9J
+Name: YouTopia
+Author: sinfool
+
+Package: com.kernelrw.youtubedrl
+Architecture: iphoneos-arm64
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.kernelrw.youtubedrl_1.0-1+debug_iphoneos-arm64.deb
+Size: 3900
+MD5sum: 5e5776e557f71e84d341d6b4f73111b6
+SHA1: 6b0267eb7f10906f6af45f923c9d9fbda81447c4
+SHA256: c5b99bbd389d439ff1a742d7f4cc8ee04a918f15e89f92a867762b3b63cf6bfd
+SHA512: 5c8146391accc0188f56b3608f1633aaca758d6d9cd412d5445dcf8f0e192b7045ba5b96b6acbc794ca1d19f27c189ccf57af2f04a05491c63f68a2d28ce4189
+Description: You'll never seen Ads in Never gonna give you up anymore!
+Name: Youtubed rootless
+Author: 34306
+
+Package: com.kernelrw.youtubepatcher
+Architecture: iphoneos-arm64
+Version: 0.3-3
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.youtubepatcher_0.3-3_iphoneos-arm64.deb
+Size: 2864
+MD5sum: 9fed43bceb352920f6206dbd47495d30
+SHA1: a2004e1fab066cbfc54b5101b10e3a96eafad359
+SHA256: 54f5ec9c6e5b20eeb0a52df54a51e0b8f678887de8e26f1287bf2880df4421b0
+SHA512: 5912a521f9c7ceb9c297695616cc4a60670418b51dd9a085f6bc70c7da8d7665c47b4f4c722fbc9292c349c4b41a9c2d19ca0531b7e901c39452e8acd22bc108
+Description: No inline Ads/Background Play back
+Name: YouTubePatcher
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
 
 Package: emt.kernelrw.xinamine
 Architecture: iphoneos-arm64
