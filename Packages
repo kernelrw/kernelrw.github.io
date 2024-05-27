@@ -414,12 +414,12 @@ Installed-Size: 1012
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, xyz.cypwn.kayoko, byg.iosios.net.kayoko, com.skypain.kayoko
 Filename: ./debians/rootless/com.kernelrw.kayoko_2.0.1-1_iphoneos-arm64.deb
-Size: 112136
-MD5sum: 351c3005108d519e6380fe56fac002d5
-SHA1: 0a0a696a798e27d94d5f3e2f5f21eb573cba1526
-SHA256: 3019dd3b6caf8e27cc866c5eb36f6d788f7ad6683a48ccb6da330bd871e5d35a
-SHA512: 6027ac3b59e22646028579700c78a5fdb941a05c388759cb44b5b368a3fba055528054084b5c2f40b22088d8ad4a2f00819afa8582e4810d41e46bb4a9943380
-Description: kayoko now on Dopamine 2 with , supports iOS15.0 through iOS16.7.7
+Size: 111988
+MD5sum: ef1ddc90e3ccbd8faf195f3c89804bf0
+SHA1: 56b9be489dc6f57e6d3fce17ce0685abf7c35d72
+SHA256: f29c8a2328a98dea32299be20d63d26ead26a3b8d1695e6c20ab1cd110efb22a
+SHA512: 795f26d77e4e076f698470ac58fda5f00e7155a4538ec27a9fe94e9abd52343fdedf4c70c0da682d4c29472ab98fe4cba5a4d14b88d7acf22ea181b6aee179c8
+Description: kayoko now on Dopamine 2 ; supports iOS15.0 through iOS16.7.7
 Name: Kayoko
 Author: Traurige&Lessica
 
