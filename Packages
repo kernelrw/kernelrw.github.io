@@ -1,139 +1,3 @@
-Package: com.kernelrw.byesponsorfb
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: CydiaGeek <lucaluca86@aol.com>
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/com.kernelrw.byesponsorfb_1.0.0_iphoneos-arm64.deb
-Size: 6208
-MD5sum: 2c8c59a6799d12f07d430e67669a182b
-SHA1: 7cfba759ab3e6d3ebe4f21aca838851e12774094
-SHA256: fa1ef9316bfd55bca8f9aac2d4b9d824e9c4d7c225eecd58cc30643329f6adc4
-SHA512: 2b826259813fae5d06f5178431181cf7438d1ff43e35398f6d336fddf1baafdf1cc0ae34f7f6ec2936555502d0f0bd943753751e646016bb1942178f3a58e622
-Description: Bye Bye Facebook ADS!
-Name: ByeSponsorFB
-Author: CydiaGeek <lucaluca86@aol.com>
-
-Package: com.kernelrw.facebooknoads
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: Tweaks
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debians/com.kernelrw.facebooknoads_1.2_iphoneos-arm64.deb
-Size: 4744
-MD5sum: ebad33c6aa2d0426fab3c34448fb0e47
-SHA1: 675b4d7aa332c1397772298a66dd565efb41f5e2
-SHA256: b7b9db98f9220dd8b5d2fbe168e051920752231ebb8fcd1a82f47be88e71f84f
-SHA512: e1b992722451f8cfd40e3272e591d342aad1ed8f4552078b6cf7ac9793c970dae5ce8302d61c96913d62ae84f39636ba0a2e2d4b380d98b2523c3a12851cda67
-Description: No Ads in the Facebook App!
-Name: FacebookNoAds
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
-SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
-
-Package: com.kernelrw.facebooknoads
-Architecture: iphoneos-arm64
-Version: 1.4.1
-Section: Tweaks
-Maintainer: Hao Nguyen
-Installed-Size: 584
-Depends: mobilesubstrate, preferenceloader, com.kernelrw.libhdev (>= 4.6.0), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/com.kernelrw.facebooknoads_1.4.1_iphoneos-arm64.deb
-Size: 254352
-MD5sum: 5fc29ad2b5f4d9fb9be7ea02ecbd670a
-SHA1: 9835755bdafa136c6c1fd2bd527f5f181024d1b2
-SHA256: aebbbfb66e731e18f12656be9ee738b7187d4b01e9abe8f025cbb21e1b285f8e
-SHA512: a2c42e891685f1a3abf86b04d9b0e11c7cdd7fdea0966bdef0cb28f9a9f89e3d6e711a72dc9c0dbceca7dfd55f31c38d2ec2f2de9342fdc7f2f08f617e8f6422
-Description: Free & Open Source Tweak for Facebook
- Free & Open Source Tweak for Facebook
- Change log: https://github.com/haoict/facebook-no-ads/releases
- . 
- Features:
- - Remove Ads
- - Can Download Video (long press to download)
- - Can Download Story
- - Can Only Me Profile Picture
- - Disable Story Seen (See friends's story without letting them know)
- - Hide Composer on News Feed
- - Hide Stories on News Feed
- - Support iOS 12-14
- - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
- . 
- I work very hard to make good, free and open source tweaks for everyone
- If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
- . 
- Thanks a ton
-Name: Facebook No Ads
-Author: Hao Nguyen
-
-Package: com.kernelrw.fbspnosor
-Architecture: iphoneos-arm64
-Version: 1.2.9
-Section: Tweaks
-Maintainer: JacobCXDev <jacobcxdev@gmail.com>
-Installed-Size: 820
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/com.kernelrw.fbspnosor_1.2.9_iphoneos-arm64.deb
-Size: 548500
-MD5sum: 5fbcc496ad0b8a623ca91d03e46ae0f3
-SHA1: d593e529c9049bc3db891f77af28eb91512be32e
-SHA256: 04537833fc8deab4a7b04ce8dc71e037323413616e9dfefc5a82d7cbf011f028
-SHA512: f21d624751b7886688d89930b485d40dac0cb98890dbe5b116fbda5e0a1cbeb609764fd681d03a2cb511db2a43217093eaf65ee1baf5c18c63b81e7139234f6a
-Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
-Name: FBSpNOsor
-Author: JacobCXDev <jacobcxdev@gmail.com>
-
-Package: com.kernelrw.libhdev
-Architecture: iphoneos-arm64
-Version: 4.8.1
-Section: System
-Maintainer: Hao Nguyen <hao.ict56@gmail.com>
-Installed-Size: 316
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/com.kernelrw.libhdev_4.8.1_iphoneos-arm64.deb
-Size: 46096
-MD5sum: 1c5d28feecd44c13ee4bd0156ac27483
-SHA1: 55730dfd2a4ad1c989cf4f385a174848c4f22be5
-SHA256: 64a023c69f9e89a12b7eaa198b45584419f0ca56856276c80e1e7f725c0d3767
-SHA512: 15aabc82d98706e162a257fff21a156541b268a6ecbe2c86bfcdc209c06701220c519ef2e717f896f36fe5bef0059def5b3a0b1ad2cc4370e06a1f3da01d9d05
-Description: This is a developer library for better preferences and useful utilities.
- This is a developer library for better preferences and useful utilities.
- . 
- Change log: 
- - v4.8.1: Minor improvement
- - v4.8.0: Improve performance & reduce package size
- - v4.7.0: Improve media download & fix preferences cell color
- . 
- Github: https://github.com/haoict/libhdev-public
- . 
- © 2021 haoict
-Tag: role::developer
-Name: libhdev
-Author: Hao Nguyen <hao.ict56@gmail.com>
-
-Package: love.kernelrw.lisa
-Architecture: iphoneos-arm64
-Version: 1.5.1
-Section: Tweaks
-Maintainer: Litten
-Installed-Size: 1304
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/love.kernelrw.lisa_1.5.1_iphoneos-arm64.deb
-Size: 806876
-MD5sum: 24409959c864fc10ab3fa721161b5af2
-SHA1: f16633988e96a68395189f0a4cbdf9ffd1a8994a
-SHA256: 667068619cb64dc1bac2c9867ce86c02b6ca05231ea4a714398d7b834bc3c131
-SHA512: c7b4233baf2222ce171f5123344c14c342403d83ae10c13c80bc822c1f9c1ff4f261ff3bd38e3c16dff8265a53304b74304e567426a27c3afb384e82690c1fb0
-Description: Full incoming OLED notifications
-Name: Lisa 💅🏻
-Author: Litten & Esquilli
-Depiction: https://repo.litten.love/depictions/Lisa/index.html
-SileoDepiction: https://repo.litten.love/depictions/Lisa/index.json
-Icon: https://repo.litten.love/depictions/Lisa/assets/icon.png
-
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -361,6 +225,22 @@ Author: SGWC <southerngirlwhocode@gmail.com>
 Sponsor: SGWC <southerngirlwhocode@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.kernelrw.byesponsorfb
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.byesponsorfb_1.0.0_iphoneos-arm64.deb
+Size: 6208
+MD5sum: 2c8c59a6799d12f07d430e67669a182b
+SHA1: 7cfba759ab3e6d3ebe4f21aca838851e12774094
+SHA256: fa1ef9316bfd55bca8f9aac2d4b9d824e9c4d7c225eecd58cc30643329f6adc4
+SHA512: 2b826259813fae5d06f5178431181cf7438d1ff43e35398f6d336fddf1baafdf1cc0ae34f7f6ec2936555502d0f0bd943753751e646016bb1942178f3a58e622
+Description: Bye Bye Facebook ADS!
+Name: ByeSponsorFB
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: com.kernelrw.carbridge13
 Architecture: iphoneos-arm64
 Version: 2.0.13
@@ -420,6 +300,78 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: asterix
 Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
 
+Package: com.kernelrw.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.facebooknoads_1.2_iphoneos-arm64.deb
+Size: 4744
+MD5sum: ebad33c6aa2d0426fab3c34448fb0e47
+SHA1: 675b4d7aa332c1397772298a66dd565efb41f5e2
+SHA256: b7b9db98f9220dd8b5d2fbe168e051920752231ebb8fcd1a82f47be88e71f84f
+SHA512: e1b992722451f8cfd40e3272e591d342aad1ed8f4552078b6cf7ac9793c970dae5ce8302d61c96913d62ae84f39636ba0a2e2d4b380d98b2523c3a12851cda67
+Description: No Ads in the Facebook App!
+Name: FacebookNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
+
+Package: com.kernelrw.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.kernelrw.libhdev (>= 4.6.0), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.facebooknoads_1.4.1_iphoneos-arm64.deb
+Size: 254352
+MD5sum: 5fc29ad2b5f4d9fb9be7ea02ecbd670a
+SHA1: 9835755bdafa136c6c1fd2bd527f5f181024d1b2
+SHA256: aebbbfb66e731e18f12656be9ee738b7187d4b01e9abe8f025cbb21e1b285f8e
+SHA512: a2c42e891685f1a3abf86b04d9b0e11c7cdd7fdea0966bdef0cb28f9a9f89e3d6e711a72dc9c0dbceca7dfd55f31c38d2ec2f2de9342fdc7f2f08f617e8f6422
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 12-14
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Facebook No Ads
+Author: Hao Nguyen
+
+Package: com.kernelrw.fbspnosor
+Architecture: iphoneos-arm64
+Version: 1.2.9
+Section: Tweaks
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.fbspnosor_1.2.9_iphoneos-arm64.deb
+Size: 548500
+MD5sum: 5fbcc496ad0b8a623ca91d03e46ae0f3
+SHA1: d593e529c9049bc3db891f77af28eb91512be32e
+SHA256: 04537833fc8deab4a7b04ce8dc71e037323413616e9dfefc5a82d7cbf011f028
+SHA512: f21d624751b7886688d89930b485d40dac0cb98890dbe5b116fbda5e0a1cbeb609764fd681d03a2cb511db2a43217093eaf65ee1baf5c18c63b81e7139234f6a
+Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
+Name: FBSpNOsor
+Author: JacobCXDev <jacobcxdev@gmail.com>
+
 Package: com.kernelrw.globalize
 Architecture: iphoneos-arm64
 Version: 0.3.2
@@ -472,6 +424,34 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.letmeknow/icon.png
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.letmeknow
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.letmeknow.json
+
+Package: com.kernelrw.libhdev
+Architecture: iphoneos-arm64
+Version: 4.8.1
+Section: System
+Maintainer: Hao Nguyen <hao.ict56@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.libhdev_4.8.1_iphoneos-arm64.deb
+Size: 46096
+MD5sum: 1c5d28feecd44c13ee4bd0156ac27483
+SHA1: 55730dfd2a4ad1c989cf4f385a174848c4f22be5
+SHA256: 64a023c69f9e89a12b7eaa198b45584419f0ca56856276c80e1e7f725c0d3767
+SHA512: 15aabc82d98706e162a257fff21a156541b268a6ecbe2c86bfcdc209c06701220c519ef2e717f896f36fe5bef0059def5b3a0b1ad2cc4370e06a1f3da01d9d05
+Description: This is a developer library for better preferences and useful utilities.
+ This is a developer library for better preferences and useful utilities.
+ . 
+ Change log: 
+ - v4.8.1: Minor improvement
+ - v4.8.0: Improve performance & reduce package size
+ - v4.7.0: Improve media download & fix preferences cell color
+ . 
+ Github: https://github.com/haoict/libhdev-public
+ . 
+ © 2021 haoict
+Tag: role::developer
+Name: libhdev
+Author: Hao Nguyen <hao.ict56@gmail.com>
 
 Package: com.kernelrw.libmiroshared
 Architecture: iphoneos-arm64
@@ -839,6 +819,26 @@ SHA512: e75c53d8c01493ba108412c10a0580a458cff29223f165560e81113ba3bf0f087693b3e3
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
 Name: CCWiFiJoin
 Author: nqt1195
+
+Package: love.kernelrw.lisa
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/love.kernelrw.lisa_1.5.1_iphoneos-arm64.deb
+Size: 806876
+MD5sum: 24409959c864fc10ab3fa721161b5af2
+SHA1: f16633988e96a68395189f0a4cbdf9ffd1a8994a
+SHA256: 667068619cb64dc1bac2c9867ce86c02b6ca05231ea4a714398d7b834bc3c131
+SHA512: c7b4233baf2222ce171f5123344c14c342403d83ae10c13c80bc822c1f9c1ff4f261ff3bd38e3c16dff8265a53304b74304e567426a27c3afb384e82690c1fb0
+Description: Full incoming OLED notifications
+Name: Lisa 💅🏻
+Author: Litten & Esquilli
+Depiction: https://repo.litten.love/depictions/Lisa/index.html
+SileoDepiction: https://repo.litten.love/depictions/Lisa/index.json
+Icon: https://repo.litten.love/depictions/Lisa/assets/icon.png
 
 Package: love.kernelrw.rose
 Architecture: iphoneos-arm64
