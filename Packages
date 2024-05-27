@@ -479,11 +479,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 188
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/rootless/com.kernelrw.powercuff_1.0_iphoneos-arm64.deb
-Size: 13600
-MD5sum: ec9b83f1f4680a411780ef366c4b5f83
-SHA1: 814aae23d2dab02e937de4879c7a514a3772074a
-SHA256: 9c914e84721e6273db1faa70a289cc812178dc5834de1bb837260fa5cc4b9d6a
-SHA512: d79612d076a61010463b0c678527f1d8aa4d2fc31044b7d9d7cd12728981d10afd29db8a4d5b7ea0200606f22896efa68ba100103a8c17933842641f0807a80c
+Size: 14028
+MD5sum: bb8c757d61c2c8bb3ea6cc5d90a2213e
+SHA1: e5ea7a33fd20da9481e4795852f6bf820370cc72
+SHA256: 6535c719a6cf0fadbb5729d131794783765525bb3a2edfa3d3aeb9e20ce525b3
+SHA512: 8a31b52bf342f375242f4193829a934dbac6354873a5954acc9e50da9f83f400107210b9bc9050e3a296eac2bcb7f5040b76ce81fd1902eaeebe1165579a8d28
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
