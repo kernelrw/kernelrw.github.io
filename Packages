@@ -1,43 +1,3 @@
-Package: com.kernelrw.uyou
-Architecture: iphoneos-arm64
-Version: 3.0.4
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 31212
-Depends: firmware (>=13.0), mobilesubstrate, com.kernelrw.uyouimport
-Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debians/com.kernelrw.uyou_3.0.4_iphoneos-arm64.deb
-Size: 10999184
-MD5sum: 1a58e15b721c6c4686c75ee6f71930c7
-SHA1: 900ceebe71b1b7134318a7bad921c68094345768
-SHA256: 177ca225983b2f74398a173f601e95b278fe71342ee39cb6e2490508c5aca2b6
-SHA512: c9defc50f56d5a8860fa99cf8992c72818dc1311ef815e11d0c9ccf2566f9548f30c42d25387e3e16c6e842bb02f6d19d54b83677a5189e38fbeb14a1206fd51
-Description: Enhance Your YouTube Experience
-Tag: purpose::extension, compatible_min::ios13
-Name: uYou
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
-
-Package: com.kernelrw.uyouimport
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 444
-Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debians/com.kernelrw.uyouimport_1.0_iphoneos-arm64.deb
-Size: 81440
-MD5sum: 2d266c7699a4f3fc3b4318b0b23df479
-SHA1: 56c97d3e6dfaa9da36ae78fe6dec10a8a6814721
-SHA256: 3eff4a92e34066c0ee7b3dab9b0ce6f6e85463a4cff63d097d6526bdfd215c43
-SHA512: ad672dea0d4ea4331678e54c43422ab4d5dba739212f692fe752c57c31d878eba03ee1da2168fc403521c1e761efb3e4520241fb417d66cb9681ae9cee91dd29
-Description: Library for importing songs/videos into the Music app.
-Tag: purpose::extension, compatible_min::ios13
-Name: uYouImport
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
-Author: MiRO <tweaks_support@miro92.com>
-
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -511,6 +471,28 @@ Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.kernelrw.powercuff
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootless/com.kernelrw.powercuff_1.0_iphoneos-arm64.deb
+Size: 13600
+MD5sum: ec9b83f1f4680a411780ef366c4b5f83
+SHA1: 814aae23d2dab02e937de4879c7a514a3772074a
+SHA256: 9c914e84721e6273db1faa70a289cc812178dc5834de1bb837260fa5cc4b9d6a
+SHA512: d79612d076a61010463b0c678527f1d8aa4d2fc31044b7d9d7cd12728981d10afd29db8a4d5b7ea0200606f22896efa68ba100103a8c17933842641f0807a80c
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64
 Version: 1.0-beta1
@@ -624,6 +606,46 @@ SHA512: e59e50739236090d3aa306905a02a9dc258595833180043170a2b248889086f8878685a2
 Description: Remove ALL chat block restrictions (including 18+) & enables stealth mode for stories.
 Name: Swiftgram++
 Author: Randy420
+
+Package: com.kernelrw.uyou
+Architecture: iphoneos-arm64
+Version: 3.0.4
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 31212
+Depends: firmware (>=13.0), mobilesubstrate, com.kernelrw.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debians/rootless/com.kernelrw.uyou_3.0.4_iphoneos-arm64.deb
+Size: 10999184
+MD5sum: 1a58e15b721c6c4686c75ee6f71930c7
+SHA1: 900ceebe71b1b7134318a7bad921c68094345768
+SHA256: 177ca225983b2f74398a173f601e95b278fe71342ee39cb6e2490508c5aca2b6
+SHA512: c9defc50f56d5a8860fa99cf8992c72818dc1311ef815e11d0c9ccf2566f9548f30c42d25387e3e16c6e842bb02f6d19d54b83677a5189e38fbeb14a1206fd51
+Description: Enhance Your YouTube Experience
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+
+Package: com.kernelrw.uyouimport
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 444
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.uyouimport_1.0_iphoneos-arm64.deb
+Size: 81440
+MD5sum: 2d266c7699a4f3fc3b4318b0b23df479
+SHA1: 56c97d3e6dfaa9da36ae78fe6dec10a8a6814721
+SHA256: 3eff4a92e34066c0ee7b3dab9b0ce6f6e85463a4cff63d097d6526bdfd215c43
+SHA512: ad672dea0d4ea4331678e54c43422ab4d5dba739212f692fe752c57c31d878eba03ee1da2168fc403521c1e761efb3e4520241fb417d66cb9681ae9cee91dd29
+Description: Library for importing songs/videos into the Music app.
+Tag: purpose::extension, compatible_min::ios13
+Name: uYouImport
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.kernelrw.visionkeysaurora
 Architecture: iphoneos-arm64
