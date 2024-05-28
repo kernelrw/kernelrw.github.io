@@ -82,6 +82,22 @@ Description: A tweak to hopefully save you when your device gets frozen to be ab
 Name: SafeRespring
 Author: nicho1asdev
 
+Package: com.kernelrw.sneakycam
+Architecture: iphoneos-arm
+Version: 2.2.2
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/com.kernelrw.sneakycam_2.2.2_iphoneos-arm.deb
+Size: 106132
+MD5sum: cf0af2933813e068d5d63df209691352
+SHA1: 07745f87a0a249afd4f2c2cbe6da7abb48241192
+SHA256: 7f2891b7b28838355e66af577b57786ff6c5529ad833b37453762a83840e5ccd
+SHA512: c237da39408cc89e48bf43703958fe7deebf1f8be02a6c2bef88a9ec1c566786edadad4f7c94e1c4e63af1d3c95cdd6c40e1e73f94a5fd4cbc49393189d92d17
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Name: SneakyCam
+Author: Spark
+
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
 Version: 1.0
@@ -258,6 +274,22 @@ Description: Open any app in CarPlay!
 Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
+
+Package: com.kernelrw.cr4shed
+Architecture: iphoneos-arm64
+Version: 4.3.1-1
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, com.kernelrw.libnotifications, com.kernelrw.xpctoolstrap
+Filename: ./debians/rootless/com.kernelrw.cr4shed_4.3.1-1_iphoneos-arm64.deb
+Size: 228848
+MD5sum: ab0ad87f4daa15a8f610d67b4f89cbd0
+SHA1: 9ed725881f2675070677df430a25d36b103e7b5c
+SHA256: 5afe0b1de0f940eddb7f5ba7145071a8840341a5e7a123698809ff1bc7e69777
+SHA512: 07e1ac5d9975db8ef801d8d15fa6a0203059dc7757922b7593b9cebb1b572a1e81a10436489d8b65432f95620013ee3d0753d11bf76145c6280cb164358d132b
+Description: A modern crash reporter for iOS!
+Name: Cr4shed
+Author: Muirey03
 
 Package: com.kernelrw.crane
 Architecture: iphoneos-arm64
@@ -489,6 +521,24 @@ Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.kernelrw.libnotifications
+Architecture: iphoneos-arm64
+Version: 0.3-6-1
+Priority: optional
+Section: Development
+Maintainer: CokePokes
+Depends: firmware (>= 8.0), com.opa334.libsandy
+Replaces: com.cokepokes.libnotifications
+Filename: ./debians/rootless/com.kernelrw.libnotifications_0.3-6-1_iphoneos-arm64.deb
+Size: 19084
+MD5sum: 1846e946e654a3458ddede82cb15388b
+SHA1: cf4079006cd7a293c305ad4b79c6ba56bb8d0469
+SHA256: ab492090f2b4bcad926e3847f4e287fd41b672e36d47e9675cc93d2aaa056169
+SHA512: 31d78763a2c488b87a3597e74d5d17320084d62e94ba55d842094d6f4f82242bde10cdd15ddb8cc2bfa4fecb1b88bd74d1546f3fd0784890dcdb46c419356b72
+Description: App notification library.
+Name: libnotifications
+Author: CokePokes
+
 Package: com.kernelrw.powercuff
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -560,6 +610,22 @@ Name: Ring
 Author: Yan
 Icon: https://media.havoc.app/660068a52b78a631ec05699f
 
+Package: com.kernelrw.rocketbootstrap
+Architecture: iphoneos-arm64
+Version: 1.1.1~rootless
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.rocketbootstrap_1.1.1~rootless_iphoneos-arm64.deb
+Size: 20276
+MD5sum: 0acead3bd29eacade8457f423b4e5886
+SHA1: 936c76d2e0865f0158650251a65493e75f3645d8
+SHA256: 04f60da5dd90b8632cc0dfa60517dce4cf9f82a45b185b22cf3bd84128c7830f
+SHA512: beec7eb67226e71f32971471d0fdf1a9b9a77a798f83f166d81795f5f605016caad1ed0cc7b1d9e8c3bc662e07b2e0c4705ea6ba154fbd09312a63955b265c47
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Name: RocketBootstrap
+Author: Ryan Petrich
+
 Package: com.kernelrw.rosemary
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -608,6 +674,22 @@ Description: Never lose your Notifications again.
 Author: Antoine
 Name: Senri
 Icon: https://img.chariz.cloud/icon/senri/icon@3x.png
+
+Package: com.kernelrw.sneakycam
+Architecture: iphoneos-arm64
+Version: 2.2.2
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.sneakycam_2.2.2_iphoneos-arm64.deb
+Size: 106188
+MD5sum: cc736aea7a79a34bfc8904111b50cca8
+SHA1: 718785e07863504300ec79973c6f7d28f7174fb3
+SHA256: fa2965c26c2f7d6d3dc49aaf00e5ba39585ba6030449bad06bf889366d7fde0d
+SHA512: 2e3d5bb9963fec1e11751504a9d27285f2c91ecdd307ac0124f4500c4446e4085d8369979b29f17594c0c61acaa9b097c65eb264ace5c02f476d089b585e1670
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Name: SneakyCam
+Author: Spark
 
 Package: com.kernelrw.swiftgramplus
 Architecture: iphoneos-arm64
@@ -766,6 +848,22 @@ Description: Library for Watusi and WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.kernelrw.xpctoolstrap
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, com.opa334.libsandy
+Filename: ./debians/rootless/com.kernelrw.xpctoolstrap_1.1-1_iphoneos-arm64.deb
+Size: 20020
+MD5sum: 5d7e7b1b41c748c25d90b51ba9cfb3f4
+SHA1: f824350177d62b48edfd6cbdcf359b990b1490f7
+SHA256: 24172140da2b71bcd5926912bfb965b9894a18a017a47c08de153ea0c87267a5
+SHA512: 57be4ef187a78e51fbfebf355ee496d302ce7bd6c6d9d8897665f00c84e09cad7d22b97d443c5c58d7794c281b83bbe49733acaf8e45c1cb0be5468429e0aeb7
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 .
+Name: XPCToolStrap
+Author: CrazyMind90
 
 Package: com.kernelrw.yellowpages2
 Architecture: iphoneos-arm64
