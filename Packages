@@ -309,38 +309,6 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
-Package: com.kernelrw.cr4shed
-Architecture: iphoneos-arm64
-Version: 4.3.1-1
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, com.kernelrw.libnotifications, com.kernelrw.xpctoolstrap
-Filename: ./debians/rootless/com.kernelrw.cr4shed_4.3.1-1_iphoneos-arm64.deb
-Size: 228848
-MD5sum: ab0ad87f4daa15a8f610d67b4f89cbd0
-SHA1: 9ed725881f2675070677df430a25d36b103e7b5c
-SHA256: 5afe0b1de0f940eddb7f5ba7145071a8840341a5e7a123698809ff1bc7e69777
-SHA512: 07e1ac5d9975db8ef801d8d15fa6a0203059dc7757922b7593b9cebb1b572a1e81a10436489d8b65432f95620013ee3d0753d11bf76145c6280cb164358d132b
-Description: A modern crash reporter for iOS!
-Name: Cr4shed
-Author: Muirey03
-
-Package: com.kernelrw.cr4shed
-Architecture: iphoneos-arm64
-Version: 4.3.1-2
-Section: Tweaks
-Maintainer: Muirey03
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, com.kernelrw.xpctoolstrap, com.kernelrw.libnotifications
-Filename: ./debians/rootless/com.kernelrw.cr4shed_4.3.1-2_iphoneos-arm64.deb
-Size: 229748
-MD5sum: 95e7f21b82e2b05612fac3b8af4fbdda
-SHA1: 512459bde43a8cd15e34bbba4e6212c04e4b3138
-SHA256: 1d38692b54aaf951ed150494e6149bd54219405273caec2681de822d7a61604b
-SHA512: 4f2728c5e19d63d1114705c868ec5f8b21f59e8bf6056f37353bfc5208336a1a8192b7fe5a74000e5be0da17728ded7f4c5ce82757c82ac019b39c8dd8fc9ca8
-Description: A modern crash reporter for iOS !
-Name: Cr4shed
-Author: Muirey03
-
 Package: com.kernelrw.crane
 Architecture: iphoneos-arm64
 Version: 1.3.14-6
@@ -660,22 +628,6 @@ Name: Ring
 Author: Yan
 Icon: https://media.havoc.app/660068a52b78a631ec05699f
 
-Package: com.kernelrw.rocketbootstrap
-Architecture: iphoneos-arm64
-Version: 1.1.1~rootless
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debians/rootless/com.kernelrw.rocketbootstrap_1.1.1~rootless_iphoneos-arm64.deb
-Size: 20276
-MD5sum: 0acead3bd29eacade8457f423b4e5886
-SHA1: 936c76d2e0865f0158650251a65493e75f3645d8
-SHA256: 04f60da5dd90b8632cc0dfa60517dce4cf9f82a45b185b22cf3bd84128c7830f
-SHA512: beec7eb67226e71f32971471d0fdf1a9b9a77a798f83f166d81795f5f605016caad1ed0cc7b1d9e8c3bc662e07b2e0c4705ea6ba154fbd09312a63955b265c47
-Description: Support library allowing tweaks to communicate with sandboxed processes
-Name: RocketBootstrap
-Author: Ryan Petrich
-
 Package: com.kernelrw.rosemary
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -898,40 +850,6 @@ Description: Library for Watusi and WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-
-Package: com.kernelrw.xpctoolstrap
-Architecture: iphoneos-arm64
-Version: 1.1-1
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate, com.opa334.libsandy
-Filename: ./debians/rootless/com.kernelrw.xpctoolstrap_1.1-1_iphoneos-arm64.deb
-Size: 20020
-MD5sum: 5d7e7b1b41c748c25d90b51ba9cfb3f4
-SHA1: f824350177d62b48edfd6cbdcf359b990b1490f7
-SHA256: 24172140da2b71bcd5926912bfb965b9894a18a017a47c08de153ea0c87267a5
-SHA512: 57be4ef187a78e51fbfebf355ee496d302ce7bd6c6d9d8897665f00c84e09cad7d22b97d443c5c58d7794c281b83bbe49733acaf8e45c1cb0be5468429e0aeb7
-Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 .
-Name: XPCToolStrap
-Author: CrazyMind90
-
-Package: com.kernelrw.xpctoolstrap
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: Tweaks
-Maintainer: Kernelrw
-Provides: cm90.xpctoolstrap
-Depends: mobilesubstrate, com.opa334.libsandy
-Replaces: cm90.xpctoolstrap
-Filename: ./debians/rootless/com.kernelrw.xpctoolstrap_1.2_iphoneos-arm64.deb
-Size: 22812
-MD5sum: 748e10fc52d8c51e6bf515b924b5f57c
-SHA1: 36a542f46a6d3e79469b14c3d2ab7fd2af708dbe
-SHA256: ab4146f6abeb4d2b797e43dfbce7d826765cbb9062a5826987635de842120c1f
-SHA512: d0b5c5563a65ad04e7ffbbac316e4b9b68e508b6b174d33dece18487a979736e569c55635e286d6c420df0a0f1b58ac66cc15e66e22d616bc0c238b3cc063e7c
-Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs.
-Name: XPCToolStrap
-Author: @CrazyMind90
 
 Package: com.kernelrw.yellowpages2
 Architecture: iphoneos-arm64
