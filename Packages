@@ -185,6 +185,40 @@ Description: Pin screenshots on the screen.
 Name: Snapper 3
 Author: Jonathan Winger-lang
 
+Package: com.kernelrw.a-font
+Architecture: iphoneos-arm64
+Version: 1.10.1
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/com.kernelrw.a-font_1.10.1_iphoneos-arm64.deb
+Size: 495220
+MD5sum: b56af0d8e20d58ef1c3cdf80d48fa929
+SHA1: 64e69db80b18690bb088ab262d8cff31bba51b31
+SHA256: d484680643c2c576c590db455944826352ee8b1c5b548dc1b93d0807837ff53f
+SHA512: 05579f9921f04fce19ad724cef0efc09e81887ec553230ae932c5fe9d7514e32eb4bcd546a94fc142e22fed637d363a612d456ac5325178630b6f84de00da28f
+Description: Change your font easily . Supports iOS12~iOS16.7.7 !
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.kernelrw.a-font
+Architecture: iphoneos-arm64
+Version: 1.10
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/com.kernelrw.a-font_1.10_iphoneos-arm64.deb
+Size: 495088
+MD5sum: cd29616e4d633bb7204cf389992fe7c0
+SHA1: fcb5d2069dcc31c952c7fda633f825ebfc6b1ef3
+SHA256: 400cb98affcf443e184a4918a7ec90acb4428b5a028b340eda38a58622d7a6e0
+SHA512: b7a5a4aff04d5d79e20ae9466eb92d9bfbce058c9e448f1dd26c183cd7abcf99c85fe2c29d61ca8afb968d1d892497397cabdb6969bfeb63e2078d2f6e1c5097
+Description: Change your font easily . Supports iOS12~iOS16.7.7 !
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+
 Package: com.kernelrw.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
