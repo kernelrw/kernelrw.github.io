@@ -372,22 +372,18 @@ Architecture: iphoneos-arm64
 Version: 1.0-1
 Priority: optional
 Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: BigBoss
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: ./debians/rootless/com.kernelrw.disupdateapp_1.0-1_iphoneos-arm64.deb
-Size: 97088
-MD5sum: a048b2ad2a9394db658161de6c85f199
-SHA1: c9ad060ecef46f0409265e2362a043e4dfaa3abe
-SHA256: 2cf4dcd903a91259f27eb388c9923a4a364701de2d87a60a861658535dd74d71
-SHA512: 31b376af2e692e87f71de30b634693b2420d7d9bbe64b6ed34373f7d073896e82ae6c77294a804a844a98b7a57e2ffcc1b23292f0b3b6646eb74d82f476c0af1
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-Description: Block App Store Updates . Supports iOS15 ~iOS16.4.1
+Size: 96620
+MD5sum: baba6118075562246306b5a8660d4286
+SHA1: 358a0bbea1969ed53454bb616444d1a4c17b64bf
+SHA256: 6e6887c977ceef5f3075de7a65b02e528716d1779d753a944be3ec869d6be6af
+SHA512: b68239d25c024d9e797cf4f0117ec7279be6d92090ffd4253d86ded078a794ff69ad49b07ba09f3282f4a3076e55f3bf6ac6c8e918a2ee87208313c3b5b0e7ac
+Description: Block App Store Updates . Supports iOS15 ~ iOS16.4.1
 Tag: purpose::extension
 Name: BlockAppUpdate
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: zqbb <w2599z@gmail.com>
+Author: zqbb
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
 
