@@ -367,6 +367,30 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: asterix
 Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
 
+Package: com.kernelrw.disupdateapp
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debians/rootless/com.kernelrw.disupdateapp_1.0-1_iphoneos-arm64.deb
+Size: 97088
+MD5sum: a048b2ad2a9394db658161de6c85f199
+SHA1: c9ad060ecef46f0409265e2362a043e4dfaa3abe
+SHA256: 2cf4dcd903a91259f27eb388c9923a4a364701de2d87a60a861658535dd74d71
+SHA512: 31b376af2e692e87f71de30b634693b2420d7d9bbe64b6ed34373f7d073896e82ae6c77294a804a844a98b7a57e2ffcc1b23292f0b3b6646eb74d82f476c0af1
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Description: Block App Store Updates . Supports iOS15 ~iOS16.4.1
+Tag: purpose::extension
+Name: BlockAppUpdate
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: zqbb <w2599z@gmail.com>
+dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+
 Package: com.kernelrw.facebooknoads
 Architecture: iphoneos-arm64
 Version: 1.2
