@@ -969,6 +969,23 @@ Name: YouTubePatcher
 Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
 
+Package: com.kernelrw.ytlite
+Architecture: iphoneos-arm64
+Version: 4.0
+Section: Tweaks
+Maintainer: DVNTM
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: ./debians/rootless/com.kernelrw.ytlite_4.0_iphoneos-arm64.deb
+Size: 5827652
+MD5sum: 1b8a9cd593286df8e2226995b58bf3ed
+SHA1: b0aca4c68895ed744c2a7fd89c545e28c60d5d0b
+SHA256: 59bb35b740909e46f79565638d8b9636ca376f74ad3faa93fc34c85c5a8c6ad2
+SHA512: f25002b4d4873bbb4a7bcbf78d1a7ed8ee9cbd11eff0315bd7df791556c5fed6aa9dcc5150ada76ddb83029543affd328dfdbeadd3df1aedc553c67c386b86e6
+Description: Great Youtube enhancement . Support iOS15 ~ iOS16.7.7
+Name: YTLite(rootless)
+Author: DVNTM
+
 Package: emt.kernelrw.xinamine
 Architecture: iphoneos-arm64
 Version: 0.0.5-1
