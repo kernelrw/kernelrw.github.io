@@ -309,6 +309,23 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
+Package: com.kernelrw.cr4shed
+Architecture: iphoneos-arm64
+Version: 4.3.1-1+debug
+Section: Tweaks
+Maintainer: Muirey03
+Installed-Size: 2404
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.kernelrw.libnotifications, kernelrw.crossoveripc
+Filename: ./debians/rootless/com.kernelrw.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
+Size: 198004
+MD5sum: 731b809d2bcbe3ede14d66554b8b8245
+SHA1: 33779c29a6d6002d54e4411d4b3539b9100515aa
+SHA256: 52a7c6a4249e753b663b9cf98674e0d95471e60e459c51ac689d904447b7c347
+SHA512: 272253ee63de0a426ea3c4ecccee6fb69ace9550a120b58249134b8b77562818f7e8685fa9a356ddbd100ca9d835bf41e1134509584260e9f2a844f4e6d30b45
+Description: A modern crash reporter for iOS15 & iOS16 .
+Name: Cr4shed
+Author: Muirey03
+
 Package: com.kernelrw.crane
 Architecture: iphoneos-arm64
 Version: 1.3.14-6
@@ -541,21 +558,26 @@ Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.kernelrw.libnotifications
 Architecture: iphoneos-arm64
-Version: 0.3-6-1
+Version: 0.3-6-1+debug
 Priority: optional
 Section: Development
-Maintainer: CokePokes
-Depends: firmware (>= 8.0), com.opa334.libsandy
-Replaces: com.cokepokes.libnotifications
-Filename: ./debians/rootless/com.kernelrw.libnotifications_0.3-6-1_iphoneos-arm64.deb
-Size: 19084
-MD5sum: 1846e946e654a3458ddede82cb15388b
-SHA1: cf4079006cd7a293c305ad4b79c6ba56bb8d0469
-SHA256: ab492090f2b4bcad926e3847f4e287fd41b672e36d47e9675cc93d2aaa056169
-SHA512: 31d78763a2c488b87a3597e74d5d17320084d62e94ba55d842094d6f4f82242bde10cdd15ddb8cc2bfa4fecb1b88bd74d1546f3fd0784890dcdb46c419356b72
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 376
+Depends: firmware (>= 8.0)
+Filename: ./debians/rootless/com.kernelrw.libnotifications_0.3-6-1+debug_iphoneos-arm64.deb
+Size: 14704
+MD5sum: 2152e1f556aafe31cd2d3ce3aa29bc7a
+SHA1: dbc24bb341e86fb888646551f4c57778ed267c0c
+SHA256: 937abfcc1b4b767c9ccdf9a734a36364808109b4b8e63eb3afbf1ef560e143aa
+SHA512: 4cc4720cd19ab9008f4de0ab0f2ba739a00485744a6f5abd72c04320f3f0442fc813bc8e09dda3d5c775f9cb2f94f6a7e280cc96af0308d5783e5cc1eeeb13cd
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
 Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Name: libnotifications
-Author: CokePokes
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CokePokes <cokepokes@gmail.com>
+dev: cokepokes
 
 Package: com.kernelrw.powercuff
 Architecture: iphoneos-arm64
@@ -1002,6 +1024,23 @@ SHA512: e75c53d8c01493ba108412c10a0580a458cff29223f165560e81113ba3bf0f087693b3e3
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
 Name: CCWiFiJoin
 Author: nqt1195
+
+Package: kernelrw.crossoveripc
+Architecture: iphoneos-arm64
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: @CrazyMind90
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debians/rootless/kernelrw.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
+Size: 14800
+MD5sum: 116ecdd6de0469826f3c3462966ed8e5
+SHA1: ff38f76c03acb680cab3dece8e993b229d3a508d
+SHA256: 834047a7fc98359283538148b01a88027ce5d3579aad7353b7fe9b00c30cba1d
+SHA512: 76928f39b1199fdc939eb6ee558e73ea4b16617a8ba3e2ef8af82dcd02c6dc3de156f9067b5dcf6ad2d650e6f473b63ea95edcd2634ac772f9ffe7e070d58e12
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Name: CrossOverIPC
+Author: @CrazyMind90
 
 Package: love.kernelrw.lisa
 Architecture: iphoneos-arm64
