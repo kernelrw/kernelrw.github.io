@@ -35,18 +35,18 @@ Depiction: https://havoc.app/package/carbridge
 
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm
-Version: 1.0~b7
+Version: 1.0-beta7
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 5980
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.24)
 Conflicts: xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debians/rootful/com.kernelrw.regram_1.0~b7_iphoneos-arm.deb
+Filename: ./debians/rootful/com.kernelrw.regram_1.0-beta7_iphoneos-arm.deb
 Size: 1283860
-MD5sum: a60c6088c84e39bbe5fabc20643e8074
-SHA1: a839eee83d026f9a54dc7b0f821ab6377c0fbff4
-SHA256: 77c0120c57beffb59fd7aeba0e16bc1c52cd036d19b8a1715a1364b417c6c720
-SHA512: 3f0e5780981f1659a3551489479cc517bb1f7f91834a6ab55ef08863c1239237e3d5bf0c295142abed60b1a1c6d1cc32f2caf2e17425c895792a54f990c4e4b4
+MD5sum: 0f00a89a52323feba4de902eccb7ba5c
+SHA1: 4fb3e0068c2c782823b0e2bc4293585c83d824dd
+SHA256: b1efd3f68c3a815c5afc96fe5203b13291adccc4667bc95fec4266b6274acafc
+SHA512: 2f632eda301ed7ab4c34f0e9d8ee1be09fa33a6b62ca920412becd49d2dcdcbc9e30ee3506b5fc3edc14c1ad02a6d130d6e70fdd4d7d46c2d432af31e59677e6
 Description: The all-in-one tweak for Insatgram
 Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -673,18 +673,18 @@ Author: Fouad Raheb
 
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64
-Version: 1.0~b7
+Version: 1.0-beta7
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 5980
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.24)
 Conflicts: xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debians/rootless/com.kernelrw.regram_1.0~b7_iphoneos-arm64.deb
-Size: 1273148
-MD5sum: c47927dbbf6eb9fe4e81021203fc1219
-SHA1: b215ecdc553fb379bb68bacea51fb4f8e78a8d51
-SHA256: 377a96c459fd331eb65b06c94ff79be3399fecba552d754d56d7f188beec45a3
-SHA512: 3713ba1ab7992651de0f585b846f294742ca644721f128757608f5355ebe1b7d71865f13e0c81f45a37fbf84b2bb6c2908161a3a1ec739f6f02978584ad34117
+Filename: ./debians/rootless/com.kernelrw.regram_1.0-beta7_iphoneos-arm64.deb
+Size: 1272968
+MD5sum: 701273b3de52a49a612fce2dbcb6ab73
+SHA1: c1b1e4864c35267588896ceccef00094dd3ff9d3
+SHA256: e04b53ada00cb5d37ebee3a2524c469d563f305b320914a03a188fcbf6816ce7
+SHA512: c8870a044660140eb1cd063ed97615f4fc8f2e21d18ececb7ffdbceae79912af4f4bdc5a98941f14da9b2a2084e815db671ca41f0f96433d8c7cdc61f9c8f07e
 Description: The all-in-one tweak for Insatgram
 Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
