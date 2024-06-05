@@ -39,14 +39,14 @@ Version: 1.0-beta7
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 5980
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.kernelrw.watusitools (>= 2.4.24)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.24)
 Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
 Filename: ./debians/rootful/com.kernelrw.regram_1.0-beta7_iphoneos-arm.deb
-Size: 5774192
-MD5sum: bcb67ae4f620b6654d241a7835d74f16
-SHA1: 27e4207e609453e0d6e1b4ec68d37efecf16f36d
-SHA256: 9d1bcc8191c951f8e129f1580584c8fcf5d318b7c6b14b9ad68ab15726ef81f0
-SHA512: b0abb283c61669f6d73becc30227d412d985d10dc2a1fc7fae5f80777ffc1267a1547b2645e2a5cf31698a1317e0e32909dc1ffca7e2dccbf9d9c7fd8ef21858
+Size: 5777660
+MD5sum: 0f75488fdad4a28df5b14151af1c0c30
+SHA1: 5480a72777c57e259b095d904bd9b6c52dbef218
+SHA256: 27758146b62d15291954c351751b9929cc2f38d487435da83a1612a1c784ffda
+SHA512: 6fe2526b8c583208b3424ac90108a121bf580e39fd01446610e1c06945bd4c3b11b3a44870612620e3e85e7f4ef1c55baa8adfa9ed73e1e8838d5b266b53a687
 Description: The all-in-one tweak for Insatgram
 Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -698,14 +698,14 @@ Version: 1.0-beta7
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 5980
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.kernelrw.watusitools (>= 2.4.24)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.24)
 Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
 Filename: ./debians/rootless/com.kernelrw.regram_1.0-beta7_iphoneos-arm64.deb
-Size: 5752940
-MD5sum: ca6e482de3c284a01dd8d987a246d456
-SHA1: 9f450ae1e265c447c568149c6e66063023a1934b
-SHA256: d38aec561bb93e58c6dc3acdd0f4853741797e41293851edafe9e332af285cfe
-SHA512: 4c61b0c75984035d4ab7d3fece40524d1316b6485908d4e37acba15c4165fca3b4f54f7fbd0584251a3cd4b6b9fac5eb61be1cb4ca0ba8446cd9933106cf02cd
+Size: 5756892
+MD5sum: 0cfbfafe66491c8f91859d278686f91d
+SHA1: 4a780e6ee3c6b5a9eebe4a556dafd35f67e8a957
+SHA256: 8be5b0ed5585d67724b9f85f029c5448d5b21836070ef83cb2e5097cc5a35c27
+SHA512: 6bb77780886ccb0085515ffa70849ca02d42a511c7d88acb3339d745556abedec149659c7828ac82c66ed16c7caa5232f89d25bff3cf862bb800df42678f96f2
 Description: The all-in-one tweak for Insatgram
 Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
