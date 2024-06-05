@@ -1388,3 +1388,24 @@ Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 
+Package: wiki.kernelrw.chromatic
+Architecture: iphoneos-arm64
+Version: 2.2-Rootless
+Section: Packaging
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debians/rootless/wiki.kernelrw.chromatic_2.2-Rootless_iphoneos-arm64.deb
+Size: 3473252
+MD5sum: 1382d7ebbf178f81408ad7d1fbd643c5
+SHA1: cd0cc22e9678ef25e2cf09f287d97355009f68a7
+SHA256: 5e0e12983b9a738182348f501f99023f63a09af77eab26e6acc8705fb9c9286c
+SHA512: aa2094291a3b40f1433d959538c77332a5bc1145352a4b3ce215b5ca6edd9f8513efe01ec15387147d4cb4112c749819bb1401c4438230f63145866d331ef168
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful. Crazy
+Name: Saily
+Author: Saily Team <support.0xa1@qaq.wiki>
+Website: https://sailyteam.github.io/Saily/index.html
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
