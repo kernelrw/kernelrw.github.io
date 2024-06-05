@@ -33,6 +33,27 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
+Package: com.kernelrw.regram
+Architecture: iphoneos-arm
+Version: 1.0-beta7
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 5980
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.kernelrw.watusitools (>= 2.4.24)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/rootful/com.kernelrw.regram_1.0-beta7_iphoneos-arm.deb
+Size: 5774192
+MD5sum: bcb67ae4f620b6654d241a7835d74f16
+SHA1: 27e4207e609453e0d6e1b4ec68d37efecf16f36d
+SHA256: 9d1bcc8191c951f8e129f1580584c8fcf5d318b7c6b14b9ad68ab15726ef81f0
+SHA512: b0abb283c61669f6d73becc30227d412d985d10dc2a1fc7fae5f80777ffc1267a1547b2645e2a5cf31698a1317e0e32909dc1ffca7e2dccbf9d9c7fd8ef21858
+Description: The all-in-one tweak for Insatgram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
 Package: com.kernelrw.ring
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -97,6 +118,24 @@ SHA512: c237da39408cc89e48bf43703958fe7deebf1f8be02a6c2bef88a9ec1c566786edadad4f
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Name: SneakyCam
 Author: Spark
+
+Package: com.kernelrw.watusitools
+Architecture: iphoneos-arm
+Version: 2.4.25
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/rootful/com.kernelrw.watusitools_2.4.25_iphoneos-arm.deb
+Size: 4512688
+MD5sum: 3b929435a76b87f2f3bd8e6ed7ba53d8
+SHA1: 0cdb956b6f2629082904e0d7b32d06085e9a43c4
+SHA256: cdabee843cf0976e139c2f3b566a9d113b355d510e0f9c41c1afdfc9502710a7
+SHA512: cc03048269ba0e947fb117d042426e310a0672803a14c46dac32248ad9264d29c36b8d850fdf0f1f76fcad4cc22dbcde0003bac2fe9960a43361976b4d0c21bb
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
@@ -652,6 +691,27 @@ SHA512: 5b0799544e9d9420b1205389b52c088b9c5dd9707fd3199c244c9c0b7f22b958979ee70d
 Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb
+
+Package: com.kernelrw.regram
+Architecture: iphoneos-arm64
+Version: 1.0-beta7
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 5980
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.kernelrw.watusitools (>= 2.4.24)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/rootless/com.kernelrw.regram_1.0-beta7_iphoneos-arm64.deb
+Size: 5752940
+MD5sum: ca6e482de3c284a01dd8d987a246d456
+SHA1: 9f450ae1e265c447c568149c6e66063023a1934b
+SHA256: d38aec561bb93e58c6dc3acdd0f4853741797e41293851edafe9e332af285cfe
+SHA512: 4c61b0c75984035d4ab7d3fece40524d1316b6485908d4e37acba15c4165fca3b4f54f7fbd0584251a3cd4b6b9fac5eb61be1cb4ca0ba8446cd9933106cf02cd
+Description: The all-in-one tweak for Insatgram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
 
 Package: com.kernelrw.ring
 Architecture: iphoneos-arm64
