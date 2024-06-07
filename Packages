@@ -893,6 +893,22 @@ Name: uYouImport
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.kernelrw.verxina
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Havoc
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/rootless/com.kernelrw.verxina_1.0_iphoneos-arm64.deb
+Size: 6255332
+MD5sum: 353b4757fb4954ff36764b2608da17c4
+SHA1: e48b6178319999bfd7b33785bbb0e737f384ff0e
+SHA256: 3a106ba234bdcf44715b67f295363458c2e4db55a09d475df90e2438f1517865
+SHA512: 58f91c9080161875db1b1ef7231faa1500ae06711e73477753dac3713e79fb367919af140d8faf4d58c2a92707699110cae43f1e82b3fbd84054acfad904aad3
+Description: A very basic redundant dock tweak .
+Name: Verxina
+Author: uz.ra
+
 Package: com.kernelrw.visionkeysaurora
 Architecture: iphoneos-arm64
 Version: 1.0
