@@ -1198,6 +1198,23 @@ Description: Great Youtube enhancement . Support iOS15 ~ iOS16.7.7
 Name: YTLite(rootless)
 Author: DVNTM
 
+Package: com.nef0pam.a-font
+Architecture: iphoneos-arm64
+Version: 1.10.1
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/com.nef0pam.a-font_1.10.1_iphoneos-arm64.deb
+Size: 495036
+MD5sum: 132c2e4d98795efc42d8294404c87831
+SHA1: db15bd86be30818059017946fb7805a8256b0873
+SHA256: 55d92cb1c2d67edda4775ca3856046f27072ffb56e59cc5ff3939c847d226856
+SHA512: a9c1e2954337a0c4a83178a04d34c5c94f838b2ff927aa00ec90b3da3bbb64bb4e3552632c4fdf9e352f01b5160d0b32d9c6b37ce65c3aa726ba3ab5f1638e05
+Description: Change your font easily . Supports iOS12~iOS16.7.7 !
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+
 Package: com.nef0pam.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
