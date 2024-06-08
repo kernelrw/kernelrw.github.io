@@ -137,6 +137,25 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.kernelrw.ytlite
+Architecture: iphoneos-arm
+Version: 4.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 15596
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.kernelrw.ytlite_4.0.1_iphoneos-arm.deb
+Size: 5826996
+MD5sum: e071a9be731d86a82bd7596dff8faa4a
+SHA1: 63da8296057d13943e756e118494d64b3d3b0671
+SHA256: 1f8ccb999df8e1f5a293b2c119f3d93bab7784335ce9a417090846fe17e4ea8e
+SHA512: 955a219b35ed2b435103627ba5a7e07daef272111fced4f8d24b890f57a939b5b962b49601b6cc7d0ddd364a4391e69252555391fb1b6d183dd7e6e86f461d2e
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1142,6 +1161,25 @@ Description: No inline Ads/Background Play back
 Name: YouTubePatcher
 Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+
+Package: com.kernelrw.ytlite
+Architecture: iphoneos-arm64
+Version: 4.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 15596
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.ytlite_4.0.1_iphoneos-arm64.deb
+Size: 5824936
+MD5sum: 9a200ed388868c2d61385e087f3d1214
+SHA1: 0b7baa2c473f2004ad345f7117fa2d3e9800e5db
+SHA256: 796de4b079ae3a7ce4f5c9773843cb89edaffd4e2e5cb78d1618341b9a9c8abe
+SHA512: 8e9ade89b581683ede6a3d6f2eeb640eeff048e19c4d3852ddb7cd1fa66da80139740f76dd3f794b0c481a47f9dd08c112df7f1ff5ebefd2dc18ddcc8058de29
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.kernelrw.ytlite
 Architecture: iphoneos-arm64
