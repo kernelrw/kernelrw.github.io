@@ -675,6 +675,30 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
 
+Package: com.kernelrw.myswitches
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 506
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debians/rootless/com.kernelrw.myswitches_1.0.7_iphoneos-arm64.deb
+Size: 65676
+MD5sum: 62998c2686e3de8cff605022f880582b
+SHA1: f19b423d7928aa472110669bb9fafacc4e955d23
+SHA256: 0e0dc7483cd8eee3ead9f4d19270af85686f08276745dfb4add1caf3a4cc8d8e
+SHA512: a79bd66d1ee748cd2cca691c59ce4d81169d20efa3dd022ccc616ffad99b8a916bb1405b4242a0f32aa0095ff9e5d51b7bb907b8836072f34a2b6eba87d10d26
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myswitchesDp
+Description: Custom options for the Switches on System Wide. خيارات متعددة للمفاتيح
+Tag: purpose::extension
+Name: MySwitches
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myswitchesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/MySwitches.bundle/MySwitches@2x.png
+
 Package: com.kernelrw.powercuff
 Architecture: iphoneos-arm64
 Version: 1.0
