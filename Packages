@@ -1364,6 +1364,23 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: me.nef0pam.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.nef0pam.dleasy_2.14.4_iphoneos-arm64.deb
+Size: 5525092
+MD5sum: 4834bcaa0f33b3f0eb0c37ea4f3bc6fb
+SHA1: 3320bd7a19e686a102639fe72b9e7bb4121f5fb4
+SHA256: 94b80f559f5554298dd97d0db31bec9fda2e5daadca11674e2e8ca245f20e8c4
+SHA512: 754bcde6c4139e05e14da114c750fd00cec339074bd81688414c4bf6aa14cf2fe338f805f1c5e97584ac1468607aa665e2365aafd677b666653d825e5bc3e8c5
+Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: me.tomt000.stageduo
 Architecture: iphoneos-arm64
 Version: 1.1.1
