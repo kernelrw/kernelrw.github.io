@@ -1198,6 +1198,25 @@ Description: Great Youtube enhancement . Support iOS15 ~ iOS16.7.7
 Name: YTLite(rootless)
 Author: DVNTM
 
+Package: com.nef0pam.autoscroll
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.nef0pam.autoscroll_1.0.0_iphoneos-arm64.deb
+Size: 26388
+MD5sum: 32ca0f010f3eaf6ca0a463a5481712d3
+SHA1: 0aad9dc0a2d2a6d93757debff0d7ac16128d1539
+SHA256: fa12c27b68f2efd0a3ff9b7c9a9628228cb4eaea2e92085277cb34dd5997c376
+SHA512: 0cef61b4af19dfdbacec7ba5b8703ac64a32dddbb1211fbcb1b0fcb9c380811b22ca2bf096c15c79144d9d21cf3a7debf6970de1579b0674709adf844037195c
+Description: Smart Auto Scroll & Faster Scrolling on all app.
+Name: AutoScroll
+Author: pxcex
+Depiction: https://d.plutorepo.com/posts/AutoScroll
+Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
+SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
+
 Package: emt.kernelrw.xinamine
 Architecture: iphoneos-arm64
 Version: 0.0.5-1
