@@ -1,120 +1,3 @@
-Package: com.kernelrw.visionkeysaurora
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm.deb
-Size: 511116
-MD5sum: ff32bd2937f981aff7a8b917dad82253
-SHA1: b92aefeb4ff08da1f18eff3dfb9d23a18a11f2bb
-SHA256: 5cacbf447dda2a78f9fc4ac0530913ee63ec9c496e1f674b75a355104cf35094
-SHA512: 889e22ecd05d654bba0650cd2c5e9da21bce9c98f8929cec8981d80df446236ac8d949cfc8798e27ebabaac7f5ccbc424cd7aef8d87c01cd790e3d5f0d62e6e4
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
-Package: com.kernelrw.visionkeyscelestia
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm.deb
-Size: 967900
-MD5sum: 4660a2cc9e9219ed489a7d52f188837f
-SHA1: 030397eb1c3623f9399cefd3e70e7e42a7401dc9
-SHA256: 7c039caa647ab4aa196fd4f3ce8005d9933d6d972bfa65ef6584e79605f45103
-SHA512: c558ba50ba23246958c7949ca4373f2481737fcbbc0d39e4c692c277b9f269a685f493a01e3974a798b3d68211b78f4dad157603b14972c192417cec826f696f
-Description: A beautiful Light mode theme for Laetus .
-Name: VisionKeys Celestia
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
-
-Package: com.kernelrw.visionkeysobsidian
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm.deb
-Size: 291516
-MD5sum: 9a9dc71544887b750dbff7a3487e0ec7
-SHA1: b1d563c7f5fa2172a6384414b9912509659ead33
-SHA256: abbcc7bd46fdc351fb2244c9afae224b9af0f2fdb6bd2c6ac98523cb34c7d48a
-SHA512: 02ed46dcde09b71074fbdda03f284bfd6499991f0bd155bf2930dc791e81131b9741ef1f5b35ef4cc7106aeffd1b6b1bd9951719411853556b8084473daa8a2d
-Description: A beautiful Dark mode theme for Laetus .
-Name: VisionKeys Obsidian
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
-
-Package: com.nef0pam.a-font
-Architecture: iphoneos-arm
-Version: 1.10.1
-Section: Tweaks
-Maintainer: Baw Appie <pp121324@gmail.com>
-Installed-Size: 2476
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/com.nef0pam.a-font_1.10.1_iphoneos-arm.deb
-Size: 492804
-MD5sum: 1f737b845ab7d8e5fd4cf35f591e2606
-SHA1: 5cdd5bb32817a28e3c673b87d7731a3b0717f5aa
-SHA256: 8f216ed366a48ce004ed8394a732c4acaf0266dfa2c9da43619dfe965babb250
-SHA512: 6300dcd4e60e6d8257f7a922786875d94949c50dc65cbc14ce53431f6b2e28ed6e07b8c053381665b73b7fe4ca2b051932b4b82bef69ba3ab7590a7d70d210ca
-Description: Change your font easily . Supports iOS12~iOS16.7.7 !
-Name: A-Font
-Author: Baw Appie <pp121324@gmail.com>
-
-Package: com.nef0pam.autoscroll
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Depends: mobilesubstrate
-Filename: ./debians/com.nef0pam.autoscroll_1.0.0_iphoneos-arm.deb
-Size: 26484
-MD5sum: 3fad5a0e331a5497edd22fe2fff8726d
-SHA1: 19b43afcb5efd69b50405b2aaf2f7b8662352945
-SHA256: 10f596b0d4838db7a4df815d63251a14bc0b5cddf739c069ca9fd07eeee26281
-SHA512: d40435f20f3d2ebe58aa3a9de6724cb6aa9b66062f73afc1a0f33a2c22da4ddd841dda8823d2b491493c47bbdf3269994c936b2a92cfaf2cc4bfe9e9d09e68a6
-Description: Smart Auto Scroll & Faster Scrolling on all app.
-Name: AutoScroll
-Author: pxcex
-Depiction: https://d.plutorepo.com/posts/AutoScroll
-Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
-SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
-
-Package: com.nef0pam.visionkeysaurora
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/com.nef0pam.visionkeysaurora_1.0_iphoneos-arm.deb
-Size: 511096
-MD5sum: f5d3c9078eeffc5a354c2b5cb65dc7df
-SHA1: 8ee392dd42ad9a4e283d87cfe030654e968fb49c
-SHA256: 66bf485c6a8f69083f5e1c1bf54c102b0551318748fdf76c6301a259778b7cb7
-SHA512: b28bbd3c6ca9d1b1ad9b3ab53fdc22d0a9ac562d451d25485325219241105e481a29651e6d9d1f6cd93ba7fd3b07af845bedf8c3e56c9d42712a33bc877e67fa
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
-Package: me.nef0pam.dleasy
-Architecture: iphoneos-arm
-Version: 2.14.4
-Section: Tweaks
-Maintainer: AhmedBafkir <prooxy0@gmail.com>
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debians/me.nef0pam.dleasy_2.14.4_iphoneos-arm.deb
-Size: 5451712
-MD5sum: 9308e8004c482dbe09288e823c32a9a4
-SHA1: 3b716c84efbe921c3122d8b400b8db82841bff59
-SHA256: 4a08d13474faf1bc9e0894ebbe656146d3d312848940cb65fc1ac3d2fd1479b4
-SHA512: 55dab6544b9e71706651ce445ca49893bc438ee272f3095354b8ad19c1b509ef9137eb4a1dbee60fe9c816ebfc257206147842e233b8c7b5ca800d557b5ad9f5
-Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
-Name: DLEasy
-Author: AhmedBafkir <prooxy0@gmail.com>
-Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
-
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -236,6 +119,54 @@ Description: Discretely take a photo or record a video from anywhere, even with 
 Name: SneakyCam
 Author: Spark
 
+Package: com.kernelrw.visionkeysaurora
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm.deb
+Size: 511116
+MD5sum: ff32bd2937f981aff7a8b917dad82253
+SHA1: b92aefeb4ff08da1f18eff3dfb9d23a18a11f2bb
+SHA256: 5cacbf447dda2a78f9fc4ac0530913ee63ec9c496e1f674b75a355104cf35094
+SHA512: 889e22ecd05d654bba0650cd2c5e9da21bce9c98f8929cec8981d80df446236ac8d949cfc8798e27ebabaac7f5ccbc424cd7aef8d87c01cd790e3d5f0d62e6e4
+Description: A beautiful Dark Blue theme for Laetus .
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.kernelrw.visionkeyscelestia
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm.deb
+Size: 967900
+MD5sum: 4660a2cc9e9219ed489a7d52f188837f
+SHA1: 030397eb1c3623f9399cefd3e70e7e42a7401dc9
+SHA256: 7c039caa647ab4aa196fd4f3ce8005d9933d6d972bfa65ef6584e79605f45103
+SHA512: c558ba50ba23246958c7949ca4373f2481737fcbbc0d39e4c692c277b9f269a685f493a01e3974a798b3d68211b78f4dad157603b14972c192417cec826f696f
+Description: A beautiful Light mode theme for Laetus .
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.kernelrw.visionkeysobsidian
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm.deb
+Size: 291516
+MD5sum: 9a9dc71544887b750dbff7a3487e0ec7
+SHA1: b1d563c7f5fa2172a6384414b9912509659ead33
+SHA256: abbcc7bd46fdc351fb2244c9afae224b9af0f2fdb6bd2c6ac98523cb34c7d48a
+SHA512: 02ed46dcde09b71074fbdda03f284bfd6499991f0bd155bf2930dc791e81131b9741ef1f5b35ef4cc7106aeffd1b6b1bd9951719411853556b8084473daa8a2d
+Description: A beautiful Dark mode theme for Laetus .
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
 Package: com.kernelrw.watusitools
 Architecture: iphoneos-arm
 Version: 2.4.25
@@ -272,6 +203,58 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.nef0pam.a-font
+Architecture: iphoneos-arm
+Version: 1.10.1
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/com.nef0pam.a-font_1.10.1_iphoneos-arm.deb
+Size: 492804
+MD5sum: 1f737b845ab7d8e5fd4cf35f591e2606
+SHA1: 5cdd5bb32817a28e3c673b87d7731a3b0717f5aa
+SHA256: 8f216ed366a48ce004ed8394a732c4acaf0266dfa2c9da43619dfe965babb250
+SHA512: 6300dcd4e60e6d8257f7a922786875d94949c50dc65cbc14ce53431f6b2e28ed6e07b8c053381665b73b7fe4ca2b051932b4b82bef69ba3ab7590a7d70d210ca
+Description: Change your font easily . Supports iOS12~iOS16.7.7 !
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.nef0pam.autoscroll
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.nef0pam.autoscroll_1.0.0_iphoneos-arm.deb
+Size: 26484
+MD5sum: 3fad5a0e331a5497edd22fe2fff8726d
+SHA1: 19b43afcb5efd69b50405b2aaf2f7b8662352945
+SHA256: 10f596b0d4838db7a4df815d63251a14bc0b5cddf739c069ca9fd07eeee26281
+SHA512: d40435f20f3d2ebe58aa3a9de6724cb6aa9b66062f73afc1a0f33a2c22da4ddd841dda8823d2b491493c47bbdf3269994c936b2a92cfaf2cc4bfe9e9d09e68a6
+Description: Smart Auto Scroll & Faster Scrolling on all app.
+Name: AutoScroll
+Author: pxcex
+Depiction: https://d.plutorepo.com/posts/AutoScroll
+Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
+SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
+
+Package: com.nef0pam.visionkeysaurora
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.nef0pam.visionkeysaurora_1.0_iphoneos-arm.deb
+Size: 511096
+MD5sum: f5d3c9078eeffc5a354c2b5cb65dc7df
+SHA1: 8ee392dd42ad9a4e283d87cfe030654e968fb49c
+SHA256: 66bf485c6a8f69083f5e1c1bf54c102b0551318748fdf76c6301a259778b7cb7
+SHA512: b28bbd3c6ca9d1b1ad9b3ab53fdc22d0a9ac562d451d25485325219241105e481a29651e6d9d1f6cd93ba7fd3b07af845bedf8c3e56c9d42712a33bc877e67fa
+Description: A beautiful Dark Blue theme for Laetus .
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
 
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
@@ -322,6 +305,23 @@ SHA1: 27dcbbf26c99b5fa113511ec2e790b357b2b86a5
 SHA256: 1a1684b1daffec8b0547496f2a7bba13e2afba239bec003f0b54e3191b35aa29
 SHA512: 0207b2d47592886d51d92f46922a0d94cb6b7e8f75c56f3e332ef51d0ec834a36e67ae297397b3292a2e0c8ef95367d7b9037771ea6af0ac7e6db376a977308a
 Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.nef0pam.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.nef0pam.dleasy_2.14.4_iphoneos-arm.deb
+Size: 5451712
+MD5sum: 9308e8004c482dbe09288e823c32a9a4
+SHA1: 3b716c84efbe921c3122d8b400b8db82841bff59
+SHA256: 4a08d13474faf1bc9e0894ebbe656146d3d312848940cb65fc1ac3d2fd1479b4
+SHA512: 55dab6544b9e71706651ce445ca49893bc438ee272f3095354b8ad19c1b509ef9137eb4a1dbee60fe9c816ebfc257206147842e233b8c7b5ca800d557b5ad9f5
+Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
