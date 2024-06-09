@@ -33,6 +33,24 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
+Package: com.kernelrw.padswitcher
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: SWING
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), plistbuddy
+Filename: ./debians/rootful/com.kernelrw.padswitcher_1.1.0_iphoneos-arm.deb
+Size: 25588
+MD5sum: 4a40dc0a76b0905c656af8f2fb99de12
+SHA1: 67264f0146576691159c77dc9924ab9d49fad0b4
+SHA256: 858c970e065fad1d67695d6a3f6e6295bf11ad4fa4a961e03d47fbb4f8d1cc98
+SHA512: 10a5bb277d24749957e4c1348b5fb1adaf968305d806ad8668b1931c744d08c7221f3f4c90507f62857fb838a3951cbd504b8f41e3ca650179cb7309c92e8e4f
+Description: iPad Switcher but for iPhone . Supports iOS15.0 ~ iOS16.5 on Dopamine 2
+Name: PadSwitcher
+Author: SWING
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm
 Version: 1.0-beta7
@@ -831,6 +849,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/MySwitches.bundle/MySwitches@2x.png
+
+Package: com.kernelrw.padswitcher
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: SWING
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debians/rootless/com.kernelrw.padswitcher_1.1.0_iphoneos-arm64.deb
+Size: 26280
+MD5sum: 4138ddfc57d03b2e4f596efc21b9d450
+SHA1: 6c91a599d3038bcdc535939c1cd62600264b47f0
+SHA256: a992652648edebdcc3c04a2960c96f777a2d0f1eb2943af141fcf4c3eafdbfa0
+SHA512: 32a08c5a7ed7b19f3b1036082349e6c88b732606512af7a16239af9db678e734db652f50e38ba961d6ed50e317fc12d306d2d2494dc901f9a115e6ea3954b054
+Description: iPad Switcher but for iPhone . Supports iOS15.0 ~ iOS16.5 on Dopamine 2
+Name: PadSwitcher
+Author: SWING
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
 
 Package: com.kernelrw.powercuff
 Architecture: iphoneos-arm64
