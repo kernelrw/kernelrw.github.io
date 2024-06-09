@@ -309,6 +309,22 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: me.kernelrw.sileorespring
+Architecture: iphoneos-arm
+Version: 0-2
+Section: Tweaks
+Maintainer: jjolano
+Depends: org.coolstar.sileo
+Filename: ./debians/rootful/me.kernelrw.sileorespring_0-2_iphoneos-arm.deb
+Size: 1164
+MD5sum: 6c1e94e9ce62bf891f67ed6b6ab14fd7
+SHA1: e31a19667a0b94cfaa6a87c23ec5dd1250bc48fa
+SHA256: 1f82bb9e5f564650da7c5e782b8ddae6485fd7ef2c6e3cb45ad15613c4ad1e6b
+SHA512: 34fd6099ed78034d5de74bc5bb4dfc66929da63d93b4846816cac4e8fc98bd97658a3d89080507dffd51f58caf61511125db54bc274214f2800cd6516d522ea5
+Description: Ensures the Restart SpringBoard button appears in the Sileo package manager when installing tweaks . Supports Dopamine 2
+Name: Sileo Respring
+Author: jjolano
+
 Package: me.nef0pam.dleasy
 Architecture: iphoneos-arm
 Version: 2.14.4
@@ -1537,6 +1553,22 @@ Description: Download/Share images & videos from social apps easily!
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.sileorespring
+Architecture: iphoneos-arm64
+Version: 0-2
+Section: Tweaks
+Maintainer: jjolano
+Depends: org.coolstar.sileo
+Filename: ./debians/rootless/me.kernelrw.sileorespring_0-2_iphoneos-arm64.deb
+Size: 1192
+MD5sum: ad31b9e46c98b8a7e12480e458ac2541
+SHA1: 15e9c3ccee909d4142d26ab6a558cae8a9e64d11
+SHA256: 13d5e9ec6e2e941377673ddf6de0cb4b30123e9ce7e3cba8f15c821a98236a83
+SHA512: 3bb7d339e12ac660e9a986144151271ddc0cef82b7c881969da1daf69698f1792ddf7a60b19cfff72652ccac3d1c74ca35e0d6ad29c5dfc20fd3d6c5d78c8307
+Description: Ensures the Restart SpringBoard button appears in the Sileo package manager when installing tweaks . Supports Dopamine 2
+Name: Sileo Respring
+Author: jjolano
 
 Package: me.nef0pam.dleasy
 Architecture: iphoneos-arm64
