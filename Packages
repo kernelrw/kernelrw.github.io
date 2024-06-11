@@ -596,24 +596,6 @@ Author: zqbb
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
 
-Package: com.kernelrw.dumpdecrypter
-Architecture: iphoneos-arm64
-Version: 1.4-4
-Section: Tweaks
-Maintainer: Netskoa
-Installed-Size: 4324
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debians/rootless/com.kernelrw.dumpdecrypter_1.4-4_iphoneos-arm64.deb
-Size: 1296164
-MD5sum: 7fd70b6f1f30f5f46702e1f76ed38e04
-SHA1: 571e5ae7fafee026195e878e49e7367da9a77d82
-SHA256: b19fd9301750e8f79b6201262fbcd3e6de145395c0ab58191c9b60bfc081c34b
-SHA512: 8cb62f7e1e8ba8149b66045a2fbd6be8cdd0a8d37ffcdb8b6c46d9611a17b5cfd680670c93d39d50d7b4df9355c9b21d0ce644e4d50bf94afcba0b406eb04ecc
-Description: Decrypt iOS Apps and Plugins ,Supports Dopam1ne 2 on iOS15.0 ~ iOS16.5
- Icon: https://repo.cypwn.xyz/packages/DumpDecrypter-Rootless/icon.png
-Name: DumpDecrypter
-Author: Netskao
-
 Package: com.kernelrw.facebooknoads
 Architecture: iphoneos-arm64
 Version: 1.2
