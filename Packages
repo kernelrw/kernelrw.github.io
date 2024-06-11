@@ -1068,6 +1068,23 @@ Author: Antoine
 Name: Senri
 Icon: https://img.chariz.cloud/icon/senri/icon@3x.png
 
+Package: com.kernelrw.sileorespringfix
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.kernelrw.sileorespringfix_0.0.1_iphoneos-arm64.deb
+Size: 4700
+MD5sum: 653c2f401aa3b97f03325504225b5997
+SHA1: ee9f457d0200e72c79d14fc76db69514ef81b7d7
+SHA256: f54e3990064a0abc2f936d552b5d16978377605192f18e4a6587b0954220cde7
+SHA512: 021b3f7894c3cf5588ab9fbe7b3c754dca559c57ae15e874acf2a6fb64d32be35c3d14873d3150d20eccfea0879f5a0ec91a8282a262f3f842fcbe202b35be58
+Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens , Supports Dopam1ne 2 on iOS15.0~iOS16.5 .
+Name: Sileo Respring ~ Dopam1ne
+Author: Nightwind
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/sileorespringfix.png
+
 Package: com.kernelrw.sneakycam
 Architecture: iphoneos-arm64
 Version: 2.2.2
