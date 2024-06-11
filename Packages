@@ -203,6 +203,26 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.kernelrw.youtubereborn
+Architecture: iphoneos-arm
+Version: 5.0.0-1+debug
+Section: Tweaks
+Maintainer: Lillie
+Installed-Size: 26808
+Provides: h.ryan.youtubereborn, net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: h.ryan.youtubereborn, net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Replaces: h.ryan.youtubereborn, net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debians/rootful/com.kernelrw.youtubereborn_5.0.0-1+debug_iphoneos-arm.deb
+Size: 9379864
+MD5sum: 90faf507811c20fcda6ff379e1cd5ed2
+SHA1: 13c7a27494bb56e84b23a8846504f564ebedb03f
+SHA256: 807d885a72d92d57839950981ca51da5ba70572c7a1c0dec49a7f695ce968441
+SHA512: fd29420396e0d4de794e2f0fa68bccf5ae845b4c657219969fec528be1934bd363beac68d6f749e910dc44ec5194324e02c96edb5966a396bebcdb198c212a17
+Description: YouTube Customizer
+Name: YouTube Reborn
+Author: Lillie
+
 Package: com.kernelrw.ytlite
 Architecture: iphoneos-arm
 Version: 4.0.1
@@ -1388,6 +1408,26 @@ Description: No inline Ads/Background Play back
 Name: YouTubePatcher
 Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+
+Package: com.kernelrw.youtubereborn
+Architecture: iphoneos-arm64
+Version: 5.0.0-2+debug
+Section: Tweaks
+Maintainer: Lillie
+Installed-Size: 26808
+Provides: h.ryan.youtubereborn, net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: h.ryan.youtubereborn, net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Replaces: h.ryan.youtubereborn, net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debians/rootless/com.kernelrw.youtubereborn_5.0.0-2+debug_iphoneos-arm64.deb
+Size: 9379496
+MD5sum: 8ac3e92385423f5a52a621fb3b52f769
+SHA1: 68784d75bf30e760b56ec4cef330f84ced1e42f5
+SHA256: aebe78197581463739e0bc6583e8d345f32b5ec0d525951ae16b7f9554a718c0
+SHA512: 2f5b67ebd219d57183d9762d9cde5ed175329e329523f6bb04e21e3acc7384930dd75d995af5353c7b3756a010bc064578cd70f17d1139c1c3196a7d58df0799
+Description: YouTube Customizer
+Name: YouTube Reborn
+Author: Lillie
 
 Package: com.kernelrw.ytlite
 Architecture: iphoneos-arm64
