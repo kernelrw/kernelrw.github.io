@@ -968,6 +968,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
 
+Package: com.kernelrw.powercuff
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootless/com.kernelrw.powercuff_1.2_iphoneos-arm64.deb
+Size: 14152
+MD5sum: f4f7d02da8e24cf3e65ee9bf7226a9af
+SHA1: 4a0cc0a052e2bda47dba5ab291225d60b09ee243
+SHA256: 8357da56089aefcce86c0712cf93f8ad5f507cbb7fdfd65609f6e544a401dbd7
+SHA512: 39e5e24caedb63fa0bf74b1d6390386f8d9467d55b2dfcfe082cfc056c483799d1af6e8873ce23efd3ea080ceb4507cfe6e53fc11987b572c80008edd4751f09
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64
 Version: 1.0-beta10
