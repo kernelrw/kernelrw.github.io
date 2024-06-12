@@ -740,6 +740,24 @@ Description: Disables almost all region differences/restrictions on iOS devices.
 Name: Globalize
 Author: parrotgeek1
 
+Package: com.kernelrw.globalize
+Architecture: iphoneos-arm64
+Version: 0.3.3
+Section: Tweaks
+Maintainer: parrotgeek1
+Installed-Size: 440
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: ./debians/rootless/com.kernelrw.globalize_0.3.3_iphoneos-arm64.deb
+Size: 6068
+MD5sum: b58069e679ed6928c623cb219feed7da
+SHA1: 425ab8e50d4f8aba1a7b02979c9af601ebf4bfb6
+SHA256: 276ed93cf2ba28f82b063a92cca6c70ef4d685b45592ca1ddfb27c6f090ffc73
+SHA512: e595fe4235f3586df1c36e6110b50a217f34f1830560e00a921ad5605aa56370ab2b11b1eb35e0a32bb0f682dd21182ca1c732ff3762c81574e79e8780c48647
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation , supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
+Name: Globalize
+Author: parrotgeek1
+https: //api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
+
 Package: com.kernelrw.haptic16
 Architecture: iphoneos-arm64
 Version: 0.8
