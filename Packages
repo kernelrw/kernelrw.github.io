@@ -765,14 +765,15 @@ Installed-Size: 1012
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, xyz.cypwn.kayoko, byg.iosios.net.kayoko, com.skypain.kayoko
 Filename: ./debians/rootless/com.kernelrw.kayoko_2.0.1-1_iphoneos-arm64.deb
-Size: 111988
-MD5sum: ef1ddc90e3ccbd8faf195f3c89804bf0
-SHA1: 56b9be489dc6f57e6d3fce17ce0685abf7c35d72
-SHA256: f29c8a2328a98dea32299be20d63d26ead26a3b8d1695e6c20ab1cd110efb22a
-SHA512: 795f26d77e4e076f698470ac58fda5f00e7155a4538ec27a9fe94e9abd52343fdedf4c70c0da682d4c29472ab98fe4cba5a4d14b88d7acf22ea181b6aee179c8
+Size: 111844
+MD5sum: bded7ec8c2b861673c847cae8b36c3ec
+SHA1: c456a5c8a65221023a497b8a7214f7fc8c0c7eab
+SHA256: ce8ca18cb3ad3fbbe70f95a77c9558fe58e2a663d4c282fc7c58422d70e3e10e
+SHA512: 665dc8b2f7b84ff48a7ef0bb5309c10fad2ff9d1679d997a924e9c5cfd8271710533935083e09708b669f956a8d32dc5d2a96710bf68bb7bcf1978e1494bd803
 Description: kayoko now on Dopamine 2 ; supports iOS15.0 through iOS16.7.7
 Name: Kayoko
 Author: Traurige&Lessica
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
 
 Package: com.kernelrw.kayoko
 Architecture: iphoneos-arm64
@@ -783,14 +784,15 @@ Installed-Size: 956
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
 Filename: ./debians/rootless/com.kernelrw.kayoko_2.0.5_iphoneos-arm64.deb
-Size: 82760
-MD5sum: a225f778a47a9cfe9ad9bb1f8d017060
-SHA1: 1cc5c3a1a2c9dfa2138eb3e394a925daeff6ad8a
-SHA256: d6b5e3d3e28c4cae001d3bdbb49b547e9d59cc06bde983f619edc551306357ab
-SHA512: 31b7ff291d47ddbd0c60d39d3207615cab27d68ba954772d3700746faaa783bbe4e2cb4d25c962ffcd7827c10c9b29ff2a9eac484147e136ea6cf7e0d32d84fe
+Size: 82612
+MD5sum: 5f0fcdd7ab0621d7c7bb3ba383fd68b7
+SHA1: d2201cccd6c72054f0b4549dc1c9ddc51c436a88
+SHA256: af89dd643d690b4444d92911848e69fe659dda7d449e970b501e791ec70694f9
+SHA512: 46b89edcf96ef14f0f914829987d83805b5900036c7fa1a90e77e3d69f5e57b27103d4b9e6654447349c88c84bf08a443923bf244f1d827e4d14721a8ba0c58c
 Description: Clipboard manager for iOS15 ~ iOS16
 Name: Kayoko
 Author: AlexandraAurora
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
 
 Package: com.kernelrw.letmeknow
 Architecture: iphoneos-arm64
