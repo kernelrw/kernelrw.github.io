@@ -538,6 +538,29 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
+Package: com.kernelrw.choicy
+Architecture: iphoneos-arm64
+Version: 1.4.10-3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 814
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/rootless/com.kernelrw.choicy_1.4.10-3_iphoneos-arm64.deb
+Size: 104996
+MD5sum: 9610cb3aa0f7972e3b4bc842ea404549
+SHA1: 0461b7e733ec84602afd47dc8cf75d1f446d7b37
+SHA256: 394348375399eccdba52e827b5b0b02dd573e20d3ec09baa55c9c3043a593bf1
+SHA512: e1d1ebda5321e8acd707d741bee0aa21e263d568452e94595cf785b527d7f1e3739be0049ce2638ed1267d049d647b17704fef21393165c1102ccf08e1cc2401
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.opa334.choicy.png&s=180x180&f=webp
+
 Package: com.kernelrw.cr4shed
 Architecture: iphoneos-arm64
 Version: 4.3.1-1+debug
