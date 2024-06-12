@@ -633,6 +633,24 @@ Description: Decrypt iOS Apps and Plugins
 Name: DumpDecrypter
 Author: Netskao
 
+Package: com.kernelrw.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.4-5
+Section: Netskao-Tweaks
+Maintainer: Netskoa
+Installed-Size: 4324
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.dumpdecrypter_1.4-5_iphoneos-arm64.deb
+Size: 1295656
+MD5sum: eb8a02eee7757d5d2ffadd214e7af724
+SHA1: 02a8875d681dff66448068852debdf86c058ebdf
+SHA256: 74ae2af6b8d7331037b054491504e35c83039aa6c584bce1f3fd0d492198c29f
+SHA512: 9885c07a040242360fd96953ef8803d8dd4075b9691c0da80a011110c58490f467494275e6577221c13ef8d4fd3d9c3da6f4eb8b72c51c7dbb6c915341fbcb6b
+Description: Decrypt iOS Apps and Plugins
+Name: DumpDecrypter
+Author: Netskao
+Icon: https://repo.cypwn.xyz/packages/DumpDecrypter-Rootless/icon.png
+
 Package: com.kernelrw.facebooknoads
 Architecture: iphoneos-arm64
 Version: 1.2
