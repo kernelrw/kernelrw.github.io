@@ -564,14 +564,15 @@ Installed-Size: 3120
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debians/rootless/com.kernelrw.crane_1.3.14-6_iphoneos-arm64.deb
-Size: 571288
-MD5sum: 508db1461d081e4fd3e102c040471559
-SHA1: 7662d61bef9492dd4ab983d514f929108400f2ad
-SHA256: eb9c63a48d114b14c0f332ca5f1ed0ff01233ae82981cfed824235dfa5cea54d
-SHA512: 4934cf6b2095bb6d55ad13c7203282971956904e93c590ed3313d6558cc11bb3c582c346ae7692d373d966c6cfa44fc7e4b271356caed59947c2f2cec5946f71
+Size: 571820
+MD5sum: 83b617510dbcf09848fd26d18984cc84
+SHA1: 3b0e8175fbe0ef9d7fccff7228d2b3a866afca3e
+SHA256: 8719b34e38b5b0cc916c2796c013a2be10837ff651b7c54d54e531809a2cd80d
+SHA512: 134f9c906df7b2c8fab6934ea3e509c04a4422a62c79bd7d235a006ee2feac0af18fb89e444246abeb4bb35f9366cc29834787e2e4a8cb78353d2894d16964e6
 Description: Multiple containers for your applications!
 Name: Crane
 Author: opa334
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F61ffad4e82c2e1d835f525ba&s=180x180&f=webp
 
 Package: com.kernelrw.digitalbattery13
 Architecture: iphoneos-arm64
