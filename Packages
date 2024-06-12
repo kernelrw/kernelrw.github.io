@@ -945,6 +945,29 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.kernelrw.powercuff
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootless/com.kernelrw.powercuff_1.1_iphoneos-arm64.deb
+Size: 14124
+MD5sum: 467a3265537b94fc8f0f6f83abc82754
+SHA1: f62c1ce17331ac60d4f5080886c13bea3a012268
+SHA256: 40268936acdf6be06cd6de10563848c892fc4ca60b660784c5513a7e321b57a4
+SHA512: 7c04e9dc93f00ff166d3b1d2745178bf1dceb99d5ebb8ca3e83be92e04e693f51038e587332df67c258225487dde394849668acd94417f7ab933dafbd043dfe2
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64
 Version: 1.0-beta10
