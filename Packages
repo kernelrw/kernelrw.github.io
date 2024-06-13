@@ -1037,35 +1037,17 @@ Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-u
 
 Package: com.kernelrw.raisetowakecc
 Architecture: iphoneos-arm64
-Version: 1.1-1
-Section: Tweaks
-Maintainer: Netskoa
-Installed-Size: 172
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debians/rootless/com.kernelrw.raisetowakecc_1.1-1_iphoneos-arm64.deb
-Size: 16468
-MD5sum: 182aefd1a80cc9cc5572887cd4732e9c
-SHA1: 054e8afcb6bbd38e60e164ee1f788323babcc561
-SHA256: b1d7fe0f545a15aa6fa3aaa1f8b6c4b365f50eda783638d627264e1d7cc25516
-SHA512: a9e91a331cd7778f22265c6cb980b2fb4f418f99656054224ebed9531f18196511563e184bcbfd5211de65394b7c55975ef26e30f66a81a5d3a9a774d5f34baa
-Description: Quickly enable or disable raise to wake from Control Center, Support iOS15 ~ iOS16
-Name: Raise To Wake CC
-Author: Netskao
-https: //api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.yesky.ccios5.png&s=180x180&f=webp
-
-Package: com.kernelrw.raisetowakecc
-Architecture: iphoneos-arm64
 Version: 1.2
 Section: Tweaks
 Maintainer: Netskoa
 Installed-Size: 172
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debians/rootless/com.kernelrw.raisetowakecc_1.2_iphoneos-arm64.deb
-Size: 16468
-MD5sum: 18ca47ba362155b64b22beccf82d8ace
-SHA1: 968998871df7436ac6097a87076af012de2be325
-SHA256: 22de09b41c5a2745ae7c857e0970190f0dcf51f3de35a54b99120ce36f4b0a8a
-SHA512: 58b7da2c38830732c8694a4e3fd68037f08531653d6b6eef08c897318e60bea673356fb5ae34f6532c6a07ed6c95bba0d1033d05f0a31c72715703c5d3d1cd04
+Size: 16496
+MD5sum: 552705dbe07e91f4752b97ec520ff59f
+SHA1: 0e46c262f2eebd79c10525e5a1aa318fe2cce1ef
+SHA256: 20302c5973fef18ae8e3fe2d2a5687e331a03bdb1d25c09f2cbddd2c461cb524
+SHA512: e3d46e63bd63fa232031b6ff483e90a5725f950edbb5dfc7dc7bfe075b4acf9e982697b2b343476252a79a0fcb684f6b2e6eacdc96defc560f7b65e29b5bef58
 Description: Quickly enable or disable raise to wake from Control Center, Support iOS15 ~ iOS16
 Name: Raise To Wake CC
 Author: Netskao
