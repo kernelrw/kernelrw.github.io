@@ -1035,6 +1035,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
 
+Package: com.kernelrw.raisetowakecc
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/rootless/com.kernelrw.raisetowakecc_1.1-1_iphoneos-arm64.deb
+Size: 16468
+MD5sum: 182aefd1a80cc9cc5572887cd4732e9c
+SHA1: 054e8afcb6bbd38e60e164ee1f788323babcc561
+SHA256: b1d7fe0f545a15aa6fa3aaa1f8b6c4b365f50eda783638d627264e1d7cc25516
+SHA512: a9e91a331cd7778f22265c6cb980b2fb4f418f99656054224ebed9531f18196511563e184bcbfd5211de65394b7c55975ef26e30f66a81a5d3a9a774d5f34baa
+Description: Quickly enable or disable raise to wake from Control Center, Support iOS15 ~ iOS16
+Name: Raise To Wake CC
+Author: Netskao
+https: //api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.yesky.ccios5.png&s=180x180&f=webp
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64
 Version: 1.0-beta10
