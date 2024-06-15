@@ -944,6 +944,23 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
 
+Package: com.kernelrw.lscontacts
+Architecture: iphoneos-arm64
+Version: 3.5.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1748
+Depends: firmware (>= 13.0)
+Filename: ./debians/rootless/com.kernelrw.lscontacts_3.5.1_iphoneos-arm64.deb
+Size: 1029576
+MD5sum: 1a0440aa615e16e7d7c6ecc7fefd2607
+SHA1: e9dcca4fd2ce1626680aa6fa0ff87ba0bd677a0f
+SHA256: 4ef9991e70479354b9d09eed6edcc92f6288a50fe5be3716c4bf95377b0c6e15
+SHA512: 86598ba2333232810afc9e0d1b8b93bbefffdc20a9a39fb18253b2917a39348da5e7bc9787036d6f506310a5bebb4ae35d7012beb28c01e87ebecc1afa2d08b0
+Description: Contacts bar right from your lockscreen , supports iOS13.0 ~ iOS16.5 .
+Name: LS Contacts
+Author: 0xkuj
+
 Package: com.kernelrw.myswitches
 Architecture: iphoneos-arm64
 Version: 1.0.7
