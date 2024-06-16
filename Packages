@@ -1414,13 +1414,14 @@ Architecture: iphoneos-arm64
 Version: 1.2.0
 Section: Tweaks
 Maintainer: ApexTweaks <support@apextweaks.com>
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Installed-Size: 5036
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/rootless/com.kernelrw.veza_1.2.0_iphoneos-arm64.deb
-Size: 3210244
-MD5sum: 4f7bb18e6cb65a172462d9af146dff4d
-SHA1: 7e60fbf3794f212afc113d29c2c29397f18c8cb9
-SHA256: 32a49696f24fafedff3e3483836fba65ee2005a011c87467a0d5fd83f2b5a36b
-SHA512: 48f80b788aa3ab592f3a961b422cd91fe1a17596ca8960758e998cdaaff670deeaccff3ac362879a9ba55fcabbb868a30ef8f999fae4894b838e3182ec61c436
+Size: 3208724
+MD5sum: 6d65222b49a8ac49acd3cd78a77d83c5
+SHA1: 2e235d98f1a878b0c1e0b0944f2db6c492f41ae7
+SHA256: 478b5f03308ea2b94763809a19d29ea076c90800dde930705b6df66cfb5b503d
+SHA512: 7e8a2221710aec56bc428f4602dfd722e3c510fd7a4a55ceedf84ce5b291a96a6a1c7ad2eebb14e348474eabe0c9d4060623498b3817fde957b6ff089d3583dc
 Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
 Tag: compatible_min::ios11.0
 Name: Veza
