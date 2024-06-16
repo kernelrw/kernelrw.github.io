@@ -242,6 +242,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.kernelrw.ytmusicultimate
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 26388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.kernelrw.ytmusicultimate_2.1_iphoneos-arm.deb
+Size: 9271408
+MD5sum: 6ca2056af3ea3f7d07824dda857a51e8
+SHA1: e4bb9597cd035094d707c4b62ce505e5c391652b
+SHA256: 1d7b8d500eb4349fca770ea5d7b7e118f287b83aa68611c0bc8693d3f7df859d
+SHA512: f53012bf17da09bb5647c806a36154f77399207f8bf7360d116f774a1b76c89841e6ad9eb03f843b2031a5652553b331854a1946907866ebaa8443014db3c549
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: Ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+
 Package: com.nef0pam.a-font
 Architecture: iphoneos-arm
 Version: 1.10.1
@@ -1803,6 +1822,25 @@ SHA512: f25002b4d4873bbb4a7bcbf78d1a7ed8ee9cbd11eff0315bd7df791556c5fed6aa9dcc51
 Description: Great Youtube enhancement . Support iOS15 ~ iOS16.7.7
 Name: YTLite(rootless)
 Author: DVNTM
+
+Package: com.kernelrw.ytmusicultimate
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 26388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.kernelrw.ytmusicultimate_2.1_iphoneos-arm64.deb
+Size: 9269484
+MD5sum: da883f73b8df8e958f4e8c1ea53fc1c8
+SHA1: e8dfc143c1528d0bc86850476e5e4fcbb8655d02
+SHA256: e2d2ef7b803dbe3f8c4121e21fec3d5965a500efccfdc53ff27af0e1966f836a
+SHA512: 1c0366b5404b70165cd1c2eef62b0e7b51adf69f6b4daadc331f06f6f99d350877910ae20c8dda07ff49e6674aa767d58fa119955b4e33ff805fb564a19f8cac
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: Ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
 Package: com.nef0pam.a-font
 Architecture: iphoneos-arm64
