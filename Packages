@@ -610,6 +610,47 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
+Package: com.kernelrw.ccautobrightness
+Architecture: iphoneos-arm64
+Version: 1.0.0-1
+Section: CC Modules
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: com.opa334.ccsupport
+Filename: ./debians/rootless/com.kernelrw.ccautobrightness_1.0.0-1_iphoneos-arm64.deb
+Size: 18156
+MD5sum: 9804c696e26168e0f4364342925a6897
+SHA1: f08965d162e0adb4263f576b48ab64ff9492d772
+SHA256: 2cb1f2e24ec75770612dd2bfdeb05b9d152d11e24f3033d525547444bd3eb90c
+SHA512: cecc38a7ac1d744524d888394ffb8eed759f47009cda7a7ed6e1d931924178320ad6b6f6202f54153a297940a4dafb33743e99e432157d82ef14bbe973d3b1df
+Homepage: https://skypain.github.io/repo/
+Description: Adds a module for AutoBrightness in the control center ; supports iOS15.0 ~ iOS16.5 .
+Name: CCAutoBrightness
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://skypain.github.io/repo/src/ccautobrightness/Icon.png
+Depiction: https://skypain.github.io/repo/static/view/?p=ccautobrightness
+SileoDepiction: https://skypain.github.io/repo/src/ccautobrightness/config/sileo/depiction.json
+
+Package: com.kernelrw.cconandoff
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debians/rootless/com.kernelrw.cconandoff_1.1.0_iphoneos-arm64.deb
+Size: 5656
+MD5sum: 628e8d0f41713745337e5ab67f9c2219
+SHA1: d1ea84a3b8a79b76f11bace21c7cfb21ba18c1d4
+SHA256: 28c41f888772bf022ada115b8f7bdafddaf2c4525e54dbebf5a5108151be614a
+SHA512: 246197d8f3e1662c489f3157fa299689ae19171348175ed3b9766f180d4b3c31852afcd1ad90de347bd70451ca492a35070bc30be889dfa2a8f1116b049176d4
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11 ~ iOS16.5) !
+Name: CC On & Off
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
+
 Package: com.kernelrw.choicy
 Architecture: iphoneos-arm64
 Version: 1.4.10-3
@@ -632,6 +673,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.opa334.choicy.png&s=180x180&f=webp
+
+Package: com.kernelrw.colorcodedlogs
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debians/rootless/com.kernelrw.colorcodedlogs_1.0_iphoneos-arm64.deb
+Size: 5004
+MD5sum: 54594cab324aab0caf718dfc2719a67c
+SHA1: f5ac1c069b096a31df0ab120cf41fae243c6eaef
+SHA256: 548ba31a673ba4e81724b389d6df1fa101e87c92159ddd83c28ed57684863cc0
+SHA512: 1ff733e3c621b77248476a8b1b63f0cf36301c646e0fab873764873cd942f1c7f72e88e411153d3d0af4f0f9feaeead165af47f824e3d1af1769ca57009d96ee
+Description: Color-coded recent MobilePhone app logs ; Supports iOS13.0 ~ iOS16.5 including Dopamine 2 !
+Name: ColorCodedLogs
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorcodedlogs
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorcodedlogs/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorcodedlogs.json
 
 Package: com.kernelrw.cr4shed
 Architecture: iphoneos-arm64
@@ -1980,6 +2041,23 @@ Description: A beautiful Dark Blue theme for Laetus .
 Name: VisionKeys Aurora
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: dev.kernelrw.ccshutdown
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: CC Modules
+Maintainer: ExTBH
+Installed-Size: 204
+Depends: com.opa334.ccsupport, mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/dev.kernelrw.ccshutdown_0.0.1_iphoneos-arm64.deb
+Size: 17016
+MD5sum: eb5e29d7b984a838e24d29a27cda9ea4
+SHA1: 5bed9f8208dfebb37c7c07920ad98539d814eb5b
+SHA256: acea9082edebcb672ef45aed74337fcfa9d5b4d4f00cc3fa10341000d9065ba7
+SHA512: 58928f0d45766611e5e313b116eb2816c6b3ae669da3a614f6030015047f40bd07a75401b1034adc8149dc8e8fac6ebba2958185c1396da7e2e18815824edc1f
+Description: Scheudle a Shutdown (and more) from your CC ; Supports iOS15~ iOS16.5 including Dopamine 2 !
+Name: CCShutdown
+Author: ExTBH
 
 Package: emt.kernelrw.xinamine
 Architecture: iphoneos-arm64
