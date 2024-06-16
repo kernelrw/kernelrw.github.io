@@ -836,6 +836,25 @@ Name: Kayoko
 Author: AlexandraAurora
 Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
 
+Package: com.kernelrw.kayoko
+Architecture: iphoneos-arm64
+Version: 3.0
+Section: Tweaks
+Maintainer: Lessica
+Installed-Size: 1012
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, xyz.cypwn.kayoko, byg.iosios.net.kayoko, com.skypain.kayoko
+Filename: ./debians/rootless/com.kernelrw.kayoko_3.0_iphoneos-arm64.deb
+Size: 110824
+MD5sum: 03aab9c18c2c98a6220f3be1ae01c9c4
+SHA1: 8faf35c93c7e377fa11534812d527dadb31da6b2
+SHA256: 0004d6ed0855083a357c9c5b16dd083ebbefdd7018dc0f485a4cc5606bf85a98
+SHA512: 2ea4fd9616f7021b60c1548af6785453b910684f4fd7e8d4691d39acc7ecb4d63b7ece91a8691626394c4af64a85220b592385f241631ba8e74c1528bc76e030
+Description: kayoko now on Dopamine 2 ; supports iOS15.0 through iOS16.7.7 !
+Name: Kayoko
+Author: Traurige&Lessica
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
+
 Package: com.kernelrw.lastlook
 Architecture: iphoneos-arm64
 Version: 4.2
