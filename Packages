@@ -669,6 +669,25 @@ Name: Crane
 Author: opa334
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F61ffad4e82c2e1d835f525ba&s=180x180&f=webp
 
+Package: com.kernelrw.cylinderremade
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Section: Tweaks
+Maintainer: Ryan Nair
+Installed-Size: 652
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Conflicts: com.ryannair05.cylinder
+Filename: ./debians/rootless/com.kernelrw.cylinderremade_0.0.5_iphoneos-arm64.deb
+Size: 104580
+MD5sum: 0be4ea3f34a1d0b1ce1873102209de35
+SHA1: cbbdac318ab880a0a2d78e272691cfd486d3c24c
+SHA256: c0489ba1a2306d4351ed154ebe7c5be979470b4704ad922c9eabe12a7e83058b
+SHA512: b0ae9f8a3c685aa60149ea3e91bf855a72ef0b07452809e2c6f3c4941f35f4f251e6f7b4d78864891e921352f7f814e5565f2bec3fd7604ce92cad0274e7e68c
+Description: Make your icons dance ; Supports iOS14 ~ iOS16.5 including Dopamine 2 !
+Name: Cylinder Remade
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
+Author: Ryan Nair
+
 Package: com.kernelrw.digitalbattery13
 Architecture: iphoneos-arm64
 Version: 1.1.0
@@ -1308,6 +1327,23 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
 
+Package: com.kernelrw.respringextension
+Architecture: iphoneos-arm64
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 596
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
+Size: 41856
+MD5sum: 0afc42ac397c75df6e27e026b3342bdf
+SHA1: 40fee77b141b821082327cb385dd061ec661a68c
+SHA256: 11e1c2c168de110fa42c414250b3f754c32d168cffc0a5c897fc470678244f08
+SHA512: 105827e15eee8f0efa0a1e568965e9e9f5a02543c2c0320294934fdf17fe658da631d186cb90575120e8607b17a4ba8865939dceefa1fc8c70d5c44bdd612680
+Description: Respring icon extension for SnowBoard ; iOS15 ~ iOS16.5 rootless !
+Name: SnowBoard Respring Extension
+Author: Spark
+
 Package: com.kernelrw.ring
 Architecture: iphoneos-arm64
 Version: 1.0.2
@@ -1425,6 +1461,23 @@ Description: Discretely take a photo or record a video from anywhere, even with 
 Name: SneakyCam
 Author: Spark
 
+Package: com.kernelrw.spotcc
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.spotcc_1.0_iphoneos-arm64.deb
+Size: 3032
+MD5sum: 06acdd79d5bdf1668ed83c304f57478c
+SHA1: fc98aad349c18bfef2d5a70b8ada4f4ddea8eb92
+SHA256: 245858a5f26910b1361f519b1c3b9720de0ea9a0a85c0a664cab9c9d1ee7c831
+SHA512: fd22f2292a7e97175a8be41b9783ebbfb3cacc3435284497b99cfc8456fbcfdff23c0af3a2ab9995680e90d02f7cdcbdf900a15f3b2e53e11af4167bcbd5b244
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen ; Supports iOS15.0 ~ iOS16.5 including Dopamine 2 !
+Name: SpotCC
+Author: P2KDev <p2kdev@gmail.com>
+
 Package: com.kernelrw.spy2
 Architecture: iphoneos-arm64
 Version: 1.3-1
@@ -1443,6 +1496,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: Spy 2
 Author: elias
 
+Package: com.kernelrw.sugarcane
+Architecture: iphoneos-arm64
+Version: 1.2.4.2
+Section: Tweaks
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.ioscreatix.sugarcane
+Filename: ./debians/rootless/com.kernelrw.sugarcane_1.2.4.2_iphoneos-arm64.deb
+Size: 7904
+MD5sum: 4fd082e726f13f944be256da2fcad49f
+SHA1: 196591f4ebda0d1573cdb34870fda8d91d1be401
+SHA256: 7c3feb08dc095051ef06b35b7e7fee2feb20a866dcb494c263e325197c43b453
+SHA512: 9758b3e4c2e156b5663ff1fb0e1a15f376a177481e4647960b2c452964b7e6a745d03766e7c6bea39093e99529e02a960e2dbc164f335a694f65284436e6339e
+Description: Show Percentage For Volume & Brightness Sliders On Control Center ; Supports iOS13 ~ iOS16.5 including Dopamine 2 .
+Name: SugarCane Dopamine
+Author: iOS Creatix, kasiimh1, p2kdev
+
 Package: com.kernelrw.swiftgramplus
 Architecture: iphoneos-arm64
 Version: 4.2.0
@@ -1458,6 +1528,23 @@ SHA512: e59e50739236090d3aa306905a02a9dc258595833180043170a2b248889086f8878685a2
 Description: Remove ALL chat block restrictions (including 18+) & enables stealth mode for stories.
 Name: Swiftgram++
 Author: Randy420
+
+Package: com.kernelrw.systeminfo
+Architecture: iphoneos-arm64
+Version: 2.7.2-8
+Section: Tweaks
+Maintainer: ARX8x
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.systeminfo_2.7.2-8_iphoneos-arm64.deb
+Size: 272740
+MD5sum: 33c33877490bc67331e7bb3e8a40ba30
+SHA1: 79cffdb7b507181a723c1eb7642ad2f601bddecb
+SHA256: 43b734d92b7f4bf3af0ba946a6062cbd4e16c211fa59f24471edd65e996638f2
+SHA512: 65c3d6d62cff54a805a4ffc430fcca77e632a924a8aaa02faf22c267cc4f0e9635236e7065d813bc0da95740f95f9204c3963ca700da6f1976167cc087af5e10
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Name: System Info
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Author: ARX8x
 
 Package: com.kernelrw.tinge
 Architecture: iphoneos-arm64
