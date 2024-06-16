@@ -484,6 +484,59 @@ Description: Control your BlueTooth & WiFi .
 Name: AutoTooth
 Author: Tr1fecta
 
+Package: com.kernelrw.axon
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: Baw Appie
+Installed-Size: 628
+Depends: mobilesubstrate, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/rootless/com.kernelrw.axon_1.5_iphoneos-arm64.deb
+Size: 139032
+MD5sum: 0af4983c5fd5730a3ee4fd954656946b
+SHA1: 14b306ed7e99e960db68efffa82c9c144468af98
+SHA256: 63bfeab784c590e4ec1e4b3318daf2df1d3ffb9c59778e5c89338040d70dc4a9
+SHA512: 4551bf165e7fd9c1fe39970d23499c1ca1a5cc6f4702b454aa16e699569447df1837a987766cb3de48a5e27d6182de8d3018f83239a2caf3ffedb0161df3715b
+Description: Priority Hub for iOS 16 , supports Dopamine 2
+Name: Axon
+Author: Nepeta & Baw Appie
+
+Package: com.kernelrw.betterccbrightness
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/rootless/com.kernelrw.betterccbrightness_1.0.1_iphoneos-arm64.deb
+Size: 42448
+MD5sum: a3f61aaf57164d0eff766117fb4f4cd4
+SHA1: 1f6a88e3d3c9d252e629c3018535ddd834f3459d
+SHA256: eba7ecf784416b77a59c23870268e82bb23385996a5a8d7b326d575e289a01f5
+SHA512: 1199640ae9e404ff1610d0fd57ad5a32f09343100d374aea99a5e3d73548a78c907ca8093944f7a9444b0d690c5a386a2ccf96cd621d1cee8a017cabe0fec192
+Description: Add more controls to the expanded brightness CC module , supports iOS13 ~ iOS16.5 including Dopamine 2 !
+Name: BetterCCBrightness
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
+Author: level3tjg
+
+Package: com.kernelrw.betterccxi
+Architecture: iphoneos-arm64
+Version: 1.6.0
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.kernelrw.betterccxi_1.6.0_iphoneos-arm64.deb
+Size: 82264
+MD5sum: 2150b3e689ba9a379e39e71d9a6e09dc
+SHA1: f08764cf058dd0c0d64c2e14a78c099a1071d27d
+SHA256: 101a76c857b38a223d490faac813abdad9f5e53d2e748b44b5f4d88e2d2d9e6d
+SHA512: da051d31a87c121e9350c7bd90f9fbe081ccd922cda6d88ef7cf563753cfe4ab18ff3bbfca07e844650db3bd484bb49f5fd68e08cd2286e58259a3a36de8e34b
+Description: Enhance your control center on iOS11 ~ iOS16.5 , including Dopamine 2 !
+Name: BetterCCXI
+Author: ATWiiks
+
 Package: com.kernelrw.breezy
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -639,6 +692,39 @@ Name: BlockAppUpdate
 Author: zqbb
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+
+Package: com.kernelrw.doubleclickwake
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 140
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.kernelrw.doubleclickwake_1.1-2_iphoneos-arm64.deb
+Size: 3824
+MD5sum: cb55b8081b6181951e8f59aee1eb2bd8
+SHA1: d51aba551a6ec2e30167daaaf3cb1615b92c9764
+SHA256: a4aed1462d482ba0ac218bd6942f628eea9680eae35254d435eff11b5b1bc520
+SHA512: 348bd619af89566b374cc1f1990c2bbb1070fc743a4e0b44ac4ba88751e80ee44bc29e61d8a7cc2036f71510d44a7e495ab52e499fd367f6f8d3d14bb0e3d92d
+Description: Double Click to wake up your device ; supports iO11~ iOS16.5 including Dopamine 2 !
+Author: Netskao <netskao@gmail.com>
+Name: DoubleClickWake
+
+Package: com.kernelrw.doubletaptolock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.doubletaptolock_1.0.3_iphoneos-arm64.deb
+Size: 12288
+MD5sum: a55391965f3c4d3343df7cb3c988b524
+SHA1: b8693a100b975ad2090b8fdfec3ed80c79be596b
+SHA256: a3030e90c73e15799775645755e5f2efbe5b3681a937c3fbfb9ea1b8c42f6f97
+SHA512: b332e55f3235a720a1ea37153ba383b77df3fd3bb94dd2f49619c25a5ba7d58677967715e1ee9e3a452417e1518a7e8aef11a18ffe2c60f0c2e9c2d5360c492c
+Description: Lock Device by Double Tapping on Home Screen/Lock Screen ; supports iOS15.0 ~ iOS16.5 including Dopamine 2 !
+Name: DoubleTapToLock
+Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.kernelrw.dumpdecrypter
 Architecture: iphoneos-arm64
@@ -1252,6 +1338,24 @@ Description: A tweak to hopefully save you when your device gets frozen to be ab
 Name: SafeRespring
 Author: nicho1asdev
 
+Package: com.kernelrw.searchy
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 168
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.searchy_1.0.2_iphoneos-arm64.deb
+Size: 6720
+MD5sum: 285fff867c7ea75f325fcd0ac6e9e485
+SHA1: a2f317b7460e2e8e737c0b594ed48adb41fba7a9
+SHA256: bc099b114c464ac6dc8174511e6217352b3cacde816e94f865f8fbf12857d050
+SHA512: 91cf4bc445d8ed82270c290ecdc5d6d4618351f778d9d01befb418559aa965a8ca94ae4610bbf9fd15329b5d1bb9330829775bd934e1871bf12374c127e8d57e
+Description: Adds a search bar into the "Recents" tab in the Phone app , supports iOS13 ~ iOS16.5 including Dopamine 2 !
+Name: Searchy
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.searchy
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.kernelrw.senri
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -1335,6 +1439,24 @@ SHA512: e59e50739236090d3aa306905a02a9dc258595833180043170a2b248889086f8878685a2
 Description: Remove ALL chat block restrictions (including 18+) & enables stealth mode for stories.
 Name: Swiftgram++
 Author: Randy420
+
+Package: com.kernelrw.tinge
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 204
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.tinge_1.0_iphoneos-arm64.deb
+Size: 20352
+MD5sum: 039e4718638b9a57121c477405842ea9
+SHA1: 5836c96d5ef6e6c4e94c6ff0706d0aed516a0f96
+SHA256: 3095fd4c02d9e0a25514747f613fd963988b6326517137325128543e2e566654
+SHA512: 4b9c55ce8013f731eceeb6cf45ee4b2d26063d4a462e16890eab30071e5529853fd45a0db8e9309e5b846b1b08e56d3fa6bb6c60f62b3e4455af10a91c80e06d
+Description: Color your badges with Perfection , supports iOS15.0 ~ iOS16.5 including Dopamine 2 !
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
 
 Package: com.kernelrw.uyou
 Architecture: iphoneos-arm64
