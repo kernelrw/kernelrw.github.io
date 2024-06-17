@@ -643,6 +643,61 @@ Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://cydiageek.yourepo.com/pack/nodockground
 SileoDepiction: https://cydiageek.yourepo.com/sileo/depiction/nodockground
 
+Package: com.kernelrw.nointerruptwhenplayingmusic
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.kernelrw.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm64e.deb
+Size: 5276
+MD5sum: 37f2f6359261a02049d87e71d3db53d4
+SHA1: f5d62e246e5437597afee6ec3b6301e9b1094c49
+SHA256: 8c975281295bf1e72fedc41f0a13e5284623c3b9826de0710c6edf4bc7edf057
+SHA512: f8623ebfea0c307fe0adff9add9f07c34fe31ca15fab056ec79417a700dc826fc8c3cc9475ccac59b0977aea786033705db749ccdb18d397619f72901e6ac295
+Description: Quiet notifications when music is playing.
+Name: NoInterruptWhenPlayingMusic
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.nointerruptwhenplayingmusic
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.nointerruptwhenplayingmusic/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.nointerruptwhenplayingmusic.json
+
+Package: com.kernelrw.nowplayingiconxvi
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.nowplayingiconxvi_1.0_iphoneos-arm64e.deb
+Size: 10704
+MD5sum: b85ae9acf58217bd3363022cda7c3cea
+SHA1: 4b5b8dcd895b576df5cff815a64d6150a2759649
+SHA256: e6b7a088a36c4a79d01545446e68216c1e37545d3ebd40898fb9cc150b302648
+SHA512: 64070b00df803d9e1999ebcc13c190d938c252471222c78403b87ab0ff7c77c7647f879ca7291af65df07ca723686f2200fb47fb9e87ba2e2617d0de27994842
+Description: Change your now playing app icon to the album artwork of currently playing music!
+Name: NowPlayingIconXVI
+Author: Ethan Whited
+
+Package: com.kernelrw.pulloverpro
+Architecture: iphoneos-arm64e
+Version: 2.1.5-3
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debians/roothide/com.kernelrw.pulloverpro_2.1.5-3_iphoneos-arm64e.deb
+Size: 708700
+MD5sum: 310072ca84cbc6deba656112c34109b6
+SHA1: 5e42bb17896e1443a113cb528025336c9336ef74
+SHA256: ff8345b902a090e67fa0f34e1296dad089bdd9a9100f317a2c8783cb9dce1eaa
+SHA512: ff65e742ed4a69a658aa1ea5f83590204a9426e36e82fa0d47c1993a496faa73ade5ccbcffb9400a12961816310a62710952e2e5fe997d227c1fdd03041fdb5e
+Description: A better way to multitask! Fix support for iOS15+
+Name: PullOver Pro
+Author: c1d3r
+
 Package: com.kernelrw.recordanywhere
 Architecture: iphoneos-arm64e
 Version: 1.1.0
@@ -658,6 +713,23 @@ SHA512: fc47fc96148ec167fb597c41073d0bf1b23cf52274b9c8bbbc54f9c026f42b0e7e493fb6
 Description: enable screen recorder always work even on lock screen
 Name: RecordAnywhere
 Author: Muirey03 & lclrc
+
+Package: com.kernelrw.settingswidgets
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: shepgoba
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/com.kernelrw.settingswidgets_1.2.3_iphoneos-arm64e.deb
+Size: 73200
+MD5sum: 4016ba93550bfa1365a474d5664e62d5
+SHA1: 0026548f46c5987cf53f8c1499917cad9f270b0b
+SHA256: aa48f9a41515eecb26ea8c3cac7ae35a204d3e929280891b70ba750d182d362c
+SHA512: aae39061db387593c5bba4cca0b0b155a579760ca60458532b55c4c94b9fb770f42859a34620cde13aaddb19709642035ce39cda7b075cc94ec0d769e4305dcc
+Description: Bring good looking widgets to the front page of settings!
+Name: SettingsWidgets
+Author: shepgoba
 
 Package: com.kernelrw.showtouch
 Architecture: iphoneos-arm64e
@@ -675,6 +747,26 @@ SHA512: 94220a24b6bffe38eeebb806659b395e49b087d297402e7f0213c8f2c2cdab7ea0831c81
 Description: Shows where you touch the screen
 Name: ShowTouch
 Author: LonestarX
+
+Package: com.kernelrw.simplebattery
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 472
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.simplebattery_1.2.1_iphoneos-arm64e.deb
+Size: 40764
+MD5sum: 65570b9b75890238af353014dde67109
+SHA1: 1d2ebf4ae4c8c00887d766f24b13ca058c569d1e
+SHA256: 44bbdf259f650d8c0958bde7c882edc30f83875e08b7b1c81d5203821fea33a3
+SHA512: 01016ce52e4f9f02eb9468df0bf8ac602c386a2a360258c4aa53736d38ce725b90403c033c3369bf745373eb71778757a5ff82971624c5c5445eea4c937f84b6
+Description: Simple Battery for Notched Devices!
+Name: SimpleBattery
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.simplebattery
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
 
 Package: com.kernelrw.swiped
 Architecture: iphoneos-arm64e
@@ -705,6 +797,24 @@ MD5sum: 8a9b3ea16b93f96e6bc32b466b0e631a
 SHA1: 2b6f9a731b5c96f392748f61a094d68f9a935bd1
 SHA256: dd76f79f0d0bdee69719cfddf645ff5cc15d9cd0ad9bafbcacd23ecb4b9479bc
 SHA512: 9c036b0c5074353a0291b64fc22a5ea46a4705f786bafa1503164a2bbce788d9694a95289c32728046c411f179635f66e46a456c499154fdfa8bcc58fb84b4f8
+Description: Useful actions on the Keyboard Dock View!
+Name: UnderDock
+Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.kernelrw.underdock
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 676
+Depends: mobilesubstrate
+Conflicts: com.restiveconch.actionbar, com.udevs.dockx
+Filename: ./debians/roothide/com.kernelrw.underdock_1.2_iphoneos-arm64e.deb
+Size: 57556
+MD5sum: 3feb5b9ba6797f68ed4a676be4197884
+SHA1: 800594ae2ee87d987a1a1324dd76a90ff1d7a95e
+SHA256: 4db90220e6b77ab6aa18bca22a31bb45d45c328c2ea3886ce818fc19fab35148
+SHA512: 8f20fc74277c06d2b997bf9ffdf14a70cf7a69b9d50ec19f91fcb87a0ac641bd7966f18658bcdad47f2f47385dc7bfad265139b6f5a2b1eb1419bd26c623f381
 Description: Useful actions on the Keyboard Dock View!
 Name: UnderDock
 Author: P2KDev <p2kdev@gmail.com>
@@ -1515,6 +1625,43 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/MySwitches.bundle/MySwitches@2x.png
 
+Package: com.kernelrw.nointerruptwhenplayingmusic
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.kernelrw.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm64.deb
+Size: 5284
+MD5sum: 417d2b22c9cad06e1110d2f411e3a16a
+SHA1: 4e92fb7acd1bfd9cf38c289fc287071e50d91f2b
+SHA256: 9377e7539f993ddf1de6cc9bbd274243f24d5eba4eb95757439a85c903017603
+SHA512: 13e49a464f1dcad3c8f21bc7d438fa9e97efe7330ed380f465c135b34e63ae3ad85a105af1986df9223d638d66c242fb2089a70a05df784f2e0556b68183a675
+Description: Quiet notifications when music is playing.
+Name: NoInterruptWhenPlayingMusic
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.nointerruptwhenplayingmusic
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.nointerruptwhenplayingmusic/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.nointerruptwhenplayingmusic.json
+
+Package: com.kernelrw.nowplayingiconxvi
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.nowplayingiconxvi_1.0_iphoneos-arm64.deb
+Size: 10736
+MD5sum: 296059f139072893dbeab8f2a212bba2
+SHA1: c9062827e0402afc242a2f104ec66386429758d2
+SHA256: e48228200ca1afa390e674633168ca7c322162220d0cd9e47e29fd8a37708ef5
+SHA512: c995e1d0b7bfd46730f57b43a276c25bf1dc530189f45003ae04c461f7f4cd9c19b86bb23565e64e6f8cd0f11f052bb7a76a6374fd79d41587d7ae8ee52c8b2a
+Description: Change your now playing app icon to the album artwork of currently playing music!
+Name: NowPlayingIconXVI
+Author: Ethan Whited
+
 Package: com.kernelrw.padswitcher
 Architecture: iphoneos-arm64
 Version: 1.1.0
@@ -1600,6 +1747,24 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
+
+Package: com.kernelrw.pulloverpro
+Architecture: iphoneos-arm64
+Version: 2.1.5-3
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debians/rootless/com.kernelrw.pulloverpro_2.1.5-3_iphoneos-arm64.deb
+Size: 708312
+MD5sum: 2e235cbe5cfbe401e13d2b54f8c6e969
+SHA1: 1b28a04ece2050f803e4e4b9af914d56299fe8b3
+SHA256: e62b3dbc43484485b79461d20434f8d2b01132686a4d3910bad20be4ffc88f10
+SHA512: fbc0d6b25d37bf62a71567570ebbde83def44144aa067de108aa005d38824cda45d207e12aa510e314c6b2fbefa9bf83ea5cb3b26fa2428aae21e1c3940e5ffa
+Description: A better way to multitask! Fix support for iOS15+
+Name: PullOver Pro
+Author: c1d3r
 
 Package: com.kernelrw.raisetowakecc
 Architecture: iphoneos-arm64
@@ -1815,6 +1980,23 @@ Author: Antoine
 Name: Senri
 Icon: https://img.chariz.cloud/icon/senri/icon@3x.png
 
+Package: com.kernelrw.settingswidgets
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: Tweaks
+Maintainer: shepgoba
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/com.kernelrw.settingswidgets_1.2.3_iphoneos-arm64.deb
+Size: 73216
+MD5sum: f151e1e8feb3762899a29e26fc777c8b
+SHA1: bbf6fffa4f88267e59296a94bbb24040b24dcf7c
+SHA256: 6610c41e54e32277366c2aaf17b1c845859094ce70e0c2f4e4f39ff76772a358
+SHA512: ffb9ecef239110c22cd6bbcaf6b8e1c86080621bc039dd55fd83fb08fc870f26456924991802d6ebd4f774c7aff770dc04da6dbe04e03fc4aad4af37177de52d
+Description: Bring good looking widgets to the front page of settings!
+Name: SettingsWidgets
+Author: shepgoba
+
 Package: com.kernelrw.sileorespringfix
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -1831,6 +2013,26 @@ Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug
 Name: Sileo Respring ~ Dopam1ne
 Author: Nightwind
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/sileorespringfix.png
+
+Package: com.kernelrw.simplebattery
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 472
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.simplebattery_1.2.1_iphoneos-arm64.deb
+Size: 40768
+MD5sum: 5a5efdee7b458003b4333f848e3641d6
+SHA1: b06d970cb739483cd3ffd12dc4ab69c22b07bfd3
+SHA256: 4a1cf49425af8029060166a06f147aae049e040138d5ebce5c9ee9fe1fb9012a
+SHA512: b65695fcbf46a047f1f737babc1b542d2d5a56d483c3ea91caf0fbd9cf2c656c1eca58ba19015e2c8f3081997cf47b2772a1764dbbc27d85b23ce5f4a86021fb
+Description: Simple Battery for Notched Devices!
+Name: SimpleBattery
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/icon.png
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.simplebattery
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
 
 Package: com.kernelrw.sneakycam
 Architecture: iphoneos-arm64
@@ -1950,6 +2152,24 @@ Description: Color your badges with Perfection , supports iOS15.0 ~ iOS16.5 incl
 Name: Tinge
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+
+Package: com.kernelrw.underdock
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 676
+Depends: mobilesubstrate
+Conflicts: com.restiveconch.actionbar, com.udevs.dockx
+Filename: ./debians/rootless/com.kernelrw.underdock_1.2_iphoneos-arm64.deb
+Size: 57612
+MD5sum: b8ec0bc3da3625571eb8c003fa0a0fa5
+SHA1: dfd8fdcece9710c7f1547a512bb7de93800d2bd5
+SHA256: cf49c84f66b088cdbfb7cee79a53f197ffa4d4b103252c8fc6bf38f169e7342c
+SHA512: fb0d09917da9908d99ab7f36d985e0b78693c73ef90657a75bff7567fd247f51c35bbb76d313a1017663ab91a2df82edad504bea738cb427a97c4d1ee88382fb
+Description: Useful actions on the Keyboard Dock View!
+Name: UnderDock
+Author: P2KDev <p2kdev@gmail.com>
 
 Package: com.kernelrw.uyou
 Architecture: iphoneos-arm64
