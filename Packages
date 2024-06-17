@@ -725,6 +725,23 @@ Description: Control Center module to view time since boot
 Name: Uptime
 Author: MTAC
 
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/me.kernelrw.dleasy_2.14.4_iphoneos-arm64e.deb
+Size: 5523764
+MD5sum: 5e0b4c468b3c17cc8d0974cdcdbdf1c2
+SHA1: 38ca24cabab00ea7b977866447ebcc8c80a7e1f8
+SHA256: a70e871299a44f25268ee317a261f74cbe8de998ace24ba7257a8fa3bdb7c9d9
+SHA512: a571faa2143e817f22ee316b7caf009b8b18290f5276c489c08f13d05782435a4a9dc20b49c073aa37a101da7a2f3fdd4139f353ed349dfef3bd37c95767430e
+Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64
 Version: 1.2.1
