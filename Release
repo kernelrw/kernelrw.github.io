@@ -1,4 +1,4 @@
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Codename: kernel
 Components: main
 Date: Sun, 16 Jun 2024 23:21:16 +0000
