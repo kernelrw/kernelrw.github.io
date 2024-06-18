@@ -875,6 +875,23 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.5
+Section: Roothide - Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/me.kernelrw.dleasy_2.14.5_iphoneos-arm64e.deb
+Size: 5520648
+MD5sum: efd94041384f54bb8bf1c1a1ab2fffcf
+SHA1: 4e9e8ebbe9ef9b0f02897ae4f86d87614d299dea
+SHA256: cb43cb31f3ea64bae4bd258beb796013aa3a2ae9d8ff87381bba566c31974e0a
+SHA512: 7fd4491a6856bbe88e7bf8a0b3e5b41fe2b085af92586ffb6df84bb351e1bff652307f4c70a83f3cf8cd4bacb4010e2345d56b491ea7af847647bceda56072a8
+Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
+Name: DLEasy ~ Roothide
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64
 Version: 1.2.1
