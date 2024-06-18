@@ -680,6 +680,29 @@ Description: Change your now playing app icon to the album artwork of currently 
 Name: NowPlayingIconXVI
 Author: Ethan Whited
 
+Package: com.kernelrw.powercuff
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Roothide-Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/roothide/com.kernelrw.powercuff_1.2_iphoneos-arm64e.deb
+Size: 14124
+MD5sum: 48e65d8f59d53f4096f0f8e336844718
+SHA1: d35eea056a5dead6308f5b6c2c7f64af7cfe4501
+SHA256: be06c3774572f1e3adaeceda15bee56101dccec0aab5375b7d3fbe23890fc94a
+SHA512: a24c27cd44dea339c187ad8cf243e0860af4926f1e6c643d6a10e8b436861124146addbae5f4af9e2db273a6af61305ace9f424246ff9cad2c043880f3d2dcaa
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
+Tag: purpose::extension
+Name: Powercuff ~ Roothide
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
+
 Package: com.kernelrw.pulloverpro
 Architecture: iphoneos-arm64e
 Version: 2.1.5-3
