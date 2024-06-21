@@ -2545,3 +2545,17 @@ Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 
+Package: com.transformato.cask3
+ Section: Tweaks
+ Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+ Architecture: iphoneos-arm64e
+ Version: 1.0.2
+ Replaces: com.ryannair05.cask2
+ Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+ Description: Animated table scrolling
+ Author: Ryan Nair <ryannairtweaks@gmail.com>
+ Name: Cask 3 ~ Roothide
+ Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
+ Depiction: https://chariz.com/get/cask-3
+ Tag: compatible_min::ios14.0
+
