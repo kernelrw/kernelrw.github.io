@@ -416,6 +416,26 @@ Description: Stage Manager Reimagined for iPhone
 Name: Dynamic Stage
 Author: tomt000
 
+Package: com.kernelrw.deleteforeverxs
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.deleteforeverxs_1.1_iphoneos-arm64e.deb
+Size: 20732
+MD5sum: fdd9be254fdafa4057b2328991893f52
+SHA1: 27d28de70095e1ee48a0846f7a5ca20f60b29299
+SHA256: a4056683cf0ab5e2b636622646b76ec415c531476ca5d610e9e5edfe3d25f9f3
+SHA512: 2cc45cd983ff28f1b96aa17864db03339c0eb07f391c3b81f4319ef45a5dc7eb28d0c7e74e00e2c7e1a64d9929fd932ae5cf076d8e9d5f7a0793eece95638d82
+Description: Delete Media with moving to Recently Deleted!
+Name: DeleteForeverXS ~ Roothide
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.deleteforeverxs
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.deleteforeverxs/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.deleteforeverxs.json
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64e
 Version: 1.0-beta10
