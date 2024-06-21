@@ -2585,3 +2585,15 @@ Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 
+Package: com.kernelrw.a-font
+ Section: Tweaks
+ Installed-Size: 2476
+ Maintainer: Baw Appie <pp121324@gmail.com>
+ Architecture: iphoneos-arm64e
+ Version: 1.11
+ Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+ Pre-Depends: rootless-compat (>= 0.9)
+ Description: Change your font!
+ Name: A-Font ~ Roothide
+ Author: Baw Appie <pp121324@gmail.com>
+
