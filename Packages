@@ -2558,5 +2558,7 @@ Package: com.transformato.cask3
  Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
  Depiction: https://chariz.com/get/cask-3
  Tag: compatible_min::ios14.0
-
-
+MD5sum: 0f75488fdad4a28df5b14151af1c0c30
+SHA1: 5480a72777c57e259b095d904bd9b6c52dbef218
+SHA256: 27758146b62d15291954c351751b9929cc2f38d487435da83a1612a1c784ffda
+SHA512: 6fe2526b8c583208b3424ac90108a121bf580e39fd01446610e1c06945bd4c3b11b3a44870612620e3e85e7f4ef1c55baa8adfa9ed73e1e8838d5b266b53a687
