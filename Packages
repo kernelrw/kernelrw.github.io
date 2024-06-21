@@ -416,6 +416,28 @@ Description: Stage Manager Reimagined for iPhone
 Name: Dynamic Stage
 Author: tomt000
 
+Package: com.kernelrw.regram
+Architecture: iphoneos-arm64e
+Version: 1.0-beta10
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 5980
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/roothide/com.kernelrw.regram_1.0-beta10_iphoneos-arm64e.deb
+Size: 11608892
+MD5sum: 5ed5f9f3557d24365338b6e0571dd202
+SHA1: a2d1114017c1bc03767a2d361194a0ac611b6938
+SHA256: ac576e666a3ee2921b3d902342fff7aed41f40191d640719124993b0cf2fa766
+SHA512: 715f9ab88303d54b0b9eae763dce82afde2cedd608b2ffc016371e681a9361d017f14f9e8e67ca56ea9e55725966ee06fd34dfa2451703b8c4ec75d3fc3180ba
+Description: The all-in-one tweak for Insatgram
+Name: Regram for Instagram ~ Roothide
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: https://repo.cypwn.xyz/packages/RegramforInstagram-Rootless/icon.png
+
 Package: me.kernelrw.dleasy
 Architecture: iphoneos-arm64e
 Version: 2.14.4
