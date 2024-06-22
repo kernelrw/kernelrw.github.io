@@ -454,6 +454,28 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.deleteforeverxs/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.deleteforeverxs.json
 
+Package: com.kernelrw.messengernoads
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debians/roothide/com.kernelrw.messengernoads_0.0.2_iphoneos-arm64e.deb
+Size: 5738
+MD5sum: 01a7a78e0a87c2a9546a6da593284eae
+SHA1: 6eaaf943b6bec7463abb0215ef4d5980164f36a2
+SHA256: fceab77ad2fb148e78a05f5ee58dd7a2599651b017cbaec7b25c7635a3e9947e
+SHA512: 874f57689b534b35493e04f5b43bf4210d5afc2a8aa69ae73053a1d2fce8e7ac417ef6719bf9006ce116f201cacdc1713a90a615d87300aabaea102f1f9c7afd
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=messengernoadsDp
+Description: Hide Ads on Messenger app
+Tag: purpose::extension, compatible::ios13
+Name: Messenger No Ads ~ Roothide
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=messengernoadsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Hao Nguyen <hao.ict56@gmail.com>
+dev: haoict
+
 Package: com.kernelrw.regram
 Architecture: iphoneos-arm64e
 Version: 1.0-beta10
