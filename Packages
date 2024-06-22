@@ -434,6 +434,22 @@ Description: Change your font!
 Name: A-Font ~ Roothide
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: com.kernelrw.autoscroll
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Pxcex
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.autoscroll_1.1_iphoneos-arm64e.deb
+Size: 5958
+MD5sum: bc4172e17b2e859756a1208b322d1c03
+SHA1: d4d48382ec2a9990aaf7f5e11f1227a7abbf1de2
+SHA256: b289b6e13436402e20733e2cb347ed6d4966090717e66c49698f248c6ca9a16e
+SHA512: d7c898c56a0097d181c166ad746a8b5ffdba7c869140c77b7fe79658c7d3bba35d99f6eb332fa2e0a0021818a8d734b6cd25e8427ab23cf906bddae60bd59537
+Description: Prevent finger fatigue. It will automatically continue when you slide an option or view, no need to keep touching with your finger, and the speed is determined by your strength !
+Name: AutoScroll ~ Roothide
+Author: pxcex
+
 Package: com.kernelrw.deleteforeverxs
 Architecture: iphoneos-arm64e
 Version: 1.1
