@@ -416,6 +416,24 @@ Description: Stage Manager Reimagined for iPhone
 Name: Dynamic Stage
 Author: tomt000
 
+Package: com.kernelrw.a-font
+Architecture: iphoneos-arm64e
+Version: 1.11
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/roothide/com.kernelrw.a-font_1.11_iphoneos-arm64e.deb
+Size: 910764
+MD5sum: b17fbd9f98547e4f43e28397c3180821
+SHA1: 44cb78beeedbdfd3c0e8efc35638644dce718f94
+SHA256: a3a1ceaf3143986fa4edf42cbcef6d92f3f99cbb0c04a9a61ddb5fd4c2d54726
+SHA512: 2ca47cee3b3948217839505a2d147108a60b401b0c991f73a39b051c893058d6531f7e1c7153aa8b54f5681587fc1f5d2dc455d5d3b932ea25b440df923300af
+Description: Change your font!
+Name: A-Font ~ Roothide
+Author: Baw Appie <pp121324@gmail.com>
+
 Package: com.kernelrw.deleteforeverxs
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -2604,16 +2622,4 @@ Author: Saily Team <support.0xa1@qaq.wiki>
 Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
-
-Package: com.kernelrw.a-font
- Section: Tweaks
- Installed-Size: 2476
- Maintainer: Baw Appie <pp121324@gmail.com>
- Architecture: iphoneos-arm64e
- Version: 1.11
- Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
- Pre-Depends: rootless-compat (>= 0.9)
- Description: Change your font!
- Name: A-Font ~ Roothide
- Author: Baw Appie <pp121324@gmail.com>
 
