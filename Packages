@@ -313,6 +313,24 @@ Name: VisionKeys Aurora
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
 
+Package: con.kernelrw.battivator
+Architecture: iphoneos-arm
+Version: 1.3.11
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1020
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootful/con.kernelrw.battivator_1.3.11_iphoneos-arm.deb
+Size: 250156
+MD5sum: 31c1b37e55e072df589fc624f38da0cc
+SHA1: 7ca0bac887772541d08601ac893cb7bcbf44bb3b
+SHA256: 3e8e39a44af0c10f1e3cbf0a1eaab6bb04645f064d3d6b5e2b9d790b56e127d4
+SHA512: a63b85c4e457cc5f775c2a4fe538240a23db6a679d8cc16da844ccd6209b3d77aee0e05662a1698557410813b95cd389e1efc1939ba63fc777c74b75e03a7402
+Description: low power mode & battery level profiles
+Author: merdok <merdok87@o2.pl>
+Name: Battivator
+Icon: file:///Library/PreferenceBundles/battivatorprefs.bundle/battivator@2x.png
+
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
 Version: 1.0
