@@ -845,6 +845,23 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorcodedlogs/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorcodedlogs.json
 
+Package: com.kernelrw.cpudasher
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: iOSign
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.kernelrw.cpudasher_0.0.1_iphoneos-arm64.deb
+Size: 2844
+MD5sum: d27fb89b6176bc3e02c40aae573ba441
+SHA1: 7e901424f018e52f60350aec44332a3ce0f6fee6
+SHA256: c7ebd104d9957e25c1fff011aa5edad0b5f47b283ad2052e291a2e70cdc00ba6
+SHA512: 88d651fe1aa137c47f541228eaa29959d5465c87af86fa08e021a9afcf3f9e195775c1acad84ea62398697c6dcf8df5ad57150de7fa3ecf76c8a93b6e6a79e6b
+Description: Premium CPU Dasher
+Name: CPU Dasher Premium
+Author: iOSign
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: com.kernelrw.cr4shed
 Architecture: iphoneos-arm64
 Version: 4.3.1-1+debug
@@ -1791,6 +1808,24 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/icon.png
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.simplebattery
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
+
+Package: com.kernelrw.smartnetwork
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Elias
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
+Conflicts: com.eliassfeir.smartnetwork
+Filename: ./debians/rootless/com.kernelrw.smartnetwork_1.1_iphoneos-arm64.deb
+Size: 286292
+MD5sum: 28ee8e631b9a573529d67783b8601f7a
+SHA1: a45a9d90e4ce4b89eb7f330c7e7d582b5f67c465
+SHA256: 4bd120699f523521cad625eda553cfb5d0dd800390b315dde572f8923e6b32e6
+SHA512: 331900f4bb3cf233131c6dd5b45d40e1d5596159b266cffc6bf54335ac92f742f15b0ee1bd8f17e51aa11b5eece0a5a8d80cc89609ee63b2ee9714b8aed0eff4
+Description: The most complete tweak to customize WiFi / mobile data and Bluetooth
+Name: SmartNetwork iOS 15-16
+Author: elias
+Icon: https://media.havoc.app/63cd79a5f9ef1afef6e4fa5f
 
 Package: com.kernelrw.sneakycam
 Architecture: iphoneos-arm64
