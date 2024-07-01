@@ -1295,6 +1295,22 @@ Name: Globalize
 Author: parrotgeek1
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
 
+Package: com.kernelrw.half
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Soongyu Kwon
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.half_1.0.3_iphoneos-arm64.deb
+Size: 8636
+MD5sum: 6721e809b184b0d9c202fb71cb0fdd36
+SHA1: 86b80a425ac08c17f753bee1b82b8c6c7ceaad75
+SHA256: f4450c28c6d18aa0340e7af394e9a78099fdf449c3cb14d71c99066df623e727
+SHA512: e2511bb7802f304ac4b1511252d0e65f0285714a2c5cbd4b09a2e74611e83000a011a0f46ddf8846fb13e57fe9978c5f300d63f9457e4f77ae33eea4ae412a8a
+Description: Fancy iOS Battery Indicator for iOS 11+
+Name: Half Battery
+Author: Soongyu Kwon & Ayden Leppert
+
 Package: com.kernelrw.haptic16
 Architecture: iphoneos-arm64
 Version: 0.8
