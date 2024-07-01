@@ -638,16 +638,16 @@ Author: Dcsyhi
 
 Package: com.kernelrw.akara
 Architecture: iphoneos-arm64
-Version: 2.0.2k
+Version: 2.0.2
 Section: Tweaks
 Maintainer: Tr1Fecta
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>= 15.0)
-Filename: ./debians/rootless/com.kernelrw.akara_2.0.2k_iphoneos-arm64.deb
-Size: 613872
-MD5sum: aa846521e6e46d933d581d6da8f94093
-SHA1: eeb865196633e95fd4aae05dc8bdc790975a682f
-SHA256: ef0ee8f0b614f5209e854e17107979ba0cde6aad7dcaca865532c562b0e084d8
-SHA512: a0653b4d8a0c2494208474c83460e8fe9a577d846f314946d5b6c41937a09d03c40582acfd4ff4937ac0d06b13aa3f869498a5ec590cd4801868905ea5a9e609
+Filename: ./debians/rootless/com.kernelrw.akara_2.0.2_iphoneos-arm64.deb
+Size: 613780
+MD5sum: 51c7e9f53037cc9984cf201558c59e3b
+SHA1: 18eedd4bec7a62fea59be3564d2b57994a198e02
+SHA256: 9bbce91c1244f621c7a03c46bc0c520924cf2c19d3b898f0289a95629d1e38f2
+SHA512: 2066614d74a297ed138a579d203aaf52452bf203ae5a5c8123516b38f2b094712c0f8e311c00f17a6e27568d26cc88827ab0114a4749203613ecb06dc0841cfb
 Description: Minimal design without compromise
 Author: Tr1Fecta & Kennyroo
 Name: Akara
