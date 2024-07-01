@@ -602,6 +602,22 @@ Description: Change your font easily . Supports iOS12~iOS16.7.7 !
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: com.kernelrw.airaw
+Architecture: iphoneos-arm64
+Version: 1.6.5
+Section: Tweaks
+Maintainer: Dcsyh
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), ws.hbang.common
+Filename: ./debians/rootless/com.kernelrw.airaw_1.6.5_iphoneos-arm64.deb
+Size: 10262060
+MD5sum: 1f6c85ecc1815c7434ace3cef08e34c8
+SHA1: 8f4a8a811e67b7f1eaa2e3881fa702bfdf80533b
+SHA256: 336bda290a7d12a359da91e70093390c49879b0e363ded9d331f13a5cc421e08
+SHA512: 8bc2e7fd0e789ff02298f88da0c22da30e3c1ea8dd580e32b4e83a29e5f858cad8caaec4930c58c0cefbe1e82eceb8b6c3d870533de8673fe1b6655274dbe1c0
+Description: An awesome CarPlay tweak.
+Name: Airaw
+Author: Dcsyhi
+
 Package: com.kernelrw.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -1344,6 +1360,25 @@ Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.noin
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.nointerruptwhenplayingmusic/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.nointerruptwhenplayingmusic.json
 
+Package: com.kernelrw.novus
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nicho1asdev
+Installed-Size: 508
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.kernelrw.novus_1.0.1_iphoneos-arm64.deb
+Size: 74948
+MD5sum: 8226c8ec668a4740ba20822b47354e3e
+SHA1: 76552d7f128c497c8a84c00ce5d9afda79abc833
+SHA256: ebb6184f52309a9a80a9ae7aad5a46590225083a06c6c753eaa58b3c97d36910
+SHA512: e864c05da614bed61463f16eb4178d17b8918fe3159b8f847421df3ebe7f7e01028e1bbffdbe4769914ead25c4be0c3f8ed7fdbe75098cc188a311a8617bf465
+Description: Phone, reimagined. Brings a more unified iOS design to the phone app! Created by @itsnicho1as.
+Depiction: Nicho1asdev
+Name: Novus
+Author: nicho1asdev
+Icon: https://media.havoc.app/63c85884d07d8971e705e859
+
 Package: com.kernelrw.nowplayingiconxvi
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -1360,6 +1395,30 @@ SHA512: c995e1d0b7bfd46730f57b43a276c25bf1dc530189f45003ae04c461f7f4cd9c19b86bb2
 Description: Change your now playing app icon to the album artwork of currently playing music!
 Name: NowPlayingIconXVI
 Author: Ethan Whited
+
+Package: com.kernelrw.opa334
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: firmware (>= 14.0)
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.opa334_1.0.0_iphoneos-arm64.deb
+Size: 8980
+MD5sum: 428027a5875bd5b2f5be43a3f3f5c6e7
+SHA1: f8935c133fbd06bdd444c031a0313bbda32bdac9
+SHA256: 4e54076d5b7ebdb701e6d5c83022b426f437039a09d44aec39358c15f33b4f57
+SHA512: 07200c178d8032f8730bb7a0e932bf8c91559336f6a0417927544b9fdec51b7589472ea01b52f50ce31cae70c1a291bd9c755e40a3d2a99e3d6d1673ca57e554
+Homepage: https://ichitaso.com
+Description: SpringBoard tweaks / always thanks Opa334
+Tag: purpose::extension, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17
+Author: ichitaso
+Name: opa334
+Depiction: https://cydia.ichitaso.com/depiction/opa334.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/opa334.json
+dev: ichitaso
+Icon: https://pbs.twimg.com/profile_images/1798706447758553088/zhkyGQas_400x400.jpg
 
 Package: com.kernelrw.padswitcher
 Architecture: iphoneos-arm64
@@ -2286,6 +2345,24 @@ Description: A beautiful Dark Blue theme for Laetus .
 Name: VisionKeys Aurora
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: con.kernelrw.battivator
+Architecture: iphoneos-arm64
+Version: 1.3.11
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1020
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootless/con.kernelrw.battivator_1.3.11_iphoneos-arm64.deb
+Size: 253916
+MD5sum: 94ceb7dae4ec1e4e66b5b2101693b758
+SHA1: 8ff1fac6b5d0f3b1ba87641c3ba1115985758525
+SHA256: 50d9e4166ff53ea994feeb32c17580e6780819882020c96fcb06c6e3d094963c
+SHA512: d75215304eb0606ed0b244c39646492e153c558f77a41a446ecd53c0e7a46f95a99b53c44a0fc07899a68c2448e8ff058fca01de4be5849d6d1a9a7f699e6012
+Description: low power mode & battery level profiles
+Author: merdok <merdok87@o2.pl>
+Name: Battivator
+Icon: file:///Library/PreferenceBundles/battivatorprefs.bundle/battivator@2x.png
 
 Package: dev.kernelrw.ccshutdown
 Architecture: iphoneos-arm64
