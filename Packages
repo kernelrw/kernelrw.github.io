@@ -470,6 +470,23 @@ Description: Change your font!
 Name: A-Font ~ Roothide
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: com.kernelrw.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Fouad Raheb
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/com.kernelrw.appdata_1.4.1_iphoneos-arm64e.deb
+Size: 10141976
+MD5sum: acd140b64bcc04cb3dc4dd7652e7c9da
+SHA1: 089e10d2eec36422732a5751bc9d8752eecb53ce
+SHA256: b6d329deecc9a2747b2797fd42d6643645941e131d738be8a378580428a181d1
+SHA512: 7d19efa2b2a4f1bf07a0ec1ec6483ca16bc17414b28b67bfc85088f341563e0a3c76f09f0b01a92a4f4ce7c8aee1abbd90a14cedb0af3846d55e3b25e6b512bb
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+
 Package: com.kernelrw.autoscroll
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -485,6 +502,42 @@ SHA512: d7c898c56a0097d181c166ad746a8b5ffdba7c869140c77b7fe79658c7d3bba35d99f6eb
 Description: Prevent finger fatigue. It will automatically continue when you slide an option or view, no need to keep touching with your finger, and the speed is determined by your strength !
 Name: AutoScroll ~ Roothide
 Author: pxcex
+
+Package: com.kernelrw.axon
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: Nepeta
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/roothide/com.kernelrw.axon_1.5_iphoneos-arm64e.deb
+Size: 143068
+MD5sum: 825bd3fa237b339240842e0c61050836
+SHA1: 5feab2a654198a7ce8c60e8f179a59ebb157aa96
+SHA256: 14f7fd6bf8516e92fb3ef9e2f5daaa5b9738f4244f62599d66a6fe6edb006105
+SHA512: 095a594ef6eeab2d493f64ad2f8b451aa1e960065305e9e010503a9b3da0a0b3394e222c4787d76e46a6f2f6fcf060bee48ab76c93ce328c1c4b14c97643604a
+Description: Priority Hub for iOS 15 - 16
+Name: Axon
+Author: Nepeta & Baw Appie
+
+Package: com.kernelrw.complications
+Architecture: iphoneos-arm64e
+Version: 4.0
+Section: Tweaks
+Maintainer: pwnd2e
+Installed-Size: 3022
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.complications_4.0_iphoneos-arm64e.deb
+Size: 646900
+MD5sum: 76fcfd8db392244f10091110296ed634
+SHA1: aed23d8a84ed7a8465b2650f56e7130c3cafdda5
+SHA256: dac7d97a203b3653b13c32343f1eb168f63ccdbb46ad8bcd48e011f3c74f522d
+SHA512: 1fff15f7898b04f3ec395bf884f1e45f40d451660005d4b1bd9afbfadca428302ceb1a605f993e237f04b5d3830f4f22f4764c77aa4b339e2bc1adfc8a7b0274
+Description: watchOS widgets on your lock screen
+Name: Complications
+Author: Ben Giannis
+Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
 
 Package: com.kernelrw.deleteforeverxs
 Architecture: iphoneos-arm64e
@@ -505,6 +558,41 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.deleteforeverxs
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.deleteforeverxs/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.deleteforeverxs.json
+
+Package: com.kernelrw.designer
+Architecture: iphoneos-arm64e
+Version: 1.4.8
+Section: Tweaks
+Maintainer: JunseiPhone
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/com.kernelrw.designer_1.4.8_iphoneos-arm64e.deb
+Size: 12971288
+MD5sum: 7fa6f69f3e9cda159facf895c25c26b8
+SHA1: e63c641db235424e7745e968bb9ee294ad0e488a
+SHA256: a1adad2032d4a88317741ba4ff0580dcd9a394a4d30b51edf0ebf484f2975eca
+SHA512: bafeb1da1c26accda8c8630aa6b28525c18bb08185e080e74ea68e2802cc8eee3752fdb359c8eb3eff2949eb91e2391f9e63ca1ad800f3dcfcee1af6f98f8119
+Description: Design layouts for lockscreen and homescreen
+Name: Designer
+Author: JunesiPhone
+
+Package: com.kernelrw.glance
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Janis
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet, com.opa334.altlist
+Filename: ./debians/roothide/com.kernelrw.glance_1.0_iphoneos-arm64e.deb
+Size: 390608
+MD5sum: 8a0f6e7613a1abc55b30cce984b52088
+SHA1: 1273b52a75c526ef4be0cd6a868ecc2cd9ea5626
+SHA256: 4b8e9440ded7f701459217e3109e0b892de8ea08b1e42fbe98c43df4f3ad10ae
+SHA512: 1f113e3d25facb7543f18ae22e19be9b4e558ff6e58a1a4177d2334c36477bdc6b593aedc01c7d2ae2d44e36dcad0e6d845d4d80b85bf365c569fa5d51066c34
+Description: See notifications from far away
+Author: Janis
+Name: Glance
+Icon: https://img.chariz.cloud/icon/glance/icon@3x.png
 
 Package: com.kernelrw.kayoko
 Architecture: iphoneos-arm64e
@@ -568,6 +656,26 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: https://repo.cypwn.xyz/packages/RegramforInstagram-Rootless/icon.png
+
+Package: com.kernelrw.visibleisland
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debians/roothide/com.kernelrw.visibleisland_2.0_iphoneos-arm64e.deb
+Size: 30892
+MD5sum: 154a1925202dce9f7720550aeab52b75
+SHA1: 3ee46e0c0640552c704ab9d2fc82c735f04705c8
+SHA256: 9f3d710f284b9752d40106377c761a286ce860343cf639f4bf1ff2fe3ce9a75f
+SHA512: b2a4be8109adb1f3f6c7aa6a7c94de9a8c1ec7b84f663197f7a487d9fe64e6a5c947230f201ccc8922cdd489c4e783b70f02aa8f498f20e327d953b3acd522e3
+Homepage: https://shuga.co/
+Description: Enable, fix, and customize the Dynamic Island on older devices.
+Name: VisibleIsland
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Author: ethxnn88 <ethxnn88@gmail.com>
 
 Package: me.kernelrw.dleasy
 Architecture: iphoneos-arm64e
