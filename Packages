@@ -852,15 +852,14 @@ Section: Tweaks
 Maintainer: iOSign
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/rootless/com.kernelrw.cpudasher_0.0.1_iphoneos-arm64.deb
-Size: 2844
-MD5sum: d27fb89b6176bc3e02c40aae573ba441
-SHA1: 7e901424f018e52f60350aec44332a3ce0f6fee6
-SHA256: c7ebd104d9957e25c1fff011aa5edad0b5f47b283ad2052e291a2e70cdc00ba6
-SHA512: 88d651fe1aa137c47f541228eaa29959d5465c87af86fa08e021a9afcf3f9e195775c1acad84ea62398697c6dcf8df5ad57150de7fa3ecf76c8a93b6e6a79e6b
+Size: 2812
+MD5sum: ccc4e8c2efd776112dabd6cbbe8b3ee8
+SHA1: c43f15ea70d2d4a208ab6ae5a28e879cfae4c3de
+SHA256: fc6d2c5efaeb452bbb18d3425e298d270634130d16858cc93f4cb54f33a2ca9a
+SHA512: d3b2a51c466cc71f0292660e98c79d745793126d78b8d22ff551af47b4875ff4c419f384603f4570da53851b1ec77f7e73fa1088ac1053efd4cb9a6ff3b40af2
 Description: Premium CPU Dasher
 Name: CPU Dasher Premium
 Author: iOSign
-Icon: https://chinesebuilding.club/pic/cydia.png
 
 Package: com.kernelrw.cr4shed
 Architecture: iphoneos-arm64
