@@ -618,6 +618,23 @@ Description: An awesome CarPlay tweak.
 Name: Airaw
 Author: Dcsyhi
 
+Package: com.kernelrw.akara
+Architecture: iphoneos-arm64
+Version: 2.0.2k
+Section: Tweaks
+Maintainer: Tr1Fecta
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>= 15.0)
+Filename: ./debians/rootless/com.kernelrw.akara_2.0.2k_iphoneos-arm64.deb
+Size: 613872
+MD5sum: aa846521e6e46d933d581d6da8f94093
+SHA1: eeb865196633e95fd4aae05dc8bdc790975a682f
+SHA256: ef0ee8f0b614f5209e854e17107979ba0cde6aad7dcaca865532c562b0e084d8
+SHA512: a0653b4d8a0c2494208474c83460e8fe9a577d846f314946d5b6c41937a09d03c40582acfd4ff4937ac0d06b13aa3f869498a5ec590cd4801868905ea5a9e609
+Description: Minimal design without compromise
+Author: Tr1Fecta & Kennyroo
+Name: Akara
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+
 Package: com.kernelrw.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
