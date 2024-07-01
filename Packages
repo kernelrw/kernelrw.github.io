@@ -366,6 +366,24 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: me.kernelrw.phantom
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: eternal
+Installed-Size: 164
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/rootful/me.kernelrw.phantom_1.1.0_iphoneos-arm.deb
+Size: 3484
+MD5sum: 4c25cb239a5b1e8ee9b45ff35a99722a
+SHA1: b0671435588e580e9ae4d618d364c99377564875
+SHA256: 356c2ad25d45e70c7a135c42260e05b9e89a7fe981cfe975243063eae13ccc0d
+SHA512: 980a8529b3698c4192f230b67f2a600f1aeb3d2dde4daaed3a5bd3ea13cd17adec25fae5df43eff4cd444ddbdf7b56149e623eb09bdb2bc59a5b763409860943
+Description: Seamlessly block screenshot and screen recording detection in iOS apps.
+Name: Phantom
+Author: eternal
+Icon: https://github.com/localip/phantom/blob/main/assets/icon.png?raw=true
+
 Package: me.kernelrw.sileorespring
 Architecture: iphoneos-arm
 Version: 0-2
@@ -2594,6 +2612,24 @@ SHA512: 3bb7d339e12ac660e9a986144151271ddc0cef82b7c881969da1daf69698f1792ddf7a60
 Description: Ensures the Restart SpringBoard button appears in the Sileo package manager when installing tweaks . Supports Dopamine 2
 Name: Sileo Respring
 Author: jjolano
+
+Package: me.kernrlrw.phantom
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: eternal
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.kernrlrw.phantom_1.1.1_iphoneos-arm64.deb
+Size: 3216
+MD5sum: 15e2fb5ed9066b47fc6f659de9b5c3ef
+SHA1: 0b10c49179944dd3eab6f6f34c0ac4c7295b4f7c
+SHA256: 9e775c74c1a47d80da57ceca43c598dae42e42e31e07999f70eb71477936ca3e
+SHA512: 22302425b68c1052369141f2db18de99b606a94ff8b1b4e944df3c425c973a61df591703c52fbe6d2da95d94fdda7e7d72de9f37cb2ab4145029bded21aa1d5b
+Description: Seamlessly block screenshot and screen recording detection in iOS apps.
+Name: Phantom
+Author: eternal
+Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
 Package: me.nef0pam.dleasy
 Architecture: iphoneos-arm64
