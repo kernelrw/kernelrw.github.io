@@ -15,6 +15,25 @@ Description: Pin screenshots on the screen.
 Name: Snapper 3
 Author: Jonathan Winger-lang
 
+Package: com.kernelrw.bazzi2
+Architecture: iphoneos-arm
+Version: 2.0.8
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/rootful/com.kernelrw.bazzi2_2.0.8_iphoneos-arm.deb
+Size: 65272
+MD5sum: 1e4b123d023b6cb7f50484d45d53e242
+SHA1: 31f35127f9f9a0b03b92b8bf54d648e60faf252d
+SHA256: 54e68a7de8f0c7e1591833ddbeee2da778bc533e2ec3fc5edd724f4b8d0456a8
+SHA512: addd2445c3e6f3af69b7bb8ab73a4837e9d8548f0ae70ebc71310a87c2f24d192d4b896250d8bb5bbdaae01ec518c2f7ae2d8f3c46e4b1daaa1fa308cd7e54bf
+Description: Battery in your Notch
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fdynastic.png&s=180x180&f=webp
+
 Package: com.kernelrw.carbridge13
 Architecture: iphoneos-arm
 Version: 2.0.13
@@ -176,6 +195,25 @@ SHA512: c237da39408cc89e48bf43703958fe7deebf1f8be02a6c2bef88a9ec1c566786edadad4f
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Name: SneakyCam
 Author: Spark
+
+Package: com.kernelrw.sonus
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 720
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
+Filename: ./debians/rootful/com.kernelrw.sonus_1.0.5_iphoneos-arm.deb
+Size: 119240
+MD5sum: 6b69e97110a5e7fae6dc7161382e8e53
+SHA1: c7710699b31e8448704a71dc3542e5d59ddee8e1
+SHA256: 40cc610400ac7a87c48907a09c2389c344115b697649d3bd27ca1dddded3c6ec
+SHA512: 9b6a1e2de4571ad991a7aedb9e192526c2b7aad82c5a3e3de1203e56a23229c13b8cfdb1988b887934bd885ca8e282d69d125d09f117394c10648472eee75591
+Description: The better and highly customizable volume hud; For iOS 13 ~ iOS 16 !
+Name: Sonus
+Author: ubik <cydia@ubikstyl.es>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fhi.my.name.is.ubik.sonus13%2Ficon.png&s=180x180&f=webp
 
 Package: com.kernelrw.visionkeysaurora
 Architecture: iphoneos-arm
@@ -474,24 +512,6 @@ Description: Download/Share images & videos from social apps easily . Supports i
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
-
-Package: com.kernelrw.a-font
-Architecture: iphoneos-arm64e
-Version: 1.11
-Section: Tweaks
-Maintainer: Baw Appie <pp121324@gmail.com>
-Installed-Size: 2476
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debians/roothide/com.kernelrw.a-font_1.11_iphoneos-arm64e.deb
-Size: 910764
-MD5sum: b17fbd9f98547e4f43e28397c3180821
-SHA1: 44cb78beeedbdfd3c0e8efc35638644dce718f94
-SHA256: a3a1ceaf3143986fa4edf42cbcef6d92f3f99cbb0c04a9a61ddb5fd4c2d54726
-SHA512: 2ca47cee3b3948217839505a2d147108a60b401b0c991f73a39b051c893058d6531f7e1c7153aa8b54f5681587fc1f5d2dc455d5d3b932ea25b440df923300af
-Description: Change your font!
-Name: A-Font ~ Roothide
-Author: Baw Appie <pp121324@gmail.com>
 
 Package: com.kernelrw.appdata
 Architecture: iphoneos-arm64e
@@ -855,6 +875,25 @@ SHA512: 4551bf165e7fd9c1fe39970d23499c1ca1a5cc6f4702b454aa16e699569447df1837a987
 Description: Priority Hub for iOS 16 , supports Dopamine 2
 Name: Axon
 Author: Nepeta & Baw Appie
+
+Package: com.kernelrw.bazzi2
+Architecture: iphoneos-arm64
+Version: 2.0.8
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/rootless/com.kernelrw.bazzi2_2.0.8_iphoneos-arm64.deb
+Size: 65396
+MD5sum: 5e2417b5a65e489bffafd22d08735189
+SHA1: f5cfe658cc304509fce7beecadd8abe7f00075b6
+SHA256: ba4916e99968e6dcf5fd0505c654863272aa0cf203bc0e2ac6977a22dee7f8f7
+SHA512: 37e446905bc3e169beaaf7859d9812bb756b05daa5e1806b3487e5f3e98d26f3760c69a5e9642c529b8c0d4abc318f73d5e36c582966bce299c9e1fe23eb7fec
+Description: Battery in your Notch
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fdynastic.png&s=180x180&f=webp
 
 Package: com.kernelrw.betterccbrightness
 Architecture: iphoneos-arm64
@@ -2058,6 +2097,25 @@ SHA512: 2e3d5bb9963fec1e11751504a9d27285f2c91ecdd307ac0124f4500c4446e4085d836997
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Name: SneakyCam
 Author: Spark
+
+Package: com.kernelrw.sonus
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 720
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
+Filename: ./debians/rootless/com.kernelrw.sonus_1.0.5_iphoneos-arm64.deb
+Size: 120828
+MD5sum: f9f16582db29cd6bf882191494c9e4de
+SHA1: 993c098953b6c6e4c94b4a1a976844f2a451943d
+SHA256: f3b8adf94df8611815e7f4c4a5b93e46fa1bfaf45833b59ed1b547934cc3c034
+SHA512: f762c58121cdd2e864c15a2abee620fb95e85bcb3727230ba85e82c42b47a11aa08282b253948863a6c38820708fe4c25951dbc8acebaab1e971061670f50f23
+Description: The better and highly customizable volume hud. For iOS 13 ~ iOS 16 !
+Name: Sonus
+Author: ubik <cydia@ubikstyl.es>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fhi.my.name.is.ubik.sonus13%2Ficon.png&s=180x180&f=webp
 
 Package: com.kernelrw.spotcc
 Architecture: iphoneos-arm64
