@@ -1322,6 +1322,23 @@ Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
 Name: FBSpNOsor
 Author: JacobCXDev <jacobcxdev@gmail.com>
 
+Package: com.kernelrw.genesis4
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nebbs
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.itznebbs.phoenix, com.kernelrw.nebbs
+Filename: ./debians/rootless/com.kernelrw.genesis4_1.0.1_iphoneos-arm64.deb
+Size: 999172
+MD5sum: 3e067183dea54e51de5b2ef836bb6923
+SHA1: 0cf730dda998b79132a3d379f7b1706feb7f6392
+SHA256: d62d435512ae70fe0c57abfe9b2ac44ff06789db33807e31227db707c8a6295a
+SHA512: d7c882d4ce894372cff3684b8c470ab67f6fbf7cb884ede8ec3300080049e9eebb539126f32e741052eeb3d9f2a11f05c74ca5adcd17ea4047475bfcfeb81f95
+Description: System-wide customisation .
+Name: Genesis 4
+Author: Nebbs
+Icon: https://media.havoc.app/65e3fa3dc97a362fa83a601d
+
 Package: com.kernelrw.globalize
 Architecture: iphoneos-arm64
 Version: 0.3.2
@@ -1594,6 +1611,22 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/MySwitches.bundle/MySwitches@2x.png
+
+Package: com.kernelrw.nebbs
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Nebbs
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.nebbs_1.0.0_iphoneos-arm64.deb
+Size: 2848
+MD5sum: 02dd4e16a55675e1f732d4f5b7728815
+SHA1: 27ad1075d3c1907b771232517145c5d8e579628c
+SHA256: 8ffde6802eff639bfa837a6bf14a3380266131fba0326348e931d5bb0e19ccf1
+SHA512: bf9f66ff6bc2b53ecc343feca87a5d03f322ce1861c78827ce42fa04cbe1f7a8cdd946762047209826273aa2caf1360f7dd91d6c31c782e25351b5d523402f90
+Description: Genesis4 dependency .
+Name: Nebbs
+Author: Nebbs
 
 Package: com.kernelrw.nointerruptwhenplayingmusic
 Architecture: iphoneos-arm64
