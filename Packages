@@ -738,27 +738,6 @@ Name: DLEasy ~ Roothide
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
-Package: applist
-Architecture: iphoneos-arm64
-Version: 1.5.16
-Section: System
-Maintainer: Ryan Petrich <rpetrich@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
-Conflicts: com.a3tweaks.polus (<< 2.0.7)
-Filename: ./debians/rootless/applist_1.5.16_iphoneos-arm64.deb
-Size: 110132
-MD5sum: 4d40d91ad13da3f6fd96f649ed5c1409
-SHA1: 4d197e6b3c4fef4744e826c991729d8f0c1f7b68
-SHA256: c5ba6202d8d9ce68ed564fc1aba63635acf3fb8237ff3091859c89e8bd1884bd
-SHA512: 6c55a636826b73adf66d465398e60623ced7a9680ee2aa56bc31c0452dabb141cb6bd472eca70c88c6beabb215cc988dbd3e3b20549f240c153ef4e5fcded498
-Description: Allow extensions to read the list of installed apps
-Name: AppList
-Author: Ryan Petrich <rpetrich@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
-Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
-dev: rpetrich
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frpetrich-repo.png&s=180x180&f=webp
-
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -2623,29 +2602,6 @@ Name: YTMusicUltimate
 Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
-
-Package: com.rpetrich.rocketbootstrap
-Architecture: iphoneos-arm64
-Version: 1.0.10~beta1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 596
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
-Filename: ./debians/rootless/com.rpetrich.rocketbootstrap_1.0.10~beta1_iphoneos-arm64.deb
-Size: 20476
-MD5sum: 1dcce345827b31cfc94498d5ba4b2c51
-SHA1: 97a53d13e531727b2221c99f804bef43e06933ba
-SHA256: 193ae10b1319dd111d6b87792c7ccb4c647a05be93b304d14a9eb23eebb8b8c1
-SHA512: bfc3badbe264159df5d4362377d67da3de6f9ec872b95961938067472d46af3162d521cf486443b126e9deb1c7f1c54fd57751f058f3e16c557c557ec41c8b02
-Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
-Description: Support library allowing tweaks to communicate with sandboxed processes
-Tag: purpose::extension, role::developer
-Name: RocketBootstrap
-Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
-Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frpetrich-repo.png&s=180x180&f=webp
 
 Package: con.kernelrw.battivator
 Architecture: iphoneos-arm64
