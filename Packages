@@ -2603,58 +2603,6 @@ Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
-Package: com.nef0pam.a-font
-Architecture: iphoneos-arm64
-Version: 1.10.1
-Section: Tweaks
-Maintainer: Baw Appie <pp121324@gmail.com>
-Installed-Size: 2476
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/rootless/com.nef0pam.a-font_1.10.1_iphoneos-arm64.deb
-Size: 495036
-MD5sum: 132c2e4d98795efc42d8294404c87831
-SHA1: db15bd86be30818059017946fb7805a8256b0873
-SHA256: 55d92cb1c2d67edda4775ca3856046f27072ffb56e59cc5ff3939c847d226856
-SHA512: a9c1e2954337a0c4a83178a04d34c5c94f838b2ff927aa00ec90b3da3bbb64bb4e3552632c4fdf9e352f01b5160d0b32d9c6b37ce65c3aa726ba3ab5f1638e05
-Description: Change your font easily . Supports iOS12~iOS16.7.7 !
-Name: A-Font
-Author: Baw Appie <pp121324@gmail.com>
-
-Package: com.nef0pam.autoscroll
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/com.nef0pam.autoscroll_1.0.0_iphoneos-arm64.deb
-Size: 26388
-MD5sum: 32ca0f010f3eaf6ca0a463a5481712d3
-SHA1: 0aad9dc0a2d2a6d93757debff0d7ac16128d1539
-SHA256: fa12c27b68f2efd0a3ff9b7c9a9628228cb4eaea2e92085277cb34dd5997c376
-SHA512: 0cef61b4af19dfdbacec7ba5b8703ac64a32dddbb1211fbcb1b0fcb9c380811b22ca2bf096c15c79144d9d21cf3a7debf6970de1579b0674709adf844037195c
-Description: Smart Auto Scroll & Faster Scrolling on all app.
-Name: AutoScroll
-Author: pxcex
-Depiction: https://d.plutorepo.com/posts/AutoScroll
-Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
-SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
-
-Package: com.nef0pam.visionkeysaurora
-Architecture: iphoneos-arm64
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/rootless/com.nef0pam.visionkeysaurora_1.0_iphoneos-arm64.deb
-Size: 511192
-MD5sum: a4255fd6e8de75fd649999ae8f532393
-SHA1: 89d6d88356e0e627095d227d54e33ba583572381
-SHA256: e69e9d46431e0ae3d2fc9318801982188f6b8f63848e774d47b09ab5f1f09ed3
-SHA512: 6e5699c4dcb58c5207818791f07bec75d20f417d59e0846adb871d989ebd49fce633e1be89b34318ffffa3f79e62a738e69568339bfcc0f9ec8a739eac04e585
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
 Package: con.kernelrw.battivator
 Architecture: iphoneos-arm64
 Version: 1.3.11
@@ -2870,23 +2818,6 @@ Description: Seamlessly block screenshot and screen recording detection in iOS a
 Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
-
-Package: me.nef0pam.dleasy
-Architecture: iphoneos-arm64
-Version: 2.14.4
-Section: Tweaks
-Maintainer: AhmedBafkir <prooxy0@gmail.com>
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debians/rootless/me.nef0pam.dleasy_2.14.4_iphoneos-arm64.deb
-Size: 5525092
-MD5sum: 4834bcaa0f33b3f0eb0c37ea4f3bc6fb
-SHA1: 3320bd7a19e686a102639fe72b9e7bb4121f5fb4
-SHA256: 94b80f559f5554298dd97d0db31bec9fda2e5daadca11674e2e8ca245f20e8c4
-SHA512: 754bcde6c4139e05e14da114c750fd00cec339074bd81688414c4bf6aa14cf2fe338f805f1c5e97584ac1468607aa665e2365aafd677b666653d825e5bc3e8c5
-Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
-Name: DLEasy
-Author: AhmedBafkir <prooxy0@gmail.com>
-Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
 Package: net.kernelrw.audiorecorderxs-rootless
 Architecture: iphoneos-arm64
