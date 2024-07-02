@@ -16,18 +16,6 @@
 			"hideShadow": false
 		},
 		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/com.kernelrw.a-font/screenshots/A-Font.png?raw=true",
-			"title": "A-Font",
-			"package": "com.kernelrw.a-font",
-			"hideShadow": false
-		},
-		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/master/depictions/web/com.kernelrw.visionkeysaurora/screenshots/VisionKeys%20Aurora.png?raw=true",
-			"title": "VisionKeys Aurora",
-			"package": "com.kernelrw.visionkeysaurora",
-			"hideShadow": false
-		},
-		{
 			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.powercuff/screenshots/Powercuff.png?raw=true",
 			"title": "Powercuff",
 			"package": "com.kernelrw.powercuff",
