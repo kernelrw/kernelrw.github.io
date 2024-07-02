@@ -51,6 +51,29 @@ Name: PadSwitcher
 Author: SWING
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
 
+Package: com.kernelrw.powercuff
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootful/com.kernelrw.powercuff_1.2_iphoneos-arm.deb
+Size: 13832
+MD5sum: d100f1081ac0f5aaff88b63d3f096a01
+SHA1: 59aefc0a3d472d8efb816e0fd4bb8b69cd2e874a
+SHA256: f5cd910eac532ab16f2f6c07baffde241dc2c85c34e21a134489774afcbd3b7c
+SHA512: 6cb2090cdc023f3ad20bb4adbf5b31cbdcdb5b0903312b089fce8ef4f51d6f05d656e87144a650886c8e8a712c8826a57435e7146172847473a147eb6fffa39c
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
+
 Package: com.kernelrw.primedeck
 Architecture: iphoneos-arm
 Version: 1.3.0
