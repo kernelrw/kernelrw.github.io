@@ -774,6 +774,25 @@ Name: DLEasy ~ Roothide
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: org.haxi0.lunar
+Architecture: iphoneos-arm64e
+Version: 2.0.2
+Section: Tweaks
+Maintainer: haxi0
+Installed-Size: 940
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0), com.ginsu.comet, ellekit, preferenceloader
+Filename: ./debians/roothide/org.haxi0.lunar_2.0.2_iphoneos-arm64e.deb
+Size: 206570
+MD5sum: c8688a75854230957469ec002ea7b3d5
+SHA1: 0c90cff50331be4efb6acba45dd287d4e9cf1898
+SHA256: e1a2eac1a81e636c12a0441b7f317c17b0da189eb6d7c42bccc525594c0800da
+SHA512: fb234585c580a76b31c5ce36daa99a2758a34b31d9df421357cd6573b31ab38c71c93e45ebcc8d9a5a3e1eb57cfc919f116a46838bbe8d8f25ad35af0754fe8a
+Description: A simple, yet beautiful LS tweak.
+Name: Lunar
+Icon: https://raw.githubusercontent.com/haxi0/haxAssets/main/LunarSileoIcon.png
+Author: haxi0
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64
 Version: 1.2.1
