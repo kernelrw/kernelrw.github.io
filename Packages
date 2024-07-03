@@ -887,14 +887,15 @@ Installed-Size: 628
 Depends: mobilesubstrate, firmware (>= 16.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
 Filename: ./debians/rootless/com.kernelrw.axon_1.5_iphoneos-arm64.deb
-Size: 139032
-MD5sum: 0af4983c5fd5730a3ee4fd954656946b
-SHA1: 14b306ed7e99e960db68efffa82c9c144468af98
-SHA256: 63bfeab784c590e4ec1e4b3318daf2df1d3ffb9c59778e5c89338040d70dc4a9
-SHA512: 4551bf165e7fd9c1fe39970d23499c1ca1a5cc6f4702b454aa16e699569447df1837a987766cb3de48a5e27d6182de8d3018f83239a2caf3ffedb0161df3715b
+Size: 138884
+MD5sum: 2a25a0636ddee28d5ebb1d4c727ac76b
+SHA1: 2b2e11a17eb904373da1256158c7b2b152a3cd8d
+SHA256: 57bd08f1b72fe92e123214d812bb5403f3fc873280fed480bfa5efd94dad6129
+SHA512: b9fc7a0d43985a2f911821dece51c1d64cf159fb8d1f297ea602d45870d9551df1e055876f2a1bf53bb131c224ae50fdbd519905ca2a7e91a513a57ff55153f4
 Description: Priority Hub for iOS 16 , supports Dopamine 2
 Name: Axon
 Author: Nepeta & Baw Appie
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fme.nepeta.axon-icon-icon%402x.png.png&s=180x180&f=webp
 
 Package: com.kernelrw.bazzi2
 Architecture: iphoneos-arm64
