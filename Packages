@@ -480,6 +480,26 @@ Name: Phantom
 Author: eternal
 Icon: https://github.com/localip/phantom/blob/main/assets/icon.png?raw=true
 
+Package: me.kernelrw.rocket
+Architecture: iphoneos-arm
+Version: 3.8.27
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debians/rootful/me.kernelrw.rocket_3.8.27_iphoneos-arm.deb
+Size: 1416472
+MD5sum: 255cb17d0dcd731688c038cc7d7cf2af
+SHA1: 3040c47c4854a9c77abf633511aeaed68d2ce2fc
+SHA256: 9e29c3398532456413bf746fc4fe0df9f1fdb8fe745328784b976ef9c920964d
+SHA512: 1f2532b7545e91b4ae6c2c8f8d684a7b90db864b9d89d2833d4a15c18ce3c81fcf2d60a873f5818fa8d0859d0d2806f36015b4ce4bcba7f8f595ab8d349f7649
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+
 Package: me.kernelrw.sileorespring
 Architecture: iphoneos-arm
 Version: 0-2
@@ -2784,6 +2804,26 @@ Description: Download/Share images & videos from social apps easily!
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.rocket
+Architecture: iphoneos-arm64
+Version: 3.8.27
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debians/rootless/me.kernelrw.rocket_3.8.27_iphoneos-arm64.deb
+Size: 1445428
+MD5sum: a26676462237b3390e9d7a3d2353cac3
+SHA1: 000c4875a9e8e3ec921e697c3830077479ce47b6
+SHA256: 055ebc0c39122353e2a9ebba8447f750b9c5f189cd2b441b52bc52754cc4d5ed
+SHA512: 0c6ebaba23cf6266db821937a316bd59dd316e533e40de66069fd4b6645d450055b5e47146d55e898aad4e527d0a75a946030c298b0d1c9f531041098b1b2c14
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 
 Package: me.kernelrw.sileorespring
 Architecture: iphoneos-arm64
