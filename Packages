@@ -2687,12 +2687,12 @@ Installed-Size: 720
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
 Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
 Filename: ./debians/rootless/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm64.deb
-Size: 120920
-MD5sum: 56374e096ea20f24986eeb50bf4913e0
-SHA1: 904fcfb7703e780c08fa6756795de560cb9e8d58
-SHA256: 71a131dda36a2ab90a31074e0152a45f30144a5d8692587ec6e4b487658062cc
-SHA512: 157a754bf350d20ab0fa6312782b8fec8391002aad45db906d30612f7ab8a9de66bc1e57bd0ab9bbcc74706843891d175756f53f8977563e60120a479a1e7420
-Description: The better and highly customizable volume hud. For iOS 13.
+Size: 120936
+MD5sum: 0804783f21c2faa4a58a5427f884df70
+SHA1: db76dd990f3f901b56cb2a664375a95d1fcf6348
+SHA256: 974ea6dd929ee11d72b4f4b808ea7f3618bfe9acc12d4da9fa59c86db21c2f0c
+SHA512: 9e8fec22e86ccb2357fdabe85052005513661d4f6e1ec1c53df066a3aa8cc5d3599b4bef14e7f27adee5508b6d5ad2778fd6f01bc9a6579bc2e1caceb8ae1f10
+Description: The better and highly customizable volume hud. For iOS 13 ~ iOS 16 , Dopamine 2 too .
 Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fhi.my.name.is.ubik.sonus13%2Ficon.png&s=180x180&f=webp
