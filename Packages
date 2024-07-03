@@ -1067,12 +1067,13 @@ Architecture: iphoneos-arm64
 Version: 1.0
 Section: Themes
 Maintainer: Cachexiaa
+Depends: com.spark.snowboard.ui
 Filename: ./debians/rootless/com.kernelrw.checkra1nswitches_1.0_iphoneos-arm64.deb
-Size: 16568
-MD5sum: 207c9ffab8779d625ad14ddc0b19f86d
-SHA1: 8ade82cbba5373d826bd70b58a547a68ab11f006
-SHA256: eaec331135aaef0b81903575313c7c124ffe21c66953f298920f9965718e6b49
-SHA512: 01fb60fe35e237a166a1b252fd51df432421a201302fe74159de8495393b6ca041b22f68b9530eba2db207b4791eea1c906a880857e22c46db61253755a5b4d4
+Size: 16596
+MD5sum: c91ba1ebbd23729dbb2cf447ac6b9d22
+SHA1: 4e02e671aed71cce5cd6719e5eb9875d8ad5e9d1
+SHA256: ff11814bc024997f9a9ccafac3a090efbb818c476454adb531c836da265e28c7
+SHA512: 5f350d33f025303b9e5b9686699a2018ad9a3d8314afb8495db539cef524e3c8f6607b8d0444a134dcc5c01c129fc48c5681d3ddabd1075b3f7801a229fd9d93
 Description: Checkra1n UI Switches For All Jailbreaks Including Dopamine 2 .
 Name: Checkra1n Switches
 Author: Cachexiaa
