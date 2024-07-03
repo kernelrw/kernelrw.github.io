@@ -1062,17 +1062,17 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
-Package: com.kernelrw.checra1nswitches
+Package: com.kernelrw.checkra1nswitches
 Architecture: iphoneos-arm64
 Version: 1.0
 Section: Themes
 Maintainer: Cachexiaa
-Filename: ./debians/rootless/com.kernelrw.checra1nswitches_1.0_iphoneos-arm64.deb
-Size: 16576
-MD5sum: aaec131392d096b795483513de46aca4
-SHA1: 701834d1ab2400c834c0f52486ca45acc0b9bba0
-SHA256: a10821ba0dd158a1797818d3b36298798f3b7b77af06b6637ae042f27c492acf
-SHA512: c79a35474df3d3b3625ff75c2fe03c4bcd7fabbb18b9e9add63582e1e1e6c1176315608022fde386399f48aaa2e2ab38b7a6363d6ceb9e6087817a5e193f5657
+Filename: ./debians/rootless/com.kernelrw.checkra1nswitches_1.0_iphoneos-arm64.deb
+Size: 16568
+MD5sum: 207c9ffab8779d625ad14ddc0b19f86d
+SHA1: 8ade82cbba5373d826bd70b58a547a68ab11f006
+SHA256: eaec331135aaef0b81903575313c7c124ffe21c66953f298920f9965718e6b49
+SHA512: 01fb60fe35e237a166a1b252fd51df432421a201302fe74159de8495393b6ca041b22f68b9530eba2db207b4791eea1c906a880857e22c46db61253755a5b4d4
 Description: Checkra1n UI Switches For All Jailbreaks Including Dopamine 2 .
 Name: Checkra1n Switches
 Author: Cachexiaa
