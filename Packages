@@ -2118,25 +2118,6 @@ Description: Discretely take a photo or record a video from anywhere, even with 
 Name: SneakyCam
 Author: Spark
 
-Package: com.kernelrw.sonus
-Architecture: iphoneos-arm64
-Version: 1.0.5
-Section: Tweaks
-Maintainer: ubik <cydia@ubikstyl.es>
-Installed-Size: 720
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
-Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
-Filename: ./debians/rootless/com.kernelrw.sonus_1.0.5_iphoneos-arm64.deb
-Size: 120828
-MD5sum: f9f16582db29cd6bf882191494c9e4de
-SHA1: 993c098953b6c6e4c94b4a1a976844f2a451943d
-SHA256: f3b8adf94df8611815e7f4c4a5b93e46fa1bfaf45833b59ed1b547934cc3c034
-SHA512: f762c58121cdd2e864c15a2abee620fb95e85bcb3727230ba85e82c42b47a11aa08282b253948863a6c38820708fe4c25951dbc8acebaab1e971061670f50f23
-Description: The better and highly customizable volume hud. For iOS 13 ~ iOS 16 !
-Name: Sonus
-Author: ubik <cydia@ubikstyl.es>
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fhi.my.name.is.ubik.sonus13%2Ficon.png&s=180x180&f=webp
-
 Package: com.kernelrw.spotcc
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -2696,6 +2677,25 @@ Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are usi
  - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
 Name: Xinamine Patcher
 Author: NoW4U2Kid
+
+Package: hi.my.name.is.ubik.sonus13
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 720
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
+Filename: ./debians/rootless/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm64.deb
+Size: 120920
+MD5sum: 56374e096ea20f24986eeb50bf4913e0
+SHA1: 904fcfb7703e780c08fa6756795de560cb9e8d58
+SHA256: 71a131dda36a2ab90a31074e0152a45f30144a5d8692587ec6e4b487658062cc
+SHA512: 157a754bf350d20ab0fa6312782b8fec8391002aad45db906d30612f7ab8a9de66bc1e57bd0ab9bbcc74706843891d175756f53f8977563e60120a479a1e7420
+Description: The better and highly customizable volume hud. For iOS 13.
+Name: Sonus13
+Author: ubik <cydia@ubikstyl.es>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fhi.my.name.is.ubik.sonus13%2Ficon.png&s=180x180&f=webp
 
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm64
