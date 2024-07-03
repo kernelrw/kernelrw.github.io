@@ -2997,19 +2997,19 @@ Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechang
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
-Package: org.kernelrw.lunar
+Package: org.haxi0.lunar
 Architecture: iphoneos-arm64
 Version: 2.0.2
 Section: Tweaks
 Maintainer: haxi0
 Installed-Size: 940
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0), com.ginsu.comet, ellekit, preferenceloader
-Filename: ./debians/rootless/org.kernelrw.lunar_2.0.2_iphoneos-arm64.deb
-Size: 149908
-MD5sum: 9075b98265855103906654054a2dcab6
-SHA1: a858483c56a879dacff976b7c8cd8509679fc923
-SHA256: 6b3eda25cc0767530e5a2eb87ba632ed1c3dee05510c181990a6dffc8b95d873
-SHA512: f6172738bcfe3265994a6b72b23f98e4e2b866758fc586807bd232d92482df37054d4468d717218cbfcfc7bfd9b981cc8fbe30b477692a95e630188e9ece6dc2
+Filename: ./debians/rootless/org.haxi0.lunar_2.0.2_iphoneos-arm64.deb
+Size: 149474
+MD5sum: 3b67e28fd4de201ddaddb286cc0c0192
+SHA1: 7b66e2145e26fa00d947c55be73cb6f74f306332
+SHA256: c816af273e1dec9729289c9a7a6a4762c8f30458a37251d4a04989acec9bbc61
+SHA512: f96e5346b1bf5502f068eb8eae19a0577630721e25554ae974491ee0f84a659990541adff9cad75129603371d24860e9b0c0e29f6c3449e20ef9e0615a53c2ce
 Description: A simple, yet beautiful LS tweak.
 Name: Lunar
 Icon: https://raw.githubusercontent.com/haxi0/haxAssets/main/LunarSileoIcon.png
