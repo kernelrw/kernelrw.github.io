@@ -2612,15 +2612,15 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1020
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: ./debians/rootless/con.kernelrw.battivator_1.3.11_iphoneos-arm64.deb
-Size: 253916
-MD5sum: 94ceb7dae4ec1e4e66b5b2101693b758
-SHA1: 8ff1fac6b5d0f3b1ba87641c3ba1115985758525
-SHA256: 50d9e4166ff53ea994feeb32c17580e6780819882020c96fcb06c6e3d094963c
-SHA512: d75215304eb0606ed0b244c39646492e153c558f77a41a446ecd53c0e7a46f95a99b53c44a0fc07899a68c2448e8ff058fca01de4be5849d6d1a9a7f699e6012
+Size: 254020
+MD5sum: 9e0ea215f67933a5796b0045657a1991
+SHA1: 358508444d2d8a152638a4654253e13edf089f1c
+SHA256: a985fb14e1e48656cd8f455a34fde5e20df857f3359e3fa8d99fa9aed1ace2a4
+SHA512: 909ba3c59cddc0c24cc981f57f8528375d67f089eb73c74cffb1eadf6a80318d0fad88da95613da5ee304897c763836c33c9a6058c3b6c07d54748aa0cd9083e
 Description: low power mode & battery level profiles
 Author: merdok <merdok87@o2.pl>
 Name: Battivator
-Icon: file:///Library/PreferenceBundles/battivatorprefs.bundle/battivator@2x.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.battivator.png&s=180x180&f=webp
 
 Package: dev.kernelrw.ccshutdown
 Architecture: iphoneos-arm64
