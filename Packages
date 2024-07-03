@@ -215,6 +215,22 @@ Name: Sonus
 Author: ubik <cydia@ubikstyl.es>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fhi.my.name.is.ubik.sonus13%2Ficon.png&s=180x180&f=webp
 
+Package: com.kernelrw.super-switches
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Cachexiaa
+Filename: ./debians/rootful/com.kernelrw.super-switches_1.0_iphoneos-arm.deb
+Size: 1997520
+MD5sum: 9716a2310382d794bbe203285c60f412
+SHA1: b0745d5005832dcaedbcb1fbcd50b30fde9993af
+SHA256: 733f0b7203e2e331fc08f5bff7df0bce09ddf1fee9194c69e5301d8babe2bc60
+SHA512: 2032afcdd70d609abc1273ff606d63cc603cae71eb77ccd031871f35dbc764b936ee43c77aefad0be509ddc13e9d9860fab5bb7ecad08dd3e357bb5cc84354f0
+Description: The best themes for the Switches (Off_On)
+Name: Super Switches
+Author: Shadows <cab3rmen@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2Fcom.twickd.shadows.super-switches%2Ficon.jpeg&s=180x180&f=webp
+
 Package: com.kernelrw.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
