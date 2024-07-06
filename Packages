@@ -1326,6 +1326,23 @@ Name: Dopamine Switch
 Author: Kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZwQdFMAA_lDocjjjwvTs5SNrtRgSPagVagwb_GhJgw&s
 
+Package: com.kernelrw.dopamineswitches
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Themes
+Maintainer: Kernelrw
+Depends: com.spark.snowboard.ui
+Filename: ./debians/rootless/com.kernelrw.dopamineswitches_1.1_iphoneos-arm64.deb
+Size: 73896
+MD5sum: 88f420455e59d4ddf635c3fb06e74131
+SHA1: 654871db01d2ec36becbec7b18744dbd45506d24
+SHA256: 271f2498eebac9f109ee78ee54ca047dcb380fc250578230be2f24b9a1f05c55
+SHA512: fa3e1f7702e002dbab8bc959aee7a570fd4f86438cf3294145a21af6de66c1c1bb50fcd65a01e70bda086e9d0d65c7fd0da75fc1bbb73d8f54e468d8fc39db88
+Description: Dopamine Switch for rootless  Jailbreaks  .
+Name: Dopam1neSwitches
+Author: Kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_eB2ts1gK_VNE5pPAcFfuA297uP2Ue5WzKd9RA8Zmw&s
+
 Package: com.kernelrw.doubleclickwake
 Architecture: iphoneos-arm64
 Version: 1.1-2
