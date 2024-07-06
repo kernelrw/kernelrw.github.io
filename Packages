@@ -655,6 +655,24 @@ Description: Design layouts for lockscreen and homescreen
 Name: Designer
 Author: JunesiPhone
 
+Package: com.kernelrw.dopamineswitches
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Kernelrw
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui
+Filename: ./debians/roothide/com.kernelrw.dopamineswitches_1.0_iphoneos-arm64e.deb
+Size: 87944
+MD5sum: ddb3e11be62aa72b295f9c5958400195
+SHA1: 26f24c6c23c0b95c831c91b97eeb3d56753ede95
+SHA256: 81e1f5e3042bf805d49f5617d8811b7e6f17f4d579ba701ca456fba6c890e841
+SHA512: d86f63f69c1dcdb2482fa3f078461362deaa469127a9c08796d64e25facf4b5d99b1157705d647407bb31c89eef759cb8cbc1ee66751db794eb2b813522ae0d5
+Description: Dopamine UI Switches For All Jailbreaks  .
+Name: Dopamine Switch
+Author: Kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZwQdFMAA_lDocjjjwvTs5SNrtRgSPagVagwb_GhJgw&s
+
 Package: com.kernelrw.glance
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -753,6 +771,24 @@ Description: Roothide UI Switches For All Jailbreaks  .
 Name: Roothide Switch
 Author: Kernelrw
 Icon: https://onejailbreak.com/site/assets/files/1732/roothide-logo.350x0-is.jpg
+
+Package: com.kernelrw.unc0verswitches
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Kernelrw
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui
+Filename: ./debians/roothide/com.kernelrw.unc0verswitches_1.0_iphoneos-arm64e.deb
+Size: 93790
+MD5sum: ed8bffedb38a9a6e4172009f284d9fde
+SHA1: 376bb209d39be6c706341aef8dd246af3435d4ec
+SHA256: d8657bade8e59cfe12e9cc71ca0ac63fefa808bf7915f1136e0cf632f459a6be
+SHA512: 34f747a16eb88cd9c1693c2f81530e35ada90509414a95c17afeb6175c735051425a5a3bb59cbd59db498f77a9ffaedb25c86180aec5575cd8cc6e04f07d378b
+Description: Unc0ver Switch for rootless  Jailbreaks  .
+Name: Unc0ver Switch
+Author: Kernelrw
+Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
 
 Package: com.kernelrw.visibleisland
 Architecture: iphoneos-arm64e
