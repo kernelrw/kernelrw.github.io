@@ -2342,6 +2342,23 @@ Name: Tinge
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
 
+Package: com.kernelrw.unc0verswitches
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Kernelrw
+Depends: com.spark.snowboard.ui
+Filename: ./debians/rootless/com.kernelrw.unc0verswitches_1.0_iphoneos-arm64.deb
+Size: 93604
+MD5sum: a2c542f3131989520e638201938c81ff
+SHA1: 67dd6ec91a0ed89f867902379947ea0bca2b6804
+SHA256: cb1fe15a434344da741235fa759deb645c0f81bc82ac0ddcb5c3586682323bef
+SHA512: 36d282be5573e2ab97220c30c9094c62f71b5b158c5cb9e9bd49cd71023372dca687c94ff11b2193b43401f0b8c4b16b3c1c2e2b41161d1f4d3b3a120a27def1
+Description: Unc0ver Switch for rootless  Jailbreaks  .
+Name: Unc0ver Switch
+Author: Kernelrw
+Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
+
 Package: com.kernelrw.underdock
 Architecture: iphoneos-arm64
 Version: 1.2
