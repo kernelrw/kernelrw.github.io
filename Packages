@@ -1316,11 +1316,11 @@ Section: Themes
 Maintainer: Kernelrw
 Depends: com.spark.snowboard.ui
 Filename: ./debians/rootless/com.kernelrw.dopamineswitches_1.0_iphoneos-arm64.deb
-Size: 87344
-MD5sum: cd0b20ae14d7ef5815f2349a26459454
-SHA1: f22a08fcc6a6bd7caa28718c6bae3030ae60ead9
-SHA256: 6c034115ab704b44606dde668e4e35b09b9c467fb4f5e897c20e9c5dcea2ebce
-SHA512: 6df54db20261b5fe0a8ac71b7b2cd2234f042e3c2986e6c26780eaa57f88208240f6cea7da0a5faebe42b58cef80d802c0cd8d7b934d9dad97d5971a1db5059e
+Size: 69020
+MD5sum: 310e280c8ba239468138a11cb10b78a8
+SHA1: 2e8a6f613d739ac5a880d77e3953124e99ecfdd4
+SHA256: 88fdfd5dfa905ec9e4453cf01aa8c4f097c2996b90ad81e6a1bfdf49a65c21f7
+SHA512: b8d0beabb9877288ad07b0ae5d5b8b7ba9eb648d95759280fc8db09f1c40520db7dd927de9caf566cee37f4a790ad86e344e0188258de769ad04e31b39df449f
 Description: Dopamine UI Switches For All Jailbreaks  .
 Name: Dopamine Switch
 Author: Kernelrw
