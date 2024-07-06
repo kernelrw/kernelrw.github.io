@@ -1309,57 +1309,6 @@ Author: zqbb
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
 
-Package: com.kernelrw.dopam1neswitches
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Themes
-Maintainer: Kernelrw
-Depends: com.spark.snowboard.ui
-Filename: ./debians/rootless/com.kernelrw.dopam1neswitches_1.1_iphoneos-arm64.deb
-Size: 166740
-MD5sum: ccc03e9abd70524f73fdc1d2c425384f
-SHA1: 9cf01f8593bd8170f0d75ca6e46545882fccf034
-SHA256: 7f44af51174700a9bbb1f1fd1022c9aee3023ef8da375d14e9673d8a8da6fb5f
-SHA512: be1c4d2ea1e072baad0e23134d90d004224180c6ecbf09068fb11fa5ae078ef55a257487e6d05b18119b49a8918c04b90396110f2ab70d4b1f5bdb34121c1b5b
-Description: Dopamine Switches for rootless  Jailbreaks  .
-Name: Dopam1neSwitches
-Author: Kernelrw
-Icon: https://ellekit.space/dopamine/assets/icon.png
-
-Package: com.kernelrw.dopamineswitches
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: Kernelrw
-Depends: com.spark.snowboard.ui
-Filename: ./debians/rootless/com.kernelrw.dopamineswitches_1.0_iphoneos-arm64.deb
-Size: 69020
-MD5sum: 310e280c8ba239468138a11cb10b78a8
-SHA1: 2e8a6f613d739ac5a880d77e3953124e99ecfdd4
-SHA256: 88fdfd5dfa905ec9e4453cf01aa8c4f097c2996b90ad81e6a1bfdf49a65c21f7
-SHA512: b8d0beabb9877288ad07b0ae5d5b8b7ba9eb648d95759280fc8db09f1c40520db7dd927de9caf566cee37f4a790ad86e344e0188258de769ad04e31b39df449f
-Description: Dopamine UI Switches For All Jailbreaks  .
-Name: Dopamine Switch
-Author: Kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZwQdFMAA_lDocjjjwvTs5SNrtRgSPagVagwb_GhJgw&s
-
-Package: com.kernelrw.dopamineswitches
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Themes
-Maintainer: Kernelrw
-Depends: com.spark.snowboard.ui
-Filename: ./debians/rootless/com.kernelrw.dopamineswitches_1.1_iphoneos-arm64.deb
-Size: 73896
-MD5sum: 88f420455e59d4ddf635c3fb06e74131
-SHA1: 654871db01d2ec36becbec7b18744dbd45506d24
-SHA256: 271f2498eebac9f109ee78ee54ca047dcb380fc250578230be2f24b9a1f05c55
-SHA512: fa3e1f7702e002dbab8bc959aee7a570fd4f86438cf3294145a21af6de66c1c1bb50fcd65a01e70bda086e9d0d65c7fd0da75fc1bbb73d8f54e468d8fc39db88
-Description: Dopamine Switch for rootless  Jailbreaks  .
-Name: Dopam1neSwitches
-Author: Kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_eB2ts1gK_VNE5pPAcFfuA297uP2Ue5WzKd9RA8Zmw&s
-
 Package: com.kernelrw.doubleclickwake
 Architecture: iphoneos-arm64
 Version: 1.1-2
