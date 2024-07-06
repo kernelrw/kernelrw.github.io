@@ -1273,6 +1273,23 @@ Author: zqbb
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
 
+Package: com.kernelrw.dopamineswitches
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Kernelrw
+Depends: com.spark.snowboard.ui
+Filename: ./debians/rootless/com.kernelrw.dopamineswitches_1.0_iphoneos-arm64.deb
+Size: 118360
+MD5sum: 084f658bc985610fa7c3934a0c5863f7
+SHA1: ee6507ea900a0d15fe63636c5a6c564cc0b292c7
+SHA256: e09d59a64e94a9a0d6acd92e1ffbd0d04a05c67f67777b7e2bdb1297d627f348
+SHA512: 01e3f6599a75871bab4056495b228ce2437307191510a9fe18bb070ad69c4f38c0235af3953a03001930a0ece210aeb61f18dc2cebaee79959270e34c42d6b2b
+Description: Dopamine UI Switches For All Jailbreaks  .
+Name: Dopamine Switch
+Author: Kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZwQdFMAA_lDocjjjwvTs5SNrtRgSPagVagwb_GhJgw&s
+
 Package: com.kernelrw.doubleclickwake
 Architecture: iphoneos-arm64
 Version: 1.1-2
