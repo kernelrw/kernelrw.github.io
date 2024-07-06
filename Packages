@@ -1309,6 +1309,23 @@ Author: zqbb
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
 
+Package: com.kernelrw.dopam1neswitches
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Themes
+Maintainer: Kernelrw
+Depends: com.spark.snowboard.ui
+Filename: ./debians/rootless/com.kernelrw.dopam1neswitches_1.1_iphoneos-arm64.deb
+Size: 166740
+MD5sum: ccc03e9abd70524f73fdc1d2c425384f
+SHA1: 9cf01f8593bd8170f0d75ca6e46545882fccf034
+SHA256: 7f44af51174700a9bbb1f1fd1022c9aee3023ef8da375d14e9673d8a8da6fb5f
+SHA512: be1c4d2ea1e072baad0e23134d90d004224180c6ecbf09068fb11fa5ae078ef55a257487e6d05b18119b49a8918c04b90396110f2ab70d4b1f5bdb34121c1b5b
+Description: Dopamine Switches for rootless  Jailbreaks  .
+Name: Dopam1neSwitches
+Author: Kernelrw
+Icon: https://ellekit.space/dopamine/assets/icon.png
+
 Package: com.kernelrw.dopamineswitches
 Architecture: iphoneos-arm64
 Version: 1.0
