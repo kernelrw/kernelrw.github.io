@@ -736,6 +736,24 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: https://repo.cypwn.xyz/packages/RegramforInstagram-Rootless/icon.png
 
+Package: com.kernelrw.roothideswitches
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Kernelrw
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui
+Filename: ./debians/roothide/com.kernelrw.roothideswitches_1.0_iphoneos-arm64e.deb
+Size: 100410
+MD5sum: 15e8f04bc1a42cda8a4458d231a2b7dd
+SHA1: 742d55b96c5da049d88983a5e46465a8f872697f
+SHA256: ac7ce4dc91b440d4173dcae279e0a6fb409a868b35d7c01159d3c7ef5745e8c6
+SHA512: 500eed5098770aeb6d5e19f9444705ba2eb73876089ef85297f595dfe226441d65f4967c41d850ad802dc5adb873a14fb27de9d9ad9b38685c3ae83d813aeb39
+Description: Roothide UI Switches For All Jailbreaks  .
+Name: Roothide Switch
+Author: Kernelrw
+Icon: https://onejailbreak.com/site/assets/files/1732/roothide-logo.350x0-is.jpg
+
 Package: com.kernelrw.visibleisland
 Architecture: iphoneos-arm64e
 Version: 2.0
