@@ -215,22 +215,6 @@ Name: Sonus
 Author: ubik <cydia@ubikstyl.es>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fhi.my.name.is.ubik.sonus13%2Ficon.png&s=180x180&f=webp
 
-Package: com.kernelrw.super-switches
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Themes
-Maintainer: Cachexiaa
-Filename: ./debians/rootful/com.kernelrw.super-switches_1.0_iphoneos-arm.deb
-Size: 1997520
-MD5sum: 9716a2310382d794bbe203285c60f412
-SHA1: b0745d5005832dcaedbcb1fbcd50b30fde9993af
-SHA256: 733f0b7203e2e331fc08f5bff7df0bce09ddf1fee9194c69e5301d8babe2bc60
-SHA512: 2032afcdd70d609abc1273ff606d63cc603cae71eb77ccd031871f35dbc764b936ee43c77aefad0be509ddc13e9d9860fab5bb7ecad08dd3e357bb5cc84354f0
-Description: The best themes for the Switches (Off_On)
-Name: Super Switches
-Author: Shadows <cab3rmen@gmail.com>
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2Fcom.twickd.shadows.super-switches%2Ficon.jpeg&s=180x180&f=webp
-
 Package: com.kernelrw.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
@@ -655,24 +639,6 @@ Description: Design layouts for lockscreen and homescreen
 Name: Designer
 Author: JunesiPhone
 
-Package: com.kernelrw.dopamineswitches
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Themes
-Maintainer: Kernelrw
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.snowboard.ui
-Filename: ./debians/roothide/com.kernelrw.dopamineswitches_1.0_iphoneos-arm64e.deb
-Size: 87944
-MD5sum: ddb3e11be62aa72b295f9c5958400195
-SHA1: 26f24c6c23c0b95c831c91b97eeb3d56753ede95
-SHA256: 81e1f5e3042bf805d49f5617d8811b7e6f17f4d579ba701ca456fba6c890e841
-SHA512: d86f63f69c1dcdb2482fa3f078461362deaa469127a9c08796d64e25facf4b5d99b1157705d647407bb31c89eef759cb8cbc1ee66751db794eb2b813522ae0d5
-Description: Dopamine UI Switches For All Jailbreaks  .
-Name: Dopamine Switch
-Author: Kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZwQdFMAA_lDocjjjwvTs5SNrtRgSPagVagwb_GhJgw&s
-
 Package: com.kernelrw.glance
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -753,42 +719,6 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: https://repo.cypwn.xyz/packages/RegramforInstagram-Rootless/icon.png
-
-Package: com.kernelrw.roothideswitches
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Themes
-Maintainer: Kernelrw
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.snowboard.ui
-Filename: ./debians/roothide/com.kernelrw.roothideswitches_1.0_iphoneos-arm64e.deb
-Size: 100410
-MD5sum: 15e8f04bc1a42cda8a4458d231a2b7dd
-SHA1: 742d55b96c5da049d88983a5e46465a8f872697f
-SHA256: ac7ce4dc91b440d4173dcae279e0a6fb409a868b35d7c01159d3c7ef5745e8c6
-SHA512: 500eed5098770aeb6d5e19f9444705ba2eb73876089ef85297f595dfe226441d65f4967c41d850ad802dc5adb873a14fb27de9d9ad9b38685c3ae83d813aeb39
-Description: Roothide UI Switches For All Jailbreaks  .
-Name: Roothide Switch
-Author: Kernelrw
-Icon: https://onejailbreak.com/site/assets/files/1732/roothide-logo.350x0-is.jpg
-
-Package: com.kernelrw.unc0verswitches
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Themes
-Maintainer: Kernelrw
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.snowboard.ui
-Filename: ./debians/roothide/com.kernelrw.unc0verswitches_1.0_iphoneos-arm64e.deb
-Size: 93790
-MD5sum: ed8bffedb38a9a6e4172009f284d9fde
-SHA1: 376bb209d39be6c706341aef8dd246af3435d4ec
-SHA256: d8657bade8e59cfe12e9cc71ca0ac63fefa808bf7915f1136e0cf632f459a6be
-SHA512: 34f747a16eb88cd9c1693c2f81530e35ada90509414a95c17afeb6175c735051425a5a3bb59cbd59db498f77a9ffaedb25c86180aec5575cd8cc6e04f07d378b
-Description: Unc0ver Switch for rootless  Jailbreaks  .
-Name: Unc0ver Switch
-Author: Kernelrw
-Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
 
 Package: com.kernelrw.visibleisland
 Architecture: iphoneos-arm64e
@@ -1135,23 +1065,6 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
-Package: com.kernelrw.checkra1nswitches
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: Cachexiaa
-Depends: com.spark.snowboard.ui
-Filename: ./debians/rootless/com.kernelrw.checkra1nswitches_1.0_iphoneos-arm64.deb
-Size: 16596
-MD5sum: c91ba1ebbd23729dbb2cf447ac6b9d22
-SHA1: 4e02e671aed71cce5cd6719e5eb9875d8ad5e9d1
-SHA256: ff11814bc024997f9a9ccafac3a090efbb818c476454adb531c836da265e28c7
-SHA512: 5f350d33f025303b9e5b9686699a2018ad9a3d8314afb8495db539cef524e3c8f6607b8d0444a134dcc5c01c129fc48c5681d3ddabd1075b3f7801a229fd9d93
-Description: Checkra1n UI Switches For All Jailbreaks Including Dopamine 2 .
-Name: Checkra1n Switches
-Author: Cachexiaa
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2F8ec19ac96a7222c0621842cac91deee2.jpeg&s=180x180&f=webp
-
 Package: com.kernelrw.choicy
 Architecture: iphoneos-arm64
 Version: 1.4.10-3
@@ -1265,6 +1178,23 @@ Description: Make your icons dance ; Supports iOS14 ~ iOS16.5 including Dopamine
 Name: Cylinder Remade
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
 Author: Ryan Nair
+
+Package: com.kernelrw.depths
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Themes
+Maintainer: Polyphian
+Replaces: com.Polyphian.DepthsIconsLite
+Filename: ./debians/rootless/com.kernelrw.depths_1.3_iphoneos-arm64.deb
+Size: 68482632
+MD5sum: a0087d8343342f4ff5cc4998ab66a309
+SHA1: 00dc1e884e1e4f06355f0d6416b50c00826b1245
+SHA256: e5d3e270b4b6bf5cd3043c1ba696a8fc366052afc485eea51fb7260c1f82ee14
+SHA512: 6b1be9f22c27849ba3fb70e5f7789629956ced3d066f077a7c82ab03ff31fb34728434f989055a6c0a1b9d36fea7bed654d9093abcf1482bc0803dbeb6db041d
+Description: Highly customizable 3D-like theme.
+Name: Depths
+Author: Polyphian <m.brian.burns@gmail.com>
+Icon: https://twickd.com/images/987fbe3a516491ade6c172639e9a3b2c.jpeg?size=medium
 
 Package: com.kernelrw.digitalbattery13
 Architecture: iphoneos-arm64
@@ -2070,23 +2000,6 @@ Name: Ring
 Author: Yan
 Icon: https://media.havoc.app/660068a52b78a631ec05699f
 
-Package: com.kernelrw.roothideswitches
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: Kernelrw
-Depends: com.spark.snowboard.ui
-Filename: ./debians/rootless/com.kernelrw.roothideswitches_1.0_iphoneos-arm64.deb
-Size: 100192
-MD5sum: 5fc840759f3f3b917a34521c1407d0fe
-SHA1: 0339bd68190c54f84e5f5c06ec4bd214a6a26550
-SHA256: c76109244172b716f1a00b3ea6ba1f48f99838f53ff841e1a331d2f70c92d5f2
-SHA512: cc1a1766b264999cea4d3240f9edbdda7260d93fdb7b59f417ad3e72974c295252075b56b28392022b74baa65f89a2a3ff1eae818401e9a07c799e2bd0bb5204
-Description: Roothide UI Switches For All Jailbreaks  .
-Name: Roothide Switch
-Author: Kernelrw
-Icon: https://onejailbreak.com/site/assets/files/1732/roothide-logo.350x0-is.jpg
-
 Package: com.kernelrw.rosemary
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -2294,22 +2207,6 @@ Description: Show Percentage For Volume & Brightness Sliders On Control Center ;
 Name: SugarCane Dopamine
 Author: iOS Creatix, kasiimh1, p2kdev
 
-Package: com.kernelrw.super-switches
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: Cachexiaa
-Filename: ./debians/rootless/com.kernelrw.super-switches_1.0_iphoneos-arm64.deb
-Size: 1997664
-MD5sum: 662211e4fdc23c163ca36e848d350f18
-SHA1: 9a96e15658cc0f4a21c8b9c7d3b9fd4fdd39734c
-SHA256: ef52114c820df990c92c716431d5619ad735e34c2897f83599e3ebe3e846d18e
-SHA512: 80b1e2fa64987fb64863ddf0f3066ffa5b78589e5a96cf6511099b61ccf5e3b22f7a94c3d17b4b4c9973071d1398a9f6da05ce448dd8c54cb3af2ec950762d99
-Description: The best themes for the Switches (Off_On)
-Name: Super Switches
-Author: Shadows <cab3rmen@gmail.com>
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2Fcom.twickd.shadows.super-switches%2Ficon.jpeg&s=180x180&f=webp
-
 Package: com.kernelrw.swiftgramplus
 Architecture: iphoneos-arm64
 Version: 4.2.0
@@ -2360,23 +2257,6 @@ Description: Color your badges with Perfection , supports iOS15.0 ~ iOS16.5 incl
 Name: Tinge
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
-
-Package: com.kernelrw.unc0verswitches
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: Kernelrw
-Depends: com.spark.snowboard.ui
-Filename: ./debians/rootless/com.kernelrw.unc0verswitches_1.0_iphoneos-arm64.deb
-Size: 93604
-MD5sum: a2c542f3131989520e638201938c81ff
-SHA1: 67dd6ec91a0ed89f867902379947ea0bca2b6804
-SHA256: cb1fe15a434344da741235fa759deb645c0f81bc82ac0ddcb5c3586682323bef
-SHA512: 36d282be5573e2ab97220c30c9094c62f71b5b158c5cb9e9bd49cd71023372dca687c94ff11b2193b43401f0b8c4b16b3c1c2e2b41161d1f4d3b3a120a27def1
-Description: Unc0ver Switch for rootless  Jailbreaks  .
-Name: Unc0ver Switch
-Author: Kernelrw
-Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
 
 Package: com.kernelrw.underdock
 Architecture: iphoneos-arm64
