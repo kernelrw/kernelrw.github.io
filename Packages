@@ -52,6 +52,23 @@ Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 
+Package: com.kernelrw.depths
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Themes
+Maintainer: Polyphian
+Replaces: com.Polyphian.DepthsIconsLite
+Filename: ./debians/rootful/com.kernelrw.depths_1.3_iphoneos-arm.deb
+Size: 68594812
+MD5sum: bb57b9dccfb7c62373374737ef3c5dc2
+SHA1: 8e75239bb4d93ed2aacd7af8e39ea1eaaf4461ae
+SHA256: d0f5810971f6e98d09933bd176fe65fa7660032055633e59b7306e2184892f9f
+SHA512: e0b04aa8c818358c14c16a84a7efa41497c0ac59265ed846f4ed2c64e3e18e12a682cdb4f36202606677d5d0340f649a5cf328f9f53f36d69548a6ceb9d37eb1
+Description: Highly customizable 3D-like theme.
+Name: Depths
+Author: Polyphian <m.brian.burns@gmail.com>
+Icon: https://twickd.com/images/987fbe3a516491ade6c172639e9a3b2c.jpeg?size=medium
+
 Package: com.kernelrw.padswitcher
 Architecture: iphoneos-arm
 Version: 1.1.0
