@@ -878,6 +878,23 @@ Author: Tr1Fecta & Kennyroo
 Name: Akara
 Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
 
+Package: com.kernelrw.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Fouad Raheb
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/com.kernelrw.appdata_1.4.2_iphoneos-arm64.deb
+Size: 823496
+MD5sum: 19f5d816530f1f98aadef2d667c10b47
+SHA1: 038d9a4e389fe16782f07da174dca39d81e2bdcf
+SHA256: 01c92c22c6c3a5966352488663374d8b022db00dbcac7ba859c305090ffde008
+SHA512: 288d85b48638ce57518710a33ab3b5ca910c7952c36792ca3d76f9629e32a4578ac3fb001097610e719970ccec9154a81566cef775e75c6438cde4b8e298ed1d
+Description: View & Manage Applications Data from your Home Screen .
+Name: AppData
+Author: Fouad Raheb
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Ffouad-s.png&s=150x150&f=webp
+
 Package: com.kernelrw.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
