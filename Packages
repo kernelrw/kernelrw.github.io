@@ -794,6 +794,23 @@ Name: Lunar
 Icon: https://raw.githubusercontent.com/haxi0/haxAssets/main/LunarSileoIcon.png
 Author: haxi0
 
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui
+Filename: ./debians/rootless/com.fadh1l.uiswitches_1.0_iphoneos-arm64.deb
+Size: 919776
+MD5sum: 10fa5e98836a555f72a506ab75e9d4f4
+SHA1: 5797b7294ec4635b5a98ed7add95f12d205c1cad
+SHA256: ff869bef701756be7c5afb9ceb28d876c0d6ce5f82c56deee0733036b7920c75
+SHA512: e2f767e98853c9161652e2da2c43802fd27f1c609f8ca180282bede4eebe3bcb9285a9bf14322f5210d1f98d0a13b1423693315e8e79876a98cdf646b14ea8ed
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.autoscroll/screenshots/UI%20Switches.png?raw=true
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64
 Version: 1.2.1
