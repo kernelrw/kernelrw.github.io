@@ -1099,6 +1099,24 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
+Package: com.kernelrw.checkra1nswitches
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Cachexiaa
+Depends: com.spark.snowboard.ui
+Filename: ./debians/rootless/com.kernelrw.checkra1nswitches_1.0_iphoneos-arm64.deb
+Size: 16604
+MD5sum: acf75fde9d6e1421fc3406233f7b0fea
+SHA1: 72fad3164bab7767678df906579156d3de5cdba5
+SHA256: 33d17f5c4f353cb93ba4fcf64875d5132d42c235e4436d02aa3633cff8878e4f
+SHA512: b8e7a116a68061b197ab986e8b27c8bf9249a66e0d8b02d06ba1bcb2225bf79839cab11273066b01eb45a3991d043a3e4ff24b762e788bcb18fb78b90bbf5779
+Description: Checkra1n UI Switches For All Jailbreaks Including Dopamine 2 .
+Tag: paid
+Name: Checkra1n Switches
+Author: Cachexiaa
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2F8ec19ac96a7222c0621842cac91deee2.jpeg&s=180x180&f=webp
+
 Package: com.kernelrw.choicy
 Architecture: iphoneos-arm64
 Version: 1.4.10-3
