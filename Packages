@@ -3281,20 +3281,3 @@ Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 
-Package: xyz.hhls.zomigle
-Architecture: iphoneos-arm64
-Version: 0.1.0-beta1
-Section: Tweaks
-Maintainer: HAHALOSAH
-Depends: firmware (>= 14.0)
-Filename: ./debians/rootless/xyz.hhls.zomigle_0.1.0-beta1_iphoneos-arm64.deb
-Size: 16932
-MD5sum: 5c28b4e038becad6f970d2741832b496
-SHA1: 2f1fe90e529ed88857b2c2876f07c923874df7fd
-SHA256: b662f37e4c095f745cd5eee704bfd1969f67c9859f4a330f05754ec2c69cb6c1
-SHA512: 5829cbe2beda137a0060243c87d10d56912bcf273ac5304cf3c0120322dee509440d89805018fe3807be2a36ed07c4a73dc37a2fe2016b2ac56cc45356e1af97
-Description: Removes the 3 app limit for free developer accounts
-Name: Zomigle
-Author: HAHALOSAH
-Icon: https://media.idownloadblog.com/wp-content/uploads/2024/03/Zomigle-Banner.jpg
-
