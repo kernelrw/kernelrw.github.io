@@ -2767,6 +2767,26 @@ Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
+Package: com.p2kdev.alarmtime
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 212
+Depends: firmware (>= 14.0),mobilesubstrate
+Filename: ./debians/rootless/com.p2kdev.alarmtime_1.1_iphoneos-arm64.deb
+Size: 16548
+MD5sum: bfdd2fece17be2051f4f1965ea4fcb3f
+SHA1: 5916425bded2745e87f1c91bc7ebab6571140c33
+SHA256: 6fa7126901ad336b8f13b6a514d2ebbda8b1bdf584ea6fe3833486eb69b1efec
+SHA512: e9b16fbdb92884d54b2e40b484f3e577bf573ea7bd8aa88f0ed4eb4cb5214b2a4456656206b77c0ce5e27e239be1ec627cd10f86a927eed2fd9594e24cd97979
+Description: Show Time until alarm in the clock App!
+Name: AlarmTime
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+
 Package: con.kernelrw.battivator
 Architecture: iphoneos-arm64
 Version: 1.3.11
