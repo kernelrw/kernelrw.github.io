@@ -1,3 +1,163 @@
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: woodfairy & Litten <hiya@litten.love>
+Installed-Size: 1436
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten
+Filename: ./debians/rootful/0xcc.woodfairy.koi_1.0_iphoneos-arm.deb
+Size: 1216964
+MD5sum: ba4e34f5a5e448cd53260b91a63b362f
+SHA1: 25eb3bbc33eeec11a2eb5770674df37d64431fe7
+SHA256: cce9545f32c233a20f67fbc882c63579b2c866708dfda7535c527f63fe806803
+SHA512: 99e658ef593969eedf472a00f09504bfc11dc148a5e93254a8835eac3cc0df339ce8bfad736db523c86bf2c7520fdeb7e8e9b6cb504dcc1203898cd8357af57f
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: woodfairy & Litten <hiya@litten.love>
+Installed-Size: 1480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten
+Filename: ./debians/rootful/0xcc.woodfairy.koi_1.1.1_iphoneos-arm.deb
+Size: 1220228
+MD5sum: dfeef3feba66f954b124631e958a48f9
+SHA1: 0a85d57dc79b439625600420b92a8bc393307741
+SHA256: 10bb08b7421b4a1f5e4f528f986f3dd01add14e03da4a7a50a14cd31cc2f3b50
+SHA512: 0b49d3bd3b073e477c0504cd72db4a63becc7ac0a482260b089db95599015f619ddcb4d76c4ec02035a7264ccdd636b8e01a04450a33b2941f40b0322508c8e5
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: woodfairy & alexandra <hiya@litten.love>
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debians/rootful/0xcc.woodfairy.koi_1.1.2_iphoneos-arm.deb
+Size: 1364360
+MD5sum: 0881a7e56cc3269f90a7fe51be86b598
+SHA1: 0fc3a4826163cc1ca6d1138a67e5747bd8d30f2d
+SHA256: e675b8b962fff65cb18801457e92ce72fd821af6bba73b0599b25747cf3380d4
+SHA512: 295abd71d1591d85f96228d1fcb82721ed95483fe0f6210346fb3a1d72a586f5f97bb1ddc7b4ef462a49a54b2db1869bca5a02475b412df049abc0ba37a2a912
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: woodfairy & Litten
+Installed-Size: 684
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debians/rootful/0xcc.woodfairy.koi_1.1.3_iphoneos-arm.deb
+Size: 297950
+MD5sum: 7be95efc4081334ccc946c1817803d39
+SHA1: 7f8894ec9b4230967648b6744205ccf3c36d808c
+SHA256: c082d2fceffae2c0eb7d2091e5c74cfd44be12b34c33960ba7b6b3cbb324f292
+SHA512: afcbc9845ea6bccdc77b31698fbf5ec5bd4c08ab09f5bf086452d1280f42809f9a6a5400db3ff626be03410ec0735407b279925113dab9378ddc7ffeed3995c6
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: Tweaks
+Maintainer: woodfairy & Litten
+Installed-Size: 684
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debians/rootful/0xcc.woodfairy.koi_1.1.4_iphoneos-arm.deb
+Size: 338638
+MD5sum: cbae56bfc64bea7e72c9ac2a30f15de5
+SHA1: 106d86487d552f83669cc436aa99413f25d7b013
+SHA256: 05309faeddbdd96bc3154eca01bd284725745f8f8e591725cd98509941f2d865
+SHA512: 7b08937a4ade3e0b5c1b0213f0996534c3705f15d41480b6ad838a3fadbfaf34095e37ad85c94fcf443195ee703b2abaca73eb05198128c5fb071b2c730dedbb
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.1.5
+Section: Tweaks
+Maintainer: woodfairy & Litten
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debians/rootful/0xcc.woodfairy.koi_1.1.5_iphoneos-arm.deb
+Size: 337808
+MD5sum: 64b5ac9f9e399125cc635972e8699ec8
+SHA1: 385a0ff263f9113f4cc5587574b0d918f0390b91
+SHA256: 983d5caa332ed297b51ae40a83bf9424830faf2f5022a804ccadd1f7ffdad403
+SHA512: 7f8eb7ab89a4c1abd9a1d62b5a3e0809d3c37fea46b647f3e9b66252ef5f7382d62451fd904e19f6f539509e0d9970ea18c5acc136a3e2a205397bd56d87fc40
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: Tweaks
+Maintainer: woodfairy & Litten
+Installed-Size: 1456
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debians/rootful/0xcc.woodfairy.koi_1.1.7_iphoneos-arm.deb
+Size: 1045420
+MD5sum: 83f496bce14e685cb59e978b06554405
+SHA1: 81417178b949adfe9b7003bade1ae5f038c5d182
+SHA256: 47f4b61c59a7a2412d99910ad34f0db7a7b9add1a56c92529283f2539ca758fa
+SHA512: 1dd24cac91d740c3479832c7c5e214816dabf7e8a80d13f14b8e64dbd69c309ab125a35c145643f9e7ce0fb52ba8f5c07a0fa8b7182fe8f4c59ca1b57e3c0837
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/Koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/Koi/index.json
+Icon: https://repo.litten.love/depictions/Koi/assets/icon.png
+
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: woodfairy & Litten <hiya@litten.love>
+Installed-Size: 1480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten
+Filename: ./debians/rootful/0xcc.woodfairy.koi_1.1_iphoneos-arm.deb
+Size: 1220288
+MD5sum: bc576a64976cd03618e4c02e5928f2e7
+SHA1: 509f4ab3648360d6595b7a80825d9d9f4253c309
+SHA256: cddab8f2154499116eef51104cc1112f241b1b66dd713f7a86e7e53f2339712d
+SHA512: 9005aa729187cde136bae476d825491364df28822b44aa5fbe3fd426f78084ba51d7c7fccf54487bd31d9a93db2e123f2582ee284124247f13ca96a91d4f1f9b
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
