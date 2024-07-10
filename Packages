@@ -280,6 +280,24 @@ Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
+Package: com.kernelrw.watched
+Architecture: iphoneos-arm
+Version: 1.1-8+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/rootful/com.kernelrw.watched_1.1-8+debug_iphoneos-arm.deb
+Size: 5780
+MD5sum: 0c06885cf5178d9399e2c9384160c0eb
+SHA1: 7e01513846aa17daf126ff4ca919f94802b9abb9
+SHA256: 99967a0c0471086bb3051d64de0e9be128e43dcb589a01276d708ec0b70e69a7
+SHA512: 3203b2b33bf787f7548c60bf3b3c8d57defffb578dc729e4c07d4a412db27d83570741b1cc7f2a2e2fcd364e2a4b5eead71837be85960970cf76a33dcba8c123
+Description: Pair your Apple Watch on new watchOS with older iOS ; supports iOS12+
+Name: watched
+Author: 34306
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
+
 Package: com.kernelrw.watusitools
 Architecture: iphoneos-arm
 Version: 2.4.25
@@ -756,6 +774,24 @@ Name: VisibleIsland
 Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 Author: ethxnn88 <ethxnn88@gmail.com>
+
+Package: com.kernelrw.watched
+Architecture: iphoneos-arm64e
+Version: 1.1-10+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/roothide/com.kernelrw.watched_1.1-10+debug_iphoneos-arm64e.deb
+Size: 5800
+MD5sum: 4a67bcc3b26e0ee0221455f2ce8e1ca3
+SHA1: 89afea49742239ba7783a82d71428c81114b3e08
+SHA256: da8791823ba672e54ccc361f1ffdcad687026d597cd6bae1dc888418889169e3
+SHA512: 0cccc53fd8ae80cd6edc6abfc65ef6afd857036918d5788b96b7e5106ad651f65e0f3109eeae2406a41c9d2e53e7dc4e2614ac36fcf6a466578391e112156f9e
+Description: Pair your Apple Watch on new watchOS with older iOS , supports iOS12+
+Name: watched
+Author: 34306
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
 
 Package: me.kernelrw.dleasy
 Architecture: iphoneos-arm64e
@@ -2482,6 +2518,24 @@ SHA512: 2cec0eaeb022038c5acbf0bc965861f9b716014c1f972327a97dde24514fcf2aa6689aab
 Description: VisionOS theme
 Name: VisionOS
 Author: Billie
+
+Package: com.kernelrw.watched
+Architecture: iphoneos-arm64
+Version: 1.1-9+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/rootless/com.kernelrw.watched_1.1-9+debug_iphoneos-arm64.deb
+Size: 5840
+MD5sum: aa039dfde9d0d1f2dbd353019c3b5d9d
+SHA1: 37286c66eeccfb15b62821c9daae42d4e9138ce5
+SHA256: 57ae06010de123423d2f7dbbc9ad8c496667aa1e920a39be9597cd100d51597c
+SHA512: 8991980b8d78b9cde21993682beb5d99ed84c1bb76ac3091a8bca775c6d94116fc4d70cf190feafcc57e86f7df4ee67d4614c5e159bc53d4a8cd9545deb3f152
+Description: Pair your Apple Watch on new watchOS with older iOS , supports iOS12+
+Name: watched
+Author: 34306
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
 
 Package: com.kernelrw.watusi3
 Architecture: iphoneos-arm64
