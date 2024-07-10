@@ -1347,6 +1347,25 @@ Author: zqbb
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
 
+Package: com.kernelrw.disupdateapp
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 740
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debians/rootless/com.kernelrw.disupdateapp_1.0-2_iphoneos-arm64.deb
+Size: 125508
+MD5sum: 195469960abd5c00894f98514c460fe3
+SHA1: 2ea5c9f31eaec14cba23205de55f714a40d38821
+SHA256: 28d55f59c97a02c55de752ead32e8c432e512058d0a4257c99b4a608ca230d85
+SHA512: 5c508fad08f9fd21f5f855ce33317f432e591341091a4a886f5d8642b89d44f96233d65dec4ba9b15e779987627579eae110f810449f05124b370a41b9e95a90
+Description: (Block App Store Updates)!
+Name: BlockAppUpdate
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
+
 Package: com.kernelrw.doubleclickwake
 Architecture: iphoneos-arm64
 Version: 1.1-2
