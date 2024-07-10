@@ -15,6 +15,25 @@ Description: Pin screenshots on the screen.
 Name: Snapper 3
 Author: Jonathan Winger-lang
 
+Package: com.julioverne.autolockx
+Architecture: iphoneos-arm
+Version: 0.0~beta2a
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/com.julioverne.autolockx_0.0~beta2a_iphoneos-arm.deb
+Size: 45144
+MD5sum: 36ca978f00c36b4881c5683f2dc79755
+SHA1: ad64dd1d1ed634c98e680296b6854a3da07b360f
+SHA256: 23d7f5fc48c92f701d9bcc3ac7a254053b3ad81da75605999c8979b96eb3dd08
+SHA512: d0eea6eb4d6011b12d094c857e3873bf62456a9544dd9a56af07f325687ade48d9e1d8c6fe817c1c48c8a98a1d7dd7eb603083c6b0d5e9b8366d25b25ccff301
+Homepage: https://twitter.com/ijulioverne
+Description: Force Auto Lock Device
+Name: AutoLockX
+Author: julioverne
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
+
 Package: com.kernelrw.bazzi2
 Architecture: iphoneos-arm
 Version: 2.0.8
@@ -863,6 +882,25 @@ SHA512: 9833e308b671333d053d8d02a1789538a8f1515188bfaacc713535401f3181951cba4a3b
 Description: Pin screenshots on the screen.
 Name: Snapper 3
 Author: Jonathan Winger-lang
+
+Package: com.julioverne.autolockx
+Architecture: iphoneos-arm64
+Version: 0.0~beta2a
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.julioverne.autolockx_0.0~beta2a_iphoneos-arm64.deb
+Size: 39508
+MD5sum: f9909bbbbc794d72ed78c1e3d4be24ca
+SHA1: 60ce5c6cbbf4240845991d336e1b3aec2defdfa3
+SHA256: 4d620a69d3bdd266b3b7e09da2dcef567eda2bf50a60acdb0643a2f9e9d3d2ef
+SHA512: 91b587105439bbd00b4fe75d3e70fc0cac5aa8408e4edcb25aeec8432a9d673294aada9809ceb0c2f6abae437cc30e0e7fa7212a64942eae28d65abc423322e8
+Homepage: https://twitter.com/ijulioverne
+Description: Force Auto Lock Device
+Name: AutoLockX
+Author: julioverne
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
 
 Package: com.kernelrw.a-font
 Architecture: iphoneos-arm64
