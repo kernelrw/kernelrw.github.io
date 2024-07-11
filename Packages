@@ -1594,6 +1594,24 @@ Name: DumpDecrypter
 Author: Netskao
 Icon: https://repo.cypwn.xyz/packages/DumpDecrypter-Rootless/icon.png
 
+Package: com.kernelrw.eeveespotify
+Architecture: iphoneos-arm64
+Version: 4.4
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 1520
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.kernelrw.swiftprotobuf
+Filename: ./debians/rootless/com.kernelrw.eeveespotify_4.4_iphoneos-arm64.deb
+Size: 317904
+MD5sum: a5863ff7c5b3238475e669ce9b3e9542
+SHA1: 7c806cc4ab427b2dbdc4b9710da399e6067f9e1f
+SHA256: 951d25b23dd27789520be3d32954bee6510894c20d991e239291ce4a6f480218
+SHA512: aee5df1df1659b7d36bd01cc0b5bc2ed1da57f05b1b16b5375668dbb0011332bda36b3969ad01c2bb972b4153e4e99dd379151d13c5efc3f191edc0e48256acf
+Description: A tweak to get Spotify Premium for free !
+Icon: https://repo.cypwn.xyz/packages/EeveeSpotify-Rootless/icon.png
+Name: EeveeSpotify
+Author: Eevee
+
 Package: com.kernelrw.facebooknoads
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -2509,6 +2527,22 @@ SHA512: e59e50739236090d3aa306905a02a9dc258595833180043170a2b248889086f8878685a2
 Description: Remove ALL chat block restrictions (including 18+) & enables stealth mode for stories.
 Name: Swiftgram++
 Author: Randy420
+
+Package: com.kernelrw.swiftprotobuf
+Architecture: iphoneos-arm64
+Version: 1.26.0
+Section: System
+Maintainer: Kernelrw
+Filename: ./debians/rootless/com.kernelrw.swiftprotobuf_1.26.0_iphoneos-arm64.deb
+Size: 1272348
+MD5sum: 102f493c68864418b917fce5cbab24e9
+SHA1: 113ae421c5fd41e3c3a488a5ec00570163c6d418
+SHA256: 72bf071745ac94508ba6bbe6050d81373f43a621973ebacc49c91e3d837ea723
+SHA512: 3402acb634ce0fd2c2bf26e8f56d59be3e3151e8b0c258aa1260a314533e66a9c8660327263323b13c339104a480444a1772c8aa145d06becd78ea188143aedd
+Description: Plugin and runtime library for using protobuf with Swift
+Icon: https://repo.cypwn.xyz/packages/SwiftProtobuf-Rootless/icon.png
+Name: SwiftProtobuf
+Author: eevee
 
 Package: com.kernelrw.systeminfo
 Architecture: iphoneos-arm64
