@@ -1447,6 +1447,23 @@ Name: Cylinder Remade
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
 Author: Ryan Nair
 
+Package: com.kernelrw.debra
+Architecture: iphoneos-arm64
+Version: 2.9.6
+Section: Utilities
+Maintainer: Kernelrw
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debians/rootless/com.kernelrw.debra_2.9.6_iphoneos-arm64.deb
+Size: 23912
+MD5sum: f8df810caca8097885d013bd463cfbec
+SHA1: cfa92dc54eff7d048f064d76c411d189f73e3f65
+SHA256: 60dc8c982955bbb9e15bc2ba9a406558318bd22302f883a5e24e0cb84696f32b
+SHA512: 1287076cf6d5b0fde3b46b3c1f9390195eda6b45141ffb61f7ac77dacae2456cee420d120e989bfb8ea826ea234d3c7d5257664554dd4ebd39bc495ecbdc676c
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Icon: https://repo.cypwn.xyz/packages/Debra-Rootless/icon.png
+Name: Debra
+Author: Sudo, Paisseon & Korboy
+
 Package: com.kernelrw.depths
 Architecture: iphoneos-arm64
 Version: 1.3
