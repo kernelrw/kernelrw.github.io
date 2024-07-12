@@ -1009,6 +1009,44 @@ Name: Lunar
 Icon: https://raw.githubusercontent.com/haxi0/haxAssets/main/LunarSileoIcon.png
 Author: haxi0
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.4.25
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/rootless/com.f0u4d.watusitools_2.4.25_iphoneos-arm64.deb
+Size: 4508876
+MD5sum: 3a702e5794da3eea4bdc9a647c6712df
+SHA1: 78abbc6b15e0e55eb8e8c09879ef35463373647c
+SHA256: 64281004c62796fe1c42624736ce3ea7251e182abb3ecfd590176160aaad8684
+SHA512: 28e7cd847ea0e39b1f3fe09236f838edfa8bc4aff83e1c1ddd215795f8c50106a4b89bea19cea7ad8d1d8b09b4bb8af06129d558bbe61f37d0cbd45e399eb644
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.33
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6644
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.23)
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/rootless/com.fouadraheb.watusi3_1.2.33_iphoneos-arm64.deb
+Size: 1979964
+MD5sum: ae5a2301f69ef057c2663408f15609e2
+SHA1: 7ce926c1f594e2eb69e8956f9d3c83de8f4c6c8d
+SHA256: ea61b095f551bf769cba679cffc76db283bf71a2768a6dced925e96c60138dbb
+SHA512: 13c1ef21b8a324fc37205418bcfcacfba0fbb3efe5661fdbd545f3c93a0f89606d9e01ba32a43e1e6c50a395cb22d6763f40d8cbd9af33afa1e99dd2b0e149a1
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -2807,64 +2845,6 @@ Description: Pair your Apple Watch on new watchOS with older iOS , supports iOS1
 Name: watched
 Author: 34306
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
-
-Package: com.kernelrw.watusi3
-Architecture: iphoneos-arm64
-Version: 1.2.32
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6644
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.kernelrw.watusitools (>= 2.4.23)
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debians/rootless/com.kernelrw.watusi3_1.2.32_iphoneos-arm64.deb
-Size: 1980152
-MD5sum: c2bf7832d3d8cebf4ca646ebfad91d74
-SHA1: 410bedb4fc09b3b28b9a725264798885d3749a26
-SHA256: 7796def90c648439e6fc6475a494f791722d73348606b96914f9998b47fe0f60
-SHA512: f56049e566de8a3339d65b2264b2a6ed6f04099366259dccdaa690318da352235de5c54fe89dd2797f866c61dffe697288d17a7abc3f153f03513dab9420c341
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.kernelrw.watusi3
-Architecture: iphoneos-arm64
-Version: 1.2.33
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6644
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.kernelrw.watusitools (>= 2.4.23)
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debians/rootless/com.kernelrw.watusi3_1.2.33_iphoneos-arm64.deb
-Size: 1979928
-MD5sum: c1c7d13cfc3baf0512a53b42b0f3d674
-SHA1: ffe8c444a85b12a899b064bfde5355845bb191f1
-SHA256: b6c6ad36fb9208ebb91503153d44fcedfaa18b0bcffa07aeefeba392044c9fed
-SHA512: be789f4dc5ce0220d17b65e5c2d286ec12b021b8cebcf06ae929e43f6f99be8b4d233cf305580ae3c41f25ba509167c4c581a80f2c509eb42d265f085887c232
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.kernelrw.watusitools
-Architecture: iphoneos-arm64
-Version: 2.4.25
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debians/rootless/com.kernelrw.watusitools_2.4.25_iphoneos-arm64.deb
-Size: 4508672
-MD5sum: 8b06c6bc46dd1f6234b1fae2a0c27f25
-SHA1: b124624e161e7dfd9b3437817b2e38451fbc9e40
-SHA256: 24bad959050d8cbe1adca3b6e9b4c27cbfb9f807ea4927256ef7ccffefea6631
-SHA512: 3f132dbedaa71b8bf4617abc6b50cf51fe7c11f6be446e159ba320c146929def567b2eb5120461a0ab8d8263828db151e8da8e8a22ae64be2155864d66c239f5
-Description: Library for Watusi and WhatsApp tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
 Package: com.kernelrw.yellowpages2
 Architecture: iphoneos-arm64
