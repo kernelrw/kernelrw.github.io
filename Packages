@@ -1036,11 +1036,11 @@ Installed-Size: 6644
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.23)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
 Filename: ./debians/rootless/com.fouadraheb.watusi3_1.2.33_iphoneos-arm64.deb
-Size: 1979964
-MD5sum: ae5a2301f69ef057c2663408f15609e2
-SHA1: 7ce926c1f594e2eb69e8956f9d3c83de8f4c6c8d
-SHA256: ea61b095f551bf769cba679cffc76db283bf71a2768a6dced925e96c60138dbb
-SHA512: 13c1ef21b8a324fc37205418bcfcacfba0fbb3efe5661fdbd545f3c93a0f89606d9e01ba32a43e1e6c50a395cb22d6763f40d8cbd9af33afa1e99dd2b0e149a1
+Size: 1985180
+MD5sum: ae34a2be8352405120b016dbb6eff083
+SHA1: 287a1549e2b888442145a3a5451340985891df26
+SHA256: 790c54eeca2560b78f91b1249595d13ca2be833fcdee8976f9a7c94715727082
+SHA512: 7afa32111d1d6dc1018ae338aab4df946a5b2931ead763f60e59c8d481d3c5c99cfe4d2411d8ccfca76b4d4ba995953829d6e80f3d5b029e9aec3653c4ef7a4a
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
