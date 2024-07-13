@@ -1539,6 +1539,23 @@ Name: Depths
 Author: Polyphian <m.brian.burns@gmail.com>
 Icon: https://twickd.com/images/987fbe3a516491ade6c172639e9a3b2c.jpeg?size=medium
 
+Package: com.kernelrw.designer
+Architecture: iphoneos-arm64
+Version: 1.4.9
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/com.kernelrw.designer_1.4.9_iphoneos-arm64.deb
+Size: 8283176
+MD5sum: 271c10a48f52bad5188e39da2810ac4a
+SHA1: 1e4c2b7504ee33de646b384b37f2452ff346dede
+SHA256: aaeeb39f795617d89ff390ebc188e9e4b5650560741c97b26e7a18bea25c0156
+SHA512: 70854aee9e9847d3a55a6ae168727dcd8e032c0114aabe5b4c77df53648c83739dfa3e314106eb60be62cad168bd66ce64a9516792e67866d973ec905f1ab8d0
+Description: Design layouts for lockscreen and homescreen ; supports iOS15+
+Icon: https://repo.cypwn.xyz/packages/Designer-Rootless/icon.png
+Name: Designer
+Author: JunesiPhone
+
 Package: com.kernelrw.digitalbattery13
 Architecture: iphoneos-arm64
 Version: 1.1.0
