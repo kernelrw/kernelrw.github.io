@@ -807,14 +807,15 @@ Section: Tweaks
 Maintainer: Pxcex
 Depends: mobilesubstrate
 Filename: ./debians/roothide/com.kernelrw.autoscroll_1.1_iphoneos-arm64e.deb
-Size: 5958
-MD5sum: bc4172e17b2e859756a1208b322d1c03
-SHA1: d4d48382ec2a9990aaf7f5e11f1227a7abbf1de2
-SHA256: b289b6e13436402e20733e2cb347ed6d4966090717e66c49698f248c6ca9a16e
-SHA512: d7c898c56a0097d181c166ad746a8b5ffdba7c869140c77b7fe79658c7d3bba35d99f6eb332fa2e0a0021818a8d734b6cd25e8427ab23cf906bddae60bd59537
+Size: 4244
+MD5sum: d6fc5e62d52239f7073997e7b6732231
+SHA1: 01c70abb7854a92dba589a13abfb5d9b2c5643cf
+SHA256: 8e15af0dd554a1bd9f799df9af0a5ee23582fa756d245f9f80a637fb435c814f
+SHA512: 7223b22282f79552f89c89d59fe34d432898ad036fa79a2407f7b9c9a848973428e1dd920f29a435ee3cf708f698ddfb27cbd014531b7e9f91c8393bddfcf54d
 Description: Prevent finger fatigue. It will automatically continue when you slide an option or view, no need to keep touching with your finger, and the speed is determined by your strength !
-Name: AutoScroll ~ Roothide
+Name: AutoScroll
 Author: pxcex
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.braveheart.skrollerz.png&s=180x180&f=webp
 
 Package: com.kernelrw.axon
 Architecture: iphoneos-arm64e
@@ -860,13 +861,13 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debians/roothide/com.kernelrw.deleteforeverxs_1.1_iphoneos-arm64e.deb
-Size: 20732
-MD5sum: fdd9be254fdafa4057b2328991893f52
-SHA1: 27d28de70095e1ee48a0846f7a5ca20f60b29299
-SHA256: a4056683cf0ab5e2b636622646b76ec415c531476ca5d610e9e5edfe3d25f9f3
-SHA512: 2cc45cd983ff28f1b96aa17864db03339c0eb07f391c3b81f4319ef45a5dc7eb28d0c7e74e00e2c7e1a64d9929fd932ae5cf076d8e9d5f7a0793eece95638d82
+Size: 7836
+MD5sum: 6774def451d3f033005812a2e8c7fa6c
+SHA1: 8ec33113b65771777d7e8c1cc49491793d35b2b9
+SHA256: 4484c7f9150149c93dc53b1a71ffa7da873aa72deb3e59dc382dced9b585d63e
+SHA512: f7e3ccb7837f289500a3bd178bf36841589295f0efb74416f0cf23c901ef25897fc00b612ceb27d5686c330b8c5baa98e3e3dea6966d7611bd2018348b46feea
 Description: Delete Media with moving to Recently Deleted!
-Name: DeleteForeverXS ~ Roothide
+Name: DeleteForeverXS
 Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.deleteforeverxs
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.deleteforeverxs/icon.png
@@ -934,15 +935,15 @@ Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: ./debians/roothide/com.kernelrw.messengernoads_0.0.2_iphoneos-arm64e.deb
-Size: 5738
-MD5sum: 01a7a78e0a87c2a9546a6da593284eae
-SHA1: 6eaaf943b6bec7463abb0215ef4d5980164f36a2
-SHA256: fceab77ad2fb148e78a05f5ee58dd7a2599651b017cbaec7b25c7635a3e9947e
-SHA512: 874f57689b534b35493e04f5b43bf4210d5afc2a8aa69ae73053a1d2fce8e7ac417ef6719bf9006ce116f201cacdc1713a90a615d87300aabaea102f1f9c7afd
+Size: 3824
+MD5sum: a43470d926119b1624cd59f64e73bfae
+SHA1: 7948c5a043d464e487ce6dfa272b0628cca2178c
+SHA256: 6d0fd4df6f32ae0d63f9753d395f430f8d279771211ff4580e46c3e74d35aa1e
+SHA512: 14d5a7b2deccc3b716b3ee3bfa0cd9bd4ffa383be483012af85a22f23890d500f2e92dfa51c7972fdd3a087de0bdccf3f39df05e3206b0fab51d0316e0d3af81
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=messengernoadsDp
 Description: Hide Ads on Messenger app
-Tag: purpose::extension, compatible::ios13
-Name: Messenger No Ads ~ Roothide
+Tag: purpose::extension, compatible::ios13, price::paid
+Name: Messenger No Ads
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=messengernoadsDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Hao Nguyen <hao.ict56@gmail.com>
@@ -958,13 +959,13 @@ Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
 Filename: ./debians/roothide/com.kernelrw.regram_1.0-beta10_iphoneos-arm64e.deb
-Size: 11608892
-MD5sum: 5ed5f9f3557d24365338b6e0571dd202
-SHA1: a2d1114017c1bc03767a2d361194a0ac611b6938
-SHA256: ac576e666a3ee2921b3d902342fff7aed41f40191d640719124993b0cf2fa766
-SHA512: 715f9ab88303d54b0b9eae763dce82afde2cedd608b2ffc016371e681a9361d017f14f9e8e67ca56ea9e55725966ee06fd34dfa2451703b8c4ec75d3fc3180ba
+Size: 11610136
+MD5sum: a6abfe3b2cc2274781da2310e2928853
+SHA1: 75e2421dc63b848062cff5cfb2c313923b19f84a
+SHA256: e4769a420c12f2a6442852b97347444d3e86f61af6950adb59b1101cc6bd1ff5
+SHA512: a1d89e4c88a18f74c502719904c54600ceb3ae93fb064032f80d1b7956d112af88922bf672b06dc2d90c74c28691834219513cddc86351d7570820158a042d93
 Description: The all-in-one tweak for Insatgram
-Name: Regram for Instagram ~ Roothide
+Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
@@ -1098,6 +1099,43 @@ Name: Cask 3
 Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
 Depiction: https://chariz.com/get/cask-3
 
+Package: com.spark.laetus
+Architecture: iphoneos-arm64e
+Version: 3.5.1-rootless
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 1828
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debians/roothide/com.spark.laetus_3.5.1-rootless_iphoneos-arm64e.deb
+Size: 924914
+MD5sum: bb4a52d2da9895867f6dab8d5b9b2efb
+SHA1: fd362e1bbdab675d2efefaf195a5eda37dcd719b
+SHA256: 9b09a511213f6f2846fdf88216273c2e5385c1a43532b5575ce3e02ac858472c
+SHA512: 856093adf7746c35d1521632752c75f3fe04521fef68d9258562c9f07c05d920407d5450f8a491e2322484eb01321e4182ea548885caec8d170c01726ba6b9c3
+Description: Unparalleled Keyboard Customisation
+Name: Laetus
+Author: Spark
+
+Package: com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm64e
+Version: 1.0.3-rootless
+Section: System
+Maintainer: Spark
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends:
+Filename: ./debians/roothide/com.spark.libsparkcolourpicker_1.0.3-rootless_iphoneos-arm64e.deb
+Size: 97458
+MD5sum: 6310312e178ffd1d6dd737bd549693a9
+SHA1: b4dcdd7152bcd47251311c95d10422ebb298ac49
+SHA256: 6aef825652554756f82223ea27de24f64159497ae8438c65c69b73ed0651f22f
+SHA512: 7f5e1f7a30f6198c974e3785696e88230f0f85fc93798156183f832a1da66f09dfbce8d66fac884f31edab287c878c057161a44dd73854ba8dec046a5b41a9c8
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Tag: role::developer
+Name: libsparkcolourpicker
+Author: Spark
+
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64e
 Version: 4.0.1-4~roothide
@@ -1124,13 +1162,13 @@ Maintainer: AhmedBafkir <prooxy0@gmail.com>
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debians/roothide/me.kernelrw.dleasy_2.14.4_iphoneos-arm64e.deb
-Size: 10985440
-MD5sum: bb65bdd6be7b11bac038e101cbe37aad
-SHA1: 8218f3669afe3e5738598df5304ad1e050863885
-SHA256: 766b1e67f431aa67f621b307bf13135a66b200d5135ba873cd7eacd6367d4318
-SHA512: ce24646fd221aaad127949115753e7b3fcc45e16d7a549fb3fbc81099ad40c5cf992f22924467020cc10870a25a01c62ec4a24ab25313b8f18986ad2fd638cbc
+Size: 10980188
+MD5sum: a7e935cedb4f622ca487455465546630
+SHA1: fdcae2c71a551d33d78aba10624a1d3faea5cf3e
+SHA256: 09c10980732e95826c6dbb924701f4e9b8227019c46baa3a98cf165a17093c93
+SHA512: f76ae965e044bbde74afdf378f7a855f9702119292666304969fd56e35d4b92a51f1b81193b390e88839b77ead34d772d0ab621e14795b0a0b3f3dc2f7ecf602
 Description: Download/Share images & videos from social apps easily!
-Name: DLEasy ~ Roothide
+Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
