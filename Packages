@@ -1916,6 +1916,23 @@ Description: Puts haptics in places apple should have!
 Name: Haptic rootless (12.0 -17.5.1)
 Author: Brandon Plank
 
+Package: com.kernelrw.hidesim2
+Architecture: iphoneos-arm64
+Version: 0.1-1
+Section: Tweaks
+Maintainer: ash <krylov0@outlook.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.kernelrw.hidesim2_0.1-1_iphoneos-arm64.deb
+Size: 2916
+MD5sum: 0478e58938ed456c58deecbe1b90085c
+SHA1: e42b7c174fed53e7dff9fc77bd7f043c1fff3533
+SHA256: de70c2b7cc7f2f0d0f73f2172c1b31909c743f56f8fdaecb45a667f53e28d917
+SHA512: 88971fd70317ab11b85c5b6fca9034d908ff6157592bee7b4a9e7ead2e636fc0a9a742950318049346bb2aac9d7baaeaf451578f57fb2f1e7ec83fbf2a42128f
+Description: Hide the SIM 2
+Name: Hide SIM 2
+Author: ash <krylov0@outlook.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.coysim.png&s=180x180&f=webp
+
 Package: com.kernelrw.kayoko
 Architecture: iphoneos-arm64
 Version: 2.0.1-1
