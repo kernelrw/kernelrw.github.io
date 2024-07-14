@@ -917,13 +917,13 @@ Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, xyz.cypwn.kayoko, byg.iosios.net.kayoko, com.skypain.kayoko
 Filename: ./debians/roothide/com.kernelrw.kayoko_3.0_iphoneos-arm64e.deb
-Size: 403580
-MD5sum: 85171081f0115e0695bb114b3cd96575
-SHA1: 1cc4f9b541a853f7d0093dcc0c4c6a6622b5f34d
-SHA256: 4dea2dc7d6325f0755db1970de47976381502313bbc8f0ba28e9d7f69944e9d6
-SHA512: c50ae626feba9201538a2fc5eefbb7b8366dc77069b4ea9f8c1a260b415b0b0bea53cc2253189d499ad1d66e3fc3d60a7f0cf5ee6e75fd626be754b46496e9fa
+Size: 114012
+MD5sum: 13d051238e3396b461a030fe31c34c24
+SHA1: f874f5ff63719fc88c58666024803c709798daad
+SHA256: 946e6547f906d1f19a33480c930c5576a4dfc03e74deacf14802e7044f38652f
+SHA512: 2172b411d9138f3b54b8822e806c5ebeaeea5e256b00bb39d4f55cbd7c22ac159e148049b8107a687a473da13353dec64817213d243f1ae233e8f4bf2ec69a14
 Description: kayoko now on Dopamine 2 ; supports iOS15.0 through iOS16.7.7 !
-Name: Kayoko ~ Roothide
+Name: Kayoko
 Author: Traurige&Lessica
 Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
 
