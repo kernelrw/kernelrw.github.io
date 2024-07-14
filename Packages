@@ -765,6 +765,88 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: FiveIconDock
+Architecture: iphoneos-arm64e
+Version: 1
+Section: Tweaks
+Maintainer: unknown
+Depends: mobilesubstrate (>= 0.9.5000), oldabi
+Filename: ./debians/roothide/FiveIconDock_1_iphoneos-arm64e.deb
+Size: 3560
+MD5sum: bda89336dbbfa7aa5986d6d7ea72dcd0
+SHA1: 33e1f0ecf6a51e56f1c573a05f9e36412922da70
+SHA256: 3ff6daf28930eeb0957ef8ce86cd7e70ca8b2d57fd195cf80949b8ae4c715279
+SHA512: d633c11d4fa0dae092f36059bb0f40cc156580dfc8daad636717e7043d67328fa8a6fa3a5e19fc2c835e7167105381eb03d099a5c6f3874dde6f9679e7b24efc
+Description: Five Icon Dock
+Name: Five Icon Dock
+Author: unknown
+
+Package: apt.tinyapps.Renet
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Priority: optional
+Section: System
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 15.0)
+Filename: ./debians/roothide/apt.tinyapps.Renet-v1.2.1-arm64e.deb
+Size: 245344
+MD5sum: 893816434b977b856f806b0825580ca9
+SHA1: 31c3728e152dc2e8964f416015cbd03b6f049343
+SHA256: 88a5e2e2f45fbff384a826ab91da3f8478f4bd960afaff644095b7a1cd731519
+SHA512: 577160b91e8b9c7b9075d574bdc57fca6e00ac09059fd08453d12c9fee90c4f195c3d64cb108e98a3699069b65f52286481c73ab6ee019171d3ccf4141a16b29
+Description: Fix Network Issue for CN Device
+Name: Renet - Network Fix
+Author: Tinyapps.cn
+
+Package: com.0xkuj.3dappversionspoofer
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 424
+Depends: com.opa334.altlist
+Filename: ./debians/roothide/com.0xkuj.3dappversionspoofer_1.3_iphoneos-arm64e.deb
+Size: 51736
+MD5sum: 577fce55475ef825a11f4fab83c17a7b
+SHA1: d2f5e153ddd18aa7a5c06da3a544b98d78f14140
+SHA256: 9e10961ac0dca691b1096fd040911892346466ed8fb0d367efe9c48bccae9200
+SHA512: b9c6ad937fc85d97e0b200c44653826f1a77f8594eed8fbf19809f655dc59093823f2b0af2b606220a475e799355f0743db066b9203a8dca9dd095c6800ba311
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Name: 3DAppVersionSpoofer
+Author: 0xkuj
+
+Package: com.34306.2nd
+Architecture: iphoneos-arm64e
+Version: 2.0-3+debug
+Section: Tweaks
+Maintainer: Little 34306
+Depends: oldabi, mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/roothide/com.34306.2nd_2.0-3+debug_iphoneos-arm64e.deb
+Size: 29532
+MD5sum: 734b59969c6fddcdae8352911893e306
+SHA1: 81776320d4f70a7b61cafd16543e87b3444a4454
+SHA256: e0b1d8db59c24d3fa17522e90b25b20a9bbaf3bf24782d63c3dbff2245f12536
+SHA512: 7445dfa856925f240ae5f34081f95e279e57c3ea6187a631eae7bb39f14522f83be0c56c7757e4cc00e646f5472a8bc9015110bcd11256ee69b5e32bf899fdd9
+Description: Add second line to your time on statusbar
+Name: 2nd
+Author: 34306
+
+Package: com.34306.swiped
+Architecture: iphoneos-arm64e
+Version: 1.0-6+debug
+Section: Tweaks
+Maintainer: Little 34306
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/roothide/com.34306.swiped_1.0-6+debug_iphoneos-arm64e.deb
+Size: 12056
+MD5sum: 230a8b90b7577ed7339d924a0d5d4496
+SHA1: 253993aee03704f6122997360c59450f70f2ae25
+SHA256: 25948793c6d02811606385a37843555c669097fa5f0e933510961a12bde382c3
+SHA512: 5e1a873784af11ef4ea35a0684a785f5e7c0c298ffc7beed499e19e531f9d5dafd9b2def137df4d898a3c3ed89ad3ce5d80d51f758d79e5425bec6b51c0980f0
+Description: Swiped!
+Name: Swiped
+Author: 34306
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -782,6 +864,42 @@ Description: An awesome MobileSubstrate tweak!
 Name: ShowMyTouches
 Author: dvntm
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.imkpatil.colormybattery
+Architecture: iphoneos-arm64e
+Version: 1.3.4
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader
+Filename: ./debians/roothide/com.imkpatil.colormybattery_1.3.4_iphoneos-arm64e.deb
+Size: 42360
+MD5sum: 115c4e7555e04f79cb1cd80da9351f4f
+SHA1: a64cce03e542df338628ed09f6f88a956397070e
+SHA256: b6a3c64ae7771d59d2473a4f25ca81b5ae30c597f2f3f2beec5f5b15b783d1cb
+SHA512: 5e605572d2ab63afe44594ad63410da6c81a344be4db702e28a6d679c1231466fa04e59fa2f014afdf907d210ef0d5ad1aacd6125caa4bce16b1e0f53a4836a0
+Description: Battery Color based on the battery percentage.
+Name: ColorMyBattery
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+
+Package: com.imkpatil.ezswipe
+Architecture: iphoneos-arm64e
+Version: 1.1.1-4+debug
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/com.imkpatil.ezswipe_1.1.1-4+debug_iphoneos-arm64e.deb
+Size: 26432
+MD5sum: 5203a408edb526fce8ae7f7a35b7c43a
+SHA1: bada5b90b17a3bae69da480a922b41b424fd1a30
+SHA256: bec6918f3792b097ba1ed0737a5a3da409091edbb83543defe881838ef2d8ca7
+SHA512: de4082db6d93576675a79629bc23d352df62ce1ea4515b13511708d550b7ddf2405e70ab2307f0779fdfa464324d84cd7bb7a5868b68b1e2cc089980ce294c41
+Description: Give your hand a rest by using gestures instead!
+Name: EZSwipe
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/EZSwipe/icon.png
 
 Package: com.kernelrw.appdata
 Architecture: iphoneos-arm64e
@@ -1060,6 +1178,22 @@ Name: watched
 Author: 34306
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
 
+Package: com.lclrc.recordanywhere
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Muirey03 & lclrc
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64e.deb
+Size: 4152
+MD5sum: 029095d760719b9c50db9db981d9f5f0
+SHA1: fe128b636279e5661f616eaa670673e639edf953
+SHA256: 88e4167ef2a0fcaba26013c5ba2602b95a38c097dc30c88e6d8ca21044afed07
+SHA512: 72943e410e4d38baf3231d5b3ecd9cfdf6abc6943a58edfa00372fd4f1d36dbe6009e8be9d6abe16926a582c7394641b7827b3125d4298bc6328c814a94983b4
+Description: enable screen recorder always work even on lock screen
+Name: RecordAnywhere
+Author: Muirey03 & lclrc
+
 Package: com.mtac.lynxtwo
 Architecture: iphoneos-arm64e
 Version: 2.5.2
@@ -1077,6 +1211,190 @@ SHA512: a13537b8ad312a3d16e8c98040d83134331e5e58b0a3fb113e34955d5ffde9cada61d8e7
 Description: Ultimate iDevice Customization for iOS 14, 15 & 16
 Name: Lynx 2
 Author: MTAC
+
+Package: com.mtac.uptime
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: MTAC
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/roothide/com.mtac.uptime_1.0.1_iphoneos-arm64e.deb
+Size: 25564
+MD5sum: 0f92e141a16951b0f40d1cf4ea357153
+SHA1: 7fda4ea790dacc1b4605cd6e09c7ed53f72df789
+SHA256: 2c003d8ff380642aaaa82b12a7674f89e780707cda893095278f9e7338ab04f5
+SHA512: 118c6bc0fba1ba5b0ae9ea4efef9131fa4b58c4f0a2e4854c8a8f4f5a7542b2e32746137fee1a472a9399244eab2011e5dce1b8a13ddbcfc6fb606bc71aeabcf
+Description: Control Center module to view time since boot
+Name: Uptime
+Author: MTAC
+
+Package: com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.0.10
+Section: System
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debians/roothide/com.opa334.altlist_1.0.10_iphoneos-arm64.deb
+Size: 27752
+MD5sum: d56fbc22b9ed3f663fef1e48293efc1b
+SHA1: 86a27b2fab4266e4394494310e33a1177c02bb47
+SHA256: 83cb344b44fccb9187fc4bf75fa023df83ba1c24a768f4baf84c1d09daa6c9fe
+SHA512: 23ea27dfbce991ccc780749457045e8ca2747e3cd0e9e2ece6afce844f9aef8acd5643f5e70381102125e9be9ce7b51c51ac4ea261269bb9baa1f74503786c83
+Description: A modern AppList alternative
+Tag: role::developer
+Name: AltList
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Author: opa334
+
+Package: com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.3.10-2-2+debug
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 720
+Provides: com.ioscreatix.silo
+Depends: mobilesubstrate, firmware (>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./debians/roothide/com.opa334.ccsupport_1.3.10-2-2+debug_iphoneos-arm64e.deb
+Size: 78130
+MD5sum: d117f9e600d0bf8e54591961e3800b86
+SHA1: ad5556a31a2b9c01264b5b70a2937f7118c6f469
+SHA256: 6763b47731fe68f5804c118d73f7ae84d1efbdab9784df2f748c7c1953772cd8
+SHA512: 38967017371c7ff47224dbd94645b0999b9a990b6ab845d68d9151c1f6289c9b84f11c070ba7296e4d3acdf555b0e91f433e8e59f19195664d8ba2c669fde9d3
+Description: Support tweak for CC modules!
+Name: CCSupport
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64e
+Version: 1.4.10-7-2
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 900
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debians/roothide/com.opa334.choicy_1.4.10-7-2_iphoneos-arm64e.deb
+Size: 114378
+MD5sum: 82d07862ca950f068ba2d3ded22c7066
+SHA1: e0665b2725c9ba4bfd60d76771d90f6931c667e8
+SHA256: 5b870e46ef4a1e68d2bd66cdbf018a9aaf6ccffb99433232b211aa7758ab57f6
+SHA512: 8192322456a5ab856b1fbc3a4275efcce576f7f30cbdef9b9408cd97a4e2f41ee72543aedc8d95e544ffe73874a9c0c44d0aa3939ef3d3888b40caed8b60fce0
+Description: Advanced Tweak Configuration!
+Name: Choicy
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 1.1.3-3-1+debug
+Section: System
+Maintainer: opa334
+Installed-Size: 416
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debians/roothide/com.opa334.libsandy_1.1.3-3-1+debug_iphoneos-arm64e.deb
+Size: 20950
+MD5sum: 08232087924064f25bb55cf652bb308e
+SHA1: 2ac0b33ba74db5ae9108b705c6329b66241179fb
+SHA256: 69f3dc5ab72ca278d24d65d54c73b583c03c81685dd6a651a94f0cacfed68b3f
+SHA512: 5b17d7abb6af72fc9d09ca84671043ecbdce1dd93bcf9ea3801b3f56e7bd515aec73948d217efd9d394cc589c3d935d1a8d96f493dbbbacbebb31d05cfe07012
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Name: libSandy
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Author: opa334
+
+Package: com.opa334.libundirect
+Architecture: iphoneos-arm64e
+Version: 1.1.5-2+debug
+Section: System
+Maintainer: opa334
+Installed-Size: 204
+Filename: ./debians/roothide/com.opa334.libundirect_1.1.5-2+debug_iphoneos-arm64e.deb
+Size: 11114
+MD5sum: feec7e2bf76c5cdf6c3d8d7a15885a18
+SHA1: b9b3a7e727a69cecb02c80f5b039a4f463eec7d5
+SHA256: dd1c16e6d946bf7bb0c4bef8ae2ec0962980992f0492f550a4bcf9be0344fffb
+SHA512: fea2117251bfa7f8133925b003fdbab9f4010db0d633774894727258f78d64e73a9321194ae49534cb960bc4691d39e9dfe8110168f6a1e331e1b27684b0dd94
+Description: Patchfinder and rebinder for objc_direct methods
+Tag: role::developer
+Name: libundirect
+Author: opa334
+
+Package: com.opa334.notrecording
+Architecture: iphoneos-arm64e
+Version: 1.1.1-2+debug
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/roothide/com.opa334.notrecording_1.1.1-2+debug_iphoneos-arm64e.deb
+Size: 20462
+MD5sum: 78a594c86101dfe9b889413ded8deb83
+SHA1: 8257d43bb2e955c94a87734713edecebe1de22b8
+SHA256: f9282ca9e40ffae437b64289cf2f327e55cfdb545feb85bbe8f67fa6ab78c000
+SHA512: e03e9a46a0d93a2577771164d3bdfa50ab30eb321bded16a5abb8ed14adaca5c379857048b6c034011d4c9734d296deb2f4d37dc97425501ecb4e9a32b124a2e
+Description: Spoof screen recording detection!
+Name: NotRecording
+Author: opa334
+
+Package: com.opa334.whitepointmodule
+Architecture: iphoneos-arm64e
+Version: 1.2.2-1+debug
+Section: Control Center (Modules)
+Maintainer: opa334
+Installed-Size: 248
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./debians/roothide/com.opa334.whitepointmodule_1.2.2-1+debug_iphoneos-arm64e.deb
+Size: 19730
+MD5sum: 535d5df022619e60550a2fa29c01648f
+SHA1: 5b06f7055a2b615a797ff5d4e2a34a1243d6b7e6
+SHA256: 92bd44b38f465546af482369ddfb07a763a91a60e360b630e88043c99b2a49c0
+SHA512: 03497ae40ca006d076b2c7f110ea6bd39984f69ea5f24af09cf6b04b76f65eccebe9c63ea17a5b366208e7dcf1d3f14540f2902f40afbd24df87eade6608e479
+Description: Reduce White Point from Control Center!
+Name: White Point Module
+Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
+SileoDepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
+Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Author: opa334
+
+Package: com.p2kdev.underdock
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.restiveconch.actionbar,com.udevs.dockx
+Filename: ./debians/roothide/com.p2kdev.underdock_1.0_iphoneos-arm64e.deb
+Size: 18484
+MD5sum: 6e39d43da601d790e198707736d7fe47
+SHA1: 11ccc0ce102fa86e305281f056f4fe61685ce7f4
+SHA256: 4276cc620733ca9fab1a82968f41ab7e3ce05a74a82f7d48cb1f6213661170ec
+SHA512: 5cd0e27395718f88cad5c04649130f23d51cb24efc989390315ca2873d3432896dc59a0209a78bd23cde04f4441c8d63d3cf8b88c946fa9cdde4d33e21b024ba
+Description: Useful actions on the Keyboard Dock View!
+Name: UnderDock (NoSettings)
+Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.ps.cconandoff
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debians/roothide/com.ps.cconandoff_1.1.0_iphoneos-arm64e.deb
+Size: 7242
+MD5sum: 3ec60f284ef1450271f4ab1ba1f029b5
+SHA1: 97b021fae361e9a8ddbdf645d5901fa23999b871
+SHA256: c6d45aab104e50e55eeb277f9599a2b544e68a8a1965e10a9c2c40f47f8eb35c
+SHA512: 5227641c165fe18be97c0e44567b84ae452fb66920fd2ca3ed539fbffed5ea7d5bdb1b50f3e6629020ae8cc4328eee2e0bbf1bdef7ad4847ad294bbfa842e68d
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
+Name: CC On & Off
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
 Package: com.ryannair05.cask3
 Architecture: iphoneos-arm64e
@@ -1154,6 +1472,57 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This v
 Name: Filza File Manager 64-bit
 Author: TIGI Software
 
+Package: com.yourepo.cydiageek.nodockground
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/com.yourepo.cydiageek.nodockground_1.0.6_iphoneos-arm64e.deb
+Size: 65936
+MD5sum: f5f189f09d898b02b5f7e18146858723
+SHA1: 9a6f50be8ae8fd2601f2774da7a35004b7bc6cee
+SHA256: 918daef565779a4bc0495c4b0fd4bae430b4f8f736ab55d76c38954e01d60645
+SHA512: 4e48409e6df2999b827574ad3977e4642916de936565529a246a3239d7fea1f2c27496a7324f029f3248e79125d1bfd67dd601aec80024322b23524a0aba7817
+Description: Make Clear the Background of the Dock!
+Name: NoDockGround
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://cydiageek.yourepo.com/pack/nodockground
+SileoDepiction: https://cydiageek.yourepo.com/sileo/depiction/nodockground
+
+Package: jp.akusio.backgrounderaction15
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Tweaks
+Maintainer: @akusio_RR
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/roothide/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64e.deb
+Size: 9228
+MD5sum: 83fb067029d0361f0eebf6a5727f0c97
+SHA1: 0f2969c9bce546218fbf4e2eb0da51d45ec878c2
+SHA256: d94028098aef08fbc24f8f12c6575baf221b4a5d437291da10b40bf9cf0f557e
+SHA512: dc1c690c6b47e5db2ef0031909f621375511a0ef9d40837a97aa9e665c5b26b48009c5c7833038a9177b9d319cfaa38f4b0a9e3fdb94b6f9836bebaad267e365
+Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction15 CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
+Author: @akusio_RR
+
+Package: me.34306.icontime
+Architecture: iphoneos-arm64e
+Version: 1.0-12
+Section: Tweaks
+Maintainer: Little 34306
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./debians/roothide/me.34306.icontime_1.0-12_iphoneos-arm64e.deb
+Size: 28496
+MD5sum: fa2b16d0eb6099cfc492888f58dc8e9f
+SHA1: 33a523662d768b3d56276a5dde9380434e9b7bd8
+SHA256: 0fc30e1f75fbd28cccee5e6d93554ecaa650c5ea3856af615cdf417b70317578
+SHA512: 059415e46c55fb9ba5b205da686e5bd03233eb0468c7bcece3fa7963f74c04194650a735af8f62098d17fd372884e4b98fb2400f79bde7e52db5b3d6a82c3428
+Description: Display the time as icon
+Name: iconTime
+Author: 34306
+
 Package: me.kernelrw.dleasy
 Architecture: iphoneos-arm64e
 Version: 2.14.4
@@ -1171,6 +1540,38 @@ Description: Download/Share images & videos from social apps easily!
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: netskao.actionbarreborn
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: Tweaks
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/roothide/netskao.actionbarreborn_1.1-2_iphoneos-arm64e.deb
+Size: 161008
+MD5sum: 5b20682b1b668af1fcad102dde33aeea
+SHA1: b5faa8f2d27c1995d8cf63323ae8cfff9be29af9
+SHA256: 98a0461194b65bb3012759f05592e6079b11693c6c7c354e9e4b07f014004ac5
+SHA512: f29e655062353209938536248b5236dee2d60cbd5903e8e30258bdcf19eb725fa83e90135992de2a9905a60a6b11b1b93b423670ff51fc3c9e7cbdd351a2ec7a
+Description: Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
+Name: ActionBar
+Author: Netskao
+
+Package: netskao.hidescreenshotpreview-rootless
+Architecture: iphoneos-arm64e
+Version: 1.2-1
+Section: Tweaks
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/roothide/netskao.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64e.deb
+Size: 3124
+MD5sum: f60f5c6c02cb596ec3b9154b200f7b7b
+SHA1: 4475fc84fbbb8d939e35d65afc37f1a33e39a907
+SHA256: f0dbeed915dc5db14173c0283d0f0f7cbb56ac622efc2046615ee1ce2f13c4c3
+SHA512: 3f1ca6516f70dcd23d01f85e96eb9cced7448b7843801235990a0a2545c0f0e3fe8df4a3c9f01907bff5161c48e47441fb90e308c7e52049d15af089e577000b
+Description: Hide Screenshot Preview
+Name: Hide Screenshot Preview
+Author: Netskao
 
 Package: org.haxi0.lunar
 Architecture: iphoneos-arm64e
@@ -1190,6 +1591,93 @@ Description: A simple, yet beautiful LS tweak.
 Name: Lunar
 Icon: https://raw.githubusercontent.com/haxi0/haxAssets/main/LunarSileoIcon.png
 Author: haxi0
+
+Package: ru.domo.cocoatop64
+Architecture: iphoneos-arm64e
+Version: 2.2.3
+Section: Utilities
+Maintainer: SXX, Domo
+Installed-Size: 892
+Depends:
+Conflicts: ru.domo.cocoatop
+Filename: ./debians/roothide/ru.domo.cocoatop64_2.2.3_iphoneos-arm64e.deb
+Size: 225116
+MD5sum: 3ca1d68508bc56731f00a9806e777a3c
+SHA1: 51aa5c12508998708cd9221868ec3c82aa3b815a
+SHA256: 3a26c6ecb590683b152eb108ed154d6ad2604dbed91bcd2e425cc6c8343b1ba6
+SHA512: 06ba3bd8ced4c5730c1d29b55cdc2c7eaf6cdc218e798a8ceb9d3ffb695542c15b1ed3851ef0ae418280dcaa7a9ae89f91a83e5006a482b6d85f63d6836e654f
+Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
+Name: CocoaTop
+Author: Domo, SXX
+
+Package: ws.hbang.alderis
+Architecture: iphoneos-arm64e
+Version: 1.2.3-8+debug
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 6016
+Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Filename: ./debians/roothide/ws.hbang.alderis_1.2.3-8+debug_iphoneos-arm64e.deb
+Size: 857360
+MD5sum: 163162fd0db44b348478d1973d8576ea
+SHA1: ee9d931f1a598cbcc57a4757bb939fa2edd07204
+SHA256: 23338feb0fa8f0adbdd3ae843df1d191e18bd9450ef1e813983584cf0f094575
+SHA512: 4e7b864f0c4c1ae6ffd54104eda1331809912d7b58a182cb3c4e4a59d008e1c885dbc49b7222dab29504f8258cf26ec58357762f4f18bece1ab09bc1dd8314f5
+Description: Color picker support library for tweaks
+Tag: role::developer, compatible_min::ios12.0
+Name: Alderis Color Picker
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/alderis
+Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
+Support: https://hashbang.productions/support/
+dev: hbang
+
+Package: ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 2.0-14+debug
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 5632
+Depends: firmware (>= 15.0)
+Filename: ./debians/roothide/ws.hbang.common_2.0-14+debug_iphoneos-arm64e.deb
+Size: 1342340
+MD5sum: cae31c7b2d36dc55a8f732b1c4de4481
+SHA1: c1596f6eb739839616a56a3ce0816c3ebcc51ab5
+SHA256: 8da18716ee4ff708023124efcbf712e0f6c162c9c7ff7d1c3f4f5bcfb293de56
+SHA512: 7e293a97728cc150165206e0ef5ac94fcf23d069a7110f56719eff84be432c58ce09ed9fd2ed4efb5e819847b7fbc72d7963c40b1cd8d9f7d746868a95e5baa0
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.newterm3
+Architecture: iphoneos-arm64e
+Version: 3.0~beta1-18+debug
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24280
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debians/roothide/ws.hbang.newterm3_3.0~beta1-18+debug_iphoneos-arm64e.deb
+Size: 4854336
+MD5sum: f771e39ad16220384c3b8a2713b4bbc3
+SHA1: 16044095fe88d72c304f1ff7ac23906c85b13541
+SHA256: bef2312bbc8980a98ef459f34b9cabcc0e32690c9f4ad7432b681081adb270af
+SHA512: 8f65ed7e6128b68e4bb6cd3a1b11b2c87e2cf209fb462d580ed454ad7210a35d0006b318e290fb141f8e07efe59fb7ea19cf40524b0393f40752fa8ef84243f8
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Name: NewTerm 3 Beta
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Depiction: https://chariz.com/get/newterm-beta
+Support: https://hashbang.productions/support/
 
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
