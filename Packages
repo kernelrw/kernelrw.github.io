@@ -990,6 +990,57 @@ Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 Author: ethxnn88 <ethxnn88@gmail.com>
 
+Package: com.kernelrw.visionkeysaurora
+Architecture: iphoneos-arm64e
+Version: 1.0
+Maintainer: rahwan3d
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.laetus
+Filename: ./debians/roothide/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm64e.deb
+Size: 518116
+MD5sum: cca44639c419603cb706aa3af37dfc32
+SHA1: 409ba767cf8b558b365a8204b0a378bd6306ee2e
+SHA256: 9812091502c98ee9a2507c752a3b2ceb1aabd38b668f6f59703429b83d35fc4f
+SHA512: c303e45ec85323743b3f0b5a77e2d1d638fbdeb1ff444678c0d4c4343058aecbfec3c9f7f11391046a399d7e49220d8f95fd3c935748f9492d8c320e798f60a6
+Description: A beautiful Dark Blue theme for Laetus .
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.kernelrw.visionkeyscelestia
+Architecture: iphoneos-arm64e
+Version: 1.0
+Maintainer: rahwan3d
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.laetus
+Filename: ./debians/roothide/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm64e.deb
+Size: 986818
+MD5sum: c584011bac652f40d61b9c0386dc78e6
+SHA1: 5100908dfd6ae491df9f31b70a8f38f6e56a6c37
+SHA256: 83129a52466b79242dd8f0884cf66e3f4687fb90c491e94687d50eb03f037e6e
+SHA512: 588dec94343ccefcb24b6a2bc62f1ff4f41b272512c8d4fb8799757fb17fd51be49bdc045af38fa070f82b67c1d2d4a6bfa0bed623f6b031ffeb129ce5c736cc
+Description: A beautiful Light mode theme for Laetus .
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.kernelrw.visionkeysobsidian
+Architecture: iphoneos-arm64e
+Version: 1.0
+Maintainer: rahwan3d
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.laetus
+Filename: ./debians/roothide/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm64e.deb
+Size: 302572
+MD5sum: 4c4dcae3bd900d07eeae83c008241cb3
+SHA1: c7dbdba5d3943ee6f6a59438c8a3b8e5b9ea0fb2
+SHA256: 0dd4412ab850b82b76ef5f07742f418e5319fceeeb46eb5894449545a054810e
+SHA512: bd525576ee25239cd138b2017872d90beb4ff0c95d5b4ad7c6330eff1451f81d902376e12de9a60351c6db5856a6cc94439c1b43cc78efce1da42294c2098954
+Description: A beautiful Dark mode theme for Laetus .
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
 Package: com.kernelrw.watched
 Architecture: iphoneos-arm64e
 Version: 1.1-10+debug
@@ -1007,6 +1058,45 @@ Description: Pair your Apple Watch on new watchOS with older iOS , supports iOS1
 Name: watched
 Author: 34306
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
+
+Package: com.mtac.lynxtwo
+Architecture: iphoneos-arm64e
+Version: 2.5.2
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debians/roothide/com.mtac.lynxtwo_2.5.2_iphoneos-arm64e.deb
+Size: 1603304
+MD5sum: 3238bb65e10ea8f5c813dbd2ff637d47
+SHA1: fcd8d202c270e6bfea23c9aed7c2e1e7450690ff
+SHA256: 2d2a0aa06b704943e46deffda3e311fc2ce932c48011a46428bfef96a889974f
+SHA512: a13537b8ad312a3d16e8c98040d83134331e5e58b0a3fb113e34955d5ffde9cada61d8e7c4525771abbc90adbbd8aa732e25bf4e311ba28360f7a5e7a30c65de
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2
+Author: MTAC
+
+Package: com.ryannair05.cask3
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 854
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Filename: ./debians/roothide/com.ryannair05.cask3_1.0.2_iphoneos-arm64e.deb
+Size: 340958
+MD5sum: 68ccda848077ea69d4e0f6066d48098c
+SHA1: be5a3ead5d2941ce10b40e3b04e22a660f61b6c2
+SHA256: 4f1810595e380bf4f41a1f03cd464ad18af7562add7663250af394cd78e9786e
+SHA512: 302cd857aeb427cfaceaff46d7b5edabcf834f876a7c7c82aaa53991fa78ed9130c338e86ded025197feccaef61ffc8635e5ee2acff508d9292776a37fcf2e8d
+Description: Animated table scrolling
+Tag: compatible_min::ios14.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cask 3
+Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
+Depiction: https://chariz.com/get/cask-3
 
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64e
