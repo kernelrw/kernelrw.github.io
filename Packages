@@ -1008,6 +1008,24 @@ Name: watched
 Author: 34306
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 4.0.1-4~roothide
+Section: Utilities
+Maintainer: TIGI Software
+Pre-Depends: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debians/roothide/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64e.deb
+Size: 17133288
+MD5sum: b798a376b9b2a6b3260cd2797f5df8f4
+SHA1: 46154298d04069481e0551390c6e7d50291f917c
+SHA256: e534c7e3f9899d5df5ae7d56c420692e82979c341aa638860721e25baed7bf1d
+SHA512: b8c9d33d4b36b48b5ba3d5e3bb4cbd247e194365e3d9a0873ce4b23cd093fa5462d23215c55a05908cf7f393dcba45f2e786ea60026d65c9d49203559661e643
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
 Package: me.kernelrw.dleasy
 Architecture: iphoneos-arm64e
 Version: 2.14.4
