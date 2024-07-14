@@ -1450,6 +1450,25 @@ Description: Premium CPU Dasher
 Name: CPU Dasher Premium
 Author: iOSign
 
+Package: com.kernelrw.cpuxpro
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.kernelrw.cpuxpro_1.0_iphoneos-arm64.deb
+Size: 2572
+MD5sum: f7cc04d276cc11c5aaf29348dea6d3a6
+SHA1: d0fe3bc451595c5d2af1de541814ffa1475a0c01
+SHA256: 7ecc4b743277111fc2ac61fdc628f8378ade94b7581337cfb0d53361d722847f
+SHA512: 0afe2efd0970e8a2234bcc1346dbc83393ee53a8a0b95439528df42ec9ecfc2da4d09046a5848dfc30f8d1b7885a3efcbcc6711f5f2348276f2de22a8171a491
+Description: CPU-x Pro for free
+Name: CPU-x Pro
+Author: Kernelrw
+Sponsor: Kernelrw
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F62108e334bc7792972608e7c&s=150x150&f=webp
+
 Package: com.kernelrw.cr4shed
 Architecture: iphoneos-arm64
 Version: 4.3.1-1+debug
