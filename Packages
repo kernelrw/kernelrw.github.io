@@ -158,6 +158,24 @@ Depiction: https://repo.litten.love/depictions/koi/index.html
 SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
 Icon: https://repo.litten.love/depictions/koi/assets/icon.png
 
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.dvntm.showmytouches_0.0.1_iphoneos-arm.deb
+Size: 24476
+MD5sum: 0d40e48e2958f9247f99d68b7aa2ae55
+SHA1: 3287543cffd6fb20e17b9a9ca4dd89ae9001b69f
+SHA256: 3160e347ab086c7a964457f49637e6a044341a85353d05a22109beb8e4de7657
+SHA512: 8cf67b11a31ecdf6b1e6094455d1fd9184b1c9b6df3b57f8872b98fdb04565dd160e92502d3ff3f6e822641aaa46613b52ff98f434c9b6e565c294a2a6585a99
+Description: An awesome MobileSubstrate tweak!
+Name: ShowMyTouches
+Author: dvntm
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -747,6 +765,24 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.dvntm.showmytouches_0.0.1_iphoneos-arm64e.deb
+Size: 22960
+MD5sum: 03c492a159725bfef9a486f7622aadf4
+SHA1: ad1e0ec35250c4ea9603688094705cb3cb8e8d0c
+SHA256: 1330ba2c360c5bd685423e2f1537cc9278b0fff5538d6712ee9fe27a3a10d12f
+SHA512: 9c13af04ba4d04360cb65ef328f80df0c21437d958a5b2293a25d954fba068d31916cd46ac29d7d20afa262879c7aab0dad0bf6d5057a4c3a740b57d3349842b
+Description: An awesome MobileSubstrate tweak!
+Name: ShowMyTouches
+Author: dvntm
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
 Package: com.kernelrw.appdata
 Architecture: iphoneos-arm64e
 Version: 1.4.1
@@ -1008,6 +1044,24 @@ Description: A simple, yet beautiful LS tweak.
 Name: Lunar
 Icon: https://raw.githubusercontent.com/haxi0/haxAssets/main/LunarSileoIcon.png
 Author: haxi0
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.dvntm.showmytouches_0.0.1_iphoneos-arm64.deb
+Size: 24360
+MD5sum: b0c6e4852932ea7116724551f73ad888
+SHA1: bb59e7cc384695f32353932cbb9a2c2cec835747
+SHA256: 2db8fae9029a60794c9132cd6fa12e7086319cb8007bf345a70a74cbdcd20e53
+SHA512: b95427928184eadc5ddc572066c78e17c60c5fffbec63e6d45ba4985b2fbd97fdb73547d72e785c5125f3de400c2eae1e67b5a1ae77f71d783a3163d5df5b6cb
+Description: An awesome MobileSubstrate tweak!
+Name: ShowMyTouches
+Author: dvntm
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
