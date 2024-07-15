@@ -3830,6 +3830,23 @@ Name: AutoScroll
 Author: pxcex
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.braveheart.skrollerz.png&s=180x180&f=webp
 
+Package: com.spark.snowboard.respringextension
+Architecture: iphoneos-arm64
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 596
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
+Size: 41928
+MD5sum: ad9990c27b199c2e2866a229ae5f25c2
+SHA1: b36d8b28001fece06af1c60a0c424a91fec4dc23
+SHA256: 4331ac8f90dcf7d203a9150e3ae89742417d4180d528ffb1e05b033a3be95fd6
+SHA512: 217bd0c3edc6a8aa975333206e062ad507e5392ef6fdca77034df09fa81a72a5fd31b84378857673603e69e979f53f0085ea443e27b70c602c2b70af8c2c96d0
+Description: Respring icon extension for SnowBoard
+Name: SnowBoard Respring Extension
+Author: Spark
+
 Package: com.yourepo.ibreak.switchcolor
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -3881,18 +3898,18 @@ Description: Scheudle a Shutdown (and more) from your CC ; Supports iOS15~ iOS16
 Name: CCShutdown
 Author: ExTBH
 
-Package: emt.kernelrw.xinamine
+Package: emt.paisseon.xinamine
 Architecture: iphoneos-arm64
 Version: 0.0.5-1
 Section: System
 Maintainer: Sudo + Paisseon
 Depends: ellekit, oldabi
-Filename: ./debians/rootless/emt.kernelrw.xinamine_0.0.5-1_iphoneos-arm64.deb
-Size: 60740
-MD5sum: 2ab5753e970146809656d3034e7ccb5e
-SHA1: 52ac18e3a62c00dcc840f3d4bf107544cc8ec68f
-SHA256: af6d4c2dd84e3f3544ea770cf7ace50770f631b59429bba3580151dc97a30474
-SHA512: ea4f4bcdb6cbe602aaa1301d9707008a452ae60d8b616e6df1c513da23e20e3860dd171501e206722b31948ef41b8ee53edb35aadae94e46d36bf20e55f85ef2
+Filename: ./debians/rootless/emt.paisseon.xinamine_0.0.5-1_iphoneos-arm64.deb
+Size: 70104
+MD5sum: acf8399018ebf200c626390ed8ad2e54
+SHA1: 84104d3cb46a54edd08d6f462484f35d1d75d8af
+SHA256: 97bcb01e82ce53001b0dbe1328524e9d4006fb921a6b0f7bf4dd6049e00e008a
+SHA512: a435e04ba4d35e49413f69d779f5f4e924d86f2c78b5d90477263e3e663636e254d96e4c8a71bce4754ae83aea6e91eff79c88d6fe6c7fa81845c9f78a66ce4a
 Description: Add Xina tweak compatibility to Dopamine
 Name: Xinamine
 Author: Sudo + Paisseon
@@ -3900,18 +3917,35 @@ SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
 Icon: https://paisseon.github.io/icons/Xinamine.png
 
-Package: ez.kernelrw.xinaminepatcherscript
+Package: emt.paisseon.xinamineall
+Architecture: iphoneos-arm64
+Version: 1.8.2
+Section: Tweaks
+Maintainer: Phuc Do
+Provides: emt.paisseon.xinamine (= 0.0.5)
+Depends: mobilesubstrate, ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0), file, gawk, odcctools, ldid, com.tigisoftware.filza64bit (>= 4.0)
+Filename: ./debians/rootless/emt.paisseon.xinamineall_1.8.2_iphoneos-arm64.deb
+Size: 71756
+MD5sum: 4553ffbc96fa29e580aa19c68532ad19
+SHA1: 16c310cc4fd2a1fce9af1f817a01547b12b4c560
+SHA256: 53f0c6e9afe69ee61c0f4796efe15cd5338df483484a356bbe3e6b430209c784
+SHA512: 33719e557aab7b64caa5b66b094e999f43c78bff974d047bad07f2abaaa9b981b27fbabcdbc8f5a406242896745b6cb972e48eb3af950fa771703df4ab5906db
+Description: Xinamine bundle. Includes linker, patcher, and 'chex' link checker, plus other supporting filza scripts.
+Name: Xinam1ne All-in-One
+Author: Paisseon, Sudo, NoW4U2Kid
+
+Package: ez.now.xinaminepatcherscript
 Architecture: iphoneos-arm64
 Version: 1.7.4
 Section: System
 Maintainer: NoW4U2Kid
 Depends: mobilesubstrate, ellekit, file, odcctools, ldid, emt.paisseon.xinamine
-Filename: ./debians/rootless/ez.kernelrw.xinaminepatcherscript_1.7.4_iphoneos-arm64.deb
-Size: 4232
-MD5sum: 0df61cd5d23796946f95136878777ff7
-SHA1: d1eaaa180c120eea34ee7be92478a92213d181ea
-SHA256: 7222a728175c27bc4f332e37a08d9230f217d782fdfc75c2b2b6cab74b76cdd2
-SHA512: 36e82532eb7b182df704b8e13a26c10dfde79d22a972e196e6ba95d650866e2ec5708e4d68cb6ed3bf35e5b3db67830067f6b95c252ed163ef32b17758100bc3
+Filename: ./debians/rootless/ez.now.xinaminepatcherscript_1.7.4_iphoneos-arm64.deb
+Size: 4204
+MD5sum: d36971b059bfda8fc613b5fca26b8132
+SHA1: 4b19f1dfed00170cb900bc7d0d05f8cd8f9cafd8
+SHA256: b04e816db3dd73620fc34ebb8d8ef459a91cf81ee79d33345ed94e9c0a80af8b
+SHA512: fad96b0b65d99c8cf245972c2bd9a4f7dff768ebd0bd6d4f1f864f486695a544ea922406c25ed922947ad71daaf0b5ddc540ca0dcb6c8ffb5609407c61c33c27
 Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
  - YES, this is much better than Derootifier or any other rootless conversion script.
  - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
