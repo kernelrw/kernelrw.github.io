@@ -695,6 +695,23 @@ Depiction: https://repo.litten.love/depictions/Rose/index.html
 SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
 Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
 
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.ahmedbafkir.dleasy_2.14.4_iphoneos-arm.deb
+Size: 5454256
+MD5sum: 51dbe772eb2149e4e0ce0739851c731f
+SHA1: ef27215798af210951b9fa6930de1124147ff1a1
+SHA256: a88c62953cadab0117d2dd125e69b6a54cb7607197b19dbdd2103d7899badab2
+SHA512: 5bfdcc51046266ab39c3152624fc56c2488bd7dddabc4b1c89639990b64aab45b00a67b441cf9034a6fd749bd4e122d46e17b06845300a0d19ff4bb4b8997a4c
+Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: me.kernelrw.dleasy
 Architecture: iphoneos-arm
 Version: 2.14.4
@@ -765,23 +782,6 @@ SHA512: 34fd6099ed78034d5de74bc5bb4dfc66929da63d93b4846816cac4e8fc98bd97658a3d89
 Description: Ensures the Restart SpringBoard button appears in the Sileo package manager when installing tweaks . Supports Dopamine 2
 Name: Sileo Respring
 Author: jjolano
-
-Package: me.nef0pam.dleasy
-Architecture: iphoneos-arm
-Version: 2.14.4
-Section: Tweaks
-Maintainer: AhmedBafkir <prooxy0@gmail.com>
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debians/rootful/me.nef0pam.dleasy_2.14.4_iphoneos-arm.deb
-Size: 5451712
-MD5sum: 9308e8004c482dbe09288e823c32a9a4
-SHA1: 3b716c84efbe921c3122d8b400b8db82841bff59
-SHA256: 4a08d13474faf1bc9e0894ebbe656146d3d312848940cb65fc1ac3d2fd1479b4
-SHA512: 55dab6544b9e71706651ce445ca49893bc438ee272f3095354b8ad19c1b509ef9137eb4a1dbee60fe9c816ebfc257206147842e233b8c7b5ca800d557b5ad9f5
-Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
-Name: DLEasy
-Author: AhmedBafkir <prooxy0@gmail.com>
-Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
 Package: FiveIconDock
 Architecture: iphoneos-arm64e
