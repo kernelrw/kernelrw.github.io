@@ -3847,6 +3847,24 @@ Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
 
+Package: com.swing.appstorenoads
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.swing.appstorenoads_0.0.1_iphoneos-arm64.deb
+Size: 4100
+MD5sum: a217038f15fdb04fef709c5ed347770f
+SHA1: 638eb2341cb685f9b39b6834be861f6141e6a74f
+SHA256: d66dde0cabf51286fc899e4b087e223a5612532a22b4f9a1245ca80d9347543a
+SHA512: 83d3373a2dce6e845f553bd58315a0d6697badb07ddbc2dcb9bc1a0e884f6ebdd8aede5d2731cc26b3caf4cc7153858b33ee6f817d42df7628d9c4b774f87bc3
+Description: Remove Ads From AppStore
+Name: AppStoreNoAds
+Author: SWING
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.appstorenoads/icon.png
+
 Package: com.yourepo.ibreak.switchcolor
 Architecture: iphoneos-arm64
 Version: 1.2.1
