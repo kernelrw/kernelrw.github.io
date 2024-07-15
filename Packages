@@ -4045,24 +4045,24 @@ Depiction: https://repo.litten.love/depictions/Lisa/index.html
 SileoDepiction: https://repo.litten.love/depictions/Lisa/index.json
 Icon: https://repo.litten.love/depictions/Lisa/assets/icon.png
 
-Package: love.kernelrw.rose
+Package: love.litten.rose
 Architecture: iphoneos-arm64
-Version: 1.0.9
+Version: 1.2
 Section: Tweaks
 Maintainer: Litten
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/love.kernelrw.rose_1.0.9_iphoneos-arm64.deb
-Size: 430008
-MD5sum: f8fec353d73b04ff67ca91d81530fe2a
-SHA1: acb85f8ca6b726889ac929ca15ece49284476b0f
-SHA256: 91a7fed7f3572c80e9aafcd464a493fe5c117ea6e90b44896214554d9ce4ae12
-SHA512: fa7ec8d67cb545fcd386a23170b486621797e785a2f981b4a8d1762a5052abd04b1a000cc90c351529c7e5665557e4a8e321914810b263ddb1cee003b1d9f108
+Filename: ./debians/rootless/love.litten.rose_1.2_iphoneos-arm64.deb
+Size: 429988
+MD5sum: 089de856f603af257ca3d882c73d9529
+SHA1: 8e6c043d6435481c17fcbcac2552159f1362bd47
+SHA256: 09221252bb3b10a599736f4dcd8775ef6597ad6390581a6ac4ec0e1973eac39f
+SHA512: d96ffa9c68ff90c8d128a7f34abfa93cc2bf73719f12c3d897714f2fd388cdde3756f63b903fe2ad7e0e24adbbf5375c2890cc166776ae28a4b8569aad81a434
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
 Name: Rose 🌹
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Rose/index.html
 SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
-Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
 
 Package: me.ahmedbafkir.dleasy
 Architecture: iphoneos-arm64
