@@ -1929,26 +1929,6 @@ Name: AppData
 Author: Fouad Raheb
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Ffouad-s.png&s=150x150&f=webp
 
-Package: com.kernelrw.autoscroll
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 152
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/com.kernelrw.autoscroll_1.0.0_iphoneos-arm64.deb
-Size: 26408
-MD5sum: 6aa5730e4a4143b3148c283e2605ad68
-SHA1: ed657cabb0cc72fb698e3b1c20f708eec5a1cedb
-SHA256: f524d2aadda3aab25611fe6000465dc378d28901012bace9b5b94fee2cb37e03
-SHA512: 276c8a418d08a14d8e7c4d75e2638a136c01c644743174c06768bb75dff01fd6101398f586648df15e9b6e4350e98f5181a8535c6ce85c7e9c0ad3ba03d9ab0d
-Description: Smart Auto Scroll & Faster Scrolling on all app.
-Name: AutoScroll
-Author: pxcex
-Depiction: https://d.plutorepo.com/posts/AutoScroll
-Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
-SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
-
 Package: com.kernelrw.autotooth
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -3831,6 +3811,24 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+
+Package: com.pxcex.autoscroll
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 152
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
+Size: 26428
+MD5sum: 61e2e2dd50891c275013f358feb54e92
+SHA1: f9c50ff426aa7017ce8e4f732e48915d55391dc0
+SHA256: f82d218e88d65d1689ae7ab7e5377777c5dd6ad006ec57e2f21178bb1615ba1c
+SHA512: bd2cfb1c75876ac26b99207f8668505b5e2a3d1e89aa86d3acf31055e4c03662e8eb8430d9e75fedd15afde94013f9087f0f39d5add2193e623afc10c58ee199
+Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
+Name: AutoScroll
+Author: pxcex
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.braveheart.skrollerz.png&s=180x180&f=webp
 
 Package: com.yourepo.ibreak.switchcolor
 Architecture: iphoneos-arm64
