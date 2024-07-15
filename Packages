@@ -4064,37 +4064,19 @@ Depiction: https://repo.litten.love/depictions/Rose/index.html
 SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
 Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
 
-Package: me.kernelrw.dleasy
-Architecture: iphoneos-arm64
-Version: 2.14.3
-Section: Tweaks
-Maintainer: AhmedBafkir <prooxy0@gmail.com>
-Installed-Size: 15520
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debians/rootless/me.kernelrw.dleasy_2.14.3_iphoneos-arm64.deb
-Size: 5523924
-MD5sum: 6077140b661395192f7c859ef6d4efe1
-SHA1: 9ede9c5a0b62b65e70a5ca290534ef62261c1409
-SHA256: 86e4c243b3722676704af1d766ef15be706fa39733e3ce3395bd32d6fc1f5f79
-SHA512: 0e944e05e37f1954efb40084f4f621e5d980bccb61976db464b3fb286074a13258d11781454a15ed746ef6ea898f0f9e8df501a89c3bc85006bd695daa69b236
-Description: Download/Share images & videos from social apps easily!
-Name: DLEasy
-Author: AhmedBafkir <prooxy0@gmail.com>
-Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
-
-Package: me.kernelrw.dleasy
+Package: me.ahmedbafkir.dleasy
 Architecture: iphoneos-arm64
 Version: 2.14.4
 Section: Tweaks
 Maintainer: AhmedBafkir <prooxy0@gmail.com>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debians/rootless/me.kernelrw.dleasy_2.14.4_iphoneos-arm64.deb
-Size: 5531064
-MD5sum: 6ec1d9c466f9c32ec8ef9c72356013f4
-SHA1: aff310e98e472f3225f5334be2f455c62ba50ad1
-SHA256: b428427ed8a0967578c48fc4fa5e900a2312b4c131a98c9de94fe8f336fa5833
-SHA512: 94ca3b249f0543056720e68caad328e1e4ea99df24feb1ef8c3953238f39544bddcf7d4e34730aa0e83b0fbfa0fb25e6569fd84c1f71bf170990bc5d0e366735
-Description: Download/Share images & videos from social apps easily!
+Filename: ./debians/rootless/me.ahmedbafkir.dleasy_2.14.4_iphoneos-arm64.deb
+Size: 5523340
+MD5sum: 2ac8de0917d588f8aad9937e606132db
+SHA1: c2046248e8ff8351c82e0096adf78f826430effb
+SHA256: 3210d99bb4574af5340d3bc0f24d5ed68f754f837caf5cf1d11ed07f4b1348a6
+SHA512: 6efe83eaa264704c89ee44175f4f399d8d72bf91b58dc2a10877d00fe93f7fe41556de92130f4d0cd7da01946a9cffeab52df7062bd46fb8692dc7653b9858fa
+Description: Download/Share images & videos from social apps easily, supports iOS15+
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
