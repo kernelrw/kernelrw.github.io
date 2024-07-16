@@ -1718,6 +1718,260 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.gilshahar7.exacttime
+Architecture: iphoneos-arm64e
+Version: 2.0.2
+Section: Tweaks
+Maintainer: gilshahar7
+Installed-Size: 1024
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debians/roothide/com.gilshahar7.exacttime_2.0.2_iphoneos-arm64e.deb
+Size: 67656
+MD5sum: ea467443e7a333a2112fe42f427409f0
+SHA1: f8c95900e451188e5682661cc73584eefdcd0583
+SHA256: df12c2a8395d0ccae4344c9d20dbce9547b10a0505689bfbdf545de34addaeae
+SHA512: 41e050d078017696a318075014ea15084005c62f78e29544cb963ad171ffe9021eccfd51f48809eabb19ae6580d1794985a31305ac0b61c0df05d0f1f6761d89
+Description: Shows the exact time of notifications, messages, calls and emails.
+Name: ExactTime
+Author: gilshahar7
+
+Package: com.ginsu.nointerruptwhenplayingmusic
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.ginsu.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm64e.deb
+Size: 6698
+MD5sum: 48bbf245803672633f99a07617c5e46e
+SHA1: e9c375a4198fe77483ceada6b6f57083e3a3045d
+SHA256: 5342dfe583c70e09a1743a9ce43e25934d838c2d7c1351697965bae61048abc4
+SHA512: 6adfb0a922d9300c1ef59a6d5bde130624f7331bd8960e16e8e32b6d067bb2dfbc5963c8621f94dc202e1791a7e7c116c2500c4e6bed211dcd1e66c1a8f0f57c
+Description: Quiet notifications when music is playing.
+Name: NoInterruptWhenPlayingMusic
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.nointerruptwhenplayingmusic
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.nointerruptwhenplayingmusic/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.nointerruptwhenplayingmusic.json
+
+Package: com.hoangdus.speedster
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Hoangdus
+Installed-Size: 380
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0)
+Filename: ./debians/roothide/com.hoangdus.speedster_2.1.1_iphoneos-arm64e.deb
+Size: 46834
+MD5sum: 9e741976ab7a3ddc24997e6943271095
+SHA1: ec9c35eec14794783a7d62f61943e634740f4b6f
+SHA256: 30836ed6aebcd9488383a7532f481f2ab10c3c465471587bc9fb154b9ae6d16e
+SHA512: 707a6c63873f6ce6b4b99c02eeaf1824639dfcd565196dbe6aef1b8365a63e21d92c9c0773174598b6f089001220955611347fc4c9d4d760524a87bf834e3fd2
+Description: Faster iOS animation.
+Name: Speedster
+Author: Hoangdus
+
+Package: com.i0stweak3r.donttouchmytunes
+Architecture: iphoneos-arm64e
+Version: 0.0.1-2r
+Section: Tweaks
+Maintainer: i0s_tweak3r<djvs23@icloud.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.i0stweak3r.donttouchmytunes_0.0.1-2r_iphoneos-arm64e.deb
+Size: 4046
+MD5sum: 13b50e36c88a45434c1f2ac13ff81b2d
+SHA1: 39ab36f6771298f329e426357043bbeb7a23f83e
+SHA256: b9d695eb50a9b69ab96c3c517c63aad32bb18c88db9ddafe3aef6c2ff4774dbb
+SHA512: b31a8a6cfdf9c1fefb124b8cd89846c3978f712a53654ad5df9577bc451a5cf14eb24ecef2bcef25833ade934e90834cb8b00a2ba8540d39495826dc6c538b3b
+Description: Disables system from silencing Music while screen recording or any other activity.
+Name: DontTouchMyTunes
+Author: i0s_tweak3r
+
+Package: com.ichitaso.autolockcc
+Architecture: iphoneos-arm64e
+Version: 0.2
+Section: Addons (ControlCenter)
+Maintainer: ichitaso
+Installed-Size: 192
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./debians/roothide/com.ichitaso.autolockcc_0.2_iphoneos-arm64e.deb
+Size: 23626
+MD5sum: d066e3854f49fe7afc9b7c827fa2345e
+SHA1: 2839b07e0cac5c3e766e16b138e5361da62c8e72
+SHA256: fcbae51977c452a9ab9afd382eb97e4575453a19712ec9984a5277e6d146b918
+SHA512: c35b0d31573c8bbae3eaa69fa954cb0f1750105a422fd46a98f844359d157dd67fcf226b05be84d2292f7dfe3eb9b88b6254c35ff4a6595dc4778e6dac350fda
+Homepage: https://ichitaso.com
+Description: Turn on / off Auto lock from the control center.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
+Author: ichitaso
+Name: AutoLockToggle (CCSupport)
+Depiction: https://cydia.ichitaso.com/depiction/autolocktoggle11.html
+dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/AutoLock.bundle/SettingsIcon@2x.png
+
+Package: com.ichitaso.hideserialnumber
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 472
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Size: 66764
+MD5sum: 4177ea7f09b478e167fafca71132d521
+SHA1: c4f1239223c5cb896985688363e841f87ffce810
+SHA256: 96a751a72dbce965c3d33897eed1dce41ba238243dcdc17710758c1cccf84e21
+SHA512: 65c56b2574215178f2049677267dbdbe93580fc52e34a05eae648c4f0d1451b8ffe743b6b179bc1b4becb156e460f593e3eecc9ffcc14385b39aaca2b8436ff7
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber
+Depiction: https://cydia.ichitaso.com/depiction/hidesn.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/hidesn.json
+dev: ichitaso
+Icon: https://i.imgur.com/uFWkBXD.png
+
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 168
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debians/roothide/com.ichitaso.iconorder_1.0.3_iphoneos-arm64e.deb
+Size: 51038
+MD5sum: 226b7284df59a9982b852c353c0cfcfb
+SHA1: aa879e4cc91047a169855d397d5b88f49b6641d6
+SHA256: e4dd53ca4f0cb90fbc2a7be91ec4c88c79567456fccf3fe1cc1f19e04996fd45
+SHA512: 91682bbc8cdc86cf583bc1ffb87e0b30240051b96fc31a66c40a9433671e1d0b1c14decaa4b2a954ba28c9a3c934fe8704bbef7e02678192d6739cbe59ff55e4
+Homepage: https://ichitaso.com/
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios17.5.1
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+dev: ichitaso
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64e
+Version: 0.5
+Section: System
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/roothide/com.ichitaso.otadisabler_0.5_iphoneos-arm64e.deb
+Size: 55642
+MD5sum: 86d7adb5a266dba2f38d9abafa38b0ec
+SHA1: b01cce42b591c487b81345f7fff6000978e4c345
+SHA256: eac2de5de15fdf7e07a1245a6cd63ad24de9036ab6fbc00e7a29cce42e344a24
+SHA512: de68203bd6387d5a1fba5b4342f09838b8a70a85e72bfa09c3290e2b742fd06efa64e4c4bba9a8e4a45adc4150b31d8f93c349de5cb690863d0b8247fc557888
+Homepage: https://ichitaso.com
+Description: Disable OTA and remove badges on home screen, etc.
+Name: OTADisabler
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
+Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
+
+Package: com.ichitaso.powerselector11
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Section: Utilities
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 2212
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debians/roothide/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64e.deb
+Size: 429308
+MD5sum: ac410c0406cc25fe3750812be7be361b
+SHA1: 66d5a8eed61be5aeb1039faba54b7895edf37cde
+SHA256: 7c741e29daf196301f71bb5423c0b341ccff33aa899e0f2f6224038a45622541
+SHA512: b87aae4a0ca6f928ba67d34224bb0c7fbab660dfbf1f084a16d45ca503d51d65d3e52efa6114bb535fade3f4a94a89facdee6ae7ae9a08b6abcd0708e84458cd
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+dev: ichitaso
+Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
+SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
+
+Package: com.ichitaso.youtubepatcher
+Architecture: iphoneos-arm64e
+Version: 0.4-1
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.ichitaso.youtubepatcher_0.4-1_iphoneos-arm64e.deb
+Size: 7596
+MD5sum: 45914836cad0b854bc70140f2632857e
+SHA1: c32c82e2cd9625b225d971524de6622a1e125406
+SHA256: 993a042961231aa7942ab2480d6a0dad3fe1e198ca95f9e0b846e607c148d133
+SHA512: 8d5c6741db4725e189aef4e199f4f146f74e92dcee80d7f0807be69be513825296a4853e66c423b9d36d805be64b4ee72f1ba7be249bcbf74ff7595ce7f9839d
+Description: No inline Ads/Background Play back for YouTube & YouTube Music
+Name: YouTubePatcher
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
+Icon: https://raw.githubusercontent.com/ichitaso/file/main/images/YoutubePatcher.png
+
+Package: com.icraze.sbshot
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 316
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debians/roothide/com.icraze.sbshot_1.1_iphoneos-arm64e.deb
+Size: 15330
+MD5sum: bbd2d767a3bbc3fe07668493df07fce1
+SHA1: baff1fca466502bdde41ab1e99d09455636bb6a5
+SHA256: bdf93b0edee66e2f86c0036eb83e533eca5705a54253d014bd645b69829b0b1b
+SHA512: 17d16d59b2f27193c272b16a62e318e7aba592e7927dc712ee6234069a7f2497cb5724764a8f444446fe4c02e224389c249634902f6be0f51668b57e26aabe3b
+Description: CC toggle to enable stealthy screenshots
+Name: SBShot
+Author: iCraze
+
+Package: com.icraze.stnuke
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.icraze.stnuke_1.0_iphoneos-arm64e.deb
+Size: 3978
+MD5sum: 64e726374b477b1cbe421b47ab12294f
+SHA1: f112f5075954309ebc069bdc41b8b1c897d25d6f
+SHA256: 03fbd2a29115f5357a5252a985745a3a6fc67272419c17a080ef3cbdd5e46345
+SHA512: 47420f765842b935c4ed45083786b75883dee3eb835beefbbf379e7013aacc1656b5cbca9c473293a2dc53e42c384699e2c12fa92c4ee8f636f72f21ce6eced7
+Description: Disables Screen Time on the device after installing, bypassing the passcode requirement
+Name: STNuke
+Author: iCraze
+
 Package: com.imkpatil.colormybattery
 Architecture: iphoneos-arm64e
 Version: 1.3.4
@@ -1753,6 +2007,98 @@ Description: Give your hand a rest by using gestures instead!
 Name: EZSwipe
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/EZSwipe/icon.png
+
+Package: com.imkpatil.spotcc
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/roothide/com.imkpatil.spotcc_1.0_iphoneos-arm64e.deb
+Size: 4048
+MD5sum: a0dd6374943ee30d30e696b80e655f78
+SHA1: 9eccda4e8aac1c207cf7dc0e305299a9b9ad5f24
+SHA256: 9029581510c2f5ccd96e57cbd3b1df259ac246ffbaf86daf1dcc0eaef79419f6
+SHA512: 189f0f83b14477146909c569dba2f7cd8baf57e61be7aa26a4bd5b3420e7cf4b795fd188c23f525d958e2a49eba0548228e3959851f49a11403e2f3141499926
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Name: SpotCC
+Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.itznebbs.phoenix
+Architecture: iphoneos-arm64e
+Version: 1.3.2
+Section: Development
+Maintainer: Nebbs
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: ./debians/roothide/com.itznebbs.phoenix_1.3.2_iphoneos-arm64e.deb
+Size: 77642
+MD5sum: 2918dc74a1042c57cf048337716a23ce
+SHA1: c71a34f9c24531134192e7ac43928c327b9b35c4
+SHA256: a95e68d8d7b645f2c301ba2f1ff21c867dc912a848e1835773e8a3ec5fa54453
+SHA512: 04a9f07c4539f712142bd685a3f189c1123bca65e6991523c64dafd73063be6fc7eb0bc094db2502a95a31d8211b9fae443fb813e1a44e28762f46736c41b532
+Description: Collection of classes used in my tweaks.
+Name: Phoenix
+Author: Nebbs
+
+Package: com.itznebbs.twister
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Nebbs
+Installed-Size: 856
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 16.0), preferenceloader, com.itznebbs.phoenix (>= 1.3), ws.hbang.common
+Filename: ./debians/roothide/com.itznebbs.twister_1.0_iphoneos-arm64e.deb
+Size: 475798
+MD5sum: cddd52a48717faad598fe3bff1c5e055
+SHA1: 0172d32f76dec6fd3b03689c8de1dd8337745701
+SHA256: 45abffc260802da78677814f4396a9fd4115b39a028c6a297e84a0a795694e38
+SHA512: 6775b718a89c5a4de7f80b72d8f9c039ef2b97b51ccc76eb4fa707c1a30d51e9706a56de0a50cd81811f598fab1b574f9e920e574fc7d5c1c76d4e6413c24b53
+Description: Bring animations to your icons!
+Name: Twister
+Author: Nebbs
+
+Package: com.julioverne.autolockx
+Architecture: iphoneos-arm64e
+Version: 0.0~beta2a
+Section: Tweaks
+Maintainer: Julio
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/roothide/com.julioverne.autolockx_0.0~beta2a_iphoneos-arm64e.deb
+Size: 49896
+MD5sum: 5c39b3f8c5938858ea81dfda35b4ac77
+SHA1: f0aefd6b5e17c5b710906ea81a9236266574ad7a
+SHA256: 947b8990df2d6f45cee7873672344aaf7576454ddc100f6cd72aa86e002ebff5
+SHA512: 28f4d2b06e98c3ab034548f2ae052615921a29b78b0ccdf683cddcdb6ffce0a40ab04331969c9d3365e08bf2ee7d2d7b14526d1fa9ec849762f954a4fa27c1b7
+Homepage: https://twitter.com/ijulioverne
+Description: Force Auto Lock Device
+Name: AutoLockX
+Author: julioverne
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
+
+Package: com.kernelrw.a-font
+Architecture: iphoneos-arm64e
+Version: 1.10.1
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/com.kernelrw.a-font_1.10.1_iphoneos-arm64e.deb
+Size: 1334610
+MD5sum: 9b484647b2d963ade15ad1bfdf90f6ac
+SHA1: b41d41c35b689d1af0bf07da70c42891b2864fdb
+SHA256: 88f5331a0753c69507081949c862c980fcbbe8175eed25dd19853ba5d977950b
+SHA512: efbf4f4e469492407f0784baed01613f3e689f7ba675ff6d7d433dd60a7e961a25729a554980c95250e3273f13923eb31f975ec1c952e5481daded9f8cfe15f8
+Description: Change your font easily . Supports iOS12~iOS16.7.7 !
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
 
 Package: com.kernelrw.appdata
 Architecture: iphoneos-arm64e
