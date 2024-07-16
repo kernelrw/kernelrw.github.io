@@ -194,6 +194,23 @@ Name: ShowMyTouches
 Author: dvntm
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
 
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.dvntm.showmytouches_1.1_iphoneos-arm.deb
+Size: 52118
+MD5sum: 12ce21a4f116db2ec7945fb89154e26a
+SHA1: 2a56d2af5f370df58b6e16d24f8ea552b0a24e10
+SHA256: 1f608eec2fcbb360c5e55e94db7d3b1bdc2c2eb0ca9fdae2b0017492df816374
+SHA512: 13ff0d8c49a1a8fc5d709009708a42346743474226ba355f401f6c1618e5bce72e9feaab218b09c29110d1d0de1db408204acdaf1a26b092e4976e294fdad01f
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -900,6 +917,23 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.dvntm.showmytouches_1.1_iphoneos-arm64e.deb
+Size: 51120
+MD5sum: 3cbecc1042a5e0aea511f3ae505a00bf
+SHA1: df2429c4eab344e3af8c9f098e380a12fa9c20ae
+SHA256: e215c0ade038377a3b03ab5435f6dac6d771a9079afb3a8e800297f090f3f8aa
+SHA512: d0b6dc530788a7a1ae37d7692e025e47e296b484516948dcabf6f2c969f802f38d91e706776b7965e2c7d06e16a18dce4166804596940881ee30c9b922099dd5
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.imkpatil.colormybattery
 Architecture: iphoneos-arm64e
@@ -1750,6 +1784,23 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/com.dvntm.showmytouches_1.1_iphoneos-arm64.deb
+Size: 52102
+MD5sum: 09897321d3732f4c4c2d66df3c4242a8
+SHA1: 97b810ae8098c1054361a21e8ee33521932d2173
+SHA256: 41bde783e16200f3867f3bf727d5f516427117f0b4666e1e59e2440ef0095b41
+SHA512: e64a2764d56ecba62378907181d874942f4fce0fb6841c209855c1bc607c21ce9e9753457beed9e498fbab359eef1e2b4dbb73d9c575c5c71c37dc4bba673f5d
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
