@@ -1212,6 +1212,361 @@ Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
 
+Package: com.amywhile.aemulo
+Architecture: iphoneos-arm64e
+Version: 2.0-82b9fb9
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 1720
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debians/roothide/com.amywhile.aemulo_2.0-82b9fb9_iphoneos-arm64e.deb
+Size: 645346
+MD5sum: 2f0f047f97b64b5869979d7a6d81f737
+SHA1: 4260b36d851ee7ba670a8f0af964a251b0ccd4f7
+SHA256: 3bb647709442a09ee3a7fb186513e094036fe3335c09d524af4ff05f8fc25fae
+SHA512: 3a3bdd2a130d637eb13173a5cdaf729491597cf9026ac99b538984f445e0bc67bf28472a5c73ccb4afbb69b48c5cf876ea9169f66d02beb49dafede88a73af56
+Description: NFC Frickery
+Name: Aemulo
+Author: Amy While <support@anamy.gay>
+Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+
+Package: com.anubistweaks.keyswipe11
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: AnubisTweaks
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Filename: ./debians/roothide/com.anubistweaks.keyswipe11_1.0.3_iphoneos-arm64e.deb
+Size: 14576
+MD5sum: cc4b12c7cdc8ef873fa2e5e4d7e1d873
+SHA1: 6249cc7db9d824f772580d01df135327e203ff0a
+SHA256: b134d84efedefa8e0748e406989d1a9fb5c66b944d26444303d4ae781c48b5fc
+SHA512: 896c0215f98181cd037f8bcd6f7a92810dea245ad16eb32ad256ef696b50a23b4c49f87ab30afa3bef32ff46aaaa256aefbf13c29876505d9df25e3bfa716bc0
+Description: change keyboard by swiping up/down
+Author: Delewhopper, julioverne ,AnubisTweaks
+Name: KeySwipe (iOS 11) (rootless)
+dev: delewhopper
+Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
+
+Package: com.atwiiks.betterccxi
+Architecture: iphoneos-arm64e
+Version: 1.6.0
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 640
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/roothide/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64e.deb
+Size: 106208
+MD5sum: be275793116ba3bad0976867fff95a5d
+SHA1: 163f69ee88556c7161bbf0c110a1eed4f6fc910b
+SHA256: 63ea232eae02e612f5895296c94d07a7d3335211c408f428c242b8714cb4f8ac
+SHA512: 862ece67b74d4234629ce684356964ba9ed57bfb5f11453a78295cc47bb25d6d640d5eed8d56b589b6a72a4ae8839d303678bd698e884b99d3a2032acd0f941a
+Description: Enhance your control center on iOS 11 and iOS 12
+Name: BetterCCXI
+Author: ATWiiks
+
+Package: com.brend0n.nopastedfrom
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.brend0n.nopastedfrom_0.0.1_iphoneos-arm64e.deb
+Size: 4398
+MD5sum: 45b5d21e2d47f94eb21bff6499e72234
+SHA1: ae58d30e870c39ad19af687fc14a848e07d261dc
+SHA256: 254fe51c08772cb32879b69271517d74f238a1426be4b3dafea8cb5cfc379ec3
+SHA512: e2af52955f81db8b8c05ab55d64967d37164343f14f11f82b0c36017812390b2887e518c14a6c5d703922933a8119c04ff46d53152a74b7be61d731903a3860a
+Description: No "XX pasted from YY"
+Name: NoPastedFrom
+Author: Brend0n <brendonjkding@126.com>
+
+Package: com.brend0n.noslidetochangevolumeandbrightness
+Architecture: iphoneos-arm64e
+Version: 0.0.1r2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.brend0n.noslidetochangevolumeandbrightness_0.0.1r2_iphoneos-arm64e.deb
+Size: 81476
+MD5sum: 5861ee58f9e1f4c20d925cea77b42b24
+SHA1: 0562dd67a88240ee618869b8875444a881a3fd93
+SHA256: 9eff4d94a245afdebcc12a4065ebefe17bd09941aaddd3706ac90d16a11fcab8
+SHA512: 1cd7751e762336d0603af1e46dbd1666617316f4d272c7972360b7c0f2e917349b14faee1a90d1bc0961fbebf2276dbf138d0f0dca97f235e913eccbb36e273d
+Description: Prevent apps from changing volume/brightness
+Name: NoSlideToChangeVolumeAndBrightness
+Author: Brend0n <brendonjkding@126.com>
+
+Package: com.brend0n.redditnoad
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.brend0n.redditnoad_0.0.5_iphoneos-arm64e.deb
+Size: 8086
+MD5sum: bf41189f21356e266d28242d0df14747
+SHA1: 8f528972dcc76131aaa309a1e004192baf58a6ed
+SHA256: 365a62c95912e6c6cfbb2d78d78465c4f74e55d061654a3ac9fad29c418becd0
+SHA512: f0123dec3c4fecaa58e3c102e9b1dfc2921b752115037af59789fc334cbd33d7c5449f46b47019fc5298e341a96301d3507a60b5e8c5257130abb68bfb104570
+Description: No Promoted AD
+Name: RedditNoAD(Beta)
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.redditnoad
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.redditnoad/depiction.json
+
+Package: com.creaturecoding.tweaksettings
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Priority: optional
+Section: Applications
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debians/roothide/com.creaturecoding.tweaksettings_1.0.8_iphoneos-arm64e.deb
+Size: 449208
+MD5sum: a53229b1a30232bcfc06c20bf1b6cd2d
+SHA1: 2974763896d3463a86123df2d64c526df8f4679e
+SHA256: 61604526f513e358da4d34cd1db4be2cc204dcc00e100581fea14b05a4156833
+SHA512: 8749c75b16a4ad3093e6c3ebed47551a846aa1a2693569d20cc05cc7146df1414a6ef566548476ce39c8afa5bf96dc492b8d097cacec3c33de58cf6dd03fbb81
+Homepage: https://creaturecoding.com/
+Description: Dedicated settings app for tweaks
+Tag: purpose::application, compatible_min::ios10
+Name: TweakSettings
+Author: CreatureSurvive <support@creaturecoding.com>
+dev: CreatureSurvive
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+
+Package: com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 502
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 7.0), applist
+Filename: ./debians/roothide/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64e.deb
+Size: 117300
+MD5sum: df893851bad3cb52a3b4f39f3831e884
+SHA1: 048f31bb1f4ed9b01cb11f4f873fa937238e002c
+SHA256: 1fb53d2111771ae76180a50a774630f47371647b6cd414df91a3affdcedaf1e7
+SHA512: 102df776940ebcece63ca32223a8552394e105c5792ca47e403b57083e523a6c65ec2fb29cbd98c055102e4b52a2a27ef1a4495f2032174311826f8403bdd1d9
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolorpickerDp
+Description: A minimal color picker library for developers
+Tag: purpose::library, cydia::obsolete, compatible::ios10, compatible::ios11, compatible::ios12
+Name: libCSColorPicker
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolorpickerDp
+Author: CreatureSurvive <support@creaturecoding.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: creaturecoding
+
+Package: com.cydiageek.customlpm
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 610
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/roothide/com.cydiageek.customlpm_1.0.2_iphoneos-arm64e.deb
+Size: 78508
+MD5sum: f23a011634a04b2864c25260ed59f190
+SHA1: 0ce4c696f542049cb8f97a28cc82c79a03ab3f34
+SHA256: 9b19cf2e7d0c0b61ac0da05fd4868022b058380b3945e23a6930bc0293b6776f
+SHA512: 5662435392aadf5c87e68161f8c5b61b5e55f15c35c93f41018522a3c91ec54e7df9076607ec1cc9b366f7bee939ed2605c398caa5935c9ff143f4488e5cfc86
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Description: Customization for the Low Power Mode.
+Tag: purpose::extension
+Name: CustomLPM
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/CustomLPM.bundle/CustomLPM@2x.png
+
+Package: com.cydiageek.ermete
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debians/roothide/com.cydiageek.ermete_1.0.5_iphoneos-arm64e.deb
+Size: 50516
+MD5sum: 05ff51d09b693ca8b2f5b4d4369bcb8f
+SHA1: 9e81be583f532a0348caecd69d840cb921cda10b
+SHA256: 98ea8e860f14e4366181ea636905ad305b4f653411374e21d6d4b36f921947e8
+SHA512: 8b8b7857ea2cf5a7318bcfc693f99fa996d16143d93df1081d8905d0bc27d635d8dbe1023d3602786614b868cfa7442553658ab94c320cbaec4f87f955397d04
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Description: Adjustable Speed Effects opening/closing Apps/Switcher!
+Tag: purpose::extension
+Name: Ermete
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
+
+Package: com.cydiageek.igimagesave
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 177
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debians/roothide/com.cydiageek.igimagesave_1.0.1_iphoneos-arm64e.deb
+Size: 8658
+MD5sum: 767ccdba3970f6d034706135a0522de9
+SHA1: 1e319e593d760eb5be234e79f50a810a218d7fab
+SHA256: 6fb699cdf695adf540cd2a21349dc6e4eb379d8a549db4476ae33c7780d98781
+SHA512: 7d43b57354fa5decd2d79c31c153a886d6a3ed746b37627af04f1eba7c9271821d4fc24e93b719118f65b3e53367800e19b21db06e8b393a559bd09b58997dcb
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igimagesaveDp
+Description: Save Instagram Feed/Stories Pictures!
+Tag: purpose::extension
+Name: IGImageSave
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igimagesaveDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
+Package: com.cydiageek.myswitches
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 506
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debians/roothide/com.cydiageek.myswitches_1.0.7_iphoneos-arm64e.deb
+Size: 74388
+MD5sum: 138c82eba193fb963f716083864ab9b3
+SHA1: 65a40d8af92499c83c985129d0f4a263feea6564
+SHA256: 9f5e64693ba2e43fd55d7dacbe1330fcea251c7d3800d9e5e18723b52f9f20a5
+SHA512: fe24a1e0b0cb8df4b25a332cd2c0e3fb1405168789a399841a8fcef485b9baf08cf788df9cdc01dd72be6b6e7c00d24c3c0cbf4d55bf19d783bc07e12dc94bb9
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myswitchesDp
+Description: Custom options for the Switches on System Wide!
+Tag: purpose::extension
+Name: MySwitches
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myswitchesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/MySwitches.bundle/MySwitches@2x.png
+
+Package: com.cydiageek.nomoredisabled
+Architecture: iphoneos-arm64e
+Version: 1.0.2-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 289
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debians/roothide/com.cydiageek.nomoredisabled_1.0.2-1_iphoneos-arm64e.deb
+Size: 6840
+MD5sum: aac9928c899b1098a3066a7f81f9f1e4
+SHA1: db887199ce6ccb53929645a371485d1143fbd618
+SHA256: f04a55776e4ad653ed77480fb1888efa66f34852240b269fc02b7571b2366ee3
+SHA512: adb5e7d1271f05c08c0efdcc3704b22425a317ab33a75a25c0bd9cbec397315910428832afa38ddc82242e4cfb54c4d15fd02a7242e0a3a78bdf0df78ffff6ad
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Description: Prevent Permanent Passcode Locking by Mistake!
+Tag: purpose::extension
+Name: NoMoreDisabled
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
+Package: com.cydiageek.playmusiconrecord
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Filename: ./debians/roothide/com.cydiageek.playmusiconrecord_1.0.4_iphoneos-arm64e.deb
+Size: 48650
+MD5sum: 8fb813b2839b7517226d204af64d1080
+SHA1: f61772254827420b5ae847bf76ce16f017e20e96
+SHA256: cc37cfc16030539f595a57c0befcaa521cc7a1bbd2a32ae2c2f95df84b28fac9
+SHA512: d0458991d67703c6d6b10fbc898d0a653f2f0bcb8bdc14a188eb5fcd733086e32c53f8b22c7981ca281b3881b3c95761a554de2cc6193c105a66700621d8e7ac
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=playmusiconrecordDp
+Description: Disable Music/Audio from stopping when recording Videos!
+Tag: purpose::extension
+Name: PlayMusicOnRecord
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=playmusiconrecordDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/PlayMusicOnRecord.bundle/PlayMusicOnRecord@2x.png
+
+Package: com.cydiageek.tabbaraptic
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 757
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/roothide/com.cydiageek.tabbaraptic_1.0.3_iphoneos-arm64e.deb
+Size: 76978
+MD5sum: e9d226d6918458e7c4b8e796b99088d7
+SHA1: 23cf09fa497a1f23951caaf8f23bfce003393d31
+SHA256: 75489ab9dce423bc98cc87024410d55d804b56931574f9fca4066282efba9175
+SHA512: 797f4c630468bd7a72daccd4d53fb4c7526e9229f55093b5097994c05a9925fdb1a6fdd1ec2b7456856a1df2d225657a53751c31566f4349ef3f418606af1984
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tabbarapticDp
+Description: Haptics when Tapping on TabBars!
+Tag: purpose::extension
+Name: TabBaraptic
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tabbarapticDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/TabBaraptic.bundle/icon@2x.png
+
+Package: com.daodao.sugarcane
+Architecture: iphoneos-arm64e
+Version: 1.2.4.2
+Section: 嗨-工具
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.ioscreatix.sugarcane
+Filename: ./debians/roothide/com.daodao.sugarcane_1.2.4.2_iphoneos-arm64e.deb
+Size: 10708
+MD5sum: 3a14cdbbbfbacac932e5febbd9063341
+SHA1: d068e1cbef6547c6541405fbb778b1a2b2f3e228
+SHA256: ef1896e855aac16f3c4e4d03be695b543715885e28915ed57ecbe6e1f83e8d79
+SHA512: d3eb1cb77b7584093896902a8aaf7e8f4f42db9dadeb22a66487b0e0cc7064bb85dba322b5b1ce44d3ce57439982f4694c30282c76c7844eeb89db66e45d3a55
+Description: 控制中心音量/亮度条添加数字百分比。Skypain基于P2KDev大佬开源，调小百分比字体大小为12号。
+Name: SugarCane 15(rootless)
+Author: iOS Creatix, kasiimh1, p2kdev
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -1264,6 +1619,24 @@ SHA512: d0b6dc530788a7a1ae37d7692e025e47e296b484516948dcabf6f2c969f802f38d91e706
 Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
+
+Package: com.eevee.youtubefix
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.eevee.youtubefix_1.0_iphoneos-arm64e.deb
+Size: 4750
+MD5sum: 68b7172110e5a8486819644bff4d242e
+SHA1: 4df089996042a69587acac0b9c2ce1fda1a8e7ff
+SHA256: f28d078ab2c4bb0dde173fc688d9d8e88a477cad87b41dd5d6deba835d3b5bd3
+SHA512: dad1a74b1fc46f95a828ad376ce492605dd14da8b385c96c4ed6459511ecdc2aada97d7138422460b2be0ce52cb9fe47ef3f61ce497835e4dd2e30fab60b4a50
+Description: Fix YouTube images not loading
+Name: YouTube Fix
+Author: Eevee
 
 Package: com.imkpatil.colormybattery
 Architecture: iphoneos-arm64e
