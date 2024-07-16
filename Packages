@@ -1272,6 +1272,24 @@ Description: Enhance your control center on iOS 11 and iOS 12
 Name: BetterCCXI
 Author: ATWiiks
 
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-1+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/roothide/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64e.deb
+Size: 21387374
+MD5sum: 9133e71370573924b24d32a9a06d31f9
+SHA1: 6f1c88ec4345e83af62d5b5aa55666444a364ca7
+SHA256: 0128c05bda0dcc707203985784e89ac02fb8cfd95edf88bc17f4669b20056a16
+SHA512: fa0866c5f9522f2d04522005efdc33c29ae677f71b9d4fccda7a88d0c980cc354d86d64c332b417b78de3026831977edb7ff2dc2e70af27580ba6ccedd8ac13c
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
 Package: com.brend0n.nopastedfrom
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -1637,6 +1655,68 @@ SHA512: dad1a74b1fc46f95a828ad376ce492605dd14da8b385c96c4ed6459511ecdc2aada97d71
 Description: Fix YouTube images not loading
 Name: YouTube Fix
 Author: Eevee
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64e
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debians/roothide/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 2500328
+MD5sum: c758e9fd7da862347281763073ae3b04
+SHA1: bed625b39e534e6cd166af161aadb54367b8e2af
+SHA256: 8d2f7f969ab51b1193acd2aa5bd8fe5e391e8799d9bc6ea77c8c116fbe46798d
+SHA512: 03539217a9c7b7f44c879e2ededd9243816a2d9bcd76d68007912aef4bf9b6c7901916e562f357f1656fa110805f61086ae3671e4b00968b2831cd3849f632be
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.4.28
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
+Filename: ./debians/roothide/com.f0u4d.watusitools_2.4.28_iphoneos-arm64e.deb
+Size: 12077080
+MD5sum: 61b178f17ab8113adf8e987808ff1399
+SHA1: 07fb37004f5b37382f442a458130faee0661df39
+SHA256: c667710249248d1881739d36e9376e3cdc87bb21c4a963d737fabe3d29a4c13d
+SHA512: 4cd41200f1cb4fd55c7721b481ebc188a4f5b37c962f8b8244cad8d5323fbbbcfd8cebd6a963b51022b41ec323599636cdc1c7c8ecde0a8d33ee95845d05f848
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.36
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6644
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.27)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouad, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.fouackyou, xyz.cypwn.fouackoff, xyz.cypwn.fr33gram, xyz.cypwn.freegram235290, xyz.cypwn.fouackoff147162
+Filename: ./debians/roothide/com.fouadraheb.watusi3_1.2.36_iphoneos-arm64e.deb
+Size: 4778226
+MD5sum: 97cee98e0d62318e9b4229751618ba15
+SHA1: 393834904d56588831a5fbbcfc02afdc7469b13b
+SHA256: 1cb38e5658a59bdb6111c3237ccc75ceb17c179ae9301a8fc51d9ef6053ca94e
+SHA512: 701f9ec38917bc37e24b3ab99a50a9d1027a768fc4f89d672444d00729473b0f91e9cedab98607f82e4309297f00c9f0147bb4fe90f08b05b7f0663bf1ac4e74
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
 Package: com.imkpatil.colormybattery
 Architecture: iphoneos-arm64e
