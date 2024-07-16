@@ -833,6 +833,171 @@ Description: Fix Network Issue for CN Device
 Name: Renet - Network Fix
 Author: Tinyapps.cn
 
+Package: byg.iosios.net.cpudasher.rootless
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: 自研插件
+Maintainer: 搬运工
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/byg.iosios.net.cpudasher.rootless_0.0.1_iphoneos-arm64e.deb
+Size: 4394
+MD5sum: 5c0e71500f1c3f2fdf7b3b81f37a35e5
+SHA1: 73a96b68071856a3e6c68e19bbb6e650816e5555
+SHA256: 6fe428ca005a93bfea506e4687753f4c3a3138fb569819f8801798ad8f067f47
+SHA512: 3887f5920bdfbc81ca846663f6eeb5882acf5492947da1b04dbef717e6d2808f26d31bc48d2b71c730b8b6a476db68ae0a2d7b3f4bdae777e9b3af36902ac2b0
+Description: 解锁专业版，插件无任何弹窗！由搬运工源iOSign免费首发，如需转载，请留出处，谢谢！搬运工源只为给大家带来更多更好的插件！
+Name: CPU Dasher 破解-Rootless
+Author: iOSign
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: ch.xxtou.hudapp.jb
+Architecture: iphoneos-arm64e
+Version: 1.12.0
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debians/roothide/ch.xxtou.hudapp.jb_1.12.0_iphoneos-arm64e.deb
+Size: 163118
+MD5sum: b7093c1c46cb31b99fd69c2a566b396d
+SHA1: 767bf7d690b56bfb17185e85cc622a3628db4acb
+SHA256: 7b2a4fa7a5dd41cb4818dc009546d40fef08dfe6f8489639dc79b4d02e81f2d9
+SHA512: 69ada66ddaaee123ba0d5cfbd4e752ec94c8a562bf151ccd67b15d38543cf4c19dca43431161d125c599e728f607f04ba6b4cda1e962887d8b9428ded89485f3
+Description: Troll your speed, but jailbroken.
+Name: TrollSpeed JB
+Author: Lessica <82flex@gmail.com>
+
+Package: cn.tinyapps.respringassistant
+Architecture: iphoneos-arm64e
+Version: 1.7.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 836
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/cn.tinyapps.respringassistant_1.7.1_iphoneos-arm64e.deb
+Size: 311678
+MD5sum: 2a24f9430c1e37d1ca6ac11b5fd7ee58
+SHA1: 2066c2a285a2d1cd17c1feeb7a65b215e9a0156f
+SHA256: 881a878cb618ad3d868d10436bea02448c6b0511d55e43f15bf659f516e3f26d
+SHA512: 9fb6a963183d0b71d9d5732e764fa37cd073711343adf49e0d577c01ee4895a2cc9aa2563b6b84783605807e024c6e951b739501fd770f4b32386b18b45f6a52
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respringassistantDp
+Description: [快速注销+联网修复]Restart your SpringBoard&Refresh App Icons& Fix network[for iOS 15-iOS16] for Rootless 支持无根越狱 快速重启SpringBoard，注销设备；一键刷新桌面的应用图标；修复越狱后无法联网问题
+Tag: purpose::extension, role::enduser
+Author: Tinyapps.cn <tinyapps@qq.com>
+Name: Respring Assistant-Rootless无根越狱(快速注销+联网修复) - Restart your SpringBoard QUICKLY, Refresh App Icons EASILY, Restore network
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respringassistantDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: shengwen
+Icon: file:///var/jb/Applications/Rehosts.app/Icon.png
+
+Package: cn.zqbb.disupdateapp
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 740
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debians/roothide/cn.zqbb.disupdateapp_1.0-2_iphoneos-arm64e.deb
+Size: 166648
+MD5sum: 755e4ed8f32549c4e5d77251dcb26f2b
+SHA1: e39616ccfde6cc6cca5f2227453a7f2faac8e09d
+SHA256: 3d438620bec0770ee924c25f35c8e4142e5da3ea03defa0c450df7e72d79a7d7
+SHA512: 58e83c7f14083ad2833ab9a769b594e023fd85629c0cc6b5d808c73da5886aa09fc0253539222d3e132883e1493257f12879d8ed3b071a7d646828a3db150143
+Description: 屏蔽App Store更新提示(Block App Store Updates)!
+Name: Hello App
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64e
+Version: 1.2.0-36-3
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 1484
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debians/roothide/cn.zqbb.fix120hz_1.2.0-36-3_iphoneos-arm64e.deb
+Size: 462724
+MD5sum: f65f032e901e641a07da44ea7cac7e2c
+SHA1: 40680fc92e4e13a41f35f5d140d9cac4f78ae158
+SHA256: 803d46b5e9b85dfcd3d690a367d91184feba4f619f8b0380b39bc8b4af975a08
+SHA512: bacc358bfaa02684edbf2ee36a861e94cd6275ab0cef6a87cb96536808f736a9ba432558fa650f5e2e0c90399d2a66d672a831867e38157c880c4319fd513fdc
+Description: 
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.hellojoker
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/roothide/cn.zqbb.hellojoker_1.0.3_iphoneos-arm64e.deb
+Size: 130246
+MD5sum: 886aab5028f5bf2f98ce6d2d02a26fcf
+SHA1: 0505f4ff4823f82ed33a59d410ece1aa910ac57c
+SHA256: 3a44c4529faa30e77fb96d714237ce69bc2391708d3e7cf67fb310dc536e24f5
+SHA512: 4b9aa4d45746f2a505f5935101ec037c514a8891812e158627b03d8b73baca189a50585bc83f4e1df9bb50317a5ad044eebb12909fce246f0f0507b01f2f7096
+Description: 禁止检测越狱App
+Author: zqbb
+Name: Hello Joker
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellojoker
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hellojoker
+
+Package: cn.zqbb.holdcpu
+Architecture: iphoneos-arm64e
+Version: 2.0.0-13
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 3984
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.yourepo.0xash.powercuff, byg.iosios.net.powercuff, com.dao.powercuff, com.rpetrich.powercuff, com.yourepo.0xash.devicemonitor, com.yourepo.0xash.fuckthermal, com.shadow.fuckthermal, com.dao.fuckthermal, byg.iosios.net.monitor, byg.iosios.net.disablethermalmonitord, com.nan.disablethermalmonitord
+Filename: ./debians/roothide/cn.zqbb.holdcpu_2.0.0-13_iphoneos-arm64e.deb
+Size: 2570862
+MD5sum: 1beb5a74aaa00ef909abdbe3d5e22fb0
+SHA1: dc308486d678b9e1c5e7c490f79c271055ae98f3
+SHA256: 7ee6163c2c9a12e3e8fb5d46fd642f090e59950ce29267233877c191451d8496
+SHA512: 91f6fdd5e1936028b7f5e6c2823a1f73598797e54f53732674f8db59923e47eafa367c05400c025a7bc20b0397698467c1f4735847013ae55d1f73415da07275
+Description: (解除温控) (锁定低电量CPU频率)
+Name: Hello CPU
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.holdcpu
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.holdcpu
+
+Package: codes.aurora.ve
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 740
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/codes.aurora.ve_2.0_iphoneos-arm64e.deb
+Size: 90458
+MD5sum: 6fc9c8cf92660ef93b6adb35ce335f36
+SHA1: ff85039a841c0a00a5bce428db683f8cf6065c56
+SHA256: 0bdbd8284d005b8e66d55832552bc3bbbfd860d2b1ae776c8a11f932427d93e8
+SHA512: b95e2c9a0e4b0d600a5b8be1b7d76d44981b2005553418423f051e7877c79856ebc126e4c81b77cd354f2735ae1da2fd6b5e098f114637eb60b97f22c7c75969
+Description: Natively integrated notification logger.
+Name: Vē
+Author: Alexandra Aurora Göttlicher, 74k1_
+
 Package: com.0xkuj.3dappversionspoofer
 Architecture: iphoneos-arm64e
 Version: 1.3
@@ -848,6 +1013,82 @@ SHA256: 9e10961ac0dca691b1096fd040911892346466ed8fb0d367efe9c48bccae9200
 SHA512: b9c6ad937fc85d97e0b200c44653826f1a77f8594eed8fbf19809f655dc59093823f2b0af2b606220a475e799355f0743db066b9203a8dca9dd095c6800ba311
 Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
 Name: 3DAppVersionSpoofer
+Author: 0xkuj
+
+Package: com.0xkuj.backgrounderaction15autostate
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: jp.akusio.backgrounderaction15, com.opa334.altlist
+Filename: ./debians/roothide/com.0xkuj.backgrounderaction15autostate_1.0.3_iphoneos-arm64e.deb
+Size: 30480
+MD5sum: 22b34a54a5dc7a94ceaf485d54f97b1c
+SHA1: 500e602a763c2855b16f5bc226301646d9997f8b
+SHA256: 3451600e35319fee8e5f6102bb83348d46b4fcea298bcd95e11acb03e66c4ad6
+SHA512: 302d50d711e2c2c82cc799fc48e57de429d016d8bbdc57a2fe8cc81b3d8d53226a87def5af6d4d77cf0110cf9827518701df622e74ff7108204b39dc02260a4c
+Description: Save Action state for BackgrounderAction15 CC Toggle
+Name: BackgrounderAction15AutoState
+Author: 0xkuj
+
+Package: com.0xkuj.blockwaupdates
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.0xkuj.blockwaupdates_1.1_iphoneos-arm64e.deb
+Size: 4626
+MD5sum: 84acef5b252f57919fafbbe1560b5f53
+SHA1: 23f66f951f497d389d83bf504c8307ea84b08304
+SHA256: 7f31355204b9f863ff08b357875c6fe5a1d0cae284648b86b584ab179ebb0b87
+SHA512: 627daa8777900384415ff7174ce7c81944426bff21a05863eb92e6b0ab9f3da31673bd7b90b6a49e255af5ea7783e30703ed7fcb2c528bbdc1fd924795504f95
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Description: Blocks Whatsapp message saying you must update
+Tag: purpose::extension
+Author: 0xkuj <kujmank@gmail.com>
+Name: Block WA Updates
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: 0xkuj
+
+Package: com.0xkuj.installdpkg
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: System
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dpkg
+Filename: ./debians/roothide/com.0xkuj.installdpkg_1.1_iphoneos-arm64e.deb
+Size: 1286
+MD5sum: c6f2165fd42bea38827453f6d0dde53d
+SHA1: a167d32a8ecd670609a72dd6cac2607045b55e9e
+SHA256: c8b044156c26821a8ea6ead49839d0c464391fafd09f00082bbd272cfedc03df
+SHA512: 8f7573923571713c5c0ad1c80f7c04afee2dc8e5fc122a9a41802db5921c2035be564802929f4505ec9da805acee2f838acbb6cf24066d7ec898c3ffbe61e6d2
+Description: Install deb files from Filza
+Name: Filza Deb Installer Script
+Author: 0xkuj
+
+Package: com.0xkuj.snoozelabels
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.0xkuj.snoozelabels_1.0.0_iphoneos-arm64e.deb
+Size: 7408
+MD5sum: 74606515d20009ab929670f204ef15bd
+SHA1: d7fac0fb4930a8411c040f6b0803840ad051577f
+SHA256: 986a8629b0775b4746c2c4d8f2b21ef3ed05b93784ec7fbfe7c2922a5f43fc71
+SHA512: b28cf4a172f2ac29fab8f3739a2d4e42460b2919e9244e26032e1cdff64a7ec62c8bb79c8d232dd130d38be09a253d272ee7a36b4e1731f3b363b3f35d2debbe
+Description: Replace the snoozing title for your alarms with your actual alarm label
+Name: SnoozeLabels
 Author: 0xkuj
 
 Package: com.34306.2nd
