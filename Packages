@@ -1107,6 +1107,59 @@ Description: Add second line to your time on statusbar
 Name: 2nd
 Author: 34306
 
+Package: com.34306.facedrl
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.34306.facedrl_1.0_iphoneos-arm64e.deb
+Size: 6256
+MD5sum: 9c35624b2fff05306f251ce6d249bfb9
+SHA1: 49bfe69eb40db3670f9f3adbcddd09420d777dd5
+SHA256: 0ec0bdb7f175fdd288b55ad915496e4bc150d869c1f1c68bb65314196c36fb73
+SHA512: 85fd87020d95722d8a8f2d81fce3a332381da63046e2fb77320d0b4b300d4c1d63307fb49cfd67d362759945d506750afebcf671523b846aa6ac806b707fb2e2
+Description: A simple tweak that disable ads on facebook. Support rootless
+Name: Faced rootless
+Author: 34306
+
+Package: com.34306.messed
+Architecture: iphoneos-arm64e
+Version: 3.0
+Maintainer: Little 34306
+Installed-Size: 76
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.34306.messed_3.0_iphoneos-arm64e.deb
+Size: 7974
+MD5sum: f5c7e430dfe86ec2f144ec88e0c72dcb
+SHA1: 83d09b236f409578b2306a99a7897b7c194803fa
+SHA256: 8af4558230df4383a713511b672c33e2db9aa3adc53334b34930ba789756d3f4
+SHA512: 142f5ad2788fe0cbd9aaf167d33c585cf18c1a656e256f83c6dc76b82a142da41980237beb4bb8a8a4bc0da16af0c0c95c91c7469b23c4bfaedae48fe2e2c9b9
+Description: Messed
+Name: Messed
+Author: 34306
+
+Package: com.34306.replaced
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/roothide/com.34306.replaced_1.0_iphoneos-arm64e.deb
+Size: 4460
+MD5sum: 407141c50b9fe41994b4e845b37dff9c
+SHA1: be67d524654f5b26d0ae481dbb2f31ecddd5b44f
+SHA256: 7bc7b11819ba61cf6ec8f214780ffd94765e5517af51907498481e744d5155b8
+SHA512: efdda9c46114021c90a353c613b0e633f245cc1ee35be99b74aa6f1843dd41c9912c051506729a7444ca967c8189bbaa71e5417c48461881fb3546e7231b6d93
+Description: Remove the notification that the P
+Name: replaced
+Author: 34306
+
 Package: com.34306.swiped
 Architecture: iphoneos-arm64e
 Version: 1.0-6+debug
@@ -1121,6 +1174,42 @@ SHA256: 25948793c6d02811606385a37843555c669097fa5f0e933510961a12bde382c3
 SHA512: 5e1a873784af11ef4ea35a0684a785f5e7c0c298ffc7beed499e19e531f9d5dafd9b2def137df4d898a3c3ed89ad3ce5d80d51f758d79e5425bec6b51c0980f0
 Description: Swiped!
 Name: Swiped
+Author: 34306
+
+Package: com.34306.swiped
+Architecture: iphoneos-arm64e
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 328
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.34306.swiped_1.0-8+debug_iphoneos-arm64e.deb
+Size: 15846
+MD5sum: d108a5edc9c442c6821936f179f463d3
+SHA1: 4d1b82a4425ae1159c910ff8580f1b94ad484af3
+SHA256: 6c47c325b379b8a44efda7683787dfc05e80066448f59ba803900ecc2c8eacd0
+SHA512: 9db0a0c1f019f1d943175031824af038f3deccb348e8ffc487e446625752af315894fa0b10878351a5018df6d9bfdfe3e0bd46f5f94ae6e1f411a030920087c3
+Description: Swiped!
+Name: Swiped
+Author: 34306
+
+Package: com.34306.youtubedrl
+Architecture: iphoneos-arm64e
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.34306.youtubedrl_1.0-1+debug_iphoneos-arm64e.deb
+Size: 5262
+MD5sum: 56990a2b13681549abefe38fe26ea53a
+SHA1: fd40f050b4eeeb2057b8f4c0d75d8d44c9b532e2
+SHA256: d5b66d50f1127274aaed7f23d50b74bc72508ed532920b1a154175b014917a10
+SHA512: 91e3ffa88c63631b1f796571b734d6627393d2ce6a83c77764231246584059765103a7c98c3cf91f70ad9bc29665c26d86007d8fdf1acc85fae4a85b195e2795
+Description: You'll never seen Ads in Never gonna give you up anymore!
+Name: Youtubed rootless
 Author: 34306
 
 Package: com.dvntm.showmytouches
