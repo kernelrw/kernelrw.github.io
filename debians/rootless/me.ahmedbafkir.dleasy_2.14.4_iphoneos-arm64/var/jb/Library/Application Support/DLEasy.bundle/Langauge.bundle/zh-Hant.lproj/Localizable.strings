@@ -1,0 +1,139 @@
+/* ################################## */
+
+/*## DLEASY SETTINGS ##*/
+
+"IGNORE_GET_UPDATE" = "顯示開關";
+"EXPLINE_IGNORE_OPTION" = "使用開關切換\n可以 開啟/關閉 功能\n而不是跳到 AppStore 取得/更新 應用程式";
+"DIVERSE_HEADER" = "其它";
+"GENERAL_SETTINGS_SECTION" = "一般設定";
+"RESET_HEADER" = "Reset";
+"RESET_SETTINGS_CELL" = "Reset Settings";
+"COMPATIBLE_VERSIONS" = "支援版本";
+"COMPATIBLE_APPS_VERSIONS" = "可以支援的應用程式";
+"CONTRIBUTE" = "貢獻人員";
+"CREDITS" = "特別感謝";
+"DEVELOPER" = "開發作者";
+"AHMEDBAFKIR" = "AhmedBafkir";
+
+"YOUTUBE_APP_SECTION" = "YouTube 相關設定";
+"CUSTOM_ALBUM" = "自定相簿";
+"DLEASY_ALBUM" = "DLEasy 相簿";
+"DLEASY_ALBUM_DESC" = "使用 DLEasy 下載影片或照片\n將會儲存到一個名稱為 DLEasy 的相簿中\n方便日後瀏覽";
+"SHARE_MEDIA_FOOTER" = "可以在下載後直接分享媒體檔案";
+"SHARE_MEDIA" = "分享媒體檔案";
+"NOTIFICATIONS" = "通知";
+"NOTIFICATIONS_FOOTER" = "下載完成時通知";
+
+"REMOVE_ADS_YOUTUBE" = "移除廣告";
+"REMOVE_ADS_YOUTUBE_FOOTER" = "移除影片中的任何廣告";
+"PLAY_IN_BG_YOUTUBE" = "背景播放";
+"PLAY_IN_BG_YOUTUBE_FOOTER" = "當離開應用後，影片會持續在背景播放";
+"IMPORT_VIDEO_FOOTER" = "此功能僅限於\n從 YouTube 所下載的音訊檔案";
+"IMPORT_VIDEO" = "匯入至音樂應用程式";
+"SAVE_AUTO_MEDIA_YOUTUBE" = "YouTube 自動儲存設定";
+"SAVE_AUTO_MEDIA_YOUTUBE_FOOTER" = "1. 從 YouTube 下載的影片，將自動儲存到照片應用程式，後續可在 YouTube 下方 DLEasy 功能標籤欄，對下載完成的檔案做存取\n\n2. 下載影片&音訊完成時，會出現匯入編輯提醒";
+
+"IMPORTANT_APP_INFO" = "以上所顯示的應用程式版本號\n是最符合您所使用的 DLEasy 版本\n\n當然之前或之後的版本號，也有可能支援\n但為了避免出錯，請依照上面的版本號\n\n提示: 使用 App Admin 或 AppStore++ 降級";
+
+"SUPPORT_LANGUAGES" = "翻譯人員";
+"ICON_MAKER" = "DLEasy 圖示";
+
+"CONNECTION" = "驗證授權中...\n請確認您已經連線到網路";
+"CONNECTION_NOTE" = "注意事項\n如果您已連上網路,並且看到此訊息\n請您確認看看有沒有關閉到\n設定 - 行動服務裡的行動數據。";
+"SOMTHING_WRONG_IN_SERVER" = "您所請求下載的內容，與伺服器不相符";
+"PIRATED" = "您所使用的 DLEasy 版本，似乎是非官方(盜版)\n請從 Packix 軟體源下載，以獲得最完整的功能";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## IN APPS ##*/
+
+/*@ SCLAlertView @*/
+"SCL_DONE" = "完成";
+"SCL_VIDEO" = "您現在可以透過長按影片下載";
+"SCL_PHOTO" = "您現在可以透過長按照片下載";
+"SCL_STORY" = "您現在可以在 影片/圖片 中長按，下載限時動態";
+"SCL_INSTAGRAM" = "您現在可以在 影片/圖片 中長按下載，適用於 限時動態 & IGTV";
+"SCL_TWITCH" = "您只需要在影片中長按，即可下載剪輯";
+"SCL_TWITTER" = "您現在可以在全螢幕透過長按影片或GIF圖片下載(支援私人訊息)";
+"SCL_WHATSAPP" = "請按右上角三個點的按鈕，得以儲存狀態";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "成功";
+"HUD_IMPORT" = "匯入完成";
+"HUD_COPIED" = "複製成功";
+"HUD_WAITING" = "請稍後...";
+"HUD_ERROR" = "錯誤!";
+"HUD_CONNECTION" = "目前沒有網路!";
+"HUD_DOWNLOADING" = "下載中...";
+"HUD_DOWNLOADING_VIDEO" = "影片\n下載中...(1/2)";
+"HUD_DOWNLOADING_AUDIO" = "音訊\n下載中...(2/2)";
+"HUD_DOWNLOADING_ALL" = "全部\n下載中...";
+"HUD_FETCHING_LINKS" = "取得網址...";
+"HUD_MERGING_FILES" = "Merging files..";
+"HUD_CANCEL" = "取消";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "好";
+"ALERT_IMPORT_BUTTON" = "匯入";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "不支援同時間下載多個 影片 / 音訊，請等待下載完成";
+"ALERT_IMPORT_VIDEO" = "您想要將影片匯入到音樂應用程式嗎?";
+"ALERT_QUALITY_SUPPORT" = "此畫質不支援下載，請選擇其它畫質";
+
+/*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "選擇下一步動作";
+"ACTION_VIDEO_TITLE" = "選擇影片畫質";
+"ACTION_IMAGE_TITLE" = "選擇圖片解析度";
+"ACTION_AUDIO_RENAME" = "重新命名";
+"ACTION_SAVE" = "儲存";
+"ACTION_DOWNLOAD" = "Download";
+"ACTION_VIDEO" = "影片";
+"ACTION_AUDIO" = "音訊";
+"ACTION_DEFAULT_OPTIONS" = "預設選項";
+"ACTION_ITEM" = "下載這個項目";
+"ACTION_ALL_ITEMS" = "下載所有項目";
+"ACTION_GIF" = "GIF 圖片";
+"ACTION_MORE" = "更多";
+"ACTION_COPY_TEXT" = "複製文字";
+"ACTION_SHARE" = "分享";
+"ACTION_QUALITY_HD" = "HD";
+"ACTION_QUALITY_SD" = "SD";
+"ACTION_CANCEL" = "取消";
+"ACTION_DISMISS" = "Dismiss";
+"ACTION_SEND" = "Send";
+
+
+/*@ IMPORT PAGE @*/
+"IMPORT_BUTTON" = "匯入至音樂";
+"CANCEL_BUTTON" = "取消";
+"ARTWORK_IMAGE_LABEL" = "點擊新增到 Artwork";
+"SONG_LABEL" = "音樂";
+"ALBUM_LABEL" = "專輯";
+"TRACK_LABEL" = "音軌";
+"ARTIST_LABEL" = "演出者";
+"YEAR_LABEL" = "年份";
+"GENRE_LABEL" = "內容類型";
+
+/*@ YOUTUBE @*/
+"DOWNLOADS" = "Downloads";
+"NO_DOWNLOADS" = "No Downloads";
+"ACTION_PLAY" = "播放";
+"ACTION_DELETE" = "刪除";
+
+/*@ Notification @*/
+"DOWNLOAD_IS_COMPLETE" = "下載完畢";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## SPRINGBOARD ##*/
+
+/*@ ALERT MESSAGE @*/
+"ALERT_MESSAGE_FIRST_INASTALL" = "感謝您安裝 DLEasy!\n請到設定-開啟 DLEasy 驗證";
+"ALERT_MESSAGE_PIRATED" = "您所使用的 DLEasy 版本，似乎是非官方(盜版)\n請從 Packix 軟體源下載，以獲得最完整的功能";
+
+/* ---------------------------------- */
+
+/* ################################## */

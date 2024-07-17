@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Filter</key>
+	<dict>
+		<key>Bundles</key>
+		<array>
+			<string>com.apple.Preferences</string>
+			<string>com.apple.springboard</string>
+			<string>net.whatsapp.WhatsAppSMB</string>
+		</array>
+		<key>Executables</key>
+		<array>
+			<string>Instagram</string>
+			<string>Twitter</string>
+			<string>YouTube</string>
+			<string>WhatsApp</string>
+			<string>واتساب</string>
+			<string>TikTok</string>
+			<string>LIKE</string>
+			<string>LinkedIn</string>
+			<string>Facebook</string>
+			<string>Tumblr</string>
+			<string>Tweetbot</string>
+			<string>Messenger</string>
+			<string>Consumer</string>
+			<string>RedditApp</string>
+			<string>VKClient</string>
+			<string>Twitch</string>
+			<string>Pinterest</string>
+			<string>Jodel</string>
+			<string>Flickr</string>
+		</array>
+	</dict>
+</dict>
+</plist>

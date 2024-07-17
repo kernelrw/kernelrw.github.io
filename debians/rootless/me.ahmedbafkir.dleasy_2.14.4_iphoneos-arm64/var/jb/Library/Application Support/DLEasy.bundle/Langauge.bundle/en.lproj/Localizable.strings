@@ -1,0 +1,162 @@
+/* ################################## */
+
+/*## DLEASY SETTINGS ##*/
+
+"OLD_VERSION" = "This version is no longer supported, please update.";
+"IGNORE_GET_UPDATE" = "Show Toggles";
+"EXPLINE_IGNORE_OPTION" = "Enable this option to show you the toggles that can be used to Enable/Disable apps instead of “GET/UPDATE”.";
+"DIVERSE_HEADER" = "Diverse";
+"GENERAL_SETTINGS_SECTION" = "General Settings";
+"RESET_HEADER" = "Reset";
+"RESET_SETTINGS_CELL" = "Reset Settings";
+"COMPATIBLE_VERSIONS" = "Compatible Versions";
+"COMPATIBLE_APPS_VERSIONS" = "Compatible Apps Versions";
+"CONTRIBUTE" = "Contribute";
+"CREDITS" = "Credits";
+"DEVELOPER" = "Developer";
+"AHMEDBAFKIR" = "AhmedBafkir";
+
+"YOUTUBE_APP_FOOTER" = "YouTube App";
+"YOUTUBE_APP_SECTION" = "Settings for YouTube";
+"CUSTOM_ALBUM" = "Custom Album";
+"DLEASY_ALBUM" = "DLEasy Album";
+"DLEASY_ALBUM_DESC" = "If Enabled, all images and videos saved by DLEasy will be saved in a special album in the Photo app called DLEasy Album, to facilitate access to the downloads.";
+"SHARE_MEDIA_FOOTER" = "Enable this option to share media quickly and easily after downloading.";
+"SHARE_MEDIA" = "Share Media";
+"NOTIFICATIONS" = "Notifications";
+"NOTIFICATIONS_FOOTER" = "Enable this option to be notified when the download is complete.";
+
+"REMOVE_ADS_YOUTUBE" = "Remove Ads";
+"REMOVE_ADS_YOUTUBE_FOOTER" = "Remove Advertising Ads that appear at the beginning and during the videos.";
+"PLAY_IN_BG_YOUTUBE" = "Background Playback";
+"PLAY_IN_BG_YOUTUBE_FOOTER" = "Videos continue to play in the background after exiting the app.";
+"IMPORT_VIDEO_FOOTER" = "Enable this option if you want to import videos from the YouTube to Music app.";
+"IMPORT_VIDEO" = "Import Video";
+"SAVE_AUTO_MEDIA_YOUTUBE" = "Automatic Save & Import for YouTube media";
+"SAVE_AUTO_MEDIA_YOUTUBE_FOOTER" = "If enabled, all videos downloaded from the YouTube app will be saved to the images app automatically, and an import alert will appear after downloading any video or audio (as before). You will still be able to access media from the added DLEasy Library tab in the bottom YouTube bar.";
+
+"IMPORTANT_APP_INFO" = "These are the best versions of apps that are compatible with the current version of DLEasy, the versions that before and after these versions may also be compatible but you should be stay on the versions listed above to be safe.\n\nTip: Use App Admin or AppStore++ to downgrade.";
+
+"SUPPORT_LANGUAGES" = "Support Languages";
+"ICON_MAKER" = "Icon";
+
+"REQUIRES_iOS12" = "DLEasy requires iOS 12 or later :(";
+"JAILBREAK_DETECTION_BYPASS" = "If you are using jailbreak detection bypass tweaks, please uncheck DLEasy from these tweaks so that works correctly.";
+"CONNECTION" = "Please make sure you are connected to the Internet to activate your purchase.";
+"CONNECTION_NOTE" = "Note: If you are connected to the Internet and you see this message, make sure that you didn’t block cellular data for Settings app.";
+"SOMTHING_WRONG_IN_SERVER" = "Something in the request did not match up with what the server was expecting.";
+"PIRATED" = "You seem to be using an Unofficial (Pirated) version of DLEasy, please purchase the official version from Havoc to get the full features of the tweak.";
+"LINK_DEVICE" = "Looks like your device is not linked, please link your device with your Havoc account.";
+"HAVOC_SITE" = "Go to Havoc";
+"STEPS_LINKING" = "Steps of linking device";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## IN APPS ##*/
+
+/*@ SCLAlertView @*/
+"SCL_DONE" = "Done";
+"SCL_VIDEO" = "You can now download by long press on video.";
+"SCL_PHOTO" = "You can now download by long press on photo.";
+"SCL_STORY" = "You can now download story by long press on video/photo.";
+"SCL_STORY_SU" = "You can now download story by swipe up on video/photo.";
+"SCL_INSTAGRAM" = "You can now download by long press on images or video and it applies to Story & IGTV.";
+"SCL_THREADS" = "Now you can download videos and profile picture by pressing the download button.";
+"SCL_TWITCH" = "You can download only Clips by long press on video";
+"SCL_TWITTER" = "You can now download by long press on video or Gifs in full screen and it applies to direct messages.";
+"SCL_WHATSAPP" = "To save status, press the three dots button at the top right.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "Success";
+"HUD_IMPORT" = "Imported";
+"HUD_COPIED" = "Copied";
+"HUD_WAITING" = "Please wait..";
+"HUD_ERROR" = "Error!";
+"HUD_CONNECTION" = "There is no internet!";
+"HUD_DOWNLOADING" = "Downloading..";
+"HUD_DOWNLOADING_VIDEO" = "Downloading\nVideo (1/2)";
+"HUD_DOWNLOADING_AUDIO" = "Downloading\nAudio (2/2)";
+"HUD_DOWNLOADING_ALL" = "Downloading\nAll..";
+"HUD_FETCHING_LINKS" = "Fetching\nlinks..";
+"HUD_MERGING_FILES" = "Merging files..";
+"HUD_CANCEL" = "Cancel";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "OK";
+"ALERT_IMPORT_BUTTON" = "Import";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Can't download more than one video/audio at the same time, Please wait for download to finish.";
+"ALERT_IMPORT_VIDEO" = "Do you want to import the video into the music app?";
+"ALERT_QUALITY_SUPPORT" = "This quality is not supported, select another quality.";
+"ALERT_DELETE_ALL_VIDEOS" = "Do you really want to delete all of your downloaded videos (%d videos)?";
+"ALERT_SAVE_ALL_VIDEOS" = "Do you really want to save all of your downloaded videos (%d videos)?";
+"ALERT_DELETE_ALL_AUDIOS" = "Do you really want to delete all of your downloaded audio files (%d audio files)?";
+"ALERT_WARNING" = "This action cannot be undone!";
+"ALERT_PHOTO_LIBRARY" = "Please allow the app to access the photo library";
+"ALERT_UNKNOWN_ERROR" = "An error occurred, please try again.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "What you want to do?";
+"ACTION_VIDEO_TITLE" = "Select Video Quality";
+"ACTION_IMAGE_TITLE" = "Select Image Quality";
+"ACTION_AUDIO_RENAME" = "Rename";
+"ACTION_SAVE" = "Save";
+"ACTION_DOWNLOAD" = "Download";
+"ACTION_VIDEO" = "Video";
+"ACTION_AUDIO" = "Audio";
+"ACTION_DEFAULT_OPTIONS" = "Default Options";
+"ACTION_ITEM" = "Download This Item";
+"ACTION_ALL_ITEMS" = "Download All Items";
+"ACTION_GIF" = "GIF";
+"ACTION_MORE" = "More";
+"ACTION_COPY_TEXT" = "Copy Text";
+"ACTION_SHARE" = "Share";
+"ACTION_QUALITY_HD" = "HD";
+"ACTION_QUALITY_SD" = "SD";
+"ACTION_CANCEL" = "Cancel";
+"ACTION_DISMISS" = "Dismiss";
+"ACTION_SEND" = "Send";
+
+
+/*@ IMPORT PAGE @*/
+"IMPORT_BUTTON" = "Import";
+"CANCEL_BUTTON" = "Cancel";
+"ARTWORK_IMAGE_LABEL" = "Click To Add Artwork";
+"SONG_LABEL" = "Song";
+"ALBUM_LABEL" = "Album";
+"TRACK_LABEL" = "Track";
+"ARTIST_LABEL" = "Artist";
+"YEAR_LABEL" = "Year";
+"GENRE_LABEL" = "Genre";
+
+/*@ YOUTUBE @*/
+"DOWNLOADS" = "Downloads";
+"NO_DOWNLOADS" = "No Downloads";
+"ACTION_PLAY" = "Play";
+"ACTION_DELETE" = "Delete";
+"ACTION_MODIFY_NAME" = "Modify Name";
+"ALERT_MODIFY_NAME_TO" = "Modify Name To:";
+"ACTION_MODIFY" = "Modify";
+"ACTION_SAVE_IMAGE" = "Save Image";
+"ACTION_SAVE_ALL" = "Save All";
+"ACTION_DELETE_ALL" = "Delete All";
+"ACTION_MORE_OPTIONS" = "More Options";
+"ACTION_DEFAULT_OPTIONS" = "Default Options";
+
+/*@ Notification @*/
+"DOWNLOAD_IS_COMPLETE" = "Download is complete";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## SPRINGBOARD ##*/
+
+/*@ ALERT MESSAGE @*/
+"ALERT_MESSAGE_FIRST_INASTALL" = "Thank you for installing DLEasy!\nPlease go to the tweak settings to activate it.";
+"ALERT_MESSAGE_PIRATED" = "You seem to be using an Unofficial (Pirated) version of DLEasy, please purchase the official version from Havoc to get the full features of the tweak.";
+
+/* ---------------------------------- */
+
+/* ################################## */

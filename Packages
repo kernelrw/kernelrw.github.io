@@ -729,6 +729,23 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.ahmedbafkir.dleasy_2.14.5_iphoneos-arm.deb
+Size: 5454996
+MD5sum: cfe769f14df6ff7899d70fa6146a4e14
+SHA1: 4fd0b54f97ed9b7b70ed363e628394929882d415
+SHA256: 8d12714b2ffddf528fb290a706a8ed30d9344ea919b98feb78b057ac61dd3e77
+SHA512: 9e00cb1c0a0fb56343c1b04d667222c692e68c0a8532c33e68075139d8ab433317ace3e0fc3c6fd22d0ab59febc56c4aa2a1eb8583d4b2e294ece00e915bdc3d
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: me.kernelrw.dleasy
 Architecture: iphoneos-arm
 Version: 2.14.4
@@ -742,6 +759,23 @@ SHA1: 27dcbbf26c99b5fa113511ec2e790b357b2b86a5
 SHA256: 1a1684b1daffec8b0547496f2a7bba13e2afba239bec003f0b54e3191b35aa29
 SHA512: 0207b2d47592886d51d92f46922a0d94cb6b7e8f75c56f3e332ef51d0ec834a36e67ae297397b3292a2e0c8ef95367d7b9037771ea6af0ac7e6db376a977308a
 Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.kernelrw.dleasy_2.14.5_iphoneos-arm.deb
+Size: 5458684
+MD5sum: b7644dec75586a0010d6c6aadf79df98
+SHA1: c4c28be123f720acdb8c2fb86f6fbe3880491f59
+SHA256: 3805f890a373a1859858569600a952c85320864727c13127b81ec76ddc967e7a
+SHA512: 17df875ffd9dbd4e8dfcc486ab74c213c82dd067be18702c8429fb832b8fd01249df7d414d954ac57af5f455d6e27d1c13609a8398ede3aebd8a4b7b31c16250
+Description: Download/Share images & videos from social apps easily . Supports iOS12.0 ~ iOS17.5.1 . Cracked Successfully 😝
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
@@ -5310,6 +5344,23 @@ Author: SGWC <southerngirlwhocode@gmail.com>
 Sponsor: SGWC <southerngirlwhocode@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.kernelrw.bridge
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MTAC
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/rootless/com.kernelrw.bridge_1.0.0_iphoneos-arm64.deb
+Size: 4924212
+MD5sum: 4108f84f54634c950cf751c307e16aa1
+SHA1: 4b77870145f35a01ec6df7641b90939d994f4e6b
+SHA256: 48eae631e1f8df601a7cbac96c5fa0438e1c2fa59f6c0334ddda189a7288012e
+SHA512: ffd4468a1ab82b90d3d2c4a975a3748d6309ed49afd37dcbea74e6ebf89452d81e6cda41ed6160ece7379447c6a67c7ae0ede51c77457ceffaf5235a4f6aa94f
+Description: The Apple Watch homescreen experience brought to iOS
+Icon: https://repo.cypwn.xyz/packages/Bridge-Rootless/icon.png
+Name: Bridge
+Author: MTAC • ETHN
+
 Package: com.kernelrw.byesponsorfb
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -7349,6 +7400,40 @@ SHA1: c2046248e8ff8351c82e0096adf78f826430effb
 SHA256: 3210d99bb4574af5340d3bc0f24d5ed68f754f837caf5cf1d11ed07f4b1348a6
 SHA512: 6efe83eaa264704c89ee44175f4f399d8d72bf91b58dc2a10877d00fe93f7fe41556de92130f4d0cd7da01946a9cffeab52df7062bd46fb8692dc7653b9858fa
 Description: Download/Share images & videos from social apps easily, supports iOS15+
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.ahmedbafkir.dleasy_2.14.5_iphoneos-arm64.deb
+Size: 5526232
+MD5sum: cde60c9efd3ed066616b560fe3cdced2
+SHA1: 2fe46329f6442bfc40468b291bf531fca35cd6c5
+SHA256: 95d9ee2e3981b1cbb679905a078f56302332fd27ebc57876cac8b5127c8d0815
+SHA512: da28f19e74b02703c5cf64d24c64f2bdc558de4282240ee9798957dbecc349174208648f341ad8bbf4f443cfa4193cd47bdb0d7779f193ebe410ff5dbd56c531
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm64
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.kernelrw.dleasy_2.14.5_iphoneos-arm64.deb
+Size: 5526276
+MD5sum: af99b423a9749f50986b72002f93b5e6
+SHA1: 381954b1b5d1ad81c71ee5653fd77b3d37478d62
+SHA256: e1a27525b84e784e1dd5cdf4f093c11be48b7b659dc5fc7864f2f570eb7f20ea
+SHA512: 94079bd620c47ae761953ee4423bd07a2064edf685012a5a48bdf7f7f3eb0e225fa5e80a5b98b1263923353031f69c9ad031b0449fdd4cb7851ce346884b870f
+Description: Download/Share images & videos from social apps easily . Supports iOS12.0 ~ iOS17.5.1 . Cracked Successfully 😝
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
