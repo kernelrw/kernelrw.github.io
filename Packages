@@ -1192,6 +1192,24 @@ Description: Install deb files from Filza
 Name: Filza Deb Installer Script
 Author: 0xkuj
 
+Package: com.0xkuj.lscontacts
+Architecture: iphoneos-arm64e
+Version: 3.5.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1748
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0)
+Filename: ./debians/roothide/com.0xkuj.lscontacts_3.5.1_iphoneos-arm64e.deb
+Size: 1135740
+MD5sum: 26229e09609b16a3ade6ed71fbb8a9bd
+SHA1: 91a80d1523fbea96cb51b25c6fea56688bec3ac7
+SHA256: 963448a67186e4799d3009e2bab265e14db802c9b89a422bcdba1533ae2d4a4a
+SHA512: 98ca959b2dbb9967b384bb8f18468cfa08ec29d72c4b485f48ef7fe114693ca5f134db71bcce1eddb532245712d3605fd9f7f27d85222780d6b728063a4c3fbd
+Description: Contacts bar right from your lockscreen
+Name: LS Contacts
+Author: 0xkuj
+
 Package: com.0xkuj.snoozelabels
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -1775,6 +1793,25 @@ Description: Fix YouTube images not loading
 Name: YouTube Fix
 Author: Eevee
 
+Package: com.elias.spy2
+Architecture: iphoneos-arm64e
+Version: 1.3-1
+Section: Tweaks
+Maintainer: elias
+Installed-Size: 2912
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.elias.spy
+Filename: ./debians/roothide/com.elias.spy2_1.3-1_iphoneos-arm64e.deb
+Size: 2591378
+MD5sum: 8978b14b4736c803168aa8befeb1d67a
+SHA1: b8f28a9cfd5da27705fc5dd932084c3d27378e7e
+SHA256: d0bd700bd11d60c60b6639df7f8e1abd89a0c30d9ed3669967f7a3320f687476
+SHA512: 3bab95b02fda68181304941e77d0b59d992ee6bd1818078bdb881b7960458dd1125a4b44d27f75a759572ecb66b66292430435e02ae987acbfa5cdd565109926
+Description: An awesome MobileSubstrate tweak!
+Name: Spy 2
+Author: elias
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
 Version: 7.10.0
@@ -2181,6 +2218,43 @@ Description: Bring animations to your icons!
 Name: Twister
 Author: Nebbs
 
+Package: com.jontelang.snapper3
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debians/roothide/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 2270096
+MD5sum: 661483955c41f4cbef781f2483c1d6b4
+SHA1: 9b560614bbe260618d4e2c8cb3097c24181c477a
+SHA256: 14a9f214055f4ec792157b884cd9d0b9e418ede40076fce5524094f538345491
+SHA512: 6e034cf32673acccffd93aaffbfd9b1f59aa346f92fea7308542d274768604dc8422527f759c3cad61c2e1bc0e8b11f753fc49a919824de889ed3b08d127b84c
+Description: Pin screenshots on the screen.
+Name: Snapper 3
+Author: Jonathan Winger-lang
+
+Package: com.jschiefner.advancedbrightnessslider
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonas Schiefner
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
+Filename: ./debians/roothide/com.jschiefner.advancedbrightnessslider_1.2.1_iphoneos-arm64e.deb
+Size: 41370
+MD5sum: e28c461c7855bbdb78f0f3b99e884bbb
+SHA1: 1f57af34b95d166fbda237565196d52c5d73c3d9
+SHA256: 1dbd3bf322bfee69e745b94604a8b8b70f031fe115b0ede1a835daae344b82bc
+SHA512: 6db032293d1dec25b2ff0b95a22bb644953623cd169d443ea2e0935841764d4133107e01512737cbe9fc8c18c5d3490c69eafec377a03775396d4f55c7ff77a2
+Description: Tweak to dim the screen even further with the brightness slider in Control Center
+Name: AdvancedBrightnessSlider
+Author: Jonas Schiefner
+
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64e
 Version: 0.0~beta2a
@@ -2253,6 +2327,23 @@ Name: AutoScroll
 Author: pxcex
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.braveheart.skrollerz.png&s=180x180&f=webp
 
+Package: com.kernelrw.autotooth
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Tr1fecta
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/roothide/com.kernelrw.autotooth_1.0_iphoneos-arm64e.deb
+Size: 24740
+MD5sum: 710762fcd7e75652d59dff4c0b82a763
+SHA1: 4ce3848b1f99fd29f6af01dd541cab2a20ee5ee1
+SHA256: 3b7bb6e6802e994b69f14130fe7e9afdab67f506fa84d671dc1c64ec511cd731
+SHA512: 4a4fcfd5b117a27e563d5b33ecd691ed7ef1fb8e2dd2adf64a27ae3b451bfb16e200e29768891b28fc008072a2019d2be8089c3be01da26e0b9693b5d2ee959a
+Description: Control your BlueTooth & WiFi .
+Name: AutoTooth
+Author: Tr1fecta
+
 Package: com.kernelrw.axon
 Architecture: iphoneos-arm64e
 Version: 1.5
@@ -2288,6 +2379,42 @@ Description: watchOS widgets on your lock screen
 Name: Complications
 Author: Ben Giannis
 Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
+
+Package: com.kernelrw.cr4shed
+Architecture: iphoneos-arm64e
+Version: 4.3.1-1+debug
+Section: Tweaks
+Maintainer: Muirey03
+Installed-Size: 2404
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.kernelrw.libnotifications, kernelrw.crossoveripc
+Filename: ./debians/roothide/com.kernelrw.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
+Size: 556060
+MD5sum: 2c45ce1efa85250412dec8522990562f
+SHA1: d93001f5c1f3c04bc99d8578fd68aa4fe64c8477
+SHA256: 86ba1fc6ab3f236125f86ba1f51a7c44daa8d46f061a9b5c7f572bd20fcb6ced
+SHA512: 250f3b70d742ea545697711ae79c9c9d6f800ecae1f4dce6db90c591013cc359fb185881cf89fdf00f597676ea301a469f36369f6a9da3e38439438807d8c9f5
+Description: A modern crash reporter for iOS15 & iOS16 .
+Name: Cr4shed
+Author: Muirey03
+
+Package: com.kernelrw.debra
+Architecture: iphoneos-arm64e
+Version: 2.9.6
+Section: Utilities
+Maintainer: Kernelrw
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debians/roothide/com.kernelrw.debra_2.9.6_iphoneos-arm64e.deb
+Size: 29082
+MD5sum: 0ee92cabb3691381175b8664218258b0
+SHA1: 36599aad34dcca07bffb946dc0e6c787bf2c8c5a
+SHA256: 3e1d498f00afa705817711009602e431a5fa5a63c603819ff7fd030caeb18cca
+SHA512: 9e2413155c0e9b36c14c6613419406edd3de1bb7663cc9ff194dc6cae95c2229fefdacc4410e0468c6e1bc24de87e88b13ca5898eb85fdd3d2200e6e78e73f8a
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Icon: https://repo.cypwn.xyz/packages/Debra-Rootless/icon.png
+Name: Debra
+Author: Sudo, Paisseon & Korboy
 
 Package: com.kernelrw.deleteforeverxs
 Architecture: iphoneos-arm64e
@@ -2325,6 +2452,25 @@ SHA512: bafeb1da1c26accda8c8630aa6b28525c18bb08185e080e74ea68e2802cc8eee3752fdb3
 Description: Design layouts for lockscreen and homescreen
 Name: Designer
 Author: JunesiPhone
+
+Package: com.kernelrw.dumpdecrypter
+Architecture: iphoneos-arm64e
+Version: 1.4-5
+Section: Netskao-Tweaks
+Maintainer: Netskoa
+Installed-Size: 4324
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.dumpdecrypter_1.4-5_iphoneos-arm64e.deb
+Size: 3681990
+MD5sum: 250c197b4fdc2d28ca58ce313650cada
+SHA1: 4275c96d5909fd03f3b6a0e50a91c96a690e3c71
+SHA256: 9f83b59f02b01658600ff82df3a8fc3da9f6992f991cfb3513b0ac989d09e042
+SHA512: 2bfa458056fb61bb5488a3a29f8a758bd9e5f573d4cfdcf4ce1304055801d654cab20cc452ef811fc4509346bf2acc31f3494a18b6a01b43c7d2836a1ac274ce
+Description: Decrypt iOS Apps and Plugins
+Name: DumpDecrypter
+Author: Netskao
+Icon: https://repo.cypwn.xyz/packages/DumpDecrypter-Rootless/icon.png
 
 Package: com.kernelrw.eeveespotify
 Architecture: iphoneos-arm64e
@@ -2505,6 +2651,40 @@ Description: Notifications logs
 Name: Senri
 Author: Antoine
 Sponsor: Antoine
+
+Package: com.kernelrw.swiftgramplus
+Architecture: iphoneos-arm64e
+Version: 4.2.0
+Section: Tweaks
+Maintainer: Randy420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.swiftgramplus_4.2.0_iphoneos-arm64e.deb
+Size: 438554
+MD5sum: fdf979f8337d613b996594f79a645b89
+SHA1: 3a151bde1531c3f116dc12bcdc0fbd8c447d6305
+SHA256: 9ecf9078a8b8ba28e42351c1c03391d8f3d54d995e799007f3db8881e4bd4c9c
+SHA512: 5484f5fb8b26273e25eb2c5a3e0b5d16e0e0d4c1a823151feda37f096ffd90fa99f332c7aa4ca449e7abdcbc240c234f4dcb5ff75f2a1a884a5a9d254731009d
+Description: Remove ALL chat block restrictions (including 18+) & enables stealth mode for stories.
+Name: Swiftgram++
+Author: Randy420
+
+Package: com.kernelrw.swiftprotobuf
+Architecture: iphoneos-arm64e
+Version: 1.26.0
+Section: System
+Maintainer: Kernelrw
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/roothide/com.kernelrw.swiftprotobuf_1.26.0_iphoneos-arm64e.deb
+Size: 5253034
+MD5sum: 777c737058e68b5b77540c9db501b45f
+SHA1: 11358aa0b28578e00d74ba067c70512aba3137b5
+SHA256: dda351bcbb37cb7c6da8e371077e1c5bae7938156b3c3635d52d70d7283ae9ad
+SHA512: 708f6366911f9286e9323f5a0767eff0c91b4a7e5d74391f0f71733020c9b69b0125d5693f5fd7a2e9f77de240f0a4a8632c04617176ab7ff85eea29e071272c
+Description: Plugin and runtime library for using protobuf with Swift
+Icon: https://repo.cypwn.xyz/packages/SwiftProtobuf-Rootless/icon.png
+Name: SwiftProtobuf
+Author: eevee
 
 Package: com.kernelrw.visibleisland
 Architecture: iphoneos-arm64e
@@ -3642,6 +3822,23 @@ Name: CC On & Off
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
+
+Package: com.pwnd2e.filzascriptdev
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Filza Scripts
+Maintainer: pwnd2e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dpkg, ldid, file, odcctools
+Filename: ./debians/roothide/com.pwnd2e.filzascriptdev_1.4_iphoneos-arm64e.deb
+Size: 3492
+MD5sum: 599584088e1fad4f0533c87c0a66e2ed
+SHA1: 7f0d86e8df5385cbb54f364ed458392e60a02f08
+SHA256: 143cd9046c5fbb5a705f18a6e6f23b2b0c5fb730befd6f35821d3c152d540388
+SHA512: 9b8c9623b2bbffe35497f1ee6e6afc3b8f4a1fb443c9de54994ed1d3fae6635495c2f9a77b2722c7529e90f5a3ffa415f018254cc55a8617c88e3265d91c37c2
+Description: Scripts to build rootful & rootless with Filza. Plus other handy Filza scripts. *Use regular Filza, NOT trollstore Filza*
+Name: Filza Scripts
+Author: pwnd2e & Sudo
 
 Package: com.ryannair05.cask3
 Architecture: iphoneos-arm64e
