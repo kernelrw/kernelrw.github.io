@@ -429,6 +429,24 @@ Description: A tweak to hopefully save you when your device gets frozen to be ab
 Name: SafeRespring
 Author: nicho1asdev
 
+Package: com.kernelrw.smallbanners
+Architecture: iphoneos-arm
+Version: 1.2-8
+Section: Tweaks
+Maintainer: Netskao
+Installed-Size: 900
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Filename: ./debians/rootful/com.kernelrw.smallbanners_1.2-8_iphoneos-arm.deb
+Size: 202320
+MD5sum: 7c9f479a1bdeee789faab39fd3b00499
+SHA1: a47e9be73467971268ad9b942efbed10cf0d1926
+SHA256: 1c33b7da2d47395c126eec562cbd4c1150ebc44203b73478c2a149d182d4dd8f
+SHA512: 29bca96107a951f8668e3cc072a1711dd11002cf339f3855b059a1ee0210bf08850069b6ae887fe1c97cb36473fc129ba0cf3f085089dac91eb26f042648bf77
+Description: Small Notification Banners. Support iOS15+
+Name: SmallBanners
+Author: Netskao
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
+
 Package: com.kernelrw.sneakycam
 Architecture: iphoneos-arm
 Version: 2.2.2
@@ -657,6 +675,24 @@ Description: A beautiful Dark Blue theme for Laetus .
 Name: VisionKeys Aurora
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.netskao.smallbanners
+Architecture: iphoneos-arm
+Version: 1.2-8
+Section: Tweaks
+Maintainer: Netskao
+Installed-Size: 900
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Filename: ./debians/rootful/com.netskao.smallbanners_1.2-8_iphoneos-arm.deb
+Size: 203076
+MD5sum: b26599e5aae95242e2750bcf2e3971b1
+SHA1: 7a0f4a359ba495e9266385f2ee07e0144418ba20
+SHA256: 3ce33cdaf1a48c4b514830ebea53a8eddfc24a3848a8fd716a72dfd986475495
+SHA512: d60800f2c8ee0e3e48b7a35322597b2af5b6bb049238bdc905a50d8ce784be084a3483550b55dc2c78c6af326f12ba7117cdc8174a4d4cf97fa023c3fe66bc1e
+Description: Small Notification Banners. Support iOS15+
+Name: SmallBanners
+Author: Netskao
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
 
 Package: con.kernelrw.battivator
 Architecture: iphoneos-arm
@@ -6599,6 +6635,24 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/ico
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.simplebattery
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
 
+Package: com.kernelrw.smallbanners
+Architecture: iphoneos-arm64
+Version: 1.2-8
+Section: Tweaks
+Maintainer: Netskao
+Installed-Size: 900
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Filename: ./debians/rootless/com.kernelrw.smallbanners_1.2-8_iphoneos-arm64.deb
+Size: 203152
+MD5sum: beddb9aa52c707bf968a6f3bb86fafff
+SHA1: 814b1cbb795f9c7c9389f6baf968bb2ec0c36be5
+SHA256: 53b814a3115122dd1a96264b32c55e37b56cb2db40f5bcbb7e4be4cf640f7131
+SHA512: e1caf606c342e242ea64881fd3edec839d6991588342bd07f06af9038ff695531f7749ccec321c052ac7d34fb02358d268302a081b48871877aaaee6eac7b3cc
+Description: Small Notification Banners. Support iOS15+
+Name: SmallBanners
+Author: Netskao
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
+
 Package: com.kernelrw.smartnetwork
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -7114,6 +7168,24 @@ Name: YTMusicUltimate
 Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+
+Package: com.netskao.smallbanners
+Architecture: iphoneos-arm64
+Version: 1.2-8
+Section: Tweaks
+Maintainer: Netskao
+Installed-Size: 900
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Filename: ./debians/rootless/com.netskao.smallbanners_1.2-8_iphoneos-arm64.deb
+Size: 202764
+MD5sum: b48c2aa528fee6427be5015e90563996
+SHA1: 4248b18e7cefacee9330b22bbc64cae035547fde
+SHA256: b32177d959399d57ce14993da89da1b81ba7ab5263a2e3cda67875728f9cae1a
+SHA512: 27cbead4b7287980fcc9612cfb3c1b8482f0c55f5c14c75d212a6fabf6537bce4e7137c27a4af88bac69e152bef531be78b4f57f6ea6d64a61f65b084ff86d6b
+Description: Small Notification Banners. Support iOS15+
+Name: SmallBanners
+Author: Netskao
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
 
 Package: com.p2kdev.alarmtime
 Architecture: iphoneos-arm64
