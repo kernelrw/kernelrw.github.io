@@ -211,6 +211,27 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
+Package: com.hitori.misakii
+Architecture: iphoneos-arm
+Version: 2.1.3
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1155
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debians/rootful/com.hitori.misakii_2.1.3_iphoneos-arm.deb
+Size: 324932
+MD5sum: 62b8b68859136c1e0a05fcde54962152
+SHA1: b5174f0d2fcc4c5386e49004ec8a87784b87ff76
+SHA256: 47cfa45cc229e9589ad671ac1a33c6b51255c39c316ea71b15a2c99ffc35c5f6
+SHA512: d8397e225e577d74658fec00a50da8e1bc35952c8626ecb64bb8d178729a74c6336bd2e6edd485fa87a9fef623763732277cd58f1c046af0f93e5de1129fa474
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
+SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
+Taq: cydia::commercial, compatible_min::ios15.0
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -7280,6 +7301,25 @@ Description: Remove Ads From AppStore
 Name: AppStoreNoAds
 Author: SWING
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.appstorenoads/icon.png
+
+Package: com.udevs.dockxx
+Architecture: iphoneos-arm64
+Version: 2.6.1
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/rootless/com.udevs.dockxx_2.6.1_iphoneos-arm64.deb
+Size: 420972
+MD5sum: 9d49313951a023627821ab5c4af9e202
+SHA1: 91387ade4a2f5292cd330d427ac69f20f2296b29
+SHA256: a9d9fb836cfe5471f2e691ece674c3d0ce0c4ba23aa1f15f9aec5f96e63e2a5d
+SHA512: c64d61a57b609f033e7d856da942a3a34c50efddbc8e1287d9f8d48662f73a765b67259648c84abcb343203cf7323949d67135edc70f18b156bd1370e947870c
+Description: Pasteboard shortcuts on your keyboard dock, Supports iOS14+ ; rootless too !
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 
 Package: com.yourepo.ibreak.switchcolor
 Architecture: iphoneos-arm64
