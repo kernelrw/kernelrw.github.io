@@ -7300,6 +7300,43 @@ Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
 
+Package: com.sunshinesong.split-view-pro-helper
+Architecture: iphoneos-arm64
+Version: 999.1
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debians/rootless/com.sunshinesong.split-view-pro-helper_999.1_iphoneos-arm64.deb
+Size: 1348
+MD5sum: ebf1d95fc35da51ff46049ff2da3ea1a
+SHA1: 9071ba0c9cea14269c04e7476e3644dd836c5200
+SHA256: 4d940c65b1a06fb97d167c1be7d4a3345196459b39a6fdf8b8ff5033c5dd385a
+SHA512: 15ee03f7fdf0076a24efee88dda66a74cc37cad6c095dcc883a4221f3c91710bca49f8bb1700b4ffcf517cf33d327ba88b6a3f276ecede1407a4496933acb112
+Description: SPV helper
+Name: split-view-pro helper
+Author: sunshinesong
+TS: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64
+Version: 1.1.6
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 13648
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debians/rootless/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
+Size: 3480720
+MD5sum: 0cc320c395088580d2e692ecaff82019
+SHA1: 8d9baa7c3ac9fcd283ed5b8265cce1592c1ad40c
+SHA256: 8ce5a9defedff25420bb0a321899ab733c6ade23628cf7f29eb65b5af3f9366a
+SHA512: d1299aee14e4ab0ca11237cc5bbdca3e8afabf11a10d64f3e2bc4a8636f33badc32b4d30981ef17dfe28c1e5c6970275043326adbb73caf40f5cecf900e45905
+Description: Archer tweak alternative, Supports iOS14+ , rootless too !
+Name: Split View Pro
+Author: sunshinesong
+TS: sp-sss
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.archer.png&s=180x180&f=webp
+
 Package: com.swing.appstorenoads
 Architecture: iphoneos-arm64
 Version: 0.0.1
