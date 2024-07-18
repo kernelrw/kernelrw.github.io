@@ -717,24 +717,6 @@ Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.c
 
 Package: com.p2kdev.tinge
 Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 204
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debians/rootful/com.p2kdev.tinge_1.0_iphoneos-arm.deb
-Size: 19680
-MD5sum: 120b01821a7d7b6c14f23e2c42e4061c
-SHA1: 40225d3bc463dad88e38f5e5487ae3dd37e53047
-SHA256: 70b92016f6ccb2fe72b5d915de8c3f3782131e6b686dac36055d2a8a06afd005
-SHA512: 15aeb796bbef4ea9e1bb6785ed5bd3065bda669b1f778b2466d8f1f10a1770094004bd6f1fa6c730fd33c786b3da75070c105bce1ab089399f84c1ef267daed0
-Description: Color your badges with Perfection , supports iOS15.0 ~ iOS16.5 including Dopamine 2 !
-Name: Tinge
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
-
-Package: com.p2kdev.tinge
-Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
 Maintainer: P2KDev <p2kdev@gmail.com>
@@ -7282,24 +7264,6 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
-
-Package: com.p2kdev.tinge
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 204
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debians/rootless/com.p2kdev.tinge_1.0_iphoneos-arm64.deb
-Size: 20280
-MD5sum: 939917425bea9fa8129f2fc9a7970481
-SHA1: 0d761c4ddeb9c86e236795100033b47eb485f1a6
-SHA256: f63c2f9f1ccbe4eaa2dfe1b064c615633a3ad646280d54b4d6bf507e369a9fad
-SHA512: 5b2bfbfaff6afd159bc8c67c3bad7ad2cb191af821b9292675a5e3aff8eb9f2a4f4efb16ef34da0480fca560d30ab15dff48bfbad4ffb20126c96027808358c7
-Description: Color your badges with Perfection , supports iOS15.0 ~ iOS16.5 including Dopamine 2 !
-Name: Tinge
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
 
 Package: com.p2kdev.tinge
 Architecture: iphoneos-arm64
