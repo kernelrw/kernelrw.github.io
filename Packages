@@ -715,6 +715,42 @@ Name: SmallBanners
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
 
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 204
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootful/com.p2kdev.tinge_1.0_iphoneos-arm.deb
+Size: 19680
+MD5sum: 120b01821a7d7b6c14f23e2c42e4061c
+SHA1: 40225d3bc463dad88e38f5e5487ae3dd37e53047
+SHA256: 70b92016f6ccb2fe72b5d915de8c3f3782131e6b686dac36055d2a8a06afd005
+SHA512: 15aeb796bbef4ea9e1bb6785ed5bd3065bda669b1f778b2466d8f1f10a1770094004bd6f1fa6c730fd33c786b3da75070c105bce1ab089399f84c1ef267daed0
+Description: Color your badges with Perfection , supports iOS15.0 ~ iOS16.5 including Dopamine 2 !
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 432
+Depends: firmware (>= 15.0),mobilesubstrate
+Filename: ./debians/rootful/com.p2kdev.tinge_1.1_iphoneos-arm.deb
+Size: 39136
+MD5sum: c7118dc585eb9cc84f0cdca7fdf9d24f
+SHA1: ec7fee3cdd8ff9655b1c71d36f21e832fb632aea
+SHA256: a2446cd61fae98ccab48a84e86b6cc61a6aac934fbd9374d703d8bb66350dca4
+SHA512: 25303384a06607a3c30cba2f72d69960128ea3406b3035a97014d08109142dc07041da0fd170de83de65cdaeb38a8e6ebe16070f63449fe272c4a14d663e70b6
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+
 Package: con.kernelrw.battivator
 Architecture: iphoneos-arm
 Version: 1.3.11
@@ -6846,24 +6882,6 @@ Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
 
-Package: com.kernelrw.tinge
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 204
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debians/rootless/com.kernelrw.tinge_1.0_iphoneos-arm64.deb
-Size: 20352
-MD5sum: 039e4718638b9a57121c477405842ea9
-SHA1: 5836c96d5ef6e6c4e94c6ff0706d0aed516a0f96
-SHA256: 3095fd4c02d9e0a25514747f613fd963988b6326517137325128543e2e566654
-SHA512: 4b9c55ce8013f731eceeb6cf45ee4b2d26063d4a462e16890eab30071e5529853fd45a0db8e9309e5b846b1b08e56d3fa6bb6c60f62b3e4455af10a91c80e06d
-Description: Color your badges with Perfection , supports iOS15.0 ~ iOS16.5 including Dopamine 2 !
-Name: Tinge
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
-
 Package: com.kernelrw.trollpad
 Architecture: iphoneos-arm64
 Version: 1.3
@@ -7264,6 +7282,42 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 204
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootless/com.p2kdev.tinge_1.0_iphoneos-arm64.deb
+Size: 20280
+MD5sum: 939917425bea9fa8129f2fc9a7970481
+SHA1: 0d761c4ddeb9c86e236795100033b47eb485f1a6
+SHA256: f63c2f9f1ccbe4eaa2dfe1b064c615633a3ad646280d54b4d6bf507e369a9fad
+SHA512: 5b2bfbfaff6afd159bc8c67c3bad7ad2cb191af821b9292675a5e3aff8eb9f2a4f4efb16ef34da0480fca560d30ab15dff48bfbad4ffb20126c96027808358c7
+Description: Color your badges with Perfection , supports iOS15.0 ~ iOS16.5 including Dopamine 2 !
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 432
+Depends: firmware (>= 15.0),mobilesubstrate
+Filename: ./debians/rootless/com.p2kdev.tinge_1.1_iphoneos-arm64.deb
+Size: 39996
+MD5sum: 8ca10f003a47deb1f6e337745b814907
+SHA1: 5a627b065a36bc0f908894f481bf7aeaaa5518e8
+SHA256: 9d8a218d53c9c2b87a4217ca1075009884ad3a10f2f630062d7633106d4e0206
+SHA512: 862ba025a44f7140b130ec6682cc018736d03c8cb31e71403d7040e896083f45d583618fcf337b59aca5a38109b8c2f0cb6588123577dab8ea00a552545f9056
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
 
 Package: com.pxcex.autoscroll
 Architecture: iphoneos-arm64
