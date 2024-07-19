@@ -1162,6 +1162,22 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
+Package: com.yourepo.cydiageek.batteryswipeup
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.yourepo.cydiageek.batteryswipeup_1.0.0_iphoneos-arm.deb
+Size: 6468
+MD5sum: 1db1e8f35ec10fa2f7353f022d7ec74f
+SHA1: 77de4e0e36c7716737766240eb6de3c222eed06b
+SHA256: 0dad3c2cdcf0442a270230effb063a52822bc7bfa3d26a769ca6116fcd3a7c33
+SHA512: a591bdb94770cb0b7748c8b2d739c4982c7ce3d2170f5438f9783652cf4651fb84ceb0ca159bb43be3cb3cd2b75ee1ecfe8e30ec649976c20bcfcaf1f55863e3
+Description: Battery Percent on Swipe Up to Open!
+Name: BatterySwipeUp
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: con.kernelrw.battivator
 Architecture: iphoneos-arm
 Version: 1.3.11
@@ -1179,6 +1195,57 @@ Description: low power mode & battery level profiles
 Author: merdok <merdok87@o2.pl>
 Name: Battivator
 Icon: file:///Library/PreferenceBundles/battivatorprefs.bundle/battivator@2x.png
+
+Package: cum.0xilis.snooliebattery
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Snoolie K
+Filename: ./debians/rootful/cum.0xilis.snooliebattery_1.0_iphoneos-arm.deb
+Size: 3488
+MD5sum: 2e109b8868db2360d3286d2fcbc067a7
+SHA1: 0b6966f85a0e8a907cca687ae88dcad31a36d15a
+SHA256: 1b206cfcf855bc814a96d0655f42e4e946de79a12458f28245304e38a9dbf946
+SHA512: 29e71bf8996cae0dbf5724349164437a865819eec6afa97b9b73b2bae48613945f8b94f74b3f09574fee1dc044708af74689e234bb40fdc78775a1d5c601ba4e
+Description: Battery Percent on iOS 15
+Name: SnoolieBattery
+Author: Snoolie K
+
+Package: dev.ploosh.batterypercent
+Architecture: iphoneos-arm
+Version: 1.0.1
+Maintainer: Ploosh <me@ploosh.dev>
+Installed-Size: 326
+Depends: mobilesubstrate
+Filename: ./debians/rootful/dev.ploosh.batterypercent_1.0.1_iphoneos-arm.deb
+Size: 4332
+MD5sum: 889194cdb3a1b89cd8dece575679567c
+SHA1: 97ab44ebe8526e8e835378c619d5ee6195773c65
+SHA256: df9ad71c387d286fc89f1accb699d5b3c23001b600cfad6b4fd3b84bbe4bca6e
+SHA512: c80ee8800c519f1a03b5db3c9987659c6809aca06ac86c21e34b7390c7036638dac7267aeab63547052b7afc4af1d56ceff9f74e5c108597adb130cbcac35b2e
+Description: Enables the battery percentage in the icon that Apple hides from you.
+Author: Ploosh
+Name: BatteryPercent
+Icon: https://repo.ploosh.dev/assets/batterypercent.png
+SileoDepiction: https://repo.ploosh.dev/meta/batterypercent.json
+
+Package: dev.traurige.batterybuddy
+Architecture: iphoneos-arm
+Version: 1.3.5
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 432
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: ./debians/rootful/dev.traurige.batterybuddy_1.3.5_iphoneos-arm.deb
+Size: 35412
+MD5sum: 2826275f4e109823b954af7c23cdcfd9
+SHA1: ad92ad737370238e23347e2a35da9fed78f1d95e
+SHA256: 1bf145808637826b1f4bca5e60657eab20c15871fadd70fdb92552afe64767fc
+SHA512: 48ba9fcd352faa72d20dc41960e304571a82ecad3b0664018275d11868387cf215369e79f55c2eb31dd780e8a6ad4071cba3a7abaa01ee3acbc4c09ab18f073e
+Description: Battery indicator, but cute
+Name: BatteryBuddy
+Author: Traurige & neilsardesai <hello@traurige.dev>
 
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
@@ -1374,6 +1441,24 @@ SHA512: 34fd6099ed78034d5de74bc5bb4dfc66929da63d93b4846816cac4e8fc98bd97658a3d89
 Description: Ensures the Restart SpringBoard button appears in the Sileo package manager when installing tweaks . Supports Dopamine 2
 Name: Sileo Respring
 Author: jjolano
+
+Package: netskao.batterypercentx
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 168
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/rootful/netskao.batterypercentx_1.1-1_iphoneos-arm.deb
+Size: 6080
+MD5sum: 73913870b81018c0f60787cd37730c9d
+SHA1: c9c94ebdf6d7b99de9eb6bc444dc81797a71aef9
+SHA256: 69cadea26359c8bf1212f22bc8b020c3afd713544ca8d65d29c9f29873ab6063
+SHA512: 029fe3e25bec489e5dcc3f267c37c0205b2afaa0fbf79a9dce85f40b1121c8c8b58a292f0ca9393940df6b202357fce59c68ede4ef402dc56446bd2cc2c94c6b
+Description: Shows battery percentage .
+Name: BatteryPercentX
+Author: Netskao
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.enablebatterypercent%2Ficon.png&s=180x180&f=webp
 
 Package: alias20.confirmtodo
 Architecture: iphoneos-arm64e
@@ -7185,23 +7270,6 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
 
-Package: com.kernelrw.primedeck
-Architecture: iphoneos-arm64
-Version: 1.3.0
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 1000
-Depends: com.opa334.altlist, preferenceloader
-Filename: ./debians/rootless/com.kernelrw.primedeck_1.3.0_iphoneos-arm64.deb
-Size: 538152
-MD5sum: 958940611270fe08ba07bc3b9bb18228
-SHA1: 74c2be3a0658fd6ec3755e18418b70be51c22070
-SHA256: fb058b3a5db2fb4aad0b8c52712bc7ff66dac958f137e9acacaebf2fe508f495
-SHA512: 739c1bd49f7fa6fbf234fa51173c72a29fb2b8fc41932cd26b5cb76ea0038a8d339dfc32a2a67386c6b6ebd9cdcf0d62527d47dd3bf2483e59e7060ae8af0a3c
-Description: Control your appswitcher
-Name: PrimeDeck
-Author: 0xkuj
-
 Package: com.kernelrw.pulloverpro
 Architecture: iphoneos-arm64
 Version: 2.1.5-3
@@ -7332,23 +7400,6 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-
-Package: com.kernelrw.respringextension
-Architecture: iphoneos-arm64
-Version: 1.0.7~Beta3
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 596
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/com.kernelrw.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
-Size: 41856
-MD5sum: 0afc42ac397c75df6e27e026b3342bdf
-SHA1: 40fee77b141b821082327cb385dd061ec661a68c
-SHA256: 11e1c2c168de110fa42c414250b3f754c32d168cffc0a5c897fc470678244f08
-SHA512: 105827e15eee8f0efa0a1e568965e9e9f5a02543c2c0320294934fdf17fe658da631d186cb90575120e8607b17a4ba8865939dceefa1fc8c70d5c44bdd612680
-Description: Respring icon extension for SnowBoard ; iOS15 ~ iOS16.5 rootless !
-Name: SnowBoard Respring Extension
-Author: Spark
 
 Package: com.kernelrw.ring
 Architecture: iphoneos-arm64
@@ -7487,24 +7538,6 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.simplebattery/icon.png
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.simplebattery
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.simplebattery.json
-
-Package: com.kernelrw.smallbanners
-Architecture: iphoneos-arm64
-Version: 1.2-8
-Section: Tweaks
-Maintainer: Netskao
-Installed-Size: 900
-Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
-Filename: ./debians/rootless/com.kernelrw.smallbanners_1.2-8_iphoneos-arm64.deb
-Size: 203152
-MD5sum: beddb9aa52c707bf968a6f3bb86fafff
-SHA1: 814b1cbb795f9c7c9389f6baf968bb2ec0c36be5
-SHA256: 53b814a3115122dd1a96264b32c55e37b56cb2db40f5bcbb7e4be4cf640f7131
-SHA512: e1caf606c342e242ea64881fd3edec839d6991588342bd07f06af9038ff695531f7749ccec321c052ac7d34fb02358d268302a081b48871877aaaee6eac7b3cc
-Description: Small Notification Banners. Support iOS15+
-Name: SmallBanners
-Author: Netskao
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
 
 Package: com.kernelrw.smartnetwork
 Architecture: iphoneos-arm64
@@ -8261,6 +8294,22 @@ Name: DockX
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 
+Package: com.yourepo.cydiageek.batteryswipeup
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.yourepo.cydiageek.batteryswipeup_1.0.0_iphoneos-arm64.deb
+Size: 6530
+MD5sum: f1578c32814d888edf9fe1cd18f1ac34
+SHA1: 960a835a0d5e2ce71e2b143fd658b5877314bfce
+SHA256: 71b8c454b8f62bce751e708493be8f0d622a856ce919a87c67ff6a0f072e23b1
+SHA512: 1c6dec4e2fc6372990d78527ac3b86da761dfae4d8a59b6d3bdefdf19e639aaf94d82b7e3bf606aa63a8d36d7d01f90dc63e4412c9b07785089ab9b509408375
+Description: Battery Percent on Swipe Up to Open!
+Name: BatterySwipeUp
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: com.yourepo.ibreak.switchcolor
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -8295,6 +8344,21 @@ Author: merdok <merdok87@o2.pl>
 Name: Battivator
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.battivator.png&s=180x180&f=webp
 
+Package: cum.0xilis.snooliebattery
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Snoolie K
+Filename: ./debians/rootless/cum.0xilis.snooliebattery_1.0_iphoneos-arm64.deb
+Size: 3672
+MD5sum: c01cc7fabe3b9474c6ff48921cb2ba18
+SHA1: 97a07edd258fc82afc34e6601fcf54f0d256702f
+SHA256: 43dc6b7a72810508a6331cc1db54c3051c3aa9787ceec870cf3fa3c1119fef2a
+SHA512: 764aef192b37c64ea8f34020fb7eee894c2dc97f2f9867bd0844a9f40b64590a4d60d5a2429f2a94d1ebd4e9fdea1da01751403148c9645d6d586a497ac8d132
+Description: Battery Percent on iOS 15
+Name: SnoolieBattery
+Author: Snoolie K
+
 Package: dev.kernelrw.ccshutdown
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -8311,6 +8375,42 @@ SHA512: 58928f0d45766611e5e313b116eb2816c6b3ae669da3a614f6030015047f40bd07a75401
 Description: Scheudle a Shutdown (and more) from your CC ; Supports iOS15~ iOS16.5 including Dopamine 2 !
 Name: CCShutdown
 Author: ExTBH
+
+Package: dev.ploosh.batterypercent
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Maintainer: Ploosh <me@ploosh.dev>
+Installed-Size: 326
+Depends: mobilesubstrate
+Filename: ./debians/rootless/dev.ploosh.batterypercent_1.0.1_iphoneos-arm64.deb
+Size: 4356
+MD5sum: 46dac96e9a4638ae41e3ff021158d1e8
+SHA1: 6168bba2a552fb30bec338ab38badd64d020d59c
+SHA256: 1aa6e98b38195b89a284ce9dea2a15cdc333ab4be95f7c39e728452564a870dc
+SHA512: 3d339f92a623c86f6219e41ad1fb2efb96cd05a0eb809b8699c29af644eb148191d214836564bb8b02f24430123febd8911a987599a66c0719638ffc20d51dcf
+Description: Enables the battery percentage in the icon that Apple hides from you.
+Author: Ploosh
+Name: BatteryPercent
+Icon: https://repo.ploosh.dev/assets/batterypercent.png
+SileoDepiction: https://repo.ploosh.dev/meta/batterypercent.json
+
+Package: dev.traurige.batterybuddy
+Architecture: iphoneos-arm64
+Version: 1.3.5
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 432
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: ./debians/rootless/dev.traurige.batterybuddy_1.3.5_iphoneos-arm64.deb
+Size: 36712
+MD5sum: cc6961e7809026f7a49c102a395509e4
+SHA1: a294d55e74a07a4aef183eff7aa09fe6d092908c
+SHA256: f8a4b362aca4dafa42b14de3cee1873c607c2f8863c7381c26919afb0c0e0705
+SHA512: a37b15439dfdfa08859a92933b6c7a928079f8d5111ab03ebf6da480b5d56ae57506f14a6fc857e5c66ca85a2392af37f9fdae442324a6421690711de0448997
+Description: Battery indicator, but cute
+Name: BatteryBuddy
+Author: Traurige & neilsardesai <hello@traurige.dev>
 
 Package: emt.paisseon.xinam1neaio
 Architecture: iphoneos-arm64
@@ -8740,6 +8840,24 @@ Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
+
+Package: netskao.batterypercentx
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootless/netskao.batterypercentx_1.1-1_iphoneos-arm64.deb
+Size: 6008
+MD5sum: 7447e20b0f4f7d7b384210a4f9bc9ca4
+SHA1: f05403ec98185fdbd14fb5cea2018c6798fcf530
+SHA256: 8ee6117098878f2e6b910516213ea7f7c6cdcbfabe9950ed19409326f5600734
+SHA512: 217767ad2b9e12fd8c31d93599a88f0c7a7cd891d26b4d982856ccd8afb07a5704f03f650b43889b299033701f1cd4c0e0cbaa287a3a165eeff335e73c532e51
+Description: Shows battery percentage .
+Name: BatteryPercentX
+Author: Netskao
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.enablebatterypercent%2Ficon.png&s=180x180&f=webp
 
 Package: org.haxi0.lunar
 Architecture: iphoneos-arm64
