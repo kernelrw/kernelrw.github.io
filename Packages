@@ -8389,7 +8389,7 @@ Name: FreePIP
 Author: Soh Satoh
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fimg.chariz.cloud%2Ficon%2Ftitan%2Ficon%403x.png&s=180x180&f=webp
 
-Package: libkrw0-dopaminee
+Package: libkrw0-dopamine
 Architecture: iphoneos-arm64
 Version: 2.0.0
 Priority: standard
@@ -8397,12 +8397,12 @@ Section: Libraries
 Maintainer: opa334 <opa334@protonmail.com>
 Provides: libkrw0-plugin
 Depends: libiosexec1 (>= 1.3.1), libkrw0
-Filename: ./debians/rootless/libkrw0-dopaminee_2.0.0_iphoneos-arm64.deb
+Filename: ./debians/rootless/libkrw0-dopamine_2.0.0_iphoneos-arm64.deb
 Size: 3112
-MD5sum: b59c8be99cf73e50b2eda605377cc482
-SHA1: 830626b9d0bb52521c73b07ecf9f14cb328544d9
-SHA256: 65eab5aa3ab77f030d52ebb0e280aac24ba6f3902ed27b208bbd6f79998316a6
-SHA512: d74ead51dc7c9139651f542ae2486a992815be5ad126b8a7e69fc1a6467d00271022131b7fade5fd87b785a2db8f0347abbeab9d5e22e3e4781095732aabbb42
+MD5sum: cc7364997db7ab67be4554198bc7a9c3
+SHA1: 9f5a9cd3b4df81b011bdbcc93583f861679f366f
+SHA256: fec1a206ac211b61e6db3aa3c0093e5d23bc2ab226c8195be6f0ec9b7b93865b
+SHA512: 2d9cafcc21831ef36cba152159082f347875f5842a96ef887d7c92e269fd38d3eca74f3a806c9f1932cd74430805b384962e12ce033e140d823e707398bd5073
 Homepage: https://github.com/opa334/Dopamine/tree/main/Packages/libkrw-provider
 Description: libkrw Plug-in for Dopamine (Shared Library)
 Name: libkrw Plug-in (Dopamine)
