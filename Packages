@@ -8238,6 +8238,25 @@ Description: Scheudle a Shutdown (and more) from your CC ; Supports iOS15~ iOS16
 Name: CCShutdown
 Author: ExTBH
 
+Package: emt.paisseon.xinam1neaio
+Architecture: iphoneos-arm64
+Version: 2.6-7
+Section: Utilities
+Maintainer: NoW4U2Kid
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp16, llvm-16, llvm-16-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debians/rootless/emt.paisseon.xinam1neaio_2.6-7_iphoneos-arm64.deb
+Size: 77388
+MD5sum: 0ae3872851818793d200037435ccacd8
+SHA1: 4d4a1e735c6f44806c27b2c3df8c634d50ee38cb
+SHA256: 102706c7f3b8196e470119c9061bec95a9fece8749a0d6cc0d2eff4a77d0cc8a
+SHA512: 46a92caac9dd7f53a363c6b22e007de568a198c5101d1c14e9e8fd245771472d57ec50afa7de6edd67391546091ff8e683b7e8153868e9feb91f500e0d7653d6
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza .
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fcokepokes.png&s=180x180&f=webp
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+
 Package: emt.paisseon.xinamine
 Architecture: iphoneos-arm64
 Version: 0.0.5-1
