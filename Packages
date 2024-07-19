@@ -1092,6 +1092,24 @@ Name: Tinge
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
 
+Package: com.parrotgeek.globalize
+Architecture: iphoneos-arm
+Version: 0.3.2
+Section: Tweaks
+Maintainer: parrotgeek1
+Installed-Size: 440
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: ./debians/rootful/com.parrotgeek.globalize_0.3.2_iphoneos-arm.deb
+Size: 5376
+MD5sum: 6d1de0f2c53e712a7ce3bde69bb4ec0b
+SHA1: e8a54ef962af36bf5752d92a7b30edc318261567
+SHA256: a8300876941bd704e2fcde0a944439777e92a70c3336f1f5227e3d6f71effe1c
+SHA512: cc1f7c1502d89089d70f688446436e2351293fec906e41cbdec2d8fe3a3a6bacc4e07a39d3b822e93620430e52559f3618dd3479318860da38a5d6336e49f1a7
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Name: Globalize
+Author: parrotgeek1
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
+
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm
 Version: 2.0.4
@@ -6737,41 +6755,6 @@ Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
 Name: FBSpNOsor
 Author: JacobCXDev <jacobcxdev@gmail.com>
 
-Package: com.kernelrw.globalize
-Architecture: iphoneos-arm64
-Version: 0.3.2
-Section: Tweaks
-Maintainer: parrotgeek1
-Installed-Size: 440
-Depends: mobilesubstrate, firmware (>= 9)
-Filename: ./debians/rootless/com.kernelrw.globalize_0.3.2_iphoneos-arm64.deb
-Size: 5952
-MD5sum: dd0307cb560d1b5ac51392d535fe4e17
-SHA1: 85725c56157e049b00d26684b1a2a49247664d66
-SHA256: b131ea59cc26a3220aacd19b2c4d98c0100020987739eccad9e26c07a3c4c9c7
-SHA512: 419654762bbf39ac45cea3c5d32d191b3afc902cf9ea952484fa1c84aac2d21e3ebea8cd47ef6f948dc6c5bac74602db9852664a478dcc60aefa66366d227b4d
-Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
-Name: Globalize
-Author: parrotgeek1
-
-Package: com.kernelrw.globalize
-Architecture: iphoneos-arm64
-Version: 0.3.3
-Section: Tweaks
-Maintainer: parrotgeek1
-Installed-Size: 440
-Depends: mobilesubstrate, firmware (>= 9)
-Filename: ./debians/rootless/com.kernelrw.globalize_0.3.3_iphoneos-arm64.deb
-Size: 6076
-MD5sum: 3d3f41cbea1ccc99d90c2b5fb3b8c4fa
-SHA1: 9e85f0625cad589b322ba126f0db9cdd482b05dd
-SHA256: 5f2edf3f5edf3e086b110b7f220be970e34f68fe0eeb32162b4566e14e6311bf
-SHA512: 34ea0974738f3a5537d0ea996c2e59951390e71be880e816eb803b48194a5651fff1b0eb6604d17a22adee83a1d1dbac2a6fda29662220a13281a457e8de8718
-Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation , supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
-Name: Globalize
-Author: parrotgeek1
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
-
 Package: com.kernelrw.half
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -8079,6 +8062,24 @@ Description: Color your badges with Perfection!
 Name: Tinge
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F65d915afdc4f78f77542f9d4&s=180x180&f=webp
+
+Package: com.parrotgeek.globalize
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Section: Tweaks
+Maintainer: parrotgeek1
+Installed-Size: 440
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: ./debians/rootless/com.parrotgeek.globalize_0.3.2_iphoneos-arm64.deb
+Size: 6036
+MD5sum: e87f2c0525ed556d4c53ccd84e577504
+SHA1: ba44bec3a5fce7de511e8beccb295a5f67df1364
+SHA256: 34283bad5ec8a2e1bef5ab890837065398a963e92c7c9d5cfb173aad19cf714b
+SHA512: 3669b0117194e716fce6e83892fc3c750f5893c062f98568327da8ee4069e08191c80185b926b67c2bb9587a5b5f33b6d4167d5d92f42ec7abf19f55f9897fc7
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Name: Globalize
+Author: parrotgeek1
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
 
 Package: com.ps.ytx
 Architecture: iphoneos-arm64
