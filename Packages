@@ -8749,6 +8749,26 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.the
 Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
 
+Package: weeb.lillie.youtubedislikesreturn
+Architecture: iphoneos-arm64
+Version: 1.12.0
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Installed-Size: 219
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/rootless/weeb.lillie.youtubedislikesreturn_1.12.0_iphoneos-arm64.deb
+Size: 24508
+MD5sum: 277a44728fee7b21290db1437cfa62cb
+SHA1: a9f7c2cdaa98094bab653ac4a4e596850d4c90f6
+SHA256: 665e1045e4e9dc48431e6f9ecf4fa46403b527684cf65a032f71ef9bea8f2d7a
+SHA512: 2c131bcd727238379338bcc90b5ac2593866baf93b529599fe3ce5e74a9525d0b0b68f613ea0f82573dc66126edf5d9e390a9a4d3582e930a7556f66623aa9fe
+Description: Bring Back Dislikes On iOS YouTube
+Tag: compatible_min::ios11.0
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Name: Return YouTube Dislike
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+
 Package: wiki.kernelrw.chromatic
 Architecture: iphoneos-arm64
 Version: 2.1-Rootless
