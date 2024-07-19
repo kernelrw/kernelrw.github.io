@@ -5495,6 +5495,28 @@ Author: zqbb
 Name: StopAutoLaunchApps
 SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
 
+Package: cm90.crossoveripc
+Architecture: iphoneos-arm64
+Version: 1.2-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 338
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/cm90.crossoveripc_1.2-1_iphoneos-arm64.deb
+Size: 12966
+MD5sum: 34969ca63ba665dce54a3ec58b6caa96
+SHA1: b3ff051ba33093ecf0c42289c5caa3d4005e043c
+SHA256: d763b16c5e0b9cc9f0987b5811517200b9a023860c2062eecfedad787912f097
+SHA512: 24695074de646133c8df571b570fb494310a6d0a7b4b781ba160fe6c7029f4d6ad339b331cae99c2ce4145b6478c14a88d19750416c7a4134fc101f3cb8200b7
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crossoveripcdopamineDp
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Tag: purpose::extension
+Author: @CrazyMind90 <CvCrazyMind@gmail.com>
+Name: CrossOverIPC ~ Rootless
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crossoveripcdopamineDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: crazymind90
+
 Package: com.0xkuj.primedeck
 Architecture: iphoneos-arm64
 Version: 1.3.0
@@ -5528,6 +5550,29 @@ SHA512: 66b51f8189c3b00fcec47c7195d789d9286e5105f2b2ce6915f12930a1a74c089d786736
 Description: Replace the snoozing title for your alarms with your actual alarm label
 Name: SnoozeLabels
 Author: 0xkuj
+
+Package: com.cokepokes.libnotifications
+Architecture: iphoneos-arm64
+Version: 0.3-6-1+debug
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 376
+Depends: firmware (>= 8.0)
+Filename: ./debians/rootless/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64.deb
+Size: 14708
+MD5sum: 63e42482f509a1396783fe24dd59ede8
+SHA1: cac5399614029b47c4343d5ae10fb293bb49f2c6
+SHA256: 576bf0805c758e37b9794c7144c4b4a3b67df28396eb49a1018d2c62a5b09d11
+SHA512: b5bb8dbade32ae85ade5eeced76663185bae089859279ef4ff56613964a05514921e58de525b8618805dc853eafc4dbcc3f19280f96b7dd00d7f362fe5812bae
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: libnotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CokePokes <cokepokes@gmail.com>
+dev: cokepokes
 
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm64
@@ -6383,23 +6428,6 @@ Author: Kernelrw
 Sponsor: Kernelrw
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F62108e334bc7792972608e7c&s=150x150&f=webp
 
-Package: com.kernelrw.cr4shed
-Architecture: iphoneos-arm64
-Version: 4.3.1-1+debug
-Section: Tweaks
-Maintainer: Muirey03
-Installed-Size: 2404
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.kernelrw.libnotifications, kernelrw.crossoveripc
-Filename: ./debians/rootless/com.kernelrw.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
-Size: 198004
-MD5sum: 731b809d2bcbe3ede14d66554b8b8245
-SHA1: 33779c29a6d6002d54e4411d4b3539b9100515aa
-SHA256: 52a7c6a4249e753b663b9cf98674e0d95471e60e459c51ac689d904447b7c347
-SHA512: 272253ee63de0a426ea3c4ecccee6fb69ace9550a120b58249134b8b77562818f7e8685fa9a356ddbd100ca9d835bf41e1134509584260e9f2a844f4e6d30b45
-Description: A modern crash reporter for iOS15 & iOS16 .
-Name: Cr4shed
-Author: Muirey03
-
 Package: com.kernelrw.crane
 Architecture: iphoneos-arm64
 Version: 1.3.14-6
@@ -6934,29 +6962,6 @@ Tag: role::developer, compatible_min::ios14
 Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
 Author: MiRO <tweaks_support@miro92.com>
-
-Package: com.kernelrw.libnotifications
-Architecture: iphoneos-arm64
-Version: 0.3-6-1+debug
-Priority: optional
-Section: Development
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 376
-Depends: firmware (>= 8.0)
-Filename: ./debians/rootless/com.kernelrw.libnotifications_0.3-6-1+debug_iphoneos-arm64.deb
-Size: 14704
-MD5sum: 2152e1f556aafe31cd2d3ce3aa29bc7a
-SHA1: dbc24bb341e86fb888646551f4c57778ed267c0c
-SHA256: 937abfcc1b4b767c9ccdf9a734a36364808109b4b8e63eb3afbf1ef560e143aa
-SHA512: 4cc4720cd19ab9008f4de0ab0f2ba739a00485744a6f5abd72c04320f3f0442fc813bc8e09dda3d5c775f9cb2f94f6a7e280cc96af0308d5783e5cc1eeeb13cd
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
-Description: App notification library.
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-Name: libnotifications
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CokePokes <cokepokes@gmail.com>
-dev: cokepokes
 
 Package: com.kernelrw.lscontacts
 Architecture: iphoneos-arm64
@@ -8002,6 +8007,23 @@ Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
 
+Package: com.muirey03.cr4shed
+Architecture: iphoneos-arm64
+Version: 4.3.1-1+debug
+Section: Tweaks
+Maintainer: Muirey03
+Installed-Size: 2404
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.cokepokes.libnotifications, cm90.crossoveripc
+Filename: ./debians/rootless/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
+Size: 197796
+MD5sum: ed2784cbb3187a14514c5ca6e5ef811a
+SHA1: 683b7428a4f09cda67f952c5e6175a3561fad245
+SHA256: e19c8f638069697328692ae6104909cf2682a333d465ce703e29c713bed99d12
+SHA512: 437d32521d905052c94478bd19b77c7cfb0baaa216b85617e704c70b3ae73dc727526093bd36b6407822d2cb31d29802ece7c3f319f0587236cad10b19548f32
+Description: A modern crash reporter for iOS15 & iOS16 .
+Name: Cr4shed
+Author: Muirey03
+
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm64
 Version: 1.2-8
@@ -8367,22 +8389,24 @@ Name: FreePIP
 Author: Soh Satoh
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fimg.chariz.cloud%2Ficon%2Ftitan%2Ficon%403x.png&s=180x180&f=webp
 
-Package: kernelrw.crossoveripc
+Package: libkrw0-dopaminee
 Architecture: iphoneos-arm64
-Version: 1.1-1+debug
-Section: Tweaks
-Maintainer: @CrazyMind90
-Installed-Size: 364
-Depends: mobilesubstrate
-Filename: ./debians/rootless/kernelrw.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
-Size: 14800
-MD5sum: 116ecdd6de0469826f3c3462966ed8e5
-SHA1: ff38f76c03acb680cab3dece8e993b229d3a508d
-SHA256: 834047a7fc98359283538148b01a88027ce5d3579aad7353b7fe9b00c30cba1d
-SHA512: 76928f39b1199fdc939eb6ee558e73ea4b16617a8ba3e2ef8af82dcd02c6dc3de156f9067b5dcf6ad2d650e6f473b63ea95edcd2634ac772f9ffe7e070d58e12
-Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
-Name: CrossOverIPC
-Author: @CrazyMind90
+Version: 2.0.0
+Priority: standard
+Section: Libraries
+Maintainer: opa334 <opa334@protonmail.com>
+Provides: libkrw0-plugin
+Depends: libiosexec1 (>= 1.3.1), libkrw0
+Filename: ./debians/rootless/libkrw0-dopaminee_2.0.0_iphoneos-arm64.deb
+Size: 3112
+MD5sum: b59c8be99cf73e50b2eda605377cc482
+SHA1: 830626b9d0bb52521c73b07ecf9f14cb328544d9
+SHA256: 65eab5aa3ab77f030d52ebb0e280aac24ba6f3902ed27b208bbd6f79998316a6
+SHA512: d74ead51dc7c9139651f542ae2486a992815be5ad126b8a7e69fc1a6467d00271022131b7fade5fd87b785a2db8f0347abbeab9d5e22e3e4781095732aabbb42
+Homepage: https://github.com/opa334/Dopamine/tree/main/Packages/libkrw-provider
+Description: libkrw Plug-in for Dopamine (Shared Library)
+Name: libkrw Plug-in (Dopamine)
+Author: opa334 <opa334@protonmail.com>
 
 Package: love.kernelrw.lisa
 Architecture: iphoneos-arm64
