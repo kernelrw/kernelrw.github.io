@@ -7265,23 +7265,23 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
 
-Package: com.p2kdev.tingee
+Package: com.p2kdev.tinge
 Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 432
 Depends: firmware (>= 15.0),mobilesubstrate
-Filename: ./debians/rootless/com.p2kdev.tingee_1.1_iphoneos-arm64.deb
-Size: 40068
-MD5sum: d537713ec9c52e949adcd6b7fdb8950b
-SHA1: 92e13b23e327105709d0980c67edad8aa7cd2cdf
-SHA256: 0884b3bdc1997389d618f83683b2d259b19e63c7b0330e897b55fea80fcf8e9b
-SHA512: 9a5467adbe67a596f19f54b55c03ab95e5ee76b1c2a6691326cacd5312fef5e1d1dee768b76c0619eee360caf83ee994e59309f66dd543da3f1f266f8a631840
+Filename: ./debians/rootless/com.p2kdev.tinge_1.1_iphoneos-arm64.deb
+Size: 40120
+MD5sum: 30dfa367211b40fc06997cc518303f9d
+SHA1: 4bd42438cd12b317a8b56a14962c7f6bd4c5d207
+SHA256: 4fc283abf8734ec425b87886985849830582ba6308bed5c66eafaf8787bfaa1a
+SHA512: 0fde22b531b2b968d92f257ae2181f97578c762ab1b8053e70555ba33f4bbcf3a4d9cc18f2c66c72335008c0a932a5641b52ad55ca61fdf961bb2886acfd989c
 Description: Color your badges with Perfection!
 Name: Tinge
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F65d915afdc4f78f77542f9d4&s=180x180&f=webp
 
 Package: com.pxcex.autoscroll
 Architecture: iphoneos-arm64
