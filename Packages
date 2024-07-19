@@ -8080,6 +8080,25 @@ Name: Tinge
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F65d915afdc4f78f77542f9d4&s=180x180&f=webp
 
+Package: com.ps.ytx
+Architecture: iphoneos-arm64
+Version: 1.6.11
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debians/rootless/com.ps.ytx_1.6.11_iphoneos-arm64.deb
+Size: 4480
+MD5sum: 485a473dfd2f73df71fb781f1fcc631f
+SHA1: b0039b3b4dfd4a8684fd92a8436a6cec80ab9ca0
+SHA256: 1fe38ca078bcc51d803fae6b660aad08a3c2882a1a618b3cc6e495796e819963
+SHA512: f4a9c5635afcffb9dd70eea2dfbb872d58e9abcf0ce41baa7bc2691f98e04dfb6960b03ffa96e1ff4a2b65f52939b86494851639520dcf880633dcf852c53979
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
 Package: com.pxcex.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
