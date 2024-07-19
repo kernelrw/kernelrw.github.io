@@ -723,11 +723,11 @@ Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 432
 Depends: firmware (>= 15.0),mobilesubstrate
 Filename: ./debians/rootful/com.p2kdev.tinge_1.1_iphoneos-arm.deb
-Size: 39136
-MD5sum: c7118dc585eb9cc84f0cdca7fdf9d24f
-SHA1: ec7fee3cdd8ff9655b1c71d36f21e832fb632aea
-SHA256: a2446cd61fae98ccab48a84e86b6cc61a6aac934fbd9374d703d8bb66350dca4
-SHA512: 25303384a06607a3c30cba2f72d69960128ea3406b3035a97014d08109142dc07041da0fd170de83de65cdaeb38a8e6ebe16070f63449fe272c4a14d663e70b6
+Size: 39164
+MD5sum: 0ae700518cedda87611546ce449b69e5
+SHA1: 24ba8b4ed2021c7771cc856732e19a34c426704d
+SHA256: 2741bd8b6fd6f167c2f463a95cb1c1f154a00c62ecead728daa9cc1ca0bc2f99
+SHA512: 7b620766fc566bcfe6c71ad6ba7a2fecbfe961d41ceb76e138f88f90bbfbb8bb709c20e9e2fa7eb93428af51dd76f834ffc39e95ed2e25c7cdcf91b137efd9bf
 Description: Color your badges with Perfection!
 Name: Tinge
 Author: P2KDev <p2kdev@gmail.com>
