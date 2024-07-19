@@ -1040,22 +1040,6 @@ Depiction: https://d.plutorepo.com/posts/AutoScroll
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
 
-Package: com.nef0pam.visionkeysaurora
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/rootful/com.nef0pam.visionkeysaurora_1.0_iphoneos-arm.deb
-Size: 511096
-MD5sum: f5d3c9078eeffc5a354c2b5cb65dc7df
-SHA1: 8ee392dd42ad9a4e283d87cfe030654e968fb49c
-SHA256: 66bf485c6a8f69083f5e1c1bf54c102b0551318748fdf76c6301a259778b7cb7
-SHA512: b28bbd3c6ca9d1b1ad9b3ab53fdc22d0a9ac562d451d25485325219241105e481a29651e6d9d1f6cd93ba7fd3b07af845bedf8c3e56c9d42712a33bc877e67fa
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm
 Version: 1.2-8
@@ -1109,6 +1093,54 @@ Description: Disables almost all region differences/restrictions on iOS devices.
 Name: Globalize
 Author: parrotgeek1
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
+
+Package: com.rahwan3d.visionkeysaurora
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.rahwan3d.visionkeysaurora_1.0_iphoneos-arm.deb
+Size: 511132
+MD5sum: b39f6e54a65f612c940bbe6232c74d99
+SHA1: 577affeef822e48e31f12e1d57790a3b5f939db5
+SHA256: 4fbd8db037eca44f3835dd1d1114261264c92e687e9850f4d393339ad53e139e
+SHA512: e9185328e69581e1e7382e363d351e38e240388b0032342b77ad638154a2a812f47816c9746735f9d6b3c8978c7de5bc3d6a77e1df31d0a632012ce63be34eb6
+Description: A beautiful Dark Blue theme for Laetus .
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.rahwan3d.visionkeyscelestia
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.rahwan3d.visionkeyscelestia_1.0_iphoneos-arm.deb
+Size: 967896
+MD5sum: 39b6a46fd3d88ea5b3c0e7d686fa7518
+SHA1: a33624b616380504dccba21dd13ae68295f592c5
+SHA256: fd737c442b0f6396ef1e18427512bb40fb952863add22181366835e59b726bc7
+SHA512: 406779dbde9b242febaa556ee6015d2ec4250055518967f437e51f114f69ceef9bc9b275f85634d10a511a1ca9fbce5285cc682c0dc4e5542a97b6bc7f0eff84
+Description: A beautiful Light mode theme for Laetus .
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.rahwan3d.visionkeysobsidian
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.rahwan3d.visionkeysobsidian_1.0_iphoneos-arm.deb
+Size: 291504
+MD5sum: decaf169b67f4d0718e85e0676a1d180
+SHA1: f121f1f22c45184d997b9f6b3f6c5ba2654f7b1f
+SHA256: 4ae3c7e79b4a66528abbeb4919bc77784a8aedc4330731e0a4ed7f920e0af621
+SHA512: 6a79c9427d6425bccf32537f18c06803c2637686a5296b6beb783cfd3b16205e24299169a4d42d3b7f95228af7c72e8fc9fe3f3e5f37c710d2d751667afe4903
+Description: A beautiful Dark mode theme for Laetus .
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm
@@ -7739,54 +7771,6 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 
-Package: com.kernelrw.visionkeysaurora
-Architecture: iphoneos-arm64
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/rootless/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm64.deb
-Size: 511188
-MD5sum: 82ea772672edff4a233690090caaa5b0
-SHA1: 238323ecabfa877239e2d06990bb8a0721a190a1
-SHA256: 2c922883cdefe41e5f7f2b182fb1f3330865e9d123cef85484c86c56b6f5a621
-SHA512: 683119c1d35f3ff6cea9e6b40bb014d81235630b29581d57b7a2c1c5276a85570b3f7750fed48648a544fe5e56a05bcdd47a960e37712ed2c18399b5f7ea5aef
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
-Package: com.kernelrw.visionkeyscelestia
-Architecture: iphoneos-arm64
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/rootless/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm64.deb
-Size: 967988
-MD5sum: f3c91fc2fda453dee91eb6b53dc8d84f
-SHA1: 605f96bb2f33af223f401ee65dd816ea01c40550
-SHA256: ea20e5816c7f48d36698c1d28ae866896e75fdd73a0106f23a35778fd92ead7e
-SHA512: 2a709a0cda610e09b9aca2e47bf686f0fd115c8080195627bfed4c936fa73936869e82a6a3927edb18a0cc0a2c73b9f2197b4d9263fb7bccc8bc228fddbe3d0c
-Description: A beautiful Light mode theme for Laetus .
-Name: VisionKeys Celestia
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
-
-Package: com.kernelrw.visionkeysobsidian
-Architecture: iphoneos-arm64
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/rootless/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm64.deb
-Size: 291572
-MD5sum: 2f8a4d70a7e8b45d21b5a2a3947a9412
-SHA1: c9f3c6b211765929fc8f85715fc23fa03536144e
-SHA256: 97ef291dade59863e99fb8150998b09228fe31ecddf2c348eb2e7b5f1f7c33df
-SHA512: 1d02eaac2ba687058710dc11c28215abf15a1772d31ed194cc1672d4895ac6ab37baabf4b47d3cd750251b2f46b1d164f471612cec8a25b672beb8800a5ebcdd
-Description: A beautiful Dark mode theme for Laetus .
-Name: VisionKeys Obsidian
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
-
 Package: com.kernelrw.visionos
 Architecture: iphoneos-arm64
 Version: 2.8
@@ -8117,6 +8101,54 @@ Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
 Name: AutoScroll
 Author: pxcex
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.braveheart.skrollerz.png&s=180x180&f=webp
+
+Package: com.rahwan3d.visionkeysaurora
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootless/com.rahwan3d.visionkeysaurora_1.0_iphoneos-arm64.deb
+Size: 511172
+MD5sum: fd4803ddc7c87c8c0e761529f0994032
+SHA1: d8f770ec63146dfac914ab815bb5ce6d95b284c2
+SHA256: 5337e25b07483b43bda6482bb5378c6d432d40de7147d860a7d0df297ba85104
+SHA512: 64c3e354a8e9565653f1d5bd3c125d16c6d06841005ccbbd3aaef48d68414e81589a41ec221176a1cfc99a8afeb08dabd57d20f467ff1b133b19d6b2586e1db3
+Description: A beautiful Dark Blue theme for Laetus .
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.rahwan3d.visionkeyscelestia
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootless/com.rahwan3d.visionkeyscelestia_1.0_iphoneos-arm64.deb
+Size: 968040
+MD5sum: 7ae123e6ea773ad4f4909c3aa0b746f9
+SHA1: eda329d076f48a5cde63e02f17ce3171c3d5f897
+SHA256: 807fee187d514b76f958d29faad61cfe1a67bbe2ac32fa441781f6e7d4dad6bc
+SHA512: 5a4253ef9c0919a5c5c701864a29f1cb8ad85f1feb9792895539ee0b5c856787ea665bcc51ff9f09752816f7d8efac9d043233206e3242f7fca6f016c7434117
+Description: A beautiful Light mode theme for Laetus .
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.rahwan3d.visionkeysobsidian
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootless/com.rahwan3d.visionkeysobsidian_1.0_iphoneos-arm64.deb
+Size: 291576
+MD5sum: 597c5f7690532e0c9fedc24b107d5a5e
+SHA1: 1e4cc983674a73a0fa0da1424fccdae4eb3ad215
+SHA256: 760802d628eaaab43dc01cb45f6b5223d76a8ed32fef42f02deb633508f4aac2
+SHA512: 2f60c55c3d2909175f9208d50c31f27c1751578b36ced1021fe50b1d49479fd8af132a721e3b4f2faf63e8c8fc1e27537f74ed364549ce614b552339255a44d6
+Description: A beautiful Dark mode theme for Laetus .
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm64
