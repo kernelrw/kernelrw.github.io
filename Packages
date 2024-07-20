@@ -552,44 +552,6 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
-Package: com.hitori.misakii
-Architecture: iphoneos-arm
-Version: 2.1.3
-Section: Tweaks
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1155
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debians/rootful/com.hitori.misakii_2.1.3_iphoneos-arm.deb
-Size: 324932
-MD5sum: 62b8b68859136c1e0a05fcde54962152
-SHA1: b5174f0d2fcc4c5386e49004ec8a87784b87ff76
-SHA256: 47cfa45cc229e9589ad671ac1a33c6b51255c39c316ea71b15a2c99ffc35c5f6
-SHA512: d8397e225e577d74658fec00a50da8e1bc35952c8626ecb64bb8d178729a74c6336bd2e6edd485fa87a9fef623763732277cd58f1c046af0f93e5de1129fa474
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Author: Hitori <mikasa-san@outlook.jp>
-Name: Misaki
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Depiction: https://chariz.com/buy/misaki
-SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
-Taq: cydia::commercial, compatible_min::ios15.0
-
-Package: com.jontelang.snapper3
-Architecture: iphoneos-arm
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Jonathan Winger-lang
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
-Filename: ./debians/rootful/com.jontelang.snapper3_1.2.1_iphoneos-arm.deb
-Size: 1022232
-MD5sum: 578b02b4a587247af8c3c657173f91e2
-SHA1: 2e95fa8590d717195e45ba99e00c141dd5cf40e9
-SHA256: 97427227e7f6e64669e1c9b944ed48dcabd67cfc7b5deac910a0a1533da87d64
-SHA512: 646ac978d26fa71cc117937619611e6ea64699c7cb05aee822e844f863395c430ca4bf7329b00bbcba458bedbc915c8031478b6cfbb0812e2bc34dc2c1b2bf50
-Description: Pin screenshots on the screen.
-Name: Snapper 3
-Author: Jonathan Winger-lang
-
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
@@ -699,54 +661,6 @@ Description: Small Notification Banners. Support iOS15+
 Name: SmallBanners
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
-
-Package: com.kernelrw.visionkeysaurora
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/rootful/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm.deb
-Size: 511116
-MD5sum: ff32bd2937f981aff7a8b917dad82253
-SHA1: b92aefeb4ff08da1f18eff3dfb9d23a18a11f2bb
-SHA256: 5cacbf447dda2a78f9fc4ac0530913ee63ec9c496e1f674b75a355104cf35094
-SHA512: 889e22ecd05d654bba0650cd2c5e9da21bce9c98f8929cec8981d80df446236ac8d949cfc8798e27ebabaac7f5ccbc424cd7aef8d87c01cd790e3d5f0d62e6e4
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
-Package: com.kernelrw.visionkeyscelestia
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/rootful/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm.deb
-Size: 967900
-MD5sum: 4660a2cc9e9219ed489a7d52f188837f
-SHA1: 030397eb1c3623f9399cefd3e70e7e42a7401dc9
-SHA256: 7c039caa647ab4aa196fd4f3ce8005d9933d6d972bfa65ef6584e79605f45103
-SHA512: c558ba50ba23246958c7949ca4373f2481737fcbbc0d39e4c692c277b9f269a685f493a01e3974a798b3d68211b78f4dad157603b14972c192417cec826f696f
-Description: A beautiful Light mode theme for Laetus .
-Name: VisionKeys Celestia
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
-
-Package: com.kernelrw.visionkeysobsidian
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/rootful/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm.deb
-Size: 291516
-MD5sum: 9a9dc71544887b750dbff7a3487e0ec7
-SHA1: b1d563c7f5fa2172a6384414b9912509659ead33
-SHA256: abbcc7bd46fdc351fb2244c9afae224b9af0f2fdb6bd2c6ac98523cb34c7d48a
-SHA512: 02ed46dcde09b71074fbdda03f284bfd6499991f0bd155bf2930dc791e81131b9741ef1f5b35ef4cc7106aeffd1b6b1bd9951719411853556b8084473daa8a2d
-Description: A beautiful Dark mode theme for Laetus .
-Name: VisionKeys Obsidian
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
 Package: com.kernelrw.watched
 Architecture: iphoneos-arm
@@ -2829,57 +2743,6 @@ Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 Author: ethxnn88 <ethxnn88@gmail.com>
 
-Package: com.kernelrw.visionkeysaurora
-Architecture: iphoneos-arm64e
-Version: 1.0
-Maintainer: rahwan3d
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.laetus
-Filename: ./debians/roothide/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm64e.deb
-Size: 518116
-MD5sum: cca44639c419603cb706aa3af37dfc32
-SHA1: 409ba767cf8b558b365a8204b0a378bd6306ee2e
-SHA256: 9812091502c98ee9a2507c752a3b2ceb1aabd38b668f6f59703429b83d35fc4f
-SHA512: c303e45ec85323743b3f0b5a77e2d1d638fbdeb1ff444678c0d4c4343058aecbfec3c9f7f11391046a399d7e49220d8f95fd3c935748f9492d8c320e798f60a6
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
-Package: com.kernelrw.visionkeyscelestia
-Architecture: iphoneos-arm64e
-Version: 1.0
-Maintainer: rahwan3d
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.laetus
-Filename: ./debians/roothide/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm64e.deb
-Size: 986818
-MD5sum: c584011bac652f40d61b9c0386dc78e6
-SHA1: 5100908dfd6ae491df9f31b70a8f38f6e56a6c37
-SHA256: 83129a52466b79242dd8f0884cf66e3f4687fb90c491e94687d50eb03f037e6e
-SHA512: 588dec94343ccefcb24b6a2bc62f1ff4f41b272512c8d4fb8799757fb17fd51be49bdc045af38fa070f82b67c1d2d4a6bfa0bed623f6b031ffeb129ce5c736cc
-Description: A beautiful Light mode theme for Laetus .
-Name: VisionKeys Celestia
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
-
-Package: com.kernelrw.visionkeysobsidian
-Architecture: iphoneos-arm64e
-Version: 1.0
-Maintainer: rahwan3d
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.laetus
-Filename: ./debians/roothide/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm64e.deb
-Size: 302572
-MD5sum: 4c4dcae3bd900d07eeae83c008241cb3
-SHA1: c7dbdba5d3943ee6f6a59438c8a3b8e5b9ea0fb2
-SHA256: 0dd4412ab850b82b76ef5f07742f418e5319fceeeb46eb5894449545a054810e
-SHA512: bd525576ee25239cd138b2017872d90beb4ff0c95d5b4ad7c6330eff1451f81d902376e12de9a60351c6db5856a6cc94439c1b43cc78efce1da42294c2098954
-Description: A beautiful Dark mode theme for Laetus .
-Name: VisionKeys Obsidian
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
-
 Package: com.kernelrw.watched
 Architecture: iphoneos-arm64e
 Version: 1.1-10+debug
@@ -3168,24 +3031,6 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Name: LibGcUniversal
 Author: MrGcGamer
-
-Package: com.mtac.alpine
-Architecture: iphoneos-arm64e
-Version: 1.4
-Section: Tweaks
-Maintainer: MTAC
-Installed-Size: 1112
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
-Filename: ./debians/roothide/com.mtac.alpine_1.4_iphoneos-arm64e.deb
-Size: 653648
-MD5sum: b1d653d38ea247b6a6412f10ee38241e
-SHA1: 297a52c4af6aa6f76cfa53d9edb70d4891f8684b
-SHA256: 53ea4bc9f8602accd59d72b841a10bd3a33b717948f9c5ca9ccc531b5eb0cb21
-SHA512: c3aefe5eb207ebe880a922c9d8e8a92fe2a695f912dd48e6280baf9d9ed0949b8512c51f25f4f7100f319f4a17ea6943c722544e347b2a19b184557ee9d2b6d5
-Description: tvOS alerts for iOS
-Name: Alpine
-Author: MTAC
 
 Package: com.mtac.ccpowermenu
 Architecture: iphoneos-arm64e
