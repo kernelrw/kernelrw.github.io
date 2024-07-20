@@ -1094,6 +1094,25 @@ Name: Globalize
 Author: parrotgeek1
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
 
+Package: com.ps.ytx
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debians/rootful/com.ps.ytx_1.7.1_iphoneos-arm.deb
+Size: 4364
+MD5sum: ad69dcd13d8cd2340e019eba36fb5972
+SHA1: 14224e13cb40b7e06c001ac114b9c29622a460ed
+SHA256: e59cc10bc1b1d69873d92c9c5de5b17e8b4c07fbd258e0c3924b8f435e092131
+SHA512: 3e9d25fa5e5c2fe64845607a3441bdf1d457d786fdfed14224015df86597f18478fd8978003cf12a549cdc216b4cc66740b41f16cd640051c920e96cda47fa73
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1161,6 +1180,23 @@ Name: ExactTime
 Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
+
+Package: com.sunshinesong.native-island
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: ./debians/rootful/com.sunshinesong.native-island_1.0.3_iphoneos-arm.deb
+Size: 147992
+MD5sum: 5c74a27ade4a3e40c1c508009a20c4d8
+SHA1: d2869e3c89595a6410cbebb3c2f95677f97efa76
+SHA256: 711e43726cd64b3f1e940a25dd0e935fcbc4f28b4fcab826b28815236a5840a4
+SHA512: 8c5e92005bbd9772526c567c3cf990f992b72ee024e86eacf3b754e54c39869416f0af811b60bdcdf91b25eb9680e4f05bb4274345d08ec64037dc3a1610ceff
+Description: Native island notifications, just keep it simple. Supports only iOS 16.0+ .
+Name: native-island-notifier
+Author: sunshinesong
 
 Package: com.yourepo.cydiageek.batteryswipeup
 Architecture: iphoneos-arm
@@ -8117,6 +8153,25 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
+Package: com.ps.ytx
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debians/rootless/com.ps.ytx_1.7.1_iphoneos-arm64.deb
+Size: 4318
+MD5sum: 48fa5c0ac4b26e17257ca7e92fe0e033
+SHA1: bcc6b5ca2526df4886c7200f376d5a72edd3cb4d
+SHA256: 9ffdc614a95679836ca925279b52eec9c8358c6822071da41bca4a1050485377
+SHA512: cebb12b68fb5f36b74e86fa1ea2600c74cf905559f5d8457321e8ddb350ffbfb7d6ea8d23e8b00089e1e3a539de25d502084a24619443b55d489d4c84d762ee7
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
 Package: com.pxcex.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -8219,6 +8274,23 @@ Name: ExactTime
 Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
+
+Package: com.sunshinesong.native-island
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: ./debians/rootless/com.sunshinesong.native-island_1.0.3_iphoneos-arm64.deb
+Size: 151636
+MD5sum: f17e79dd36dc6ecbe67a6ef5bad6aeb3
+SHA1: 0a658b57dc90ac04ed9bd9a3c310351076bed927
+SHA256: dd8022781ec2eb1c5ca04380f098c371f85615682e945dc8ff5182bf8051c4d4
+SHA512: 5dc4abaf1839c9718e6e714bca20b1bdf6a868ed6b3ff3bc736e9f75a1879cce6ae526e7bdb470a547c2f92db528101e7c3ce62eb4819b8c9034e9905763c1b1
+Description: Native island notifications, just keep it simple. Supports only iOS 16.0+ .
+Name: native-island-notifier
+Author: sunshinesong
 
 Package: com.sunshinesong.split-view-pro-helper
 Architecture: iphoneos-arm64
