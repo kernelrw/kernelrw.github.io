@@ -1183,6 +1183,28 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.skypain.kayoko
+Architecture: iphoneos-arm
+Version: 2.0.1-1
+Section: Tweaks
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 1012
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko
+Filename: ./debians/rootful/com.skypain.kayoko_2.0.1-1_iphoneos-arm.deb
+Size: 108228
+MD5sum: f5b9257866f5ffee737e94400491aaec
+SHA1: ebd6fc4e61b38874e7573022a21d79c8100d72cc
+SHA256: 9d77a0e2112d056a4786710254e36007b442e4a79bf12e14ced769418c96ab8f
+SHA512: 5119d289e27123b1ad833a338b5f7c0c7334c1b05ad642d59b15f58185fb0822cdcc9fe608eaf5e4a3e79d5031f0860f00f038c86aef871b956f1830d489e5d8
+Homepage: https://skypain.github.io/repo/
+Description: kayoko Modified 基于Traurige和Lessica的开源项目 支持Rootless和Roothide Kayoko Modified, based on the open-source projects of Traurige and Lessica, supports Rootless and Roothide.
+Name: Kayoko Modified
+Author: Traurige&Lessica
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
+Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
+SileoDepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
+
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm
 Version: 2.0.4
@@ -8281,6 +8303,28 @@ Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+
+Package: com.skypain.kayoko
+Architecture: iphoneos-arm64
+Version: 2.0.1-1
+Section: Tweaks
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 1012
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko
+Filename: ./debians/rootless/com.skypain.kayoko_2.0.1-1_iphoneos-arm64.deb
+Size: 118272
+MD5sum: 34991b8fe5f2edecec310239c253da04
+SHA1: b2da2185bb69df2dffb56680daca642676421634
+SHA256: 7bf55230242bf7bc1f2e65db219a31e553a6b294a0572cb2a295992a5c011ba7
+SHA512: d60b43ca006e5d6e732ae3c77dc9b118b2647fbe1b463a3e4c7d15fb8e1061937ca760490621c7f980657c3e86c7385e7036dc70e8b4d3d309d5605d87ab7d85
+Homepage: https://skypain.github.io/repo/
+Description: kayoko Modified 基于Traurige和Lessica的开源项目 支持Rootless和Roothide Kayoko Modified, based on the open-source projects of Traurige and Lessica, supports Rootless and Roothide.
+Name: Kayoko Modified
+Author: Traurige&Lessica
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
+Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
+SileoDepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
 
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm64
