@@ -5089,22 +5089,6 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
-Package: com.fiore.calculatorhistory
-Architecture: iphoneos-arm64
-Version: 1.1.3-2
-Section: Tweaks
-Maintainer: Donato Fiore & lclrc
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
-Filename: ./debians/rootless/com.fiore.calculatorhistory_1.1.3-2_iphoneos-arm64.deb
-Size: 16560
-MD5sum: a686eed76a81c589ee57cd18c13b98d3
-SHA1: eb49a8b0ac17d5617ea0f872eef908f213a28635
-SHA256: c14c5f37893bdd5dc99072de45c4d5f0cf79c96651ed8e2f5b74292205e05c89
-SHA512: 4bddf6627d15ed18e646089c2229793795e6857d924f773a89159f922ccf4325c9cd5422cab6e156c4c7592acd9793eba4bd8acf91ec9e097c47752d1f408aaa
-Description: Adds a calculator history button . Supports iOS13+ , rootless too !
-Name: Calculator History
-Author: Donato Fiore
-
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
 Version: 0.0~beta2a
@@ -5137,23 +5121,6 @@ MD5sum: b56af0d8e20d58ef1c3cdf80d48fa929
 SHA1: 64e69db80b18690bb088ab262d8cff31bba51b31
 SHA256: d484680643c2c576c590db455944826352ee8b1c5b548dc1b93d0807837ff53f
 SHA512: 05579f9921f04fce19ad724cef0efc09e81887ec553230ae932c5fe9d7514e32eb4bcd546a94fc142e22fed637d363a612d456ac5325178630b6f84de00da28f
-Description: Change your font easily . Supports iOS12~iOS16.7.7 !
-Name: A-Font
-Author: Baw Appie <pp121324@gmail.com>
-
-Package: com.kernelrw.a-font
-Architecture: iphoneos-arm64
-Version: 1.10
-Section: Tweaks
-Maintainer: Baw Appie <pp121324@gmail.com>
-Installed-Size: 2444
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/rootless/com.kernelrw.a-font_1.10_iphoneos-arm64.deb
-Size: 495088
-MD5sum: cd29616e4d633bb7204cf389992fe7c0
-SHA1: fcb5d2069dcc31c952c7fda633f825ebfc6b1ef3
-SHA256: 400cb98affcf443e184a4918a7ec90acb4428b5a028b340eda38a58622d7a6e0
-SHA512: b7a5a4aff04d5d79e20ae9466eb92d9bfbce058c9e448f1dd26c183cd7abcf99c85fe2c29d61ca8afb968d1d892497397cabdb6969bfeb63e2078d2f6e1c5097
 Description: Change your font easily . Supports iOS12~iOS16.7.7 !
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
@@ -5650,63 +5617,6 @@ Name: Hide SIM 2
 Author: ash <krylov0@outlook.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.coysim.png&s=180x180&f=webp
 
-Package: com.kernelrw.kayoko
-Architecture: iphoneos-arm64
-Version: 2.0.1-1
-Section: Tweaks
-Maintainer: Lessica
-Installed-Size: 1012
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, xyz.cypwn.kayoko, byg.iosios.net.kayoko, com.skypain.kayoko
-Filename: ./debians/rootless/com.kernelrw.kayoko_2.0.1-1_iphoneos-arm64.deb
-Size: 111844
-MD5sum: bded7ec8c2b861673c847cae8b36c3ec
-SHA1: c456a5c8a65221023a497b8a7214f7fc8c0c7eab
-SHA256: ce8ca18cb3ad3fbbe70f95a77c9558fe58e2a663d4c282fc7c58422d70e3e10e
-SHA512: 665dc8b2f7b84ff48a7ef0bb5309c10fad2ff9d1679d997a924e9c5cfd8271710533935083e09708b669f956a8d32dc5d2a96710bf68bb7bcf1978e1494bd803
-Description: kayoko now on Dopamine 2 ; supports iOS15.0 through iOS16.7.7
-Name: Kayoko
-Author: Traurige&Lessica
-Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
-
-Package: com.kernelrw.kayoko
-Architecture: iphoneos-arm64
-Version: 2.0.5
-Section: Tweaks
-Maintainer: zqbb
-Installed-Size: 956
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: ./debians/rootless/com.kernelrw.kayoko_2.0.5_iphoneos-arm64.deb
-Size: 82612
-MD5sum: 5f0fcdd7ab0621d7c7bb3ba383fd68b7
-SHA1: d2201cccd6c72054f0b4549dc1c9ddc51c436a88
-SHA256: af89dd643d690b4444d92911848e69fe659dda7d449e970b501e791ec70694f9
-SHA512: 46b89edcf96ef14f0f914829987d83805b5900036c7fa1a90e77e3d69f5e57b27103d4b9e6654447349c88c84bf08a443923bf244f1d827e4d14721a8ba0c58c
-Description: Clipboard manager for iOS15 ~ iOS16
-Name: Kayoko
-Author: AlexandraAurora
-Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
-
-Package: com.kernelrw.kayoko
-Architecture: iphoneos-arm64
-Version: 3.0
-Section: Tweaks
-Maintainer: Lessica
-Installed-Size: 1012
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, xyz.cypwn.kayoko, byg.iosios.net.kayoko, com.skypain.kayoko
-Filename: ./debians/rootless/com.kernelrw.kayoko_3.0_iphoneos-arm64.deb
-Size: 110824
-MD5sum: 03aab9c18c2c98a6220f3be1ae01c9c4
-SHA1: 8faf35c93c7e377fa11534812d527dadb31da6b2
-SHA256: 0004d6ed0855083a357c9c5b16dd083ebbefdd7018dc0f485a4cc5606bf85a98
-SHA512: 2ea4fd9616f7021b60c1548af6785453b910684f4fd7e8d4691d39acc7ecb4d63b7ece91a8691626394c4af64a85220b592385f241631ba8e74c1528bc76e030
-Description: kayoko now on Dopamine 2 ; supports iOS15.0 through iOS16.7.7 !
-Name: Kayoko
-Author: Traurige&Lessica
-Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
-
 Package: com.kernelrw.letmeknow
 Architecture: iphoneos-arm64
 Version: 1.4.2
@@ -5773,30 +5683,6 @@ Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
 Author: MiRO <tweaks_support@miro92.com>
 
-Package: com.kernelrw.myswitches
-Architecture: iphoneos-arm64
-Version: 1.0.7
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 506
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debians/rootless/com.kernelrw.myswitches_1.0.7_iphoneos-arm64.deb
-Size: 65676
-MD5sum: 62998c2686e3de8cff605022f880582b
-SHA1: f19b423d7928aa472110669bb9fafacc4e955d23
-SHA256: 0e0dc7483cd8eee3ead9f4d19270af85686f08276745dfb4add1caf3a4cc8d8e
-SHA512: a79bd66d1ee748cd2cca691c59ce4d81169d20efa3dd022ccc616ffad99b8a916bb1405b4242a0f32aa0095ff9e5d51b7bb907b8836072f34a2b6eba87d10d26
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myswitchesDp
-Description: Custom options for the Switches on System Wide. خيارات متعددة للمفاتيح
-Tag: purpose::extension
-Name: MySwitches
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myswitchesDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-Icon: file:///var/jb/Library/PreferenceBundles/MySwitches.bundle/MySwitches@2x.png
-
 Package: com.kernelrw.nointerruptwhenplayingmusic
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -5833,30 +5719,6 @@ SHA512: c995e1d0b7bfd46730f57b43a276c25bf1dc530189f45003ae04c461f7f4cd9c19b86bb2
 Description: Change your now playing app icon to the album artwork of currently playing music!
 Name: NowPlayingIconXVI
 Author: Ethan Whited
-
-Package: com.kernelrw.opa334
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: ichitaso
-Installed-Size: 168
-Pre-Depends: firmware (>= 14.0)
-Depends: mobilesubstrate
-Filename: ./debians/rootless/com.kernelrw.opa334_1.0.0_iphoneos-arm64.deb
-Size: 8980
-MD5sum: 428027a5875bd5b2f5be43a3f3f5c6e7
-SHA1: f8935c133fbd06bdd444c031a0313bbda32bdac9
-SHA256: 4e54076d5b7ebdb701e6d5c83022b426f437039a09d44aec39358c15f33b4f57
-SHA512: 07200c178d8032f8730bb7a0e932bf8c91559336f6a0417927544b9fdec51b7589472ea01b52f50ce31cae70c1a291bd9c755e40a3d2a99e3d6d1673ca57e554
-Homepage: https://ichitaso.com
-Description: SpringBoard tweaks / always thanks Opa334
-Tag: purpose::extension, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17
-Author: ichitaso
-Name: opa334
-Depiction: https://cydia.ichitaso.com/depiction/opa334.html
-SileoDepiction: https://cydia.ichitaso.com/depiction/opa334.json
-dev: ichitaso
-Icon: https://pbs.twimg.com/profile_images/1798706447758553088/zhkyGQas_400x400.jpg
 
 Package: com.kernelrw.padswitcher
 Architecture: iphoneos-arm64
