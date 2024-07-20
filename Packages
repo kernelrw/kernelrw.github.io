@@ -651,6 +651,27 @@ Name: betterAlarm
 Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
 Depiction: https://chariz.com/buy/betteralarm
 
+Package: com.noisyflake.velvet2
+Architecture: iphoneos-arm
+Version: 2.1.2-3
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debians/rootful/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm.deb
+Size: 95920
+MD5sum: 04b17711b412d65d58993581f2169e4f
+SHA1: 573cd967334dff18b815801a0eedecb2e2ab7d0a
+SHA256: b439715212763eaed100eb38852451767fcaae2e62f051945bbc91be6851723b
+SHA512: 478a834aead64a115184e3e7f9f45ab7919004cae412f0763d79178e500e23f2f85e695a4ff76ecdbadc39c43c837808e7c2bb91d711a1471358ccba6d5184ae
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Name: Velvet 2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Depiction: https://chariz.com/get/velvet-2
+
 Package: com.parrotgeek.globalize
 Architecture: iphoneos-arm
 Version: 0.3.2
@@ -6209,6 +6230,27 @@ Author: NoisyFlake <support@noisyflake.com>
 Name: betterAlarm
 Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
 Depiction: https://chariz.com/buy/betteralarm
+
+Package: com.noisyflake.velvet2
+Architecture: iphoneos-arm64
+Version: 2.1.2-3
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debians/rootless/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64.deb
+Size: 95422
+MD5sum: 73091f5e4411fbd42a9e54aa0f3fc13a
+SHA1: d040c4851660ac3d913c76fa8fe87e0dd3fe82d6
+SHA256: 60c2aace71723542f533721307f6dfc37a07d3c58c7fe449688bc1c6136f75f1
+SHA512: f8be45fc77557995f101573bbc4ff4037a7f66e769b52184affb3fab543f180fefe2539180717d9c3317d1ec374b19bacc12c7d9b176b4dbefad30c7b9581f4b
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Name: Velvet 2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Depiction: https://chariz.com/get/velvet-2
 
 Package: com.p2kdev.alarmtime
 Architecture: iphoneos-arm64
