@@ -1161,6 +1161,28 @@ Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.10~beta4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 552
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/rootful/com.rpetrich.rocketbootstrap_1.0.10.beta4_iphoneos-arm.deb
+Size: 22398
+MD5sum: fc07621fec870ef08f74f58aa5088a33
+SHA1: 8dd1b2b4506221c802e6d08658a33ab735f84eb3
+SHA256: 75bfd8f03f51d9ac4016bf2db14bf075e36c842c32b78b96f840aa3ccb5b6500
+SHA512: 9913882131964d2cf7a485241b6be7590b6ff82b5a2377e823043e4fcf224f4e15394c6ecc6cb4b1486e1cd92c0d420e9b626fc0652099adb4bdcdee30a35ff7
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm
 Version: 2.0.4
@@ -8237,6 +8259,28 @@ Description: A beautiful Dark mode theme for Laetus .
 Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm64
+Version: 1.0.10~beta4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 532
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/rootless/com.rpetrich.rocketbootstrap_1.0.10.beta4_iphoneos-arm64.deb
+Size: 19380
+MD5sum: 8573198183a0186a9aa70067ec7ea226
+SHA1: d4bac0d682bc2f6c5e7132bbec357cf18629fb4f
+SHA256: f765e3b95d6e5bf01d71d938ac220ef578d25f6fdfe02a5e65cf2a21da2ef0b5
+SHA512: 6675f91a5f8666947f6872d1127cf15ea75c5ca550ae3953fa59a0bebae29502207bf8c04f53b0ab61ba438331456c2701c49ca9d0095f87d4fddcc2c44d993e
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm64
