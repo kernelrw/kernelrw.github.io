@@ -1,3 +1,26 @@
+Package: chaoge.chargelimiter
+Architecture: iphoneos-arm
+Version: 1.6
+Priority: optional
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5452
+Depends: firmware (>= 5.0)
+Filename: ./debians/rootful/chaoge.chargelimiter_1.6_iphoneos-arm.deb
+Size: 1990100
+MD5sum: 604fce8c63bfa29bd9c0db1d9605f188
+SHA1: 8e230e492d9e2c8aaf35525b6493b40bff0b8e0e
+SHA256: a53ce7bb360099c0c6a550d3b91239636e5b02485145cfe25bf85859b5ca62c6
+SHA512: ed8cf4cfd52451ba596f82419301d357c1100a037fad828ec182f222a6c43491802357317cc5fb5f2ffae0de84a98c8e1c2da645f250c1bf8812a78c47277515
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargelimiterDp
+Description: Manage battery and prevent long-time overcharge
+Name: ChargeLimiter
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargelimiterDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: chaoge <571652571@qq.com>
+dev: chaoge
+Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
+
 Package: com.0xkuj.snoozelabels
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1107,6 +1130,46 @@ Description: Shows battery percentage .
 Name: BatteryPercentX
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.enablebatterypercent%2Ficon.png&s=180x180&f=webp
+
+Package: xyz.skitty.quietdown
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Skitty
+Installed-Size: 432
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/rootful/xyz.skitty.quietdown_1.1.2_iphoneos-arm.deb
+Size: 42892
+MD5sum: bcf3408647f7a4754af9ce22936cecb4
+SHA1: b440bb8a3847895f221c0768fe9124a82ebe578c
+SHA256: 102d767c26abeca18e74937ed58aacec706868bc9955cab865d89708b704a2c2
+SHA512: 3f3877059dde30174455dd84c2727fe40e13b5dd59b8a82108135a3f02950d138749350eb25e1b54d34616e691acb58a540513ac06bce74518b64af123f020cc
+Description: Mute Notifications for Time Periods
+Name: QuietDown
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.quietdown/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.quietdown/sileo.json
+Author: Skitty
+
+Package: xyz.skitty.spectrum
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Skitty
+Installed-Size: 580
+Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
+Filename: ./debians/rootful/xyz.skitty.spectrum_1.1_iphoneos-arm.deb
+Size: 54144
+MD5sum: b61d2cad4b745b89141914421f5bf821
+SHA1: 9dc01a51cfa8e7660c934b75f8479dced90fbcdc
+SHA256: 153314f83cd7b471e6e32309562475bcc401e535e79800c9b667b8a170aa8488
+SHA512: ae27e62989db45456ceaf0cc6fb45e1a586758440e8e70874e556f603e9b07d626fc818d03cb58da257a612fa3667251aabef634ddcd386769bf5cb1ac00af75
+Description: Customize system colors!
+Name: Spectrum
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
+Author: Skitty & EvenDev
 
 Package: xyz.skitty.sushi
 Architecture: iphoneos-arm
@@ -4669,6 +4732,29 @@ Author: zqbb
 Name: StopAutoLaunchApps
 SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
 
+Package: chaoge.chargelimiter
+Architecture: iphoneos-arm64
+Version: 1.6
+Priority: optional
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5452
+Depends: firmware (>= 5.0)
+Filename: ./debians/rootless/chaoge.chargelimiter_1.6_iphoneos-arm64.deb
+Size: 1993270
+MD5sum: 8203535a6317107816865069c42d90e4
+SHA1: 415bcfce1bcd1030c66f2322ec1389044fd903fe
+SHA256: 661c6faeae47970a2790f40c6bf8207444dad3349fbad9d7b42efc3ef436f47a
+SHA512: 672994a05864d8eda62381fbc4fe46457ac77d345dacb00342e2944be40cc0a6e11875a87be78b860bd5b37ef667b3e7d03a5665cfda8d739c92f8090fc58f70
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargelimiterDp
+Description: Manage battery and prevent long-time overcharge
+Name: ChargeLimiter
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargelimiterDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: chaoge <571652571@qq.com>
+dev: chaoge
+Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
+
 Package: cm90.crossoveripc
 Architecture: iphoneos-arm64
 Version: 1.2-1
@@ -6272,14 +6358,15 @@ Maintainer: Muirey03
 Installed-Size: 2404
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.cokepokes.libnotifications, cm90.crossoveripc
 Filename: ./debians/rootless/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
-Size: 197796
-MD5sum: ed2784cbb3187a14514c5ca6e5ef811a
-SHA1: 683b7428a4f09cda67f952c5e6175a3561fad245
-SHA256: e19c8f638069697328692ae6104909cf2682a333d465ce703e29c713bed99d12
-SHA512: 437d32521d905052c94478bd19b77c7cfb0baaa216b85617e704c70b3ae73dc727526093bd36b6407822d2cb31d29802ece7c3f319f0587236cad10b19548f32
+Size: 197304
+MD5sum: 4ece66da5099d05cc4c72cbe6eb57f65
+SHA1: d736551200a3c60ce95746c7a2135769cf6912ac
+SHA256: 51528d3a9484f970981587aefe3ec8397f599111a009ac5d269ddb07b78a49c1
+SHA512: 0c7a6ce884bb4a3f7f979e1306647819c5b79c91085892df75c82f2acade046680374b59a6df96215738e8a7ce046de459f4e6735a570c7fed1b11c4a8bec3d0
 Description: A modern crash reporter for iOS15 & iOS16 .
 Name: Cr4shed
 Author: Muirey03
+Icon: file:///var/jb/Applications/Cr4shed.app/AppIcon83.5x83.5@2x.png
 
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm64
@@ -6472,11 +6559,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 188
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/rootless/com.rpetrich.powercufff_1.2_iphoneos-arm64.deb
-Size: 14092
-MD5sum: eff59dcddfc23da5bdd1cdb6b07ec926
-SHA1: 4f35462b02a6bcdb6ff5b19f16b4467dc7df0560
-SHA256: 116725a1006bac6c9e6e90c8ce76bac74d4faae5585bcbeb89bd9937da3cd7f2
-SHA512: 8fbe4fbdd3fabb457967a6ba12b0b69c557a0c1b86855d32236f7d8820d64bef97d8817ec2a214fdfe850ce5c3ef664a652374a8126b8844d0f3cfc1b1583ebe
+Size: 14104
+MD5sum: 90abeb4c25a7aec6bfefe621f76d109b
+SHA1: 2ec0dac95be7a658184395469582937dbaf1a229
+SHA256: 6d52fa20db0665f64a8273d47606c20f5c2e2ff7077fa883e6fb8a04170c79cd
+SHA512: 1199ad640a25f89ea93fc36e01b61c48f0238a1a47e56ec7c00efdd42b0643cebf8be82a8bc299b991dcbc4fb12a8460d4b207520f1b4eb9f25b3d4f1ada3ca2
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
 Tag: purpose::extension
@@ -6485,7 +6572,7 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-Icon: file///Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64
@@ -7060,6 +7147,46 @@ Author: Saily Team <support.0xa1@qaq.wiki>
 Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
+Package: xyz.skitty.quietdown
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Skitty
+Installed-Size: 432
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/rootless/xyz.skitty.quietdown_1.1.2_iphoneos-arm64.deb
+Size: 44068
+MD5sum: 1672b9f649378e68076e88b8df0cb273
+SHA1: 25f67fa1e00c1202056d735a2ad6dd093e296552
+SHA256: daaf0c47efebe15e73649e33935673c2a119ac14afcb9ca02d1ad8818afd68af
+SHA512: b85d7e9af7c344a774594e4d7f424caf04e8540d9e357e634f21c4f39bde8ad5656754a51f6af0cc15bc17c15bfd6fe7d0dd8b52541ed228d151fd30f5c9a647
+Description: Mute Notifications for Time Periods
+Name: QuietDown
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.quietdown/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.quietdown/sileo.json
+Author: Skitty
+
+Package: xyz.skitty.spectrum
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Skitty
+Installed-Size: 580
+Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
+Filename: ./debians/rootless/xyz.skitty.spectrum_1.1_iphoneos-arm64.deb
+Size: 55772
+MD5sum: 7bcd3f7ac7638f6062ad65f18ec9cef4
+SHA1: 0b3d630727763469017461366f6b76fee80532e6
+SHA256: 094c265ff831ccc171535e90fe60567e78c99e74a7a59c8e2d03f456aa8cb201
+SHA512: 5f10a21c6fea9877bf4e0cddcbe4cc55d5219e9f786a31eca79b4cffddd36be46184934e1e22262a2ce50591375818c928e8acf9b10169d06c136a2d69d91e69
+Description: Customize system colors!
+Name: Spectrum
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
+Author: Skitty & EvenDev
 
 Package: xyz.skitty.sushi
 Architecture: iphoneos-arm64
