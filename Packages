@@ -322,23 +322,6 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
 
-Package: com.darwindev.alternative-springboardservices
-Architecture: iphoneos-arm
-Version: 0.1-2
-Section: Tweaks
-Maintainer: Darwin Developer <82flex@gmail.com>
-Installed-Size: 260
-Depends: firmware (>= 13.0), com.rpetrich.rocketbootstrap, com.opa334.libsandy
-Filename: ./debians/rootful/com.darwindev.alternative-springboardservices_0.1-2_iphoneos-arm.deb
-Size: 17282
-MD5sum: 3d8ec9146abd1c14b1d37176c66f9648
-SHA1: ef34f5514276415d96f87aaba9551e62689c4b98
-SHA256: 7d8bac3821b3c583fffa1a86de0798c456344fc8a02dbc6244abd7ca85b9e1a7
-SHA512: c6f01f69def4802bd7831c8e0d3ee220c9e9bcb0dc3a2f77224850630faaff727b9c169b4ad495f46228527eb7fee95cb7e78cf280b07870f3ae9d4a8531e282
-Description: An alternative SpringBoardServices implementation for iOS 13 and above, especially for iOS 15 and above.
-Name: Alternative SpringBoardServices
-Author: Darwin Developer <82flex@gmail.com>
-
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -4899,23 +4882,6 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
-
-Package: com.darwindev.alternative-springboardservices
-Architecture: iphoneos-arm64
-Version: 0.1-2
-Section: Tweaks
-Maintainer: Darwin Developer <82flex@gmail.com>
-Installed-Size: 260
-Depends: firmware (>= 13.0), com.rpetrich.rocketbootstrap, com.opa334.libsandy
-Filename: ./debians/rootless/com.darwindev.alternative-springboardservices_0.1-2_iphoneos-arm64.deb
-Size: 16856
-MD5sum: d8875634ef5ede87961d436b079cbf91
-SHA1: 98824a5e4962dc43ff27a0c6f3af7c03c41dec39
-SHA256: fae4728e2ef37d5eb773dea202c3eb0e0f7444751202c6f62ecbcb0b65bdd313
-SHA512: 85052e4b175851320f48123d1c4d937d05ce0290e142258168c37e17a10dbb45d69ddcf9c0151e7abe5a8430db193c61c4921558d5f3b107c8181a15272842b1
-Description: An alternative SpringBoardServices implementation for iOS 13 and above, especially for iOS 15 and above.
-Name: Alternative SpringBoardServices
-Author: Darwin Developer <82flex@gmail.com>
 
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
