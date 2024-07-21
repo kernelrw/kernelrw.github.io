@@ -38,18 +38,18 @@ Description: Replace the snoozing title for your alarms with your actual alarm l
 Name: SnoozeLabels
 Author: 0xkuj
 
-Package: com.34306.messed
+Package: com.34306.messedd
 Architecture: iphoneos-arm
 Version: 3.1
 Maintainer: Little 34306
 Installed-Size: 2440
 Depends: mobilesubstrate
-Filename: ./debians/rootful/com.34306.messed_3.1_iphoneos-arm.deb
-Size: 292848
-MD5sum: 8300975ef9e55284d9c7fe9155d33780
-SHA1: 019135c78d2edf57104ced7a806a42e19097f980
-SHA256: f78bf3cf169f44d4eb31d3e0e7a53d030038c30a22618a06329909aeaa4650b4
-SHA512: 7dcb9b28fea211c6b7a53d67a1f212f75124fa52e0e51dca9deb403114ea7ea1497c5989e1066d4f8dd7d13f1e78cf8d2c53823b617ec5251a3f012a89b7131e
+Filename: ./debians/rootful/com.34306.messedd_3.1_iphoneos-arm.deb
+Size: 294100
+MD5sum: a6b337866fe581eb7de72266055cf87f
+SHA1: dfa8faf1c268add8e7bc3ece4396d52333e8a3ef
+SHA256: 70a405784b5a4de56f2cea90398feb52b0966e9b8985d203e68fd4822eb4d727
+SHA512: 83a5898d0e7834aa48787856d8b85c03bf592c8852d8958c4186a2b0e0b191606169cc929042d0506b385f19ba5590b8e3ce7e6078f476bc4c61cd558f0ca588
 Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
@@ -506,29 +506,6 @@ Name: PadSwitcher
 Author: SWING
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
 
-Package: com.kernelrw.powercuff
-Architecture: iphoneos-arm
-Version: 1.2
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/rootful/com.kernelrw.powercuff_1.2_iphoneos-arm.deb
-Size: 13832
-MD5sum: d100f1081ac0f5aaff88b63d3f096a01
-SHA1: 59aefc0a3d472d8efb816e0fd4bb8b69cd2e874a
-SHA256: f5cd910eac532ab16f2f6c07baffde241dc2c85c34e21a134489774afcbd3b7c
-SHA512: 6cb2090cdc023f3ad20bb4adbf5b31cbdcdb5b0903312b089fce8ef4f51d6f05d656e87144a650886c8e8a712c8826a57435e7146172847473a147eb6fffa39c
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
-
 Package: com.kernelrw.rosemary
 Architecture: iphoneos-arm
 Version: 1.0
@@ -911,6 +888,29 @@ Description: A beautiful Dark mode theme for Laetus .
 Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
+Package: com.rpetrich.powercufff
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootful/com.rpetrich.powercufff_1.2_iphoneos-arm.deb
+Size: 13780
+MD5sum: d846ccfecad9a8b77ad3b099c85523de
+SHA1: f21c5033a9e9a3e50adaf6449e94f81e2656fc4c
+SHA256: cbbf9e342adc759d0d3f781af0b11dd8d9e0f25dd363541f29d4fc7081333699
+SHA512: 973a1147c9eb79ebbabb72e46ba956f2b14849d2d96aeae0266cf2ae0b7426da6524b278cbb42ec6b106deba4023589fbbc40c190ca158f664a2c21497c266a9
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
@@ -4845,18 +4845,18 @@ Description: Replace the snoozing title for your alarms with your actual alarm l
 Name: SnoozeLabels
 Author: 0xkuj
 
-Package: com.34306.messed
+Package: com.34306.messedd
 Architecture: iphoneos-arm64
 Version: 3.1
 Maintainer: Little 34306
 Installed-Size: 2440
 Depends: mobilesubstrate
-Filename: ./debians/rootless/com.34306.messed_3.1_iphoneos-arm64.deb
-Size: 305704
-MD5sum: 63a3e56556cb1e6473507f3b321a72e2
-SHA1: 9662bb1178a39764ebf5a7de54845bd3ee543e92
-SHA256: 1dbced13147a3ed08b0e49193cf16cc2d2cd80fd2078a5306370c9aafc741331
-SHA512: bed5e7b450535bb57530a230cf5f424d8cb28d3e3f280c425ad44191044232b7b58b427dabd7993b2f47c986e4f0578ea0809ff81b5751c836a02d36260cdee2
+Filename: ./debians/rootless/com.34306.messedd_3.1_iphoneos-arm64.deb
+Size: 305952
+MD5sum: c2b978abd959dc191f1ba1ad2d318c54
+SHA1: 8ad103b49e254da6286da4cc0b8babe87753ca59
+SHA256: 1df624dfb2220d1e2928f91a029b4ea0bad32007f2bd2c7a65bbdd8f9461b6a4
+SHA512: d4969dc2141df62c804ea8d67d875cb3f4a02533f857cbf5cc1bd32350a0e64d399fe18d52674aa288fb9db80fd1191939f24753fe4ca396ba0606f6dd5b33e5
 Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
