@@ -23,14 +23,15 @@ Maintainer: b4db1r3
 Installed-Size: 1028
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debians/rootful/com.b4db1r3.omakase_1.0_iphoneos-arm.deb
-Size: 145216
-MD5sum: e1440fbb8b119ffece0dfc7ba6ad6d84
-SHA1: 4d19c230d968c676c4a10095658ffba3a901c95a
-SHA256: 51c6922ec7b44cbffa1d02d3a7efcdb284ac163409444664f70197aff790f3a0
-SHA512: b5e1fb5f4dad49c6e94d783dfef373cc78435587d0f4a2c4e99ad750c68b97c98a9916dd427ba530060652d8e7ae0397b319fac549ec3040562113507b6b49d1
+Size: 145884
+MD5sum: 338b8e7b8740616af73513fdd2bc49e8
+SHA1: 3eeb16d29673062b72f4615206b12e9127826cf4
+SHA256: 0d538e0030b5549458e19f44f5b7ac72fe7d9c7509cbafd11a6dc2b942287077
+SHA512: d78561f90471e52378a78a93936bf6202f48145d2a96ba474df012173f67ac3a4db0254050f418faf237e91ecfc27da7b830ac8c3dfa0a678cedbd26b0d6a48b
 Description: Now playing card, with expandable when clicked!
 Name: Omakase
 Author: Skitty & b4db1r3
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.b4db1r3r3p0.omakase.png&s=180x180&f=webp
 
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
@@ -4637,14 +4638,15 @@ Maintainer: b4db1r3
 Installed-Size: 1028
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debians/rootless/com.b4db1r3.omakase_1.0_iphoneos-arm64.deb
-Size: 160504
-MD5sum: db925458e2905bd66f75faa122b5a8c6
-SHA1: 53666cf9f682607373bc7f5539e3a4e690ac9fbf
-SHA256: d9c687718ce30ab8f685852855bbce919906659222b47a715fb2470a5fca8a81
-SHA512: d95ae5a3b6175ae46284cc5b096f22a65124ee9598a250d6779a391410892347571bbf836f4c322a88252a3c8bd713b03189308a73f5410f1513fcbbb450aef4
+Size: 149988
+MD5sum: 3dab3c02c0e26655dba7ee504cce3e1b
+SHA1: 39e3b6ef05e60f7a59d3b8107f1c2f07d1d14338
+SHA256: 2a92d11ac8a7391056ee3ba10d746a8f2a7f90a7603abf6d5310969fe9f183d1
+SHA512: fe8bcdb8314cb1828f0c370f419568123fd9fba110d605da30605744061ecf985ef2a75eccc439a665dc1cb2a0731cd39e96fa9e910f2ddb46cbf0fb3abd7c63
 Description: Now playing card, with expandable when clicked!
 Name: Omakase
 Author: Skitty & b4db1r3
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.b4db1r3r3p0.omakase.png&s=180x180&f=webp
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
