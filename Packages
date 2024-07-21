@@ -322,6 +322,23 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
 
+Package: com.darwindev.alternative-springboardservices
+Architecture: iphoneos-arm
+Version: 0.1-2
+Section: Tweaks
+Maintainer: Darwin Developer <82flex@gmail.com>
+Installed-Size: 260
+Depends: firmware (>= 13.0), com.rpetrich.rocketbootstrap, com.opa334.libsandy
+Filename: ./debians/rootful/com.darwindev.alternative-springboardservices_0.1-2_iphoneos-arm.deb
+Size: 17282
+MD5sum: 3d8ec9146abd1c14b1d37176c66f9648
+SHA1: ef34f5514276415d96f87aaba9551e62689c4b98
+SHA256: 7d8bac3821b3c583fffa1a86de0798c456344fc8a02dbc6244abd7ca85b9e1a7
+SHA512: c6f01f69def4802bd7831c8e0d3ee220c9e9bcb0dc3a2f77224850630faaff727b9c169b4ad495f46228527eb7fee95cb7e78cf280b07870f3ae9d4a8531e282
+Description: An alternative SpringBoardServices implementation for iOS 13 and above, especially for iOS 15 and above.
+Name: Alternative SpringBoardServices
+Author: Darwin Developer <82flex@gmail.com>
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -4883,6 +4900,23 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
 
+Package: com.darwindev.alternative-springboardservices
+Architecture: iphoneos-arm64
+Version: 0.1-2
+Section: Tweaks
+Maintainer: Darwin Developer <82flex@gmail.com>
+Installed-Size: 260
+Depends: firmware (>= 13.0), com.rpetrich.rocketbootstrap, com.opa334.libsandy
+Filename: ./debians/rootless/com.darwindev.alternative-springboardservices_0.1-2_iphoneos-arm64.deb
+Size: 16856
+MD5sum: d8875634ef5ede87961d436b079cbf91
+SHA1: 98824a5e4962dc43ff27a0c6f3af7c03c41dec39
+SHA256: fae4728e2ef37d5eb773dea202c3eb0e0f7444751202c6f62ecbcb0b65bdd313
+SHA512: 85052e4b175851320f48123d1c4d937d05ce0290e142258168c37e17a10dbb45d69ddcf9c0151e7abe5a8430db193c61c4921558d5f3b107c8181a15272842b1
+Description: An alternative SpringBoardServices implementation for iOS 13 and above, especially for iOS 15 and above.
+Name: Alternative SpringBoardServices
+Author: Darwin Developer <82flex@gmail.com>
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -6793,6 +6827,21 @@ Description: Shows battery percentage .
 Name: BatteryPercentX
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.enablebatterypercent%2Ficon.png&s=180x180&f=webp
+
+Package: oldabi
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Maintainer: Xina520
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debians/rootless/oldabi_1.1.0_iphoneos-arm64.deb
+Size: 6852
+MD5sum: 548c3aa8332a7a281bf9d988ae95bc84
+SHA1: 6a6603a5f430771e62556295f74df1e63d32b2fe
+SHA256: 249c98809c2251eb13ad2a7aceba11391f72aa118006530c6e1ed2ed000b5f38
+SHA512: 68ceeacc44cf69de5dd910c20d53c77ff19a83a41dea56182f466e0c68afcec6c4ec8c3fa5e19400fd068dfa9d2b31e167c255194fb285bef8e021fc4a1387fa
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Author: Xina520
+Name: Old ABI for Dopamine
 
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64
