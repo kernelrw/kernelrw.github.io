@@ -5757,74 +5757,6 @@ Name: PadSwitcher
 Author: SWING
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
 
-Package: com.kernelrw.powercuff
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/rootless/com.kernelrw.powercuff_1.0_iphoneos-arm64.deb
-Size: 14028
-MD5sum: bb8c757d61c2c8bb3ea6cc5d90a2213e
-SHA1: e5ea7a33fd20da9481e4795852f6bf820370cc72
-SHA256: 6535c719a6cf0fadbb5729d131794783765525bb3a2edfa3d3aeb9e20ce525b3
-SHA512: 8a31b52bf342f375242f4193829a934dbac6354873a5954acc9e50da9f83f400107210b9bc9050e3a296eac2bcb7f5040b76ce81fd1902eaeebe1165579a8d28
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-
-Package: com.kernelrw.powercuff
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/rootless/com.kernelrw.powercuff_1.1_iphoneos-arm64.deb
-Size: 14124
-MD5sum: 467a3265537b94fc8f0f6f83abc82754
-SHA1: f62c1ce17331ac60d4f5080886c13bea3a012268
-SHA256: 40268936acdf6be06cd6de10563848c892fc4ca60b660784c5513a7e321b57a4
-SHA512: 7c04e9dc93f00ff166d3b1d2745178bf1dceb99d5ebb8ca3e83be92e04e693f51038e587332df67c258225487dde394849668acd94417f7ab933dafbd043dfe2
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
-
-Package: com.kernelrw.powercuff
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/rootless/com.kernelrw.powercuff_1.2_iphoneos-arm64.deb
-Size: 14152
-MD5sum: f4f7d02da8e24cf3e65ee9bf7226a9af
-SHA1: 4a0cc0a052e2bda47dba5ab291225d60b09ee243
-SHA256: 8357da56089aefcce86c0712cf93f8ad5f507cbb7fdfd65609f6e544a401dbd7
-SHA512: 39e5e24caedb63fa0bf74b1d6390386f8d9467d55b2dfcfe082cfc056c483799d1af6e8873ce23efd3ea080ceb4507cfe6e53fc11987b572c80008edd4751f09
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Frepo-of-a-noob.png&s=150x150&f=webp
-
 Package: com.kernelrw.raisetowakecc
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -6531,6 +6463,29 @@ Description: A beautiful Dark mode theme for Laetus .
 Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
+Package: com.rpetrich.powercufff
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootless/com.rpetrich.powercufff_1.2_iphoneos-arm64.deb
+Size: 14092
+MD5sum: eff59dcddfc23da5bdd1cdb6b07ec926
+SHA1: 4f35462b02a6bcdb6ff5b19f16b4467dc7df0560
+SHA256: 116725a1006bac6c9e6e90c8ce76bac74d4faae5585bcbeb89bd9937da3cd7f2
+SHA512: 8fbe4fbdd3fabb457967a6ba12b0b69c557a0c1b86855d32236f7d8820d64bef97d8817ec2a214fdfe850ce5c3ef664a652374a8126b8844d0f3cfc1b1583ebe
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: file///Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64
