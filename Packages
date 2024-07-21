@@ -614,6 +614,84 @@ Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
 
+Package: com.miro.libmiroshared
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>= 14.0)
+Filename: ./debians/rootful/com.miro.libmiroshared_1.0.2_iphoneos-arm.deb
+Size: 708352
+MD5sum: c811559d3f853e4c0ecb68e81cc34cbf
+SHA1: 5cc2f98f854cf5a6e4a11b763671861b44d35525
+SHA256: 31e5dc3a68dd4dafd4b810cae46f1e3d9f6739dd5e08b8305706a5bad1275efd
+SHA512: 97af513c8a0c54b75844422c3d7f0d584dbc9df9380f8d4147e95f7930661dbae634bb514aa6d4b46b715ba92d05c57ed1ba2ad53a38e8626edfb732c9d8df3e
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Name: libMiROShared
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.uyou
+Architecture: iphoneos-arm
+Version: 3.0.4
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 31212
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debians/rootful/com.miro.uyou_3.0.4_iphoneos-arm.deb
+Size: 10848488
+MD5sum: 48ecdb41504053930d19d0c5c701369c
+SHA1: 96cb930d3c41178c9b66656d3e71c9b9807bfe1f
+SHA256: 3880c6bc986f912808bffa687d76cfb76fe6c83299fe27b3b1beb8b6896769eb
+SHA512: 314c305973b8fa9bb9532d2dc11df91f6a331af86effcf8d23914977fbcf25845436ae59731dbce17d9d7b484fee39b2f15ee661660286ac78e792eef7f63f41
+Description: Enhance Your YouTube Experience
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+
+Package: com.miro.uyouimport
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 444
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debians/rootful/com.miro.uyouimport_1.0_iphoneos-arm.deb
+Size: 79296
+MD5sum: d88e46e7141cd38bf9f64b77845aeefd
+SHA1: ea4fad2a800899ac2c1771fe325aefc6ef3f2799
+SHA256: a8fe94cc27b9a7a3bbf19b2b416b1b59af82063622efebe53082b5941faddfcd
+SHA512: d4eb14816380470067fa34638f375a26cae7f206c9e2757bf80478968cc50f959cefc4454960bacf1368b9d5e58b5dcde141729721ac36a947c46103f867f3c9
+Description: Library for importing songs/videos into the Music app.
+Tag: purpose::extension, compatible_min::ios13
+Name: uYouImport
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.yellowpages2
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader,com.miro.libmiroshared (>= 1.0.2), com.opa334.libsandy
+Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
+Filename: ./debians/rootful/com.miro.yellowpages2_1.1_iphoneos-arm.deb
+Size: 237728
+MD5sum: 1b1378318386bc3a7718e20da8803c25
+SHA1: f4a4a9f0b6263f37a55d0de25fccd0330ffb8cda
+SHA256: ecde07bba8e2de4d46d5ed55ac581ce3912bf798623f2b9f85276391e1e71ba2
+SHA512: b93eed9dfc08ab13847b9913b06f485e79adf72ca75ec4bf67f174f4974ea03891180675917ea66feac77eb586dfca962e0e9e254956d01d48fb6ba756bb9184
+Description: Say Goodbye to Unknown Callers
+Tag: purpose::extension, compatible_min::ios14
+Name: YellowPages 2
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
+
 Package: com.nef0pam.a-font
 Architecture: iphoneos-arm
 Version: 1.10.1
@@ -5624,24 +5702,6 @@ Tag: role::developer
 Name: libhdev
 Author: Hao Nguyen <hao.ict56@gmail.com>
 
-Package: com.kernelrw.libmiroshared
-Architecture: iphoneos-arm64
-Version: 1.0.2
-Section: Development
-Maintainer: MiRO <tweaks_support@miro92.com>
-Depends: firmware (>= 14.0)
-Filename: ./debians/rootless/com.kernelrw.libmiroshared_1.0.2_iphoneos-arm64.deb
-Size: 733612
-MD5sum: 1f22675e7f3fc94edf433f39a0bba6f1
-SHA1: 6d1d9d47d50cfa45faac2549873ba102d9c14b79
-SHA256: cdca8e7e20b9b7ddd181b67d5cb7b9858d328359c2d4d96ea0ac21c222db7d7c
-SHA512: a2831e50e3f3578bf116ebb290e014b3d30786d42d86d422770c198c27a50349c52069a3eec27bf14bd7ea062eb6941672fe8ae96247dd6e4310d76fa8e9a496
-Description: Shared library for my tweaks.
-Tag: role::developer, compatible_min::ios14
-Name: libMiROShared
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
-Author: MiRO <tweaks_support@miro92.com>
-
 Package: com.kernelrw.nointerruptwhenplayingmusic
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -6008,46 +6068,6 @@ Description: Useful actions on the Keyboard Dock View!
 Name: UnderDock
 Author: P2KDev <p2kdev@gmail.com>
 
-Package: com.kernelrw.uyou
-Architecture: iphoneos-arm64
-Version: 3.0.4
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 31212
-Depends: firmware (>=13.0), mobilesubstrate, com.kernelrw.uyouimport
-Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debians/rootless/com.kernelrw.uyou_3.0.4_iphoneos-arm64.deb
-Size: 10999184
-MD5sum: 1a58e15b721c6c4686c75ee6f71930c7
-SHA1: 900ceebe71b1b7134318a7bad921c68094345768
-SHA256: 177ca225983b2f74398a173f601e95b278fe71342ee39cb6e2490508c5aca2b6
-SHA512: c9defc50f56d5a8860fa99cf8992c72818dc1311ef815e11d0c9ccf2566f9548f30c42d25387e3e16c6e842bb02f6d19d54b83677a5189e38fbeb14a1206fd51
-Description: Enhance Your YouTube Experience
-Tag: purpose::extension, compatible_min::ios13
-Name: uYou
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
-
-Package: com.kernelrw.uyouimport
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 444
-Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debians/rootless/com.kernelrw.uyouimport_1.0_iphoneos-arm64.deb
-Size: 81440
-MD5sum: 2d266c7699a4f3fc3b4318b0b23df479
-SHA1: 56c97d3e6dfaa9da36ae78fe6dec10a8a6814721
-SHA256: 3eff4a92e34066c0ee7b3dab9b0ce6f6e85463a4cff63d097d6526bdfd215c43
-SHA512: ad672dea0d4ea4331678e54c43422ab4d5dba739212f692fe752c57c31d878eba03ee1da2168fc403521c1e761efb3e4520241fb417d66cb9681ae9cee91dd29
-Description: Library for importing songs/videos into the Music app.
-Tag: purpose::extension, compatible_min::ios13
-Name: uYouImport
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
-Author: MiRO <tweaks_support@miro92.com>
-
 Package: com.kernelrw.veza
 Architecture: iphoneos-arm64
 Version: 1.2.0
@@ -6084,26 +6104,6 @@ Description: Pair your Apple Watch on new watchOS with older iOS , supports iOS1
 Name: watched
 Author: 34306
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
-
-Package: com.kernelrw.yellowpages2
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader,com.kernelrw.libmiroshared (>= 1.0.2), com.opa334.libsandy
-Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
-Filename: ./debians/rootless/com.kernelrw.yellowpages2_1.1_iphoneos-arm64.deb
-Size: 239988
-MD5sum: c0997befe21114d0d1ed143b7a8ee1c6
-SHA1: e3dbc57cf57dcd103d98353021bf5af7b559bf1b
-SHA256: e94231bc8cac910db310632b7803dee2f589b386a341bdf38efaae170a685e31
-SHA512: 085d78d4b5573903af73bf602e69cd2d543759a4faa6c58cc8868bfea9a076be9e69335159c0e1490f4c4571d4057a8cc35e9d98684e67df8e00ce8702550beb
-Description: Say Goodbye to Unknown Callers
-Tag: purpose::extension, compatible_min::ios14
-Name: YellowPages 2
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
 Package: com.kernelrw.youtopia
 Architecture: iphoneos-arm64
@@ -6253,6 +6253,84 @@ Description: Show hidden apps on the homescreen
 Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
+
+Package: com.miro.libmiroshared
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>= 14.0)
+Filename: ./debians/rootless/com.miro.libmiroshared_1.0.2_iphoneos-arm64.deb
+Size: 731888
+MD5sum: d89fa57bf4cce865559fe68f38fb6b5b
+SHA1: ab6bbdccdb93d4f2939aa1c50bf75dc24d93a278
+SHA256: 5696dc095adffaca8eed5bf3e977ef72871b0503063ab28408f55e562ed083b1
+SHA512: 5123dec11e08cea360ebf6778e29ef30cbcac3105da951730e144ed49279659e27f5fb4994fdcec376ae152951f02fe21e34cdfeb3b5f1e7cc69424d747b0a6f
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Name: libMiROShared
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.uyou
+Architecture: iphoneos-arm64
+Version: 3.0.4
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 31212
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debians/rootless/com.miro.uyou_3.0.4_iphoneos-arm64.deb
+Size: 10999188
+MD5sum: 064dc015f0b3af8d79bbf3e4e4ffbc9f
+SHA1: 5b3d351b08d2c9d5354d958d4c30d56300b19ae2
+SHA256: 869f87a363b5e8605a23a2ee0e17a51f64d968a07d39823d201dadf7e4533311
+SHA512: 0eed46e79c745a56bcf32e2a889c951acbac17545191f76f9ce809214de0c0931d12219c0f1ff31e41ecf607e2655d25f5ce8a93dd01f0475b75d3f3bbfb3b27
+Description: Enhance Your YouTube Experience
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+
+Package: com.miro.uyouimport
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 444
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debians/rootless/com.miro.uyouimport_1.0_iphoneos-arm64.deb
+Size: 81300
+MD5sum: 8ac10664efe5cf8d39eb114e34d2b790
+SHA1: e1d1ba8f938d3c67da2d087150149f190cd460e9
+SHA256: ab833975549b77da4b2da330924d57488ea1dc16eccb7e58b1b63013f230d863
+SHA512: 3b535979e78a294499eb77123c18a6d6e029465867781fdd008243a684a65d9943edc4b40c98cd7d2e830aec11de3ffcf047bb3359e799455833e12acff90aba
+Description: Library for importing songs/videos into the Music app.
+Tag: purpose::extension, compatible_min::ios13
+Name: uYouImport
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.yellowpages2
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader,com.miro.libmiroshared (>= 1.0.2), com.opa334.libsandy
+Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
+Filename: ./debians/rootless/com.miro.yellowpages2_1.1_iphoneos-arm64.deb
+Size: 239820
+MD5sum: 75fc33bd2d0541a0062eae7b1dd3df74
+SHA1: 043c6facf8a2e428cc37e79afbc1800669ef0367
+SHA256: 3adea74c0cd270161949a53e41688237fe5cfe82ca1ee9050a9c24d39f5fc15a
+SHA512: 097e48688635a495057540a4045cefbd29b81250be2360197f7f857cb989d8c838be2a5b5f060a2d56df4b65155dcc2fa9ab626190d813a4939686a50c48d171
+Description: Say Goodbye to Unknown Callers
+Tag: purpose::extension, compatible_min::ios14
+Name: YellowPages 2
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
 Package: com.muirey03.cr4shed
 Architecture: iphoneos-arm64
