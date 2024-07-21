@@ -5825,24 +5825,6 @@ Description: Change your now playing app icon to the album artwork of currently 
 Name: NowPlayingIconXVI
 Author: Ethan Whited
 
-Package: com.kernelrw.padswitcher
-Architecture: iphoneos-arm64
-Version: 1.1.0
-Section: Tweaks
-Maintainer: SWING
-Installed-Size: 368
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
-Filename: ./debians/rootless/com.kernelrw.padswitcher_1.1.0_iphoneos-arm64.deb
-Size: 26280
-MD5sum: 4138ddfc57d03b2e4f596efc21b9d450
-SHA1: 6c91a599d3038bcdc535939c1cd62600264b47f0
-SHA256: a992652648edebdcc3c04a2960c96f777a2d0f1eb2943af141fcf4c3eafdbfa0
-SHA512: 32a08c5a7ed7b19f3b1036082349e6c88b732606512af7a16239af9db678e734db652f50e38ba961d6ed50e317fc12d306d2d2494dc901f9a115e6ea3954b054
-Description: iPad Switcher but for iPhone . Supports iOS15.0 ~ iOS16.5 on Dopamine 2
-Name: PadSwitcher
-Author: SWING
-Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
-
 Package: com.kernelrw.raisetowakecc
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -6726,6 +6708,24 @@ Description: Remove Ads From AppStore
 Name: AppStoreNoAds
 Author: SWING
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.appstorenoads/icon.png
+
+Package: com.swing.padswitcher
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: SWING
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debians/rootless/com.swing.padswitcher_1.1.0_iphoneos-arm64.deb
+Size: 26276
+MD5sum: 1aa08a36ecd6e4641245cf4c955963bc
+SHA1: 3809a85f7c986e9851d438cea7a9d4d6d919bd6b
+SHA256: cc50d48b9ec83e4cfbd97c78fed13f34bd9873b0b867afc38e8d10e5bd624c16
+SHA512: fc593b3aca1692382d3dbae57b85eea6ab5ef38a5aacb7c6063e5f1ffb263b232df95baa9b1b5ce221628edadef672900c76002fad3dbd1d7276daf33102bebe
+Description: iPad Switcher but for iPhone . Supports iOS15.0 ~ iOS16.5 on Dopamine 2
+Name: PadSwitcher
+Author: SWING
+Icon: file:///var/jb/Library/PreferenceBundles/PadSwitcher.bundle/Icon@3x.png
 
 Package: com.udevs.dockxx
 Architecture: iphoneos-arm64
