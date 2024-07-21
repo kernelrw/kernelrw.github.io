@@ -380,6 +380,25 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
 
+Package: com.dao.spotify
+Architecture: iphoneos-arm
+Version: 4.5
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 2568
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Conflicts: com.eevee.spotify
+Filename: ./debians/rootful/com.dao.spotify_4.5_iphoneos-arm.deb
+Size: 508272
+MD5sum: 26e0b6b05c90d98c0e3c1ec400d98b68
+SHA1: fddfda8d1adcd3f8ec1903d7cc1489b65c6b380a
+SHA256: 1ec21747645fad885217d3463fd656a6a4244790fadd5ab9f4e44f65f52f61cb
+SHA512: de010328612d912c03f49d33de5e28f0bb42802e9e8b2e7cdf9255670f793296cf87746684856557c799bbbc049508b7ba7f9f30ce2a6b1517a25abd72c3e611
+Description: Spotify Premium for free .
+Name: EeveeSpotify
+Author: Eevee
+Icon: https://repo.cypwn.xyz/packages/EeveeSpotify-Rootless/icon.png
+
 Package: com.darwindev.alternative-springboardservices
 Architecture: iphoneos-arm
 Version: 0.1-2
@@ -1147,6 +1166,21 @@ Description: Shows battery percentage .
 Name: BatteryPercentX
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.enablebatterypercent%2Ficon.png&s=180x180&f=webp
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm
+Version: 1.26.0
+Section: Tweaks
+Maintainer: eevee
+Filename: ./debians/rootful/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm.deb
+Size: 1251172
+MD5sum: 196a427dca0f2e3794ad52791142b0e0
+SHA1: cf8a346c9e96fbc0512c627770a8db3714c53325
+SHA256: 21a31ce78e68a14944f400726970676b3025a7414031395c6d4e104fe6fc8aff
+SHA512: f052cb0c40ea02a465832fbaf43e419ef71ff820f3673f5b22fd79d4ab9e8348c5cade3ca28a2005616210f1aaa80c3e8ebb7cbf5edb78b0ce0b2787bfa923b1
+Description: EeveeSpotify
+Name: SwiftProtobuf(rootless)
+Author: eevee
 
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm
@@ -5176,6 +5210,25 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
 
+Package: com.dao.spotify
+Architecture: iphoneos-arm64
+Version: 4.5
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 2568
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Conflicts: com.eevee.spotify
+Filename: ./debians/rootless/com.dao.spotify_4.5_iphoneos-arm64.deb
+Size: 520960
+MD5sum: cda392fa1a83d579dc5ecc7096acca8e
+SHA1: c86b2fbd5f14ccea1d6025bcdab31cb1fbe8d81b
+SHA256: c96c4668fa00023cbf939409c575073b02fe812dd11376c753594bdcbc3ec9df
+SHA512: 02cf6d5392a68f9199bc43f698efafa967ac71cb57123947d020cd372702b12462722ca52de4306071c61c6ca2699594e49209216af99ff46e4e2ec412f27396
+Description: Spotify Premium for free .
+Name: EeveeSpotify
+Author: Eevee
+Icon: https://repo.cypwn.xyz/packages/EeveeSpotify-Rootless/icon.png
+
 Package: com.darwindev.alternative-springboardservices
 Architecture: iphoneos-arm64
 Version: 0.1-2
@@ -7096,6 +7149,21 @@ SHA512: 68ceeacc44cf69de5dd910c20d53c77ff19a83a41dea56182f466e0c68afcec6c4ec8c3f
 Description: Support for legacy arm64e ABI in iOS 15.0+
 Author: Xina520
 Name: Old ABI for Dopamine
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64
+Version: 1.26.0
+Section: Tweaks
+Maintainer: eevee
+Filename: ./debians/rootless/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64.deb
+Size: 1272376
+MD5sum: a73093704300c3363c0ea1363386c895
+SHA1: 9c048f4bc50ff3c6475c107965a827f717221a08
+SHA256: 6cb13ea28cbd5058759c5783646c145d23aa170ccac14ceb60c82f9d619fc07b
+SHA512: cfdfd70bf716430283f2a7bb27eab405044de47e9a86d9da0cd59f83df1d6c8d8b67bb76f93258b45e341fc44547e517448e86231d1eb4765c9646a1781d794a
+Description: EeveeSpotify
+Name: SwiftProtobuf(rootless)
+Author: eevee
 
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64
