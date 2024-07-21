@@ -15,6 +15,23 @@ Description: Replace the snoozing title for your alarms with your actual alarm l
 Name: SnoozeLabels
 Author: 0xkuj
 
+Package: com.b4db1r3.omakase
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: b4db1r3
+Installed-Size: 1028
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/rootful/com.b4db1r3.omakase_1.0_iphoneos-arm.deb
+Size: 145216
+MD5sum: e1440fbb8b119ffece0dfc7ba6ad6d84
+SHA1: 4d19c230d968c676c4a10095658ffba3a901c95a
+SHA256: 51c6922ec7b44cbffa1d02d3a7efcdb284ac163409444664f70197aff790f3a0
+SHA512: b5e1fb5f4dad49c6e94d783dfef373cc78435587d0f4a2c4e99ad750c68b97c98a9916dd427ba530060652d8e7ae0397b319fac549ec3040562113507b6b49d1
+Description: Now playing card, with expandable when clicked!
+Name: Omakase
+Author: Skitty & b4db1r3
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -1011,6 +1028,26 @@ Description: Shows battery percentage .
 Name: BatteryPercentX
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.enablebatterypercent%2Ficon.png&s=180x180&f=webp
+
+Package: xyz.skitty.sushi
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Skitty
+Installed-Size: 704
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/rootful/xyz.skitty.sushi_1.0.1_iphoneos-arm.deb
+Size: 117040
+MD5sum: 40a73eb4e789789326a3fc517384fa7a
+SHA1: 1678a19807acd4b3d514b0737e32e4db8ec7dfd9
+SHA256: 5ae6bfa8790bae00f53f38c06af8c82ce175188f469c63536dd77d1af53b8da7
+SHA512: 080943dd1f4af62860d7e76cfdf9bfa9aee269bd4133383198d287ee6f2d999e7bd9857eabc6cc185d1228424f1990ee7f95016919a13220ac9e801bda7b69ed
+Description: Now playing banner with integrated media controls!
+Name: Sushi
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.sushi.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/sileo.json
 
 Package: alias20.confirmtodo
 Architecture: iphoneos-arm64e
@@ -4592,6 +4629,23 @@ Description: Replace the snoozing title for your alarms with your actual alarm l
 Name: SnoozeLabels
 Author: 0xkuj
 
+Package: com.b4db1r3.omakase
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: b4db1r3
+Installed-Size: 1028
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/rootless/com.b4db1r3.omakase_1.0_iphoneos-arm64.deb
+Size: 160504
+MD5sum: db925458e2905bd66f75faa122b5a8c6
+SHA1: 53666cf9f682607373bc7f5539e3a4e690ac9fbf
+SHA256: d9c687718ce30ab8f685852855bbce919906659222b47a715fb2470a5fca8a81
+SHA512: d95ae5a3b6175ae46284cc5b096f22a65124ee9598a250d6779a391410892347571bbf836f4c322a88252a3c8bd713b03189308a73f5410f1513fcbbb450aef4
+Description: Now playing card, with expandable when clicked!
+Name: Omakase
+Author: Skitty & b4db1r3
+
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
 Version: 0.3-6-1+debug
@@ -6971,4 +7025,24 @@ Author: Saily Team <support.0xa1@qaq.wiki>
 Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
+Package: xyz.skitty.sushi
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Skitty
+Installed-Size: 704
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/rootless/xyz.skitty.sushi_1.0.1_iphoneos-arm64.deb
+Size: 119406
+MD5sum: c028e8038d8af0abdb9ce2e86a7fcfef
+SHA1: 7f6265b7bb185028d2cb142cdae65017383b7ad7
+SHA256: 9b6b1be3c11ef3083a0350e0ebf180fc92513f85ff3187fbb01f9852bc1bfe14
+SHA512: e4a4b5ee16bf62fd7af7f4c96dcdfb8062de9101267103436c02f2a47db487fce7dd3558a19be9af738aa294ddbb477148620853e6ba412e4946f7165b2e9aed
+Description: Now playing banner with integrated media controls!
+Name: Sushi
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.sushi.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/sileo.json
 
