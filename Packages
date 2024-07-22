@@ -7101,21 +7101,22 @@ Icon: https://repo.litten.love/depictions/Lisa/assets/icon.png
 
 Package: love.litten.rose
 Architecture: iphoneos-arm64
-Version: 1.2
+Version: 1.1
 Section: Tweaks
-Maintainer: Litten
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/love.litten.rose_1.2_iphoneos-arm64.deb
-Size: 429988
-MD5sum: 089de856f603af257ca3d882c73d9529
-SHA1: 8e6c043d6435481c17fcbcac2552159f1362bd47
-SHA256: 09221252bb3b10a599736f4dcd8775ef6597ad6390581a6ac4ec0e1973eac39f
-SHA512: d96ffa9c68ff90c8d128a7f34abfa93cc2bf73719f12c3d897714f2fd388cdde3756f63b903fe2ad7e0e24adbbf5375c2890cc166776ae28a4b8569aad81a434
-Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Maintainer: zSaaiq
+Installed-Size: 1104
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), dev.traurige.libkitten (>= 1.3.3)
+Filename: ./debians/rootless/love.litten.rose_1.1_iphoneos-arm64.deb
+Size: 378768
+MD5sum: f24cc9db028c5cc2f85a075ca8a73cb5
+SHA1: 09261e5e3a58c9201d8d4753aad141ad437fc448
+SHA256: 4384faeca7372cab3dff954e8c680595194fb6f92c1635889ed3484e45362c53
+SHA512: 148635a0caa45ef0bb6ee9d1dc83260740a80a22dab7c13f6706ad89254a8966b2e8b909831e55d24bf3621ce3ff7300404ec51cb365641c1f84bcf0f08ce0ab
+Description: The most advanced and feature rich system wide haptic feedback tweak
 Name: Rose 🌹
 Author: Litten
-Depiction: https://repo.litten.love/depictions/Rose/index.html
-SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/rose.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/rose.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
 
 Package: me.kernelrw.sileorespring
