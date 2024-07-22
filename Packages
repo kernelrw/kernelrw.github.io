@@ -5592,6 +5592,23 @@ Icon: https://repo.cypwn.xyz/packages/Debra-Rootless/icon.png
 Name: Debra
 Author: Sudo, Paisseon & Korboy
 
+Package: com.kernelrw.debra
+Architecture: iphoneos-arm64
+Version: 2.9.7
+Section: Utilities
+Maintainer: Kernelrw
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debians/rootless/com.kernelrw.debra_2.9.7_iphoneos-arm64.deb
+Size: 23972
+MD5sum: aa4af9caf7e183e6148a8b5732bbcbc4
+SHA1: accf2d630b33bf365fe3d52b4111eaf50c20b04a
+SHA256: 185f98529762e5be0971f265ad841c1d4023a0df1cdc1cbfae40d5d838904728
+SHA512: 92e36e9b7b94e5152f0499233b69f1a6428825e59ae342560bd933a463862342b806ac72edd419b3e2d66657a4706dd9d511394b763f997ab604ccf4c646ee7a
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Icon: https://repo.cypwn.xyz/packages/Debra-Rootless/icon.png
+Name: Debra
+Author: Sudo, Paisseon & Korboy
+
 Package: com.kernelrw.digitalbattery13
 Architecture: iphoneos-arm64
 Version: 1.1.0
