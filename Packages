@@ -90,6 +90,23 @@ Name: Omakase
 Author: Skitty & b4db1r3
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.b4db1r3r3p0.omakase.png&s=180x180&f=webp
 
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm
+Version: 4.3-4+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/rootful/com.bandarhl.bhtwitter_4.3-4+debug_iphoneos-arm.deb
+Size: 1533608
+MD5sum: 28290c12a95961c4f8b1ebf875741927
+SHA1: fa8e87ca5ab5c4f428091b2e37f1841aef158c43
+SHA256: 1e749e3f349f314f0bb3983ebe96fe7a05dac0bd654294567991673102a6b3b8
+SHA512: 4050781b4391d0d9bb8ceeebf4e6c8546fd6d118d573d8b53e6c0273e699388bb9837b0dcc982c986df2d62020f3f01181402955390e1f1e624bff10acc4d200
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -1818,6 +1835,24 @@ MD5sum: 9133e71370573924b24d32a9a06d31f9
 SHA1: 6f1c88ec4345e83af62d5b5aa55666444a364ca7
 SHA256: 0128c05bda0dcc707203985784e89ac02fb8cfd95edf88bc17f4669b20056a16
 SHA512: fa0866c5f9522f2d04522005efdc33c29ae677f71b9d4fccda7a88d0c980cc354d86d64c332b417b78de3026831977edb7ff2dc2e70af27580ba6ccedd8ac13c
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/roothide/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64e.deb
+Size: 3730114
+MD5sum: f41b3b4ff4e5546c98db9e680967e7a7
+SHA1: 37b4d8e3e43ef865228892ab635db490379b1228
+SHA256: f63fb046cb43558ab5863255d38c613cc69e1c54b5e2e9187df702db98ccc650
+SHA512: f08eaeb76579f593a931782130b41e87f87ec774b1a344a1f41378700ca9e8f5b3c5dc59d6a7edd6605f47b15fe35b68b82f14751fb241e52c296793b7565578
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
@@ -4932,6 +4967,23 @@ Description: Now playing card, with expandable when clicked!
 Name: Omakase
 Author: Skitty & b4db1r3
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.b4db1r3r3p0.omakase.png&s=180x180&f=webp
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/rootless/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64.deb
+Size: 1533684
+MD5sum: 8577c7b9a31a23aba2a48bb87898b38d
+SHA1: 6d6fcff8ccbb55fefffc561672c26a7d521604d5
+SHA256: 9440749414f3f14f059dc74733f87a8abe2c749baf64c867c2305623d8bde2be
+SHA512: 32a49d5b7679bb42491ecfa72e9964bd315c519374d702041e87541f85b02a8291cc5159be53ddaeddd524a3b9ef2bd4242be0a3b61e090594716d234d4f9fbd
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
