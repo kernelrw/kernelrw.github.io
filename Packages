@@ -6173,24 +6173,6 @@ Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollp
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.i0s-tweak3r-betas.switcherish.png&s=150x150&f=webp
 
-Package: com.kernelrw.underdock
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: Tweaks
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 676
-Depends: mobilesubstrate
-Conflicts: com.restiveconch.actionbar, com.udevs.dockx
-Filename: ./debians/rootless/com.kernelrw.underdock_1.2_iphoneos-arm64.deb
-Size: 57612
-MD5sum: b8ec0bc3da3625571eb8c003fa0a0fa5
-SHA1: dfd8fdcece9710c7f1547a512bb7de93800d2bd5
-SHA256: cf49c84f66b088cdbfb7cee79a53f197ffa4d4b103252c8fc6bf38f169e7342c
-SHA512: fb0d09917da9908d99ab7f36d985e0b78693c73ef90657a75bff7567fd247f51c35bbb76d313a1017663ab91a2df82edad504bea738cb427a97c4d1ee88382fb
-Description: Useful actions on the Keyboard Dock View!
-Name: UnderDock
-Author: P2KDev <p2kdev@gmail.com>
-
 Package: com.kernelrw.veza
 Architecture: iphoneos-arm64
 Version: 1.2.0
@@ -6561,11 +6543,11 @@ Installed-Size: 680
 Depends: mobilesubstrate
 Conflicts: com.restiveconch.actionbar,com.udevs.dockx
 Filename: ./debians/rootless/com.p2kdev.underdockk_1.3_iphoneos-arm64.deb
-Size: 58512
-MD5sum: 4aa4e27ff816bf633c9e2bc46f201231
-SHA1: bb603c5db09c7fb3ee9563c251cbf0e58731c4df
-SHA256: b8c6c7c909d79d721622de698d7c93e07dfa41ffcfe47124b549a3104fccf9c7
-SHA512: 7a6343fe9550a431685766467004d3d8b0296ef9761207380a0f164a43c0b15f61f7eba85aded75b41cd9f70c4341da36ac68eacd2018ba610771fd037cce47b
+Size: 58492
+MD5sum: 78eef737b58b0a70957e213b69a49508
+SHA1: 1f66a86fef5aea0d81de9c806e68abcfd072e243
+SHA256: c285f5508357f7f3e5087230a86e886cf1a36edab328973128421c570b1ed00d
+SHA512: 6ade4e650750d2c156dc50a7279b31494df1c0f969dbd258e308f97bbd6506e3182e0067592868717a193267de4f3b899714cb6f5ef131a0465a50ed400cee79
 Description: Useful actions on the Keyboard Dock View!
 Name: UnderDock
 Author: P2KDev <p2kdev@gmail.com>
