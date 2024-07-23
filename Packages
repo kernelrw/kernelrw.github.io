@@ -7226,6 +7226,27 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.the
 Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
 
+Package: re.frida.server
+Architecture: iphoneos-arm64
+Version: 16.4.7
+Priority: optional
+Section: 插件依赖
+Maintainer: Frida Developers
+Installed-Size: 53888
+Conflicts: re.frida.server64
+Filename: ./debians/rootless/re.frida.server_16.4.7_iphoneos-arm64.deb
+Size: 15343260
+MD5sum: 7002efd9b25c844b3afad6eaa1d20e5a
+SHA1: 5074d9708cc08c26015e249e3a450dce1a5b3699
+SHA256: 8783f659d57c60300d7c1d37080fcfabcbbfd2b39055fd9414b756890b6fb459
+SHA512: 8650aa5834edbaff8fd47b105963679ecccd1592dfdae084a617f2cf3de0f9b7deaf1660df2247ba6907b72c7bc652df595b3f0effb80e095ff1444442192711
+Description: Observe and reprogram running programs.
+Name: Frida 调试
+Author: Frida Developers
+Icon: https://apt.wxhbts.pro/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
+Depiction: https://apt.wxhbts.pro/view/10291
+SileoDepiction: https://apt.wxhbts.pro/sileo/10291
+
 Package: weeb.lillie.youtubedislikesreturn
 Architecture: iphoneos-arm64
 Version: 1.12.0
