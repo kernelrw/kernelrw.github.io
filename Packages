@@ -7188,17 +7188,15 @@ Package: korboysfilzascripts
 Architecture: iphoneos-arm64
 Version: 1.1
 Section: Utilities
-Maintainer: CyPwn
+Maintainer: Korboy
 Depends: curl, dpkg, grep, sed, sudo
 Filename: ./debians/rootless/korboysfilzascripts_1.1_iphoneos-arm64.deb
-Size: 9052
-MD5sum: 0416ecf113bdf0194c73e221e22fe0ee
-SHA1: 41969c799b531326ae7a9fe5cafcb92ed76c3fb2
-SHA256: e0a8653934dcf0fd0b09da25dec2139713f54319b70efb9bf810000d88117abf
-SHA512: dfb8b0ba7a8fc66eaa58b260e4bf2bd964850f9259e7b18c2fbd7a879b6c294da212f8faee0324b9275141c87a597375b2c3f1042341ae9e44e063294793a5eb
+Size: 9032
+MD5sum: 20276701f73d0d2da58377ec675da0c8
+SHA1: eafad4f7202cb5cf04f2bf7501a92792ddc572e3
+SHA256: 1b61357b3c1b759a1b17674a30a8ca1b7298d857cb138eea3802d63e9ed68080
+SHA512: f72ca0755f5f23211530618576939fcb672074671526a869cc519147116a00399f7fec2139ac235c4ff7ca37818099893ca1f4c75adef25c4c73ee0b69b7c26a
 Description: Essential and useful Filza scripts.
-Depiction: https://repo.cypwn.xyz/depiction/2695
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2695
 Name: Korboy's Filza Scripts
 Author: Korboy
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/filzascripts2.png
