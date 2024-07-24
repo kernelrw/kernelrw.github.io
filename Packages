@@ -918,6 +918,25 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
+Package: com.ps.ytxx
+Architecture: iphoneos-arm
+Version: 1.7.2
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debians/rootful/com.ps.ytxx_1.7.2_iphoneos-arm.deb
+Size: 4448
+MD5sum: cd71917734e24546ec2e2336088f4848
+SHA1: 5b51cbd01ff668bb938351962829758247c67330
+SHA256: c3d65e4c40b1fff71b07c0286d3d91db488c6829e39bdea6e720a483605527a1
+SHA512: 789e023c8cac525b643b47014786b3c22d4140bc44fac56b7171de0f9a243d5c4896897975f73c092c3b1e6986a73a7e129db4e0e98ffcaf7c1d02c71a3700e7
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
@@ -6755,6 +6774,25 @@ MD5sum: 48fa5c0ac4b26e17257ca7e92fe0e033
 SHA1: bcc6b5ca2526df4886c7200f376d5a72edd3cb4d
 SHA256: 9ffdc614a95679836ca925279b52eec9c8358c6822071da41bca4a1050485377
 SHA512: cebb12b68fb5f36b74e86fa1ea2600c74cf905559f5d8457321e8ddb350ffbfb7d6ea8d23e8b00089e1e3a539de25d502084a24619443b55d489d4c84d762ee7
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
+Package: com.ps.ytxx
+Architecture: iphoneos-arm64
+Version: 1.7.2
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debians/rootless/com.ps.ytxx_1.7.2_iphoneos-arm64.deb
+Size: 4648
+MD5sum: e70d18dc28405af6745c6b9d3eb82ebf
+SHA1: 5e64b1d62165ac5e4a12618c55a5f5460d579054
+SHA256: 1c55bd32c1d5bb3b1b7de8c0208aac61dc5c68a1f757c89e79d180354c81eb4b
+SHA512: 7e84e6ba9cc1437b35162ad29a30c7fcc6c81b1e8ee306cf6128c55aef254dfc38d0db49b6f93869ac2943688db0f1a0b7a9d5fe883a172aaf6bea2924ac3f70
 Description: A lightweight YouTube improvement tweak.
 Name: YouTube X
 Author: PoomSmart
