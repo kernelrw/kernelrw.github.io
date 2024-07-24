@@ -1296,6 +1296,26 @@ Description: EeveeSpotify
 Name: SwiftProtobuf(rootless)
 Author: eevee
 
+Package: sh.litten.rose
+Architecture: iphoneos-arm
+Version: 7.7.2
+Section: Tweaks
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 3104
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/rootful/sh.litten.rose_7.7.2_iphoneos-arm.deb
+Size: 1208368
+MD5sum: 429952bd9afa19a1f0e59bc3438651ac
+SHA1: ad6e36d2c6d0b5c61c971ef56e7e0ed6fa070deb
+SHA256: 8c15918f43ebde3d2ad93e6ed69f5bb19d290d67b48000c9bf7f00ff14b5cddc
+SHA512: f69d5707feb065933291beb13afb9c85409d6241bb110b689025c80226cdb6f489d0e290c5a3f41f37afcc53ab2471f40b4eea2407e082af8536de541d529566
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Name: Rose 🌹
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/rse/index.html
+SileoDepiction: https://repo.litten.love/depictions/rse/rse.json
+Icon: https://repo.litten.love/depictions/rse/assets/icon.png
+
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm
 Version: 1.0
