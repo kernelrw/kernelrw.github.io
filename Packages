@@ -1202,6 +1202,24 @@ Description: Ensures the Restart SpringBoard button appears in the Sileo package
 Name: Sileo Respring
 Author: jjolano
 
+Package: me.lightmann.iamlazy-cli
+Architecture: iphoneos-arm
+Version: 2.6.0
+Section: Utilities
+Maintainer: Lightmann
+Installed-Size: 296
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy
+Filename: ./debians/rootful/me.lightmann.iamlazy_2.6.0_iphoneos-arm.deb
+Size: 44656
+MD5sum: 239bf32b1aeebce6d1f11933f21f2956
+SHA1: 7dec2aa15f68a0da28504c2e3e5e5f8d33df3152
+SHA256: 9dbace4657f8aaba268e3678099da2f473100499219ff7065a21166549318edc
+SHA512: 4ef78536f53cc9f1410c7549fe88b5b15076488cdfc07dc746aa0c51cb6cafa46002febbc1316f79fbba4629b66eae3eb3f9b3fa53461e1524f0142e3cadbfe6
+Description: Easily backup and restore your tweaks
+Name: IAmLazy CLI
+Author: Lightmann
+
 Package: netskao.batterypercentx
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -1234,6 +1252,23 @@ SHA512: f052cb0c40ea02a465832fbaf43e419ef71ff820f3673f5b22fd79d4ab9e8348c5cade3c
 Description: EeveeSpotify
 Name: SwiftProtobuf(rootless)
 Author: eevee
+
+Package: twitter.nowesr1.waignorecalls
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/twitter.nowesr1.waignorecalls_1.0_iphoneos-arm.deb
+Size: 33290
+MD5sum: 6048e488172e380080140ba9b7686a36
+SHA1: d1bbea9c1d220bb4c0be7b59808d97cdfc62d04d
+SHA256: c3de92f7f16fdd10929a897983fc156294fe7f1ebec2e36c859c59b565737665
+SHA512: 619dd0aef12be24929b251d9968704f2d3854e2909f45da1411f2a75ad1c7b4ec2a29602a938317e6e79dc763055f88b790e0915e3290862308571e6ce8c1eba
+Description: Ignore unwanted calls!
+Name: WAIgnoreCalls
+Author: nowesr1
 
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm
@@ -4660,6 +4695,23 @@ Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
 Name: CocoaTop
 Author: Domo, SXX
 
+Package: twitter.nowesr1.waignorecalls
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/twitter.nowesr1.waignorecalls_1.0_iphoneos-arm64e.deb
+Size: 32624
+MD5sum: 4d060afd6c7397d9ad73467184550269
+SHA1: 9788e6b4e68a32e139fd767ed984af33b5e8e18f
+SHA256: ccf85c11daf92c3594cad13723a995a7cbab5d142fbfb33cbfd4b7144035ffc1
+SHA512: 0e9a89ff0fbf34eb0f6d235944f354bf828e9e6f63a7fed261e777bf54f9698b6cb786cc517ed80301ec63c53e6e7e76354f7ba62ad300e198ca3365b3abf3ee
+Description: Ignore unwanted calls!
+Name: WAIgnoreCalls
+Author: nowesr1
+
 Package: wiki.qaq.chromatic.rootless
 Architecture: iphoneos-arm64e
 Version: 2.1-REL-1714140359.07c7d6e
@@ -7132,6 +7184,25 @@ Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
 
+Package: korboysfilzascripts
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Utilities
+Maintainer: CyPwn
+Depends: curl, dpkg, grep, sed, sudo
+Filename: ./debians/rootless/korboysfilzascripts_1.1_iphoneos-arm64.deb
+Size: 9052
+MD5sum: 0416ecf113bdf0194c73e221e22fe0ee
+SHA1: 41969c799b531326ae7a9fe5cafcb92ed76c3fb2
+SHA256: e0a8653934dcf0fd0b09da25dec2139713f54319b70efb9bf810000d88117abf
+SHA512: dfb8b0ba7a8fc66eaa58b260e4bf2bd964850f9259e7b18c2fbd7a879b6c294da212f8faee0324b9275141c87a597375b2c3f1042341ae9e44e063294793a5eb
+Description: Essential and useful Filza scripts.
+Depiction: https://repo.cypwn.xyz/depiction/2695
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2695
+Name: Korboy's Filza Scripts
+Author: Korboy
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/filzascripts2.png
+
 Package: libkrw0-dopamine
 Architecture: iphoneos-arm64
 Version: 2.0.0
@@ -7206,6 +7277,24 @@ SHA512: 3bb7d339e12ac660e9a986144151271ddc0cef82b7c881969da1daf69698f1792ddf7a60
 Description: Ensures the Restart SpringBoard button appears in the Sileo package manager when installing tweaks . Supports Dopamine 2
 Name: Sileo Respring
 Author: jjolano
+
+Package: me.lightmann.iamlazy-cli
+Architecture: iphoneos-arm64
+Version: 2.6.0
+Section: Utilities
+Maintainer: Lightmann
+Installed-Size: 296
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy
+Filename: ./debians/rootless/me.lightmann.iamlazy_2.6.0_iphoneos-arm64.deb
+Size: 43990
+MD5sum: c71e3156c35ce7a7589b5ebc77fa04ce
+SHA1: c7eabee56b076d180928c3a266e3b63fe8ebe992
+SHA256: bd3df4e1d4eeb6309ac04b51880bcebf4cfbc89c5a5bcf5816c81cc19ad36716
+SHA512: 266748c980c8b95d83943a1af68e9ceaf29e574206d3e979ab2fd728cf484dced0bc52be59d4e1bd6c375e3cec20e389e5f38a043fcaaf061cfc294c999bd8b6
+Description: Easily backup and restore your tweaks
+Name: IAmLazy CLI
+Author: Lightmann
 
 Package: netskao.batterypercentx
 Architecture: iphoneos-arm64
@@ -7298,6 +7387,23 @@ Author: Frida Developers
 Icon: https://apt.wxhbts.pro/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
 Depiction: https://apt.wxhbts.pro/view/10291
 SileoDepiction: https://apt.wxhbts.pro/sileo/10291
+
+Package: twitter.nowesr1.waignorecalls
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/twitter.nowesr1.waignorecalls_1.0_iphoneos-arm64.deb
+Size: 33264
+MD5sum: 4b7839b1b799081d25af9ec1d56ec585
+SHA1: b586e3f1f8c052e7a8f255eb88ddcb9e306dcaa2
+SHA256: 5f090598ab2b53f86ad54731fde7587de89d448c5e491193d912c2b04b46a891
+SHA512: da1d02cdb2c7c5114454664bb5bda46e7759a23e0e469a9e92d4238d1d3d93a997bbfd3631796a9871e621e71f015d3361f122699b00f6572c8344eb174ded16
+Description: Ignore unwanted calls!
+Name: WAIgnoreCalls
+Author: nowesr1
 
 Package: weeb.lillie.youtubedislikesreturn
 Architecture: iphoneos-arm64
