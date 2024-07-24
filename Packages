@@ -201,6 +201,30 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/Color3DIcons.bundle/icon@2x.png
 
+Package: com.cydiageek.cthulhu
+Architecture: iphoneos-arm
+Version: 1.1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 401
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/rootful/com.cydiageek.cthulhu_1.1.0_iphoneos-arm.deb
+Size: 50152
+MD5sum: 5c9ab5d5f7a080f4a9b40bec7434cdf7
+SHA1: 55968cd274ea832af2d142886afda703aa377e52
+SHA256: ccb3df2fe4644624b120b2c00e331c358ace87f4a6dd3c76e908055d32b0a6e5
+SHA512: b67221f0671b61a0d17ffd2c51915041252e89251d6f0cfaa9af6891b5cd7b35afb88ab37294edaf0dc72eabf3c668a6e45084a0013b00c97d3faf5c96704b2d
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
+Tag: purpose::extension
+Name: Cthulhu
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
+
 Package: com.cydiageek.customlpm
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -5153,6 +5177,30 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/Color3DIcons.bundle/icon@2x.png
+
+Package: com.cydiageek.cthulhu
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 401
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/rootless/com.cydiageek.cthulhu_1.1.0_iphoneos-arm64.deb
+Size: 50926
+MD5sum: 53e1af5a42aee6ec75d6fa3772c94f87
+SHA1: e321d35a4489d43eeb8f831ebd18847baa15ff6a
+SHA256: 5b6b193681e22f914e5d622ad0b62b22e9f8e6e37ca4897ac0ccaf1f0f294557
+SHA512: bc7131488add9830e6bcebbb157464b486dd5ab32ccf1df97388f46f28e4ad7cb2e33b14cd83ab7541e5fcccfae29e5501a424514a00e096218849ba19b408ed
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
+Tag: purpose::extension
+Name: Cthulhu
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
 
 Package: com.cydiageek.customlpm
 Architecture: iphoneos-arm64
