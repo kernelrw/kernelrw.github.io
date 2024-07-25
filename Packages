@@ -4658,6 +4658,28 @@ Description: A modern jailbreak detection bypass.
 Name: Shadow
 Author: jjolano
 
+Package: me.luki.aprill
+Architecture: iphoneos-arm64e
+Version: 3.1
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debians/roothide/me.luki.aprill_3.1_iphoneos-arm64e.deb
+Size: 396484
+MD5sum: 38cf290ba36a89fab4809e0ce031e299
+SHA1: b5e148138ec8fa7df43045646d44ea15e490867e
+SHA256: ddf26dc28eeb4ed8c1fcdf9c82a603f0f11c002853dbef5deb8a11dcd3ce3a0f
+SHA512: 4291255d3e9c6dffc981f738bb27a5c73a67c7faa2ece05b1cb174d4e71fdb714fd803b972841af740f2351d8dd6804be3cfa768b424d2b75d051c160fc44d13
+Description: Augment your settings app aesthetics to the next level on the fly
+Name: April
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/Assets/AprilIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
+
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64e
 Version: 1.4.3
