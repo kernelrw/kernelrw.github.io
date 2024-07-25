@@ -1318,6 +1318,23 @@ Icon: https://repo.litten.love/depictions/rse/assets/icon.png
 
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/twitter.nowesr1.waignorecalls_1.0.1_iphoneos-arm.deb
+Size: 33404
+MD5sum: 0aae6a590a8be621c2fc327fbea28292
+SHA1: 2fbadb3abe7cd7448402766db7fc5873181f4266
+SHA256: 9f4741334b31455b250236279c00d22a370fd15392b1454e4a648f06db8e6ec9
+SHA512: e62c2454b3ea01817b22d9ccdb16d92b8df2055f0a84d112524a49d1166faf8582da08ae49bf8d82b54057c874c8e96b0de240ddc60710891e75c23027ff92c4
+Description: Ignore unwanted calls!
+Name: WAIgnoreCalls
+Author: nowesr1
+
+Package: twitter.nowesr1.waignorecalls
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: nowesr1
@@ -4760,6 +4777,23 @@ Author: Domo, SXX
 
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/twitter.nowesr1.waignorecalls_1.0.1_iphoneos-arm64e.deb
+Size: 32752
+MD5sum: add1ed83cb43ea85df91baf0f08dbf58
+SHA1: 15ba599de1746c14cf907ab9a4f997de8578be27
+SHA256: def74a328e814adeb03d6f8f519d8b64776c574e62afbcf9e0341af2df575477
+SHA512: 49fdec553aca79e4982762f2d0610cabefc34d64eb4b5eae7b77a383889cabaab1f41be7f129596bb6dd7c9ffc922ce95ae658bcff2cffca9d62a2938679b824
+Description: Ignore unwanted calls!
+Name: WAIgnoreCalls
+Author: nowesr1
+
+Package: twitter.nowesr1.waignorecalls
+Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Maintainer: nowesr1
@@ -5542,6 +5576,27 @@ SHA512: e64a2764d56ecba62378907181d874942f4fce0fb6841c209855c1bc607c21ce9e975345
 Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debians/rootless/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1098586
+MD5sum: 6d52edf547d85ea5713e913d6293f3ba
+SHA1: d9fb1af260401829b101a3a3214698919d0dc1f6
+SHA256: eb1137e9ccf0d9c0b985011a42d969b214dccde19977c9398e300da50ae6a083
+SHA512: 4d9dde69ee1218ca4a1d604c190d9a748608cf3a4e8574b228623b01063a1d53012ac89ce687edf270fbecafa3a6897d599a84fe0fbb84caa672a7bd92ea39d7
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
@@ -7491,6 +7546,23 @@ Author: Frida Developers
 Icon: https://apt.wxhbts.pro/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
 Depiction: https://apt.wxhbts.pro/view/10291
 SileoDepiction: https://apt.wxhbts.pro/sileo/10291
+
+Package: twitter.nowesr1.waignorecalls
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/twitter.nowesr1.waignorecalls_1.0.1_iphoneos-arm64.deb
+Size: 33396
+MD5sum: 427053f55067906298dc4b6eb2ba3922
+SHA1: eabaa80a2157c6b0584f9c49e23688dfc66fead7
+SHA256: 1335267c2cd969479775ceb66d2295abba1f9d3beef76006182b76ad2d74d06b
+SHA512: 711f1bdc618534e859bff6ce462c217bfc7bfead6b95faef41767914e314a148c6b5519ab067069699e5dcd09e571a8a188919a3cb168c8e26589dbc76166077
+Description: Ignore unwanted calls!
+Name: WAIgnoreCalls
+Author: nowesr1
 
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm64
