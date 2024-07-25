@@ -2249,6 +2249,24 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/TabBaraptic.bundle/icon@2x.png
 
+Package: com.daodao.nocsharee
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: Devvix
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.devvix.nocshare
+Filename: ./debians/roothide/com.daodao.nocsharee_1.1.3_iphoneos-arm64e.deb
+Size: 7724
+MD5sum: 3c24b98a77bd5179a73cbccf218ffc07
+SHA1: b6808223b39996d9422f6be2647d9491d099e2c6
+SHA256: 1a0230b9e957ff4ace4f3cb93d6c833189a68378c4525df690f72d5dde48e7f7
+SHA512: 127265729f3d95153b5c7287ddea7c096d395719c916caf9b2a114599168ef00bb2375faf15ce2c8498edfdf2ffec1832eaeaa538b16be6d8216dce092fd9c32
+Description: Hide Contacts from the share menu
+Name: NoCShare
+Author: Devvix
+
 Package: com.daodao.sugarcane
 Architecture: iphoneos-arm64e
 Version: 1.2.4.2
