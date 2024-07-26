@@ -7576,6 +7576,40 @@ Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/rose.html
 SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/rose.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
 
+Package: me.ahmedbafkir.dleasyy
+Architecture: iphoneos-arm64
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.ahmedbafkir.dleasyy_2.14.4_iphoneos-arm64.deb
+Size: 5528544
+MD5sum: 12df477e24b3b7bbb7a6515dd804bada
+SHA1: 5c2bea64dea1f0dea3ec5cbc38176a692a97c86e
+SHA256: 4f2002cae5de4959eb3713c7668b184edbdec657748e7dac72fcf41080d7379e
+SHA512: 9b0e16b65a9f1237536b907d841cda64a14e6846f74d4fb8b67fc3515fa62375fe9d4744c8bf1fc8339aa67ff413b271dc544a29da3282708bd76afd880447e2
+Description: Download/Share images & videos from social apps easily . Supports iOS12.0 ~ iOS17.5.1 . Cracked Successfully 🙃
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.ahmedbafkir.dleasyy
+Architecture: iphoneos-arm64
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.ahmedbafkir.dleasyy_2.14.5_iphoneos-arm64.deb
+Size: 5526248
+MD5sum: be296d57a88c1be00ed7132e55b12510
+SHA1: 6993da56d578920617b9a71f3677b97bb5c192c3
+SHA256: f6f897c48b7fcad67b8963f68e52346d42db402af217c9e4b47602d3519bc5a5
+SHA512: 0dc0066092ed011299d89734c2498d240236988d0b4643da2d19b6a9fdb39be71902e00f7ec2772b4f346b7b39ab7613e2a0219d8d8876091acc0cc05cc76f66
+Description: Download/Share images & videos from social apps easily . Supports iOS12.0 ~ iOS17.5.1 . Cracked Successfully 🙃
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: me.kernelrw.sileorespring
 Architecture: iphoneos-arm64
 Version: 0-2
