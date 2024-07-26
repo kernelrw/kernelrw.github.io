@@ -4,21 +4,15 @@
 	"itemCornerRadius": 10,
 	"banners": [
 		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/me.kernelrw.dleasy/screenshots/DLEasy.png?raw=true",
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/me.ahmedbafkir.dleasyy/screenshots/DLEasy.png?raw=true",
 			"title": "DLEasy",
-			"package": "me.kernelrw.dleasy",
+			"package": "me.ahmedbafkir.dleasyy",
 			"hideShadow": false
 		},
 		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.autoscroll/screenshots/AutoScroll.png?raw=true",
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.pxcex.autoscrolll/screenshots/AutoScroll.png?raw=true",
 			"title": "AutoScroll",
-			"package": "com.kernelrw.autoscroll",
-			"hideShadow": false
-		},
-		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.powercuff/screenshots/Powercuff.png?raw=true",
-			"title": "Powercuff",
-			"package": "com.kernelrw.powercuff",
+			"package": "com.pxcex.autoscrolll",
 			"hideShadow": false
 		}
 

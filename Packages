@@ -7029,6 +7029,24 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
+Package: com.pxcex.autoscrolll
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 152
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/rootless/com.pxcex.autoscrolll_1.0.0_iphoneos-arm64.deb
+Size: 26376
+MD5sum: bc4c3defdff75d574a13952fc6b5d011
+SHA1: 8b70a1ea6f5f009c9f58584cf1198deda25e5709
+SHA256: 5dc608f355ee2bd0730313cc41df4f3eaa4366dd0ecb50a3c72063639cccec19
+SHA512: 94a52d3877cd83f203c46460ae3e7b563349d1361eb5435d32f98fc0fb341d8ab198ed047cb1ad14dadd02e1f24a3112c63d3d0264c663874172a3b07296f54e
+Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
+Name: AutoScroll
+Author: pxcex
+Icon: file:///var/jb/Library/PreferenceBundles/autoscrollpref.bundle/icon@2x.png
+
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm64
 Version: 1.0
