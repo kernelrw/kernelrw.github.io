@@ -2875,6 +2875,25 @@ Description: Priority Hub for iOS 15 - 16
 Name: Axon
 Author: Nepeta & Baw Appie
 
+Package: com.kernelrw.bazzi2
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Blake Boxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/roothide/com.kernelrw.bazzi2_2.1.1_iphoneos-arm64e.deb
+Size: 75598
+MD5sum: 93c04d00167abe956e71f6cbfadcdef5
+SHA1: 53a645a6384c00fffb5c617754aab6e876a61119
+SHA256: f235c74256f138d15fc4930c2b16134a18592eb395a26ca403d42123660913a0
+SHA512: 7656f1432a94663d5510157d6f9f166000a0fc280366f32c608018b22f61e64efbb8c375008a2d4c23a396c24e605e1c1d79e9e8883905cadf8538fee4900162
+Description: Battery in your Notch
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/bazzi2.png
+
 Package: com.kernelrw.cr4shed
 Architecture: iphoneos-arm64e
 Version: 4.3.1-1+debug
@@ -2968,6 +2987,39 @@ Description: A tweak to get Spotify Premium for free !
 Icon: https://repo.cypwn.xyz/packages/EeveeSpotify-Rootless/icon.png
 Name: EeveeSpotify
 Author: Eevee
+
+Package: com.kernelrw.haptic16
+Architecture: iphoneos-arm64e
+Version: 0.8
+Section: Tweaks
+Maintainer: Brandon Plank
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
+Filename: ./debians/roothide/com.kernelrw.haptic16_0.8_iphoneos-arm64e.deb
+Size: 15652
+MD5sum: 8af4d1acbbc1c55eb72169fa9321ecbc
+SHA1: 6a9285c201b9c606976728b4c1cd0056240c0cbe
+SHA256: 331cb07de9c9085948bebf293e531434ffa6fec6383bda29653ae46671ddbcf2
+SHA512: eaf27a34e47a47a17dc51d7593130dfc2ebe818ec6e561c7263a2211b6ab50635ee9d7f81b7a13dc40041e1699ae9a31e5e6707ad4312d829fa2a566a509fb8d
+Description: Puts haptics in places apple should have!
+Name: Haptic rootless (12.0 -17.5.1)
+Author: Brandon Plank
+
+Package: com.kernelrw.haptickeys
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Depends: firmware (>= 14.0)
+Filename: ./debians/roothide/com.kernelrw.haptickeys_1.0.2_iphoneos-arm64e.deb
+Size: 39700
+MD5sum: 88a61fd0367f48991579431d20284112
+SHA1: eaefe052cbc2b7dd6a35676314d505d4b2997ca2
+SHA256: a79e5e8c874d7a53224e239d970c30a101ee606c86b42f74a2da08eaa1152e73
+SHA512: 9c821880965e1de85463d17074657a91d082138c9dede27e8c9fd35e71e69e9fb80ea30ff130e99135e11175976ef43a082200f7a8a0c2421338fcd911e348a0
+Description: Animated table scrolling
+Tag: compatible_min::ios14.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: HapticKeys
 
 Package: com.kernelrw.kayoko
 Architecture: iphoneos-arm64e
@@ -4175,6 +4227,23 @@ SHA512: 0f8f4bf0d9791eeb5a140810ee1de63c6c59a0cdd039883b9a7e7f52e764d0d922d5a227
 Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
+
+Package: com.smokin1337.hapticpasscode
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: smokin1337
+Installed-Size: 592
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.smokin1337.hapticpasscode_1.0.2_iphoneos-arm64e.deb
+Size: 172070
+MD5sum: bee4be42eeeb67c1d20b79b7ac4d0398
+SHA1: 3e4dca7a0dc898e8b07c1e3dca1c833ab3bb4c72
+SHA256: 67e355b3e33288ee8f79cdde879b9a11dd3fef4a83ee47e10e377aad0d2ee57f
+SHA512: dea4d6e93fb6c3106cab9f4a1e8ef81459d47290fe7b414e1429f56b893b5b36061e322f7232298f7417a2d2f166d3996da55c3090cae251e11b2ea28a5d326c
+Description: Haptic feedback on lock screen
+Name: HapticPasscode
+Author: smokin1337
 
 Package: com.spark.laetus
 Architecture: iphoneos-arm64e
@@ -7540,6 +7609,143 @@ SHA512: 266748c980c8b95d83943a1af68e9ceaf29e574206d3e979ab2fd728cf484dced0bc52be
 Description: Easily backup and restore your tweaks
 Name: IAmLazy CLI
 Author: Lightmann
+
+Package: net.limneos.audiorecorderxs-rootlesss
+Architecture: iphoneos-arm64
+Version: 5.0-37
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, firmware (>= 12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx
+Filename: ./debians/rootless/net.limneos.audiorecorderxs-rootlesss_5.0-37_iphoneos-arm64.deb
+Size: 1143104
+MD5sum: 3a148f6f294e8d6ade68cf2b939219b2
+SHA1: 68105db3c7ce9c7402127794dade4537309ecf2c
+SHA256: 01b5eec40d1a8050b80f6fe9193f3793856616934e89ed3884f106b8efb0e49f
+SHA512: 953831378dbc86a2872ce3deae0e20769c62bfaa0c67dffd76621cb8f38e8f5a6c4d596b25b69b584653727ee1b148f8415667a39642f7dbf422a956e63f9c64
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS (rootless) (iOS 12 to 17)
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.audiorecorderxs
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
+Package: net.limneos.bioprotectxs-rootlesss
+Architecture: iphoneos-arm64
+Version: 4.6-57
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debians/rootless/net.limneos.bioprotectxs-rootlesss_4.6-57_iphoneos-arm64.deb
+Size: 553884
+MD5sum: b63de2d0118c2b320319709fe17a736d
+SHA1: efc863a89cb7cd05cdf2fa399ae8b1b44a948573
+SHA256: 5827a7d6e44448742226014f2591cf41095ca17ae4cb951437a0e02401e2d8af
+SHA512: dc703bc2fb36396b48ac3b448064f2bb49f11f32f3955bec53bfeb9338e5bb1e01a91e796419dab24fe737f2927437591f93ce211a2ac1de105961fa3c6b985d
+Description: Protect your apps with Touch/Face ID!
+Name: BioProtect (rootless) (iOS 14 to 17)
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Depiction: http://limneos.net/bioprotectxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.bioprotectxs
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 0242dc630b30418f4fe783bed9efc25b
+
+Package: net.limneos.glow-rootlesss
+Architecture: iphoneos-arm64
+Version: 0.6-12
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debians/rootless/net.limneos.glow-rootlesss_0.6-12_iphoneos-arm64.deb
+Size: 222192
+MD5sum: 6c104352902f560381e82e9fbdd63b32
+SHA1: e28e0860871e251624d0fc9ca8452e801d98eebe
+SHA256: dc6a7bcc1563eaee89d9aa33926608a6b686676b6d6ecf1c98ce7c2db78142f9
+SHA512: b4cf640a179b07d2f715e88f53c46f92cb318a5b20fffbc72ad31dafad4bfb0e03bcaea2ea6d4bfde27d9181f5a1a4dfc388efb73a94cc9ff474b3814d82bc07
+Description: Let your lockscreen glow!
+Name: Glow (rootless iOS 12-17)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/glow/
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.glow
+Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
+MainLibMD5: e3ff8fe0c7435fb119f47b6b046a2c96
+
+Package: net.limneos.libbulletin
+Architecture: iphoneos-arm64
+Version: 0.1-178
+Section: Tweaks
+Maintainer: Elias Limneos
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debians/rootless/net.limneos.libbulletin_0.1-178_iphoneos-arm64.deb
+Size: 34372
+MD5sum: 9b52eabffdf44d7eadb2ac2e57004747
+SHA1: 8c021688cb28305df4b1c3b1c97ac33a1645a347
+SHA256: 6d398a0d226875676fc7ccc85a0b3ee2105e11d26e757c4d5d919419abec252c
+SHA512: b4aede043cc8cc33179df73b15a7bc9c6aeea0c5510b64181dfbcbe2953e22b20fdd5509e7f44c1405c2c68c3e8b55c081e206f3288ac3ccb9103ce7dee711b9
+Description: Simple library that displays bulletins
+Name: libbulletin
+Author: Elias Limneos
+
+Package: net.limneos.nfcwriterx-rootlesss
+Architecture: iphoneos-arm64
+Version: 4.0-4+debug
+Section: Utilities
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, me.kanam.nfcwriterquickaction
+Filename: ./debians/rootless/net.limneos.nfcwriterx-rootlesss_4.0-4+debug_iphoneos-arm64.deb
+Size: 708120
+MD5sum: 57924722641b395a058b7744856148cb
+SHA1: ff78b584cebb7598aaa4755fb36140864298c2fc
+SHA256: 33362f811d3b72bde3a4859c1ec13eb16020f1c1d31ebff192a67c7f065280a4
+SHA512: 4b0283c72864330fe914f77e17c61c112cb60435f7cb9541bb34e77c3d9078bf6b81c492b7198f6c9939721247127e4f1839482adfd0eebf41cd4dcc9a8c2247
+Description: NFCWriter XS for iOS 11/12/13
+Name: NFCWriter XS (rootless)
+Icon: file:///Applcations/NFCWriter.app/icon@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
+
+Package: net.limneos.simpleactivationactions-rootless
+Architecture: iphoneos-arm64
+Version: 0.1-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/rootless/net.limneos.simpleactivationactions-rootless_0.1-3_iphoneos-arm64.deb
+Size: 7092
+MD5sum: 911e23a3f6b1214c3c4eba576eda7171
+SHA1: 8232d18e2975c5dc0d4177fb6aca7b4fdb72111c
+SHA256: 231ba16d28096f374645637e331079f67df2ea553cbe7e62af00facfc984a7df
+SHA512: f5de847781451e1031e017477caa7c6ebd4e490121f4f863c970f98245451f23e69463f7db099afe912c2ecf4ab23f17c7ed349373cef52c88125e8346df57ca
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Name: SimpleActivationActions (rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.limneos.voicechangerx-rootlesss
+Architecture: iphoneos-arm64
+Version: 2.4-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debians/rootless/net.limneos.voicechangerx-rootlesss_2.4-3_iphoneos-arm64.deb
+Size: 233876
+MD5sum: 3824ba4bda4bc7f6407cdf5d6742286c
+SHA1: ea03e795c8d4cfd64f49c6e425b1703e9478860e
+SHA256: de5a7cc7fe47fef422b45550374c6b5d19c3c3d5face838b5e2c779e6b963528
+SHA512: 635ca0c2c3c8ccfc98f441a6396a6a3f17b9d0b02b4d2897f49e5153a814a8beb23302c9a490af26773669fb24b872e0149474a81609be241e2986152fc8f9a0
+Description: Change your voice during a call!
+Name: VoiceChanger XS (rootless) (iOS 11 to 16)
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
 Package: netskao.batterypercentx
 Architecture: iphoneos-arm64
