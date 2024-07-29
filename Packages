@@ -4449,7 +4449,7 @@ Description: 双击取景框翻转相机前置和后置镜头，无设置项。�
 Name: 双击翻转相机镜头 - DoubleTapFlipCamera
 Author: SquidForce
 
-Package: com.tigisoftware.filza64bit
+Package: com.tigisoftware.filza64bitt
 Architecture: iphoneos-arm64e
 Version: 4.0.1-4~roothide
 Section: Utilities
@@ -4457,12 +4457,12 @@ Maintainer: TIGI Software
 Pre-Depends: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debians/roothide/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64e.deb
-Size: 17133288
-MD5sum: b798a376b9b2a6b3260cd2797f5df8f4
-SHA1: 46154298d04069481e0551390c6e7d50291f917c
-SHA256: e534c7e3f9899d5df5ae7d56c420692e82979c341aa638860721e25baed7bf1d
-SHA512: b8c9d33d4b36b48b5ba3d5e3bb4cbd247e194365e3d9a0873ce4b23cd093fa5462d23215c55a05908cf7f393dcba45f2e786ea60026d65c9d49203559661e643
+Filename: ./debians/roothide/com.tigisoftware.filza64bitt_4.0.1-4~roothide_iphoneos-arm64e.deb
+Size: 13877152
+MD5sum: 7beb8eb36ee00de7ece8b2e1d352c1e3
+SHA1: 34a738abc41ba949acf8f2e89fd0b0b9ab80eae8
+SHA256: 3fc4dbc4a0ce30053312f0bb73b0db189b832a3a5e8f88a921c9e2d6619d5fb5
+SHA512: 2c37b6314a59db23bfe6dee9320506b33c7fea2d4be3d379db6474599f5a2b736a438201e44caa34c04377c346d171da5c1df1ee5904b0be9e395e4855f3dff8
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
