@@ -3004,23 +3004,6 @@ Description: Puts haptics in places apple should have!
 Name: Haptic rootless (12.0 -17.5.1)
 Author: Brandon Plank
 
-Package: com.kernelrw.haptickeys
-Architecture: iphoneos-arm64e
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
-Depends: firmware (>= 14.0)
-Filename: ./debians/roothide/com.kernelrw.haptickeys_1.0.2_iphoneos-arm64e.deb
-Size: 39700
-MD5sum: 88a61fd0367f48991579431d20284112
-SHA1: eaefe052cbc2b7dd6a35676314d505d4b2997ca2
-SHA256: a79e5e8c874d7a53224e239d970c30a101ee606c86b42f74a2da08eaa1152e73
-SHA512: 9c821880965e1de85463d17074657a91d082138c9dede27e8c9fd35e71e69e9fb80ea30ff130e99135e11175976ef43a082200f7a8a0c2421338fcd911e348a0
-Description: Animated table scrolling
-Tag: compatible_min::ios14.0
-Author: Ryan Nair <ryannairtweaks@gmail.com>
-Name: HapticKeys
-
 Package: com.kernelrw.kayoko
 Architecture: iphoneos-arm64e
 Version: 3.0
@@ -6028,6 +6011,23 @@ Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
 Icon: https://repo.cypwn.xyz/packages/Debra-Rootless/icon.png
 Name: Debra
 Author: Sudo, Paisseon & Korboy
+
+Package: com.kernelrw.designer
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/com.kernelrw.designer_1.5_iphoneos-arm64.deb
+Size: 8281300
+MD5sum: 4585237f7c7ab966f65a8394ce6378e6
+SHA1: 25e8a9176e4cd4ec4375ab9e45ecd7683fbbb840
+SHA256: 2f3f5837589b05494ef8d7c0a33d4ab7f25829901e9a0899196f504f80d45c49
+SHA512: e1591e24586d75a466c7cdc5cce0e61397f0ab88081718dbedf9aa9a64ecd47865c5cf001b81620845385f53214547717147dbecee5561e5c37220b6342f9622
+Description: Design layouts for lockscreen and homescreen ; supports iOS15+
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjunesiphone-supersecret.png&s=180x180&f=webp
+Name: Designer
+Author: JunesiPhone
 
 Package: com.kernelrw.digitalbattery13
 Architecture: iphoneos-arm64
