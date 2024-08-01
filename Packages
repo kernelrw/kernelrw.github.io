@@ -553,11 +553,11 @@ Section: Tweaks
 Maintainer: JunesiPhone
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/rootful/com.junesiphone.designerr_1.5_iphoneos-arm.deb
-Size: 6573460
-MD5sum: faf2cb8b7f138c690e4c41e6e6715166
-SHA1: 80463ec6919a8e7a1b7930cc3fdbd903a24b1dc0
-SHA256: 7f7d1a69f052184a014b14076f010fb34fcb841751bbd732dfa404054efa0346
-SHA512: 92a6e469ff9712b67e620ec7d80c35e50c996715225636075e7e61706ffd8c04acd9a184429b7e4b67a9db8bffc5fb2af07ae876e51f293a19508af71c56ba51
+Size: 6573680
+MD5sum: 3aa2c998b551f2621e955b1e5fd52a66
+SHA1: 89c78978c8cbf9dd7a9c2afd078416608ea965e6
+SHA256: cb4e2ec9764bb2e69ef03bd0407a9aed98cbdc0780b25df98196e0de3f93ddc1
+SHA512: 94597c4de9915aff7c420a1b9ff559bc01e5e9dece626d5d232df70bb8801a7045d7aeb80013de305119cb9a046f01594cdbe8e3d7f39c95751166e39fa59f42
 Description: Design layouts for lockscreen and homescreen
 Name: Designer
 Author: JunesiPhone
@@ -5777,13 +5777,13 @@ Architecture: iphoneos-arm64
 Version: 1.5
 Section: Tweaks
 Maintainer: JunesiPhone
-Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
 Filename: ./debians/rootless/com.junesiphone.designerr_1.5_iphoneos-arm64.deb
-Size: 6572192
-MD5sum: 1b29681f008f263ddfde49533f3d24be
-SHA1: b7f7ae96fef8301a6aec73eeb9a56b79828703c6
-SHA256: 73b7b12b6ec74cbf57cb2df139ca0521011b3edfebf5c30b805bf7ec93e3946e
-SHA512: 35784b15bdb7ead99881b94ad444fe2b6deae823023c730033003efc346066ba1ae080a5c7413e1a83396f4edc821993a79a70e2b5b1ad07a915d17eeb72aee8
+Size: 6573024
+MD5sum: 84dd615c34073223079df2f207b2cda1
+SHA1: bb437de5e80ab8208d32c7e9f8f49bbcad04cf96
+SHA256: 0c3be5cd102721c55e50a036447070943d899992467e3ed13867673fdbd46de4
+SHA512: 4d1e5a10c1c00e5a2e9d37804c316f6552c5b0ecac9a2a9ea6608663472920917b24911ac9cb071df6e277d44d07372288fa0388fc58044965451c3ec61d6b21
 Description: Design layouts for lockscreen and homescreen
 Name: Designer
 Author: JunesiPhone
