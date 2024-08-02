@@ -7502,6 +7502,23 @@ Name: PadSwitcher
 Author: SWING
 Icon: file:///var/jb/Library/PreferenceBundles/PadSwitcher.bundle/Icon@3x.png
 
+Package: com.uckermark.cometcrashfix
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/rootless/com.uckermark.cometcrashfix_1.0_iphoneos-arm64.deb
+Size: 2512
+MD5sum: ce82f5eb7ebbec03b76fc38cac4f5cb1
+SHA1: f6de5692323ace6c74a463f691f9dcd1053debc1
+SHA256: e911255e3327d64b0ddb4dcfcde635de97a34a7ef4ff9ad8db9021b9a0c3bfa6
+SHA512: 60122631cedf948fe564da93b1a1495c47bcb44c4ff614f386aa498a04f31c9873ee2ff81ddfddfd668e01736afa1f2c13e4f42a8cc160419a1e6d3651f0ebcb
+Description: Workaround for Preferences crashing when opening Comet Preferencebundles on iOS 16+
+Name: CometCrashFix
+Author: Uckermark
+
 Package: com.udevs.dockxx
 Architecture: iphoneos-arm64
 Version: 2.6.1
