@@ -1415,6 +1415,23 @@ Name: BatteryPercentX
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.enablebatterypercent%2Ficon.png&s=180x180&f=webp
 
+Package: org.brandonplank.haptic16
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Brandon Plank
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
+Filename: ./debians/rootful/org.brandonplank.haptic16_1.0.1_iphoneos-arm.deb
+Size: 15524
+MD5sum: d20b7f6aa5ac94912b0f41a2b9dcc3cd
+SHA1: e95e0d014205c61474d53d8b4a07b706fd0144eb
+SHA256: 8ce6fdfb6c5036ed4e4cccf5d08c87ebdb63b7bfc719d27c80be7c164e68ed2d
+SHA512: 3d249c5c7bfa07297b5f00790bc8abd43149d9ee337e91b700494b6f5408dcf952ed64e5216d6b683b22e8511603fbd33f90c2d016bd95a169379f72150bb59a
+Description: Puts haptics in places apple should have!
+Name: Haptic16
+Author: Brandon Plank
+Icon: file:///Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
+
 Package: org.swift.protobuf.swiftprotobuf
 Architecture: iphoneos-arm
 Version: 1.26.0
@@ -8116,6 +8133,23 @@ SHA512: 68ceeacc44cf69de5dd910c20d53c77ff19a83a41dea56182f466e0c68afcec6c4ec8c3f
 Description: Support for legacy arm64e ABI in iOS 15.0+
 Author: Xina520
 Name: Old ABI for Dopamine
+
+Package: org.brandonplank.haptic16
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Brandon Plank
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
+Filename: ./debians/rootless/org.brandonplank.haptic16_1.0.1_iphoneos-arm64.deb
+Size: 15600
+MD5sum: 54040b5cd995a88911bfcce2bf07600e
+SHA1: 1202360b7150775e7f2434aaa360f58de2a2f73b
+SHA256: 3e6a1fad7c447cf9b6af0c9e859dd342b699dd28b20e9327ebfb0a157b625c05
+SHA512: e109000e74f7b5db88518ed71347c3a113688a6d5f1467ff463eae2b1f0c4d063b66c7343f88d082ed00e8e564c7c377861cc7cd61c1b7897c0a376a0d5e73a5
+Description: Puts haptics in places apple should have!
+Name: Haptic16
+Author: Brandon Plank
+Icon: file:///var/jb/Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
 
 Package: org.swift.protobuf.swiftprotobuf
 Architecture: iphoneos-arm64
