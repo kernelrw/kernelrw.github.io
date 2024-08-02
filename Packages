@@ -1604,6 +1604,23 @@ Icon: https://skitty.xyz/repo/icons/xyz.skitty.sushi.png
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/sileo.json
 
+Package: xyz.xninja.systeminfo
+Architecture: iphoneos-arm
+Version: 2.7.2-4
+Section: Tweaks
+Maintainer: ARX8x
+Depends: mobilesubstrate
+Filename: ./debians/rootful/xyz.xninja.systeminfo_2.7.2-4_iphoneos-arm.deb
+Size: 272388
+MD5sum: 5c69b7906e43cd17f9849ea28116bf1a
+SHA1: e70c87bfc5a688282bcab6ad604ecefc9b4830a9
+SHA256: 4cb4bdcc5ea4a4ed3093f5cc4742d1b98712c2cbd8ad120d85c1ad0215d300d5
+SHA512: 662327263fcb4d8049b80293e9c6df3b81552ab9802f91e73e5affa12592420e49a6d60b257d61a20af1ff9532d31b5bb773ee885a7511bcf02b984c429502d2
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Name: System Info
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Author: ARX8x
+
 Package: alias20.confirmtodo
 Architecture: iphoneos-arm64e
 Version: 0.1.4
@@ -6874,23 +6891,6 @@ Description: Remove ALL chat block restrictions (including 18+) & enables stealt
 Name: Swiftgram++
 Author: Randy420
 
-Package: com.kernelrw.systeminfo
-Architecture: iphoneos-arm64
-Version: 2.7.2-8
-Section: Tweaks
-Maintainer: ARX8x
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/com.kernelrw.systeminfo_2.7.2-8_iphoneos-arm64.deb
-Size: 272740
-MD5sum: 33c33877490bc67331e7bb3e8a40ba30
-SHA1: 79cffdb7b507181a723c1eb7642ad2f601bddecb
-SHA256: 43b734d92b7f4bf3af0ba946a6062cbd4e16c211fa59f24471edd65e996638f2
-SHA512: 65c3d6d62cff54a805a4ffc430fcca77e632a924a8aaa02faf22c267cc4f0e9635236e7065d813bc0da95740f95f9204c3963ca700da6f1976167cc087af5e10
-Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
-Name: System Info
-Depiction: https://arx8x.github.io/depictions/systeminfo.html
-Author: ARX8x
-
 Package: com.kernelrw.trollpad
 Architecture: iphoneos-arm64
 Version: 1.3
@@ -8454,4 +8454,21 @@ Author: Skitty
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.sushi.png
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/sileo.json
+
+Package: xyz.xninja.systeminfo
+Architecture: iphoneos-arm64
+Version: 2.7.2-4
+Section: Tweaks
+Maintainer: ARX8x
+Depends: mobilesubstrate
+Filename: ./debians/rootless/xyz.xninja.systeminfo_2.7.2-4_iphoneos-arm64.deb
+Size: 272604
+MD5sum: 71e9a208edbcaf30100f7e0da2c780cf
+SHA1: 1b846f8a9ed728d50f0628a359e014a1d3210009
+SHA256: 109d9097b8394c79f91e951386807821e9eceba048af4b7981114c375a75448d
+SHA512: d23de0026101e9a441747c96ac7254197b478087fdb193b4a5217fd23c54e784a393dd6eb98c08fe1c96f2c2c3bfe761fb3020c74f5b27d42e3a19a95c10e5dc
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Name: System Info
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Author: ARX8x
 
