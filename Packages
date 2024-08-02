@@ -7456,6 +7456,28 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 532
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/rootless/com.rpetrich.rocketbootstrap_1.1.2_iphoneos-arm64.deb
+Size: 19496
+MD5sum: b0a5587d42b4095625b61d1d5b2a87c1
+SHA1: 460361a2f5b5e46bef4a20d8ddf6e0f4507c397c
+SHA256: ae2c336bbf10b235e06c5b2660992e3854c64058c3cc3a19c6136019611314a3
+SHA512: 9eee12a3ac392ca26ca35f240ac4fb50905d7349cd396ce789edf51f0d236ed03cad88f06b4cb214b88098a6c16627832f368810c55d15df761cfe1cfe880d5f
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.skypain.kayoko
 Architecture: iphoneos-arm64
 Version: 2.0.1-1
