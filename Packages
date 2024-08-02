@@ -79,15 +79,15 @@ Section: Tweaks
 Maintainer: Lessica
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Filename: ./debians/rootful/com.82flex.touchviss_2.8_iphoneos-arm.deb
-Size: 263720
-MD5sum: 37f6af427d81efbca75719d71ae49e00
-SHA1: 08d9add2aeca62ff6ddf3a9461e619a112f915b6
-SHA256: 195cf1d4a96bc63327ca3292cdddcb35c9161182711646aa9b9ff966e932a92d
-SHA512: 9fd4087250ab6af7566abb7438c9e6003376b3aa665b1ccdae2b7ce3c811efdff4816ef628fe78d66568c0d79a79eadaa822b0a647192061bc2d5f292a119965
+Size: 263724
+MD5sum: e6b4cdce98c233531f71698d15b3e7e6
+SHA1: 0071ba9136049a2ee02c27236a4eff0742108dbb
+SHA256: f9262507c8ecf95e5c3856f70a531abc8319c3856e0843c9ce8a9de48db69cb7
+SHA512: ec1ac72c522e68001718044aa7d6ad707bc12e537cbbec54fe1fea2cbbae59e34b955391f3aeb9e34a06953884191cdf18639f0ab4e6866e134afc0de4fcd0d6
 Description: Displays your touch interactions!
 Name: Touch-Viz
 Author: Lessica
-Icon: file:///Library/PreferenceBundles/TVZPrefs.bundle/icon@3x.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66a486a3066c63e2b4e66fbc&s=180x180&f=webp
 
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm
@@ -5278,15 +5278,15 @@ Section: Tweaks
 Maintainer: Lessica
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debians/rootless/com.82flex.touchviss_2.8_iphoneos-arm64.deb
-Size: 263804
-MD5sum: bf911c816fce5bfafde2db21c86b4ba2
-SHA1: bdcb1ee07850482402d804bf58bc203e79e41919
-SHA256: 5814829127523dbeee3cbeaba061bdf48034ac244ffd2eec227165f7dae3dfb6
-SHA512: f89f4d9e79f2051a6788ab54f39cae9dff65b042dee81bb0a6b3a575a8a88ce2816c2ca48946cdcef1a4bfa6ce81dcf81ad90482d6e9bbda9cb251845d77cf93
+Size: 263892
+MD5sum: faee772998403f8974d65ca11956008e
+SHA1: 321e998a6bfcbdf0534251f432621f4edee157d6
+SHA256: 3a77d467a10488bd64e94ce14ab95c2a2f5878603ffd9b823d9cd12da57591f2
+SHA512: cceb70ae866b94917d7f6d62306004fc7d365094a26513a9ac806bf595fb2d0fd25ca708cbad16dfde275ec796e5648c923fa8a3ec51949e188fa1b6eb081a3e
 Description: Displays your touch interactions!
 Name: Touch-Viz
 Author: Lessica
-Icon: file:///Library/PreferenceBundles/TVZPrefs.bundle/icon@3x.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66a486a3066c63e2b4e66fbc&s=180x180&f=webp
 
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm64
