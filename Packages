@@ -5946,6 +5946,22 @@ Description: An alternative SpringBoardServices implementation for iOS 13 and ab
 Name: Alternative SpringBoardServices
 Author: Darwin Developer <82flex@gmail.com>
 
+Package: com.devvix.nocshare
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Devvix
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.devvix.nocshare_1.1.4_iphoneos-arm64.deb
+Size: 7028
+MD5sum: 0308c00867c6e223da254f5805fe8ad8
+SHA1: fddf3f71aed1d58c6fe8d900fb9d3b6f90cfcb25
+SHA256: 08948fdf1a491c64315432f3e8a8b44773bf82370cf50f245738a1a2c3eae165
+SHA512: d03d06eb2db2b35a96e04be87408a4de82975117c2b8ebf2db6e39dadc625fa9fe0e992b3aec1f0cebde559a49dfde6a34320a720ca71c5a689107ca3e84b3c4
+Description: Hide contacts from the share menu .
+Name: NoCShare
+Author: Devvix
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
 Version: 0.0.1
