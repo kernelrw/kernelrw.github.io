@@ -971,6 +971,23 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
+Package: com.pxcex.autoscrolll
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.pxcex.autoscrolll_1.0.1_iphoneos-arm.deb
+Size: 26216
+MD5sum: 33a257de083eb8f57bb428814bd5d404
+SHA1: a97e5bf61cb9d1ca1dbf89958d95b4bd20a09c12
+SHA256: 13b34ccacdf4fefdf3a4c0695a4c83de22038c52d4f31837a8727aebb5f1e688
+SHA512: adf5461cb6dbef3ff4983d93e9e0d91b76d6b43c8033be2bb0dc5ef0467fa096a546b67c1ae4594d4ed68f81b8eaceb7b2269e482c2fb5f666755b02effc0b2f
+Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
+Name: AutoScroll
+Author: pxcex
+Icon: file:///var/jb/Library/PreferenceBundles/autoscrollpref.bundle/icon@2x.png
+
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
@@ -7093,6 +7110,23 @@ MD5sum: bc4c3defdff75d574a13952fc6b5d011
 SHA1: 8b70a1ea6f5f009c9f58584cf1198deda25e5709
 SHA256: 5dc608f355ee2bd0730313cc41df4f3eaa4366dd0ecb50a3c72063639cccec19
 SHA512: 94a52d3877cd83f203c46460ae3e7b563349d1361eb5435d32f98fc0fb341d8ab198ed047cb1ad14dadd02e1f24a3112c63d3d0264c663874172a3b07296f54e
+Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
+Name: AutoScroll
+Author: pxcex
+Icon: file:///var/jb/Library/PreferenceBundles/autoscrollpref.bundle/icon@2x.png
+
+Package: com.pxcex.autoscrolll
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.pxcex.autoscrolll_1.0.1_iphoneos-arm64.deb
+Size: 26408
+MD5sum: 62910583a7c65554601de98a865d0757
+SHA1: f8b7e117857f257cfb465437ec5bc6764662a7df
+SHA256: 6173ae04c824a5836fca6dac65d0173db1592e0a043d0526124e87fc78d506fd
+SHA512: 203d0ab13008fd76696259ec0b29889e6c65d8a7eec373cdf4140fbfa7cd78cf267a2b71560abb6c82f1cabb25a64492e9d07827be63dc389ca6876f0eab592a
 Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
 Name: AutoScroll
 Author: pxcex
