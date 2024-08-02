@@ -124,6 +124,25 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.blakeboxberger.bazzi2
+Architecture: iphoneos-arm
+Version: 2..1
+Section: Tweaks
+Maintainer: Blakeboxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/rootful/com.blakeboxberger.bazzi2_2..1_iphoneos-arm.deb
+Size: 64980
+MD5sum: fb681d022b5c40658a7c7e650f43db2b
+SHA1: aed7ff8ec505779edff71f932d70609d01910d52
+SHA256: f54271a3162b29e5b1384df216ee1b4054fadc0962a4d62b6c1a088e8ba3c9c3
+SHA512: a9119fbc9652c4c34f63a6215a5841152037c4ae4aca05a73aaa4950c614fb39c40d610f5edcb33011c7dfe146771996a44e255eb9568eee5117a01492f0fb1c
+Description: Battery in your Notch
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -5403,6 +5422,25 @@ SHA512: 32a49d5b7679bb42491ecfa72e9964bd315c519374d702041e87541f85b02a8291cc5159
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
+
+Package: com.blakeboxberger.bazzi2
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: Blakeboxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/rootless/com.blakeboxberger.bazzi2_2.1_iphoneos-arm64.deb
+Size: 65384
+MD5sum: 32271e44277538e58d3f4ec17ef6f09b
+SHA1: 7474d23362338bac9ebeb1941dc3efd784e80af6
+SHA256: 8a396dae0e7ef806ed7c8f1f87199545c1b983a04238cc786f6993d3bc7d9c14
+SHA512: c6907f5d6ebc3b0172e81c85701fc0bfe89da3e0c46b6c3acf9463b62e3ed78205a0188b3c36f3883e76f90be948a7a37e787603ea905dbf03147ca95e3f746d
+Description: Battery in your Notch
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: file:///var/jb/Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
