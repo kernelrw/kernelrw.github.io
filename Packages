@@ -563,6 +563,30 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
+Package: com.haoict.instanoads
+Architecture: iphoneos-arm
+Version: 1.1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 384
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.haoict.libhdev
+Filename: ./debians/rootful/com.haoict.instanoads_1.1.0_iphoneos-arm.deb
+Size: 55980
+MD5sum: 0625f778c623bc1eb770d4df0ea4c88a
+SHA1: ea0bda40502b8a1d1e4c25f588e012887ed0122b
+SHA256: c0383e4b6cf86517aaa60f8dae767fa893b6c6087ece0d6ab504b48972403b26
+SHA512: fa2194a3c6acda6ad6645f34ffafe8e1365af3ffeb2fa123ea882298e8483730c8c4edddc55f786db8f0eb7983a9989c869f23937d44b77d359bfe5093962a7e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instanoadsDp
+Description: Free & Open Source Tweak for Instagram
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Name: Instagram No Ads
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instanoadsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Hao Nguyen <hao.ict56@gmail.com>
+dev: haoict
+Icon: file:///Library/PreferenceBundles/INAPref.bundle/icon@2x.png
+
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm
 Version: 4.8.1
@@ -5922,6 +5946,30 @@ Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.haoict.instanoads
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 384
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.haoict.libhdev
+Filename: ./debians/rootless/com.haoict.instanoads_1.1.0_iphoneos-arm64.deb
+Size: 55288
+MD5sum: 92b0b4530ee1d34e63de597512064f4d
+SHA1: 9323f01e19c0531a539922e3e49831a07b0ff002
+SHA256: 5c113a816c89fe3b917d7dc23b4a4029c347246f34c3610f3501225c012e83ca
+SHA512: 6fae42e642d60801ca88d9014e42d34d497f9bd1aeaa6c6bdd495843257ea1cbe332e79e6baf549c5822c3f259762a6916813c66176ab235f6c8e54c56d576d4
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instanoadsDp
+Description: Free & Open Source Tweak for Instagram
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Name: Instagram No Ads
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instanoadsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Hao Nguyen <hao.ict56@gmail.com>
+dev: haoict
+Icon: file:///var/jb/Library/PreferenceBundles/INAPref.bundle/icon@2x.png
 
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm64
