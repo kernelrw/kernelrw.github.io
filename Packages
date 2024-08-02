@@ -544,6 +544,70 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
+Package: com.haoict.libhdev
+Architecture: iphoneos-arm
+Version: 4.8.1
+Section: System
+Maintainer: Hao Nguyen <hao.ict56@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debians/rootful/com.haoict.libhdev_4.8.1_iphoneos-arm.deb
+Size: 46140
+MD5sum: 8cba7918308eb9a4ce3aedb8fd27f7fd
+SHA1: 3adb681448b7df98fc03c04aebc0565e2657f815
+SHA256: 3c3b7d811156d0585981dbde622b51e7ae032e0e516d1c68f63fffbdd848ecc9
+SHA512: 61b6f00a4b676af1852834007bc7f8b5c3138c91c7a3ce685a9078b93497942d341f453d82eeff75c7e6bac7007dd40959a518e6fe34ce7bbc25ca2056473843
+Description: This is a developer library for better preferences and useful utilities.
+ This is a developer library for better preferences and useful utilities.
+ . 
+ Change log: 
+ - v4.8.1: Minor improvement
+ - v4.8.0: Improve performance & reduce package size
+ - v4.7.0: Improve media download & fix preferences cell color
+ . 
+ Github: https://github.com/haoict/libhdev-public
+ . 
+ © 2021 haoict
+Tag: role::developer
+Name: libhdev
+Author: Hao Nguyen <hao.ict56@gmail.com>
+
+Package: com.haoict.messengernoads
+Architecture: iphoneos-arm
+Version: 3.12.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debians/rootful/com.haoict.messengernoads_3.12.0_iphoneos-arm.deb
+Size: 538128
+MD5sum: 6433518f38388f67cc666914c8eebc4a
+SHA1: b3ae6bb5bbc98203fd093972118ca0bd04b231f4
+SHA256: b9fad148c6f8a05fcdbfd6f0dc6113759ba5689a5590ec13eb551154809aa9b8
+SHA512: 8653c47df098b5df8b15173184924ab5fc4acdbd9ac1ebc9a4aab3a5ed440878ad611ffa7ccba0a3dcb22b1862dd3ab8e07460750a167b722db399f90f04e48d
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ Change log: https://github.com/haoict/messenger-no-ads/releases
+ . 
+ Features:
+ - Hide Ads on Messenger app
+ - Disable Read Receipt
+ - Disable Typing Indicator
+ - Disable Story Seen Receipt
+ - Can Save Friend's Story
+ - Hide Search Bar, Stories row, People tab
+ - Hide Suggested Contact in Search
+ - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
+ - Support iOS 12 - iOS 14
+ - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Messenger No Ads
+Author: Hao Nguyen
+Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
+
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
@@ -5803,6 +5867,70 @@ Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.haoict.libhdev
+Architecture: iphoneos-arm64
+Version: 4.8.1
+Section: System
+Maintainer: Hao Nguyen <hao.ict56@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debians/rootless/com.haoict.libhdev_4.8.1_iphoneos-arm64.deb
+Size: 46204
+MD5sum: 275afcb9122d07ec45f7b37db4525737
+SHA1: 0eb7377c052e3725f4bdd7e522a58b63b7029735
+SHA256: 8cc314134a771f547bc6b7e683aba3889aa50b6bc8a76613f3c012d7373f1030
+SHA512: b3690da3ab60f97f54fea4f04b64899439ddf35b5301837955e41b822b76e68604078d80e7c8be4169684bc05a8182b0fc3f5294abaac5cc7822dcb990522224
+Description: This is a developer library for better preferences and useful utilities.
+ This is a developer library for better preferences and useful utilities.
+ . 
+ Change log: 
+ - v4.8.1: Minor improvement
+ - v4.8.0: Improve performance & reduce package size
+ - v4.7.0: Improve media download & fix preferences cell color
+ . 
+ Github: https://github.com/haoict/libhdev-public
+ . 
+ © 2021 haoict
+Tag: role::developer
+Name: libhdev
+Author: Hao Nguyen <hao.ict56@gmail.com>
+
+Package: com.haoict.messengernoads
+Architecture: iphoneos-arm64
+Version: 3.12.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debians/rootless/com.haoict.messengernoads_3.12.0_iphoneos-arm64.deb
+Size: 538236
+MD5sum: 8fe1b6ec9063265cf45cf17753560995
+SHA1: 6bb0637953dd5b0eed3f66d9d07312c6618a7b3a
+SHA256: 47b34f7c11a211929d491b9f53ae8a946c6a3aff464807328b423e299ec16479
+SHA512: 5f4f6f7d3f9a06204a2fc9471601f2f226ac1c877aac995975df1a6cef8e74be3c2d5e50fff0aba0bc3ec55282ae7b8a6297edb38567b30b14a06e9b79ee2de2
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ Change log: https://github.com/haoict/messenger-no-ads/releases
+ . 
+ Features:
+ - Hide Ads on Messenger app
+ - Disable Read Receipt
+ - Disable Typing Indicator
+ - Disable Story Seen Receipt
+ - Can Save Friend's Story
+ - Hide Search Bar, Stories row, People tab
+ - Hide Suggested Contact in Search
+ - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
+ - Support iOS 12 - iOS 16
+ - Support Messenger version 450.0.0 and below 
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Messenger No Ads
+Author: Hao Nguyen
+Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
