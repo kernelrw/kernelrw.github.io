@@ -6163,6 +6163,23 @@ Name: Messenger No Ads
 Author: Hao Nguyen
 Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
 
+Package: com.imkpatil.spotcc
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.imkpatil.spotcc_1.0_iphoneos-arm64.deb
+Size: 3076
+MD5sum: 5f47807e5df0f7d754ae0302d4987895
+SHA1: 6e5a2b98318376857fbef36e894e0846f9c34b21
+SHA256: 175a9473369db4f376ad11c1dc350e4ea5eeebc943f06ee5e6cb432d2d589d4c
+SHA512: ccc12c58e3dae6bd786dfcd4925ec70342fbf1890995ef23b18f84c905cd4350e2ceeebedc11c9c6f182b691e6f9a6260a8f43c0d4cdc2e11f314d69f02d52eb
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Name: SpotCC
+Author: P2KDev <p2kdev@gmail.com>
+
 Package: com.jacobcxdev.fbspnosor
 Architecture: iphoneos-arm64
 Version: 1.2.9
