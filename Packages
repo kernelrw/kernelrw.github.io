@@ -89,6 +89,25 @@ Name: Touch-Viz
 Author: Lessica
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66a486a3066c63e2b4e66fbc&s=180x180&f=webp
 
+Package: com.apextweaks.veza
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: ApexTweaks <support@apextweaks.com>
+Installed-Size: 5036
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debians/rootful/com.apextweaks.veza_1.2.0_iphoneos-arm.deb
+Size: 3207236
+MD5sum: 9f54f3100a86b8bb0cde2d8adca08a54
+SHA1: e7d4436da31538fd5dfb64847a1bc691287b4f53
+SHA256: 0bacf4e16830ff87887b01fe56c2a7bd1d6a2f44771e183cd467d7307b7d37ad
+SHA512: ff729996a2046a9e57bd40e28d9405cfb5503904e6aa0f13266146540dc42c2b2efc6cf2ecd848c4ddab4663737cdfae37a583d301d0aaae0c2f74d1409f14e8
+Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
+Tag: compatible_min::ios11.0
+Name: Veza
+Author: ApexTweaks <support@apextweaks.com>
+Icon: file:///Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
+
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm
 Version: 1.0
@@ -5428,6 +5447,25 @@ Description: Displays your touch interactions!
 Name: Touch-Viz
 Author: Lessica
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66a486a3066c63e2b4e66fbc&s=180x180&f=webp
+
+Package: com.apextweaks.veza
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: ApexTweaks <support@apextweaks.com>
+Installed-Size: 5036
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debians/rootless/com.apextweaks.veza_1.2.0_iphoneos-arm64.deb
+Size: 3208100
+MD5sum: d9918dfc7d949aff089d3427e96dd5f6
+SHA1: b9052a028601ce2130641cdb79ea296e0a889a30
+SHA256: a19d6c1053b83092cdfbc6043cf39911cf4a4d83d10e2f4d80335f3d7e9235df
+SHA512: c51789f7f42c7eb12154765c6851de0a87cf07355f3f77df6e13a081bd686fa332d6b6adb221f2f9768c48c4b85ac7fce71a7e3e0e6b1816c0063cdc37fa4c50
+Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
+Tag: compatible_min::ios11.0
+Name: Veza
+Author: ApexTweaks <support@apextweaks.com>
+Icon: file:///var/jb/Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
 
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm64
