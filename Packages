@@ -7500,19 +7500,19 @@ Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
 Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
 SileoDepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
 
-Package: com.spark.snowboard.respringextension
+Package: com.spark.snowboard.respringextensionn
 Architecture: iphoneos-arm64
 Version: 1.0.7~Beta3
 Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 596
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: ./debians/rootless/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
-Size: 41960
-MD5sum: 6651d6cc836ed0f4f4992ccb4f0ef48e
-SHA1: ba9c5a7123d6659d53f70e78bf7a98e354d41975
-SHA256: 8981a2a4e87dc8018664366f57550e7f5a004a37edf74d7ef96ba9531a7eff4e
-SHA512: 85eef6d734c790d1594716524255cea07d84f20db5c3ec832df0cade872497cd5d581a4a92572e4c45177401be148d03d4651521f491920396808dd61162a85c
+Filename: ./debians/rootless/com.spark.snowboard.respringextensionn_1.0.7~Beta3_iphoneos-arm64.deb
+Size: 42004
+MD5sum: 8b28f5a69ad8daa7a315fd2bac2212b2
+SHA1: ede4e7a8ac4f30cd25794b4e0a699f4afa7e864c
+SHA256: 90d5850d1129dc0b03a0e2488b9d1f30594cac6a867180e4f1dde8bf6d7f46e2
+SHA512: 6ea3acba5ed9706c02c47d897c5acdc3c108bce8e719ce9c1a77a816605fbef03555497766b3eff8a3eb462513e16478a34a63ffc911c19d3cc59ba315889970
 Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
