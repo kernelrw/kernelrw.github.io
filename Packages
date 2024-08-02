@@ -72,6 +72,23 @@ Name: Messed
 Author: 34306
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
 
+Package: com.82flex.touchviss
+Architecture: iphoneos-arm
+Version: 2.8
+Section: Tweaks
+Maintainer: Lessica
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/com.82flex.touchviss_2.8_iphoneos-arm.deb
+Size: 263720
+MD5sum: 37f6af427d81efbca75719d71ae49e00
+SHA1: 08d9add2aeca62ff6ddf3a9461e619a112f915b6
+SHA256: 195cf1d4a96bc63327ca3292cdddcb35c9161182711646aa9b9ff966e932a92d
+SHA512: 9fd4087250ab6af7566abb7438c9e6003376b3aa665b1ccdae2b7ce3c811efdff4816ef628fe78d66568c0d79a79eadaa822b0a647192061bc2d5f292a119965
+Description: Displays your touch interactions!
+Name: Touch-Viz
+Author: Lessica
+Icon: file:///Library/PreferenceBundles/TVZPrefs.bundle/icon@3x.png
+
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm
 Version: 1.0
@@ -5253,6 +5270,23 @@ Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
+
+Package: com.82flex.touchviss
+Architecture: iphoneos-arm64
+Version: 2.8
+Section: Tweaks
+Maintainer: Lessica
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/com.82flex.touchviss_2.8_iphoneos-arm64.deb
+Size: 263804
+MD5sum: bf911c816fce5bfafde2db21c86b4ba2
+SHA1: bdcb1ee07850482402d804bf58bc203e79e41919
+SHA256: 5814829127523dbeee3cbeaba061bdf48034ac244ffd2eec227165f7dae3dfb6
+SHA512: f89f4d9e79f2051a6788ab54f39cae9dff65b042dee81bb0a6b3a575a8a88ce2816c2ca48946cdcef1a4bfa6ce81dcf81ad90482d6e9bbda9cb251845d77cf93
+Description: Displays your touch interactions!
+Name: Touch-Viz
+Author: Lessica
+Icon: file:///Library/PreferenceBundles/TVZPrefs.bundle/icon@3x.png
 
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm64
