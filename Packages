@@ -7506,13 +7506,13 @@ Version: 1.0.7~Beta3
 Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 596
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100), emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debians/rootless/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
-Size: 41928
-MD5sum: ad9990c27b199c2e2866a229ae5f25c2
-SHA1: b36d8b28001fece06af1c60a0c424a91fec4dc23
-SHA256: 4331ac8f90dcf7d203a9150e3ae89742417d4180d528ffb1e05b033a3be95fd6
-SHA512: 217bd0c3edc6a8aa975333206e062ad507e5392ef6fdca77034df09fa81a72a5fd31b84378857673603e69e979f53f0085ea443e27b70c602c2b70af8c2c96d0
+Size: 41960
+MD5sum: 6651d6cc836ed0f4f4992ccb4f0ef48e
+SHA1: ba9c5a7123d6659d53f70e78bf7a98e354d41975
+SHA256: 8981a2a4e87dc8018664366f57550e7f5a004a37edf74d7ef96ba9531a7eff4e
+SHA512: 85eef6d734c790d1594716524255cea07d84f20db5c3ec832df0cade872497cd5d581a4a92572e4c45177401be148d03d4651521f491920396808dd61162a85c
 Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
