@@ -5352,6 +5352,25 @@ Author: zqbb
 Name: StopAutoLaunchApps
 SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
 
+Package: applebetas.ios.tweak.willow
+Architecture: iphoneos-arm64
+Version: 1.2.14
+Section: Tweaks
+Maintainer: Ayden Panhuyzen
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Filename: ./debians/rootless/applebetas.ios.tweak.willow_1.2.14_iphoneos-arm64.deb
+Size: 278044
+MD5sum: c58d161e019a3fa37b87360f3ce5b5e8
+SHA1: b4a810af92f8eb64b4c39b1a672af34fd04bf29b
+SHA256: 9d638dbfe288446276fc6cd77492633f99fcaf55a4608ed018b52af2973257ea
+SHA512: 56859a5abffa732d46af5d3c182d85fd5efe7d85f1a7c3bec918b5dcd1f4488c5d55629251d3fce6290d726abab2a127ea62601057bcf8a28aaa61b69f459dc5
+Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
+Name: Ultrasound
+Author: Ayden Panhuyzen
+Icon: file:///var/jb/Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
+
 Package: chaoge.chargelimiter
 Architecture: iphoneos-arm64
 Version: 1.6
@@ -6178,6 +6197,27 @@ Description: The best tweak for Messenger app.
 Name: Messenger No Ads
 Author: Hao Nguyen
 Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
+
+Package: com.hitori.misaki
+Architecture: iphoneos-arm64
+Version: 2.1.3
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1155
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debians/rootless/com.hitori.misaki_2.1.3_iphoneos-arm64.deb
+Size: 326116
+MD5sum: a4c956b1251d0e31e3802750a1f17e5c
+SHA1: 4f9e79cf09da1a4b6ffc29a97c944b0cbe6d1b87
+SHA256: b4e26b0923e718a8b02003f2d2b4923fdb6f98aa32c4666cffd92b8165844241
+SHA512: da67cb0bff4a82b81d8308dc247ca1e1cca5f85a50007a8debde0cabfcb3aa7163ca9f5fce882b40ceb509c1c84e1964e24848cd4d505e0ec16660430c517a9f
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
+SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
+Taq: cydia::paid, compatible_min::ios15.0
 
 Package: com.imkpatil.spotcc
 Architecture: iphoneos-arm64
@@ -7704,6 +7744,23 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
+Package: com.sugiuta.plampycc
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Sugiuta
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/rootless/com.sugiuta.plampycc_1.0.2_iphoneos-arm64.deb
+Size: 1577464
+MD5sum: 903521fb72797db7e0dd71b614f065c6
+SHA1: d6c8e95d7ffc534b16e25996757a036c65bcc01a
+SHA256: 22839dd0086b4bcf80899020c4475348f4db4ba478e5969b2b383ce7aa763a6e
+SHA512: 5af04cdcbeb0583903d6a418f170d4b0c8d69dfee897a7c9f4cf94d06922da57310feff912e63b29056f3549f768207e0f7ea1da2669355b9e044bc54b2a2f57
+Description: Customize CC on iOS15 & 16 with  animated icons and more
+Name: PlampyCC
+Author: sugiuta
+Icon: file:///var/jb/Library/PreferenceBundles/PlampyCC.bundle/icon@2x.png
+
 Package: com.sunshinesong.native-island
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -7944,6 +8001,24 @@ SHA512: 764aef192b37c64ea8f34020fb7eee894c2dc97f2f9867bd0844a9f40b64590a4d60d5a2
 Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
+
+Package: dev.ayden.ios.tweak.lib.libdundas
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Development
+Maintainer: Ayden Panhuyzen
+Installed-Size: 332
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debians/rootless/dev.ayden.ios.tweak.lib.libdundas_1.0.3_iphoneos-arm64.deb
+Size: 38012
+MD5sum: 9741f38043d499f9ffaff79d4279980e
+SHA1: 5551c2ada88a65f1dbab6b10d682ebbd79c59686
+SHA256: 9a211d0cd4307685ec79412de4706846f3dfeba7898fe289866d24ede0e9acff
+SHA512: 9a64919dd2bb21ac14f6da4970d0babcd58fa2c1c1fb217220b3c8727aa3c554d012c181d1ba649850fcc4aab7f682b78e6c7d4a312bf8b1509c9e1e0539e2be
+Description: Utilities for my tweaks.
+Tag: role::developer
+Name: libdundas
+Author: Ayden Panhuyzen
 
 Package: dev.kernelrw.ccshutdown
 Architecture: iphoneos-arm64
