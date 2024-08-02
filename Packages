@@ -5484,6 +5484,24 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: file:///var/jb/Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
 
+Package: com.atwiiks.betterccxii
+Architecture: iphoneos-arm64
+Version: 1.6.0
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debians/rootless/com.atwiiks.betterccxii_1.6.0_iphoneos-arm64.deb
+Size: 82632
+MD5sum: 6503036240f9f92a0c50e706d6d51d77
+SHA1: cfdc513e9e02df5917041c6cb25898ff923fdbf5
+SHA256: ad66db44b7debf1f1e72a48b9d48d9916b2a414c44ba17870841aa649b4998f9
+SHA512: 08b9200aa8e1ead2110aa08503a29c6eac22a1a873ccc2d0d4ce4c046ea04c5ebed2fc92d3738fb067dac20449c5f5239efd6483d0643857ef1da25fc3d29e21
+Description: Enhance your control center on iOS 11 and iOS 12
+Name: BetterCCXI
+Author: ATWiiks
+Icon: file:///var/jb/Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
+
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -5981,6 +5999,25 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
+Package: com.elias.spy22
+Architecture: iphoneos-arm64
+Version: 1.3-1
+Section: Tweaks
+Maintainer: elias
+Installed-Size: 2912
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport, ws.hbang.common
+Conflicts: com.elias.spy
+Filename: ./debians/rootless/com.elias.spy22_1.3-1_iphoneos-arm64.deb
+Size: 1177916
+MD5sum: b5b016834cb9d96ad319649835a494ba
+SHA1: 74960d118745a20e8b6b85665878ed553ee91d09
+SHA256: 7bb362010c2fae2470e176eeb6221cc007e43b4da500270f284e8cc4c2ad9671
+SHA512: f8c4b9525a8ffad3af2a65cecbe071cd94af6203737d92e572060ee898701686c4247e61240fc4bb5d752ed49aabc2c02352f6af122dcdd94c79b4ad4ae38919
+Description: An awesome MobileSubstrate tweak!
+Name: Spy 2
+Author: elias
+Icon: file:///var/jb/Library/PreferenceBundles/Spy.bundle/Icon@2x.png
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
@@ -6001,6 +6038,42 @@ Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.haoict.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debians/rootless/com.haoict.facebooknoads_1.4.1_iphoneos-arm64.deb
+Size: 254568
+MD5sum: 93897b4633be8343e4aabff27137bdb2
+SHA1: 82ee49e532d0f603806a556e1f436cd1ab992b7a
+SHA256: 25b146f7172ac5b3f63acbac44426d8f95d09ba9482a27e424c905a3c6e74e94
+SHA512: 1b5922a302c640c2a13222c45b4695545d748b558ca609a3720fee37b43f0c33d8bb8c94f3bed2f82c3925c02e9d67fc7df1f1295cc5378a5e40f3bf2e3fbbd5
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 12-14
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Facebook No Ads
+Author: Hao Nguyen
+Icon: file:///var/jb/Library/PreferenceBundles/FNAPref.bundle/icon@2x.png
 
 Package: com.haoict.instanoads
 Architecture: iphoneos-arm64
@@ -6089,6 +6162,42 @@ Description: The best tweak for Messenger app.
 Name: Messenger No Ads
 Author: Hao Nguyen
 Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
+
+Package: com.jacobcxdev.fbspnosor
+Architecture: iphoneos-arm64
+Version: 1.2.9
+Section: Tweaks
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0)
+Filename: ./debians/rootless/com.jacobcxdev.fbspnosor_1.2.9_iphoneos-arm64.deb
+Size: 548660
+MD5sum: 36c54d2322732cbe4a1f97f48c8ec8c1
+SHA1: 85f8d8ecf85e8373fe85c51ef90c2c318158036b
+SHA256: d4dac0253b4b8eef495362321344940d1a521a207905bd6d0abc9dfb1a8fccdf
+SHA512: f9966e62f6ecb40d61505157f68301c7b0b0f76977f639f7e95a8baf60fc6ff4d1327642812484b79499f20953043ef78a825d733d9488e589bbee71d10fc63c
+Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
+Name: FBSpNOsor
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Icon: file:///var/jb/Library/PreferenceBundles/FBSpNOsorPreferences.bundle/icon@2x.png
+
+Package: com.jacobcxdev.libjcx
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: System
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Installed-Size: 292
+Depends: firmware (>= 11.0)
+Filename: ./debians/rootless/com.jacobcxdev.libjcx_1.1.1_iphoneos-arm64.deb
+Size: 33464
+MD5sum: 7abc9737cf3494a6941e20adca867250
+SHA1: b604eb01657ee7a3ddd1e6fbba5be47a7c066da4
+SHA256: e4abf8f8ea69772534f776a45acdfaec92f3ce2b6d0da8e480ec150082531f84
+SHA512: 68b192b3634f43e14c793f5a3246ff6bfbd6f494dca05a7174942ec73e2600afce63cc1db47ef5dce31b155c932e1fda7cbdb2db173e543f88ba52589018e597
+Description: A library used by JacobCXDev.
+Tag: role::developer, compatible_min::ios11.0
+Name: libJCX
+Author: JacobCXDev <jacobcxdev@gmail.com>
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
