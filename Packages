@@ -6203,20 +6203,18 @@ Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
 Version: 0.0~beta2a
 Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Maintainer: Julioverne
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/rootless/com.julioverne.autolockx_0.0~beta2a_iphoneos-arm64.deb
-Size: 39508
-MD5sum: f9909bbbbc794d72ed78c1e3d4be24ca
-SHA1: 60ce5c6cbbf4240845991d336e1b3aec2defdfa3
-SHA256: 4d620a69d3bdd266b3b7e09da2dcef567eda2bf50a60acdb0643a2f9e9d3d2ef
-SHA512: 91b587105439bbd00b4fe75d3e70fc0cac5aa8408e4edcb25aeec8432a9d673294aada9809ceb0c2f6abae437cc30e0e7fa7212a64942eae28d65abc423322e8
-Homepage: https://twitter.com/ijulioverne
+Size: 39572
+MD5sum: b7614e0edb160e8d88557770125822ce
+SHA1: 02ce1e0c8cf06ea30c134acfd7f23f516fcfe616
+SHA256: 0a1e4ecc7bd729d3adbeeb881db490abc2e41cf3743b559448ecb8ec51710ab0
+SHA512: ca146322ee180439fbc8b4e61c9b70a4645836e81db150182c4df279023959a760f4a6ad2c21136a355bb4cfd39dfdb52fee23a020073b73dacea984e299af7d
 Description: Force Auto Lock Device
 Name: AutoLockX
 Author: julioverne
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
+Icon: file:///var/jb/Library/PreferenceBundles/AutoLockXSettings.bundle/icon@2x.png
 
 Package: com.junesiphone.designerr
 Architecture: iphoneos-arm64
@@ -6268,22 +6266,6 @@ Description: View & Manage Applications Data from your Home Screen .
 Name: AppData
 Author: Fouad Raheb
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Ffouad-s.png&s=150x150&f=webp
-
-Package: com.kernelrw.autotooth
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: Tr1fecta
-Depends: firmware (>=11.0), firmware (>= 11.0),  mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3) , emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/com.kernelrw.autotooth_1.0_iphoneos-arm64.deb
-Size: 21436
-MD5sum: b709d74b34ae61aaa15200d775a53f47
-SHA1: 648fa60fb7fd9492d595e7d4830346e4dda32d64
-SHA256: 60f76bab64c77dbad67119520db08fd323758e56b064c49c50a02d5929e93b8c
-SHA512: 30b5d93b2f0de35c6a2728e07737fe35f6c6d8ad3c4405becdbb803e0b075ad25b8af4703e416874ef4e1b860a55d0a393d1558d1f72b11d577435ceb9278d2e
-Description: Control your BlueTooth & WiFi .
-Name: AutoTooth
-Author: Tr1fecta
 
 Package: com.kernelrw.axon
 Architecture: iphoneos-arm64
@@ -6338,22 +6320,6 @@ SHA512: da051d31a87c121e9350c7bd90f9fbe081ccd922cda6d88ef7cf563753cfe4ab18ff3bbf
 Description: Enhance your control center on iOS11 ~ iOS16.5 , including Dopamine 2 !
 Name: BetterCCXI
 Author: ATWiiks
-
-Package: com.kernelrw.byesponsorfb
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: CydiaGeek <lucaluca86@aol.com>
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/com.kernelrw.byesponsorfb_1.0.0_iphoneos-arm64.deb
-Size: 6208
-MD5sum: 2c8c59a6799d12f07d430e67669a182b
-SHA1: 7cfba759ab3e6d3ebe4f21aca838851e12774094
-SHA256: fa1ef9316bfd55bca8f9aac2d4b9d824e9c4d7c225eecd58cc30643329f6adc4
-SHA512: 2b826259813fae5d06f5178431181cf7438d1ff43e35398f6d336fddf1baafdf1cc0ae34f7f6ec2936555502d0f0bd943753751e646016bb1942178f3a58e622
-Description: Bye Bye Facebook ADS!
-Name: ByeSponsorFB
-Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.kernelrw.ccautobrightness
 Architecture: iphoneos-arm64
@@ -7038,27 +7004,6 @@ Name: watched
 Author: 34306
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
 
-Package: com.kernelrw.youtopia
-Architecture: iphoneos-arm64
-Version: 0.0.2
-Section: Tweaks
-Maintainer: sinfool
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/com.kernelrw.youtopia_0.0.2_iphoneos-arm64.deb
-Size: 3800
-MD5sum: b31f9eccfd9596f84cce32420dc0836a
-SHA1: 52f0e8ea253d30d8d7f403fbde913df3bd0af6b5
-SHA256: e4d3c8fc3acab405370e1d291dc43c44941cfaa761e60576daafcbb2d26423a4
-SHA512: b64f7c4eabff41aeedbdd60388bde89262e4cd145ac8e9e96acf42952a5eda7b68f3d919fcc8c65e80e98f869dfe1cbd61acd54f386fad31a2e95f822e8615fd
-Description: YouTopia by sinfool | The perfect YouTube experience!
- - No Home Feed Ads
- - No Video Ads
- - Enable Background Playback
- Officially hosted by MYXXdev
- - https://www.reddit.com/r/jailbreak/s/mK0CmCje9J
-Name: YouTopia
-Author: sinfool
-
 Package: com.kernelrw.youtubedrl
 Architecture: iphoneos-arm64
 Version: 1.0-1+debug
@@ -7386,6 +7331,24 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
 
+Package: com.p2kdev.modernsettings
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.p2kdev.modernsettings_1.0_iphoneos-arm64.deb
+Size: 4620
+MD5sum: e8031056b574a9028359d6c856fd386a
+SHA1: 5118add795029fa461f79e9f5ba38a3d660cf5aa
+SHA256: 40c3f52b211f45f07c40d17f5ea9888d06b3fd26ba494b5cf0e1dfdce424ea21
+SHA512: a7a285a39c24113ad297ddff005210c318613e8e522310cf4e0f9ece4ee99ce09140a10fa750f5e66d8f0868cd737ade4283e6ae9089140ad9ac671345a2bb46
+Description: Modern look for the Settings App!
+Name: ModernSettings
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2Ff8cb38eac4198b7c0812d7e075313c08.jpeg&s=180x180&f=webp
+
 Package: com.p2kdev.underdockk
 Architecture: iphoneos-arm64
 Version: 1.3
@@ -7630,6 +7593,25 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.sinfool.youtopia
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: sinfool
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.sinfool.youtopia_0.0.2_iphoneos-arm64.deb
+Size: 3844
+MD5sum: 2c49bd9bf8f56cee7af220d91e00f3d4
+SHA1: 2b8e6ca2e9a1a1f4bdd0aaf3fd0482d4cd43a57e
+SHA256: 60e21c25b02e66c3af1ee047f64fa1640fa7c5b301506f16dd46800a65f640c2
+SHA512: 8820dd92e5725f35003d3c87f7892f11faffc5d4f5cc0eafd8d3ff76393a96b612c312fde4fbd851501d1f169e7b002d30f1b2813d5cb4889ee347830d51567a
+Description: YouTopia by sinfool | The perfect YouTube experience!
+ - No Home Feed Ads
+ - No Video Ads
+ - Enable Background Playback
+Name: YouTopia
+Author: sinfool
+
 Package: com.skypain.kayoko
 Architecture: iphoneos-arm64
 Version: 2.0.1-1
@@ -7779,6 +7761,23 @@ Name: PadSwitcher
 Author: SWING
 Icon: file:///var/jb/Library/PreferenceBundles/PadSwitcher.bundle/Icon@3x.png
 
+Package: com.tr1fecta.autotooth
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Tr1fecta
+Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/rootless/com.tr1fecta.autotooth_1.0_iphoneos-arm64.deb
+Size: 12108
+MD5sum: 16a7189ae1a6dc001f739233b31d2d7b
+SHA1: 173588243a36423eaa34b45fbdeba1d1bd6e4b89
+SHA256: cad20f0d1390909d07ff21af9f6f788dada989153b726a84e43c523ed8cbff29
+SHA512: f54d23420642dbd56920ef0fa14b716447a80d132d572abd4fdaf81045b0f170203179ac3abfc681864581c022338398c384a75211e595a0c4ab4bc09f784ef9
+Description: Control your BlueTooth & WiFi .
+Name: AutoTooth
+Author: Tr1fecta
+Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
+
 Package: com.uckermark.cometcrashfix
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -7847,6 +7846,23 @@ SHA512: 1c6dec4e2fc6372990d78527ac3b86da761dfae4d8a59b6d3bdefdf19e639aaf94d82b7e
 Description: Battery Percent on Swipe Up to Open!
 Name: BatterySwipeUp
 Author: CydiaGeek <lucaluca86@aol.com>
+
+Package: com.yourepo.cydiageek.byesponsorfb
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./debians/rootless/com.yourepo.cydiageek.byesponsorfb_1.0.0_iphoneos-arm64.deb
+Size: 6448
+MD5sum: 5b9df9e5b52ce0d2ba22602bfb135dbb
+SHA1: 8f2d242a4010ebb455bd2fa83bddbf2c33002e57
+SHA256: cdaa98a2faf729bd8e74fd7234c383a00a7822b2eeed5880d01c7d6e73435f44
+SHA512: 9516e5584d38009bde6cb74d365e41e86db56948a8a8c819110ab50ce84cb3a3b274555ab710e392f4d3bb7440e8a45c7b2f4130fb67ee00d685db8fb3ed7109
+Description: Bye Bye Facebook ADS!
+Name: ByeSponsorFB
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fcom.jacobcxdev.fbspnosor%2Ficon.png&s=180x180&f=webp
 
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64
@@ -8024,6 +8040,25 @@ Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are usi
 Name: Xinamine Patcher
 Author: NoW4U2Kid
 
+Package: hi.my.name.is.ubik.sonus13
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 720
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
+Filename: ./debians/rootless/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm64.deb
+Size: 120712
+MD5sum: 8bfeedce5b14fdd03a4bf832adf34574
+SHA1: 99ba9337a2b52c3c9169b6ac6cd2fb380e3972cf
+SHA256: 1de518bcac577d54be52286129a880711966b5905cb61b6be10ebc7cbb5871d1
+SHA512: fb62284d6d6eb6ec755005d7a60c2db4f89a3dc6ac7707a627681b3310d5f10026da97a253af765f4838e60340f5ba95b0c32b89c34dc1ea8d87868ea73d0796
+Description: The better and highly customizable volume hud. For iOS 13 ~ iOS 16 , Dopamine 2 too .
+Name: Sonus13
+Author: ubik <cydia@ubikstyl.es>
+Icon: file:///var/jb/Library/PreferenceBundles/Sonus13Prefs.bundle/Images/Sonus@2x.png
+
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -8095,25 +8130,23 @@ Description: libkrw Plug-in for Dopamine (Shared Library)
 Name: libkrw Plug-in (Dopamine)
 Author: opa334 <opa334@protonmail.com>
 
-Package: love.kernelrw.lisa
+Package: love.litten.lisa
 Architecture: iphoneos-arm64
-Version: 1.5.1
+Version: 1.8
 Section: Tweaks
 Maintainer: Litten
 Installed-Size: 1304
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/love.kernelrw.lisa_1.5.1_iphoneos-arm64.deb
-Size: 806876
-MD5sum: 24409959c864fc10ab3fa721161b5af2
-SHA1: f16633988e96a68395189f0a4cbdf9ffd1a8994a
-SHA256: 667068619cb64dc1bac2c9867ce86c02b6ca05231ea4a714398d7b834bc3c131
-SHA512: c7b4233baf2222ce171f5123344c14c342403d83ae10c13c80bc822c1f9c1ff4f261ff3bd38e3c16dff8265a53304b74304e567426a27c3afb384e82690c1fb0
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/rootless/love.litten.lisa_1.8_iphoneos-arm64.deb
+Size: 806904
+MD5sum: ef8b4effcd1324f30b4c1dd20fbae30b
+SHA1: 316efeb439dda2663736b755bbd8e81fd24856cd
+SHA256: c1c63cbaffae74a4cadf745d60c0f30cd973539c73c6b0c53d89fd5f10b96f21
+SHA512: 05c528aecc5277bd3cc1a491b8f65d1154e5af77d5c52932d8e3103305d7e74698c0e4a2eb922520036dd345a01b89317e7bc75840ad39da7be0b53dce111a35
 Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
-Depiction: https://repo.litten.love/depictions/Lisa/index.html
-SileoDepiction: https://repo.litten.love/depictions/Lisa/index.json
-Icon: https://repo.litten.love/depictions/Lisa/assets/icon.png
+Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
 
 Package: love.litten.rose
 Architecture: iphoneos-arm64
