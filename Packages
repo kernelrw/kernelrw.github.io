@@ -6244,11 +6244,11 @@ Maintainer: JacobCXDev <jacobcxdev@gmail.com>
 Installed-Size: 820
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0)
 Filename: ./debians/rootless/com.jacobcxdev.fbspnosor_1.2.9_iphoneos-arm64.deb
-Size: 548660
-MD5sum: 36c54d2322732cbe4a1f97f48c8ec8c1
-SHA1: 85f8d8ecf85e8373fe85c51ef90c2c318158036b
-SHA256: d4dac0253b4b8eef495362321344940d1a521a207905bd6d0abc9dfb1a8fccdf
-SHA512: f9966e62f6ecb40d61505157f68301c7b0b0f76977f639f7e95a8baf60fc6ff4d1327642812484b79499f20953043ef78a825d733d9488e589bbee71d10fc63c
+Size: 548672
+MD5sum: f528e0d5cd36c8e54ec2b970e0b19d50
+SHA1: 9ed04c368e65b77292e7039c21afdda05a15e436
+SHA256: 20bfd4d9d723dec4330b27bd68a46fa45ebb4d5352ab37f4c3b23c5936e46663
+SHA512: e743a43d8fd1c51213d46e1fbc6322a2704e2da0916c30deb8c2268f098a3edf7c089a0715f2f000ce7a075c62b4ab41aff9e4383289dede6f09d2eb41ddd196
 Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
 Name: FBSpNOsor
 Author: JacobCXDev <jacobcxdev@gmail.com>
@@ -7541,11 +7541,11 @@ Section: Tweaks
 Maintainer: pxcex
 Depends: mobilesubstrate
 Filename: ./debians/rootless/com.pxcex.autoscrolll_1.0.1_iphoneos-arm64.deb
-Size: 26408
-MD5sum: 62910583a7c65554601de98a865d0757
-SHA1: f8b7e117857f257cfb465437ec5bc6764662a7df
-SHA256: 6173ae04c824a5836fca6dac65d0173db1592e0a043d0526124e87fc78d506fd
-SHA512: 203d0ab13008fd76696259ec0b29889e6c65d8a7eec373cdf4140fbfa7cd78cf267a2b71560abb6c82f1cabb25a64492e9d07827be63dc389ca6876f0eab592a
+Size: 26424
+MD5sum: fd894739316d124b64d8e02264c70bc4
+SHA1: 5735506bfa3db4da5a6415b2ff5c21e27d8bb8e1
+SHA256: 6f99f3bf32066ff7ced4535731fa4673551f4d683f8a1195b930d28fb101add3
+SHA512: b504555c66666fab8447cae8b42f1ee27b0180d3f0b72ac40348c7d44f3da90c4a4f6982ec8a0640a5d484a3b2b2e222e3d4fb28b70a5f010343f6c54baf7309
 Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
 Name: AutoScroll
 Author: pxcex
