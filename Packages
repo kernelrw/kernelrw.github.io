@@ -5467,23 +5467,6 @@ Name: Messed
 Author: 34306
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
 
-Package: com.82flex.touchviss
-Architecture: iphoneos-arm64
-Version: 2.8
-Section: Tweaks
-Maintainer: Lessica
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debians/rootless/com.82flex.touchviss_2.8_iphoneos-arm64.deb
-Size: 263892
-MD5sum: faee772998403f8974d65ca11956008e
-SHA1: 321e998a6bfcbdf0534251f432621f4edee157d6
-SHA256: 3a77d467a10488bd64e94ce14ab95c2a2f5878603ffd9b823d9cd12da57591f2
-SHA512: cceb70ae866b94917d7f6d62306004fc7d365094a26513a9ac806bf595fb2d0fd25ca708cbad16dfde275ec796e5648c923fa8a3ec51949e188fa1b6eb081a3e
-Description: Displays your touch interactions!
-Name: Touch-Viz
-Author: Lessica
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66a486a3066c63e2b4e66fbc&s=180x180&f=webp
-
 Package: com.apextweaks.veza
 Architecture: iphoneos-arm64
 Version: 1.2.0
@@ -5492,11 +5475,11 @@ Maintainer: ApexTweaks <support@apextweaks.com>
 Installed-Size: 5036
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
 Filename: ./debians/rootless/com.apextweaks.veza_1.2.0_iphoneos-arm64.deb
-Size: 3208100
-MD5sum: d9918dfc7d949aff089d3427e96dd5f6
-SHA1: b9052a028601ce2130641cdb79ea296e0a889a30
-SHA256: a19d6c1053b83092cdfbc6043cf39911cf4a4d83d10e2f4d80335f3d7e9235df
-SHA512: c51789f7f42c7eb12154765c6851de0a87cf07355f3f77df6e13a081bd686fa332d6b6adb221f2f9768c48c4b85ac7fce71a7e3e0e6b1816c0063cdc37fa4c50
+Size: 3208268
+MD5sum: e512b37de535065c2e10c6f9897caa65
+SHA1: 6c031e3aeaf33d7842e6b77ef2c92f1f8f8e4bce
+SHA256: 1fe4283b8653401631fb638c2cb2270c9ce1a6fec9207e9efac5ec338f3c2d9c
+SHA512: 91921bf01397758871b250588cc571a07154829f60be87c1a126db8df2805562651a345ff648963d38fc3cbb8c0794c5a57ebae9f579c613fd9325836397761a
 Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
 Tag: compatible_min::ios11.0
 Name: Veza
@@ -5565,11 +5548,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/rootless/com.blakeboxberger.bazzi2_2.1_iphoneos-arm64.deb
-Size: 65384
-MD5sum: 32271e44277538e58d3f4ec17ef6f09b
-SHA1: 7474d23362338bac9ebeb1941dc3efd784e80af6
-SHA256: 8a396dae0e7ef806ed7c8f1f87199545c1b983a04238cc786f6993d3bc7d9c14
-SHA512: c6907f5d6ebc3b0172e81c85701fc0bfe89da3e0c46b6c3acf9463b62e3ed78205a0188b3c36f3883e76f90be948a7a37e787603ea905dbf03147ca95e3f746d
+Size: 65260
+MD5sum: 03d4af11090a4bbe4c8c15307f8b1613
+SHA1: d0a8b247dad8c6f3edc9c1e15bc9a403deee94d2
+SHA256: d4e98065c69cb10de447bf905e6de0f6508475d8ab6d156c2835679fd44b1856
+SHA512: 10fada1a1eb711764b32177bfd2c0b0be443bf2584626eaa6cb1543088ec6d3086dbdbd41d0ae85ccf4755171ac09345cbd195647184f2c913860715a6be3629
 Description: Battery in your Notch
 Name: Bazzi 2
 Author: Blake Boxberger
@@ -6294,13 +6277,13 @@ Architecture: iphoneos-arm64
 Version: 1.5
 Section: Tweaks
 Maintainer: JunesiPhone
-Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/rootless/com.junesiphone.designerr_1.5_iphoneos-arm64.deb
-Size: 6573024
-MD5sum: 84dd615c34073223079df2f207b2cda1
-SHA1: bb437de5e80ab8208d32c7e9f8f49bbcad04cf96
-SHA256: 0c3be5cd102721c55e50a036447070943d899992467e3ed13867673fdbd46de4
-SHA512: 4d1e5a10c1c00e5a2e9d37804c316f6552c5b0ecac9a2a9ea6608663472920917b24911ac9cb071df6e277d44d07372288fa0388fc58044965451c3ec61d6b21
+Size: 6573320
+MD5sum: ae0321cb7710ecb151fa74bf9b8baeb7
+SHA1: 97b37286c389399cbc2457e0343d25c8228c2754
+SHA256: 540e8ff9440ef8a1ffe61d8b63046398eaf3577207c27b8e5a57dd49b8edfc0d
+SHA512: 8c341efd54055b676f8efedc1693f7ea16502e0dafc5250e7082340096384fbfca2a940dba379e83e7cbdf3cf87581001ea02d14afc063cde8db4cde0f27dda0
 Description: Design layouts for lockscreen and homescreen
 Name: Designer
 Author: JunesiPhone
@@ -6339,25 +6322,6 @@ Description: View & Manage Applications Data from your Home Screen .
 Name: AppData
 Author: Fouad Raheb
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Ffouad-s.png&s=150x150&f=webp
-
-Package: com.kernelrw.axon
-Architecture: iphoneos-arm64
-Version: 1.5
-Section: Tweaks
-Maintainer: Baw Appie
-Installed-Size: 628
-Depends: mobilesubstrate, firmware (>= 16.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debians/rootless/com.kernelrw.axon_1.5_iphoneos-arm64.deb
-Size: 138884
-MD5sum: 2a25a0636ddee28d5ebb1d4c727ac76b
-SHA1: 2b2e11a17eb904373da1256158c7b2b152a3cd8d
-SHA256: 57bd08f1b72fe92e123214d812bb5403f3fc873280fed480bfa5efd94dad6129
-SHA512: b9fc7a0d43985a2f911821dece51c1d64cf159fb8d1f297ea602d45870d9551df1e055876f2a1bf53bb131c224ae50fdbd519905ca2a7e91a513a57ff55153f4
-Description: Priority Hub for iOS 16 , supports Dopamine 2
-Name: Axon
-Author: Nepeta & Baw Appie
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fme.nepeta.axon-icon-icon%402x.png.png&s=180x180&f=webp
 
 Package: com.kernelrw.betterccbrightness
 Architecture: iphoneos-arm64
@@ -7325,6 +7289,25 @@ Name: Cr4shed
 Author: Muirey03
 Icon: file:///var/jb/Applications/Cr4shed.app/AppIcon83.5x83.5@2x.png
 
+Package: com.nepeta.axon
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: Baw Appie
+Installed-Size: 628
+Depends: mobilesubstrate, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/rootless/com.nepeta.axon_1.5_iphoneos-arm64.deb
+Size: 139208
+MD5sum: 5ddc138fe95fc50acb68605bd1e72856
+SHA1: 159b26a8834250c5183b884b5205e14c87e86ed5
+SHA256: 7fa0ad7c4bef9e2190ef978fe81d6554fa542257041ab0c249f1a69f51539798
+SHA512: a21c230557ae7ece0609fc56998fbb79ba2d8c8bac3efe35470cee557a1ca9ade1beb7addbad8313bc8427b9f985e255c5224e2dd4b3651feacac11b4f764a3a
+Description: Priority Hub for iOS 16 , supports Dopamine 2
+Name: Axon
+Author: Nepeta & Baw Appie
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fme.nepeta.axon-icon-icon%402x.png.png&s=180x180&f=webp
+
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm64
 Version: 1.2-8
@@ -7516,37 +7499,20 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
-Package: com.pxcex.autoscrolll
+Package: com.pxcex.autoscroll
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
 Maintainer: pxcex
 Installed-Size: 152
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/rootless/com.pxcex.autoscrolll_1.0.0_iphoneos-arm64.deb
-Size: 26376
-MD5sum: bc4c3defdff75d574a13952fc6b5d011
-SHA1: 8b70a1ea6f5f009c9f58584cf1198deda25e5709
-SHA256: 5dc608f355ee2bd0730313cc41df4f3eaa4366dd0ecb50a3c72063639cccec19
-SHA512: 94a52d3877cd83f203c46460ae3e7b563349d1361eb5435d32f98fc0fb341d8ab198ed047cb1ad14dadd02e1f24a3112c63d3d0264c663874172a3b07296f54e
-Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
-Name: AutoScroll
-Author: pxcex
-Icon: file:///var/jb/Library/PreferenceBundles/autoscrollpref.bundle/icon@2x.png
-
-Package: com.pxcex.autoscrolll
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: pxcex
-Depends: mobilesubstrate
-Filename: ./debians/rootless/com.pxcex.autoscrolll_1.0.1_iphoneos-arm64.deb
-Size: 26424
-MD5sum: fd894739316d124b64d8e02264c70bc4
-SHA1: 5735506bfa3db4da5a6415b2ff5c21e27d8bb8e1
-SHA256: 6f99f3bf32066ff7ced4535731fa4673551f4d683f8a1195b930d28fb101add3
-SHA512: b504555c66666fab8447cae8b42f1ee27b0180d3f0b72ac40348c7d44f3da90c4a4f6982ec8a0640a5d484a3b2b2e222e3d4fb28b70a5f010343f6c54baf7309
-Description: Smart Auto Scroll & Faster Scrolling on all app, supports iOS15+
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/rootless/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
+Size: 41384
+MD5sum: afb2d6e1b8e5dea1f06d54c90d486f55
+SHA1: e5c0c104cc287298388d804f08f3337f7f613f57
+SHA256: 3010599ba7c72db87e3eec5b7b651bd75dfc9e38b4c93717806c398166ecba24
+SHA512: 34af30494df8a4808fdac23ef53bce3981cc64ae91fd03324da5c91092d49aa509125902798987d34a8da96679319b55db9efd044edb28b76b7f5b48284f97d0
+Description: Smart Auto Scroll & Faster Scrolling on all app.
 Name: AutoScroll
 Author: pxcex
 Icon: file:///var/jb/Library/PreferenceBundles/autoscrollpref.bundle/icon@2x.png
@@ -8157,11 +8123,11 @@ Installed-Size: 720
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
 Filename: ./debians/rootless/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm64.deb
-Size: 120712
-MD5sum: 8bfeedce5b14fdd03a4bf832adf34574
-SHA1: 99ba9337a2b52c3c9169b6ac6cd2fb380e3972cf
-SHA256: 1de518bcac577d54be52286129a880711966b5905cb61b6be10ebc7cbb5871d1
-SHA512: fb62284d6d6eb6ec755005d7a60c2db4f89a3dc6ac7707a627681b3310d5f10026da97a253af765f4838e60340f5ba95b0c32b89c34dc1ea8d87868ea73d0796
+Size: 120968
+MD5sum: fe6fe34ebffd3b75c2d04b198ffbf8fb
+SHA1: 6e5b1403ed3b4e714a7aa96a347a19fd51047e41
+SHA256: 40ce58f69052cbffe6b3d17d12be7d8accf4f40bae39ec9de18de9099534d45b
+SHA512: 40b627b8c4f19fe4109d9c72a0c25c876ad9e9213975b9cc7c31ae4d68fa6c0a0d90b3cc59ab83f007039b2ff9c274562b9d5c380ef63d531d4e7b3286d60863
 Description: The better and highly customizable volume hud. For iOS 13 ~ iOS 16 , Dopamine 2 too .
 Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
