@@ -2001,3 +2001,392 @@ Description: Priority Hub for iOS 15 - 16
 Name: Axon
 Author: Nepeta & Baw Appie
 
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/roothide/BHTwitter_4.3-5+debug_iphoneos-arm64e.deb
+Size: 1070316
+MD5sum: 5cebb8621b600f5634f8fbc0e43914a3
+SHA1: 11781210a52676cc21108adc2569b44a35f3a354
+SHA256: 97222b84ff049251f4e8802a1731a22bb6aa28ea74dd9d5bb65b05fed6da2a9e
+SHA512: ad008950b863f0c12ea6825b1688176a1ca5cb9d966c70a5cff3336d640a776b459b53277bb84d80bee0d77c98dfea4116f71ab5d29de09cd0673cbc550403ff
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: jp.akusio.backgrounderaction15
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Tweaks
+Maintainer: @akusio_RR
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/roothide/BackgrounderAction15 CCSupport_0.1.0_iphoneos-arm64e.deb
+Size: 9224
+MD5sum: a6556753e1652119bb898c40f5271563
+SHA1: 89c29a9b4e4995b1bc141d83b7bd7a7ff88980d6
+SHA256: 238273e6e83e0e4e9d46909d4dcf66b290ee7891b690120320c39295d5a4c2b9
+SHA512: 401767880427cae42690d8226d639ec96882b0476587febb6c031e62cb6be2c76333f1a0d10b6af92630f702b91e922cdb96775dc3b108149c24d12a9c6000e4
+Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction15 CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
+Author: @akusio_RR
+
+Package: com.0xkuj.backgrounderaction15autostate
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 384
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: jp.akusio.backgrounderaction15, com.opa334.altlist
+Filename: ./debians/roothide/BackgrounderAction15AutoState_1.0.3_iphoneos-arm64e.deb
+Size: 27668
+MD5sum: e685958bb96f82ed61d948ae56825d6b
+SHA1: 9bc59f9ebc0c99edd7a66f78f63b388e35740e0c
+SHA256: 7f526f42b78d50235036ee16fc07134e10e84aec5d2e2c0aa7177c97b018707b
+SHA512: 8f632b3e154688b49e968e1808e63344cd8c46ed665a42ac564728c07f57284e4656125aeed7bda6de51f249f5ca22d2d8f441c9e68806bc870ccad0728ff71a
+Description: Save Action state for BackgrounderAction15 CC Toggle
+Name: BackgrounderAction15AutoState
+Author: 0xkuj
+
+Package: com.newwares.badgesync
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: newwares
+Installed-Size: 72
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/roothide/BadgeSync_1.0.0_iphoneos-arm64e.deb
+Size: 4176
+MD5sum: 6e110c704b2090e0ff2d3af8913e6ba4
+SHA1: 3639a79175781206e7ddd7ac3c0ded9bebe12e7c
+SHA256: 60f8261389ed53bc5667a27327541fd65b88288bc6bbe5c57b02d8238e8aa9b1
+SHA512: 492cfb0ec26cb84a7de23d9531fe209a91e07924e4a3968e3f6bd3d2f7fd822feb25f2b6a6d447de82a487a82682973f3e745c3a8708fa7996403713bb2fdda0
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Name: BadgeSync
+Author: newwares
+
+Package: com.kernelrw.bazzi2
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Blake Boxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/roothide/Bazzi 2_2.1.1_iphoneos-arm64e.deb
+Size: 65632
+MD5sum: 852742903e8f3baddd5ded1130f48dc4
+SHA1: 16993a48150a57ff390eb348822cc82204d77911
+SHA256: 170cde8f1595b799cba15d9cb53f322967fa3a428ba821e586e736d76eecab15
+SHA512: 260e624eebffe2aaa65b768ff7e22d99011338ca633a33bea38c0844572f9d0e906e0d0798c5c564c15c6516562d758dbc0350ed7b019ea98be9149458d65c16
+Description: Battery in your Notch
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/bazzi2.png
+
+Package: com.level3tjg.betterccbrightness
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 304
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/roothide/BetterCCBrightness_1.0.2_iphoneos-arm64e.deb
+Size: 44704
+MD5sum: 986028062eb907b26238790a364d0bf7
+SHA1: 5438e24a2457ac47f9fc8fa76230ea25b95574a4
+SHA256: 25f329e12f998eae1e3e7357e2582f493eaec78a9326fc1d71cb1822e681c7cc
+SHA512: 2bc62438dfa8baab87430f5066fa47d4ed82f0c09ac1677df58ce825a3fb6d4c651ccbb60c0cfd92486288fb473196066c83da40d6dc28a613d3064944ad96c0
+Description: Add more controls to the expanded brightness CC module
+Name: BetterCCBrightness
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
+Author: level3tjg
+
+Package: com.atwiiks.betterccxi
+Architecture: iphoneos-arm64e
+Version: 1.6.0
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 640
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/roothide/BetterCCXI_1.6.0_iphoneos-arm64e.deb
+Size: 84796
+MD5sum: 8ab98a1c2483ba7e58c9f7459a3a6bb7
+SHA1: 9376be96c245dc5edd453178300de9aa278991b1
+SHA256: 810abb8bd07eb4098073f936508b1e6b62021718036debf5fc4ee6ded0237036
+SHA512: e874d1217dc6ed954605a52b7bbef42f406450a7a97009f5a0bea7182c7b8d786f76c1b4048254416348f1e81686eb9b7b61d25971dc0875488e807cb0faf373
+Description: Enhance your control center on iOS 11 and iOS 12
+Name: BetterCCXI
+Author: ATWiiks
+
+Package: com.0xkuj.blockwaupdates
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/Block WA Updates_1.1_iphoneos-arm64e.deb
+Size: 4228
+MD5sum: 693b420bc2bea4ef95fd26cfe7253d06
+SHA1: 2984a35e73543476db23527180de66e03a793a9d
+SHA256: 8587e080357c7ab27447caf41be86184005fb80631cc2882fe4ad4ba2b2e77cb
+SHA512: 85a68e6b89837ea4c08a8f1cc7de7b76158f49406b1b130f16586a5575234e48dae910d92e61e41f0aaee9f4a27c2b6f4ebd1485f4ab800d8861186a5dcc7bbc
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Description: Blocks Whatsapp message saying you must update
+Tag: purpose::extension
+Author: 0xkuj <kujmank@gmail.com>
+Name: Block WA Updates
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: 0xkuj
+
+Package: com.ps.cconandoff
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debians/roothide/CC On & Off_1.1.0_iphoneos-arm64e.deb
+Size: 7172
+MD5sum: 5f3fdc0bd115a259728e1d7f43b33b6d
+SHA1: 6e24acd06fc47a66dacef5022d843e9dc61c4181
+SHA256: 02e568b954d4cf6de820c09169522f4406b49af29456f75601d60547fcb06609
+SHA512: 1e4f683e18a52f7fa486bd478cfac41a05d40c4078c9f9c91fdc407ca2be801dcd87330a5cbcabd558691d9746d1347bed8c7c4e5b64fbfbcfd7f31c89a38aa1
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
+Name: CC On & Off
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
+
+Package: com.kernelrw.ccautobrightness
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1
+Section: CC Modules
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: com.opa334.ccsupport
+Filename: ./debians/roothide/CCAutoBrightness_1.0.0-1_iphoneos-arm64e.deb
+Size: 19264
+MD5sum: 4f311d4275ccc310c7dd08e1ba190627
+SHA1: 6fae2b849340104df85a4c4a44f4f9866c15f731
+SHA256: 641b8893e16275f69fa967bc7c00865c7d97414c8db602242ff9a3c9f2fdbb78
+SHA512: 77077b9bcb3770e0907ea88869fccd4331deb1ffcd0037b91de0bc3468a262bb276714a9e5a6186c417569f8d25fba28c84e97d6e9f8611617b799d42a406f1c
+Homepage: https://skypain.github.io/repo/
+Description: Adds a module for AutoBrightness in the control center ; supports iOS15.0 ~ iOS16.5 .
+Name: CCAutoBrightness
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://skypain.github.io/repo/src/ccautobrightness/Icon.png
+Depiction: https://skypain.github.io/repo/static/view/?p=ccautobrightness
+SileoDepiction: https://skypain.github.io/repo/src/ccautobrightness/config/sileo/depiction.json
+
+Package: netskao.cccellularrate-rootless
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 616
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/roothide/CCCellularRate-Rootless_1.1-1_iphoneos-arm64e.deb
+Size: 91736
+MD5sum: fd9078b3ba8fa4c987b6a1bc736103c9
+SHA1: 25c1984469d98df9406260c190ade781740cff63
+SHA256: 5bb52cf104072c323b4ef7349b8ec2ab6a4e2757a93adab3aca16905474054f4
+SHA512: deecc69f16b7edb14af13714e08722af0e059fdff84f26dba4dc4a405ff7da273b3b5c862f6fde00a58c4e7d18019cf87f9237c63530e539c611369661c00d49
+Description: Quickly switch the type of cellular data 2/3/4/5G currently in use via the Control Center, only the types supported in the current device settings will be displayed
+Name: CCCellularRate-Rootless
+Author: Netskao
+
+Package: com.netskao.cclifttowake
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 172
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/roothide/CCLiftToWake_1.1-1_iphoneos-arm64e.deb
+Size: 17452
+MD5sum: a37c7d6e8f3c29ea0268fc422031a50c
+SHA1: e81e142e102a3ed1ca3c79c3a17defa968c032ed
+SHA256: ee6fd37077024ab16611cf36989b80e156d32661d8173949ed934ac13a92fc0e
+SHA512: 72f402c6d6315aa84ce17e05130e56a15032aed388a8b6d21e14848e9b69364d9045fb42b96efb63106b99e0c33c9fb66f5a322af1a062eb9de432603640877a
+Description: Quickly enable or disable Wake on Lift from Control Center, Support iOS15+
+Name: CCLiftToWake
+Author: Netskao
+
+Package: com.skypain.cclocation
+Architecture: iphoneos-arm64e
+Version: 1.1.0-1
+Section: Control Center (Modules)
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: ./debians/roothide/CCLocation_1.1.0-1_iphoneos-arm64e.deb
+Size: 14260
+MD5sum: f2fd41fecafcbd2a2724b8a8a88bdd30
+SHA1: 79e6107139525b52e538f014a41bc4d7ccdeabcb
+SHA256: 759c8bc28c7f922e71798397f60c16843022244eefabd328b797c8926dd01404
+SHA512: ed6f8ff8bc032c30d9eab92055b3de1e9cd1e3106fa785ed3fca6398129835738757e31e6889f4a2bc98bdc3ef9f04daa4f6f20087ad75ccb3475b1261a03ea3
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心定位开关模块
+Name: CCLocation
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://skypain.github.io/repo/src/cclocation/Icon.png
+Depiction: https://skypain.github.io/repo/static/view/?p=cclocation
+SileoDepiction: https://skypain.github.io/repo/src/cclocation/config/sileo/depiction.json
+
+Package: netskao.ccpower-rootless
+Architecture: iphoneos-arm64e
+Version: 1.9-4
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 2424
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
+Filename: ./debians/roothide/CCPower-Rootless_1.9-4_iphoneos-arm64e.deb
+Size: 990284
+MD5sum: 69ebcc90d36b61dbccd5da3b57958924
+SHA1: 5638ca781a859291fb81a378314dc5614c861b86
+SHA256: 9fbcc29133ab2b63c3b76780be4f698ff34358b09e374ad23c33e65bde39d482
+SHA512: 2d6785195e51ad20723b9697e61852e28d73e6af2f34d08c2d35b9a35b452efac5d29d64eeb14a33e0b7b4204656231b4063ec148fa034f773094677a4284a24
+Description: Control Center Quick Power Tool, Supports iOS11-iOS15
+Name: CCPower-Rootless
+Author: Netskao
+
+Package: com.mtac.ccpowermenu
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Control Center (Modules)
+Maintainer: MTAC
+Installed-Size: 356
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: com.opa334.ccsupport
+Filename: ./debians/roothide/CCPowerMenu_1.0.2_iphoneos-arm64e.deb
+Size: 32916
+MD5sum: 3b2611a9f8cbbaf8408f0be832a24bbc
+SHA1: dffaeab027194a326e1f5dfca751603e3bb5e3ff
+SHA256: 73cfc7de254510fe1ba1694ad2d5768fdbeacea0ce42da5046169afc4339b064
+SHA512: 2b9cb430abea227e87c1a2776fec680e61e59d3ac35d48d822b1d8959495957fe3a86f92f1e779fde0dad1bfdf5c61c568a73f952f5fe9deb5d2df75f4383045
+Description: Control device power options from Control Center
+Name: CCPowerMenu
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
+Package: com.skypain.ccrespring
+Architecture: iphoneos-arm64e
+Version: 1.1.0-2
+Section: Control Center (Modules)
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: ./debians/roothide/CCRespring_1.1.0-2_iphoneos-arm64e.deb
+Size: 13132
+MD5sum: 8b633247f3abd609e9b04751b72fa965
+SHA1: 00ed7fd229087080942ba878286ad7b060e0e8cb
+SHA256: de083c3e5cc4b6ca37437028d3cde9ba69f621d42c91155bdf171dd3d4999dfd
+SHA512: 17c8b134ecaedac21e5ffcaf8bc3cf2d62e837973e71df3267d3130fddd0718e27b7095de3578ffc61a06c3fad140531e904c4be10283558dc126daf122edd70
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心注销模块
+Name: CCRespring
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://skypain.github.io/repo/src/ccrespring/Icon.png
+Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
+SileoDepiction: https://skypain.github.io/repo/src/ccrespring/config/sileo/depiction.json
+
+Package: dev.kernelrw.ccshutdown
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: CC Modules
+Maintainer: ExTBH
+Installed-Size: 204
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: com.opa334.ccsupport, mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/CCShutdown_0.0.1_iphoneos-arm64e.deb
+Size: 18016
+MD5sum: 48ce08fa96e30d8876ed12c3ff220b08
+SHA1: c74d27e557e48e78d38b9f7e0a020075e8b67924
+SHA256: 1dfe9a6407a57b1e3bc68ae6e855b7784f3590f49e0297eba2f70bd5fb084a37
+SHA512: bdf58a29e97e781a75a0e2ff71d57a8926d83ffc9b2e90b2dd1321b3cc194f69deb70ff4476292d318d545dbdcc636bb358072a12436c44698f37b636c183330
+Description: Scheudle a Shutdown (and more) from your CC ; Supports iOS15~ iOS16.5 including Dopamine 2 !
+Name: CCShutdown
+Author: ExTBH
+
+Package: com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.3.10-2-2+debug
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 720
+Provides: com.ioscreatix.silo
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./debians/roothide/CCSupport_1.3.10-2-2+debug_iphoneos-arm64e.deb
+Size: 73840
+MD5sum: 8aea01d9be7de70b3b24c6eab2677e4c
+SHA1: 3981e332f84da8c5f72d626d0674f08165b29b84
+SHA256: 0aea0a0d12baab6b3563cd94ae1427ae896a74024a58d59410f655f8f8e768c3
+SHA512: 70419b7a84efba72b004d7facb112d77c238b382089fe012d0631d24b31f7616e485d35e310d26b71fdf5a82928fd19457659d07b03cf5a8ac4d67e7a1bad636
+Description: Support tweak for CC modules!
+Name: CCSupport
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+
+Package: com.skypain.ccvpn
+Architecture: iphoneos-arm64e
+Version: 1.1.1-2
+Section: Control Center (Modules)
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: ./debians/roothide/CCVPN_1.1.1-2_iphoneos-arm64e.deb
+Size: 30588
+MD5sum: e76aa6930628cbb0e98d2b88e045d997
+SHA1: e89e31ebda0f705a110f7f575eb3cfb36610bac9
+SHA256: 50615a70b0714ab9e9c0f3d1c1e2c133cfb518e7c9b79ac80318f078743ebed4
+SHA512: 31010131900789ccfe8c02e35f4af7169f4634178914378972b9a499457435d40dcac7e5446bc2e10be22d60d61e4c321ec96e03ebc37c62c10a75ff55199630
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心VPN便捷开关模块
+Name: CCVPN
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
+Depiction: https://skypain.github.io/repo/static/view/?p=ccvpn
+SileoDepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
+
+Package: com.ryannair05.cask3
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 854
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Filename: ./debians/roothide/Cask 3_1.0.2_iphoneos-arm64e.deb
+Size: 319700
+MD5sum: c848411ada18766663d73a7f814ea92a
+SHA1: dc8381373b16f77bc5533cdcb73aafcb673494c6
+SHA256: f1a2eb74c00a72afac22b129db47e07285bfebf9e850aab6d96ec313034d84f9
+SHA512: a4ef6cdaf0eaddd703a37609a33bd7774a76705d70446b64c196350881b37376a205942f57ea4884d7baf32279542ac6be91de160785c67b867f3046e3b92319
+Description: Animated table scrolling
+Tag: compatible_min::ios14.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cask 3
+Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
+Depiction: https://chariz.com/get/cask-3
+
