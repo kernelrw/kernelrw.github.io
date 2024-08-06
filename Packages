@@ -5837,6 +5837,24 @@ Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 4.0.1-4~roothide
+Section: Utilities
+Maintainer: TIGI Software
+Pre-Depends: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debians/roothide/com.tigisoftware.filza64bit_4.0.1-4~roothide_iphoneos-arm64e.deb
+Size: 13875780
+MD5sum: 5b80e2b5799c77d8791b6e172a735c24
+SHA1: 9cbf09693246ff728fa6bd7404a3cd308050e1ba
+SHA256: fcd705eb70fdf3e2429b3d71e39752d51a52c8c1d5f2a54fc4303c2cac4af2e3
+SHA512: 7c0ca8ec87516b6288edeaaa60cac0ec1ec4299dcb490e45e8f4277b5062b3d52db54c92088013b059872fa0bf9385242862ea5c60f04246dc8e95e6191b961d
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
 Package: com.nan.deb
 Architecture: iphoneos-arm64e
 Version: 0.2.9
