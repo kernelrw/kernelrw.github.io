@@ -5095,6 +5095,23 @@ Icon: https://skitty.xyz/repo/icons/xyz.skitty.sushi.png
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/sileo.json
 
+Package: com.kernelrw.swiftprotobuf
+Architecture: iphoneos-arm64e
+Version: 1.26.0
+Section: System
+Maintainer: Kernelrw
+Pre-Depends: rootless-compat (>= 0.9)
+Filename: ./debians/roothide/SwiftProtobuf_1.26.0_iphoneos-arm64e.deb
+Size: 1870512
+MD5sum: 227d0b57591cbcab57bf6c3320c45d6c
+SHA1: 2dea128cdc4d9ba895885932e05f5e6388df8587
+SHA256: 654fcfa1883f7c8ab1ca83917194a235fde3d622f269b0744eb9f3de1b77a2b5
+SHA512: 2c6d8b1a1849d9069bc9ddb2cb8db9b890b6b7e2570875791b1aa69e7469f66b27c9bb00e3cc7951e49a8424e5b05c55225a6610653d7f234a9dfdb68c983791
+Description: Plugin and runtime library for using protobuf with Swift
+Icon: https://repo.cypwn.xyz/packages/SwiftProtobuf-Rootless/icon.png
+Name: SwiftProtobuf
+Author: eevee
+
 Package: com.kernelrw.swiftgramplus
 Architecture: iphoneos-arm64e
 Version: 4.2.0
