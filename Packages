@@ -1,3 +1,20 @@
+Package: com.34306.mineland
+Architecture: iphoneos-arm64
+Version: 2.1-4+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/Rootless/com.34306.mineland_2.1_rootless_iphoneos-arm64.deb
+Size: 49044
+MD5sum: 6420b16f39fa4cca156a89660faabcbc
+SHA1: b0f361827d080c0d1c63ab0ce97f7e2eb958745f
+SHA256: 2303cac380267bde83f38ea397ba3f3a128d31af7198b133476fc8fd7ec4a215
+SHA512: b413c0a103801b844abcdfc6ece77eaffa9dd47228953d3f84f655631cbbdd89652bfb6c5c2a4212a4a58ca408b8c6c463f6bc29c75804251180ea7b51a363fc
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, DuyKhanhTran
+
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
 Version: 5.0b4
@@ -113,6 +130,23 @@ Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
+
+Package: com.34306.mineland
+Architecture: iphoneos-arm
+Version: 2.1-5+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/rootful/com.34306.mineland_2.1_rootful_iphoneos-arm.deb
+Size: 49036
+MD5sum: e6ba0182ab1e8cbd473dc448ecb50b2f
+SHA1: efece4795e7310e2acc45b44a6e221172362b340
+SHA256: 0f1495328a1537b4dd83517c309b354721ac6f5f4304f59436408f91e537b244
+SHA512: 90ae79a386b88c925e1daf929b6e87998849d7c32ee7a3120af2a103cb786d40824823f9794c38eccd7af8f5a14406a81dfe15368078338ad8492a6dbeedb313
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, DuyKhanhTran
 
 Package: com.82flex.touchviss
 Architecture: iphoneos-arm
@@ -623,6 +657,25 @@ SHA512: 13ff0d8c49a1a8fc5d709009708a42346743474226ba355f401f6c1618e5bce72e9feaab
 Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
+Version: 5.0b4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16028
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.dvntm.ytlite_5.0b4_iphoneos-arm.deb
+Size: 6071102
+MD5sum: 2b6786f630446cb4bb83996c6a5c55d9
+SHA1: efecd50b733a3921734d7f843bfa1d4f615f14c2
+SHA256: c6b03714c61e5ebc44f1351fa3545dfe8e479d39c3359e32467b56745d3ec148
+SHA512: eeb7e8043a650500eba5c561f23949e3d3a88405aa3365797621e13db82cc0fb8c9d6a6792836c630a7522340166b00dd971051d35c0daf8008543f49757a38a
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.haoict.instanoads
 Architecture: iphoneos-arm
@@ -5878,6 +5931,42 @@ SHA512: 0026fe226561654e12ffb0ab691c6c75a51b428c5fb20b533e72b02455cc0a05aecc39e8
 Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
+
+Package: com.34306.mineland
+Architecture: iphoneos-arm64e
+Version: 2.1-6+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/roothide/com.34306.mineland_2.1_roothide_iphoneos-arm64e.deb
+Size: 48998
+MD5sum: 0ece0434bc0ff083cf7fd7b13ef64af6
+SHA1: 9c58b7ebab04f18f09ed7dbebfb14b8035bd0088
+SHA256: 0bd01cbdbd5eac1aafbab5a4cd0dde0499dcbc1f115e50954db8f99079d65fb7
+SHA512: 3efe2c3fe96ee378774524cd678a92fb7e165625dca3e06b8641db28ce500dd53683ddd0f5a40a817807a6fdbc793ea2889951447161ce28104a49a9ad79f3c3
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, DuyKhanhTran
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.0b4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16028
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.dvntm.ytlite_5.0b4_iphoneos-arm64e.deb
+Size: 6070742
+MD5sum: 172fc3334f09adc592ce4687df323b57
+SHA1: 6a95235cf1c0f741b799a200725277b35423c09c
+SHA256: 38c73dc147d1a60c7e52a042c202d9ae9c478ea9c915693b2379d09db4fe6bd0
+SHA512: 8482e66163abe171c05fa02f69b488b433a6af3e06bf2ca7965f794e5cbf701c8edd587b038b02a55a6f1d8cfa7c6db8539bfd73b04097981803b538ee33b2cd
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64e
