@@ -17,6 +17,29 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.rpetrich.powercufff
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootless/com.rpetrich.powercufff_1.2_iphoneos-arm64.deb
+Size: 14104
+MD5sum: 90abeb4c25a7aec6bfefe621f76d109b
+SHA1: 2ec0dac95be7a658184395469582937dbaf1a229
+SHA256: 6d52fa20db0665f64a8273d47606c20f5c2e2ff7077fa883e6fb8a04170c79cd
+SHA512: 1199ad640a25f89ea93fc36e01b61c48f0238a1a47e56ec7c00efdd42b0643cebf8be82a8bc299b991dcbc4fb12a8460d4b207520f1b4eb9f25b3d4f1ada3ca2
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
+
 Package: chaoge.chargelimiter
 Architecture: iphoneos-arm
 Version: 1.6
