@@ -2582,6 +2582,66 @@ Name: Korboy's Filza Scripts
 Author: Korboy
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/filzascripts2.png
 
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm64
+Version: 0.4.0
+Section: System
+Maintainer: alias20
+Installed-Size: 608
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libroot-dopamine
+Filename: ./debians/Rootless/kr.xsf1re.vnodebypass_0.4.0_iphoneos-arm64.deb
+Size: 87302
+MD5sum: a07d9b1ec69d5984e21a07ca4068a1ee
+SHA1: 639a09bdccee29d12f727cd6d451586eb79cae01
+SHA256: d92288ae196ec6ca1f2ae91d0eb121a5a54e7dceeddb585fedcd1256be57726c
+SHA512: dfe08261709de66093633879f067d2512101f8f30a411b99871b9da9cefd12eef85b91817f817c35c8479be942c4169462a4fb989ecdb119e48627e79345ff6e
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15
+Author: XsF1re, ichitaso, level3tjg
+Name: vnodebypass
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm64
+Version: 0.4.1
+Section: System
+Maintainer: alias20
+Installed-Size: 612
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debians/Rootless/kr.xsf1re.vnodebypass_0.4.1_iphoneos-arm64.deb
+Size: 87524
+MD5sum: 66595be22085e081cefb0b5973741709
+SHA1: c215376c28f539abc739b1dff8bdc5a40f82cc54
+SHA256: 090eff7c142104c805d09825a8f04e0d7d3ba123cc95741964316ea6cca06390
+SHA512: b0bad1efb94c5522e0a1c76d7b952637ade91fe3996a41cbbf74745a00078cb5eddaa46789bb73d863b050c7d57c25a0ecd6e89425fee832c2e4a2818b2db4b0
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Name: vnodebypass
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm64
+Version: 0.4.2
+Section: System
+Maintainer: alias20
+Installed-Size: 532
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debians/Rootless/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64_Vtra05.deb
+Size: 72762
+MD5sum: 2d8bb61c5f09cd23ac2b9880ad4e638c
+SHA1: 02a4518b006e40cf6122368ff95ac14d66d72d23
+SHA256: b9a7e563abe9fcf32a8165dcf7a7b3e167683a86d7d6dd220da600940ffa2c1e
+SHA512: 6045c1247b367bf710bbaa85af8dfea6688d9502255ea4f73de2e6877ef7b8b2e3476c84dc9b29012f98008a634cc56933dbec4b5cf7625be51809caf6b843f7
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Name: vnodebypass
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+
 Package: libkrw0-dopamine
 Architecture: iphoneos-arm64
 Version: 2.0.0
