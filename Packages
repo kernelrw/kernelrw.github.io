@@ -973,6 +973,23 @@ Name: Messenger No Ads
 Author: Hao Nguyen
 Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
 
+Package: com.hitori.hikarii
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Hitori
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.hitori.hikarii_1.0.5_iphoneos-arm64.deb
+Size: 1000640
+MD5sum: 99a56b2354daca79840a292481ff2dc3
+SHA1: 31b6b2bd57d52cf0b66a61d32d91682e36dbeb1d
+SHA256: 97b7831d064658058b285d6b48ee14b8332b277f17740df82fb2a6d3662d1928
+SHA512: fff8c7f28f272d5bc98b458c0db32e8b537741507d99a9bc7a637a644750f5ed9054e13773b73c850357af8b38605849f13a967902492a03cfa7a04f282b3fc4
+Description: Hikari lets you customize and enhance your device’s sound effects with ease.
+Name: Hikari
+Author: Hitori
+Icon: file:///var/jb/Library/PreferenceBundles/HikariPrefs.bundle/icon@2x.png
+
 Package: com.hitori.misaki
 Architecture: iphoneos-arm64
 Version: 2.1.3
@@ -3067,6 +3084,23 @@ Name: Haptic16
 Author: Brandon Plank
 Icon: file:///var/jb/Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
 
+Package: org.coolstar.classicfolders3
+Architecture: iphoneos-arm64
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/org.coolstar.classicfolders3_3.0.6_iphoneos-arm64.deb
+Size: 3294728
+MD5sum: 281fd94b6ec43e501facf750d634ddde
+SHA1: 15919decc7b431645e36d2a83e2c235ec275866b
+SHA256: 1d8737617eac65c813e938d39842d1bde502955bacea0bdec00a3e37c3858aab
+SHA512: b81f4d225f01d2e2dfceab2bf70ba0c57ee7f1b0e0b9f78859a54e83ae2598b96e3e0295f9c53fe8c95e737dbaede30ac07f50d633f655b47dec70bc09d82811
+Description: iOS 6 folders with a modern twist for rootless jailbreaks
+Icon: file:///var/jb/Library/PreferenceBundles/ClassicFoldersSettings.bundle/icon-29@3x.png
+Name: ClassicFolders 3
+Author: CoolStar
+
 Package: org.haxi0.lunar
 Architecture: iphoneos-arm64
 Version: 2.0.2
@@ -3214,6 +3248,25 @@ Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Name: Return YouTube Dislike
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
+
+Package: xyz.cypwn.classicfolders3
+Architecture: iphoneos-arm64
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/xyz.cypwn.classicfolders3_3.0.6_iphoneos-arm64.deb
+Size: 3679038
+MD5sum: a6fb98e8fdf9393a10226273a6f5da43
+SHA1: fea23d2fc8977d5953d8814d481b8831614bdac9
+SHA256: e7af2bb7b59409f62723437d336626ab0fa19319236a02454d738b0539fddfd6
+SHA512: 93f9d21e6df213098ec4abab427876c3ad53e01bc9468dc98eedafc076621c28496cc6de7d0745f0098f58458983f03a88a9e35bed68457957aaffcd6dc17107
+Description: iOS 6 folders with a modern twist
+Depiction: https://repo.cypwn.xyz/depiction/2771
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2771
+Icon: https://repo.cypwn.xyz/packages/ClassicFolders3-Rootless/icon.png
+Name: ClassicFolders 3
+Author: CoolStar
 
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm64
