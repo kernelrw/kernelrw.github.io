@@ -9593,6 +9593,89 @@ Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
 
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64e
+Version: 1.2.0-36-3
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 1484
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debians/roothide/cn.zqbb.fix120hz_1.2.0-36-3_iphoneos-arm64e.deb
+Size: 462724
+MD5sum: f65f032e901e641a07da44ea7cac7e2c
+SHA1: 40680fc92e4e13a41f35f5d140d9cac4f78ae158
+SHA256: 803d46b5e9b85dfcd3d690a367d91184feba4f619f8b0380b39bc8b4af975a08
+SHA512: bacc358bfaa02684edbf2ee36a861e94cd6275ab0cef6a87cb96536808f736a9ba432558fa650f5e2e0c90399d2a66d672a831867e38157c880c4319fd513fdc
+Description: 
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.hellojoker
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/roothide/cn.zqbb.hellojoker_1.0.3_iphoneos-arm64e.deb
+Size: 130246
+MD5sum: 886aab5028f5bf2f98ce6d2d02a26fcf
+SHA1: 0505f4ff4823f82ed33a59d410ece1aa910ac57c
+SHA256: 3a44c4529faa30e77fb96d714237ce69bc2391708d3e7cf67fb310dc536e24f5
+SHA512: 4b9aa4d45746f2a505f5935101ec037c514a8891812e158627b03d8b73baca189a50585bc83f4e1df9bb50317a5ad044eebb12909fce246f0f0507b01f2f7096
+Description: 禁止检测越狱App
+Author: zqbb
+Name: Hello Joker
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellojoker
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hellojoker
+
+Package: cn.zqbb.holdcpu
+Architecture: iphoneos-arm64e
+Version: 2.0.0-13
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 3984
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.yourepo.0xash.powercuff, byg.iosios.net.powercuff, com.dao.powercuff, com.rpetrich.powercuff, com.yourepo.0xash.devicemonitor, com.yourepo.0xash.fuckthermal, com.shadow.fuckthermal, com.dao.fuckthermal, byg.iosios.net.monitor, byg.iosios.net.disablethermalmonitord, com.nan.disablethermalmonitord
+Filename: ./debians/roothide/cn.zqbb.holdcpu_2.0.0-13_iphoneos-arm64e.deb
+Size: 2570862
+MD5sum: 1beb5a74aaa00ef909abdbe3d5e22fb0
+SHA1: dc308486d678b9e1c5e7c490f79c271055ae98f3
+SHA256: 7ee6163c2c9a12e3e8fb5d46fd642f090e59950ce29267233877c191451d8496
+SHA512: 91f6fdd5e1936028b7f5e6c2823a1f73598797e54f53732674f8db59923e47eafa367c05400c025a7bc20b0397698467c1f4735847013ae55d1f73415da07275
+Description: (解除温控) (锁定低电量CPU频率)
+Name: Hello CPU
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.holdcpu
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.holdcpu
+
+Package: com.0xkuj.lscontacts
+Architecture: iphoneos-arm64e
+Version: 3.5.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1748
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0)
+Filename: ./debians/roothide/com.0xkuj.lscontacts_3.5.1_iphoneos-arm64e.deb
+Size: 1135740
+MD5sum: 26229e09609b16a3ade6ed71fbb8a9bd
+SHA1: 91a80d1523fbea96cb51b25c6fea56688bec3ac7
+SHA256: 963448a67186e4799d3009e2bab265e14db802c9b89a422bcdba1533ae2d4a4a
+SHA512: 98ca959b2dbb9967b384bb8f18468cfa08ec29d72c4b485f48ef7fe114693ca5f134db71bcce1eddb532245712d3605fd9f7f27d85222780d6b728063a4c3fbd
+Description: Contacts bar right from your lockscreen
+Name: LS Contacts
+Author: 0xkuj
+
 Package: com.34306.mineland
 Architecture: iphoneos-arm64e
 Version: 2.1-6+debug
@@ -9628,6 +9711,278 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.elias.spy2
+Architecture: iphoneos-arm64e
+Version: 1.3-1
+Section: Tweaks
+Maintainer: elias
+Installed-Size: 2912
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.elias.spy
+Filename: ./debians/roothide/com.elias.spy2_1.3-1_iphoneos-arm64e.deb
+Size: 2591378
+MD5sum: 8978b14b4736c803168aa8befeb1d67a
+SHA1: b8f28a9cfd5da27705fc5dd932084c3d27378e7e
+SHA256: d0bd700bd11d60c60b6639df7f8e1abd89a0c30d9ed3669967f7a3320f687476
+SHA512: 3bab95b02fda68181304941e77d0b59d992ee6bd1818078bdb881b7960458dd1125a4b44d27f75a759572ecb66b66292430435e02ae987acbfa5cdd565109926
+Description: An awesome MobileSubstrate tweak!
+Name: Spy 2
+Author: elias
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.36
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6644
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.27)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouad, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.fouackyou, xyz.cypwn.fouackoff, xyz.cypwn.fr33gram, xyz.cypwn.freegram235290, xyz.cypwn.fouackoff147162
+Filename: ./debians/roothide/com.fouadraheb.watusi3_1.2.36_iphoneos-arm64e.deb
+Size: 4778226
+MD5sum: 97cee98e0d62318e9b4229751618ba15
+SHA1: 393834904d56588831a5fbbcfc02afdc7469b13b
+SHA256: 1cb38e5658a59bdb6111c3237ccc75ceb17c179ae9301a8fc51d9ef6053ca94e
+SHA512: 701f9ec38917bc37e24b3ab99a50a9d1027a768fc4f89d672444d00729473b0f91e9cedab98607f82e4309297f00c9f0147bb4fe90f08b05b7f0663bf1ac4e74
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.jontelang.snapper3
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debians/roothide/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 2270096
+MD5sum: 661483955c41f4cbef781f2483c1d6b4
+SHA1: 9b560614bbe260618d4e2c8cb3097c24181c477a
+SHA256: 14a9f214055f4ec792157b884cd9d0b9e418ede40076fce5524094f538345491
+SHA512: 6e034cf32673acccffd93aaffbfd9b1f59aa346f92fea7308542d274768604dc8422527f759c3cad61c2e1bc0e8b11f753fc49a919824de889ed3b08d127b84c
+Description: Pin screenshots on the screen.
+Name: Snapper 3
+Author: Jonathan Winger-lang
+
+Package: com.kernelrw.autoscroll
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Pxcex
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.autoscroll_1.1_iphoneos-arm64e.deb
+Size: 4244
+MD5sum: d6fc5e62d52239f7073997e7b6732231
+SHA1: 01c70abb7854a92dba589a13abfb5d9b2c5643cf
+SHA256: 8e15af0dd554a1bd9f799df9af0a5ee23582fa756d245f9f80a637fb435c814f
+SHA512: 7223b22282f79552f89c89d59fe34d432898ad036fa79a2407f7b9c9a848973428e1dd920f29a435ee3cf708f698ddfb27cbd014531b7e9f91c8393bddfcf54d
+Description: Prevent finger fatigue. It will automatically continue when you slide an option or view, no need to keep touching with your finger, and the speed is determined by your strength !
+Name: AutoScroll
+Author: pxcex
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.braveheart.skrollerz.png&s=180x180&f=webp
+
+Package: com.kernelrw.complications
+Architecture: iphoneos-arm64e
+Version: 4.0
+Section: Tweaks
+Maintainer: pwnd2e
+Installed-Size: 3022
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.kernelrw.complications_4.0_iphoneos-arm64e.deb
+Size: 646900
+MD5sum: 76fcfd8db392244f10091110296ed634
+SHA1: aed23d8a84ed7a8465b2650f56e7130c3cafdda5
+SHA256: dac7d97a203b3653b13c32343f1eb168f63ccdbb46ad8bcd48e011f3c74f522d
+SHA512: 1fff15f7898b04f3ec395bf884f1e45f40d451660005d4b1bd9afbfadca428302ceb1a605f993e237f04b5d3830f4f22f4764c77aa4b339e2bc1adfc8a7b0274
+Description: watchOS widgets on your lock screen
+Name: Complications
+Author: Ben Giannis
+Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
+
+Package: com.kernelrw.glance
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Janis
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet, com.opa334.altlist
+Filename: ./debians/roothide/com.kernelrw.glance_1.0_iphoneos-arm64e.deb
+Size: 390608
+MD5sum: 8a0f6e7613a1abc55b30cce984b52088
+SHA1: 1273b52a75c526ef4be0cd6a868ecc2cd9ea5626
+SHA256: 4b8e9440ded7f701459217e3109e0b892de8ea08b1e42fbe98c43df4f3ad10ae
+SHA512: 1f113e3d25facb7543f18ae22e19be9b4e558ff6e58a1a4177d2334c36477bdc6b593aedc01c7d2ae2d44e36dcad0e6d845d4d80b85bf365c569fa5d51066c34
+Description: See notifications from far away
+Author: Janis
+Name: Glance
+Icon: https://img.chariz.cloud/icon/glance/icon@3x.png
+
+Package: com.kernelrw.senri
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Antoine
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17)
+Filename: ./debians/roothide/com.kernelrw.senri_1.1_iphoneos-arm64e.deb
+Size: 278310
+MD5sum: 91d0a9539e381eae79219f75a8a65842
+SHA1: b729ad37e5cc4ae3c061d5aa697dfaeae62c84e5
+SHA256: 143398409623990ba5a91fc893def248b336b7ea0e9a83f954a704a9f3f588e2
+SHA512: b971b646dea9fb053ac3d86a54c89950229f3becc010ad8e69e91666d9cdfbbd5baf165edb37200459aa7cf5197cc4983618ca593d30db8863e49452321e021d
+Description: Notifications logs
+Name: Senri
+Author: Antoine
+Sponsor: Antoine
+
+Package: com.kernelrw.visionkeysaurora
+Architecture: iphoneos-arm64e
+Version: 1.0
+Maintainer: rahwan3d
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.laetus
+Filename: ./debians/roothide/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm64e.deb
+Size: 518116
+MD5sum: cca44639c419603cb706aa3af37dfc32
+SHA1: 409ba767cf8b558b365a8204b0a378bd6306ee2e
+SHA256: 9812091502c98ee9a2507c752a3b2ceb1aabd38b668f6f59703429b83d35fc4f
+SHA512: c303e45ec85323743b3f0b5a77e2d1d638fbdeb1ff444678c0d4c4343058aecbfec3c9f7f11391046a399d7e49220d8f95fd3c935748f9492d8c320e798f60a6
+Description: A beautiful Dark Blue theme for Laetus .
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.kernelrw.visionkeyscelestia
+Architecture: iphoneos-arm64e
+Version: 1.0
+Maintainer: rahwan3d
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.laetus
+Filename: ./debians/roothide/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm64e.deb
+Size: 986818
+MD5sum: c584011bac652f40d61b9c0386dc78e6
+SHA1: 5100908dfd6ae491df9f31b70a8f38f6e56a6c37
+SHA256: 83129a52466b79242dd8f0884cf66e3f4687fb90c491e94687d50eb03f037e6e
+SHA512: 588dec94343ccefcb24b6a2bc62f1ff4f41b272512c8d4fb8799757fb17fd51be49bdc045af38fa070f82b67c1d2d4a6bfa0bed623f6b031ffeb129ce5c736cc
+Description: A beautiful Light mode theme for Laetus .
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.kernelrw.visionkeysobsidian
+Architecture: iphoneos-arm64e
+Version: 1.0
+Maintainer: rahwan3d
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.laetus
+Filename: ./debians/roothide/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm64e.deb
+Size: 302572
+MD5sum: 4c4dcae3bd900d07eeae83c008241cb3
+SHA1: c7dbdba5d3943ee6f6a59438c8a3b8e5b9ea0fb2
+SHA256: 0dd4412ab850b82b76ef5f07742f418e5319fceeeb46eb5894449545a054810e
+SHA512: bd525576ee25239cd138b2017872d90beb4ff0c95d5b4ad7c6330eff1451f81d902376e12de9a60351c6db5856a6cc94439c1b43cc78efce1da42294c2098954
+Description: A beautiful Dark mode theme for Laetus .
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
+Package: com.mtac.alpine
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 1112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debians/roothide/com.mtac.alpine_1.4_iphoneos-arm64e.deb
+Size: 653648
+MD5sum: b1d653d38ea247b6a6412f10ee38241e
+SHA1: 297a52c4af6aa6f76cfa53d9edb70d4891f8684b
+SHA256: 53ea4bc9f8602accd59d72b841a10bd3a33b717948f9c5ca9ccc531b5eb0cb21
+SHA512: c3aefe5eb207ebe880a922c9d8e8a92fe2a695f912dd48e6280baf9d9ed0949b8512c51f25f4f7100f319f4a17ea6943c722544e347b2a19b184557ee9d2b6d5
+Description: tvOS alerts for iOS
+Name: Alpine
+Author: MTAC
+
+Package: com.mtac.lynxtwo
+Architecture: iphoneos-arm64e
+Version: 2.5.2
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debians/roothide/com.mtac.lynxtwo_2.5.2_iphoneos-arm64e.deb
+Size: 1603304
+MD5sum: 3238bb65e10ea8f5c813dbd2ff637d47
+SHA1: fcd8d202c270e6bfea23c9aed7c2e1e7450690ff
+SHA256: 2d2a0aa06b704943e46deffda3e311fc2ce932c48011a46428bfef96a889974f
+SHA512: a13537b8ad312a3d16e8c98040d83134331e5e58b0a3fb113e34955d5ffde9cada61d8e7c4525771abbc90adbbd8aa732e25bf4e311ba28360f7a5e7a30c65de
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2
+Author: MTAC
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),mobilesubstrate
+Filename: ./debians/roothide/com.p2kdev.tinge_1.0_iphoneos-arm64e.deb
+Size: 27256
+MD5sum: 50c0c9e91f9aa5620b87431a7a9d82e7
+SHA1: 1c0533f498cd5d61bab4c82a09686ba6f3ac88e7
+SHA256: d935a09c370144e4ca63155e77ee6184847ac8648c33c2a92fab284202dd4333
+SHA512: b940f8d77169ab1159d88e538e3148cb5cd1d7145a31a35bec976a32bd6ca5f960c4a310deb728169eba54f804e7087bd01f9a31036d31b77a7ad80b3796fba1
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+
+Package: com.pwnd2e.filzascriptdev
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Filza Scripts
+Maintainer: pwnd2e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dpkg, ldid, file, odcctools
+Filename: ./debians/roothide/com.pwnd2e.filzascriptdev_1.4_iphoneos-arm64e.deb
+Size: 3492
+MD5sum: 599584088e1fad4f0533c87c0a66e2ed
+SHA1: 7f0d86e8df5385cbb54f364ed458392e60a02f08
+SHA256: 143cd9046c5fbb5a705f18a6e6f23b2b0c5fb730befd6f35821d3c152d540388
+SHA512: 9b8c9623b2bbffe35497f1ee6e6afc3b8f4a1fb443c9de54994ed1d3fae6635495c2f9a77b2722c7529e90f5a3ffa415f018254cc55a8617c88e3265d91c37c2
+Description: Scripts to build rootful & rootless with Filza. Plus other handy Filza scripts. *Use regular Filza, NOT trollstore Filza*
+Name: Filza Scripts
+Author: pwnd2e & Sudo
+
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.3.8
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 11740
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/roothide/com.squidforce.copyvault_1.3.8_iphoneos-arm64e.deb
+Size: 9290764
+MD5sum: 07140e59d02cc140bb5ac1648bd6ae26
+SHA1: 3791e68bd737fd010c7f8e8352c5dbf6a1d62aa1
+SHA256: e9f8647b4030a2fbd93ddf67ef84fbdf65c325992dcbfdc105d8ffd617caf0ee
+SHA512: 9bb3855f9985747e9de7585b447d9a28ceaa30c365c86c7cedbd14b035ffe879c1249b8b3260881ecc4dd1c07a96a70e0a3c05245670c93b7e959bfa381d7e6d
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
 
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64e
@@ -9848,6 +10203,166 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Name: libsparkcolourpicker
 Author: Spark
+
+Package: net.kernelrw.audiorecorderxs-rootless
+Architecture: iphoneos-arm64e
+Version: 5.0-37
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, net.kernelrw.simpleactivationactions-rootless, firmware (>= 12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx
+Filename: ./debians/roothide/net.kernelrw.audiorecorderxs-rootless_5.0-37_iphoneos-arm64e.deb
+Size: 3146880
+MD5sum: 44eb3428c18665e4a6ca5835efff3643
+SHA1: e9162c1748d90b5b582c55f9c5e6102d6d955b8e
+SHA256: b43ea44b91b3e6631d9655a17a26e5bed39cd22b75d9d41616c23441f17c2d8b
+SHA512: 40a67981f63a3da32f62d807896de0eaa809902c6fb5acd6daa3c515195c1912b44f77bb108de4a742f3a9166e444321ce173727f6c35be10fb1c198fdb00e8e
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS (rootless) (iOS 12 to 17)
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.audiorecorderxs
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
+Package: net.kernelrw.glow-rootless
+Architecture: iphoneos-arm64e
+Version: 0.6-12
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debians/roothide/net.kernelrw.glow-rootless_0.6-12_iphoneos-arm64e.deb
+Size: 284228
+MD5sum: a8d628cf74079f31f938b111f05b7500
+SHA1: dd6cc9bc81a526b259c0ebe47568258686007201
+SHA256: ac3126e4af287dd0c91f8f80216ec64b3188ac758f773c0b2d4cb0f3bed76069
+SHA512: 21395f243e0a0ada5db67e71361cdb067252968a5c9121978e7b4463bd2a6b353538ce0ebdc7b8743343dc553c6483c3e2dcc77479286ac561966f39ad05c2e8
+Description: Let your lockscreen glow!
+Name: Glow (rootless iOS 12-17)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/glow/
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.glow
+Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
+MainLibMD5: e3ff8fe0c7435fb119f47b6b046a2c96
+
+Package: net.kernelrw.simpleactivationactions-rootless
+Architecture: iphoneos-arm64e
+Version: 0.1-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/net.kernelrw.simpleactivationactions-rootless_0.1-3_iphoneos-arm64e.deb
+Size: 9438
+MD5sum: e0b48b359d2af67f6cb601491e5ff82c
+SHA1: c18850843360b2bb3b7a61d208830e4acc901ac3
+SHA256: 1beea68a6c6d18971bfdda3582a212f215c2f91085c426ce965390bd47f431a9
+SHA512: 89e7044099f7c288dba23605d5d20119d669cba931b226cc7bef7bef1927979a7c2659cd5ce3d6853315ee3067354f6e228089439f82426bbaf5258c789614dc
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Name: SimpleActivationActions (rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.limneos.libbulletin
+Architecture: iphoneos-arm64e
+Version: 0.1-178
+Section: Tweaks
+Maintainer: Elias Limneos
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/roothide/net.limneos.libbulletin_0.1-178_iphoneos-arm64e.deb
+Size: 46366
+MD5sum: 2364a775c34bcb46ea1315ff1565e4be
+SHA1: c142a6f0247f1eb39b6c5d77d3fcb317e2910e4a
+SHA256: 04b350c6c4ee52ed3c9276d5b7f56fef869a74043484277258a076ab5dc7b177
+SHA512: 45375f2e1f1519a42343dc7ce286de325a77a60dc1dd4571edb5efd2b36332a21417dfcd5c60c741e855a061e681f204b7085c49d9b5db7e60dea2403682d4d9
+Description: Simple library that displays bulletins
+Name: libbulletin
+Author: Elias Limneos
+
+Package: net.limneos.nfcwriterx-rootless
+Architecture: iphoneos-arm64e
+Version: 4.0-4+debug
+Section: Utilities
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, me.kanam.nfcwriterquickaction
+Filename: ./debians/roothide/net.limneos.nfcwriterx-rootless_4.0-4+debug_iphoneos-arm64e.deb
+Size: 1874088
+MD5sum: 45d3b87195b1b762f363edeecdf5adc2
+SHA1: 858e851704a22b780f3a4f44e187d8a0d8437da5
+SHA256: 38a8e6f770736bf1881b5ef2b6763061cf4d579fc016e7e23f74c62adabf8fba
+SHA512: 3ea3ea946230e3b0bad0d1dbf1d58635c81c8f445abef9e1c651a1ba64c8e580d63d5f60d585baac49fc3353aab7ab4d237de19d38ba12869f2d67d558f1f150
+Description: NFCWriter XS for iOS 11/12/13
+Name: NFCWriter XS (rootless)
+Icon: file:///Applcations/NFCWriter.app/icon@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
+
+Package: net.limneos.voicechangerx-rootless
+Architecture: iphoneos-arm64e
+Version: 2.4-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debians/roothide/net.limneos.voicechangerx-rootless_2.4-3_iphoneos-arm64e.deb
+Size: 294482
+MD5sum: 665ca65a5d796814ddca84933d9d2f29
+SHA1: f82347c8bea57d922b9b5d9ef0a74572dcda6378
+SHA256: 05ff50fc62d25d599791dec381f75af8e6dee4ade5561dccf5cb8cb2d182e5e1
+SHA512: 825e3d9fc3754ea5a5a0b62e1def1f9cd3699bbdb72e6282b7b893157df26e01b222f36e9c9ff435ee419ad467b3f184c778e65accd27589f218b0ce2697bf74
+Description: Change your voice during a call!
+Name: VoiceChanger XS (rootless) (iOS 11 to 16)
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 8131809d9825837c841f8f54015f50b4
+
+Package: netskao.filzacrack-rootless
+Architecture: iphoneos-arm64e
+Version: 1.1-8
+Section: Netskao-Cracks
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debians/roothide/netskao.filzacrack-rootless_1.1-8_iphoneos-arm64e.deb
+Size: 6924
+MD5sum: 167005f15c0f48fb950d6078fcef81d9
+SHA1: 6717205c912c5f6d54e51309243b3dd67d60c205
+SHA256: 0239f46129c1e42ef7828d7d9da3aae1d167a4caf742a4652521c9baf2a5c26f
+SHA512: 7f3a6aca7fe018286579af362a926fa298575a35ac74d8286b54ba7ad8f6d5a84895939cd73eb2d062dbf6ac9beec0a7e7d7e2d7b13d310b636ff24a9c910fd7
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack-Rootless
+Author: Netskao
+
+Package: org.haxi0.lunar
+Architecture: iphoneos-arm64e
+Version: 2.0.2
+Section: Tweaks
+Maintainer: haxi0
+Installed-Size: 940
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0), com.ginsu.comet, ellekit, preferenceloader
+Filename: ./debians/roothide/org.haxi0.lunar_2.0.2_iphoneos-arm64e.deb
+Size: 206570
+MD5sum: c8688a75854230957469ec002ea7b3d5
+SHA1: 0c90cff50331be4efb6acba45dd287d4e9cf1898
+SHA256: e1a2eac1a81e636c12a0441b7f317c17b0da189eb6d7c42bccc525594c0800da
+SHA512: fb234585c580a76b31c5ce36daa99a2758a34b31d9df421357cd6573b31ab38c71c93e45ebcc8d9a5a3e1eb57cfc919f116a46838bbe8d8f25ad35af0754fe8a
+Description: A simple, yet beautiful LS tweak.
+Name: Lunar
+Icon: https://raw.githubusercontent.com/haxi0/haxAssets/main/LunarSileoIcon.png
+Author: haxi0
 
 Package: com.34306.replaced
 Architecture: iphoneos-arm64e
