@@ -1,3 +1,22 @@
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
+Version: 5.0b4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16028
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.ytlite_5.0b4_iphoneos-arm64.deb
+Size: 6071280
+MD5sum: 3cd416039e3f66c2bde7637d3dc0ab83
+SHA1: 447348c0ca11f5b7f8c02f8f2452c3ab19c75f4e
+SHA256: 4db8cb5bd681513901733d56cbabb1ce1d35986b6c32ba0147604c83761a41e9
+SHA512: 3adf6be406c4dfe7ad0682c7a968fa5b709909b2feaf7edeac100f0834d40fd460859d7a6c7329d2ac774bf518cdd7d9587d923710e074e1528f43e0bfa32658
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: chaoge.chargelimiter
 Architecture: iphoneos-arm
 Version: 1.6
@@ -5421,24 +5440,6 @@ Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 Depiction: https://chariz.com/get/veza
 
-Package: codes.aurora.ve
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Tweaks
-Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 740
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debians/roothide/Vē_2.0_iphoneos-arm64e.deb
-Size: 67652
-MD5sum: 660b313254f5288ad126c981f7348dd0
-SHA1: 650b0c2327e1b7abe97b54e3d65996c79a3d057e
-SHA256: 33ad072710bf5a60d7edc2069cdd03d8a6b7f18627bcf8ef71db43363aada394
-SHA512: bb3e6431c9b7fac0eff241765dc80ece21f4865a975d72b68a35c35a50dece30460835c4695e9ce9c5801395f59af8ac31a4ed2da6a9c0480f59ee9d722c2926
-Description: Natively integrated notification logger.
-Name: Vē
-Author: Alexandra Aurora Göttlicher, 74k1_
-
 Package: com.p2kdev.videosunmute
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -5551,6 +5552,24 @@ Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
+
+Package: codes.aurora.ve
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 740
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/Vē_2.0_iphoneos-arm64e.deb
+Size: 67652
+MD5sum: 660b313254f5288ad126c981f7348dd0
+SHA1: 650b0c2327e1b7abe97b54e3d65996c79a3d057e
+SHA256: 33ad072710bf5a60d7edc2069cdd03d8a6b7f18627bcf8ef71db43363aada394
+SHA512: bb3e6431c9b7fac0eff241765dc80ece21f4865a975d72b68a35c35a50dece30460835c4695e9ce9c5801395f59af8ac31a4ed2da6a9c0480f59ee9d722c2926
+Description: Natively integrated notification logger.
+Name: Vē
+Author: Alexandra Aurora Göttlicher, 74k1_
 
 Package: com.p2kdev.waqt
 Architecture: iphoneos-arm64e
