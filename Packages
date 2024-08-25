@@ -255,6 +255,23 @@ Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///var/jb/Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
+Package: com.chris.donteatmycontent
+Architecture: iphoneos-arm64
+Version: 01.01
+Section: Tweaks
+Maintainer: Chris
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.chris.donteatmycontent_01.01_iphoneos-arm64.deb
+Size: 42640
+MD5sum: 8965284de7b2b1ecd5d2d7dac5500f2d
+SHA1: dbfd474a9c798111eb135ce45267c1ab3e127e6d
+SHA256: 4d77c1535caeb3596c565deea5c68c9cd7306e3c2321490863dea52ec614ae72
+SHA512: b4aad5a2f0818385876a591d86e6a26bb212223d023066a7de0b57c0c2686b565b01a6aad64e70b9704aa348e0857250c157ea9018f807a5f6cc257be1a1846c
+Description: More customiziation for YouTube app
+Name: Don't Eat My Content
+Author: Chris
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F6fe4d54c0931aad9f522d9f6fea3a7b9.png_120.png&s=180x180&f=webp
+
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
 Version: 0.3-6-1+debug
@@ -3335,25 +3352,6 @@ Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Name: Return YouTube Dislike
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
-
-Package: xyz.cypwn.classicfolders3
-Architecture: iphoneos-arm64
-Version: 3.0.6
-Section: Tweaks
-Maintainer: CyPwn
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/xyz.cypwn.classicfolders3_3.0.6_iphoneos-arm64.deb
-Size: 3679038
-MD5sum: a6fb98e8fdf9393a10226273a6f5da43
-SHA1: fea23d2fc8977d5953d8814d481b8831614bdac9
-SHA256: e7af2bb7b59409f62723437d336626ab0fa19319236a02454d738b0539fddfd6
-SHA512: 93f9d21e6df213098ec4abab427876c3ad53e01bc9468dc98eedafc076621c28496cc6de7d0745f0098f58458983f03a88a9e35bed68457957aaffcd6dc17107
-Description: iOS 6 folders with a modern twist
-Depiction: https://repo.cypwn.xyz/depiction/2771
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2771
-Icon: https://repo.cypwn.xyz/packages/ClassicFolders3-Rootless/icon.png
-Name: ClassicFolders 3
-Author: CoolStar
 
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm64
