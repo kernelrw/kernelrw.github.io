@@ -1103,6 +1103,26 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
 
+Package: com.ichitaso.youtubepatcher
+Architecture: iphoneos-arm64
+Version: 0.5
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.ichitaso.youtubepatcher_0.5_iphoneos-arm64.deb
+Size: 5360
+MD5sum: a9df4f2087ded4de966aba1bcbe04648
+SHA1: 3c34939962ce65e946263eb9d8d668e5e5611e36
+SHA256: 26c8a8472da6e0a212980f49461a2b7b44ff00bf983bf988d3deb11e81ef764c
+SHA512: 678fd1e17d5faa9e0a40a70187e8ec142a271234ec55a4c0617fa4670acf6596b58b347e5f026df60e658d6a1caab16ed0f8d086c01d2dbc9a5484108bed9e17
+Description: No inline Ads/Background Play back for YouTube & YouTube Music
+Name: YouTubePatcher
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
+Icon: https://raw.githubusercontent.com/ichitaso/file/main/images/YoutubePatcher.png
+
 Package: com.icraze.gestures15
 Architecture: iphoneos-arm64
 Version: 1.0
