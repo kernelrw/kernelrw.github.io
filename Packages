@@ -1,3 +1,37 @@
+Package: com.34306.messedd
+Architecture: iphoneos-arm64
+Version: 3.1
+Maintainer: Little 34306
+Installed-Size: 2440
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.34306.messedd_3.1_iphoneos-arm64.deb
+Size: 305952
+MD5sum: c2b978abd959dc191f1ba1ad2d318c54
+SHA1: 8ad103b49e254da6286da4cc0b8babe87753ca59
+SHA256: 1df624dfb2220d1e2928f91a029b4ea0bad32007f2bd2c7a65bbdd8f9461b6a4
+SHA512: d4969dc2141df62c804ea8d67d875cb3f4a02533f857cbf5cc1bd32350a0e64d399fe18d52674aa288fb9db80fd1191939f24753fe4ca396ba0606f6dd5b33e5
+Description: Messed, Messenger with No Ads and No seen.
+Name: Messed
+Author: 34306
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
+
+Package: com.34306.messedd
+Architecture: iphoneos-arm64
+Version: 3.2
+Maintainer: Little 34306
+Installed-Size: 2440
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.34306.messedd_3.2_iphoneos-arm64.deb
+Size: 308552
+MD5sum: 457ffbc0b79500017b8403c2787ff25e
+SHA1: c40da29759da6706e402e5fca7e12fb69cb2f5e3
+SHA256: b15414403cf8a42dca4467b7b292e25144c0d449bab94b96ba588e758f354dc3
+SHA512: 2a8b2f4edf0a3093db2b13865d312556390541e1d14ea731afc28c296bdc9b62f5eec61ac27ae8c730ac51e986f67018428debe3b1f9d910f17dee54e8d96600
+Description: Messed, Messenger with No Ads and No seen.
+Name: Messed
+Author: 34306
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
+
 Package: com.34306.mineland
 Architecture: iphoneos-arm64
 Version: 2.1-4+debug
@@ -14,6 +48,360 @@ SHA512: b413c0a103801b844abcdfc6ece77eaffa9dd47228953d3f84f655631cbbdd89652bfb6c
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Name: mineland
 Author: 34306, DuyKhanhTran
+
+Package: com.cydiageek.byeseparatorscell
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.byeseparatorscell_1.1.3_iphoneos-arm64.deb
+Size: 50434
+MD5sum: 6fca6eedefd473d08c82e4ec475210cd
+SHA1: 6f2fc8b1a20c16bde4f61598b7fb2ab968d0cf35
+SHA256: 671df30abc3eee102e7d1214264f3ac1210c508f98a2e0bc56743fd9bfdb57ec
+SHA512: a39718c38b84056d8fea437dd3d9f6c38087769518e18910690ad2544a47ec18d76a759121f6b60b859c9e01c61147edef0dac7988f4732becf723c0b4b6f1f9
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
+Description: Remove the Space Between the Cells on System Wide!
+Tag: purpose::extension
+Name: ByeSeparatorsCell
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/ByeSeparatorsCell.bundle/ByeSeparatorsCell@2x.png
+
+Package: com.cydiageek.color3dicons
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 645
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debians/Rootless/com.cydiageek.color3dicons_1.0.3_iphoneos-arm64.deb
+Size: 71306
+MD5sum: 3e30eef598c3c55f8d71f3f00f28dd8d
+SHA1: 73aa2d9c1fea5edb3e53625f518201c48384b7a7
+SHA256: abbb28dd216ed3926dbdef12b6c422a9a3af5e682ef718ff84e38a67858b421a
+SHA512: a5d3573b995b3e776977fb4f4fb41c676370e99119f5ff38c77df82cec58c1c17b9df6ae164a2e565cb2ab498b8687a8b1222f15531b7228ad9fd76c37fdeab6
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=color3diconsDp
+Description: Color 3D Touch Menus!
+Tag: purpose::extension
+Name: Color3DIcons
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=color3diconsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/Color3DIcons.bundle/icon@2x.png
+
+Package: com.cydiageek.cthulhu
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 401
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.cthulhu_1.1.0_iphoneos-arm64.deb
+Size: 50926
+MD5sum: 53e1af5a42aee6ec75d6fa3772c94f87
+SHA1: e321d35a4489d43eeb8f831ebd18847baa15ff6a
+SHA256: 5b6b193681e22f914e5d622ad0b62b22e9f8e6e37ca4897ac0ccaf1f0f294557
+SHA512: bc7131488add9830e6bcebbb157464b486dd5ab32ccf1df97388f46f28e4ad7cb2e33b14cd83ab7541e5fcccfae29e5501a424514a00e096218849ba19b408ed
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
+Tag: purpose::extension
+Name: Cthulhu
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
+
+Package: com.cydiageek.customlpm
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 610
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.customlpm_1.0.2_iphoneos-arm64.deb
+Size: 67540
+MD5sum: 1e387d00579efade0120547d5ec56e77
+SHA1: ef7eee47370c2c09b83a06b858934c044cecb2a9
+SHA256: 9b8d667a6b3b6e3747b1ab78cf75b5d04888f2e818b0a36e5a19ef6031025e5f
+SHA512: b07c92cfd73e13faf422df3c057d5458d222c3aa8956f2be933cf29b0560aa72e2e297addd8b5c3d2b38d6fdf107c9792ed99e8f605c7c20c919efc7d1d1b142
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Description: Customization for the Low Power Mode.
+Tag: purpose::extension
+Name: CustomLPM
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/CustomLPM.bundle/CustomLPM@2x.png
+
+Package: com.cydiageek.ermete
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.ermete_1.0.5_iphoneos-arm64.deb
+Size: 44264
+MD5sum: 0dcd0f61064bdb6b16f9e39996d3b399
+SHA1: 28cf1ccb8b387cfdda786d7e3229998b1596fc9d
+SHA256: 56ff9a78f202e4a78ec9e47a37a83dbe54979ec5a7fab1c6dbc89858fd094914
+SHA512: 52e8f7a9a487d25710b7a301c34e8eefe501462dc9076a44d0d073b99925587ea31a46a25a8576b1f20534687dbac83762f5ac5d986edb2e1f4b6c2493e99bbb
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Description: Adjustable Speed Effects opening/closing Apps/Switcher!
+Tag: purpose::extension
+Name: Ermete
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
+
+Package: com.cydiageek.gyration
+Architecture: iphoneos-arm64
+Version: 1.1.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 435
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.cydiageek.gyrationapps
+Filename: ./debians/Rootless/com.cydiageek.gyration_1.1.5_iphoneos-arm64.deb
+Size: 46010
+MD5sum: 3fbd06b6965fc8cbb71a4b36b85f18ee
+SHA1: 6242872a6a9cf38ca9a9856c4f9bae5da18b5144
+SHA256: 3a8a9940acf5af635072ee9c2bc9e619e905d9753d49ad931ebe16c1b4a3b1ca
+SHA512: 438f4f9a7d0a916fbefc0aee04035bddd3a274d073d4b25d560d13e6c55ce9b36f6a8c068384f139b494192d9758b8580128e5724eff202ccf426e08f4e6f38b
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gyrationDp
+Description: Enable Rotation Over All the Apps/LockScreen/HomeScreen on System Wide & More!
+Tag: purpose::extension
+Name: Gyration
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gyrationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/Gyration.bundle/Gyration@2x.png
+
+Package: com.cydiageek.gyrationapps
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/Rootless/com.cydiageek.gyrationapps_1.0.1_iphoneos-arm64.deb
+Size: 5586
+MD5sum: d585758886e93b90f72b602bec25e49f
+SHA1: a7905ffc586e602a8b7fa8e0140f5699b96e79ee
+SHA256: b9539851d67707fdbe78b098e337ca5a807a1f1ac0fb5e40f47f85753e1c3ae1
+SHA512: 18073135157e5e56c9693ceb312299ca10946468eaecc2e3aa84bb59ad8b4ec3a64b9b901362d0ccbab384f2446cf980a604421336a5e71cbb81778137e4e9e0
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gyrationappsDp
+Description: Rotation Over All Apps/Custom Select Blacklist
+Tag: purpose::extension
+Name: GyrationApps
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gyrationappsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
+Package: com.cydiageek.myswitches
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 506
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debians/Rootless/com.cydiageek.myswitches_1.0.7_iphoneos-arm64.deb
+Size: 65454
+MD5sum: 03c133de4ef2b5f5dc97554ec42408a1
+SHA1: be0f7c9e159cacabb023b973652da4e3f9107b10
+SHA256: d17d300e1ada7467af13ab8d2b9a8dd5d319036ae7c2384c8a680f504da4d725
+SHA512: 94952c9802dd2272bd51c22584741f02561582b0d96529a273f7c7d9abbb79ed7eac8a263839e0fbcb8bb5f5a8f83bae4b46227a2b677e589bc692a4786d4f81
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myswitchesDp
+Description: Custom options for the Switches on System Wide!
+Tag: purpose::extension
+Name: MySwitches
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myswitchesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/MySwitches.bundle/MySwitches@2x.png
+
+Package: com.cydiageek.nobannerdismiss
+Architecture: iphoneos-arm64
+Version: 1.0.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 414
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/Rootless/com.cydiageek.nobannerdismiss_1.0.0-1_iphoneos-arm64.deb
+Size: 40688
+MD5sum: c47b32defe206347718c7de93fee855b
+SHA1: e4c7a8ab3159d61bbcefd35d058f220dbf80f033
+SHA256: fabfa55d6dc52b2b081a4a4347487556b6dbbae662f5755019bd91fdf537b748
+SHA512: 803b1a3de87940f84b26c11e4022c13733e82c6e503fbc1215b4f6f0e9eecb671417238633fffee7086745e93db77d183edaaeba67b358c398364b05e47cdc79
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nobannerdismisstimerDp
+Description: Disable Banners Auto Dismiss Timer/Tap Action!
+Tag: purpose::extension
+Name: NoBannerDismissTimer
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nobannerdismisstimerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
+Package: com.cydiageek.nowachannelsviewcell
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debians/Rootless/com.cydiageek.nowachannelsviewcell_1.0.1_iphoneos-arm64.deb
+Size: 5028
+MD5sum: 9b78e4ed6745335dda06269c4b3bd7bc
+SHA1: 50aa9407ebd506b475f8d3ee38974c574ab10dec
+SHA256: 3397334e65d725099439df64a9562e076c4b2503ca547465647a91c3e0b3f574
+SHA512: 320fbec7ec282b2389add4b7e5333de1181d1822de654e5c22cf11ea51c405ca221a1e7fea8f9fbe0eca9ac4aed29d450397e4fcb660cac504769ea8d5589562
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowachannelsviewcellDp
+Description: Hide New WhatsApp Channels Cell!
+Tag: purpose::extension
+Name: NoWAChannelsViewCell
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowachannelsviewcellDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
+Package: com.cydiageek.playmusiconrecord
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.playmusiconrecord_1.0.4_iphoneos-arm64.deb
+Size: 42226
+MD5sum: 162c962cb14c8230d965aa8d3c9ee28f
+SHA1: 974f8b720b147980693291d72717620469fc05c1
+SHA256: 6e57c1e59ea37638ff559269c310dcedb22e40948422f7124009be1c81214e52
+SHA512: 289e277270e978379b9c626addcc7ec9a04468b8aa61b0cc909e182ba3ff8d1b0c838a3779ac616650f9f257d62e1a0a8b18db5b4b2730b2b90432656764f38b
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=playmusiconrecordDp
+Description: Disable Music/Audio from stopping when recording Videos!
+Tag: purpose::extension
+Name: PlayMusicOnRecord
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=playmusiconrecordDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/PlayMusicOnRecord.bundle/PlayMusicOnRecord@2x.png
+
+Package: com.cydiageek.skinnysettings
+Architecture: iphoneos-arm64
+Version: 1.6.7
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 920
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debians/Rootless/com.cydiageek.skinnysettings_1.6.7_iphoneos-arm64.deb
+Size: 123454
+MD5sum: 50b96a0912666445db3191255b1ad436
+SHA1: 54c1c2015af78b1023ec97c61ffeef8a3fe521ea
+SHA256: 17f5cb7176b6069b188bc76551866bdad9584550425a48e3b4857f403a17665a
+SHA512: 0e763450e4566505f92ad6e0b8c453ff3cce206a83c79fbded19d29a3df9602f7e4701db3573a671e5eb8e48457305b21762d45d5df8ac23803cf7b3c6e68c54
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=skinnysettingsDp
+Description: Make your Settings Minimal/Sleek & More!
+Tag: purpose::extension
+Name: SkinnySettings
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=skinnysettingsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
+
+Package: com.devvix.nocshare
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Devvix
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.devvix.nocshare_1.1.4_iphoneos-arm64.deb
+Size: 7028
+MD5sum: 0308c00867c6e223da254f5805fe8ad8
+SHA1: fddf3f71aed1d58c6fe8d900fb9d3b6f90cfcb25
+SHA256: 08948fdf1a491c64315432f3e8a8b44773bf82370cf50f245738a1a2c3eae165
+SHA512: d03d06eb2db2b35a96e04be87408a4de82975117c2b8ebf2db6e39dadc625fa9fe0e992b3aec1f0cebde559a49dfde6a34320a720ca71c5a689107ca3e84b3c4
+Description: Hide contacts from the share menu .
+Name: NoCShare
+Author: Devvix
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.showmytouches_0.0.1_iphoneos-arm64.deb
+Size: 24360
+MD5sum: b0c6e4852932ea7116724551f73ad888
+SHA1: bb59e7cc384695f32353932cbb9a2c2cec835747
+SHA256: 2db8fae9029a60794c9132cd6fa12e7086319cb8007bf345a70a74cbdcd20e53
+SHA512: b95427928184eadc5ddc572066c78e17c60c5fffbec63e6d45ba4985b2fbd97fdb73547d72e785c5125f3de400c2eae1e67b5a1ae77f71d783a3163d5df5b6cb
+Description: An awesome MobileSubstrate tweak!
+Name: ShowMyTouches
+Author: dvntm
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.showmytouches_1.0_iphoneos-arm64.deb
+Size: 49836
+MD5sum: 99199e999b79a30a13008312ad6a368b
+SHA1: 019cc51af83d90201852c3921b19ece15315f7bd
+SHA256: ded18d0c885b834c48d8ccbb22ec3c5a88415940b3c14d4f3038704f0a4bc77c
+SHA512: 948be8520a82453a0ad56714cf4fc592b7c746505ee967f12193da9348a9e219954703893dff85014a61205af45fdafdd8ab60473ba2f8b5efe5a2887eb1621e
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.showmytouches_1.1_iphoneos-arm64.deb
+Size: 52102
+MD5sum: 09897321d3732f4c4c2d66df3c4242a8
+SHA1: 97b810ae8098c1054361a21e8ee33521932d2173
+SHA256: 41bde783e16200f3867f3bf727d5f516427117f0b4666e1e59e2440ef0095b41
+SHA512: e64a2764d56ecba62378907181d874942f4fce0fb6841c209855c1bc607c21ce9e9753457beed9e498fbab359eef1e2b4dbb73d9c575c5c71c37dc4bba673f5d
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
@@ -33,6 +421,419 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.haoict.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debians/Rootless/com.haoict.facebooknoads_1.4.1_iphoneos-arm64.deb
+Size: 254568
+MD5sum: 93897b4633be8343e4aabff27137bdb2
+SHA1: 82ee49e532d0f603806a556e1f436cd1ab992b7a
+SHA256: 25b146f7172ac5b3f63acbac44426d8f95d09ba9482a27e424c905a3c6e74e94
+SHA512: 1b5922a302c640c2a13222c45b4695545d748b558ca609a3720fee37b43f0c33d8bb8c94f3bed2f82c3925c02e9d67fc7df1f1295cc5378a5e40f3bf2e3fbbd5
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 12-14
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Facebook No Ads
+Author: Hao Nguyen
+Icon: file:///var/jb/Library/PreferenceBundles/FNAPref.bundle/icon@2x.png
+
+Package: com.haoict.instanoads
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 384
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.haoict.libhdev
+Filename: ./debians/Rootless/com.haoict.instanoads_1.1.0_iphoneos-arm64.deb
+Size: 56032
+MD5sum: dcfc3e5ae6c150a8914c62fae0ceb6d8
+SHA1: 3df9f09e803d401382bde6993209babffd966911
+SHA256: 0b9c7e441fed7017fbc4be95a636cf790693b825007c219847186df49931bc9c
+SHA512: 2791d81dab0fc556d6ddcd1f0221d304c9730609695f6e45c9cd54f74954a73c6e83552b435e7ca1053b5bfa08d64e28a3c222b76a04d2e53b50db9d80ea3b5f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instanoadsDp
+Description: Free & Open Source Tweak for Instagram
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Name: Instagram No Ads
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instanoadsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Hao Nguyen <hao.ict56@gmail.com>
+dev: haoict
+Icon: file:///var/jb/Library/PreferenceBundles/INAPref.bundle/icon@2x.png
+
+Package: com.haoict.libhdev
+Architecture: iphoneos-arm64
+Version: 4.8.1
+Section: System
+Maintainer: Hao Nguyen <hao.ict56@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debians/Rootless/com.haoict.libhdev_4.8.1_iphoneos-arm64.deb
+Size: 46204
+MD5sum: 275afcb9122d07ec45f7b37db4525737
+SHA1: 0eb7377c052e3725f4bdd7e522a58b63b7029735
+SHA256: 8cc314134a771f547bc6b7e683aba3889aa50b6bc8a76613f3c012d7373f1030
+SHA512: b3690da3ab60f97f54fea4f04b64899439ddf35b5301837955e41b822b76e68604078d80e7c8be4169684bc05a8182b0fc3f5294abaac5cc7822dcb990522224
+Description: This is a developer library for better preferences and useful utilities.
+ This is a developer library for better preferences and useful utilities.
+ . 
+ Change log: 
+ - v4.8.1: Minor improvement
+ - v4.8.0: Improve performance & reduce package size
+ - v4.7.0: Improve media download & fix preferences cell color
+ . 
+ Github: https://github.com/haoict/libhdev-public
+ . 
+ © 2021 haoict
+Tag: role::developer
+Name: libhdev
+Author: Hao Nguyen <hao.ict56@gmail.com>
+
+Package: com.haoict.messengernoads
+Architecture: iphoneos-arm64
+Version: 3.12.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debians/Rootless/com.haoict.messengernoads_3.12.0_iphoneos-arm64.deb
+Size: 538236
+MD5sum: 8fe1b6ec9063265cf45cf17753560995
+SHA1: 6bb0637953dd5b0eed3f66d9d07312c6618a7b3a
+SHA256: 47b34f7c11a211929d491b9f53ae8a946c6a3aff464807328b423e299ec16479
+SHA512: 5f4f6f7d3f9a06204a2fc9471601f2f226ac1c877aac995975df1a6cef8e74be3c2d5e50fff0aba0bc3ec55282ae7b8a6297edb38567b30b14a06e9b79ee2de2
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ Change log: https://github.com/haoict/messenger-no-ads/releases
+ . 
+ Features:
+ - Hide Ads on Messenger app
+ - Disable Read Receipt
+ - Disable Typing Indicator
+ - Disable Story Seen Receipt
+ - Can Save Friend's Story
+ - Hide Search Bar, Stories row, People tab
+ - Hide Suggested Contact in Search
+ - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
+ - Support iOS 12 - iOS 16
+ - Support Messenger version 450.0.0 and below 
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Messenger No Ads
+Author: Hao Nguyen
+Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
+
+Package: com.imkpatil.spotcc
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.imkpatil.spotcc_1.0_iphoneos-arm64.deb
+Size: 3076
+MD5sum: 5f47807e5df0f7d754ae0302d4987895
+SHA1: 6e5a2b98318376857fbef36e894e0846f9c34b21
+SHA256: 175a9473369db4f376ad11c1dc350e4ea5eeebc943f06ee5e6cb432d2d589d4c
+SHA512: ccc12c58e3dae6bd786dfcd4925ec70342fbf1890995ef23b18f84c905cd4350e2ceeebedc11c9c6f182b691e6f9a6260a8f43c0d4cdc2e11f314d69f02d52eb
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Name: SpotCC
+Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.julioverne.autolockx
+Architecture: iphoneos-arm64
+Version: 0.0~beta2a
+Section: Tweaks
+Maintainer: Julioverne
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.julioverne.autolockx_0.0~beta2a_iphoneos-arm64.deb
+Size: 39572
+MD5sum: b7614e0edb160e8d88557770125822ce
+SHA1: 02ce1e0c8cf06ea30c134acfd7f23f516fcfe616
+SHA256: 0a1e4ecc7bd729d3adbeeb881db490abc2e41cf3743b559448ecb8ec51710ab0
+SHA512: ca146322ee180439fbc8b4e61c9b70a4645836e81db150182c4df279023959a760f4a6ad2c21136a355bb4cfd39dfdb52fee23a020073b73dacea984e299af7d
+Description: Force Auto Lock Device
+Name: AutoLockX
+Author: julioverne
+Icon: file:///var/jb/Library/PreferenceBundles/AutoLockXSettings.bundle/icon@2x.png
+
+Package: com.lema.wolf
+Architecture: iphoneos-arm64
+Version: 2.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12212
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debians/Rootless/com.lema.wolf_2.1_iphoneos-arm64.deb
+Size: 2847372
+MD5sum: 7c13b9b84ccadc00b42ca6c818f8a9fe
+SHA1: 6ba2c3ed3f07199e90082f6fcc060e4aaf260fe2
+SHA256: cf50b9e40e62f94743eb37ab3eb7efdfaea550f1f0e2227cb246d64c8d309530
+SHA512: 1533ee8ee8e6a62430abf436d5c8d2582dd682b6aa006c6f77be9fa6941c070a133564a8944ee556c4df800b9517839b8cdc80711161a6756a5493d2c005ddf4
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Description: The all-in-one tweak for Facebook
+Tag: purpose::extension
+Name: Wolf
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Michael Lema <samewhitetee@gmail.com>
+dev: lema
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fhttps-senkawolf-github-io-repo.png&s=180x180&f=webp
+
+Package: com.level3tjg.visibleapps
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.level3tjg.visibleapps_0.0.3_iphoneos-arm64.deb
+Size: 3590
+MD5sum: 9a8c2da0dfbee7454d8d95d6848063dd
+SHA1: 4a6eb03bfc6061f6e512ff16297a1978f5fa162a
+SHA256: e33b8a72b3b3d5a8d3ac7c24d1cb8a85e01189d64b900af5570714d6400eecf8
+SHA512: 4ae35c5b6ff2e0d3c9e60b366aafd72a110f403cebc07f893b0479b8fc90e66d56baafe743c009c6c3784781a593b343b3ba3c3fb52b392f8e5f659dc1955b3f
+Description: Show hidden apps on the homescreen
+Name: VisibleApps
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
+Author: level3tjg
+
+Package: com.miro.libmiroshared
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootless/com.miro.libmiroshared_1.0.2_iphoneos-arm64.deb
+Size: 731888
+MD5sum: d89fa57bf4cce865559fe68f38fb6b5b
+SHA1: ab6bbdccdb93d4f2939aa1c50bf75dc24d93a278
+SHA256: 5696dc095adffaca8eed5bf3e977ef72871b0503063ab28408f55e562ed083b1
+SHA512: 5123dec11e08cea360ebf6778e29ef30cbcac3105da951730e144ed49279659e27f5fb4994fdcec376ae152951f02fe21e34cdfeb3b5f1e7cc69424d747b0a6f
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Name: libMiROShared
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.uyou
+Architecture: iphoneos-arm64
+Version: 3.0.4
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 31212
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debians/Rootless/com.miro.uyou_3.0.4_iphoneos-arm64.deb
+Size: 10999188
+MD5sum: 064dc015f0b3af8d79bbf3e4e4ffbc9f
+SHA1: 5b3d351b08d2c9d5354d958d4c30d56300b19ae2
+SHA256: 869f87a363b5e8605a23a2ee0e17a51f64d968a07d39823d201dadf7e4533311
+SHA512: 0eed46e79c745a56bcf32e2a889c951acbac17545191f76f9ce809214de0c0931d12219c0f1ff31e41ecf607e2655d25f5ce8a93dd01f0475b75d3f3bbfb3b27
+Description: Enhance Your YouTube Experience
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+
+Package: com.miro.uyouimport
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 444
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debians/Rootless/com.miro.uyouimport_1.0_iphoneos-arm64.deb
+Size: 81300
+MD5sum: 8ac10664efe5cf8d39eb114e34d2b790
+SHA1: e1d1ba8f938d3c67da2d087150149f190cd460e9
+SHA256: ab833975549b77da4b2da330924d57488ea1dc16eccb7e58b1b63013f230d863
+SHA512: 3b535979e78a294499eb77123c18a6d6e029465867781fdd008243a684a65d9943edc4b40c98cd7d2e830aec11de3ffcf047bb3359e799455833e12acff90aba
+Description: Library for importing songs/videos into the Music app.
+Tag: purpose::extension, compatible_min::ios13
+Name: uYouImport
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.yellowpages2
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader,com.miro.libmiroshared (>= 1.0.2), com.opa334.libsandy
+Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
+Filename: ./debians/Rootless/com.miro.yellowpages2_1.1_iphoneos-arm64.deb
+Size: 239820
+MD5sum: 75fc33bd2d0541a0062eae7b1dd3df74
+SHA1: 043c6facf8a2e428cc37e79afbc1800669ef0367
+SHA256: 3adea74c0cd270161949a53e41688237fe5cfe82ca1ee9050a9c24d39f5fc15a
+SHA512: 097e48688635a495057540a4045cefbd29b81250be2360197f7f857cb989d8c838be2a5b5f060a2d56df4b65155dcc2fa9ab626190d813a4939686a50c48d171
+Description: Say Goodbye to Unknown Callers
+Tag: purpose::extension, compatible_min::ios14
+Name: YellowPages 2
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
+
+Package: com.nepeta.axon
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: Baw Appie
+Installed-Size: 628
+Depends: mobilesubstrate, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/Rootless/com.nepeta.axon_1.5_iphoneos-arm64.deb
+Size: 139208
+MD5sum: 5ddc138fe95fc50acb68605bd1e72856
+SHA1: 159b26a8834250c5183b884b5205e14c87e86ed5
+SHA256: 7fa0ad7c4bef9e2190ef978fe81d6554fa542257041ab0c249f1a69f51539798
+SHA512: a21c230557ae7ece0609fc56998fbb79ba2d8c8bac3efe35470cee557a1ca9ade1beb7addbad8313bc8427b9f985e255c5224e2dd4b3651feacac11b4f764a3a
+Description: Priority Hub for iOS 16 , supports Dopamine 2
+Name: Axon
+Author: Nepeta & Baw Appie
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fme.nepeta.axon-icon-icon%402x.png.png&s=180x180&f=webp
+
+Package: com.netskao.smallbanners
+Architecture: iphoneos-arm64
+Version: 1.2-8
+Section: Tweaks
+Maintainer: Netskao
+Installed-Size: 900
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Filename: ./debians/Rootless/com.netskao.smallbanners_1.2-8_iphoneos-arm64.deb
+Size: 202764
+MD5sum: b48c2aa528fee6427be5015e90563996
+SHA1: 4248b18e7cefacee9330b22bbc64cae035547fde
+SHA256: b32177d959399d57ce14993da89da1b81ba7ab5263a2e3cda67875728f9cae1a
+SHA512: 27cbead4b7287980fcc9612cfb3c1b8482f0c55f5c14c75d212a6fabf6537bce4e7137c27a4af88bac69e152bef531be78b4f57f6ea6d64a61f65b084ff86d6b
+Description: Small Notification Banners. Support iOS15+
+Name: SmallBanners
+Author: Netskao
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
+
+Package: com.noisyflake.betteralarm
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 748
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debians/Rootless/com.noisyflake.betteralarm_1.4.1_iphoneos-arm64.deb
+Size: 295154
+MD5sum: 1fb94538ef65d9970e24afff3b337469
+SHA1: b03b56cbc32aa8a8efa72fd30eaef66b7e38265e
+SHA256: a893df22f5a960fd28b5525df5442c123e529eebaf64a95ec73e5f51a01e2bda
+SHA512: 0ff2658274bb808621a308e36af97b1db6725c312e61f2b925f5ddfae957882680966a26714dffdf6094d6cc9f5df6f20a3d403bf108aa2d84dc03e1e5303c55
+Description: A beautiful timer and alarm screen
+Tag: cydia::commercial, compatible_min::ios14.0
+Author: NoisyFlake <support@noisyflake.com>
+Name: betterAlarm
+Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
+Depiction: https://chariz.com/buy/betteralarm
+
+Package: com.noisyflake.velvet2
+Architecture: iphoneos-arm64
+Version: 2.1.2-3
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debians/Rootless/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64.deb
+Size: 95422
+MD5sum: 73091f5e4411fbd42a9e54aa0f3fc13a
+SHA1: d040c4851660ac3d913c76fa8fe87e0dd3fe82d6
+SHA256: 60c2aace71723542f533721307f6dfc37a07d3c58c7fe449688bc1c6136f75f1
+SHA512: f8be45fc77557995f101573bbc4ff4037a7f66e769b52184affb3fab543f180fefe2539180717d9c3317d1ec374b19bacc12c7d9b176b4dbefad30c7b9581f4b
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Name: Velvet 2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Depiction: https://chariz.com/get/velvet-2
+
+Package: com.p2kdev.alarmtime
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 212
+Depends: firmware (>= 14.0),mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.alarmtime_1.1_iphoneos-arm64.deb
+Size: 16548
+MD5sum: bfdd2fece17be2051f4f1965ea4fcb3f
+SHA1: 5916425bded2745e87f1c91bc7ebab6571140c33
+SHA256: 6fa7126901ad336b8f13b6a514d2ebbda8b1bdf584ea6fe3833486eb69b1efec
+SHA512: e9b16fbdb92884d54b2e40b484f3e577bf573ea7bd8aa88f0ed4eb4cb5214b2a4456656206b77c0ce5e27e239be1ec627cd10f86a927eed2fd9594e24cd97979
+Description: Show Time until alarm in the clock App!
+Name: AlarmTime
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+
+Package: com.p2kdev.modernsettings
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.modernsettings_1.0_iphoneos-arm64.deb
+Size: 4620
+MD5sum: e8031056b574a9028359d6c856fd386a
+SHA1: 5118add795029fa461f79e9f5ba38a3d660cf5aa
+SHA256: 40c3f52b211f45f07c40d17f5ea9888d06b3fd26ba494b5cf0e1dfdce424ea21
+SHA512: a7a285a39c24113ad297ddff005210c318613e8e522310cf4e0f9ece4ee99ce09140a10fa750f5e66d8f0868cd737ade4283e6ae9089140ad9ac671345a2bb46
+Description: Modern look for the Settings App!
+Name: ModernSettings
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2Ff8cb38eac4198b7c0812d7e075313c08.jpeg&s=180x180&f=webp
+
+Package: com.p2kdev.underdockk
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 680
+Depends: mobilesubstrate
+Conflicts: com.restiveconch.actionbar,com.udevs.dockx
+Filename: ./debians/Rootless/com.p2kdev.underdockk_1.3_iphoneos-arm64.deb
+Size: 58492
+MD5sum: 78eef737b58b0a70957e213b69a49508
+SHA1: 1f66a86fef5aea0d81de9c806e68abcfd072e243
+SHA256: c285f5508357f7f3e5087230a86e886cf1a36edab328973128421c570b1ed00d
+SHA512: 6ade4e650750d2c156dc50a7279b31494df1c0f969dbd258e308f97bbd6506e3182e0067592868717a193267de4f3b899714cb6f5ef131a0465a50ed400cee79
+Description: Useful actions on the Keyboard Dock View!
+Name: UnderDock
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///var/jb/Library/PreferenceBundles/UnderDock.bundle/icon@2x.png
 
 Package: com.rpetrich.powercufff
 Architecture: iphoneos-arm64
