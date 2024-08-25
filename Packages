@@ -3315,6 +3315,23 @@ Author: chaoge <571652571@qq.com>
 dev: chaoge
 Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
 
+Package: com.0xkuj.primedeck
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1000
+Depends: com.opa334.altlist, preferenceloader
+Filename: ./debians/rootful/com.0xkuj.primedeck_1.3.0_iphoneos-arm.deb
+Size: 536760
+MD5sum: 0e84be20564b51a8a61723ca9335b698
+SHA1: 8a99fe4c5f016e36e4bdf4c2cd3cb6ca2ddad25d
+SHA256: d1b9ea2c5db5751d76d79b42c33e377061cd8dd88086bf620446e58bebe5e965
+SHA512: 34fb235375e6da723ecd666ac834f9c5991bb3d5bf2dd227f5f11a0b3a145ff05e32d91d644d8b95cea4e69c8145295860c43b63599ca4dd9f7451fc7cf024f0
+Description: Control your appswitcher
+Name: PrimeDeck
+Author: 0xkuj
+
 Package: com.0xkuj.snoozelabels
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -3390,15 +3407,15 @@ Section: Tweaks
 Maintainer: Lessica
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Filename: ./debians/rootful/com.82flex.touchviss_2.8_iphoneos-arm.deb
-Size: 263724
-MD5sum: e6b4cdce98c233531f71698d15b3e7e6
-SHA1: 0071ba9136049a2ee02c27236a4eff0742108dbb
-SHA256: f9262507c8ecf95e5c3856f70a531abc8319c3856e0843c9ce8a9de48db69cb7
-SHA512: ec1ac72c522e68001718044aa7d6ad707bc12e537cbbec54fe1fea2cbbae59e34b955391f3aeb9e34a06953884191cdf18639f0ab4e6866e134afc0de4fcd0d6
+Size: 263720
+MD5sum: 37f6af427d81efbca75719d71ae49e00
+SHA1: 08d9add2aeca62ff6ddf3a9461e619a112f915b6
+SHA256: 195cf1d4a96bc63327ca3292cdddcb35c9161182711646aa9b9ff966e932a92d
+SHA512: 9fd4087250ab6af7566abb7438c9e6003376b3aa665b1ccdae2b7ce3c811efdff4816ef628fe78d66568c0d79a79eadaa822b0a647192061bc2d5f292a119965
 Description: Displays your touch interactions!
 Name: Touch-Viz
 Author: Lessica
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66a486a3066c63e2b4e66fbc&s=180x180&f=webp
+Icon: file:///Library/PreferenceBundles/TVZPrefs.bundle/icon@3x.png
 
 Package: com.apextweaks.veza
 Architecture: iphoneos-arm
@@ -4000,6 +4017,44 @@ Name: Messenger No Ads
 Author: Hao Nguyen
 Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
 
+Package: com.hitori.misakii
+Architecture: iphoneos-arm
+Version: 2.1.3
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1155
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debians/rootful/com.hitori.misakii_2.1.3_iphoneos-arm.deb
+Size: 324932
+MD5sum: 62b8b68859136c1e0a05fcde54962152
+SHA1: b5174f0d2fcc4c5386e49004ec8a87784b87ff76
+SHA256: 47cfa45cc229e9589ad671ac1a33c6b51255c39c316ea71b15a2c99ffc35c5f6
+SHA512: d8397e225e577d74658fec00a50da8e1bc35952c8626ecb64bb8d178729a74c6336bd2e6edd485fa87a9fef623763732277cd58f1c046af0f93e5de1129fa474
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
+SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
+Taq: cydia::commercial, compatible_min::ios15.0
+
+Package: com.jontelang.snapper3
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debians/rootful/com.jontelang.snapper3_1.2.1_iphoneos-arm.deb
+Size: 1022232
+MD5sum: 578b02b4a587247af8c3c657173f91e2
+SHA1: 2e95fa8590d717195e45ba99e00c141dd5cf40e9
+SHA256: 97427227e7f6e64669e1c9b944ed48dcabd67cfc7b5deac910a0a1533da87d64
+SHA512: 646ac978d26fa71cc117937619611e6ea64699c7cb05aee822e844f863395c430ca4bf7329b00bbcba458bedbc915c8031478b6cfbb0812e2bc34dc2c1b2bf50
+Description: Pin screenshots on the screen.
+Name: Snapper 3
+Author: Jonathan Winger-lang
+
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
@@ -4036,6 +4091,43 @@ Name: Designer
 Author: JunesiPhone
 Icon: file:///Library/PreferenceBundles/designerprefs.bundle/icon@2x.png
 
+Package: com.kernelrw.bazzi2
+Architecture: iphoneos-arm
+Version: 2.0.8
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/rootful/com.kernelrw.bazzi2_2.0.8_iphoneos-arm.deb
+Size: 65272
+MD5sum: 1e4b123d023b6cb7f50484d45d53e242
+SHA1: 31f35127f9f9a0b03b92b8bf54d648e60faf252d
+SHA256: 54e68a7de8f0c7e1591833ddbeee2da778bc533e2ec3fc5edd724f4b8d0456a8
+SHA512: addd2445c3e6f3af69b7bb8ab73a4837e9d8548f0ae70ebc71310a87c2f24d192d4b896250d8bb5bbdaae01ec518c2f7ae2d8f3c46e4b1daaa1fa308cd7e54bf
+Description: Battery in your Notch
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fdynastic.png&s=180x180&f=webp
+
+Package: com.kernelrw.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.13
+Section: Tweaks
+Maintainer: leftyfl1p
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debians/rootful/com.kernelrw.carbridge13_2.0.13_iphoneos-arm.deb
+Size: 430992
+MD5sum: 1439470a8efdd25878d1902022ad4171
+SHA1: 3802c478ae6461e5a30a02ff06d23326b8f3b89d
+SHA256: a414d4dbed55e526e2bfdb6b97ced285f6f1c389d792f37d8a56b2970d37f16c
+SHA512: 10411d418ced6ee42d6b0a37c80e778e32b1a7da519a1c571269430bc2064819d73d32e87e62729670c815a69526bf078eea99a5ea5b77370fc4013186224350
+Description: Open any app in CarPlay!
+Name: CarBridge
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+
 Package: com.kernelrw.padswitcher
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -4053,6 +4145,40 @@ Description: iPad Switcher but for iPhone . Supports iOS15.0 ~ iOS16.5 on Dopami
 Name: PadSwitcher
 Author: SWING
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
+
+Package: com.kernelrw.primedeck
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 1000
+Depends: com.opa334.altlist, preferenceloader
+Filename: ./debians/rootful/com.kernelrw.primedeck_1.3.0_iphoneos-arm.deb
+Size: 539336
+MD5sum: 961016907428aff36cf9ba21448c4175
+SHA1: 2fc41f0b63974553b609ab5a9d3892fc07711454
+SHA256: d394a57bfafe263f8708393d6b0fb576674a782acbc2441b67b604ac50eeeee1
+SHA512: 83acc42db0c266634d54855639418625e37d7ff4b24acd6a8e74ebfcb98cbdb77f816c6a7ebc8fefe6a9cadb501ea4a9a13289d47c1a41bc39d5bc2bae3ec712
+Description: Control your appswitcher
+Name: PrimeDeck
+Author: 0xkuj
+
+Package: com.kernelrw.ring
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Yan
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), com.opa334.ccsupport
+Filename: ./debians/rootful/com.kernelrw.ring_1.0.2_iphoneos-arm.deb
+Size: 133188
+MD5sum: 186b8c4649aeea3cf01d94169081b539
+SHA1: d72ac584079d9a69638b8931b7ba75d86cb7438f
+SHA256: b194774dce9f73a35b9eb428da0776cecdbcfc20a89944d34401af41ef76b625
+SHA512: 046d1421940d53fed8587cf44184074bfd7272a43b8abcb51d27ba933cd51b3ffa36bd5d3cfe2d7a301a38b52ce418e24f73f90bb3756194a99731d8b9ed6652
+Description: Effortlessly manage your ringer volume!
+Name: Ring
+Author: Yan
+Icon: https://media.havoc.app/660068a52b78a631ec05699f
 
 Package: com.kernelrw.rosemary
 Architecture: iphoneos-arm
@@ -4104,6 +4230,89 @@ Name: SmallBanners
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
 
+Package: com.kernelrw.sneakycam
+Architecture: iphoneos-arm
+Version: 2.2.2
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/com.kernelrw.sneakycam_2.2.2_iphoneos-arm.deb
+Size: 106132
+MD5sum: cf0af2933813e068d5d63df209691352
+SHA1: 07745f87a0a249afd4f2c2cbe6da7abb48241192
+SHA256: 7f2891b7b28838355e66af577b57786ff6c5529ad833b37453762a83840e5ccd
+SHA512: c237da39408cc89e48bf43703958fe7deebf1f8be02a6c2bef88a9ec1c566786edadad4f7c94e1c4e63af1d3c95cdd6c40e1e73f94a5fd4cbc49393189d92d17
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Name: SneakyCam
+Author: Spark
+
+Package: com.kernelrw.sonus
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 720
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
+Filename: ./debians/rootful/com.kernelrw.sonus_1.0.5_iphoneos-arm.deb
+Size: 119240
+MD5sum: 6b69e97110a5e7fae6dc7161382e8e53
+SHA1: c7710699b31e8448704a71dc3542e5d59ddee8e1
+SHA256: 40cc610400ac7a87c48907a09c2389c344115b697649d3bd27ca1dddded3c6ec
+SHA512: 9b6a1e2de4571ad991a7aedb9e192526c2b7aad82c5a3e3de1203e56a23229c13b8cfdb1988b887934bd885ca8e282d69d125d09f117394c10648472eee75591
+Description: The better and highly customizable volume hud; For iOS 13 ~ iOS 16 !
+Name: Sonus
+Author: ubik <cydia@ubikstyl.es>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fhi.my.name.is.ubik.sonus13%2Ficon.png&s=180x180&f=webp
+
+Package: com.kernelrw.visionkeysaurora
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.kernelrw.visionkeysaurora_1.0_iphoneos-arm.deb
+Size: 511116
+MD5sum: ff32bd2937f981aff7a8b917dad82253
+SHA1: b92aefeb4ff08da1f18eff3dfb9d23a18a11f2bb
+SHA256: 5cacbf447dda2a78f9fc4ac0530913ee63ec9c496e1f674b75a355104cf35094
+SHA512: 889e22ecd05d654bba0650cd2c5e9da21bce9c98f8929cec8981d80df446236ac8d949cfc8798e27ebabaac7f5ccbc424cd7aef8d87c01cd790e3d5f0d62e6e4
+Description: A beautiful Dark Blue theme for Laetus .
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.kernelrw.visionkeyscelestia
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.kernelrw.visionkeyscelestia_1.0_iphoneos-arm.deb
+Size: 967900
+MD5sum: 4660a2cc9e9219ed489a7d52f188837f
+SHA1: 030397eb1c3623f9399cefd3e70e7e42a7401dc9
+SHA256: 7c039caa647ab4aa196fd4f3ce8005d9933d6d972bfa65ef6584e79605f45103
+SHA512: c558ba50ba23246958c7949ca4373f2481737fcbbc0d39e4c692c277b9f269a685f493a01e3974a798b3d68211b78f4dad157603b14972c192417cec826f696f
+Description: A beautiful Light mode theme for Laetus .
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.kernelrw.visionkeysobsidian
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/rootful/com.kernelrw.visionkeysobsidian_1.0_iphoneos-arm.deb
+Size: 291516
+MD5sum: 9a9dc71544887b750dbff7a3487e0ec7
+SHA1: b1d563c7f5fa2172a6384414b9912509659ead33
+SHA256: abbcc7bd46fdc351fb2244c9afae224b9af0f2fdb6bd2c6ac98523cb34c7d48a
+SHA512: 02ed46dcde09b71074fbdda03f284bfd6499991f0bd155bf2930dc791e81131b9741ef1f5b35ef4cc7106aeffd1b6b1bd9951719411853556b8084473daa8a2d
+Description: A beautiful Dark mode theme for Laetus .
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
 Package: com.kernelrw.watched
 Architecture: iphoneos-arm
 Version: 1.1-8+debug
@@ -4121,6 +4330,24 @@ Description: Pair your Apple Watch on new watchOS with older iOS ; supports iOS1
 Name: watched
 Author: 34306
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.aaronash.watchboard.png&s=150x150&f=webp
+
+Package: com.kernelrw.watusitools
+Architecture: iphoneos-arm
+Version: 2.4.25
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/rootful/com.kernelrw.watusitools_2.4.25_iphoneos-arm.deb
+Size: 4512688
+MD5sum: 3b929435a76b87f2f3bd8e6ed7ba53d8
+SHA1: 0cdb956b6f2629082904e0d7b32d06085e9a43c4
+SHA256: cdabee843cf0976e139c2f3b566a9d113b355d510e0f9c41c1afdfc9502710a7
+SHA512: cc03048269ba0e947fb117d042426e310a0672803a14c46dac32248ad9264d29c36b8d850fdf0f1f76fcad4cc22dbcde0003bac2fe9960a43361976b4d0c21bb
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
 Package: com.kernelrw.youtubereborn
 Architecture: iphoneos-arm
@@ -4293,6 +4520,25 @@ Description: Change your font easily . Supports iOS12~iOS16.7.7 !
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
 
+Package: com.nef0pam.autoscroll
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.nef0pam.autoscroll_1.0.0_iphoneos-arm.deb
+Size: 26484
+MD5sum: 3fad5a0e331a5497edd22fe2fff8726d
+SHA1: 19b43afcb5efd69b50405b2aaf2f7b8662352945
+SHA256: 10f596b0d4838db7a4df815d63251a14bc0b5cddf739c069ca9fd07eeee26281
+SHA512: d40435f20f3d2ebe58aa3a9de6724cb6aa9b66062f73afc1a0f33a2c22da4ddd841dda8823d2b491493c47bbdf3269994c936b2a92cfaf2cc4bfe9e9d09e68a6
+Description: Smart Auto Scroll & Faster Scrolling on all app.
+Name: AutoScroll
+Author: pxcex
+Depiction: https://d.plutorepo.com/posts/AutoScroll
+Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
+SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
+
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm
 Version: 1.2-8
@@ -4351,6 +4597,24 @@ Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 432
+Depends: firmware (>= 15.0),mobilesubstrate
+Filename: ./debians/rootful/com.p2kdev.tinge_1.1_iphoneos-arm.deb
+Size: 39164
+MD5sum: 0ae700518cedda87611546ce449b69e5
+SHA1: 24ba8b4ed2021c7771cc856732e19a34c426704d
+SHA256: 2741bd8b6fd6f167c2f463a95cb1c1f154a00c62ecead728daa9cc1ca0bc2f99
+SHA512: 7b620766fc566bcfe6c71ad6ba7a2fecbfe961d41ceb76e138f88f90bbfbb8bb709c20e9e2fa7eb93428af51dd76f834ffc39e95ed2e25c7cdcf91b137efd9bf
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
 
 Package: com.p2kdev.underdockk
 Architecture: iphoneos-arm
@@ -4612,6 +4876,24 @@ Description: Battery Percent on Swipe Up to Open!
 Name: BatterySwipeUp
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: con.kernelrw.battivator
+Architecture: iphoneos-arm
+Version: 1.3.11
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1020
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debians/rootful/con.kernelrw.battivator_1.3.11_iphoneos-arm.deb
+Size: 250156
+MD5sum: 31c1b37e55e072df589fc624f38da0cc
+SHA1: 7ca0bac887772541d08601ac893cb7bcbf44bb3b
+SHA256: 3e8e39a44af0c10f1e3cbf0a1eaab6bb04645f064d3d6b5e2b9d790b56e127d4
+SHA512: a63b85c4e457cc5f775c2a4fe538240a23db6a679d8cc16da844ccd6209b3d77aee0e05662a1698557410813b95cd389e1efc1939ba63fc777c74b75e03a7402
+Description: low power mode & battery level profiles
+Author: merdok <merdok87@o2.pl>
+Name: Battivator
+Icon: file:///Library/PreferenceBundles/battivatorprefs.bundle/battivator@2x.png
+
 Package: cum.0xilis.snooliebattery
 Architecture: iphoneos-arm
 Version: 1.0
@@ -4735,6 +5017,112 @@ Author: Litten
 Depiction: https://repo.litten.love/depictions/Rose/index.html
 SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.ahmedbafkir.dleasy_2.14.4_iphoneos-arm.deb
+Size: 5454256
+MD5sum: 51dbe772eb2149e4e0ce0739851c731f
+SHA1: ef27215798af210951b9fa6930de1124147ff1a1
+SHA256: a88c62953cadab0117d2dd125e69b6a54cb7607197b19dbdd2103d7899badab2
+SHA512: 5bfdcc51046266ab39c3152624fc56c2488bd7dddabc4b1c89639990b64aab45b00a67b441cf9034a6fd749bd4e122d46e17b06845300a0d19ff4bb4b8997a4c
+Description: Download/Share images & videos from social apps easily . Supports iOS12 ~ iOS17.5.1
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.ahmedbafkir.dleasy_2.14.5_iphoneos-arm.deb
+Size: 5454996
+MD5sum: cfe769f14df6ff7899d70fa6146a4e14
+SHA1: 4fd0b54f97ed9b7b70ed363e628394929882d415
+SHA256: 8d12714b2ffddf528fb290a706a8ed30d9344ea919b98feb78b057ac61dd3e77
+SHA512: 9e00cb1c0a0fb56343c1b04d667222c692e68c0a8532c33e68075139d8ab433317ace3e0fc3c6fd22d0ab59febc56c4aa2a1eb8583d4b2e294ece00e915bdc3d
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.kernelrw.dleasy_2.14.4_iphoneos-arm.deb
+Size: 5451208
+MD5sum: 77fd568235b760c5b17c5fc67250c740
+SHA1: 27dcbbf26c99b5fa113511ec2e790b357b2b86a5
+SHA256: 1a1684b1daffec8b0547496f2a7bba13e2afba239bec003f0b54e3191b35aa29
+SHA512: 0207b2d47592886d51d92f46922a0d94cb6b7e8f75c56f3e332ef51d0ec834a36e67ae297397b3292a2e0c8ef95367d7b9037771ea6af0ac7e6db376a977308a
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/me.kernelrw.dleasy_2.14.5_iphoneos-arm.deb
+Size: 5458684
+MD5sum: b7644dec75586a0010d6c6aadf79df98
+SHA1: c4c28be123f720acdb8c2fb86f6fbe3880491f59
+SHA256: 3805f890a373a1859858569600a952c85320864727c13127b81ec76ddc967e7a
+SHA512: 17df875ffd9dbd4e8dfcc486ab74c213c82dd067be18702c8429fb832b8fd01249df7d414d954ac57af5f455d6e27d1c13609a8398ede3aebd8a4b7b31c16250
+Description: Download/Share images & videos from social apps easily . Supports iOS12.0 ~ iOS17.5.1 . Cracked Successfully 😝
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.phantom
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: eternal
+Installed-Size: 164
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/rootful/me.kernelrw.phantom_1.1.0_iphoneos-arm.deb
+Size: 3484
+MD5sum: 4c25cb239a5b1e8ee9b45ff35a99722a
+SHA1: b0671435588e580e9ae4d618d364c99377564875
+SHA256: 356c2ad25d45e70c7a135c42260e05b9e89a7fe981cfe975243063eae13ccc0d
+SHA512: 980a8529b3698c4192f230b67f2a600f1aeb3d2dde4daaed3a5bd3ea13cd17adec25fae5df43eff4cd444ddbdf7b56149e623eb09bdb2bc59a5b763409860943
+Description: Seamlessly block screenshot and screen recording detection in iOS apps.
+Name: Phantom
+Author: eternal
+Icon: https://github.com/localip/phantom/blob/main/assets/icon.png?raw=true
+
+Package: me.kernelrw.rocket
+Architecture: iphoneos-arm
+Version: 3.8.27
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debians/rootful/me.kernelrw.rocket_3.8.27_iphoneos-arm.deb
+Size: 1416472
+MD5sum: 255cb17d0dcd731688c038cc7d7cf2af
+SHA1: 3040c47c4854a9c77abf633511aeaed68d2ce2fc
+SHA256: 9e29c3398532456413bf746fc4fe0df9f1fdb8fe745328784b976ef9c920964d
+SHA512: 1f2532b7545e91b4ae6c2c8f8d684a7b90db864b9d89d2833d4a15c18ce3c81fcf2d60a873f5818fa8d0859d0d2806f36015b4ce4bcba7f8f595ab8d349f7649
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 
 Package: me.kernelrw.sileorespring
 Architecture: iphoneos-arm
