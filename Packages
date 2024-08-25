@@ -9731,6 +9731,25 @@ Description: An awesome MobileSubstrate tweak!
 Name: Spy 2
 Author: elias
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.4.28
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
+Filename: ./debians/roothide/com.f0u4d.watusitools_2.4.28_iphoneos-arm64e.deb
+Size: 12077080
+MD5sum: 61b178f17ab8113adf8e987808ff1399
+SHA1: 07fb37004f5b37382f442a458130faee0661df39
+SHA256: c667710249248d1881739d36e9376e3cdc87bb21c4a963d737fabe3d29a4c13d
+SHA512: 4cd41200f1cb4fd55c7721b481ebc188a4f5b37c962f8b8244cad8d5323fbbbcfd8cebd6a963b51022b41ec323599636cdc1c7c8ecde0a8d33ee95845d05f848
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
 Version: 1.2.36
@@ -9807,6 +9826,23 @@ Name: Complications
 Author: Ben Giannis
 Icon: https://repo.packix.com/api/Packages/5ded52b95a6db7001a569c7d/icon/download?size=medium&hash=5ded52b95a6db7001a569c82
 
+Package: com.kernelrw.designer
+Architecture: iphoneos-arm64e
+Version: 1.4.8
+Section: Tweaks
+Maintainer: JunseiPhone
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/com.kernelrw.designer_1.4.8_iphoneos-arm64e.deb
+Size: 12971288
+MD5sum: 7fa6f69f3e9cda159facf895c25c26b8
+SHA1: e63c641db235424e7745e968bb9ee294ad0e488a
+SHA256: a1adad2032d4a88317741ba4ff0580dcd9a394a4d30b51edf0ebf484f2975eca
+SHA512: bafeb1da1c26accda8c8630aa6b28525c18bb08185e080e74ea68e2802cc8eee3752fdb359c8eb3eff2949eb91e2391f9e63ca1ad800f3dcfcee1af6f98f8119
+Description: Design layouts for lockscreen and homescreen
+Name: Designer
+Author: JunesiPhone
+
 Package: com.kernelrw.glance
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -9824,6 +9860,28 @@ Description: See notifications from far away
 Author: Janis
 Name: Glance
 Icon: https://img.chariz.cloud/icon/glance/icon@3x.png
+
+Package: com.kernelrw.regram
+Architecture: iphoneos-arm64e
+Version: 1.0-beta10
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 5980
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/roothide/com.kernelrw.regram_1.0-beta10_iphoneos-arm64e.deb
+Size: 11610136
+MD5sum: a6abfe3b2cc2274781da2310e2928853
+SHA1: 75e2421dc63b848062cff5cfb2c313923b19f84a
+SHA256: e4769a420c12f2a6442852b97347444d3e86f61af6950adb59b1101cc6bd1ff5
+SHA512: a1d89e4c88a18f74c502719904c54600ceb3ae93fb064032f80d1b7956d112af88922bf672b06dc2d90c74c28691834219513cddc86351d7570820158a042d93
+Description: The all-in-one tweak for Insatgram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: https://repo.cypwn.xyz/packages/RegramforInstagram-Rootless/icon.png
 
 Package: com.kernelrw.senri
 Architecture: iphoneos-arm64e
@@ -10203,6 +10261,62 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Name: libsparkcolourpicker
 Author: Spark
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15524
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/me.ahmedbafkir.dleasy_2.14.5_iphoneos-arm64e.deb
+Size: 10982336
+MD5sum: bc823b52e76faa95f904998bb9bb241e
+SHA1: b57593ca3f1dc6971b53962420a41cf30fb850c3
+SHA256: 9f97168fa10e8cf90351f947418673f027fffcb497087e3472ed8428971715a4
+SHA512: d9ce1b8aa32c4476aecbe06b23287f591c7735190c901fa6f8bff6bced2234a9fa56289ccbe09fb1f0febf89b58fd8004b4d3bfec055e30a92fbcfd6fd98dd03
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/me.kernelrw.dleasy_2.14.4_iphoneos-arm64e.deb
+Size: 10980188
+MD5sum: a7e935cedb4f622ca487455465546630
+SHA1: fdcae2c71a551d33d78aba10624a1d3faea5cf3e
+SHA256: 09c10980732e95826c6dbb924701f4e9b8227019c46baa3a98cf165a17093c93
+SHA512: f76ae965e044bbde74afdf378f7a855f9702119292666304969fd56e35d4b92a51f1b81193b390e88839b77ead34d772d0ab621e14795b0a0b3f3dc2f7ecf602
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.kernelrw.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.5
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15524
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/roothide/me.kernelrw.dleasy_2.14.5_iphoneos-arm64e.deb
+Size: 10979416
+MD5sum: 0e202806eb516b546932eb3132dc0751
+SHA1: 3a365c3e4d4afdbae4ea01ba6caf8d9f3d0222ab
+SHA256: 7af1bada957eb0519a86241ebcc0f0f57f7c888d8f4da59d4526b5f1cdd72904
+SHA512: cefcda5294797a21519afa1f3e308f0832ff22472d619010c29976061b9189bc0bb2a817aff2ec74f544274d9d8c88778b42c08e07c040e7685606c52662b87c
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
 Package: net.kernelrw.audiorecorderxs-rootless
 Architecture: iphoneos-arm64e
