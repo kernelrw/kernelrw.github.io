@@ -1583,6 +1583,22 @@ Icon: https://repo.cypwn.xyz/packages/Verxina-Rootless/icon.png
 Name: Verxina
 Author: uz.ra
 
+Package: com.kernelrw.visionos
+Architecture: iphoneos-arm64
+Version: 2.8
+Section: Themes
+Maintainer: Billie
+Depends: com.spark.snowboard.masks, com.spark.snowboard.effects, com.spark.snowboard.dock
+Filename: ./debians/Rootless/com.kernelrw.visionos_2.8_iphoneos-arm64.deb
+Size: 84188928
+MD5sum: ef8f20f077d0d618ae21efe109829f8a
+SHA1: 57d903a853eeb64914eb1e2fa216cea0c07f285a
+SHA256: 1473077db6ae72a2dd387c9f623e2d00f7c77c240a0710ee5c29a52a5ec9a5be
+SHA512: 2cec0eaeb022038c5acbf0bc965861f9b716014c1f972327a97dde24514fcf2aa6689aab40f6dce6b7fc15c1af92471b3d2aff8b30d71571016ba68ad06d0c08
+Description: VisionOS theme
+Name: VisionOS
+Author: Billie
+
 Package: com.lema.wolf
 Architecture: iphoneos-arm64
 Version: 2.1
