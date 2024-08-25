@@ -1032,6 +1032,23 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
 
+Package: com.icraze.gestures15
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.icraze.gestures15_1.0_iphoneos-arm64.deb
+Size: 4892
+MD5sum: 5390f590878243dd239004e7b1d4d31a
+SHA1: 5246f9d68065817fa1959deaf44d6d0d7ddf31ae
+SHA256: d309ca1bbcf7fef14a2912f74c81a866913221286636d6884ba35d9ce0a9df13
+SHA512: 335f780419f8bb9e082a55862433a06e11f9ffc59f28308fca0c676a16edce827c94f7cb8b1150acaf10588df4a16c02ca7c957a61edf96ce20b0db8750251fc
+Description: iPhone X gestures and iPad status bar for all devices
+Name: Gestures15
+Author: iCraze
+
 Package: com.imkpatil.spotcc
 Architecture: iphoneos-arm64
 Version: 1.0
