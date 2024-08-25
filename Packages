@@ -1089,13 +1089,13 @@ Architecture: iphoneos-arm64
 Version: 1.5
 Section: Tweaks
 Maintainer: JunesiPhone
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
 Filename: ./debians/Rootless/com.junesiphone.designerr_1.5_iphoneos-arm64.deb
-Size: 6573320
-MD5sum: ae0321cb7710ecb151fa74bf9b8baeb7
-SHA1: 97b37286c389399cbc2457e0343d25c8228c2754
-SHA256: 540e8ff9440ef8a1ffe61d8b63046398eaf3577207c27b8e5a57dd49b8edfc0d
-SHA512: 8c341efd54055b676f8efedc1693f7ea16502e0dafc5250e7082340096384fbfca2a940dba379e83e7cbdf3cf87581001ea02d14afc063cde8db4cde0f27dda0
+Size: 6573024
+MD5sum: 84dd615c34073223079df2f207b2cda1
+SHA1: bb437de5e80ab8208d32c7e9f8f49bbcad04cf96
+SHA256: 0c3be5cd102721c55e50a036447070943d899992467e3ed13867673fdbd46de4
+SHA512: 4d1e5a10c1c00e5a2e9d37804c316f6552c5b0ecac9a2a9ea6608663472920917b24911ac9cb071df6e277d44d07372288fa0388fc58044965451c3ec61d6b21
 Description: Design layouts for lockscreen and homescreen
 Name: Designer
 Author: JunesiPhone
