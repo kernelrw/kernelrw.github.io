@@ -278,6 +278,22 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
 
+Package: com.cpdigitaldarkroom.taptapflip
+Architecture: iphoneos-arm64
+Version: 1.6-1
+Section: Tweaks
+Maintainer: Hitori <admin@cpdigitaldarkroom.com>
+Depends: mobilesubstrate, oldabi
+Filename: ./debians/Rootless/com.cpdigitaldarkroom.taptapflip_1.6-1_iphoneos-arm64.deb
+Size: 18632
+MD5sum: 8509e88b80e6a69dbb1077aab3286cac
+SHA1: ced6769957197684fcd702089902e41d8865c266
+SHA256: 5fcfd3fcd5d4cba4edc9c0d2accd71d478540bc2df32b1120f04cb1e07190e9c
+SHA512: a4f417660a65aaa71e1a2002a14ea97e78f883255388fd8018b5cff2a851ce0c02276939453ac228b4c80f1c677dce61349979c7aeca6fafb22d3d4b1bac1322
+Description: Double tap to flip camera
+Name: TapTapFlip
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm64
 Version: 1.0.8
@@ -538,6 +554,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 
+Package: com.cydiageek.nomoredisabled
+Architecture: iphoneos-arm64
+Version: 1.0.2-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 289
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debians/Rootless/com.cydiageek.nomoredisabled_1.0.2-1_iphoneos-arm64.deb
+Size: 5036
+MD5sum: 6d331b3abe1f7956732122694f2d5cc4
+SHA1: 54c47976d388973c9fd6c97be8c211ae5eeebcd7
+SHA256: 31c75bf57c8ffb78975addb43e816f41b1c33c82d20fb503e4e70fcf814e270b
+SHA512: 7d1daabfaf1713f637bd307dc742bdfcf360ea37adf1ecada492de683758b655d3086598e422f7323e87a285d5ab0ce267284e54324679036faf9489d1c6f794
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Description: Prevent Permanent Passcode Locking by Mistake!
+Tag: purpose::extension
+Name: NoMoreDisabled
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
 Package: com.cydiageek.nowachannelsviewcell
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -547,11 +586,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 176
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./debians/Rootless/com.cydiageek.nowachannelsviewcell_1.0.1_iphoneos-arm64.deb
-Size: 5028
-MD5sum: 9b78e4ed6745335dda06269c4b3bd7bc
-SHA1: 50aa9407ebd506b475f8d3ee38974c574ab10dec
-SHA256: 3397334e65d725099439df64a9562e076c4b2503ca547465647a91c3e0b3f574
-SHA512: 320fbec7ec282b2389add4b7e5333de1181d1822de654e5c22cf11ea51c405ca221a1e7fea8f9fbe0eca9ac4aed29d450397e4fcb660cac504769ea8d5589562
+Size: 5160
+MD5sum: 575cc602a29036fe20686f3811a034f6
+SHA1: ada7b1357561ce2780a686a1bc1911760b0955c5
+SHA256: ed083f15244568df6f455f6b0b65d6e32cd17de087ec60432bc5bfafa8891c57
+SHA512: fdeb4bff873cad0eb55b1adea02fa8c4fb785d31b56c486b8fcaa592cbecda4aa00c4dc377b027b80b3115cde0b8dcf44480fc8421b51b25ea07bb3d5224e602
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowachannelsviewcellDp
 Description: Hide New WhatsApp Channels Cell!
 Tag: purpose::extension
@@ -627,6 +666,23 @@ Description: Spotify Premium for free .
 Name: EeveeSpotify
 Author: Eevee
 Icon: https://repo.cypwn.xyz/packages/EeveeSpotify-Rootless/icon.png
+
+Package: com.daodao.sugarcane
+Architecture: iphoneos-arm64
+Version: 1.2.4.2
+Section: 嗨-工具
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.ioscreatix.sugarcane
+Filename: ./debians/Rootless/com.daodao.sugarcane_1.2.4.2_iphoneos-arm64.deb
+Size: 7936
+MD5sum: bc57c12d891c18075f57d74dfc5f1477
+SHA1: 6c891835383ab8111bf3b4cac5209305e83c7fa7
+SHA256: e5cc41f18745dae42fac8e1fcf61a7cb635069b1ac3df69798c1bf82a53aedb1
+SHA512: 6fb9fe503f766da3ed41282dcc988fb138908cc161e1b8649812d500796a3e2ac9656fbcc1c02f93696b18fa3e56b62e4caf548bf34caac03c8bb63405029ebb
+Description: 控制中心音量/亮度条添加数字百分比。Skypain基于P2KDev大佬开源，调小百分比字体大小为12号。
+Name: SugarCane 15(rootless)
+Author: iOS Creatix, kasiimh1, p2kdev
 
 Package: com.darwindev.alternative-springboardservices
 Architecture: iphoneos-arm64
@@ -733,6 +789,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.eevee.youtubefix
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Eevee
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.eevee.youtubefix_1.0_iphoneos-arm64.deb
+Size: 3492
+MD5sum: 140b8d63ce312d992caf9bd476e35f7e
+SHA1: f9c8709bdb84982dd8cd8572bfbedcdebe1c2b50
+SHA256: 192b330f349b5a53faa43e1b9fe9632c2f188dd462da36da183504bfef34d424
+SHA512: d092e0347cc000440638c0d2bec8416811875800ace24d291044b45603330506253dc1f152f53493f7f783aa888e07a212ce25da89e56879ec7f7018bfca7df9
+Description: Fix YouTube images not loading
+Name: YouTube Fix
+Author: Eevee
+
 Package: com.elias.spy22
 Architecture: iphoneos-arm64
 Version: 1.3-1
@@ -769,6 +842,23 @@ SHA512: 40659346b8f82083abd97f3f3d4a7407ecf39a4e682c1fc1790e75fb2e76906d02a9deb4
 Description: An awesome MobileSubstrate tweak!
 Name: Spy 2
 Author: elias
+
+Package: com.ethxnn88.visibleisland
+Architecture: iphoneos-arm64
+Version: 1.1-b1
+Section: Tweaks
+Maintainer: ethxnn88
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debians/Rootless/com.ethxnn88.visibleisland_1.1-b1_iphoneos-arm64.deb
+Size: 24260
+MD5sum: 77ea60a74baa549cf3f9514a41958805
+SHA1: 10bfca68ae1be7ead7ac2b808b543c359b305fbf
+SHA256: 4ad7522d4ac13a6ad214fefb89fd69ff91ec6db11514fba82e0e21574c7bb3ad
+SHA512: 97eba38ec6a25ca3ccd661a9ef398c8880653b0efad879ec327207acc82a9076f13638eda2077341b9fcbf61d489a3023384ab0160810febf61934e22cb17656
+Description: Enable and fix Dynamic Island on older devices.
+Name: VisibleIsland
+Author: ethxnn88
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
@@ -1770,6 +1860,77 @@ Description: A modern crash reporter for iOS15 & iOS16 .
 Name: Cr4shed
 Author: Muirey03
 Icon: file:///var/jb/Applications/Cr4shed.app/AppIcon83.5x83.5@2x.png
+
+Package: com.nan.allemand-filza-script
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: com.nan.allemand
+Filename: ./debians/Rootless/com.nan.allemand-filza-script_0.1.0_iphoneos-arm64.deb
+Size: 1080
+MD5sum: 1ea1dcef2a46f2b08a3a16fa4682cce8
+SHA1: 5bf48a97f01dd3ba14ecc644c4e41845ff1ef2cd
+SHA256: d08d5a311c4efedcafa92b7922cbc58604e100a3a87e3120e72346b6710b7373
+SHA512: c0f8d8ac3f980d91a9224fb51da37445ce08a86344a4b85db0fd1f688a6bf8ae946de3640df9ce0074b882569580fdaa018eeac42455dbdf0e79ffac140d3fc7
+Description: 通过 Filza 脚本给旧的 dylib 打补丁，只需选中 dylib 文件然后点击脚本
+Name: FilzaScript Allemand
+Author: zhaonan <invalidunit@icloud.com>
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.allemand/js_f.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.nan.allemand
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Terminal_Support
+Maintainer: Evelyn
+Filename: ./debians/Rootless/com.nan.allemand_0.1.0_iphoneos-arm64.deb
+Size: 11056
+MD5sum: 85c19aeb17d4d134761873b795683816
+SHA1: e8c4dec1b3b795ba116a9aeed28ee36eed29971d
+SHA256: 0c4d62eb371fa550ccba6347c406a0341c41af754984fc66bfde5026aad575f0
+SHA512: 3dc3877423a9eec8c3719f085e00bb393b913d8111bbaa50b76ae0806b0c37b362199c24792d075c2f7ab4f4af25f570db14e3c952aa8e0f836c52d6bbedc9b7
+Description: static oldabi patcher
+Name: Allemand
+Author: Evelyn
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.allemand/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
+Package: com.nan.deb
+Architecture: iphoneos-arm64
+Version: 0.2.9
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, findutils, curl, zstd, xz-utils, bzip2, gzip
+Filename: ./debians/Rootless/com.nan.deb_0.2.9_iphoneos-arm64.deb
+Size: 5536
+MD5sum: 646edabd16c3861b087950ab86016d39
+SHA1: 29b0dc61d95ecbdad5c04d32f4716b625664f614
+SHA256: 84d621d3148f3ca7fc88081f99d3c1a4928e3e3faeb0d23b0115161753b348cf
+SHA512: acb0780fbf60d3bc4d056e1340d07a03d626ac33fc59a910028ae34d3d9c224c700862b388f54fd38cd97a733c0e583200db573c9cb970437e8673dcc10ea51d
+Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
+Name: deb
+Author: zhaonan <invalidunit@icloud.com>
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
+Package: com.nan.dpkg-fill
+Architecture: iphoneos-arm64
+Version: 0.3.8
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), sed, coreutils, lsof
+Filename: ./debians/Rootless/com.nan.dpkg-fill_0.3.8_iphoneos-arm64.deb
+Size: 2076
+MD5sum: 6d6bcfb61bd0c0dfc1d01ce825c91192
+SHA1: a19240e43d5237cfd115d9da2117bac7b0b88ae3
+SHA256: 64e1b1b5cb344c6ce14dd5f4c2f521fe229369317de1dd0df3c1188d689f5188
+SHA512: d53e67f4401f330ddf1895531d938dfacdd0f8c0e8d8e4bf0330fd1dac97a652ad145016c7ddda992e392b66a5058338fa0b34a7cfc3de14398e62b74e10fbcb
+Description: 修补因缺少维护者和描述的报错信息
+Name: dpkg-fill
+Author: zhaonan <invalidunit@icloud.com>
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 
 Package: com.nepeta.axon
 Architecture: iphoneos-arm64
