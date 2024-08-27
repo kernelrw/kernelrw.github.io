@@ -1120,6 +1120,24 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
 
+Package: com.hitori.passtext
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 568
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.hitori.passtext_1.0_iphoneos-arm64.deb
+Size: 129340
+MD5sum: 1ea06dd5e3131372ba28389e9e95cff1
+SHA1: c1813aaef8b9ef4fdc54f19bae3658aa9790b060
+SHA256: 666d9a6b1dcf1807f63ce1ce4d3e1d04a5c3546b9bb5e4ae319882002ab553dc
+SHA512: 75cb5f8298f75cf6d93403f07904cbd7c1c6a26fd5b9ba3e3123d1d2be9a6d3693ca4264b0a2bb576106fbd3e69f8f62b6d7a6278d52865cf0249e7b606eb783
+Description: Turn Your Passcode Numbers into Words with Style
+Author: Hitori <mikasa-san@outlook.jp>
+Name: PassText
+Icon: file:///var/jb/Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
+
 Package: com.ichitaso.youtubepatcher
 Architecture: iphoneos-arm64
 Version: 0.5
@@ -4193,6 +4211,24 @@ Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
+
+Package: com.hitori.passtext
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 568
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/com.hitori.passtext_1.0_iphoneos-arm.deb
+Size: 128572
+MD5sum: 0418e0fc9f32c54540bd5a7dcff2de7a
+SHA1: c6a8956463bc6418c4e371b11fea6691b36a75c4
+SHA256: 68eb50406cdba2590d8ce7d2ff72576d7adb064915b7b0490bf86febe0ee4fdb
+SHA512: 9dc2984f4fe9d352721783ed312056c5b9c91e9a08dce5cb6e3e7ea9cd4dbf4e3f83e48ecb0a389042581eb326629daf6c97a9ff99cf71348823c5b817c6d497
+Description: Turn Your Passcode Numbers into Words with Style
+Author: Hitori <mikasa-san@outlook.jp>
+Name: PassText
+Icon: file:///Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
 
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
