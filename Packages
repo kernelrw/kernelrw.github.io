@@ -42,6 +42,23 @@ Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
 
 Package: cm90.crossoveripc
 Architecture: iphoneos-arm64
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: @CrazyMind90
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
+Size: 15374
+MD5sum: f20b39388b84f1769f55ebd92956347e
+SHA1: 920583a16a7e1204d6f160f85f58ef0afe137019
+SHA256: 509b4132f6ae542887eb49376a7a5cdf43069331ac8e469655f90baa0ead2c9f
+SHA512: a64b093ae429d36eb18932a2f29fe5020aefae50745486252de45ec8a3c3325ebd210d4a31088f23905938fed51b05a91b30afe8527e623e228195bb0563e4db
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Name: CrossOverIPC
+Author: @CrazyMind90
+
+Package: cm90.crossoveripc
+Architecture: iphoneos-arm64
 Version: 1.2-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -281,11 +298,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 376
 Depends: firmware (>= 8.0)
 Filename: ./debians/Rootless/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64.deb
-Size: 14708
-MD5sum: 63e42482f509a1396783fe24dd59ede8
-SHA1: cac5399614029b47c4343d5ae10fb293bb49f2c6
-SHA256: 576bf0805c758e37b9794c7144c4b4a3b67df28396eb49a1018d2c62a5b09d11
-SHA512: b5bb8dbade32ae85ade5eeced76663185bae089859279ef4ff56613964a05514921e58de525b8618805dc853eafc4dbcc3f19280f96b7dd00d7f362fe5812bae
+Size: 15274
+MD5sum: e4d491a6b989681d5d6d88047efab0a3
+SHA1: f443c46ba47ca53a3df55ff46595c2bd2a2d43ef
+SHA256: 987516d85d8b64692eb9b155634d05fef690383df6352223637aabd9bf4edfe8
+SHA512: db5655d2983db4981ae24bfe4c708ddc22fd0013558dbfb49ea06a175eabbb1ac32ea2f205bc3ccb8186b515d71b0b0038a3284c7a6250de7dfc35eb5bd0fb83
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
 Description: App notification library.
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
@@ -1867,17 +1884,17 @@ Version: 4.3.1-1+debug
 Section: Tweaks
 Maintainer: Muirey03
 Installed-Size: 2404
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.cokepokes.libnotifications, cm90.crossoveripc
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11)
 Filename: ./debians/Rootless/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
-Size: 197304
-MD5sum: 4ece66da5099d05cc4c72cbe6eb57f65
-SHA1: d736551200a3c60ce95746c7a2135769cf6912ac
-SHA256: 51528d3a9484f970981587aefe3ec8397f599111a009ac5d269ddb07b78a49c1
-SHA512: 0c7a6ce884bb4a3f7f979e1306647819c5b79c91085892df75c82f2acade046680374b59a6df96215738e8a7ce046de459f4e6735a570c7fed1b11c4a8bec3d0
-Description: A modern crash reporter for iOS15 & iOS16 .
+Size: 198988
+MD5sum: 1490c8721f0288373f9f06434ae5682f
+SHA1: 732eea8b9fe14e93bcdc8241ca222ca3fdd5966d
+SHA256: cbb37d41959102ad69842b5093bfefa1f96aaae261c7c03ff4840d5e4f806f08
+SHA512: 87584d690d0ea50377debbc7401288cf2553e82cd9dc6669aa86d0c0ec2af16991712f7e9bc3cbe317b656a1252332755993eff20faabb004db83f69a622c075
+Description: A modern crash reporter for iOS
 Name: Cr4shed
 Author: Muirey03
-Icon: file:///var/jb/Applications/Cr4shed.app/AppIcon83.5x83.5@2x.png
+Icon: file:///var/jb/Applications/Cr4shed.app/AppIcon60x60@2x.png
 
 Package: com.nan.allemand-filza-script
 Architecture: iphoneos-arm64
@@ -9803,6 +9820,23 @@ Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
 
+Package: cm90.crossoveripc
+Architecture: iphoneos-arm64e
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: @CrazyMind90
+Installed-Size: 368
+Depends: mobilesubstrate, com.opa334.libsandy
+Filename: ./debians/roothide/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64e.deb
+Size: 17484
+MD5sum: e9df193a414386b07306ba84d754fbe0
+SHA1: 23633596c9c4c9f9fb7e89031d574672276fee11
+SHA256: 1c8ea11cad2e0d6d47fb2f50d30d34bbd4ac45cd36bc35f0809138a1122027ef
+SHA512: 0e17e72175764d3d2d83ac4a7eb3cc8803030f9415706b8976c325f9ef4fe6753ca72e780a688a7c25f072ba5ce968fe16b069405aa87977ac8e78bcce0a1e24
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Name: CrossOverIPC
+Author: @CrazyMind90
+
 Package: cn.zqbb.fix120hz
 Architecture: iphoneos-arm64e
 Version: 1.2.0-36-3
@@ -9902,6 +9936,29 @@ SHA512: 3efe2c3fe96ee378774524cd678a92fb7e165625dca3e06b8641db28ce500dd53683ddd0
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Name: mineland
 Author: 34306, DuyKhanhTran
+
+Package: com.cokepokes.libnotifications
+Architecture: iphoneos-arm64e
+Version: 0.3-6-1+debug
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 416
+Depends: firmware (>= 8.0), com.opa334.libsandy
+Filename: ./debians/roothide/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64e.deb
+Size: 17386
+MD5sum: 9302a8f7cab9239e166d9d566dbf7609
+SHA1: 6e0ef89a12d2daa3327642aed9f9e3b781919022
+SHA256: af17f7044ea1c9afef0ed5afd1550f2bf3d126688d6888dba085ff13d40e84ea
+SHA512: 322ce05a3c953fae00c00c109cbd385c6d78cbd7a7681b629aa9c4a6195debe7e360e1c2a8bd426cd02b39a9ff7a70a8a690b9324af6c20d9a8117f76d3bf70f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: libnotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CokePokes <cokepokes@gmail.com>
+dev: cokepokes
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64e
@@ -10197,6 +10254,23 @@ SHA512: a13537b8ad312a3d16e8c98040d83134331e5e58b0a3fb113e34955d5ffde9cada61d8e7
 Description: Ultimate iDevice Customization for iOS 14, 15 & 16
 Name: Lynx 2
 Author: MTAC
+
+Package: com.muirey03.cr4shed
+Architecture: iphoneos-arm64e
+Version: 4.3.1-1+debug
+Section: Tweaks
+Maintainer: Muirey03
+Installed-Size: 2356
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debians/roothide/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
+Size: 228226
+MD5sum: 898aa2c574b26e4d0f6cca12601583cb
+SHA1: ecd8623280a27d400f320b1d6ecd6e8f0acef438
+SHA256: 4c8536c7510e9cb00cd8826a70bf90badec7ad6c652568a3a7d5ff1cc3a3cd24
+SHA512: b935a5d92a82d73e4693640cae42d22a6e96db2a36d3c122260cff3ec1e998677d96a1934cf0936d2843f5416d35e8b04fb27c34a6fd3145bc262e2d562844eb
+Description: A modern crash reporter for iOS
+Name: Cr4shed
+Author: Muirey03
 
 Package: com.p2kdev.tinge
 Architecture: iphoneos-arm64e
