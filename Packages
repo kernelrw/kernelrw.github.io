@@ -1095,19 +1095,19 @@ Name: Hikari
 Author: Hitori
 Icon: file:///var/jb/Library/PreferenceBundles/HikariPrefs.bundle/icon@2x.png
 
-Package: com.hitori.misaki
+Package: com.hitori.misakii
 Architecture: iphoneos-arm64
 Version: 2.1.3
 Section: Tweaks
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1155
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debians/Rootless/com.hitori.misaki_2.1.3_iphoneos-arm64.deb
-Size: 326116
-MD5sum: a4c956b1251d0e31e3802750a1f17e5c
-SHA1: 4f9e79cf09da1a4b6ffc29a97c944b0cbe6d1b87
-SHA256: b4e26b0923e718a8b02003f2d2b4923fdb6f98aa32c4666cffd92b8165844241
-SHA512: da67cb0bff4a82b81d8308dc247ca1e1cca5f85a50007a8debde0cabfcb3aa7163ca9f5fce882b40ceb509c1c84e1964e24848cd4d505e0ec16660430c517a9f
+Filename: ./debians/Rootless/com.hitori.misakii_2.1.3_iphoneos-arm64.deb
+Size: 326152
+MD5sum: aa2373aaffb33fbccabadd77c8f97e62
+SHA1: 95d0ced1ddd05a39a61fdcb4ceaff55d6842e1f5
+SHA256: f0b1703d5a8b8c3e8190c034bb78e32683891ebbf461ade68929f0d75408c828
+SHA512: a443a62e94a9d7684dfd26bdb1afa9f5d5365072448d975b2f22aa2eba03d016743f281795c39c9d0f4fc075b0a9ea6761cf94863f54928c7888b8e67b083b6c
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Author: Hitori <mikasa-san@outlook.jp>
 Name: Misaki
@@ -1116,19 +1116,19 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::paid, compatible_min::ios15.0
 
-Package: com.hitori.misaki
+Package: com.hitori.misakii
 Architecture: iphoneos-arm64
 Version: 2.1.5
 Section: Tweaks
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1050
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debians/Rootless/com.hitori.misaki_2.1.5_iphoneos-arm64.deb
-Size: 300472
-MD5sum: b7925503a40478c4261f5b3fe8597003
-SHA1: 6894a3949ec123098192a75ff65cb0d50f88ce79
-SHA256: c562041fe84fdee857608372a01254b41665e62a6a9828436854c590a5357e29
-SHA512: 65cd2eb5317d836e4cb907de5d203cbb76c9d20396f27683cb64546567598aaa21e29412c57149badecaffd47e03326b7bfd21c6bb12c27466513adbfea96e69
+Filename: ./debians/Rootless/com.hitori.misakii_2.1.5_iphoneos-arm64.deb
+Size: 300468
+MD5sum: 57f4f5aa8540c17ba5e24e9a049a7c3a
+SHA1: f3ef5fb080b08acc3de4b97970f2d305ce2737fa
+SHA256: bc5f8e1dc81d7bc58a79c735c56ba25a2ba75c62d6d717a913203697f59537a6
+SHA512: a93feee2d28b68037bbd17bf6fd34cab8b8d1e4ca6571faa6fec521cb414de60ddfa872774b4447555d2095287f37bfbd2dd630dfb38004288b5fe7728c96ca3
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Author: Hitori <mikasa-san@outlook.jp>
 Name: Misaki
@@ -1137,19 +1137,40 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
 
-Package: com.hitori.passtext
+Package: com.hitori.misakii
+Architecture: iphoneos-arm64
+Version: 2.1.6
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1050
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debians/Rootless/com.hitori.misakii_2.1.6_iphoneos-arm64.deb
+Size: 300948
+MD5sum: 45fb2838bc8a96b676076d6ff5221c3d
+SHA1: cc96fb6c9d470dfb17b6054527469b81ade27af3
+SHA256: 1ccfd2ba1e86430844e20b8f54db9521958989e08501cada8993d8b37cb35088
+SHA512: 4750d67efdfff070d2f95bfa1163d82c717f0aaaaa7e3093c6b6788503ada0e0fe8a4708ba202179014c6d7e281d419957fbe28dbf0b0de28d54eee329f0f639
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
+SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
+Taq: cydia::commercial, compatible_min::ios15.0
+
+Package: com.hitori.passtextt
 Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 568
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/Rootless/com.hitori.passtext_1.0_iphoneos-arm64.deb
-Size: 129340
-MD5sum: 1ea06dd5e3131372ba28389e9e95cff1
-SHA1: c1813aaef8b9ef4fdc54f19bae3658aa9790b060
-SHA256: 666d9a6b1dcf1807f63ce1ce4d3e1d04a5c3546b9bb5e4ae319882002ab553dc
-SHA512: 75cb5f8298f75cf6d93403f07904cbd7c1c6a26fd5b9ba3e3123d1d2be9a6d3693ca4264b0a2bb576106fbd3e69f8f62b6d7a6278d52865cf0249e7b606eb783
+Filename: ./debians/Rootless/com.hitori.passtextt_1.0_iphoneos-arm64.deb
+Size: 129336
+MD5sum: c2d52beb4c044b69794b773aed926404
+SHA1: 7f02f22d2edeec37d4d02aa2a9a3dd8d4bf1ae9d
+SHA256: 0f324d6b4099ef1a9889ae6c32ec7ec1d1d69c385f6bbae0a24d16238d851e9e
+SHA512: 1585efeec91a01e5756921c9bd405c33a60354bb6d9faabf00d78b30177740e058b7c8b098d6af6cf95a5bc6d84a2999fea27a7bccf30ef4ca0f6cbe5a1918ba
 Description: Turn Your Passcode Numbers into Words with Style
 Author: Hitori <mikasa-san@outlook.jp>
 Name: PassText
@@ -3405,6 +3426,27 @@ Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Name: Return YouTube Dislike
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
+
+Package: wiki.qaq.chromatic.rootless
+Architecture: iphoneos-arm64
+Version: 3.0-rootless-release-1724937362.2952e67
+Section: Applications
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debians/Rootless/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64.deb
+Size: 3411968
+MD5sum: 20c5115496dccc9d954ad774bca7939c
+SHA1: 03f42fbf0f0af1f34e09691bc9daea32f4c11004
+SHA256: 83641c56ba1f84ba4a02cc5d947d05f88c8f9ddc29798f4509c4adb96b79e04a
+SHA512: e39fd3aea6a27e5e8a715662994713ace872faad0ad700e3e8dedf70e8f3147c8966abb32470890f7881b60318418a3c300b91f6e20e0bd0a099e937f25d782d
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Name: Saily (Rootless)
+Author: Saily Team <support.0xa1@qaq.wiki>
+Website: https://sailyteam.github.io/Saily/index.html
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm64
