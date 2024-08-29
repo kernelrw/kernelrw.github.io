@@ -1095,19 +1095,19 @@ Name: Hikari
 Author: Hitori
 Icon: file:///var/jb/Library/PreferenceBundles/HikariPrefs.bundle/icon@2x.png
 
-Package: com.hitori.misakii
+Package: com.hitori.misaki
 Architecture: iphoneos-arm64
 Version: 2.1.3
 Section: Tweaks
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1155
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debians/Rootless/com.hitori.misakii_2.1.3_iphoneos-arm64.deb
-Size: 326152
-MD5sum: aa2373aaffb33fbccabadd77c8f97e62
-SHA1: 95d0ced1ddd05a39a61fdcb4ceaff55d6842e1f5
-SHA256: f0b1703d5a8b8c3e8190c034bb78e32683891ebbf461ade68929f0d75408c828
-SHA512: a443a62e94a9d7684dfd26bdb1afa9f5d5365072448d975b2f22aa2eba03d016743f281795c39c9d0f4fc075b0a9ea6761cf94863f54928c7888b8e67b083b6c
+Filename: ./debians/Rootless/com.hitori.misaki_2.1.3_iphoneos-arm64.deb
+Size: 326072
+MD5sum: 629ac40b5784215d7cb0105f379c40d0
+SHA1: 66206d4051e44e3056247f7903e175120c5440a7
+SHA256: a001c64fbd19f5afbe406b07ea476935f2ed3c722416d36f35486e91ddcf9d5e
+SHA512: f740806e2001475602512d41ad48e33d097d79fd438b9d43bf1878397f823659ecbcb4dffdab2c2ead495c3c83659594c64eb168fbcf95c88adb00885d19854e
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Author: Hitori <mikasa-san@outlook.jp>
 Name: Misaki
@@ -1116,19 +1116,19 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::paid, compatible_min::ios15.0
 
-Package: com.hitori.misakii
+Package: com.hitori.misaki
 Architecture: iphoneos-arm64
 Version: 2.1.5
 Section: Tweaks
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1050
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debians/Rootless/com.hitori.misakii_2.1.5_iphoneos-arm64.deb
-Size: 300468
-MD5sum: 57f4f5aa8540c17ba5e24e9a049a7c3a
-SHA1: f3ef5fb080b08acc3de4b97970f2d305ce2737fa
-SHA256: bc5f8e1dc81d7bc58a79c735c56ba25a2ba75c62d6d717a913203697f59537a6
-SHA512: a93feee2d28b68037bbd17bf6fd34cab8b8d1e4ca6571faa6fec521cb414de60ddfa872774b4447555d2095287f37bfbd2dd630dfb38004288b5fe7728c96ca3
+Filename: ./debians/Rootless/com.hitori.misaki_2.1.5_iphoneos-arm64.deb
+Size: 300512
+MD5sum: 8287984af2c253d52bfe0b02c8b85c65
+SHA1: b5186ac258f49a639805878f7ea50f3ed271f01e
+SHA256: d7e7c3058ac8c2190a75bcb00101af93d85fad3ec876a3e62b38a36480de51f7
+SHA512: bcfea2e98aca2fd68501e51407322fef08c7346d603f9b970486dbdbd349224828da38238c040575dcee15e5ba9d5958a2df8cb7fd04ef6df4c2be51327f1024
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Author: Hitori <mikasa-san@outlook.jp>
 Name: Misaki
@@ -1137,19 +1137,19 @@ Depiction: https://chariz.com/buy/misaki
 SileoDepiction: https://chariz.com/api/sileo/package/com.hitori.misaki/depiction.json
 Taq: cydia::commercial, compatible_min::ios15.0
 
-Package: com.hitori.misakii
+Package: com.hitori.misaki
 Architecture: iphoneos-arm64
 Version: 2.1.6
 Section: Tweaks
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1050
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debians/Rootless/com.hitori.misakii_2.1.6_iphoneos-arm64.deb
-Size: 300948
-MD5sum: 45fb2838bc8a96b676076d6ff5221c3d
-SHA1: cc96fb6c9d470dfb17b6054527469b81ade27af3
-SHA256: 1ccfd2ba1e86430844e20b8f54db9521958989e08501cada8993d8b37cb35088
-SHA512: 4750d67efdfff070d2f95bfa1163d82c717f0aaaaa7e3093c6b6788503ada0e0fe8a4708ba202179014c6d7e281d419957fbe28dbf0b0de28d54eee329f0f639
+Filename: ./debians/Rootless/com.hitori.misaki_2.1.6_iphoneos-arm64.deb
+Size: 301268
+MD5sum: 96b3e7c4bc271ff6c739b2b7870f0046
+SHA1: b36929e9348c2c60da2843f3a15a6c8014133192
+SHA256: 16174e71d75c1979ff147a6cc753419199a28be8b61d2de163e0acb067a3d78d
+SHA512: d4fbfd337d58f62785451cfcad1e293c99a7093b5b0b7fb311f0ea3d96361c543fa0327d283e87956981d8a9a0319ac281a1ab73894237ebb3eba4a613426e48
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Author: Hitori <mikasa-san@outlook.jp>
 Name: Misaki
