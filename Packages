@@ -2483,6 +2483,25 @@ Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
 
+Package: com.sparklechan.swifty
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: FridasCoolCodingTeam
+Depends: curl, swift, zip, ldid, unzip, clang
+Conflicts: com.sparklechan.sparkkit
+Filename: ./debians/Rootless/com.sparklechan.swifty_1.4.1_iphoneos-arm64.deb
+Size: 2454720
+MD5sum: 66c9cb3b171bba9dc90621715a2cae4e
+SHA1: b40c8f64b032502ba63f583047ff35cc3891291f
+SHA256: 8ffc62bb22a821cab07db24c5712fc950a681a7496b3296f7b5c5723d20dfe80
+SHA512: 89c95cebfe42279908b2b435a6c14ed17f5f92cd4864f516946e0749e33818077bf299b10ec10026200a5361994f659de4faa3a31a75381e09a203afa4f48072
+Description: .
+Tag: role::hacker
+Name: FridaCodeManager
+Icon: https://dekotas.org/asset/fcm/icon.png
+Author: FridasCoolCodingTeam
+
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm64
 Version: 2.0.4
@@ -10243,6 +10262,25 @@ SHA512: 9b8c9623b2bbffe35497f1ee6e6afc3b8f4a1fb443c9de54994ed1d3fae6635495c2f9a7
 Description: Scripts to build rootful & rootless with Filza. Plus other handy Filza scripts. *Use regular Filza, NOT trollstore Filza*
 Name: Filza Scripts
 Author: pwnd2e & Sudo
+
+Package: com.sparklechan.swifty
+Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: Tweaks
+Maintainer: FridasCoolCodingTeam
+Depends: curl, swift, zip, ldid, unzip, clang
+Conflicts: com.sparklechan.sparkkit
+Filename: ./debians/roothide/com.sparklechan.swifty_1.4.1_iphoneos-arm64e.deb
+Size: 2455148
+MD5sum: 2b2bffcfcb90922b1efcc80291a5da75
+SHA1: 0131b36ac618be2fef9a7eb58d68f00190cc4346
+SHA256: fe3d849a7f388a526de83d37cc00372f60069d4607f7322bdfa3ace86f579a57
+SHA512: 369f75cde291ab8fc1d3988b402e34185e0070ef2bbc0a48a0e594c8691bba79c2fe53fee1e5be7a0dff17dc8f333620e9470996f3c69661e086bf19fc37dde6
+Description: .
+Tag: role::hacker
+Name: FridaCodeManager
+Icon: https://dekotas.org/asset/fcm/icon.png
+Author: FridasCoolCodingTeam
 
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
