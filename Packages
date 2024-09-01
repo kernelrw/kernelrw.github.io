@@ -2854,6 +2854,23 @@ Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
 Icon: file:///var/jb/Library/PreferenceBundles/Sonus13Prefs.bundle/Images/Sonus@2x.png
 
+Package: ios.nqt1195.ccwifijoin
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: nqt1195
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm64.deb
+Size: 8856
+MD5sum: 446bd258375f6b3ed88ab94cf922e1a0
+SHA1: 3ef90e4ae0c6b527805b862964e90afd455ce3ef
+SHA256: 9ff28d755c98e9c67b3157f0b7dc8eee5e315eff388d7c36120c3e8b726b5033
+SHA512: 71a308a23c62a0ff736520785ae644a624e0e8d1d813c47b91128a754ce41d96ae48d2b1de50737961c702b2b90836ded72a27ac1138c202ab2345b53dc697e6
+Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
+Name: CCWiFiJoin
+Author: nqt1195
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3-1
