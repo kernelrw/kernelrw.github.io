@@ -806,6 +806,25 @@ Author: dvntm
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
+Version: 5.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.ytlite_5.0.1_iphoneos-arm64.deb
+Size: 6084934
+MD5sum: 80023662089602b689ba52119202f14a
+SHA1: 42001f9b82f9bcfb3ddd9aa7254bb235d257de67
+SHA256: 2c7acf387a66361e6ace5b3923cacc1e8fc7b3facd8419a57337545bfe19c2f0
+SHA512: 057527fb5dc33b5103e16d60b61ef6dd38c3f1b2242796ac2202eb3735ca45ef101e31d3edf2d469f10ec19be54250560e81d4fd3131a98eaa3c39bd074ca1d2
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
 Version: 5.0
 Section: Tweaks
 Maintainer: dvntm
@@ -2100,6 +2119,22 @@ Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
+
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Applications
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debians/Rootless/com.opa334.trollstorehelper_2.1_iphoneos-arm64.deb
+Size: 1920334
+MD5sum: 3b73f08f43d6e3809f21c5f2ab798352
+SHA1: c847686ec46801a42c37039132c6f332b25da952
+SHA256: 41464fca0ad7baa60e14a3b57d6cb41e91b87a13689fdfbbc9bc1185fe6b27de
+SHA512: 6deefaffc36ba64269acdc94a478484f2e3c1b81cde45f7e9b2e8f14b49d03ae3dff0e3f45d7ff3350577f75051653c6d95c146d01473281b3d0c9bbd583bff7
+Description: Helper utility to install and manage TrollStore!
+Name: TrollStore Helper
+Author: opa334
 
 Package: com.p2kdev.alarmtime
 Architecture: iphoneos-arm64
@@ -4164,6 +4199,25 @@ Author: dvntm
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
+Version: 5.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.dvntm.ytlite_5.0.1_iphoneos-arm.deb
+Size: 6088812
+MD5sum: 13dbb0a3903312c34cbf9100848a8581
+SHA1: 32b47b6e3fa6656fd781b1fec1aeac022c57d626
+SHA256: 94d612edf4c46947434fac52f2704cdc6d1b829875c5c7d82bb05d4d6ac5a91d
+SHA512: 4c03ab39584f904792b7e32c83c258ed797e49ef87e8742b5aef393fb5b9516fd85518f94094f283e35f737077cfc4479f05556dc441137cd3ec51525889fa8f
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
 Version: 5.0
 Section: Tweaks
 Maintainer: dvntm
@@ -4904,6 +4958,22 @@ Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
+
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Applications
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debians/rootful/com.opa334.trollstorehelper_2.1_iphoneos-arm.deb
+Size: 1919648
+MD5sum: ca213f963a5a097da923e339c1bdbdd8
+SHA1: e3ccfe4b9fd82b2e36c8fc60a50e5aebe04f17eb
+SHA256: 446cb7c61b2e46d92cce9c26b2bff509e7d95df200370fa51fd2a6d098602eec
+SHA512: 01284cf5a16eb694334865571ffd02fa63a846780240b33881b0c1d732d0605b749c22b5f85afb85f294abacee1c68f8df9e94f4a4461b37ec57115c8f66113d
+Description: Helper utility to install and manage TrollStore!
+Name: TrollStore Helper
+Author: opa334
 
 Package: com.p2kdev.tinge
 Architecture: iphoneos-arm
@@ -9926,6 +9996,25 @@ MD5sum: d1f8d86cac67289e7759f57bfa852072
 SHA1: 7a0b66825697029383ea08a97d19f580fbd2fce7
 SHA256: e877baddb3c782d3f6d1c9d755636704d53f6f712ee3e2e636f90188c22c212c
 SHA512: 51a2b266e0ee5adcec36e383f5063f013e15efc9f89f775cb6a53af63c0ef5285adf34760f285166b8c9873d732287cf1158a7ccfd5407ba030be4ed4baaed03
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.dvntm.ytlite_5.0.1_iphoneos-arm64e.deb
+Size: 6085536
+MD5sum: b9fd72fabbe71f5e0ecd91aabe90db91
+SHA1: ef1447aa786504e7e676d521c160c774c0b8c84e
+SHA256: 0545b643a39e9c54bebf0c50b441b59a6fc7b751de5e258ef7bf7470a6c2252b
+SHA512: 54143de4e120f9c9fad1e7127c121a90ccd49ed3acf67b11c9b5c122646b6b71567292fc24fc800b35d05c29736c6fb3ac4508f1aaaf6cd7eaf01fc7cdf4c46c
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
