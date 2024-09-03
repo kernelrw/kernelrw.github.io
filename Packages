@@ -2537,6 +2537,25 @@ Name: FridaCodeManager
 Icon: https://dekotas.org/asset/fcm/icon.png
 Author: FridasCoolCodingTeam
 
+Package: com.sparklechan.swifty
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: FridasCoolCodingTeam
+Depends: curl, swift, zip, ldid, unzip, clang
+Conflicts: com.sparklechan.sparkkit
+Filename: ./debians/Rootless/com.sparklechan.swifty_1.5_iphoneos-arm64.deb
+Size: 2518616
+MD5sum: 030482d03e3486fd2e5d3152fd401edc
+SHA1: 02ad6c6f3c31e0a896c365f59caf1bfd83b3e66d
+SHA256: c804f8155d558aa6f0ed164c0cd5fe2a1d07f84525666a022d8dc88af61ef337
+SHA512: 46cf300cfc6fd37c523098a8a02d8b0232805f62b1680a31ca4ff4f991dfa1a4650e2662cfb53071b3a04f5fda8e2988c73b68ed6310b734228707acc34a8c93
+Description: .
+Tag: role::hacker
+Name: FridaCodeManager
+Icon: https://dekotas.org/asset/fcm/icon.png
+Author: FridasCoolCodingTeam
+
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm64
 Version: 2.0.4
@@ -10382,6 +10401,25 @@ MD5sum: 2b2bffcfcb90922b1efcc80291a5da75
 SHA1: 0131b36ac618be2fef9a7eb58d68f00190cc4346
 SHA256: fe3d849a7f388a526de83d37cc00372f60069d4607f7322bdfa3ace86f579a57
 SHA512: 369f75cde291ab8fc1d3988b402e34185e0070ef2bbc0a48a0e594c8691bba79c2fe53fee1e5be7a0dff17dc8f333620e9470996f3c69661e086bf19fc37dde6
+Description: .
+Tag: role::hacker
+Name: FridaCodeManager
+Icon: https://dekotas.org/asset/fcm/icon.png
+Author: FridasCoolCodingTeam
+
+Package: com.sparklechan.swifty
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: FridasCoolCodingTeam
+Depends: curl, swift, zip, ldid, unzip, clang
+Conflicts: com.sparklechan.sparkkit
+Filename: ./debians/roothide/com.sparklechan.swifty_1.5_iphoneos-arm64e.deb
+Size: 2517552
+MD5sum: ec038a8f2b4697be6bb8ce8982ceb1af
+SHA1: 3ecf9027978325589f25469ae1d82fd96dbd57b3
+SHA256: 356a486eb78dc06bd2a53d3347557d4e56261c5cd983b05fb23f31c9816070fc
+SHA512: e4fb6743995f941912a398c03871397001b2a9cb3f38ac7fd1b62f335b7cef4055375c575898bee5aebc378c64641015076135f76f0c6f27694cddc34da87d7a
 Description: .
 Tag: role::hacker
 Name: FridaCodeManager
