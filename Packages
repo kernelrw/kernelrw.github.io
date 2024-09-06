@@ -952,6 +952,23 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.fouadraheb.ffuckoff
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Fouad Raheb
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.fouadraheb.ffuckoff_2.0_iphoneos-arm64.deb
+Size: 53244
+MD5sum: 641fac8b53dbf97ef6d0bafb023087fe
+SHA1: 02b4eff7307e4c114a53991ff2df863509f588f0
+SHA256: 06e8bc29b13d571368c77d2a090024a8c3aceb1648bf2074db9e8bccb2ea5770
+SHA512: f26399980d0ab688a499afa07c96cb1cab5bbcacb2f1f54045cbe2bafa1125cbb14ddd3ad932c21cdae989af9d238c49a45c4a28450950e89a2477ff0d962ad4
+Description: Crack for all fouad whatsapp tweaks (watusi 3, contactsync, stalky, onlinenotify) . Login with any account within the tweak settings.
+Name: Fouad Tweaks Crack
+Author: Fouad Raheb
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.33
@@ -4348,6 +4365,23 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.fouadraheb.ffuckoff
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Fouad Raheb
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.fouadraheb.ffuckoff_2.0_iphoneos-arm.deb
+Size: 51764
+MD5sum: f85e7d9bea33a0fb8db03d1b510b7f3a
+SHA1: c092c28a38286dddcfd4f51779fbff511dce0bd5
+SHA256: 2bf1b1a22cf9c478dcd1b4990261a6783cb5b36601b0eb5335c95881f973a2ac
+SHA512: 4e1a703c28d33a555b8d83b8a7c8c07759d7575d42c452f0a35215d7f36fc2babbcf2ec2c076568ecb9fdf806edbb9f39bac88eb4bf12c8605b4a9c513442523
+Description: Crack for all fouad whatsapp tweaks (watusi 3, contactsync, stalky, onlinenotify) . Login with any account within the tweak settings.
+Name: Fouad Tweaks Crack
+Author: Fouad Raheb
 
 Package: com.haoict.instanoads
 Architecture: iphoneos-arm
