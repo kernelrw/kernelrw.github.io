@@ -2577,6 +2577,25 @@ Author: FridasCoolCodingTeam
 
 Package: com.sparklechan.swifty
 Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Tweaks
+Maintainer: FridasCoolCodingTeam
+Depends: curl, swift, zip, ldid, unzip, clang
+Conflicts: com.sparklechan.sparkkit
+Filename: ./debians/Rootless/com.sparklechan.swifty_1.5.1_iphoneos-arm64.deb
+Size: 3157404
+MD5sum: 2ebbc82d18c74c0e574e7d93d95e32b3
+SHA1: 5b50544c1908cb25dfe5abb33b162b4d92b2c5b0
+SHA256: ae828354914e35480983809a1011b1789c5bbf04d04d5c3331594047a16676d5
+SHA512: 535db0bda53efa4023f3ed7487716878c3616359f72b95a66594a8c6bd176dddc8a6a7aeab53293ece841e5a554f13df4aa613f541114e16641a52cf5488467a
+Description: .
+Tag: role::hacker
+Name: FridaCodeManager
+Icon: https://dekotas.org/asset/fcm/icon.png
+Author: FridasCoolCodingTeam
+
+Package: com.sparklechan.swifty
+Architecture: iphoneos-arm64
 Version: 1.5
 Section: Tweaks
 Maintainer: FridasCoolCodingTeam
@@ -10496,6 +10515,25 @@ MD5sum: 2b2bffcfcb90922b1efcc80291a5da75
 SHA1: 0131b36ac618be2fef9a7eb58d68f00190cc4346
 SHA256: fe3d849a7f388a526de83d37cc00372f60069d4607f7322bdfa3ace86f579a57
 SHA512: 369f75cde291ab8fc1d3988b402e34185e0070ef2bbc0a48a0e594c8691bba79c2fe53fee1e5be7a0dff17dc8f333620e9470996f3c69661e086bf19fc37dde6
+Description: .
+Tag: role::hacker
+Name: FridaCodeManager
+Icon: https://dekotas.org/asset/fcm/icon.png
+Author: FridasCoolCodingTeam
+
+Package: com.sparklechan.swifty
+Architecture: iphoneos-arm64e
+Version: 1.5.1
+Section: Tweaks
+Maintainer: FridasCoolCodingTeam
+Depends: curl, swift, zip, ldid, unzip, clang
+Conflicts: com.sparklechan.sparkkit
+Filename: ./debians/roothide/com.sparklechan.swifty_1.5.1_iphoneos-arm64e.deb
+Size: 3156768
+MD5sum: 38dbc6cb61d8a6e0c954a61ede65ace4
+SHA1: 6b392ee9cf5ffd41a8e1991d0ea48941f75e5c10
+SHA256: 934bf7be51c2489bdeb850d92df7df9d28cef35d5aef6563b29387d642a04e91
+SHA512: cbca346cc4ec8450cb370651da239bf69a7e74e1743aa009b74aa2c54cb8ec67ff2782dc06330c84a8b9e146459564e851e77080d3475ada7fdc266d1d6ee3ae
 Description: .
 Tag: role::hacker
 Name: FridaCodeManager
