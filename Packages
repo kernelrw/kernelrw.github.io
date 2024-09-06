@@ -825,6 +825,25 @@ SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.js
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 6099626
+MD5sum: 0e980aabb1450344e5c83059d4015d6c
+SHA1: 51a039c64fc396cb18bfa31be88087f140ee8616
+SHA256: 7fa04949c8c7bb0ab2181c47da8392c877d7a702cd871e8cccd7cab297e132e7
+SHA512: 91378bec9d297d4f2c4eeaa149ba6b4addb644ec245da3203a48cbcc95c6ff427e2136627223ef68865b980b352f1c54ef3df3621f1895c54cfa712e24422943
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
 Version: 5.0
 Section: Tweaks
 Maintainer: dvntm
@@ -1918,6 +1937,25 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
+Package: com.misakaproject.frendacc
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 4332
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/Rootless/com.misakaproject.frendacc_1.0.1_iphoneos-arm64.deb
+Size: 1403642
+MD5sum: 4a112dcdadf172be51002771c810333a
+SHA1: f9c1f378f28dc86949b6b289d60715d05dca2bfa
+SHA256: af45cafbbaac0faa851db45b94d9120f9a145c166c9da19cd1fc18052b0ce8e5
+SHA512: 6b524539fa7b0b5139e112e46d417d2c46ce7eca9f7e9656383adaa9a525cd983056856ece10ab5bd35809ee2fca693e72633aafba6979317ed7a0c119cc70c0
+Description: FrendaCC is custumize CC on Jailbroken devices for iOS15 & 16.
+Name: FrendaCC
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
+
 Package: com.muirey03.cr4shed
 Architecture: iphoneos-arm64
 Version: 4.3.1-1+debug
@@ -2575,6 +2613,25 @@ Name: ExactTime
 Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
+
+Package: com.sugiuta.lpmnotification
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.sugiuta.lpmnotification_1.0.0_iphoneos-arm64.deb
+Size: 7604
+MD5sum: 4542861236f5c0334cdb603e01e1a51c
+SHA1: 104f0e9333e1edb67216702ea28387ec6c43bc0d
+SHA256: cd134b8a0540a7790124a8e5e966908dfb714d72b47561f7b97720f4f34f3a95
+SHA512: 4f312f066a54f906db255143f2ab4f425a9a60ca7fe6fef14cdf71e628388dd2a14fe93bb78beabf797600cddca504fb3c1e2c5356ef5e7c6b65a5cf98f62c66
+Description: Remove LowPower Alert for iOS16.
+Name: LPMNotification
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.lpmnotification
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/icons/LPMNotification.png
 
 Package: com.sugiuta.plampycc
 Architecture: iphoneos-arm64
@@ -4229,6 +4286,25 @@ MD5sum: 13dbb0a3903312c34cbf9100848a8581
 SHA1: 32b47b6e3fa6656fd781b1fec1aeac022c57d626
 SHA256: 94d612edf4c46947434fac52f2704cdc6d1b829875c5c7d82bb05d4d6ac5a91d
 SHA512: 4c03ab39584f904792b7e32c83c258ed797e49ef87e8742b5aef393fb5b9516fd85518f94094f283e35f737077cfc4479f05556dc441137cd3ec51525889fa8f
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.dvntm.ytlite_5.0.2_iphoneos-arm.deb
+Size: 6095998
+MD5sum: 1a662ef033f79affc3f1d4b0b55ba738
+SHA1: 90e584efce3d6f5a9c50708f66e60017589bf10d
+SHA256: 5f43163e37c1f52f4c4445d56fc6a1add97832880a7b65e14c509eb79b728d90
+SHA512: 51977a5b94678b440517f5b167c66902e936d439ff5a0b0673478f1fa9a095cbd153d259271e314f43d00ff2302bf0241765e028795b85b4ce09e37883e5539a
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
@@ -10034,6 +10110,25 @@ MD5sum: b9fd72fabbe71f5e0ecd91aabe90db91
 SHA1: ef1447aa786504e7e676d521c160c774c0b8c84e
 SHA256: 0545b643a39e9c54bebf0c50b441b59a6fc7b751de5e258ef7bf7470a6c2252b
 SHA512: 54143de4e120f9c9fad1e7127c121a90ccd49ed3acf67b11c9b5c122646b6b71567292fc24fc800b35d05c29736c6fb3ac4508f1aaaf6cd7eaf01fc7cdf4c46c
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16124
+Depends: mobilesubstrate
+Filename: ./debians/roothide/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
+Size: 6099804
+MD5sum: 971dc6e215031ef7d4cf167f5b0c3944
+SHA1: 8e6c0645a3ae4684fe5258fbae33e4f8fb5ee399
+SHA256: eb3f94022e499fafe4c898e8f58c6da17c02f1d5c269761b1d1e19930c3409f5
+SHA512: 906286b93deb1df00be902a02a754317245beec3d1aed6716428552465a3d322db9595fc22ac03cfbff54dee33b6db95648b94ab20e7a6c176ce1def09044f6a
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
