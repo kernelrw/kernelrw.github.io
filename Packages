@@ -1231,6 +1231,24 @@ Author: Hitori <mikasa-san@outlook.jp>
 Name: PassText
 Icon: file:///var/jb/Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
 
+Package: com.hitori.zeppelinrebornn
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Hitori
+Provides: com.alexzielenski.zeppelin
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Filename: ./debians/Rootless/com.hitori.zeppelinrebornn_1.2_iphoneos-arm64.deb
+Size: 2346984
+MD5sum: c33378ac4b87dd6c4d21e8aa7e5ad107
+SHA1: b71655981672341db5c6893f99117b6d5995a780
+SHA256: 976c08a0e877e69051ea315b523d6ef6dce3345bb11d98abf601b24583cb645f
+SHA512: a4fd47c794fafe7b9fdc0e74659a58be26a25ff6633ba079ad9e1623d6c680d2f64529f844260ddc61a6454a0b866d7dcddac84b1b265e8f2e4f3e22d4f2db76
+Description: Adds an image or GIF next to the carrier text or time!
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+Author: Hitori
+
 Package: com.ichitaso.youtubepatcher
 Architecture: iphoneos-arm64
 Version: 0.5
@@ -4509,6 +4527,24 @@ Description: Turn Your Passcode Numbers into Words with Style
 Author: Hitori <mikasa-san@outlook.jp>
 Name: PassText
 Icon: file:///Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
+
+Package: com.hitori.zeppelinrebornn
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Hitori
+Provides: com.alexzielenski.zeppelin
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Filename: ./debians/rootful/com.hitori.zeppelinrebornn_1.2_iphoneos-arm.deb
+Size: 2345580
+MD5sum: 27d0e5ccd63012c97f9b062fdd04d227
+SHA1: d4b1f4295237b56b1fa34fc5bc1c721f40b17800
+SHA256: 81c94db04db61fdeadf3b7498a0e8c334f69f693ce4cde65aac313853fc8cf02
+SHA512: a306ce18d775a48507f63adf961aa2bee7a33ad9bd0bf257a94fc938a2d54b9f080ccb353cd1316649b5e6846d111e01ae38721f280efd694973a0d190ae2374
+Description: Adds an image or GIF next to the carrier text or time!
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+Author: Hitori
 
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm
