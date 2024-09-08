@@ -446,7 +446,7 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
 
-Package: com.cydiageek.customlpm
+Package: com.cydiageek.customlpmm
 Architecture: iphoneos-arm64
 Version: 1.0.2
 Priority: optional
@@ -454,12 +454,36 @@ Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 610
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debians/Rootless/com.cydiageek.customlpm_1.0.2_iphoneos-arm64.deb
-Size: 67540
-MD5sum: 1e387d00579efade0120547d5ec56e77
-SHA1: ef7eee47370c2c09b83a06b858934c044cecb2a9
-SHA256: 9b8d667a6b3b6e3747b1ab78cf75b5d04888f2e818b0a36e5a19ef6031025e5f
-SHA512: b07c92cfd73e13faf422df3c057d5458d222c3aa8956f2be933cf29b0560aa72e2e297addd8b5c3d2b38d6fdf107c9792ed99e8f605c7c20c919efc7d1d1b142
+Filename: ./debians/Rootless/com.cydiageek.customlpmm_1.0.2_iphoneos-arm64.deb
+Size: 67816
+MD5sum: 408ba57485a5c432a7595a91cc300329
+SHA1: af12b717f74cc09e4809448326812c0c50c31d46
+SHA256: 4608694f04488b0763e4348d327e147011568e7544b7b8b3f1dac56d35e9b3aa
+SHA512: 95384cca151e8f271d5025d7f0c65d2de3bcb03522195fc11906ab70457bf4812d05d2288ed88395360fa4f6a77e1f5738f6e1ee81f944fd5907df4585555498
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Description: Customization for the Low Power Mode.
+Tag: purpose::extension
+Name: CustomLPM
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/CustomLPM.bundle/CustomLPM@2x.png
+
+Package: com.cydiageek.customlpmm
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 612
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.customlpmm_1.0.3_iphoneos-arm64.deb
+Size: 68232
+MD5sum: c8cefde6bd102e6d045f114b0f23bb79
+SHA1: d4250783096b853fe8a9f4a8899579576a2a06c4
+SHA256: 62e4a71d3f113ff641714d00e55209ef574abd16785da733c633408d68b127a4
+SHA512: b544629a861911e36c17ea008abf141b73fea4e443037b897e02f9dd305a9567d7442062fb71b2eded220392caa3f97d1c322aeb8830885e947ee704144fdc28
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
 Description: Customization for the Low Power Mode.
 Tag: purpose::extension
@@ -4059,7 +4083,7 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
 
-Package: com.cydiageek.customlpm
+Package: com.cydiageek.customlpmm
 Architecture: iphoneos-arm
 Version: 1.0.2
 Priority: optional
@@ -4067,12 +4091,36 @@ Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 610
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debians/rootful/com.cydiageek.customlpm_1.0.2_iphoneos-arm.deb
-Size: 66296
-MD5sum: ba077c4d79dc28a5bf8eaf8118ecdfc9
-SHA1: 93611d32b0983d0324163d7572e942330f127a06
-SHA256: b2d012eb681f48d1f34fbf480641fd7647a5ecc16aa1b237100d8b0c44f277a7
-SHA512: 7e3f94d6bc445e0ef591dd7c7aab6e55052dd70a66e11ebd11ce0ddcc3c2e8a91ce402881ae18128dc17199cfe453eaec0b49b59a0efe43441750f8d5feac114
+Filename: ./debians/rootful/com.cydiageek.customlpmm_1.0.2_iphoneos-arm.deb
+Size: 66312
+MD5sum: 902a5997bf7aa3e20736a9b338410612
+SHA1: 19d2523839296082a58ee69bf99b36eafb9b76b4
+SHA256: 42e97a326201d411b5a22c43e5856ec805e2e3bf8f20a4e7bc941f223c87215f
+SHA512: 397680349b234e2165fee8aadd269630a4c0918335f82c75f48f8e631b58ac340a07dfa3f2d388761fdcd200a6e0bf225ae1b573d7dc8150f680795fbca226e7
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Description: Customization for the Low Power Mode.
+Tag: purpose::extension
+Name: CustomLPM
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/CustomLPM.bundle/CustomLPM@2x.png
+
+Package: com.cydiageek.customlpmm
+Architecture: iphoneos-arm
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 612
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/rootful/com.cydiageek.customlpmm_1.0.3_iphoneos-arm.deb
+Size: 67164
+MD5sum: 1a510a59ab52e23536d928c73308055e
+SHA1: cd4960cbd0a29e051a42358155ca14176282ca3d
+SHA256: dda399989257b91ce06f2def8037e5df3790fda10d1c21e9036104aad64638e2
+SHA512: 02cbcc0f49a2518ff34f34698091ea6b174d5c0ee52a6c68052b0d223bdf3dac2ecaf6d2dfbd12f24563a6877f6c4ba0476b4672fdcb151c8f28206a07354ef7
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
 Description: Customization for the Low Power Mode.
 Tag: purpose::extension
