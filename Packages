@@ -2461,6 +2461,23 @@ Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
+Package: com.ravand.truecallergold
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.ravand.truecallergold_1.0.0_iphoneos-arm64.deb
+Size: 11420
+MD5sum: c2ef93b0df5a8f37d6eb7b39fd172b6b
+SHA1: fb44a86a3b1e749d21b58bb7b8e53927b45f5b2a
+SHA256: 0fa4e2427aa92d936e5b1d4f9ac8b170eacb79d8dbcdfbc92232acd8442b1521
+SHA512: 548df56493719418ff047629ae89ba1e440d997890bf80399c0e29d65220fa49736c1cfba90ca69fe47cf2dbb4ff1967d1bfbfb6f5aae66b30aaa4d23f5ac733
+Description: Cracked By Ravand
+Name: Truecaller Gold
+Author: Ravand
+
 Package: com.rpetrich.powercufff
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -5367,6 +5384,23 @@ Description: A beautiful Dark mode theme for Laetus .
 Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
+Package: com.ravand.truecallergold
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.ravand.truecallergold_1.0.0_iphoneos-arm.deb
+Size: 10904
+MD5sum: 3d77129ee17d55dbcd86d6b98079b5e5
+SHA1: e4b668b0ce1661825ceae5c16d9a1b04151029f6
+SHA256: 8f8a7ab2227ace85a6d2cc775784073efb06e2902674ad4f3e7113af116fabbf
+SHA512: a7ddc852ea39d07ef0f35535bf94ef67cc32553c2a89afc583c59be62fbcc5c771dba2f955c764c4165e796e93d649b8f45d8dff1fa7e2f8b99d15bacc4c04e8
+Description: Cracked By Ravand
+Name: Truecaller Gold
+Author: Ravand
 
 Package: com.rpetrich.powercufff
 Architecture: iphoneos-arm
