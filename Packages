@@ -2343,6 +2343,23 @@ Name: Globalize
 Author: parrotgeek1
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
 
+Package: com.phucdo.plampyuipro
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Phucdo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/Rootless/com.phucdo.plampyuipro_1.0_iphoneos-arm64.deb
+Size: 726416
+MD5sum: 36ba2d87fdd6af443a0825e68dd0c8a2
+SHA1: ef71b0caf7297522ee7e0a68baaf6bb2ea1e1366
+SHA256: 4e355f036bfb8cfe32e96a879c84ac1348a44c245e9580cfac6f7a939156ee9d
+SHA512: 19a740c72ab03816b5f1076ad05b3acebce67c665d90f3295eb8e6ce6ea0c423686422f3881bf92d2d5879a1ef3146cde86337319995590bf7f027da2ac43da6
+Description: A control center beautification tool for iOS 15/16. Change the icons/effects of the native modules, modify the background wallpaper, etc.
+Icon: https://repo.cypwn.xyz/packages/PlampyUIPro-Rootless/icon.png
+Name: PlampyUIPro
+Author: Phuc Do
+
 Package: com.ps.ytx
 Architecture: iphoneos-arm64
 Version: 1.6.11
@@ -5329,6 +5346,23 @@ Description: Disables almost all region differences/restrictions on iOS devices.
 Name: Globalize
 Author: parrotgeek1
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
+
+Package: com.phucdo.plampyuipro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Phucdo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/rootful/com.phucdo.plampyuipro_1.0_iphoneos-arm.deb
+Size: 723140
+MD5sum: c85a3054240816a35101b9953a378c8e
+SHA1: 018ebf9dd784e0f1eef5a15215b1b2273fb8811d
+SHA256: a2ed822112d60e3a2486d0882d1b7f66cc41e34d2b0dd4187858f107b4209b67
+SHA512: 4ca6a204763219b26ac0aea6f8325f25e5b7359ad88cfb7b16cafb7b70c8e149f70265b757068d4f6e19289e9e99d21b4bce7dddbf4221b3fb261effebf8d0eb
+Description: A control center beautification tool for iOS 15/16. Change the icons/effects of the native modules, modify the background wallpaper, etc.
+Icon: https://repo.cypwn.xyz/packages/PlampyUIPro-Rootless/icon.png
+Name: PlampyUIPro
+Author: Phuc Do
 
 Package: com.ps.ytx
 Architecture: iphoneos-arm
