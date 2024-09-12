@@ -1308,6 +1308,24 @@ Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
 Name: Zeppelin Reborn
 Author: Hitori
 
+Package: com.hitori.zeppelinrebornn
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Hitori
+Provides: com.alexzielenski.zeppelin
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Filename: ./debians/Rootless/com.hitori.zeppelinrebornn_1.4.2_iphoneos-arm64.deb
+Size: 2980644
+MD5sum: 09e355234d0744e5a998ac84b05b7a3e
+SHA1: 0da4f3558faa9d8411bf47a5c184536a325f090a
+SHA256: 6c8ccd090330c7e78d4d9f2a4003981b806c07f3a30a007681f60c84f65f3545
+SHA512: 8383480e43dc142510d1742326911d20b15956f8459fbf1689ff799d3e0e42eee70c40b0e8c3d65082d9574775112828359e8f49341edccdfaa9dab9eb03dee6
+Description: Adds an image or GIF next to the carrier text or time!
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+Author: Hitori
+
 Package: com.ichitaso.youtubepatcher
 Architecture: iphoneos-arm64
 Version: 0.5
@@ -4710,6 +4728,24 @@ MD5sum: d4937770a88e041ec66258f380d82fe7
 SHA1: e3861bfb636908f28a918d1b8b585fa74a3877e7
 SHA256: af555aa55df188c66a0ba927568a62e524ae3aceaf59ff1dd771f1e9cfda34f1
 SHA512: 9a5be4f7aa642f4aec5552b3818f6f232f508254e52e189e6ce5d4f086500ff27cb872268ba949dfbc94bf972a7cf14b0fd0d302f959f6306887ec287485ac9f
+Description: Adds an image or GIF next to the carrier text or time!
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+Author: Hitori
+
+Package: com.hitori.zeppelinrebornn
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Hitori
+Provides: com.alexzielenski.zeppelin
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Filename: ./debians/rootful/com.hitori.zeppelinrebornn_1.4.2_iphoneos-arm.deb
+Size: 2980056
+MD5sum: 43a1341cfd71fea569b7688f0d663951
+SHA1: 996176efb7fced1e2a8533a021889d1afdce5d83
+SHA256: 015f21621b17c011d097ffdac88809c7a25f4f75eb9e6456e0da1bd0a0d2a271
+SHA512: c3106468582a1d6b4812d50ea3e2331e0d2bf6695f9f337b8fc989e371edf0f6168dc8ff85e139e9e6215788440772d73b5fbd7eecd0045aded4b70302b37fcb
 Description: Adds an image or GIF next to the carrier text or time!
 Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
 Name: Zeppelin Reborn
