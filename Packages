@@ -79,6 +79,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crossoveri
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: crazymind90
 
+Package: com.0xkuj.nopastealerts166
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Filename: ./debians/Rootless/com.0xkuj.nopastealerts166_1.0.0_iphoneos-arm64.deb
+Size: 4116
+MD5sum: ccb257ba74fea45aa8ed03a3794c35ff
+SHA1: 85c1d81829f0ed3bf7e047c89fe9ae09e2dcd28a
+SHA256: c6927c8f6a63b6ac78b70b7b3c9049b142cbbdaf4fee7eb74112d45d244d3df1
+SHA512: 4d5ab5f4ea5a8cb57c132b35b715b844331635d5c5eda37f7fec801b36625ab1fc4ea8aeb66322ed251511d4080d5636935b4e986a7b69dc0b4cd9aee8c7f853
+Description: Remove the annoying paste confirmation added on iOS 16
+Name: NoPasteAlerts16
+Author: 0xkuj
+
 Package: com.0xkuj.primedeck
 Architecture: iphoneos-arm64
 Version: 1.3.0
@@ -163,6 +180,23 @@ SHA512: b413c0a103801b844abcdfc6ece77eaffa9dd47228953d3f84f655631cbbdd89652bfb6c
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Name: mineland
 Author: 34306, DuyKhanhTran
+
+Package: com.82flex.iconrestoree
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 444
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/Rootless/com.82flex.iconrestoree_1.7_iphoneos-arm64.deb
+Size: 31988
+MD5sum: d98ca0bb008340df33a2d21db444b96d
+SHA1: a6ab9e4a8939b5698577ec1081dc9bb3a2990d1c
+SHA256: 9b5b59cc72cf32f1fbfc0f18fd3470682baba9ba999a668c022048e6d0fb7ec8
+SHA512: ff00121aaf41662b0081f78992f918af2867bc3dca62c35c3599b6c79735ccf75814431fb6bc96ee085e80d17eee16f65b3573912ddeae5c2fa7c76bc6077373
+Description: Save and restore the layout of your icons.
+Name: Icon Restore
+Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.touchviss
 Architecture: iphoneos-arm64
@@ -2086,6 +2120,29 @@ Name: Cr4shed
 Author: Muirey03
 Icon: file:///var/jb/Applications/Cr4shed.app/AppIcon60x60@2x.png
 
+Package: com.nahtedetihw.loopvideoss
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Filename: ./debians/Rootless/com.nahtedetihw.loopvideoss_1.0_iphoneos-arm64.deb
+Size: 3108
+MD5sum: bebd7ba21e5d476f8127720afff6f3e0
+SHA1: bc1d2bd20fbecd27d2e4c32361f463fc5bbba89a
+SHA256: 6fb8274138a060737c1af039dbf776201009e83ef24129f0d27ab91e89ee66f1
+SHA512: 7c7529bbff3789f3f1d3fecc4ba1c40b02f9ceb3873d17b637aa308daa2cb413a89f7f99dffb18799fb068a56988854e2a7eed2c3e6dbb1233ced89e46a3fc43
+Homepage: https://nahtedetihw.github.io
+Description: Loop videos in Photos app!
+Tag: role::enduser
+Name: LoopVideos
+Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.loopvideos-rootless.html
+SileoDepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.loopvideos-rootless.json
+ModernDepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.loopvideos-rootless.json
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.loopvideos-rootless/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.7.1
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
 Package: com.nan.allemand-filza-script
 Architecture: iphoneos-arm64
 Version: 0.1.0
@@ -3843,6 +3900,23 @@ Author: chaoge <571652571@qq.com>
 dev: chaoge
 Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
 
+Package: com.0xkuj.nopastealerts166
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Filename: ./debians/rootful/com.0xkuj.nopastealerts166_1.0.0_iphoneos-arm.deb
+Size: 3804
+MD5sum: c1287f25811330a9268470a7d05abf4f
+SHA1: 2f4af13a20a34d9b4a3ce4283e2f7b54c0feb542
+SHA256: b6da9409ad6aebe4f2ab5a5fcd99e9f2d9b85039c002d7aca14c5c0e4a79ffda
+SHA512: e126cb9e9fe355ed81067810593bc304975b2e73bc33fc62cf085c58ada3a22772dc5f5d2051a21287b3381750ec5ec8aac4c5c50c4656c7fb3819784c617ef3
+Description: Remove the annoying paste confirmation added on iOS 16
+Name: NoPasteAlerts16
+Author: 0xkuj
+
 Package: com.0xkuj.primedeck
 Architecture: iphoneos-arm
 Version: 1.3.0
@@ -3927,6 +4001,23 @@ SHA512: 90ae79a386b88c925e1daf929b6e87998849d7c32ee7a3120af2a103cb786d40824823f9
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Name: mineland
 Author: 34306, DuyKhanhTran
+
+Package: com.82flex.iconrestoree
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 444
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootful/com.82flex.iconrestoree_1.7_iphoneos-arm.deb
+Size: 31180
+MD5sum: a2d5dbcd0e614bbbc09ff18190e4fe73
+SHA1: bef46fec8bf59489c2bd5064200d8e6a8124ff77
+SHA256: 7f2938560bd6c201dc7acce06dde3f509eb71e062713cc993e2d7d38017a668f
+SHA512: 269a49fab233670890f831aadac526693ddf12dc2697059469b7f4b128cb695882a1ca4863e207f076bc4b6a6ba17032f311cdce9df268ce3e8037c2f6f6d975
+Description: Save and restore the layout of your icons.
+Name: Icon Restore
+Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.touchviss
 Architecture: iphoneos-arm
@@ -5234,6 +5325,29 @@ Name: YellowPages 2
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
+
+Package: com.nahtedetihw.loopvideoss
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Filename: ./debians/rootful/com.nahtedetihw.loopvideoss_1.0_iphoneos-arm.deb
+Size: 2820
+MD5sum: 313d19cef3b866932f7ef593d75dd5cd
+SHA1: 71021449afbaa66563f906d4779e59f3a213f406
+SHA256: 93da88783a6bcc7013e70b873fa3c0a78312f8c449cb439cef1d54bdd0a9033d
+SHA512: 5f5f2a90efb7f9c1611451603520274fa0cf34f1334fad8959bb4fb52aa11444254dee472712ebd4d67190ef504ff2aec4325a397a81ba4da2e71fdd19442651
+Homepage: https://nahtedetihw.github.io
+Description: Loop videos in Photos app!
+Tag: role::enduser
+Name: LoopVideos
+Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.loopvideos-rootless.html
+SileoDepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.loopvideos-rootless.json
+ModernDepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.loopvideos-rootless.json
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.loopvideos-rootless/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.7.1
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
 
 Package: com.nef0pam.a-font
 Architecture: iphoneos-arm
