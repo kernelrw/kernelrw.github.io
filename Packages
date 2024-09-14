@@ -3081,6 +3081,29 @@ Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
 Icon: file:///var/jb/Library/PreferenceBundles/SwitchColor.bundle/iBreak@2x.png
 
+Package: com.zqbb.limitchargingg
+Architecture: iphoneos-arm64
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.zqbb.limitchargingg_1.0_iphoneos-arm64.deb
+Size: 18560
+MD5sum: 3a8eb3af387f0e8aeea3efa5d4808951
+SHA1: 9614ef04764df7468bfbbc57e672c477169ccf09
+SHA256: a007bf3267f947c6f70384cd951aa9ea7b155fec2013e0364a86d5265a310a07
+SHA512: 2f9338944027038a71827221f099819405fb4a29375541920e6cead272d3850ac54a9195b98e51c0ab65dead45409f9a887ebd7bdb2e33665083d931d4d86659
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=limitchargingDp
+Description: Manually set the charging limit more freely to protect battery health.
+	- Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
+Name: LimitCharging
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=limitchargingDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: zqbb <w2599z@gmail.com>
+dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
+
 Package: con.kernelrw.battivator
 Architecture: iphoneos-arm64
 Version: 1.3.11
@@ -5789,6 +5812,29 @@ SHA512: a591bdb94770cb0b7748c8b2d739c4982c7ce3d2170f5438f9783652cf4651fb84ceb0ca
 Description: Battery Percent on Swipe Up to Open!
 Name: BatterySwipeUp
 Author: CydiaGeek <lucaluca86@aol.com>
+
+Package: com.zqbb.limitchargingg
+Architecture: iphoneos-arm
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/com.zqbb.limitchargingg_1.0_iphoneos-arm.deb
+Size: 18476
+MD5sum: 3ee1eabd6dec5671e4382ff9526c6a28
+SHA1: d7496e00954dce64be70096f891d2f136c4bcb5c
+SHA256: 5bf061c4f24e4f7f720b81f0b3188452899fe5b3ba4eb2d4c6caf9bfaa563f40
+SHA512: d7bf29e10f85888a6c28bad8626df922fcbccb09f8a42a435a8f72b9df79e0c86288065e93dc566aa8bd14498607a1aad39ac13fd7430614df5d8a59805fce0d
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=limitchargingDp
+Description: Manually set the charging limit more freely to protect battery health.
+	- Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
+Name: LimitCharging
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=limitchargingDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: zqbb <w2599z@gmail.com>
+dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
 
 Package: con.kernelrw.battivator
 Architecture: iphoneos-arm
