@@ -1067,6 +1067,25 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 26420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.ginsu.ytmusicultimate_2.2_iphoneos-arm64.deb
+Size: 10255780
+MD5sum: 7c2dfdd188ce6308c5cba16e134e979b
+SHA1: 7d6af5fac9fa3c3c8ecd7a2616a37dc500277f08
+SHA256: c8ddfa512ae0519ca3114278df6e87d3780254d961930b60e857867bd32a24f5
+SHA512: bdb0646fb91af5b610a51d1db325d53609d64fd5a8407cfc60db08e57a8e5adc402e50d6081e0bcc54460be6bbdeb0d10e948be05f387ddb8d773690b86ccdbf
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: Ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+
 Package: com.haoict.facebooknoads
 Architecture: iphoneos-arm64
 Version: 1.4.1
@@ -2442,7 +2461,7 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Phucdo
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debians/Rootless/com.phucdo.plampyuipro_1.0_iphoneos-arm64.deb
+Filename: ./debians/Rootless/com.phucdo.plampyuipro_1.0_iphoneos-arm64.deb
 Size: 726416
 MD5sum: 36ba2d87fdd6af443a0825e68dd0c8a2
 SHA1: ef71b0caf7297522ee7e0a68baaf6bb2ea1e1366
@@ -4649,6 +4668,25 @@ SHA512: 4e1a703c28d33a555b8d83b8a7c8c07759d7575d42c452f0a35215d7f36fc2babbcf2ec2
 Description: Crack for all fouad whatsapp tweaks (watusi 3, contactsync, stalky, onlinenotify) . Login with any account within the tweak settings.
 Name: Fouad Tweaks Crack
 Author: Fouad Raheb
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 26420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.ginsu.ytmusicultimate_2.2_iphoneos-arm.deb
+Size: 10255574
+MD5sum: 334935712ef9769e7a7fa1a898923e35
+SHA1: d63cc7aa28047d7ff73ec28f75310525f78bcab2
+SHA256: 9cd71672334967aa1dd9d85322370a8b06057ad787b91714b8b87ff779f3c47c
+SHA512: dc311b9d7143edc66451b87a1ca6777611e97bf0e3bd2b34ad3778ec681979af65a85633af2a0314ff2c5235d8b26764ebae4ea034ff8d64e730c9556a3983a8
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: Ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
 Package: com.haoict.instanoads
 Architecture: iphoneos-arm
@@ -10700,6 +10738,25 @@ Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 26420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.ginsu.ytmusicultimate_2.2_iphoneos-arm64e.deb
+Size: 10254936
+MD5sum: a3c3797970a7386f25f6c5cab2f16a39
+SHA1: 7aa6209d3450f91b2c7e58111e53a9c76cfd2b0f
+SHA256: 9cdd3909cfb55e4601be9433737ab3194afb59bc49238c76389c888a11f8ce0c
+SHA512: 3b96464bd3d14659498bd4513b0c3e65739c5fe8024032d1f7f205f098424debc803bb722dce2c25631ba27425e21426db48234e71767a84f73e49e9543c4534
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: Ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64e
