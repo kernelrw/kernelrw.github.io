@@ -181,6 +181,23 @@ Description: Lower your Dynamic Island and make it disappear if you don't need i
 Name: mineland
 Author: 34306, DuyKhanhTran
 
+Package: com.34306.watchedd
+Architecture: iphoneos-arm64
+Version: 1.2-1
+Section: Tweaks
+Maintainer: 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/Rootless/com.34306.watchedd_1.2-1_iphoneos-arm64.deb
+Size: 4980
+MD5sum: a8c8d96d7be71864324538a026ed7302
+SHA1: 82dd9014740dbbf8d0b4ab8258875561a8514d47
+SHA256: ecd6944eeda8f85be6945ffa7600006a409f543bb04da1a5dc54af898847141d
+SHA512: 67d9f0a27854196ae683c68b173662ecbb90669fc5ee13a346ac1ce2861608410b6360bad699066d46fcc78cd794189c9fe00342062c701c0ba41a68ad54f343
+Description: Pair your iPhone on any version with your WatchOS .
+Name: watched
+Author: 34306
+
 Package: com.82flex.iconrestoree
 Architecture: iphoneos-arm64
 Version: 1.7
@@ -2040,6 +2057,25 @@ Description: Show hidden apps on the homescreen
 Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
+
+Package: com.lizynz.folderxx
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 752
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, com.nightwind.dockapplibrary, com.tomaszpoliszuk.dockcontroller
+Filename: ./debians/Rootless/com.lizynz.folderxx_2.0_iphoneos-arm64.deb
+Size: 80024
+MD5sum: ee90b3769458a52a6106e8fd4d5ec0e7
+SHA1: 2ab8465fead898350c68248fc71cc39ad00079ac
+SHA256: 697aebde6ba74d1f6b69e19b698a86204ebc8f91f385e7834986b90939b9c15d
+SHA512: 162175a4546324667b16920b9b258db13da68a9529a65212a2a6a1f3860ad35b7d67874ba25e034a1642f6964b70663d327bf1359193a403379dd8386fd78f8b
+Description: Allows you to configure folders
+Name: FolderX
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
+Author: Lizynz <lizynz@ya.ru>
 
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64
@@ -4060,6 +4096,23 @@ SHA512: 90ae79a386b88c925e1daf929b6e87998849d7c32ee7a3120af2a103cb786d40824823f9
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Name: mineland
 Author: 34306, DuyKhanhTran
+
+Package: com.34306.watchedd
+Architecture: iphoneos-arm
+Version: 1.2-1
+Section: Tweaks
+Maintainer: 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/rootful/com.34306.watchedd_1.2-1_iphoneos-arm.deb
+Size: 4676
+MD5sum: 1a1bdb6cb9e00c5ddda3ae37227673d0
+SHA1: 6763b3426bf9bed3d71f78fb67ac10b362fb5eb1
+SHA256: 3a73b327b819e6520b2004902fed7bb7f0d227ac166c9ff987ab743253f5aef5
+SHA512: 9f5663a1460229e9f8bd034ccfe4b119d8ae9852d4cc923b1efb48bc6a00f298527c58698a2c3662f9bccc8def1f1c6aa52911e60304fa06df47f87f17470d06
+Description: Pair your iPhone on any version with your WatchOS .
+Name: watched
+Author: 34306
 
 Package: com.82flex.iconrestoree
 Architecture: iphoneos-arm
