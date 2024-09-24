@@ -2077,6 +2077,25 @@ Name: FolderX
 SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 Author: Lizynz <lizynz@ya.ru>
 
+Package: com.mikifp.khromaa
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 488
+Depends: preferenceloader, mobilesubstrate, ws.hbang.alderis (>= 1.1), firmware (>= 16.0)
+Filename: ./debians/Rootless/com.mikifp.khromaa_1.2.1_iphoneos-arm64.deb
+Size: 114512
+MD5sum: 0ffc322941c691929e01e95a5eb64d3f
+SHA1: 1fbe6e43d74831b066329e0c0b74ebecc70c27d5
+SHA256: 63b10b7d36ac798d93ac4842db0ca69bcfc88b168f4d9a066cf7c788cd3312cb
+SHA512: 90800eabfd47f3b504f97514b8e29d929de6b852204b74cee1b6356da2aa0e03cff6e38e517ba99c9731b808bacf851fa7f357548f42ef603cfff41f0741d4ce
+Description: Khroma lets you change you notification badge color!
+Name: Khroma
+Author: mikifp
+SileoDepiction: https://raw.githubusercontent.com/miki-fp/repo/main/depictions/com.mikifp.khroma/depiction.json
+Icon: https://raw.githubusercontent.com/miki-fp/repo/main/assets/com.mikifp.khroma/icon.png
+
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64
 Version: 1.0.2
@@ -2924,6 +2943,24 @@ Name: ExactTime
 Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
+
+Package: com.sudo.debraa
+Architecture: iphoneos-arm64
+Version: 2.9.9
+Section: Utilities
+Maintainer: Sudo
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debians/Rootless/com.sudo.debraa_2.9.9_iphoneos-arm64.deb
+Size: 24340
+MD5sum: b2a2cdcce1101713eb7b8f054100614c
+SHA1: a89874cd4dc8d998d1d46f488bef03174923df55
+SHA256: 8c63e2677adecf9fc2cc81ac43cffa47c34eda8f971e2d552a1b6056ff9bf4e7
+SHA512: b9cf6ea2e8dc510362f21cf55a98bd39bd3a140bc3f0380fc0eb6885b9c217a9768fde3b1220096bbbcbf8d657ce2167119297b5f1f8bd7c1c777222b71f4ff6
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Depiction: https://sudo9000.github.io/depictions/debra/index.html
+Name: Debra
+Author: Sudo
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
 
 Package: com.sugiuta.lpmnotification
 Architecture: iphoneos-arm64
@@ -5413,6 +5450,25 @@ Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
 
+Package: com.mikifp.khromaa
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 488
+Depends: preferenceloader, mobilesubstrate, ws.hbang.alderis (>= 1.1), firmware (>= 16.0)
+Filename: ./debians/rootful/com.mikifp.khromaa_1.2.1_iphoneos-arm.deb
+Size: 113548
+MD5sum: 12964a70674cfed92bce7380609cf722
+SHA1: 69cd58e4113e06bc1eaff5ef095b03576d7a94fc
+SHA256: 5182880d2c3e36d288b5bfa394e359535b3ae3a9b4285ec451c1c7a9e5893833
+SHA512: 771a74d7266065801578b3bc8378a148c9c0ae6ece8e70313cb09cc54d424d77be63c9365fc01ae81c56d664442b46986c1668f2c266fe69eaf482d1379da1b4
+Description: Khroma lets you change you notification badge color!
+Name: Khroma
+Author: mikifp
+SileoDepiction: https://raw.githubusercontent.com/miki-fp/repo/main/depictions/com.mikifp.khroma/depiction.json
+Icon: https://raw.githubusercontent.com/miki-fp/repo/main/assets/com.mikifp.khroma/icon.png
+
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -5938,6 +5994,24 @@ Name: ExactTime
 Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
+
+Package: com.sudo.debraa
+Architecture: iphoneos-arm
+Version: 2.9.9
+Section: Utilities
+Maintainer: Sudo
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debians/rootful/com.sudo.debraa_2.9.9_iphoneos-arm.deb
+Size: 23912
+MD5sum: 9d3c9b321e6d530d1fe446b18de6c313
+SHA1: bf18753264cae6a9509f75a18e5602159f75ee2c
+SHA256: 05a9192ed5938b484e9472514edb3ee7c70b4b0d1a357f2403964e7fdbd30ffc
+SHA512: f90ec442e9c21a50adfcc9bdef92631ace0745ad2ea652b7b65dd41e700b7b26e5feaadb0169fa307734e3689e41ddd6fa1bc59403018a6b495bb294b111b856
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Depiction: https://sudo9000.github.io/depictions/debra/index.html
+Name: Debra
+Author: Sudo
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
 
 Package: com.sunshinesong.native-island
 Architecture: iphoneos-arm
