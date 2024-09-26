@@ -2544,6 +2544,23 @@ Icon: https://repo.cypwn.xyz/packages/PlampyUIPro-Rootless/icon.png
 Name: PlampyUIPro
 Author: Phuc Do
 
+Package: com.pkgfiles.mobilemeadowrebornn
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Installed-Size: 3832
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/Rootless/com.pkgfiles.mobilemeadowrebornn_1.0_iphoneos-arm64.deb
+Size: 2403032
+MD5sum: 535936953c9482c5257f51467f30a438
+SHA1: 96127ced8c08de2061d2272c6b2bbf330e7427e3
+SHA256: 138822d29c63aa626203aa55c1bd2822fc566f6620e921e7ab8d02cef4948b06
+SHA512: 9e2cdcc09b958e53d70f19e9e68a2dc107d7c5bc9b1767c93a797000f4109678e2d16ff201e7ccf43713a454d51e56799243f80dd727621e48b4f79c1f801bb1
+Description: Turn your phone into a meadow. Add flowers to your apps. Let birds fly on your screen.
+Name: MobileMeadow Reborn
+Author: pkgFiles
+
 Package: com.ps.ytx
 Architecture: iphoneos-arm64
 Version: 1.6.11
@@ -5770,6 +5787,23 @@ Description: A control center beautification tool for iOS 15/16. Change the icon
 Icon: https://repo.cypwn.xyz/packages/PlampyUIPro-Rootless/icon.png
 Name: PlampyUIPro
 Author: Phuc Do
+
+Package: com.pkgfiles.mobilemeadowrebornn
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Installed-Size: 3832
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/rootful/com.pkgfiles.mobilemeadowrebornn_1.0_iphoneos-arm.deb
+Size: 2398368
+MD5sum: 755d94973dfa5fe1059d61cd237f6fc4
+SHA1: f6d794a340d5b4eee15b5c7f6ad8e02318c59730
+SHA256: 7b323218d93220c420dc62a18704d42157f9bb9927d75ef25e293fbc81758852
+SHA512: 0947cc2c2d70d8d5ab033ce5fc15ed0e1981c2fa0203ec9bc8e17b9c8bef713082a4dce981b362c4a53ef770e569763e4fe5fa6fcc08f505897d82ba7ed9f606
+Description: Turn your phone into a meadow. Add flowers to your apps. Let birds fly on your screen.
+Name: MobileMeadow Reborn
+Author: pkgFiles
 
 Package: com.ps.ytx
 Architecture: iphoneos-arm
