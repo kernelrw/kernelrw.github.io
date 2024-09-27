@@ -1519,6 +1519,20 @@ Name: Designer
 Author: JunesiPhone
 Icon: file:///var/jb/Library/PreferenceBundles/designerprefs.bundle/icon@3x.png
 
+Package: com.kernelrw.120Hz
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: Kernelrw
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.kernelrw.120Hz_1.0_iphoneos-arm64.deb
+Size: 5172
+MD5sum: ab4416c90ecb1bb33209145e7ec71407
+SHA1: 71cc535d709646bb8e3c3cd842a57643ef7414e8
+SHA256: 918edc68b267f11d39c215155f76745ed689df876e243261fdf90d3bc44936a2
+SHA512: e4162baa6ef07b0a93c253399db963a42b9f00bf38f541891f758c9f6d3bcb81cfcdf560fb5751669e9b80273a535d74c5bf78e2521978298465fb6a44485428
+Description: Break 80Hz to full 120Hz
+Author: Kernelrw
+
 Package: com.kernelrw.airaw
 Architecture: iphoneos-arm64
 Version: 1.6.5
@@ -3157,6 +3171,23 @@ Description: Pasteboard shortcuts on your keyboard dock, Supports iOS14+ ; rootl
 Name: DockX
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+
+Package: com.vaguvagu.nicegram
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Vaguvagu
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.vaguvagu.nicegram_0.0.2_iphoneos-arm64.deb
+Size: 3496
+MD5sum: ceedca33f02f526afb8842bf4f071a2d
+SHA1: b4dc859abfac132f3a4c67ea2b67ac53c78060ef
+SHA256: 4846fc7c474a1b869d639a96d16ec3c3ce9a1429b1f752a309288a426b5e5f08
+SHA512: 7417b43a887bc4043f1655dcd5ab157ea251727e384688ab71e04e68fe1fbb00202f2afa6e6af1a021a45b4e53cebe22833d983269d60c3bdfc49ef8e8ba6745
+Description: Nicegram Premium
+Name: Nicegram Premium
+Author: Randy420
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/nicegram.png
 
 Package: com.yourepo.cydiageek.batteryswipeup
 Architecture: iphoneos-arm64
@@ -5097,6 +5128,20 @@ Name: Designer
 Author: JunesiPhone
 Icon: file:///Library/PreferenceBundles/designerprefs.bundle/icon@2x.png
 
+Package: com.kernelrw.120Hz
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: Kernelrw
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.kernelrw.120Hz_1.0_iphoneos-arm.deb
+Size: 4844
+MD5sum: 671f3b2b4590b1598b31005482235eda
+SHA1: c899702a7df115dc0c22ca83fcdb47df17d111d7
+SHA256: c53d052cf866305f81803627e7a14ae3740243e74dc0245bb31dc2fb0272cb49
+SHA512: 7958081629d7c395ee671e7d21c0833b17d6392bd1989127f1f7823b6fe04a090254adb6a8753e08805612ef16833e706a63668b9f13a7757be4b04333ffe013
+Description: Break 80Hz to full 120Hz
+Author: Kernelrw
+
 Package: com.kernelrw.bazzi2
 Architecture: iphoneos-arm
 Version: 2.0.8
@@ -6063,6 +6108,23 @@ SHA512: 8c5e92005bbd9772526c567c3cf990f992b72ee024e86eacf3b754e54c39869416f0af81
 Description: Native island notifications, just keep it simple. Supports only iOS 16.0+ .
 Name: native-island-notifier
 Author: sunshinesong
+
+Package: com.vaguvagu.nicegram
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Vaguvagu
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.vaguvagu.nicegram_0.0.2_iphoneos-arm.deb
+Size: 3500
+MD5sum: 1614df034cea9968be2f1efabaa09db4
+SHA1: 2c473e35fc2689afa1aaa1fa1c9347ec0e545588
+SHA256: 5a2375168d21f4b0d716797b04db86d952b1a4183510f0cac94891cd5d1b9e40
+SHA512: 8d8caf400671f79a1bc235933269deb4addc7bd8d2cc84073508fba2ca35d1178da0ad98f47eb8fe2269166358129db13c98f425637cfb995227a26388f4eac1
+Description: Nicegram Premium
+Name: Nicegram Premium
+Author: Randy420
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/nicegram.png
 
 Package: com.yourepo.cydiageek.batteryswipeup
 Architecture: iphoneos-arm
