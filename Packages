@@ -1522,16 +1522,18 @@ Icon: file:///var/jb/Library/PreferenceBundles/designerprefs.bundle/icon@3x.png
 Package: com.kernelrw.120Hz
 Architecture: iphoneos-arm64
 Version: 1.0
+Section: Tweaks
 Maintainer: Kernelrw
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.kernelrw.120Hz_1.0_iphoneos-arm64.deb
-Size: 5172
-MD5sum: ab4416c90ecb1bb33209145e7ec71407
-SHA1: 71cc535d709646bb8e3c3cd842a57643ef7414e8
-SHA256: 918edc68b267f11d39c215155f76745ed689df876e243261fdf90d3bc44936a2
-SHA512: e4162baa6ef07b0a93c253399db963a42b9f00bf38f541891f758c9f6d3bcb81cfcdf560fb5751669e9b80273a535d74c5bf78e2521978298465fb6a44485428
+Size: 5192
+MD5sum: 0b475d362dfe2f6944fe407b438e6483
+SHA1: 2a33dbc70d5fbfcf6c9e1a93d027913527805eb3
+SHA256: d02bdcca7f407b578b9c0a6b80a5dfa674644580ddd0e8292eb3c2f5e1b9e0e8
+SHA512: 951a880bd2c15c070032e8a47498ed21f0db9dbd6f6072e4994bd482ae204f7965c0be32fa8476e10c62067bbc3225fab70fb5e310b977ebbccc53fd367d2c34
 Description: Break 80Hz to full 120Hz
 Author: Kernelrw
+Name: 120Hz
 
 Package: com.kernelrw.airaw
 Architecture: iphoneos-arm64
@@ -5131,16 +5133,18 @@ Icon: file:///Library/PreferenceBundles/designerprefs.bundle/icon@2x.png
 Package: com.kernelrw.120Hz
 Architecture: iphoneos-arm
 Version: 1.0
+Section: Tweaks
 Maintainer: Kernelrw
 Depends: mobilesubstrate
 Filename: ./debians/rootful/com.kernelrw.120Hz_1.0_iphoneos-arm.deb
-Size: 4844
-MD5sum: 671f3b2b4590b1598b31005482235eda
-SHA1: c899702a7df115dc0c22ca83fcdb47df17d111d7
-SHA256: c53d052cf866305f81803627e7a14ae3740243e74dc0245bb31dc2fb0272cb49
-SHA512: 7958081629d7c395ee671e7d21c0833b17d6392bd1989127f1f7823b6fe04a090254adb6a8753e08805612ef16833e706a63668b9f13a7757be4b04333ffe013
+Size: 4852
+MD5sum: 0068a0350b1408573003026fcd57b771
+SHA1: b1ed5d589f9d4b681d6c49f27377e2f98947073d
+SHA256: cba0e9aee4faf1d0a2d9e76eb04ecc98d52c83d0130a3e03828b66d36e265c83
+SHA512: 71ea854c3fc397c4bfa1346eeea30e2a8395817ea76d6b609e0b7c1f642afefdbbadff44626a1674dd52c89b9673542e4818fcc75f922a710ea1bc7eb5a7ba59
 Description: Break 80Hz to full 120Hz
 Author: Kernelrw
+Name: 120Hz
 
 Package: com.kernelrw.bazzi2
 Architecture: iphoneos-arm
