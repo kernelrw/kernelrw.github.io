@@ -879,6 +879,23 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.silentnotifs_0.0.1_iphoneos-arm64.deb
+Size: 3478
+MD5sum: 4da4fa572e8ffaf09ec04457b69e7227
+SHA1: a2236c59566d978dc3a0d07579083cc867119136
+SHA256: 3db9f3ea66aa8cd6f616a57f089dbb0f6444ad7c75898ceba0fca3647395dcd3
+SHA512: ca49fdb963cad02c497ae5898637b5dd2a39631b0b786e0b3d8d9beb86cb62cff0504cfc2c3a34dda23c17e4b92253287074c4222dcc3731a09de5ee85b9fab8
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
 Version: 5.0.1
@@ -4767,6 +4784,23 @@ SHA256: 1f608eec2fcbb360c5e55e94db7d3b1bdc2c2eb0ca9fdae2b0017492df816374
 SHA512: 13ff0d8c49a1a8fc5d709009708a42346743474226ba355f401f6c1618e5bce72e9feaab218b09c29110d1d0de1db408204acdaf1a26b092e4976e294fdad01f
 Description: Displays your touch interactions!
 Name: ShowMyTouches
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.dvntm.silentnotifs_0.0.1_iphoneos-arm.deb
+Size: 3398
+MD5sum: f41aba98e56ea032bb55f8c9ce4bfe06
+SHA1: ce2f99292da86fe182cfcf7bf028344fc1ab831a
+SHA256: 72a8e50b92d161c12b01b85738ca58ad211b536e1021c7e21044d2beba7f4236
+SHA512: 0e6f44a9df417bf5cbf24cf12a50ae1d3627eb8ce2d619bdbf7932dc1592e5104f40a1c47ba2e44871f924101fd12e3cf0c2d02f5b6e3bf0feefba85c288a708
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
 Author: dvntm
 
 Package: com.dvntm.ytlite
@@ -10897,6 +10931,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotific
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.dvntm.silentnotifs_0.0.1_iphoneos-arm64e.deb
+Size: 3410
+MD5sum: ef2a51d4c161f59d44b37636eaf60fa7
+SHA1: 41f76734dbdc469f72c5f4885b5f80aa4e3fca0d
+SHA256: 566d933d22c91c80b1b7f30920e9a89b4ca060bd683ae28e2bdd4b2b4f506d81
+SHA512: 03951650e4499d98958ff044e2f86371f262f4b3717271977889096a27e7a0e0c50c9ca6ea8cbecd960de140aec5bf92e1aa453d3f8bbb726b986432fafaae8f
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64e
