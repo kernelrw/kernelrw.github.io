@@ -896,6 +896,23 @@ Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
 
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64.deb
+Size: 3662
+MD5sum: 38ad559e9ac9740ef30214da4eaa7a00
+SHA1: 002eb290de9e0aa601009580bc0f867bdcd9088f
+SHA256: 99196a6cb4129d2ebaff2580d6bd019628318f82a7d8c78b1e4ae3c24ef31a8a
+SHA512: f0265105e37861a75409321b73d280e48ac1c3eca3772421e3e172b824802d399ce14268c40eda6db657abb3811e7a392eb432fdb3db237ec96e05cde12468b5
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
 Version: 5.0.1
@@ -4799,6 +4816,23 @@ MD5sum: f41aba98e56ea032bb55f8c9ce4bfe06
 SHA1: ce2f99292da86fe182cfcf7bf028344fc1ab831a
 SHA256: 72a8e50b92d161c12b01b85738ca58ad211b536e1021c7e21044d2beba7f4236
 SHA512: 0e6f44a9df417bf5cbf24cf12a50ae1d3627eb8ce2d619bdbf7932dc1592e5104f40a1c47ba2e44871f924101fd12e3cf0c2d02f5b6e3bf0feefba85c288a708
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.dvntm.silentnotifs_0.0.2_iphoneos-arm.deb
+Size: 3572
+MD5sum: ca7db84453f1ec76b3663d6965e0ade0
+SHA1: 23787af0d3b0aad6ec8435609bb0c4651a9f724a
+SHA256: eda0a189a4baa47d8ca327d25660d81b2995e763b565b5691c378a7ee454fc90
+SHA512: f251ca5284b13c6a162dc552531819bc2031fa7ce47fad3129f4a2a47e24f48b6a66335624c67d8982e74a2cd2abbaede76cbe2bd484141986b73d07e3e8c84a
 Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
@@ -10945,6 +10979,23 @@ MD5sum: ef2a51d4c161f59d44b37636eaf60fa7
 SHA1: 41f76734dbdc469f72c5f4885b5f80aa4e3fca0d
 SHA256: 566d933d22c91c80b1b7f30920e9a89b4ca060bd683ae28e2bdd4b2b4f506d81
 SHA512: 03951650e4499d98958ff044e2f86371f262f4b3717271977889096a27e7a0e0c50c9ca6ea8cbecd960de140aec5bf92e1aa453d3f8bbb726b986432fafaae8f
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Size: 3592
+MD5sum: f8865dcdafe66237508242f2c58be844
+SHA1: c16c450777613e888c6f95398d101e34fa4e82c0
+SHA256: af274673b2adb3d7d8ce76173e9fdb8d0b82fb81b5709491838f38b41a7380a3
+SHA512: 089c585d89eb35af28becd51c75fc84d590ef4a7b6a35ef060520e09c9281ddecae3d8def3c13482191fd742f890c9d40e5f9e3d03af1c015b3666edc92ece02
 Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
