@@ -1096,6 +1096,25 @@ Description: Crack for all fouad whatsapp tweaks (watusi 3, contactsync, stalky,
 Name: Fouad Tweaks Crack
 Author: Fouad Raheb
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64
+Version: 1.0-beta10
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.fouadraheb.regram_1.0-beta10_iphoneos-arm64.deb
+Size: 5911172
+MD5sum: 833b0faa769b9c7a6124523826ff1d6c
+SHA1: c0e6e3c8fe471bb69f481612a279ec193fadb125
+SHA256: 5e7e2d2d7e4f6a302714ebdd5f95f9e969ea3771af12d300aee8a2647d00c0bb
+SHA512: 4d7bcbbd0a6e23848a4c451bcc471e312f238a6121e203bc98f21c737ac901b62830cd2d8861db0cf4ef620500c796a2a46d6d39e40a69c2a68d8d77df6dbaf5
+Description: The all-in-one tweak for Insatgram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: https://repo.cypwn.xyz/packages/RegramforInstagram-Rootless/icon.png
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.33
@@ -1871,118 +1890,6 @@ SHA512: fbc0d6b25d37bf62a71567570ebbde83def44144aa067de108aa005d38824cda45d207e1
 Description: A better way to multitask! Fix support for iOS15+
 Name: PullOver Pro
 Author: c1d3r
-
-Package: com.kernelrw.regram
-Architecture: iphoneos-arm64
-Version: 1.0-beta10
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 5980
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debians/Rootless/com.kernelrw.regram_1.0-beta10_iphoneos-arm64.deb
-Size: 5752264
-MD5sum: d24113c393c9643eba8e16bdcd4f7f93
-SHA1: d866bee0d98ff9c286cbeedc979b47456f114c6e
-SHA256: 253792381ea56bd70d8eb81c89e5f16814ae37797191086003c36c684747e1b6
-SHA512: b76bdd03600515d6a148fd5a5892a26ea99671b6c41ea229cd0e671c6e260f577da3ab8df61aade48e9993f896e9a2452837f81a525e550d819ebb725135503f
-Description: The all-in-one tweak for Insatgram
-Name: Regram for Instagram
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: https://repo.cypwn.xyz/packages/RegramforInstagram-Rootless/icon.png
-
-Package: com.kernelrw.regram
-Architecture: iphoneos-arm64
-Version: 1.0-beta1
-Section: Tweaks
-Maintainer: Fouad Raheb
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.kernelrw.regram_1.0-beta1_iphoneos-arm64.deb
-Size: 5725456
-MD5sum: 415b9903005461b9b64ecada171d525b
-SHA1: 507cf23df046add4562002f34822dcd3e067bee4
-SHA256: 18dc5ccb08e21368b2889093d7a1bc1892b0c5b14411b3d6b45f59b1a17d1702
-SHA512: be1b9e0ef7c25c3178da1296788edac3ce6e33732cffa5c6dbbd52e11ffc50f5805448d9844a54d21aec5ef36d57f22fc1f17d25bf7ffe1dce5b5a17369081cc
-Description: The all-in-one tweak for Instagram
-Name: Regram for Instagram
-Author: Fouad Raheb
-
-Package: com.kernelrw.regram
-Architecture: iphoneos-arm64
-Version: 1.0-beta4
-Section: Tweaks
-Maintainer: Fouad Raheb
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.kernelrw.regram_1.0-beta4_iphoneos-arm64.deb
-Size: 5721352
-MD5sum: fe481ad0edde29ef92e270c6c3e3ccdf
-SHA1: fa168a8ea414c8c4253c66e7d3a03a5dffb3db3a
-SHA256: 83d547aaabd3ff4184ec64ab2e8d9acbc845fcf8fb1ebda6136b84c38fca6e61
-SHA512: 5b0799544e9d9420b1205389b52c088b9c5dd9707fd3199c244c9c0b7f22b958979ee70d964d212a4e34d411493488ca272798f8931de2af0633215b6193a7ea
-Description: The all-in-one tweak for Instagram
-Name: Regram for Instagram
-Author: Fouad Raheb
-
-Package: com.kernelrw.regram
-Architecture: iphoneos-arm64
-Version: 1.0-beta7
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 5980
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.kernelrw.watusitools (>= 2.4.24)
-Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debians/Rootless/com.kernelrw.regram_1.0-beta7_iphoneos-arm64.deb
-Size: 5756140
-MD5sum: fcb92d298223bc226a44aec792cf4601
-SHA1: bfe1255619bede27e06d203173ed83e5d2fdcd42
-SHA256: 258a74b31706cb825e007787cfd0145b5f8b05e73c4b9fec171a7d8adcd68c4f
-SHA512: b6bf008315aa89a165cb7eb99100ae6a8bb0242fe1851ced0697c64733ef53daeea3cf0c212fc64244106a74e24712d960cf9c26e46f6bc4013a5a3394c419c2
-Description: The all-in-one tweak for Insatgram
-Name: Regram for Instagram
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-
-Package: com.kernelrw.regram
-Architecture: iphoneos-arm64
-Version: 1.0-beta8
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 5980
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.kernelrw.watusitools (>= 2.4.24)
-Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debians/Rootless/com.kernelrw.regram_1.0-beta8_iphoneos-arm64.deb
-Size: 5754800
-MD5sum: f9e2e7013a5c06b97f22afd6177f7f71
-SHA1: a6954683846e9b6cfa09452ee49ca8d1d6b6638c
-SHA256: e437654cb0406fa26900275c359c956a1b893cb2dc6d74607ca449cd3ecd6a9a
-SHA512: 8d2597ad35dc79cc50095e0d9181e6f6c801f3f95eb02822d5e175d9f3febd5c7acee542480a02ba8fed9734c6d2221f77172f655e18513c851761468216d239
-Description: The all-in-one tweak for Insatgram
-Name: Regram for Instagram
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-
-Package: com.kernelrw.ring
-Architecture: iphoneos-arm64
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Yan
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debians/Rootless/com.kernelrw.ring_1.0.2_iphoneos-arm64.deb
-Size: 134960
-MD5sum: 95a0b8d8d08f03c53704a18ac9136851
-SHA1: 47586878193c6db41e1dab99015933fa624263d7
-SHA256: 55b008a5afc1f5717680bfbb0181f3f486fd97fc42a697a1b7289d2849bb424c
-SHA512: 55ca42d2a1209b6949b27d1f8dcc657b897a15fec384a230d00470bbdc850af3cd64f0253df19e933457cfe37cb9113429657523e6fec8571aafede20656189c
-Description: Effortlessly manage your ringer volume!
-Name: Ring
-Author: Yan
-Icon: https://media.havoc.app/660068a52b78a631ec05699f
 
 Package: com.kernelrw.senri
 Architecture: iphoneos-arm64
