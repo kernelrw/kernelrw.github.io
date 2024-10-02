@@ -232,6 +232,23 @@ Name: Touch-Viz
 Author: Lessica
 Icon: file:///Library/PreferenceBundles/TVZPrefs.bundle/icon@3x.png
 
+Package: com.83flex.noredirect
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 500
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debians/Rootless/com.83flex.noredirect_1.1_iphoneos-arm64.deb
+Size: 37840
+MD5sum: 18e1b0e7e9b265cd8d20544521a456ef
+SHA1: 8a53d6ca134847e13ac5a6d28d410deb5c56e75f
+SHA256: 0bd3c4b18ae5bb3c41e49f48ba048a22b8996610bfea0f6bfff25fd5c945b089
+SHA512: f27ad3bbd912e56bbc135462f3bbb991d7280bdcba5b869a321c0a06c3b16549066613a74696bf78938ea6acb496eb392f2fbfec1a06e0e8b7c585f0a0f714e9
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Name: No Redirect
+Author: Lessica <82flex@gmail.com>
+
 Package: com.83flex.noredirects
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -4227,6 +4244,23 @@ Description: Displays your touch interactions!
 Name: Touch-Viz
 Author: Lessica
 Icon: file:///Library/PreferenceBundles/TVZPrefs.bundle/icon@3x.png
+
+Package: com.83flex.noredirect
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 500
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debians/rootful/com.83flex.noredirect_1.1_iphoneos-arm.deb
+Size: 37904
+MD5sum: 5b72b32b21f53a328066dbdd5f24b75d
+SHA1: 217d06eb918419da157741a25ee7265802909086
+SHA256: dcf96c774b00eea2c947c19a0a3233bc40f63e036ace5fbad1da6d674dae4b71
+SHA512: fa31741012ae2f10f42ed0ab2c41d230329bcb0fb285fb8f36437832854eb3943de1500e6bcc74f5e66f52af028a7d8cbcb4b4905fcb870d5c4ac5de2c3f6c0b
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Name: No Redirect
+Author: Lessica <82flex@gmail.com>
 
 Package: com.83flex.noredirects
 Architecture: iphoneos-arm
