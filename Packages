@@ -11890,6 +11890,24 @@ Description: Filza unlock full functionality, the main program please install in
 Name: Filza Crack-Rootless
 Author: Netskao
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5-15
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/roothide/org.coolstar.sileo_2.5-15_iphoneos-arm64e.deb
+Size: 4290992
+MD5sum: db30acd01505e5dbb09c7383f6f12e59
+SHA1: b870965821d2d0113b1482ba559c72ccc57d95c7
+SHA256: b76edaf6c5cbd69408c737423dfd1517b29b20623fd751ca6241093bbd0018a1
+SHA512: 2fea56ea5560bf7f7d10cd570dc625323b672d1ec2cf2ecb8f5d1fa2efeae5256fc796f39bd6d8b9d447bf81207e4c717fd0c8dd231b4cf501e90975a8ce6212
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: org.haxi0.lunar
 Architecture: iphoneos-arm64e
 Version: 2.0.2
