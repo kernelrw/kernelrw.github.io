@@ -845,6 +845,23 @@ Description: An alternative SpringBoardServices implementation for iOS 13 and ab
 Name: Alternative SpringBoardServices
 Author: Darwin Developer <82flex@gmail.com>
 
+Package: com.daynch96.bhtiktok
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: Dayanch96
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.daynch96.bhtiktok_2.3_iphoneos-arm64.deb
+Size: 482144
+MD5sum: d86d670049360b64a57140c99a752309
+SHA1: b5380cfa175ba512142e278b23068dc670835092
+SHA256: 001f033a81fe7a7d54630e946e7b6ecfc98a0f3bec57cef6cfc3644d255f3060
+SHA512: 5626f598ea253ce3bb5772cd1cc23a56d222bf7254473932ebbb39e173062627f930040da24cff91296fe4d5ed07f18fbe29506e9b3d1ee51204bb0254935e79
+Description: More features for TikTok
+Name: BHTikTok Plus
+Author: Bandar Alruwaili
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
 Package: com.devvix.nocshare
 Architecture: iphoneos-arm64
 Version: 1.1.4
@@ -4743,6 +4760,23 @@ SHA512: c6f01f69def4802bd7831c8e0d3ee220c9e9bcb0dc3a2f77224850630faaff727b9c169b
 Description: An alternative SpringBoardServices implementation for iOS 13 and above, especially for iOS 15 and above.
 Name: Alternative SpringBoardServices
 Author: Darwin Developer <82flex@gmail.com>
+
+Package: com.daynch96.bhtiktok
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Tweaks
+Maintainer: Dayanch96
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.daynch96.bhtiktok_2.3_iphoneos-arm.deb
+Size: 477336
+MD5sum: f2f7d7b505c6dcf294dc84069ab3ac00
+SHA1: adb3afa6974ba00d5078719a60e2b10fbcff6fd4
+SHA256: de91cbfcd46cb88b9605ea5f636e44a6d87543157803c553971b6d5613490a6e
+SHA512: 76afc630c3edf655b3bba06f970c9b71da9e5d9384baf36fee4226aaae2287a90f044657f91ee741e2f7e619ac5d7d5edca674351819582905e77ddedafe88f0
+Description: More features for TikTok
+Name: BHTikTok Plus
+Author: Bandar Alruwaili
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
 
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm
