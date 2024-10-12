@@ -934,6 +934,40 @@ Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
 
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.oledkeyboard_0.0.1_iphoneos-arm64.deb
+Size: 4210
+MD5sum: 8ca700eb1f5a92fd839aca9f2ab1d04c
+SHA1: a50fe56f9436b2e0cb26e7b863a87435586ccfa3
+SHA256: 1c61fbf83cc512581712534a87aa2bc65e415d6f3c12ba665b9ca1ef7c1d784b
+SHA512: 1fbb34fdcf24150850cead63f9eba9ed6138c4ebd7a6191e8726b557d4d2c64248ee9efa37cf652e589c00efb8a74689fa5ebdca8042d4a363d6049648043e9c
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.oledkeyboard_0.0.2_iphoneos-arm64.deb
+Size: 4456
+MD5sum: 3e21635d19f065fcf7223bc4c2993689
+SHA1: 31f96817ef35f94db518c7078204061b9b818695
+SHA256: 57fac86ed3e01a116d65b11b230a20d088f652fc124a26d284594500d0cd2cd9
+SHA512: 9f2fd10acd27686c3edf3af59554dc37780d8167f072cbf0c22a0f8ae8ed7fc513e32227b8a79edfb9315d43bfdba431be90b1cf3edbb92b0b68314c200da7c4
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -4907,6 +4941,40 @@ Name: Respr1ng
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respr1ngDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.dvntm.oledkeyboard_0.0.1_iphoneos-arm.deb
+Size: 4128
+MD5sum: ba695679fe430eb4529ef36c14b918de
+SHA1: 62fa042bb9268238fcbe15e7f0aaaf91e73dd561
+SHA256: b6a49ad3992a802c48c34e37c372ef0a75c7b5766801ff9caadc6e4a74f8d101
+SHA512: c36ff16d3de14622e16a8ef5f23c0f86304665383a91af8bc20974f2505278fcfcaf8cfdbcc5fa6b4277a0f2b6e11abbcdf21f5deeac46dfc3133ab1d22a0e9c
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.dvntm.oledkeyboard_0.0.2_iphoneos-arm.deb
+Size: 4358
+MD5sum: 0ae3d609b682bac421623350ca1e3e37
+SHA1: 4a9125a03804c99401dc48ef877a725ea5d8df1f
+SHA256: ca4c1f1162641db32f7875ee08d7b8b900123808a49e11a5ee4acc9943b142df
+SHA512: bb91d87e01f70470910d9f4b38113c08e75008f697e9ffb7136214290d95ba54907caf198cc8dfbac2eeb4dcc1062d325f132d9393db10dc331ba02ecadfe8be
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
 
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm
@@ -11140,6 +11208,40 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotific
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.dvntm.oledkeyboard_0.0.1_iphoneos-arm64e.deb
+Size: 4136
+MD5sum: cff058f049edbe266a08d16b72d8f08d
+SHA1: c6f4ff9f7aeb853f92b0774d05c738e5edac29c0
+SHA256: b773a957c1aca3f24d720723fce5f4a5dfa0ace2447959604e1490c19fca69c3
+SHA512: 92cb1868f07f7ee4d0360093a897ad7df9898716a62d13b8c4548674b9a3343338afedf836f29193cb6caae2535c7ba191afb20e3f52fca20d3139102bb48bd7
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/roothide/com.dvntm.oledkeyboard_0.0.2_iphoneos-arm64e.deb
+Size: 4378
+MD5sum: d655e77d5bb01ef20ea7832e7e4f4c31
+SHA1: a26a46eb413471eb76e9b312b82b3ec814d30f34
+SHA256: 74136cf1f32ba1dd8295ccc7129dc2135405affee7760643a2531641e3e51223
+SHA512: cc8aa49370bd11d6acde125cf8e550449caedea3fa7f32c6ee905713e5da064a44fb17d684d598efad9a775b92aeec62625f474421b06fbce852a3ced63de271
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
 
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64e
