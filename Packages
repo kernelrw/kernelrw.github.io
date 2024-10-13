@@ -1,3 +1,20 @@
+Package: chaoge.ChargeLimiter
+Architecture: iphoneos-arm64
+Version: 1.7
+Priority: optional
+Section: Applications
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debians/Rootless/ChargeLimiter_1.7_iphoneos-arm64.deb
+Size: 2473390
+MD5sum: 2671e29f13e6aeb51af340f37a3a7123
+SHA1: 8e7a7e7021b8472bb123ef856b9071c966e68c59
+SHA256: ce967c55102735e46a41bb5e131b97b80226408d77438d231a5951c4562b0736
+SHA512: e278a3cfdc2cb7b4c2903a4d0d756b9a93a6664b8ccb40f440c3595ad35b73236e314efcc464726e3e542ebbaa108c940c8e722c82bb1dac2534b141158834be
+Description: ChargeLimiter
+Name: ChargeLimiter
+Author: chaoge
+
 Package: applebetas.ios.tweak.willow
 Architecture: iphoneos-arm64
 Version: 1.2.14
@@ -4193,6 +4210,23 @@ Description: System information in Settings app > General > About, and other sec
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
+
+Package: chaoge.ChargeLimiter
+Architecture: iphoneos-arm
+Version: 1.7
+Priority: optional
+Section: Applications
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debians/rootful/ChargeLimiter_1.7_iphoneos-arm.deb
+Size: 2477914
+MD5sum: e23f957adbb2df440bab11c2959fba1a
+SHA1: 1accc5b98ea03bdf7f87d43166cada6b1adf6a45
+SHA256: 6c81f5e8b795fcbaf33291db736390c533d216fe73b09bf399dbeee0a8e47d8e
+SHA512: 535e867a9190144765a4ff14c5cb2719c646f4ed18a70b610c978ae8fc3b0248ddaf94ff65bfcba1f584a3417c13f2882ca6a857d33061d9ca044ffca74d4042
+Description: ChargeLimiter
+Name: ChargeLimiter
+Author: chaoge
 
 Package: chaoge.chargelimiter
 Architecture: iphoneos-arm
