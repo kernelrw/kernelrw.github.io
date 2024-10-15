@@ -96,6 +96,24 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crossoveri
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: crazymind90
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootless/codes.aurora.kayoko_2.3_iphoneos-arm64.deb
+Size: 118924
+MD5sum: 0cf8fa6bd73e032d4aa2274b42dfc129
+SHA1: d71b57ce6500b0d85e9f2a350742dd8671a17a71
+SHA256: e22b7046238dceaf658c1af234c561179f96854d0f1a22eae4d24ce0cf071023
+SHA512: 5becb0a820448a675b8242b8e4c76a161ebc7d6dbe39a9a73d4f2bbfe94b88367de4b0a105ca19a7f391bd225d87328662369a8b152e6f3035373e966918afa4
+Description: The Best Free Clipboard manager for iOS iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -2979,28 +2997,6 @@ Description: YouTopia by sinfool | The perfect YouTube experience!
 Name: YouTopia
 Author: sinfool
 
-Package: com.skypain.kayoko
-Architecture: iphoneos-arm64
-Version: 2.0.1-1
-Section: Tweaks
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 1012
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko
-Filename: ./debians/Rootless/com.skypain.kayoko_2.0.1-1_iphoneos-arm64.deb
-Size: 118272
-MD5sum: 34991b8fe5f2edecec310239c253da04
-SHA1: b2da2185bb69df2dffb56680daca642676421634
-SHA256: 7bf55230242bf7bc1f2e65db219a31e553a6b294a0572cb2a295992a5c011ba7
-SHA512: d60b43ca006e5d6e732ae3c77dc9b118b2647fbe1b463a3e4c7d15fb8e1061937ca760490621c7f980657c3e86c7385e7036dc70e8b4d3d309d5605d87ab7d85
-Homepage: https://skypain.github.io/repo/
-Description: kayoko Modified 基于Traurige和Lessica的开源项目 支持Rootless和Roothide Kayoko Modified, based on the open-source projects of Traurige and Lessica, supports Rootless and Roothide.
-Name: Kayoko Modified
-Author: Traurige&Lessica
-Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
-Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
-SileoDepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
-
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm64
 Version: 0.6.0-1+debug
@@ -4268,6 +4264,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: chaoge <571652571@qq.com>
 dev: chaoge
 Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/rootful/codes.aurora.kayoko_2.3_iphoneos-arm.deb
+Size: 118748
+MD5sum: 218509f5051b49b10fbd6bd546be44a8
+SHA1: 43f7b6869ea894bab936dce909cb8ebbe38f86d0
+SHA256: e28b1727dc41cfed6e6e260ec87d2ac867562fabfe6ceca690448a8e6c1e1885
+SHA512: cc815ada3271da0027cb17a972085f3fec115d33eeaee3929a06af35017c422903bfd7ae8384510a889c3beb73b57374648dbd7938c7b5890ff3bca1b1ecfa9c
+Description: The Best Free Clipboard manager for iOS iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm
@@ -6398,28 +6412,6 @@ Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-
-Package: com.skypain.kayoko
-Architecture: iphoneos-arm
-Version: 2.0.1-1
-Section: Tweaks
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 1012
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko
-Filename: ./debians/rootful/com.skypain.kayoko_2.0.1-1_iphoneos-arm.deb
-Size: 108228
-MD5sum: f5b9257866f5ffee737e94400491aaec
-SHA1: ebd6fc4e61b38874e7573022a21d79c8100d72cc
-SHA256: 9d77a0e2112d056a4786710254e36007b442e4a79bf12e14ced769418c96ab8f
-SHA512: 5119d289e27123b1ad833a338b5f7c0c7334c1b05ad642d59b15f58185fb0822cdcc9fe608eaf5e4a3e79d5031f0860f00f038c86aef871b956f1830d489e5d8
-Homepage: https://skypain.github.io/repo/
-Description: kayoko Modified 基于Traurige和Lessica的开源项目 支持Rootless和Roothide Kayoko Modified, based on the open-source projects of Traurige and Lessica, supports Rootless and Roothide.
-Name: Kayoko Modified
-Author: Traurige&Lessica
-Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
-Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
-SileoDepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
 
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm
@@ -12224,6 +12216,24 @@ Homepage: https://tigisoftware.com/cydia/
 Description: Filza unlock full functionality, the main program please install in the official source
 Name: Filza Crack-Rootless
 Author: Netskao
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5-15
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/roothide/org.coolstar.sileo_2.5-15_iphoneos-arm64e 3.deb
+Size: 3929228
+MD5sum: 7605247dd81fb7d77afbe449ec62173a
+SHA1: cbe42f1577f90231bf454b9ffb06474eda4276fe
+SHA256: d7a0923125a1e1b7b49da87ea252a830cc40092dfbfd27404eff896c287a528e
+SHA512: ed9634c4bec7c88c806d7dc3dbf9d66dd55599b5e473c3b7b0ec4df954e8a2ef5b0786147ba91f0f0694caf28e8a59b8da1ede1fb9b2adc4ba7313bc6720249d
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm64e
