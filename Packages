@@ -1314,6 +1314,23 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.gilshahar7.pearlretry
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: gilshahar7
+Installed-Size: 428
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm64.deb
+Size: 22980
+MD5sum: 3ce6d22d6f84f618559a198f2db484bf
+SHA1: 787b3f7431be1e272ecafd7639e6223659287111
+SHA256: 8ac5b9b7dc1b60ce24958532890064b62686bc1794be3dcfd2167143985ec196
+SHA512: acbb64582360b3ee378b7681286a6fa47f15b8a32c61cfba50314fdfccab1c8bd76f49c354727c791a2806f59d1d54eb504ee7b72c682ec75a84ced30e97bde5
+Description: Retry FaceID when failed to recognize.
+Name: PearlRetry
+Author: gilshahar7
+
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm64
 Version: 2.2
@@ -5202,6 +5219,23 @@ SHA512: 4e1a703c28d33a555b8d83b8a7c8c07759d7575d42c452f0a35215d7f36fc2babbcf2ec2
 Description: Crack for all fouad whatsapp tweaks (watusi 3, contactsync, stalky, onlinenotify) . Login with any account within the tweak settings.
 Name: Fouad Tweaks Crack
 Author: Fouad Raheb
+
+Package: com.gilshahar7.pearlretry
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: gilshahar7
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debians/rootful/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm.deb
+Size: 22840
+MD5sum: 51e1e6e3a0f8d6ab288afcec79280fd2
+SHA1: 47552ca4f104025d9e3e960ec848203c5b48fbdf
+SHA256: 77af0a7713d2fd1e46d8eca495fb754053629d6d917b2faa91c95eb0e2eb2168
+SHA512: 3941210bedb84d921446614e643e2daa4a195b1f0c569cdd6ad8957733c1f4ea528f3d8f3a2d2073d88e98856a8f4c4c29c5b502bea3671b331986d8410e2532
+Description: Retry FaceID when failed to recognize.
+Name: PearlRetry
+Author: gilshahar7
 
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm
