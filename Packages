@@ -98,18 +98,18 @@ dev: crazymind90
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64
-Version: 2.3
+Version: 2.2
 Section: Tweaks
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1076
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debians/Rootless/codes.aurora.kayoko_2.3_iphoneos-arm64.deb
+Filename: ./debians/Rootless/codes.aurora.kayoko_2.2_iphoneos-arm64.deb
 Size: 118924
-MD5sum: 0cf8fa6bd73e032d4aa2274b42dfc129
-SHA1: d71b57ce6500b0d85e9f2a350742dd8671a17a71
-SHA256: e22b7046238dceaf658c1af234c561179f96854d0f1a22eae4d24ce0cf071023
-SHA512: 5becb0a820448a675b8242b8e4c76a161ebc7d6dbe39a9a73d4f2bbfe94b88367de4b0a105ca19a7f391bd225d87328662369a8b152e6f3035373e966918afa4
-Description: The Best Free Clipboard manager for iOS iOS 16
+MD5sum: 7baa974462a7bb649d5f67e270cb01d6
+SHA1: c30432a8953d8c95a1342dbdf52d4a3a954835ee
+SHA256: b8349c51e2924c0cb93fbbcc36931a8577f1f0b51a967c90e29e9997f5f8bdca
+SHA512: 45e2ab2fff164acf0755db6a60cf1637ef64b8ac32cfbe62e369b7a7a7f0e21b5c41e37979ece4c08c43636e27f5494aa84c664a1aa86349e4d2fc6a299e26cf
+Description: The Best Free Clipboard manager for iOS14-iOS 16
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
@@ -4267,18 +4267,18 @@ Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm
-Version: 2.3
+Version: 2.2
 Section: Tweaks
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1076
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debians/rootful/codes.aurora.kayoko_2.3_iphoneos-arm.deb
-Size: 118748
-MD5sum: 218509f5051b49b10fbd6bd546be44a8
-SHA1: 43f7b6869ea894bab936dce909cb8ebbe38f86d0
-SHA256: e28b1727dc41cfed6e6e260ec87d2ac867562fabfe6ceca690448a8e6c1e1885
-SHA512: cc815ada3271da0027cb17a972085f3fec115d33eeaee3929a06af35017c422903bfd7ae8384510a889c3beb73b57374648dbd7938c7b5890ff3bca1b1ecfa9c
-Description: The Best Free Clipboard manager for iOS iOS 16
+Filename: ./debians/rootful/codes.aurora.kayoko_2.2_iphoneos-arm.deb
+Size: 118760
+MD5sum: 65a6810e13e965c76d834d5dcfc95b67
+SHA1: ca9d81908ab6627312a579ab940877b5f04c74af
+SHA256: 0c36bb766c0fcc69a756867c8237354731c615f31af7a7c456cb21ee2fd4099d
+SHA512: a03aa0aa087dd40e741605383176553b94e21c60e2770b8a1e190613cb7c4fd712b5b035459978f88e4912978df6c5441dd19a0f364aa237d7240a7480608d57
+Description: The Best Free Clipboard manager for iOS14-iOS 16
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
