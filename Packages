@@ -114,6 +114,24 @@ Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 2.4
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootless/codes.aurora.kayoko_2.4_iphoneos-arm64.deb
+Size: 125784
+MD5sum: 69c363867065f4c930de5321a5d9a196
+SHA1: 5cd26306ad189ed7f5e6336525d3495dbb8f4eb2
+SHA256: 9cac6c4c904c9d24ea9f79b2c5db22be8cc1cf843bedcb3fc00cf63f1918a36a
+SHA512: e30647a272b781f4921858170d343a2c4092f46e78c777d4251d2c2b3f5f22b2f2c18c93ab9f4f81059b2d5b9f2517bbb8c0e0d4a501a1ac1eb5e0087d7587f9
+Description: The Best Free Clipboard manager for iOS14-iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -4295,6 +4313,24 @@ MD5sum: 65a6810e13e965c76d834d5dcfc95b67
 SHA1: ca9d81908ab6627312a579ab940877b5f04c74af
 SHA256: 0c36bb766c0fcc69a756867c8237354731c615f31af7a7c456cb21ee2fd4099d
 SHA512: a03aa0aa087dd40e741605383176553b94e21c60e2770b8a1e190613cb7c4fd712b5b035459978f88e4912978df6c5441dd19a0f364aa237d7240a7480608d57
+Description: The Best Free Clipboard manager for iOS14-iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm
+Version: 2.4
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/rootful/codes.aurora.kayoko_2.4_iphoneos-arm.deb
+Size: 125520
+MD5sum: 3797c8ceca0c19473fa06aec846b18ea
+SHA1: b21d6bea5b2dd78659dded5b6705b80db7f59655
+SHA256: 4b71b63b536d0bbb0a2a046146c341fd3aeb5ac1e45521f473c5eb9a55e5c30f
+SHA512: 9fdcc76c2ca316280eaf425f2f54f99cd6467795440368c49e91cd45777a181c2a89dace8a4fd1927913d0b19591e3f98fc0004f4612ac218fce9b031dfe9cb5
 Description: The Best Free Clipboard manager for iOS14-iOS 16
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
