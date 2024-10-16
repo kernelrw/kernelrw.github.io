@@ -1320,13 +1320,13 @@ Version: 1.2.1
 Section: Tweaks
 Maintainer: gilshahar7
 Installed-Size: 428
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm64.deb
-Size: 22980
-MD5sum: 3ce6d22d6f84f618559a198f2db484bf
-SHA1: 787b3f7431be1e272ecafd7639e6223659287111
-SHA256: 8ac5b9b7dc1b60ce24958532890064b62686bc1794be3dcfd2167143985ec196
-SHA512: acbb64582360b3ee378b7681286a6fa47f15b8a32c61cfba50314fdfccab1c8bd76f49c354727c791a2806f59d1d54eb504ee7b72c682ec75a84ced30e97bde5
+Size: 23016
+MD5sum: 4c48ec22cafd8227059d0804f495f4c8
+SHA1: 01535629b7b3abbe733a62a3b4702f559625dfd3
+SHA256: aaa2aa55b23b3e6a508267e66a5cd0b55cfc1214cbc002e4f05e554cfe7b7b97
+SHA512: 3d3117dcb66c6aaa146c4a4b980bc5f4dd7681c559506d805f6859e3c14d9f5b5f0f821b8c40bb88488c61eae8ec415e30275fba30605131b4497f61a4855d34
 Description: Retry FaceID when failed to recognize.
 Name: PearlRetry
 Author: gilshahar7
