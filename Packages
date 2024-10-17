@@ -2512,6 +2512,24 @@ Name: DumpDecrypter
 Author: Netskao
 Icon: file:///var/jb/Applications/DumpDecrypter.app/AppIcon.png
 
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.4-5
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/Rootless/com.netskao.dumpdecrypter_1.4-5_iphoneos-arm64.deb
+Size: 349100
+MD5sum: 82421500738db708c55a1fdc87edb513
+SHA1: 3af2da1d9a60c35273ce0cd8f13916f87c7fe176
+SHA256: 7098928f523792f44b96fed666b9684c682e28863b3d6d80e461e6a32008b653
+SHA512: 31277b3626855b6949fee51e96525a003145912cbdf8c010f238f896aff1a647abf88c432baba29afc5b6211b6e38be8c477fae382d59a9b9b9a06e122249578
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter
+Author: Netskao
+Icon: file:///var/jb/Applications/DumpDecrypter.app/AppIcon.png
+
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm64
 Version: 1.2-8
@@ -6103,6 +6121,24 @@ Author: pxcex
 Depiction: https://d.plutorepo.com/posts/AutoScroll
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
+
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm
+Version: 1.4-5
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootful/com.netskao.dumpdecrypter_1.4-5_iphoneos-arm.deb
+Size: 348756
+MD5sum: 58cba3734eb670387ad695c97a47d32a
+SHA1: da5725751a67c62ca9fa280d421e5193ebde1913
+SHA256: 5aa4e66a42cfc86a6d489dfdcdd7a4c97857b16b6b7862d8b8bae08628a91241
+SHA512: 11b6aedef55667a49841e1aba3af43f0a25caa15a7f302c2f79d205efbfa310337d72fc5577e3b767c1fe19da05bc6b2c3237361172004a4279229e94f7e0466
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter
+Author: Netskao
+Icon: file:///Applications/DumpDecrypter.app/AppIcon.png
 
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm
