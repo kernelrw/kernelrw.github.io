@@ -1340,14 +1340,15 @@ Maintainer: gilshahar7
 Installed-Size: 428
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm64.deb
-Size: 23016
-MD5sum: 4c48ec22cafd8227059d0804f495f4c8
-SHA1: 01535629b7b3abbe733a62a3b4702f559625dfd3
-SHA256: aaa2aa55b23b3e6a508267e66a5cd0b55cfc1214cbc002e4f05e554cfe7b7b97
-SHA512: 3d3117dcb66c6aaa146c4a4b980bc5f4dd7681c559506d805f6859e3c14d9f5b5f0f821b8c40bb88488c61eae8ec415e30275fba30605131b4497f61a4855d34
+Size: 23072
+MD5sum: 7e8b4547fe96aa6ca9ace1165d61184a
+SHA1: c9fb363fa8bc2386298954f6a574c029faef7fc9
+SHA256: dbf8aa5ebe20ab23a795d3bda6868f131b44d84ba2811246f4e675b75027ba5c
+SHA512: ff8dc30dbe2abc0c46c4d373a70a44d785773d901557a941758c2baa44a8c4683c169e1d3becd4ac645b9beb4039a55e884898a4b6323d0b1a70e33ac8304c4e
 Description: Retry FaceID when failed to recognize.
 Name: PearlRetry
 Author: gilshahar7
+Icon: file:///var/jb/Library/PreferenceBundles/PearlRetryPrefs.bundle/icon@3x.png
 
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm64
@@ -5264,14 +5265,15 @@ Maintainer: gilshahar7
 Installed-Size: 428
 Depends: mobilesubstrate
 Filename: ./debians/rootful/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm.deb
-Size: 22840
-MD5sum: 51e1e6e3a0f8d6ab288afcec79280fd2
-SHA1: 47552ca4f104025d9e3e960ec848203c5b48fbdf
-SHA256: 77af0a7713d2fd1e46d8eca495fb754053629d6d917b2faa91c95eb0e2eb2168
-SHA512: 3941210bedb84d921446614e643e2daa4a195b1f0c569cdd6ad8957733c1f4ea528f3d8f3a2d2073d88e98856a8f4c4c29c5b502bea3671b331986d8410e2532
+Size: 22992
+MD5sum: 13e882d1664f5fa04d2c1d3c793f3565
+SHA1: 301ffe4f9af041a9347496b15e1021738fd900fb
+SHA256: 88665bca63c0c690aaf327f8157c18f018ba118c8210e94ed24da325a66b7793
+SHA512: a25226672061d58846973d2d3554e54d273d9c45450cddefd83437561708726598fdcec7accfc8422f21b73d64d190f39a3d2fafc1390c1b32b745574402a2f0
 Description: Retry FaceID when failed to recognize.
 Name: PearlRetry
 Author: gilshahar7
+Icon: file:///Library/PreferenceBundles/PearlRetryPrefs.bundle/icon@3x.png
 
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm
