@@ -2247,6 +2247,24 @@ Name: FolderX
 SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 Author: Lizynz <lizynz@ya.ru>
 
+Package: com.lns.pogr
+Architecture: iphoneos-arm64
+Version: 0.4.0~prerelease1
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 648
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.lns.pogr_0.4.0~prerelease1_iphoneos-arm64.deb
+Size: 80024
+MD5sum: 46becfced4ebb9484e08480e718b968c
+SHA1: 892a85c1a0bac63e18da1d5d8390cd48e5a9a430
+SHA256: 5fc845588439271f751b9f9fcba68f4bbb9f1c57153052bb244f183444c3e852
+SHA512: fbf36495a63b7b40b5e07b4e996be2935ef2f3420e413cb2b0dfb7fa2bdad6738f0611c446aded428834508a8fe6feeabafd1a1334aedba0c3b64698f3c4dd1b
+Description: Treat AirPods Pro 2 correctly
+Name: PodsGrant
+Author: Ruphane
+Icon: file:///var/Library/PreferenceBundles/podsgrantsettings.bundle/icon@3x.png
+
 Package: com.mikifp.khromaa
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -5983,6 +6001,24 @@ Description: Show hidden apps on the homescreen
 Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
+
+Package: com.lns.pogr
+Architecture: iphoneos-arm
+Version: 0.4.0~prerelease1
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 632
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.lns.pogr_0.4.0~prerelease1_iphoneos-arm.deb
+Size: 80196
+MD5sum: 1c644b61ed803935db74f46279085eb5
+SHA1: c62f3fd9fbffc3f74c58d6206de664e800fc7cf0
+SHA256: eb6be320549ef14b08814b583a5411027b26db2018ce2cf6a729faa9b12d10b1
+SHA512: d73b69dd26f3ac56ac1ceb93d8f3118d2ff35c01eef787502d0648b4e6e76938f329a271cbb84008c0aa93f0bbf3f4d8f7d5f0be210087446e385aa851f10aca
+Description: Treat AirPods Pro 2 correctly
+Name: PodsGrant
+Author: Ruphane
+Icon: file:///Library/PreferenceBundles/podsgrantsettings.bundle/icon@3x.png
 
 Package: com.mikifp.khromaa
 Architecture: iphoneos-arm
