@@ -2530,6 +2530,24 @@ Name: DumpDecrypter
 Author: Netskao
 Icon: file:///var/jb/Applications/DumpDecrypter.app/AppIcon.png
 
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.4-6
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/Rootless/com.netskao.dumpdecrypter_1.4-6_iphoneos-arm64.deb
+Size: 350824
+MD5sum: 141d33ec87fa4c171c2026780d731db4
+SHA1: 9b28fb240d9d2d7a2a62c8bd1ff09778a1e869f0
+SHA256: b0d34a85297908fea9e9040d85f11120b50d8c99ea4d7f2d705b90adbbc5a5a0
+SHA512: dc9efe5a72b6d5975ec4855031df2e036af55802c6c92785517e267fff1887991eafc1cfac4961e0994450c6ea8418e69d2e0d8d6987b835b35545339b91d426
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter
+Author: Netskao
+Icon: file:///var/jb/Applications/DumpDecrypter.app/AppIcon.png
+
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm64
 Version: 1.2-8
@@ -6135,6 +6153,24 @@ MD5sum: 58cba3734eb670387ad695c97a47d32a
 SHA1: da5725751a67c62ca9fa280d421e5193ebde1913
 SHA256: 5aa4e66a42cfc86a6d489dfdcdd7a4c97857b16b6b7862d8b8bae08628a91241
 SHA512: 11b6aedef55667a49841e1aba3af43f0a25caa15a7f302c2f79d205efbfa310337d72fc5577e3b767c1fe19da05bc6b2c3237361172004a4279229e94f7e0466
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter
+Author: Netskao
+Icon: file:///Applications/DumpDecrypter.app/AppIcon.png
+
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm
+Version: 1.4-6
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootful/com.netskao.dumpdecrypter_1.4-6_iphoneos-arm.deb
+Size: 350636
+MD5sum: 04c3f776bc3943b073c8038ee0dc5fb2
+SHA1: 3989300a146054331ff81ee16aba86d06f78be89
+SHA256: bbbd3d3b823432df078e1500e7da63cad70701d0168dff5030ab4e06eb0e3f4d
+SHA512: d3fc89c46587f3e6a0ea93b6e8f96738152c5a8740571a6430dc91f5df5d73b91d28db8725026cb1c298298b5d66b920d4df217dc4ec7bfdbd3cc1d144b22818
 Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter
 Author: Netskao
