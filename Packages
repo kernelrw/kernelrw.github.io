@@ -2566,6 +2566,24 @@ Name: DumpDecrypter
 Author: Netskao
 Icon: file:///var/jb/Applications/DumpDecrypter.app/AppIcon.png
 
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.4-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 896
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/Rootless/com.netskao.dumpdecrypter_1.4-8_iphoneos-arm64.deb
+Size: 376720
+MD5sum: cdee2fefc51a58bffb25a759fa2a769d
+SHA1: af810b7347570e8f30ab4c6dc6939cefc311dde4
+SHA256: 9579dfa89c45bef67ccb2430747e1de02ca448e13cf5e6bd909a6d97518770e9
+SHA512: dbfffdbcd176ad4ac1452563b89b21a7f4d7ae6536a6e7620bdbac6b9110a5a84caba0c3bf74094e321dcd25c1dd18493afa1ad8bc3eecc6fa6b67cac0069a96
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm64
 Version: 1.2-8
@@ -6211,6 +6229,24 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter
 Author: Netskao
 Icon: file:///Applications/DumpDecrypter.app/AppIcon.png
+
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm
+Version: 1.4-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 896
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/rootful/com.netskao.dumpdecrypter_1.4-8_iphoneos-arm.deb
+Size: 376680
+MD5sum: 9e2b0acded7e8a1da4280a0684c89dc9
+SHA1: 931c5eadde368864510f06e69ef50e2ffaadab25
+SHA256: 592fa23fc12f473eb6706099fe472810485d29640e1c8fd78e9644116bb87cb3
+SHA512: 92d59e6d2f2107ae952c04e71d592d2e8899549b33079a55b117487112ffca9b240714f17637b4822fefab44a5321169b4d578af66286835f625c804966a990a
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
 
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm
