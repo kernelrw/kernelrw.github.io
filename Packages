@@ -132,6 +132,24 @@ Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootless/codes.aurora.kayoko_2.5_iphoneos-arm64.deb
+Size: 125856
+MD5sum: bc5b3236b87f7544af68cdb41df465a6
+SHA1: 2877635a1af6a6e042b9e8db9641e0ceb8c8957d
+SHA256: 1d028a9840af41254e4c1f8493f2c3f8f36da052591b11950753e46cb30b8df3
+SHA512: 15442e8170f3751efafca8cf8a6d472b8f0902966cb603fa4d939a28c9824f974278050fa21361c184ac01d1166e0caa274978f30b5892ff2d2f14ae070eb34e
+Description: The Best Free Clipboard manager for iOS14-iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -968,6 +986,28 @@ Tag: purpose::extension
 Author: MrDeNsor <alianwer9988@gmail.com>
 Name: Respr1ng
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respr1ngDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: mrdensor
+
+Package: com.den.shortcutx
+Architecture: iphoneos-arm64
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 180
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.den.shortcutx_0.0.1-1_iphoneos-arm64.deb
+Size: 10788
+MD5sum: a6551ce6bef2cdac6b2be8b85644211a
+SHA1: 40627f393acb3630ed3e5ef5d390fa2758e042eb
+SHA256: 262ddba2a4e091e5ac53043ae805277e8e036ab90ce4277aa5fff7c4fc5160e7
+SHA512: 3ec6547eb7dda847a3696760ebf9116be163f6e444c50aa5f2d66da0c6fb72a463e3d9bb58f3d8abaf3df5eb9a910b0cb706a2899b39dd7fc5570483f19ef228
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
+Description: Long press on your App Icon To Bring ShortCutx !
+Tag: purpose::extension
+Author: MrDeNsor <alianwer9988@gmail.com>
+Name: ShortCutx
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
 
@@ -4409,6 +4449,24 @@ Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/rootful/codes.aurora.kayoko_2.5_iphoneos-arm.deb
+Size: 125916
+MD5sum: 4ad1e7469b1d7c84f5a7ef0bbc1c085f
+SHA1: f17254ddf264115f533d27ece1e7b591a9258d1a
+SHA256: 079340e51ddf0d407be3aad9df9fa3e34d5ded1db48afbc752cb0488091bbdd4
+SHA512: 02fa9f278d71bc559a5e5c7692b699c36cedc82f76a823f7a64f29bf3ba04a37b7131f22f5c876b5800dafaf9be79873ff31327e6fb3953f15eb8cfb59d50888
+Description: The Best Free Clipboard manager for iOS14-iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -5131,6 +5189,28 @@ Tag: purpose::extension
 Author: MrDeNsor <alianwer9988@gmail.com>
 Name: Respr1ng
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respr1ngDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: mrdensor
+
+Package: com.den.shortcutx
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 180
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.den.shortcutx_0.0.1-1_iphoneos-arm.deb
+Size: 10448
+MD5sum: dc6f7fe3ed1e89e8a46cd49d1cb24ab0
+SHA1: cc07bf7cb07f50be01ac0e088ad87eb8a96d0170
+SHA256: 2e2aba831cff00024c7f3e0a86923f70cc40d182534bfda05639b54857bffcc0
+SHA512: 59d0e2e76a6619edcdd49e37dcaa0f6a6e4bb3509328f142dcd4d0a9fe291f3e67628486e62df5d3a4d558347243505d9f9add1af1108ca76ce56d26bab9030a
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
+Description: Long press on your App Icon To Bring ShortCutx !
+Tag: purpose::extension
+Author: MrDeNsor <alianwer9988@gmail.com>
+Name: ShortCutx
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
 
