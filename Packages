@@ -1027,6 +1027,24 @@ Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
 
+Package: com.dvntm.cc18s
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debians/Rootless/com.dvntm.cc18s_0.0.1_iphoneos-arm64.deb
+Size: 4508
+MD5sum: 0d6c6caf63527c06c0462292f0c72c08
+SHA1: e9a5ac81b45e337d242c106ebf49752f33cb110d
+SHA256: bac02575a4b3825c5e513deedc6df51452f33a8d961356d494ff5e84cda9c64f
+SHA512: be291aee9b08b051e8d8fb124d2815111b7c9477cd4c0cbee2a497a384dd3b768b127f1aefddd78b8b49813f69de0d766f3f75bba8205443640babdcea38f1a1
+Description: Round CC modules replication, like in iOS18
+Name: CC18 iOS18
+Author: dvntm
+icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -5213,6 +5231,24 @@ Name: ShortCutx
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
+
+Package: com.dvntm.cc18s
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debians/rootful/com.dvntm.cc18s_0.0.1_iphoneos-arm.deb
+Size: 4204
+MD5sum: 0f3d3b972733d63ab698cd11056d6be5
+SHA1: cd8a975497c033b0a8c678b303846b7961523b77
+SHA256: f5540b46c5158ead6cf6822c99c666e70ed4cb7bf92e9e45814ecd779e814fd0
+SHA512: 76a1f48ed01cda940dedfa4d58ae40029341cde4a015998089f7c55b8b507cbf026e213a0251b99ec3fc4e710fd4bf887a8ba3ab986881d5fbb2bfe01ca7c32c
+Description: Round CC modules replication, like in iOS18
+Name: CC18 iOS18
+Author: dvntm
+icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm
