@@ -1027,23 +1027,23 @@ Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
 
-Package: com.dvntm.cc18s
+Package: com.dvntm.cc18
 Architecture: iphoneos-arm64
 Version: 0.0.1
 Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Filename: ./debians/Rootless/com.dvntm.cc18s_0.0.1_iphoneos-arm64.deb
+Filename: ./debians/Rootless/com.dvntm.cc18_0.0.1_iphoneos-arm64.deb
 Size: 4508
-MD5sum: 0d6c6caf63527c06c0462292f0c72c08
-SHA1: e9a5ac81b45e337d242c106ebf49752f33cb110d
-SHA256: bac02575a4b3825c5e513deedc6df51452f33a8d961356d494ff5e84cda9c64f
-SHA512: be291aee9b08b051e8d8fb124d2815111b7c9477cd4c0cbee2a497a384dd3b768b127f1aefddd78b8b49813f69de0d766f3f75bba8205443640babdcea38f1a1
-Description: Round CC modules replication, like in iOS18
-Name: CC18 iOS18
+MD5sum: 7b5eb8affad0e9c44d625075746df726
+SHA1: 3714c9afc9680d8ca1a8635255306cb00fe9f6f1
+SHA256: fba4a051fb0767b6566dd12340e290c09eda05015f6215b75361c03b64c90a19
+SHA512: 8e44b170b71fb96c8bbb45b6b3952ab943ba39c7e769f8db34fda85a19e0a5c6fa692683118bde344401ab2644014616506af4ffc425f893a014aaae87d6f0e0
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
 Author: dvntm
-icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64
@@ -5232,23 +5232,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxD
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
 
-Package: com.dvntm.cc18s
+Package: com.dvntm.cc18
 Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Filename: ./debians/rootful/com.dvntm.cc18s_0.0.1_iphoneos-arm.deb
-Size: 4204
-MD5sum: 0f3d3b972733d63ab698cd11056d6be5
-SHA1: cd8a975497c033b0a8c678b303846b7961523b77
-SHA256: f5540b46c5158ead6cf6822c99c666e70ed4cb7bf92e9e45814ecd779e814fd0
-SHA512: 76a1f48ed01cda940dedfa4d58ae40029341cde4a015998089f7c55b8b507cbf026e213a0251b99ec3fc4e710fd4bf887a8ba3ab986881d5fbb2bfe01ca7c32c
-Description: Round CC modules replication, like in iOS18
-Name: CC18 iOS18
+Filename: ./debians/rootful/com.dvntm.cc18_0.0.1_iphoneos-arm.deb
+Size: 4432
+MD5sum: be21d1b9f0260850f767fd42593457be
+SHA1: 57395083bcb14b3a796559b7a79b597ae53dd95d
+SHA256: cf5f7f13609c14b4723c9b4468985b6ba3254ec4b84aafd33522607b5eac8d58
+SHA512: bd63b068b1adc69b45a1fae50a25be3a23dd8bfede8cbc2d1e41ca4c18ab8a99f9e48b2ceb4e46219414140e5014d5030c86d6ea782cf79b328c4c284376e5ab
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
 Author: dvntm
-icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm
@@ -11601,6 +11601,24 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotific
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
+
+Package: com.dvntm.cc18
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debians/roothide/com.dvntm.cc18_0.0.1_iphoneos-arm64e.deb
+Size: 4448
+MD5sum: 1652b7d896dc72388c0d7bb386270c40
+SHA1: 65092c26d94dd6e487d58b70a3f024b2a8da1088
+SHA256: 744536a5c70b0a626f42d8c157429f97657393506bef375e3a4b7af6f196479a
+SHA512: ae4c8fc5be8ea52663b6bd136140926d499be292ee46c88cb0b884087af07e9cd9e05be9f9479f4f736db3772fdf9bf250c0fa46acc1e58798e16fc93c5474d2
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64e
