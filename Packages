@@ -1079,6 +1079,24 @@ Description: OLED Dark Mode for iOS System Keyboard
 Name: OledKeyboard
 Author: dvntm
 
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm64.deb
+Size: 4756
+MD5sum: fd51d52423dfc6971f349eb5432474fe
+SHA1: f688fed54b7ac984dfeff0824dd09680906cfcc1
+SHA256: 0189f2f02d232f4a9c444ec7482434643630987a1448e54bb384e9b99fda66ef
+SHA512: ed1f230a8b0a3eccbc465e75de77f0d381f7e530f5e80ae18a2ba0fc92dc4bc1682596c893bd99ec434a1109b792e3607eccd65894b9effbd62ac0e64f9e450d
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -1313,6 +1331,25 @@ Description: Library for Watusi and WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.fouadraheb.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 12532
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.fouadraheb.appdata_1.4.3_iphoneos-arm64.deb
+Size: 4627144
+MD5sum: a0f3451e8a8e158aa615691c592ecf2c
+SHA1: 2cf460336e2ccc0b5bf1148801187ba2a716e8b1
+SHA256: 73190e82b4c46aad7a5561ceb0059b26281e72d925f09ef1db2349e72804afba
+SHA512: d3d56973deb64443e89642309b1bdcb91d9f9ab2d96f6b778f8a892f993ef4b13f342177005d08b867f5c341ce86f619ea4dfbdd3eb0882e2358f5fbbe271f7a
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 
 Package: com.fouadraheb.ffuckoff
 Architecture: iphoneos-arm64
@@ -5284,6 +5321,24 @@ Description: OLED Dark Mode for iOS System Keyboard
 Name: OledKeyboard
 Author: dvntm
 
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootful/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm.deb
+Size: 4464
+MD5sum: 6d130c2bb996c8337477308723cd33bf
+SHA1: d4c13934f3df86edfba3cca916e5696672be298e
+SHA256: ee2867707e2f24fef55c32947486971e7420781b4c4bc46bdb119d865e7d300f
+SHA512: 64ea895bdd656f004ac96ff1f7f2d3810b38a0e0c8ee046a2c87a11774f5c0ad021d1d5b24e5026609821615ef63b35d6075ee70c8961b44cc5822e50da9f67e
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -5427,6 +5482,25 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.fouadraheb.appdata
+Architecture: iphoneos-arm
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 12532
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/rootful/com.fouadraheb.appdata_1.4.3_iphoneos-arm.deb
+Size: 4626864
+MD5sum: a2da97525efcdb72322958c320e4ea26
+SHA1: 003d2a7bf25b932f6a245c1e7eab37dfd23f6521
+SHA256: c32191239112c633b47c812b43c9f93a3420bccbf2b9db715ebe90124c286830
+SHA512: d3746c20304b2bdc88dc98acd31466619703bdc76d5afb34e5734c8c014e6355e0426b672ad504c75d88f1955e7f336798a14badfd271f47edd605416732a7a7
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 
 Package: com.fouadraheb.ffuckoff
 Architecture: iphoneos-arm
