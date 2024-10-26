@@ -909,6 +909,25 @@ Name: OledKeyboard
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
 
+Package: com.dvntm.ratebegone
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.ratebegone_0.0.1_iphoneos-arm.deb
+Size: 3164
+MD5sum: 961e09f117e1de2ab470c368cd05c1f3
+SHA1: 7e1b2664b179c124f79983fa1722e018948626fe
+SHA256: 6797494654556d1a5e49eb42afe0a29dd3f558dd1871c3f4f9c374bd7383f55f
+SHA512: ea700ad906b1952c939b70e4e47b61092f19b7bc8f2e340553df06f4d3cedfd264eb48c04ab5199257ec72d1dcbb243d5297cdffdf1e1fd89a6c856e0ba301b6
+Description: Removes annoying rate app pop-ups
+Name: RateBeGone
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -7372,6 +7391,25 @@ Description: OLED Dark Mode for iOS System Keyboard
 Name: OledKeyboard
 Author: dvntm
 
+Package: com.dvntm.ratebegone
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.ratebegone_0.0.1_iphoneos-arm64e.deb
+Size: 3176
+MD5sum: 1e96b688f65ce9ea233a4efae7ecddfe
+SHA1: 686f2122e5e2f09f1c6eb93bad924c70e1afb4ee
+SHA256: 9b22f9a93d38dbabee0be65391fcafb375252dac0140bea76f1009a03310691f
+SHA512: d336bdb29806d4c856199b6fbba4ab03869d0468dbcbc8502f44a312d2693169e1d7c97b55355d060fa82e62a5fb56f6dbb486365d53ceea45f0ebde89d7a28d
+Description: Removes annoying rate app pop-ups
+Name: RateBeGone
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -9569,6 +9607,25 @@ Description: OLED Dark Mode for iOS System Keyboard
 Name: OledKeyboard
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+
+Package: com.dvntm.ratebegone
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.ratebegone_0.0.1_iphoneos-arm64.deb
+Size: 3252
+MD5sum: 212b5a6765b8300478dacc3cc278bd6a
+SHA1: 89729705fe7d2cfbac362e0030deeed93bdb7991
+SHA256: 383af30db6594dca5017bc60d392461548200c2eba9c2194c56b97c6137e131a
+SHA512: 0300a896632c8031c2d02e7b98157e82af29f2361bd49d11e469649b1111bbdc916fc6a202737acf2a8a399fde16ac4fd93867cd096b051c6069773b1e6544af
+Description: Removes annoying rate app pop-ups
+Name: RateBeGone
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
