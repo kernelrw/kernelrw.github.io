@@ -2554,6 +2554,26 @@ Description: Native island notifications, just keep it simple. Supports only iOS
 Name: native-island-notifier
 Author: sunshinesong
 
+Package: com.teslaman3092.popoutbuttons
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debians/Rootful/com.teslaman3092.popoutbuttons_1.0.0_iphoneos-arm.deb
+Size: 53244
+MD5sum: 11f9313b9f81eb945457ec149ebc46da
+SHA1: 72baef148ef2d4304407660c817f306b7d5c0a1e
+SHA256: c1d6215964083b9282884d1518d6d8fc6d7484e9cf9596ad4069a9ceec6ab045
+SHA512: a791ce49921d90686b99d8b9aa0a5052b5eb4e9931df4395bd7662f6661b77c392bc344b56a8bfbbe5ddeb25b99fa8f41cdd11ae4a980a6a303798bc52d76e70
+Description: PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Name: PopOutButtons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Depiction: https://chariz.com/get/popoutbuttons
+
 Package: com.vaguvagu.nicegram
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -12043,6 +12063,26 @@ Description: iPad Switcher but for iPhone . Supports iOS15.0 ~ iOS16.5 on Dopami
 Name: PadSwitcher
 Author: SWING
 Icon: file:///var/jb/Library/PreferenceBundles/PadSwitcher.bundle/Icon@3x.png
+
+Package: com.teslaman3092.popoutbuttons
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debians/Rootless/com.teslaman3092.popoutbuttons_1.0.0_iphoneos-arm64.deb
+Size: 54168
+MD5sum: 943701c41013f68e2905a322c4844736
+SHA1: 474a6e5914fd803d2f64a630ba2cd8c6749ede19
+SHA256: 305f79709e546153e5c8bea9acb3da45388f7ed5fdcfd06917d2d326e9c24d67
+SHA512: c45a5de0d56a55590c81426ccb6c5a1a0f77ce20df76d76ed551c26d31380f97b80d23659fd441be0d67b5ab056e095c49cedfb19f5c3a5cf9448febe17a4cf6
+Description: PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Name: PopOutButtons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Depiction: https://chariz.com/get/popoutbuttons
 
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm64
