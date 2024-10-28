@@ -2165,13 +2165,13 @@ Version: 0.0.1
 Section: Tweaks
 Maintainer: noone
 Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootful/com.nolimit.telegram_0.0.1_iphoneos-arm.deb
-Size: 2698
-MD5sum: ede248875b18a36d1777063234a9809b
-SHA1: 4a69bf1979e0ba28e5c4f1680a81cbb0348d482d
-SHA256: b9765e36698a1d6f7ebd75a6c9bb62ef239a83be14583fc4a71b4e1357695dc5
-SHA512: cac6c4cfeb745f250301d494fc5ceaa0b72da1dcbe3d7262905141f99884cc441894375c0526265f5b94b90b028f2acb37d8a7807ca0c4b0c0ce46d7d0eaf5ed
+Size: 2760
+MD5sum: 3732b339291a7612647a4986f7319261
+SHA1: df3a0218908adfcf07be65bb251e3e373a97932e
+SHA256: 425f533441ee4071679983885a436c620136e99f47009e995c6f8752790bf52b
+SHA512: 6f50f54579283f162eb595d1f3ee2a59c5de22348fae30313a96d3ab066e4973df5dd71d335f9b1fafad55dc5226c75dc351a6c1976bb79d907fb96c7b8b95e1
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
@@ -11386,11 +11386,11 @@ Maintainer: noone
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootless/com.nolimit.telegram_0.0.1_iphoneos-arm64.deb
-Size: 2912
-MD5sum: 8137087ff58db4dc86459f94dc64d466
-SHA1: bb543f8492d145fe84aa6e3550aa90ee8b43fea9
-SHA256: 02e422fd596ce1a888f7572fb41b875102f8c2f6a871c094ba590095f1fad9b5
-SHA512: 624ac67cdb6ea3c161fd4dd3cc8d6976a60ac35f29060ccca1c4e2545becba1f7a315b04490c8fd0f8a84799d126e0923b0ec00ec27e964daa2adc503994b817
+Size: 2956
+MD5sum: 0ab7d185938a553e4c31a79d397ddfbd
+SHA1: 38fa41cb0a7fe1c838de167d7e51a2311eb3818c
+SHA256: 7450e9c0d788f0240ac84053062a204612676632f16c1bc97398b0ac694c7b62
+SHA512: 94c8c169a8b9d9a1babb7e1b1417a0311897c4b314909f9c87316f6793804295fe91fb2b8104e1f3eabe34fbb5775c2f34eeb7db1e140313a704b8099a8ff119
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
