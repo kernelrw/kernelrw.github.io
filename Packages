@@ -2734,6 +2734,57 @@ Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
 
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 60
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.1.0_iphoneos-arm.deb
+Size: 7780
+MD5sum: aba0d2a5a2b9bcee69c9f830c8121f48
+SHA1: d801572ca6b76321e9b866fe707dc6cfd8fac022
+SHA256: 90e5097a6102eb063b1e0c4fb291b2f8ecbf0fb3a56699abca55cd0bf72e37d8
+SHA512: d1565a2ef97d2d7aebdc21c82f0e46b04b58bfec24fe1c02f5ba6190945b2eebb704d3aa79862a3f9fc67cad833c2acf6de377275a4333145a1a64744160fbba
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.2.0_iphoneos-arm.deb
+Size: 10858
+MD5sum: ed926da28bda36dada10444dc3258708
+SHA1: 229092bc00235eea39aeeecafd6e3f66c87e6503
+SHA256: 6eaba0c3f73c41321821f00dc7312c88a910fbe3d85cfbccc78fc85f61c21419
+SHA512: f3d85d5c67a36250fe38d7586700d35bac709e9157eb06bcb163ecd124d2ee75605dab7d33cbd1ece9dd1cfef49588dc3604403e3e3f9e8d056c21ce8351dacc
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.2.1_iphoneos-arm.deb
+Size: 10892
+MD5sum: d481e24d8bf73eb5e2d39be921658b0a
+SHA1: 6690720b9a4b6d12936ce83b95dca802e6e91d6e
+SHA256: 9f79563306c34fcf86bc74e61e716180f68df78913f5a14e954ffcf88d5deb25
+SHA512: d417ab3cf62a492c6b21d24ba52103f9b8e92a400e821abdf3a9618a0dc788a026bb496986dbeac20410ea41006a6baacd4f147469af0944af26bb8ee26dac43
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -12453,6 +12504,57 @@ SHA512: 764aef192b37c64ea8f34020fb7eee894c2dc97f2f9867bd0844a9f40b64590a4d60d5a2
 Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 60
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.1.0_iphoneos-arm64.deb
+Size: 7856
+MD5sum: 049812bfabc0c29eec3673a28aa3e094
+SHA1: 25d18da5690c0a930b1786ddf941cb9d9eaf6ffe
+SHA256: be0377657bc7581ff9cfbb6e9d363e012f160eaf74b5bb8e347e04dfb45b1aa2
+SHA512: 7b840046af271289ec76ad16aec8ac674f90eeb47ac60da63b6fc8cf21c03afa709b84ced9c31f8a4f206cd7374c9fc3916d6b75fcf284d420ea423171dd0951
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.2.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.2.0_iphoneos-arm64.deb
+Size: 10966
+MD5sum: f3d188650bc18c0f3748bf794a3525ac
+SHA1: 55a26d4b9bafdb823d46f593478db60ea6827032
+SHA256: b1e27eab606cfe976cc9f2ac50469496ca094e93ac7060abe66ab48c116b0070
+SHA512: febbe27fe68973b677d5e4af685d9f213fa6d2c4f6dcc0fbeec4ebdb74997b7284c3888deb7d22289702dcda1bd4f6f5321f90ead029da1f960118c992a2d763
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.2.1_iphoneos-arm64.deb
+Size: 10966
+MD5sum: a2edf76380b0f115613b66680890f50f
+SHA1: 46cb37bee7826fe941afc31c5c7c0f5965c86899
+SHA256: aeec7f77e50d94ae321e14162f4bf7c2b1a0d683ee47264c8342da5a7690bd0c
+SHA512: 42369866d9ddcfd633c7c775c6655bac071a93d6e6edd43252650df0e2d33cac2096c47e749daa95e06e053dfa7d9f9b39b8141420616189d42d24d4eeee9455
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
 
 Package: dev.ayden.ios.tweak.lib.libdundas
 Architecture: iphoneos-arm64
