@@ -893,6 +893,25 @@ Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.cmm_1.0_iphoneos-arm.deb
+Size: 34896
+MD5sum: ab893087bd5bd433e29120b2a79ca66c
+SHA1: 8c7add6fd01e34453f1a5f48d610985dd0464534
+SHA256: 3f17b952a7aa6c6cd7b0ff27b2c576d52fc4a05ae8a63519873973f98a6a7007
+SHA512: b0bc1d39839539cb9a9954cc973b1035dc803f6da6d5ae50059af741d96321524b882fba1b7336e31b24d73ecda1d44e7f85e49af9c0c9500d69a0fd96763ba0
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -7535,6 +7554,25 @@ Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.cmm_1.0_iphoneos-arm64e.deb
+Size: 33948
+MD5sum: 8ab233b7c0a0ae3fc50b1a81d66f7620
+SHA1: 84e543f8c3c53d911a88ee06855ccd99d3636331
+SHA256: 621500489ddf84d079cb93d8c782d3c85e3b34a11f653113ddfa3e0c73056afb
+SHA512: c2a87a58839392cc186d49f258598bf752910da56338c9ceee01cd07cfb5ac1bc8f9fa9dbffb8e2714466cc9195ede8cfd4ffa84cc68177a80f20e505e541128
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -9769,6 +9807,25 @@ Description: Round CC modules replication, like in iOS 18
 Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.cmm_1.0_iphoneos-arm64.deb
+Size: 34796
+MD5sum: 128264f679269e66692603fd7d52909f
+SHA1: 720062c3c208576bf8f9464285068555afd25a8b
+SHA256: 8459dab939d0b362c4406d249d4ce293454e15d14e7690bee301e137e3e348d6
+SHA512: 17ec94a1f92d6fa4ce9fb89dcbe28a153ae03d124453ae70e107590d36bba2f5561f1b9fe16f0d62842324967802eb69ba09f1f0a8b6fd73b7e39f9b934ea59e
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
 
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64
