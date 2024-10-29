@@ -92,6 +92,42 @@ Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm
+Version: 2.6
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1104
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootful/codes.aurora.kayoko_2.6_iphoneos-arm.deb
+Size: 126564
+MD5sum: 73e9b84dab1288c67ae90bf70bba7fbf
+SHA1: b41bc65325e4eaef5eeb5cd6e735b5c725da528d
+SHA256: b8b7792cabf8c18cfc4d48c021cdc9e221bc0e6f334c99057104b5aafc350e3b
+SHA512: 2aa4832b214ae521a7d33c024bc60247e099a153d60c7b090eea6d64082dffb1bc24eea34e904952e450d64e8a829a08099376f25e20f4311ff75ee85257c2d4
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm
+Version: 2.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootful/codes.aurora.kayoko_2.7_iphoneos-arm.deb
+Size: 123836
+MD5sum: 547f36d1555a894a6aa91dfd2a15b6e8
+SHA1: b164504fdfef6da156a5001e4d135f3eb243571e
+SHA256: 3c7379c5018d79e8b1c5c8133a0f4af07211e9edd5ce369f9c45ec3caa674f6e
+SHA512: f79f077dc75fd29d891d0b37ddca78f1bdd26057442897e3390223a8cdb41996ac18a96dcd82af3f8f68ffcd100082ae6d7b9519f4f422a04050bebe29ce6754
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1835,6 +1871,24 @@ Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
 Icon: file:///Library/PreferenceBundles/podsgrantsettings.bundle/icon@3x.png
+
+Package: com.megadev.sentinel
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: Tweaks
+Maintainer: MegaDev
+Installed-Size: 752
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
+Filename: ./debians/Rootful/com.megadev.sentinel_1.3.2_iphoneos-arm.deb
+Size: 77416
+MD5sum: ce30d6418bbe62b1dd1a532ff696b1b1
+SHA1: bcc84c8ea8b58295597c30dd0a886b8cb4a01bd1
+SHA256: 7ca76787bf7b83a680cffa619a48273fac577380c71cfdd80de2133d829b17a3
+SHA512: c32f4757e24e307c4b4982883d3236a2b48f2323cfa9752c0224bdca9856beb297f223203cc104ccad685ed76c223dff5011eb8a336fe8c10b41637fd7bbe8d2
+Description: Stop losing your jailbreak when your battery dies!
+Name: Sentinel
+Author: MegaDev
+Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
 
 Package: com.mikifp.khromaa
 Architecture: iphoneos-arm
@@ -7318,6 +7372,42 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.holdcpu
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.holdcpu
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64e
+Version: 2.6
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1104
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Roothide/codes.aurora.kayoko_2.6_iphoneos-arm64e.deb
+Size: 126688
+MD5sum: a1407eb22b5ba7cac9cbfef12ac74d50
+SHA1: d0eff2c9e0e778eaf24422f41df77e7bd20b2db1
+SHA256: 2cdf6755de01e4092bf66765b728984fc897856ae3f75ccd77ffcdbdaa2ecd31
+SHA512: 441872866e54be536b2d48fe5d89d6c71662b7a1b0e8b8d875223ac76628fcf901df78ae30a4d23346cd15509f59a65c186a0586cfab5021ea06d5fdb75f520b
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64e
+Version: 2.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Roothide/codes.aurora.kayoko_2.7_iphoneos-arm64e.deb
+Size: 123956
+MD5sum: d4323431f5ad502af980fababe1d0ce0
+SHA1: 8d6543f6ebf3f27d8b53e2f6352b7a2c1acae85d
+SHA256: 75a888282bb52d42c08a5c94ad486336d4600154df72ed7842381c52f78868d6
+SHA512: c5e2d4560aa07155adf54ef4d2b9d3a11bc593e19d0c14ccf94967f18e1bb05fbc8d9e93fcf88726690a376e72bce48f0622ac10b246d40ce089d040758279e2
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
 Package: com.0xkuj.lscontacts
 Architecture: iphoneos-arm64e
 Version: 3.5.1
@@ -8694,6 +8784,42 @@ SHA1: 2877635a1af6a6e042b9e8db9641e0ceb8c8957d
 SHA256: 1d028a9840af41254e4c1f8493f2c3f8f36da052591b11950753e46cb30b8df3
 SHA512: 15442e8170f3751efafca8cf8a6d472b8f0902966cb603fa4d939a28c9824f974278050fa21361c184ac01d1166e0caa274978f30b5892ff2d2f14ae070eb34e
 Description: The Best Free Clipboard manager for iOS14-iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 2.6
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1104
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootless/codes.aurora.kayoko_2.6_iphoneos-arm64.deb
+Size: 126168
+MD5sum: 0f70ff161292cbdd1245a1e90d4a4907
+SHA1: a885f43ef832abef4a2427aed4e9083234ca379c
+SHA256: be38fd966be6ce04bbef7b832477074ffa7e617ce3e905c316a79cbeb096a050
+SHA512: ffdadc31c5f945606a06eaea2d87af2c3ae8a2da38101277c31f28fa5c0267409821a7b7656fe05fb29a91eaed8168d3bc2c0b6780e017a52e25bf502024b234
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 2.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootless/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
+Size: 123644
+MD5sum: 6a879bd02b9b5531b781b168a0b7c395
+SHA1: 6d83a489e20509f0c709bcb6289fb526dd402b10
+SHA256: 9eb4520142c6cecf4e0989c9a8850f23fba1830c06b92f8f146ab87ab6d13270
+SHA512: d30b57b434903f8452b4d80e18d4cbba74476f713e2a11100c22624429f93438e83e2cb5e8dcb8b55e3660d04a1e65b6c0bf5e8c1862b9afee25b1a8cdfbd423
+Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
@@ -10945,6 +11071,24 @@ Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
 Icon: file:///var/Library/PreferenceBundles/podsgrantsettings.bundle/icon@3x.png
+
+Package: com.megadev.sentinel
+Architecture: iphoneos-arm64
+Version: 1.3.2
+Section: Tweaks
+Maintainer: MegaDev
+Installed-Size: 752
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
+Filename: ./debians/Rootless/com.megadev.sentinel_1.3.2_iphoneos-arm64.deb
+Size: 77368
+MD5sum: 47e4d26753bfdbb167cc64afa8a7efb6
+SHA1: fab41c42401665c98e66cff3ebb90185d613c4a4
+SHA256: caa96df1b911944465d71a4b3a8b39f5fa484f069e8a96f45d4729624bfda35f
+SHA512: 96e25e6c2c3e5e0b9c26c6a420e249ad1b635ca3f25524c8998a51a21b92632d908998e1c7262fde3addc50c8e51b1fed04493043e54c10f695a46accd244404
+Description: Stop losing your jailbreak when your battery dies!
+Name: Sentinel
+Author: MegaDev
+Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
 
 Package: com.mikifp.khromaa
 Architecture: iphoneos-arm64
