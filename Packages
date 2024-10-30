@@ -264,6 +264,24 @@ Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
 
+Package: com.82flex.noredirect
+Architecture: iphoneos-arm
+Version: 1.10
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 580
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debians/Rootful/com.82flex.noredirect_1.10_iphoneos-arm.deb
+Size: 55944
+MD5sum: f7f4fcc087843fe0ec2efec4adc9f5b9
+SHA1: 4b90184e87f1ca995bf0da7c20297474c106e129
+SHA256: 1a585dd1e4230794c3d321a1a5b34978428844b9f603c1689cae8ba83a3546cf
+SHA512: 7e2141db17e75002edeb93b8b44a1cdde23e576dd982c7a5e4b1e9f21733f0d75cbcb86a38bfc0023d9560083ee161d1a0872275bd3b11283af86d76ec182669
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Name: No Redirect
+Author: Lessica <82flex@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66ffaad634a8a14a39e9a27a&s=180x180&f=webp
+
 Package: com.82flex.singlemute
 Architecture: iphoneos-arm
 Version: 1.4
@@ -7513,6 +7531,24 @@ Description: Lower your Dynamic Island and make it disappear if you don't need i
 Name: mineland
 Author: 34306, DuyKhanhTran
 
+Package: com.82flex.noredirect
+Architecture: iphoneos-arm64e
+Version: 1.10
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 580
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debians/Roothide/com.82flex.noredirect_1.10_iphoneos-arm64e.deb
+Size: 55876
+MD5sum: 27d3ee0cc2dcd7a2ff5475bc4ca774d3
+SHA1: 0795ecb4846394f2dabff9d1fbdfe70322ae8de9
+SHA256: b2e5156f7f30a56d723be17c75cfaea29e7c806d6a98f854567ff2f1d6cb94f5
+SHA512: eb1d159ed136b26062ba6c37ff48de6e3c12b11b40372d7227813b3f5f8ac8e7bebd8bd6a7731429904379a47172d9ea7c30989784369f06c9f0d8d4a12066a1
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Name: No Redirect
+Author: Lessica <82flex@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66ffaad634a8a14a39e9a27a&s=180x180&f=webp
+
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
 Version: 0.3-6-1+debug
@@ -9048,6 +9084,24 @@ SHA512: ff00121aaf41662b0081f78992f918af2867bc3dca62c35c3599b6c79735ccf75814431f
 Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.noredirect
+Architecture: iphoneos-arm64
+Version: 1.10
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 580
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debians/Rootless/com.82flex.noredirect_1.10_iphoneos-arm64.deb
+Size: 55632
+MD5sum: 80f033528ea5b4d6cf3c8b34ed749c2f
+SHA1: 1d97957531b61184e97b3b3f65f10321526d5532
+SHA256: ba56f4575b11eac09c47e83b7a5573dbef7bf9d821b04e2406a12c8910c573b8
+SHA512: 3495ea13125fc6e47e566dee952a67ea2c9294c1d483c6fbb074215559079b67e19828b137ccb30291831795ab43b806ca86db7be941446e58ba0e7af1893454
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Name: No Redirect
+Author: Lessica <82flex@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66ffaad634a8a14a39e9a27a&s=180x180&f=webp
 
 Package: com.82flex.singlemute
 Architecture: iphoneos-arm64
