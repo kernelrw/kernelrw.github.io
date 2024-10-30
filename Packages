@@ -299,6 +299,23 @@ Description: Just a single mute icon on the status bar of iOS.
 Name: Single Mute
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.82flex.singlemute
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootful/com.82flex.singlemute_1.5_iphoneos-arm.deb
+Size: 23996
+MD5sum: 0640393916d5031982f02b214afe53d5
+SHA1: 69a32205db69ff66ef1ea6860a829877f8e05887
+SHA256: a812ae59b45ea34da9a131fd75e1970ad392c11eb479e6bb0cd741eac7c5e5b6
+SHA512: 040c133a6a0087f200074fbe75ea927d5aa6fc2d733d9e8586422537e46cef970226eb3f0ebe86dfcbd5cdee506a2b9636691d4ed52704f41185ea1394567560
+Description: Just a single mute icon on the status bar of iOS.
+Name: Single Mute
+Author: 82Flex <82flex@gmail.com>
+
 Package: com.82flex.singlevpn
 Architecture: iphoneos-arm
 Version: 1.1
@@ -312,6 +329,23 @@ MD5sum: 1d61ad8841d448451c13c97687f68a91
 SHA1: a3e0b14040402971a6054e70e26cabb30e1e059b
 SHA256: 1f9a887c1d1527b5f36960067d25b5bb67aa43e82a265d1c57ac93d1f0fe84a2
 SHA512: 391fb57be8d709f47971eb7c21301909d550cc2d11a781df6750e156c345439af0b67a3e8de0211f46a9bad232cc36a8fc3e13b11a9af9034b9ac08f160471a3
+Description: Combine VPN state and wireless state into one icon.
+Name: Single VPN
+Author: 82Flex <82flex@gmail.com>
+
+Package: com.82flex.singlevpn
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootful/com.82flex.singlevpn_1.2_iphoneos-arm.deb
+Size: 27656
+MD5sum: ac556d222d25d58922a015780ad8c531
+SHA1: 2ebb2b4ff95765225198f35aaa0213f32c8b2fca
+SHA256: 93c3a13e2d9276ac4eafd4d82978e1223b6f772c5d35550d145d127a1d07ef8d
+SHA512: b75d5dcbf688e82fc82314f5e42dc2f78200f2b48cef375fdc54f299384c1863368772911e975b886931b7e72a37537fe3df5529795fc250c353f850f0709841
 Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
@@ -7549,6 +7583,40 @@ Name: No Redirect
 Author: Lessica <82flex@gmail.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66ffaad634a8a14a39e9a27a&s=180x180&f=webp
 
+Package: com.82flex.singlemute
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Roothide/com.82flex.singlemute_1.5_iphoneos-arm64e.deb
+Size: 23990
+MD5sum: ac49f43269d4887db49fb81bac6b867f
+SHA1: a320ec660f26b881bd4ac3bd57b6e6c82eb0bf5e
+SHA256: b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3
+SHA512: b5301a5ef9b04b7161d75a01820dde6eba3c1a3aa2bb9c146af64eedf58203bd5d7a809095ca2961a4c3f38380d754509067608e4f1579b2e6d05c3ac5c873e4
+Description: Just a single mute icon on the status bar of iOS.
+Name: Single Mute
+Author: 82Flex <82flex@gmail.com>
+
+Package: com.82flex.singlevpn
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Roothide/com.82flex.singlevpn_1.2_iphoneos-arm64e.deb
+Size: 27666
+MD5sum: 5613ad49a9d443105dcb03445f4f75e1
+SHA1: 8b72060d16b2aa2f84565b7f1115fe01bd55f142
+SHA256: 5aba9a6cd07f4afd924dd7f0860f3ffbaff275ee7e53865235973136eed71c7b
+SHA512: 4ca507f3680f7067d6f7de4d37e870d5df6dff5dc70574a1ab3426c060e236f367f6168fd6f99fbe56cc9f653ec1196af575656828a3496138fd0dcc105f96fe
+Description: Combine VPN state and wireless state into one icon.
+Name: Single VPN
+Author: 82Flex <82flex@gmail.com>
+
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
 Version: 0.3-6-1+debug
@@ -9120,6 +9188,23 @@ Description: Just a single mute icon on the status bar of iOS.
 Name: Single Mute
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.82flex.singlemute
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootless/com.82flex.singlemute_1.5_iphoneos-arm64.deb
+Size: 24082
+MD5sum: 5356652a55abab7158081ca825fd22f0
+SHA1: 317a22bcb768e79338e85b85083a7adf7eddd753
+SHA256: 45b2249cd5a19610aeee644ccb0cdf2a5419259f762e59eebb2debbe2d99467a
+SHA512: 234fc3d56fc830ecae10fae5604c2ef12453c32b6b6b30493f53e717d7895a36c60937dfa379ae4ab71713f63ec046521aa275540d25c817632b8055853c618a
+Description: Just a single mute icon on the status bar of iOS.
+Name: Single Mute
+Author: 82Flex <82flex@gmail.com>
+
 Package: com.82flex.singlevpn
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -9133,6 +9218,23 @@ MD5sum: 52ab07eb12a0ea094eb26850c8535e83
 SHA1: 482c95b566ce203f589a1b4ed7c8403b0d44e3ba
 SHA256: ef76166c599c47fe1f958c641fb155bc60550525e34b37b29a730d5a7e7989a3
 SHA512: 092d1b5b86c4d52979dbd75645540d321cdb7571a32a10ed76042d4f9c075daee3e8e11a18b4b19e90a0347cec71b5060d9d4cbb9704f1232e63967ea33cc872
+Description: Combine VPN state and wireless state into one icon.
+Name: Single VPN
+Author: 82Flex <82flex@gmail.com>
+
+Package: com.82flex.singlevpn
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootless/com.82flex.singlevpn_1.2_iphoneos-arm64.deb
+Size: 27730
+MD5sum: a04e7ee4278986e70cf6dfc7d4e8f4dd
+SHA1: d2989a4a66df526bfe2420c404e2e3f7b46e5c3b
+SHA256: 25bf50a2f2851a956ad9a18fa6511c5a018775ad980ba90205be394e0723d516
+SHA512: 4eff0e1e87e2294d2b70ea493ca3a92fb3256e32347f3fcc9e9060c3293c2c8479234f206c2b4cbf7e1e3e1af77e2b91603f3c5636307aa7c715fd899b60469b
 Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
