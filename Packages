@@ -145,6 +145,23 @@ Description: Remove the annoying paste confirmation added on iOS 16
 Name: NoPasteAlerts16
 Author: 0xkuj
 
+Package: com.0xkuj.notificationsgroupcount
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.0xkuj.notificationsgroupcount_1.0.0_iphoneos-arm.deb
+Size: 78044
+MD5sum: c7cc10dd26994d8ccb72edc4ff51d3d9
+SHA1: 11ef944c91e8206b3819854673d34975c264c596
+SHA256: 6c4c9a0f054f1dbcb3458cf0df80c765474d2ba675e7043ba57dc3b45d54639d
+SHA512: a230b509f3bfd466d5d1a73fd00ace8452023dbaf97deaf1b8c897d3c74ee3362a5ad546a31c120327c567f50f7fb02fd16ba6b9f8d832f35bece6623c015b43
+Description: NotificationsGroupCount, count your grouped notifications on your lockscreen as that on iOS18 .
+Name: NotificationsGroupCount
+Author: 0xkuj
+icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+
 Package: com.0xkuj.primedeck
 Architecture: iphoneos-arm
 Version: 1.3.0
@@ -9067,6 +9084,23 @@ SHA512: 4d5ab5f4ea5a8cb57c132b35b715b844331635d5c5eda37f7fec801b36625ab1fc4ea8ae
 Description: Remove the annoying paste confirmation added on iOS 16
 Name: NoPasteAlerts16
 Author: 0xkuj
+
+Package: com.0xkuj.notificationsgroupcount
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.0xkuj.notificationsgroupcount_1.0.0_iphoneos-arm64.deb
+Size: 78960
+MD5sum: a9fc97a1e404b0cec376c392fa51726e
+SHA1: d50a3c6f3fbe35108edcbd3a23f76176ff805406
+SHA256: 1456ac638e4dbf4ce95ef4f296f7b99f7d23ee0034872824f4fd06414f157a62
+SHA512: c460e0fe89e2f61515b978a34353ba2d9e4ee8c0320faab087bf7b70a2af51570ef5fe07bdde3714b71aedc5f94e2e1cce2bbba18868c5cd0737794c3468c77e
+Description: NotificationsGroupCount, count your grouped notifications on your lockscreen as that on iOS18 .
+Name: NotificationsGroupCount
+Author: 0xkuj
+icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
 
 Package: com.0xkuj.primedeck
 Architecture: iphoneos-arm64
