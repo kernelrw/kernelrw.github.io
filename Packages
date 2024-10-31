@@ -3158,6 +3158,23 @@ Description: Ignore unwanted calls!
 Name: WAIgnoreCalls
 Author: nowesr1
 
+Package: wiki.qaq.trapp.jb
+Architecture: iphoneos-arm
+Version: 2.6-407
+Section: Applications
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17276
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debians/Rootful/wiki.qaq.trapp.jb_2.6-407_iphoneos-arm.deb
+Size: 4340532
+MD5sum: 64330b3dbc0351de6a75bb2ddf8daa32
+SHA1: 4f2941b333c62b35522889f7e02edd214c2076e9
+SHA256: 31da6ae2f4018fc04bd4c1d707fb2677a1410a7153c0d71c6627a977fc5e8bee
+SHA512: 4618fd13f9a49ea87ffaa5b5a4d2bd0fb163e6c04b70ae5ad4e24e686449e01d2e02caefddad5d18569328a3d6a679ad5c0e62209f35a4d5dba490020337a68c
+Description: Record your phone calls like never before.
+Name: TrollRecorder JB
+Author: Lessica <82flex@gmail.com>
+
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm
 Version: 1.1.2
@@ -8752,6 +8769,23 @@ Description: Compat Layer for Rootless Tweaks
 Name: rootless-compat
 Author: roothide
 
+Package: wiki.qaq.trapp.jb
+Architecture: iphoneos-arm64e
+Version: 2.6-407
+Section: Applications
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17280
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debians/Roothide/wiki.qaq.trapp.jb_2.6-407_iphoneos-arm64e.deb
+Size: 4340038
+MD5sum: 89122c73f8e4fff5adb9c2d4332a8785
+SHA1: cd91e47f5a21fa7ea3d9c90e5b7a0ef662927190
+SHA256: 5b67957a2517a489ae58b0f6f8767be60408932bfa94a86b49a352eaf93d1778
+SHA512: 02270d02e3a2c7d17f7367b7573257dc31f60904cdf002f758ced40864f73d7b64e5d3f4df96f997194344e83e2bba7fd953e55a7f86377b8c59dd3c9cf13616
+Description: Record your phone calls like never before.
+Name: TrollRecorder JB
+Author: Lessica <82flex@gmail.com>
+
 Package: tweaktool
 Architecture: iphoneos-arm64e
 Version: 2.0.0-beta
@@ -13472,6 +13506,23 @@ Author: Saily Team <support.0xa1@qaq.wiki>
 Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
+Package: wiki.qaq.trapp.jb
+Architecture: iphoneos-arm64
+Version: 2.6-407
+Section: Applications
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17276
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debians/Rootless/wiki.qaq.trapp.jb_2.6-407_iphoneos-arm64.deb
+Size: 4338432
+MD5sum: 89647ef780de6ad936b28567a665a0c5
+SHA1: 8ce5cfa22715a83f227de4791970d88c06d76109
+SHA256: c40b1ff4311ef4469664e7d25ddf67ab875eb12ccd32efc95fd8d35b3196c2d0
+SHA512: a173e07f65a55bdf0ee2829895eea246b28f743ab4164d92741cbddf84665057daf76794c44dfaec22e5950f7f6b25c3a7106ceb7d5e3817ce77166c87bdba89
+Description: Record your phone calls like never before.
+Name: TrollRecorder JB
+Author: Lessica <82flex@gmail.com>
 
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm64
