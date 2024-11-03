@@ -492,6 +492,24 @@ Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
+Package: com.crassna.appcardlite
+Architecture: iphoneos-arm
+Version: 3.1.0
+Section: Tweaks
+Maintainer: Crassna
+Installed-Size: 1076
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debians/Rootful/com.crassna.appcardlite_3.1.0_iphoneos-arm.deb
+Size: 226324
+MD5sum: 439f7ef4573e701078b2b657212d425b
+SHA1: a54de2cf23af15545556f2cda98f315dad0b868b
+SHA256: 52a95b3e28a578a19d081f367e28afee83c072fa35e09c104956464e9164af93
+SHA512: 57236a4488b880d54cc3a30ca83a19bc4f0af971d3b04ae288c1fd2b3a7367aedd4b34b58daae53a79025f87806ac597379205665f576736313a4bec49bb0708
+Description: Cool AppSwitcher
+Name: App Lecard
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -9525,6 +9543,24 @@ SHA512: a4f417660a65aaa71e1a2002a14ea97e78f883255388fd8018b5cff2a851ce0c02276939
 Description: Double tap to flip camera
 Name: TapTapFlip
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+
+Package: com.crassna.appcardlite
+Architecture: iphoneos-arm64
+Version: 3.1.0
+Section: Tweaks
+Maintainer: Crassna
+Installed-Size: 1076
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debians/Rootless/com.crassna.appcardlite_3.1.0_iphoneos-arm64.deb
+Size: 231308
+MD5sum: 9777eca3b865d70a2f66d6e7dd120385
+SHA1: 2bd24aedce1ef0003357174f6c8cc2194cfbea30
+SHA256: 46201d99848869ff060edc8454f2107cd82394395a10f89cd7b5a84bde35544b
+SHA512: dcf9e0a92d6caf1f8cc57ebed21e8c0d59a77ec099e9594a1ed9ceb0314b937ff264600fd9096191a461d9411824854fa945533e4c0052223316bdac4136256a
+Description: Cool AppSwitcher
+Name: App Lecard
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
 
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm64
