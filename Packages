@@ -264,6 +264,23 @@ Description: Pair your iPhone on any version with your WatchOS .
 Name: watched
 Author: 34306
 
+Package: com.82flex.iconrestore
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootful/com.82flex.iconrestore_1.7_iphoneos-arm.deb
+Size: 29654
+MD5sum: e440c120dc45a046b19fa61a02ab751d
+SHA1: f95a6d995cafdcb482af3b765c220e287104d8e3
+SHA256: 5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5
+SHA512: e6ebe065087bbc25b26a53ffbabaf2ca735ac2dac0e765f5c6b165534b83b643d7c69d831c77a64946c92e8980a28af1e048bad2f94da31b655e5b0d027b78a4
+Description: Save and restore the layout of your icons.
+Name: Icon Restore
+Author: Lessica <82flex@gmail.com>
+
 Package: com.82flex.iconrestoree
 Architecture: iphoneos-arm
 Version: 1.7
@@ -982,6 +999,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
 Package: com.dvntm.cmm
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.cmm_1.0.1_iphoneos-arm.deb
+Size: 43780
+MD5sum: 5cd2237e969d9b60634409862051c42d
+SHA1: 80e9dde0bc1af88198a45e064ea63732d0cdd881
+SHA256: b6f5035bda346e7396de44bb09b1e45e8b91262e3b1c6d45da3dc7f20c0b2ba1
+SHA512: ab8bddc0b7f013fa704bf46c5289ed1ac9faf59cb97186e751d322507be0ecf2f3a98190cfc96680e2d088ca617a988f3c70bf0fa4ad6963cbe422dae2267c31
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: dvntm
@@ -1124,6 +1160,23 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.showmytouches_1.1.3_iphoneos-arm.deb
+Size: 53670
+MD5sum: 34cc9f647b1c6336d259e6c3bc4f6062
+SHA1: 9e15dffc49014088f336b09c78657e7daee7c62a
+SHA256: 0af740120f45166601e9125a19af6437349594732fbe0e26e2dc91e99910a4cf
+SHA512: 871505b7dd06e47ba7976cf073717a3dbeb5cb2ba3e9eaef362526a7bf37ac800bbf05b43ea8452cfbd954f30b2d503b2f3698c649abf436ed682ce840e4dace
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm
@@ -7656,6 +7709,23 @@ Description: Lower your Dynamic Island and make it disappear if you don't need i
 Name: mineland
 Author: 34306, DuyKhanhTran
 
+Package: com.82flex.iconrestore
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Roothide/com.82flex.iconrestore_1.7_iphoneos-arm64e.deb
+Size: 29624
+MD5sum: b020c6bf42bd2a6849aa65bf872eed25
+SHA1: 9137b331bae4d1ad18ae88ebe5d65aa18b1f10b2
+SHA256: f279ae6e40472a450d072f8fa1687e588cd861a25e52e163923c93fafdf07ff6
+SHA512: e81c0e1f3e18a56b06dcd1d9859d4f198d741b9005be5ad56359e4cf0bb9e7798826533b84ba1bccc3474bb74fa31e5ed87f8a378b85bcd761a94522cadf9e71
+Description: Save and restore the layout of your icons.
+Name: Icon Restore
+Author: Lessica <82flex@gmail.com>
+
 Package: com.82flex.noredirect
 Architecture: iphoneos-arm64e
 Version: 1.10
@@ -7839,6 +7909,23 @@ Name: RateBeGone
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.showmytouches_1.1.3_iphoneos-arm64e.deb
+Size: 52568
+MD5sum: 809e34496508ee881c5fd30ab186360f
+SHA1: 92b8efe72eefdf9b14f25df7ad1760790ae13f4a
+SHA256: 52abf7beb97eb0ece3a1fb96f1a6a1c09c4528b95218a5cd1fa2d3ff4da62080
+SHA512: 7ce3f5729a98be6bad56852b5a6b29b619953d0b6355a4ff5a2e4180572c1a3feee58d9f9cba52d188712ca8af25e1528ac639f8289cce64f08896c4abc0080c
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64e
@@ -9280,6 +9367,23 @@ Description: Pair your iPhone on any version with your WatchOS .
 Name: watched
 Author: 34306
 
+Package: com.82flex.iconrestore
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootless/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
+Size: 29712
+MD5sum: 0f3a9a50a14aee76115dccb654741f93
+SHA1: 2c3f40152e7625e3c659011620fab28f98b4fb9f
+SHA256: 9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e
+SHA512: 653e69a6b3ab9f0f65967374baa6aaec259736b5625243d2bd9c932582ebe44dfd3edd337c2f08e049553b2ec410b4d683747b6daf5a942dd66063b93d598e79
+Description: Save and restore the layout of your icons.
+Name: Icon Restore
+Author: Lessica <82flex@gmail.com>
+
 Package: com.82flex.iconrestoree
 Architecture: iphoneos-arm64
 Version: 1.7
@@ -10128,6 +10232,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
 Package: com.dvntm.cmm
 Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.cmm_1.0.1_iphoneos-arm64.deb
+Size: 44384
+MD5sum: 06bb64209770fd7b14a2b3620f7bac28
+SHA1: 9f4afb1fdf443633202e6d7f3c0e472db7a62ea3
+SHA256: 0d1006e8b65ea1d86f0c9e932f52020bdcab29962f81d1b639ffa5e7d21f64e3
+SHA512: 699aa8dc2d40cd305e3da22a8b410c6f9d5ae5407496e995398f7da95b8ed57492fe332c30af52c1177c7c0f6bc9a71f2c235ea13b041e49ecf9e87cc9f2a9ba
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: dvntm
@@ -10270,6 +10393,23 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.showmytouches_1.1.3_iphoneos-arm64.deb
+Size: 53580
+MD5sum: c413e04f9aedce00b96b57e8de03d7e0
+SHA1: 4c50d7e412c14d1208f78cd595c637ed51b7a473
+SHA256: ebbdf48c9ec9dcbfeeb016edb126f8820cf50c2a9ca716fa80cfb80a92078abf
+SHA512: 435ddc8b4b0df8dea2370c101710fa8bb2a055cfdbca80e23fa5383dbdbc6c39a0c484a21f735b06f07da0545aacae4e063a05d7f84e4cb669043c1ecbe709c1
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
