@@ -1006,15 +1006,14 @@ Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootful/com.dvntm.cmm_1.0.1_iphoneos-arm.deb
 Size: 43780
-MD5sum: 5cd2237e969d9b60634409862051c42d
-SHA1: 80e9dde0bc1af88198a45e064ea63732d0cdd881
-SHA256: b6f5035bda346e7396de44bb09b1e45e8b91262e3b1c6d45da3dc7f20c0b2ba1
-SHA512: ab8bddc0b7f013fa704bf46c5289ed1ac9faf59cb97186e751d322507be0ecf2f3a98190cfc96680e2d088ca617a988f3c70bf0fa4ad6963cbe422dae2267c31
+MD5sum: 2f458a65dfcbb6126f77597fc2e49b83
+SHA1: 58f263a233f9ec54da6b3254b50235e0a430990f
+SHA256: f3420c8f44084337b9cdfb61b1e660a61580058fd3fd0fecec90deae5d8706c7
+SHA512: 55d0e26f819a43b93fc83fb91ccb4b553753f3a4ae4529cfbd3d03c156f05f8c6a2e271b6a8391323d26b044f3377575d2b2c5b30c152d1462546ea41954d0b1
 Description: Enhancer for the system Phone app
 Name: CallMeMaybe
 Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F67255cdaa80bcf5e2e3b13fc&s=180x180&f=webp
 
 Package: com.dvntm.cmm
 Architecture: iphoneos-arm
@@ -1024,16 +1023,15 @@ Maintainer: dvntm
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootful/com.dvntm.cmm_1.0_iphoneos-arm.deb
-Size: 34896
-MD5sum: ab893087bd5bd433e29120b2a79ca66c
-SHA1: 8c7add6fd01e34453f1a5f48d610985dd0464534
-SHA256: 3f17b952a7aa6c6cd7b0ff27b2c576d52fc4a05ae8a63519873973f98a6a7007
-SHA512: b0bc1d39839539cb9a9954cc973b1035dc803f6da6d5ae50059af741d96321524b882fba1b7336e31b24d73ecda1d44e7f85e49af9c0c9500d69a0fd96763ba0
+Size: 34412
+MD5sum: a8104fc35f479ff4e15b3519632a8b2d
+SHA1: 4218a26829627889304e7ba80db85e65b9ceac0a
+SHA256: b3884462319634ed5e713d9f18ee202d4c623112244c121e0558e064a0a7ee2b
+SHA512: 97f2d33dabae851e3eeb01d616a6142e53df0b5dbc06b7f6458878974056ee6f60040a5b3e92eae6adbb133d370bc829cfb9ac5228e8c9c148337fd8981ebabf
 Description: Enhancer for the system Phone app
 Name: CallMeMaybe
 Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F67255cdaa80bcf5e2e3b13fc&s=180x180&f=webp
 
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm
@@ -10238,16 +10236,15 @@ Maintainer: dvntm
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootless/com.dvntm.cmm_1.0.1_iphoneos-arm64.deb
-Size: 44384
-MD5sum: 06bb64209770fd7b14a2b3620f7bac28
-SHA1: 9f4afb1fdf443633202e6d7f3c0e472db7a62ea3
-SHA256: 0d1006e8b65ea1d86f0c9e932f52020bdcab29962f81d1b639ffa5e7d21f64e3
-SHA512: 699aa8dc2d40cd305e3da22a8b410c6f9d5ae5407496e995398f7da95b8ed57492fe332c30af52c1177c7c0f6bc9a71f2c235ea13b041e49ecf9e87cc9f2a9ba
+Size: 44392
+MD5sum: cd8b76fc2309cb78cfb7613eb3c6a841
+SHA1: a73f47c19b31efeac62211dfe73129d44072db14
+SHA256: cdae09a516fb1b476154160739b0858499e1455c83fafad243a32188fbf37036
+SHA512: 9473fd9693d5eb3aa0554b89f8091d6dee5c883be46c075b9a93e042cf4cf475716888ec5ea1fa490fb643a03a98bf9d79ced2b9352d8536b4e493791519e3cb
 Description: Enhancer for the system Phone app
 Name: CallMeMaybe
 Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F67255cdaa80bcf5e2e3b13fc&s=180x180&f=webp
 
 Package: com.dvntm.cmm
 Architecture: iphoneos-arm64
@@ -10257,16 +10254,15 @@ Maintainer: dvntm
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootless/com.dvntm.cmm_1.0_iphoneos-arm64.deb
-Size: 34796
-MD5sum: 128264f679269e66692603fd7d52909f
-SHA1: 720062c3c208576bf8f9464285068555afd25a8b
-SHA256: 8459dab939d0b362c4406d249d4ce293454e15d14e7690bee301e137e3e348d6
-SHA512: 17ec94a1f92d6fa4ce9fb89dcbe28a153ae03d124453ae70e107590d36bba2f5561f1b9fe16f0d62842324967802eb69ba09f1f0a8b6fd73b7e39f9b934ea59e
+Size: 34948
+MD5sum: 15540a6b6d780728c763f3e15c9361a0
+SHA1: daa761b2aad5844c75da1f1a90e570acf70dccc6
+SHA256: c836ac2bc46f3186bf3ef555d9557163e54a59d79c30ca36585ef4f589cf3e9c
+SHA512: ab2fd8297326e39b86056902f9b73c2dceeb678022bfacf57e1bb65448fca7033963f06fea7b74dc691022aae00e826a4ca6af9fde77de4c5ad817aec2aaae23
 Description: Enhancer for the system Phone app
 Name: CallMeMaybe
 Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F67255cdaa80bcf5e2e3b13fc&s=180x180&f=webp
 
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm64
