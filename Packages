@@ -1052,6 +1052,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.infuseplus_1.3.1_iphoneos-arm.deb
+Size: 217444
+MD5sum: 358dd24be80cb4304c925cdc0b8abf77
+SHA1: b2099d7f665b2fc4d38cc3dbb298537984f5c95d
+SHA256: 562a0ee4af07f33c9fc922bd5f0d5c5f1192bcaeca49fc3d2864bb0d3b2ba5c4
+SHA512: de995ccfee43dacaf6faa0f3cc27b11ec93b9b9979fad3d5b7fe5aaefa4752cab8a8f3af1ea7eabf5d81bf3561f37148e81c6d213501eba4e3ba17296580dcac
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -7874,6 +7893,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.infuseplus_1.3.1_iphoneos-arm64e.deb
+Size: 217552
+MD5sum: a26e46cdae0c36f095cace31e3339a16
+SHA1: 2ac25343603d76d79ec85cc0193e5d7fec6244cc
+SHA256: 4effac0d3f64f4538e832204d3f49b36ad123bc837ce6bb17ac7a021b846d823
+SHA512: 2512be6346aeea59601ae98d4cfd44c951f7b688116d546fd6ba7641793440305d87d2758371904027a6e3a50f88a6769e9a939cadc14c99fa95ca3dc62f0964
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -10315,6 +10353,25 @@ MD5sum: 71107ca83186f60fafdd47c54bd56c2c
 SHA1: bfffd9e61cf26db56ee45d83e73a09e7622958df
 SHA256: 6800f93c891e2c33b634f892efd607f5a7dde34398b80732358b033710c08e91
 SHA512: a45afbed15381f6c5395c3bd7005ce41896f1823feeb8672e03e18ad481e0928e8fc915c86fe8068c16b114762934221109acb4f29cc63d7a793e4c9a1b41ecb
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.infuseplus_1.3.1_iphoneos-arm64.deb
+Size: 217382
+MD5sum: 6a4e4c931eb832152b53f8448bfe7cc3
+SHA1: bae2cbf1d1f2105ee24da1c306cff1f8180ebad7
+SHA256: 311a7eb1ccc22d611cd5026afe59f1455e6b97353d9842ed5dd8e0bdfd28c91c
+SHA512: 2575667488c439bddaed04c51d8233c3dac8f1dbed48158fae6cbfc5edd871f71a4bfa4d0967cc30aac265df37c1aa63dbb901734178d8f47efdf254bf1c44ab
 Description: Enhancer for Infuse app
 Name: Infuse Plus
 Author: dvntm
