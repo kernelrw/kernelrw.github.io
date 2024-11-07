@@ -3091,6 +3091,26 @@ Description: Battery indicator, but cute
 Name: BatteryBuddy
 Author: Traurige & neilsardesai <hello@traurige.dev>
 
+Package: eg.anubistweaks.phoneenhancer15
+Architecture: iphoneos-arm
+Version: 1.7.0
+Section: Tweaks
+Maintainer: AnubisTweaks
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm.deb
+Size: 15048
+MD5sum: fb8475d7aff11303f770268274ce0163
+SHA1: adaa5e8e41f48dea2729ef4c65ac49f64e620404
+SHA256: 9e62332e392b88d27b913d2444d2b155a97d07bcad4d1ef3fca02bfa0fc77705
+SHA512: c413adf20b4588c1fe4e14cdbbc5abaee3f7bba5a7cbce0cf0da4deccb17a46e1050ce08de4af4e78a87bdfe72e7105153044d8b990d9409236ca8e507a02b3f
+Description: Your Phone App, as It's Supposed to Be.
+Name: PhoneEnhancer15
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
+
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm
 Version: 1.0
@@ -13345,6 +13365,26 @@ SHA512: a37b15439dfdfa08859a92933b6c7a928079f8d5111ab03ebf6da480b5d56ae57506f14a
 Description: Battery indicator, but cute
 Name: BatteryBuddy
 Author: Traurige & neilsardesai <hello@traurige.dev>
+
+Package: eg.anubistweaks.phoneenhancer15
+Architecture: iphoneos-arm64
+Version: 1.7.0
+Section: Tweaks
+Maintainer: AnubisTweaks
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm64.deb
+Size: 15116
+MD5sum: 96152f23dcce0455625a6d2f2816a9a4
+SHA1: 16a99d008fefbfe703af74062b51a9c8250a13fc
+SHA256: 8cdf0413205204397ce3e441631088babd179c111e9950ec295ff07f8e12ca2b
+SHA512: e5ecd3701af825f0206703a050f10c34032d086f23d9ee5cbc663b70d1ea9c215231d5a71419d0bd03cd71bb2ecec981a2f2fde1d3c31b50570363dec86d4246
+Description: Your Phone App, as It's Supposed to Be.
+Name: PhoneEnhancer15
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm64
