@@ -2767,6 +2767,24 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.sergy.immortalizer
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootful/com.sergy.immortalizer_1.0.0_iphoneos-arm.deb
+Size: 29064
+MD5sum: 2bd05e7dd532936c2d9436b693740b7b
+SHA1: cf461fb7b086fec6846503b48eb527fa6168fd33
+SHA256: 19e949499bf386764d24d66bfb79f372e3354b3e5fa01c4b985d123e66abcd90
+SHA512: a3eb5dcf3d3c4994477a93e61f0018eb9c813f904561acf9e59255986a95e3502ed0eaefd6fc07f6359cf1a459a41b4a55f66e40fac07d4b1d518ddeddba8c67
+Description: Foreground your tweaks even if they are in the background!
+Name: Immortalizer
+Author: sergy
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F672ab6f3a80bcf5e2e0abe8c&s=180x180&f=webp
+
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm
 Version: 0.6.0-1+debug
@@ -12662,6 +12680,24 @@ Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+
+Package: com.sergy.immortalizer
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.sergy.immortalizer_1.0.0_iphoneos-arm64.deb
+Size: 29172
+MD5sum: f4be10fa903d022e1b0ccd32d7f55236
+SHA1: bf7fe79e587945bbea6c67efa0af1c2465db828a
+SHA256: f943fd95c71ecca07aed6ee63c5b085a0e6c1a1e3216787b5945945b0aed4f88
+SHA512: 225ef689197a45ae8a81d03f02c80d7b6a4b1de83673ba316c9b017974a2a0402ebbba020edcb1039aec9ab37d9ffc442f1042cfb2a123858cf38a2bb53dde2a
+Description: Foreground your tweaks even if they are in the background!
+Name: Immortalizer
+Author: sergy
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F672ab6f3a80bcf5e2e0abe8c&s=180x180&f=webp
 
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm64
