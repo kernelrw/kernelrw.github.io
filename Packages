@@ -2785,6 +2785,24 @@ Name: Immortalizer
 Author: sergy
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F672ab6f3a80bcf5e2e0abe8c&s=180x180&f=webp
 
+Package: com.sergy.immortalizer
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootful/com.sergy.immortalizer_1.0.1_iphoneos-arm.deb
+Size: 28988
+MD5sum: 8dd594dca1f85724dc44d9409792d5a0
+SHA1: aa0d42f2a6dccf1e13fc8baf5fcb507d2ba0ceb6
+SHA256: 20ac7f8833b70610eeefebba8fb0f5e55e5f528431707ab5dc6e95218667be07
+SHA512: e0fb15f3a0114a948b48f657d0f29fb753c13e2d0f6329bd05470c2649a557fe58437293dd2d5735984476994c707c8ed15574c3c7ef2dec00a8f2b2b3da8781
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm
 Version: 0.6.0-1+debug
@@ -12698,6 +12716,24 @@ Description: Foreground your tweaks even if they are in the background!
 Name: Immortalizer
 Author: sergy
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F672ab6f3a80bcf5e2e0abe8c&s=180x180&f=webp
+
+Package: com.sergy.immortalizer
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.sergy.immortalizer_1.0.1_iphoneos-arm64.deb
+Size: 29108
+MD5sum: 4a252fb51bce0cfe0e52bcf5fa7c4c9d
+SHA1: 51f8707f4bafb3dedf02b0cc8af30d5531dfca28
+SHA256: a0456fb958077bd3087223bd69efff8701df802f767e2f8377e1afe0b9a93a71
+SHA512: b0ffcbda03b816bf9f4b634e2719f47ab24100a29eb0f8a4c411e87b6a8d9849da028e43042c38199b2056cd57517d84cbb2fc896713c0a17d9683d6f1831fb1
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm64
