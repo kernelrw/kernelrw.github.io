@@ -3055,6 +3055,30 @@ Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
 
+Package: de.finngaida.daynightswitch
+Architecture: iphoneos-arm
+Version: 1.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 490
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/de.finngaida.daynightswitch_1.0.2_iphoneos-arm.deb
+Size: 59274
+MD5sum: 6808bf082ffc6d6c85663658c972151c
+SHA1: dadb2eee59536fce01c2bbb5a93428d9176c0e8c
+SHA256: 51214d2588f57c6f50932234bf6ff57cbcafc629fa021351dff1ec579a87ea03
+SHA512: c2a3a1c12e5cd16e8e9adb4ccdb02e22329951e6deae85366c538fc3450c1be99d256c64b3f4ff0bb2280c716fc9396720df0d9878b33a1523ded0d8f037f316
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daynightswitchDp
+Description: Add some style to your switches
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Name: DayNightSwitch
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daynightswitchDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Finn Gaida <finngaida@gmail.com>
+dev: finngaida
+Icon: file:///Library/PreferenceBundles/DayNightSwitch.bundle/icon@2x.png
+
 Package: dev.adrian.gonerino
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -13095,6 +13119,40 @@ Author: sunshinesong
 TS: sp-sss
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.archer.png&s=180x180&f=webp
 
+Package: com.sunshinesong.splitviewpro-helper
+Architecture: iphoneos-arm64
+Version: 1.1.6
+Section: Tweaks
+Maintainer: snshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debians/Rootless/com.sunshinesong.splitviewpro-helper_1.1.6_iphoneos-arm64.deb
+Size: 1448
+MD5sum: ec5ddc42a48a0397736665e8b20d5275
+SHA1: e7ce14e6e01e89c3ba267d6bb11fd6a0bc49a4de
+SHA256: f552e954241cc831c34fcb49ce2b356a51c4d0009c9f81a149c9ac3a6c3d1c7c
+SHA512: 6c6ab588b1ad1b28232af13d68f3f7fcc2e21be09e22cbc636acee0b092c625c7a538abdf6900318fce7ef1e4038a3b50b675e9dac97fd9c243e68b72ae20551
+Name: Split-View-Pro Helper
+Author: sunshinesong
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.mika.pineappletools.png&s=180x180&f=webp
+
+Package: com.sunshinesong.splitviewpro
+Architecture: iphoneos-arm64
+Version: 1.1.6
+Section: Tweaks
+Maintainer: Sunshinesong
+Depends: mobilesubstrate, preferenceloader, com.sunshinesong.splitviewpro-helper (>= 1.1.6)
+Filename: ./debians/Rootless/com.sunshinesong.splitviewpro_1.1.6_iphoneos-arm64.deb
+Size: 3475348
+MD5sum: 3ccb0ffebe68e2a9370d41feb1bdc9ec
+SHA1: fc836f0b3282aa1ab837e0ada62c91b1a6f75727
+SHA256: 894b1f4d0cfdbc68b2e2336659793cd2f548813f557e57a4f2582d610fe0f77d
+SHA512: 0d5193522f5b9f2d42534d7b3d5ada8402c15da468415fd5fa6965b989e7d410bbc2e41cc2a00aea0c78bbf6fa270143453db33d68a49e89c0c1f61f29866651
+Description: Best Free Multi-tasking and Arc Replacement By Sunshinesong.
+Name: Split View Pro
+Author: sunshinesong
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.archer.png&s=180x180&f=webp
+
 Package: com.swing.appstorenoads
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -13362,6 +13420,30 @@ SHA512: 764aef192b37c64ea8f34020fb7eee894c2dc97f2f9867bd0844a9f40b64590a4d60d5a2
 Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
+
+Package: de.finngaida.daynightswitch
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 490
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/de.finngaida.daynightswitch_1.0.2_iphoneos-arm64.deb
+Size: 59996
+MD5sum: b7489089cd74b3d904bf2116d3fafdeb
+SHA1: 9226b3ad9280c48fbc9ac39d103e23c718dc14e3
+SHA256: 66d92d444cf1b28f72567995826bef0bef1d9ccf21be06ffa74d9b23ff13b288
+SHA512: c6e4c4232950df635e3bbc1cd8a31c0070fa8b2421c84a39c64bc3f8526bdcc5ce6ab53570a3ba88d615bd739f86e84e1fc8e2d64145bbdd1a08156c632fb4dd
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daynightswitchDp
+Description: Add some style to your switches
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Name: DayNightSwitch
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daynightswitchDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Finn Gaida <finngaida@gmail.com>
+dev: finngaida
+Icon: file:///Library/PreferenceBundles/DayNightSwitch.bundle/icon@2x.png
 
 Package: dev.adrian.gonerino
 Architecture: iphoneos-arm64
