@@ -1375,6 +1375,23 @@ Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/co
 
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.fadh1l.uiswitches_1.0.4_iphoneos-arm.deb
+Size: 1546184
+MD5sum: a67dc5311aab89c27b499d3da76d395a
+SHA1: ba720dea5615b13393b0c4fc597cd767f2be3be9
+SHA256: ad8a9db10a9a4945c7a7bca23756aaca0fa71fd5a64dd2195dce2295fa681f33
+SHA512: e18db37082c218ac3b340287a8647279eea9381243b8c4da522327044051699d63cde95fefda543c96c0ac957865ccb3cc7a190a0647c0eb822164f32f4df038
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches - Palera1nSwitches - Checkra1nSwitches - TaurineSwitches - ChemiraSwitcges
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.pxcex.autoscrolll/screenshots/UISwitches.png?raw=true
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Themes
 Maintainer: Fadh1l
@@ -10915,6 +10932,23 @@ SHA1: 01cf49362f576980a9c9ae2ef1cfe5067148ec03
 SHA256: c5d0a89aab881e1312d718198e664f9e76cc88a26c46adcda6cc927af177628d
 SHA512: 30595073ac85144237272f0dd6d10c036651374bc08df485c99b7d6c54e8112301e73d829d3baa46f3f4c50beed9d02f3676d7ccd90355595ee09e0329a38dea
 Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.pxcex.autoscrolll/screenshots/UISwitches.png?raw=true
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.fadh1l.uiswitches_1.0.4_iphoneos-arm64.deb
+Size: 1546404
+MD5sum: c39eb0e921fb46c6ea49b134669e9bd3
+SHA1: 6e3867391a8da460ff13f846785c8de918fea9d3
+SHA256: 83cf247a7233769d853bb45f7065b40cf2625c81d20456d7b945f32032a0c061
+SHA512: 49772519cfc608fa3cd2a826b48df2d71c7bf994d21aaec221d2ead0b6ac9f7e70730928223106f826f89e853b4352223bd8677c35b6da9bf3e2258f062604d7
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches - Palera1nSwitches - Checkra1nSwitches - TaurineSwitches - ChemiraSwitcges
 Name: UI Switches
 Author: Fadh1l
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.pxcex.autoscrolll/screenshots/UISwitches.png?raw=true
