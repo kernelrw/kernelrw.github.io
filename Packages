@@ -2990,12 +2990,12 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm.deb
-Size: 51956
-MD5sum: 852cb833157bdd011f42c862434052a2
-SHA1: b80755e781e0aa34b0f64c5895e6b6e9061c6abf
-SHA256: 6bd0920ace92226ff4faa24304de07c86e12b2f9fecb4e1c0b199d23bd0a72eb
-SHA512: 71833f5ecd2c3e3c531f3438211f16f592f821c4121d85a0dfc7847897e132b3b86502d25119ef44fd00a8f6284aa82893265b052e0c400af3cde9c478d523ba
-Description: Automate alert actions.
+Size: 51876
+MD5sum: 051d0cab08beb4922022b0fe0c4c176a
+SHA1: d607d40e09016979817d61024a31148307646c52
+SHA256: 69d4f4f8cf14e6ca14365d7aa8685e810df35f381f85a594b00255ce8067d5d2
+SHA512: c5fb94ef9801af64579844234128f6b04625e1d27ed6ac33a64f2aa4079411559b5075f6b8624a9ebfb618fe5b1f0f54fe043b04031ab35a489c69159ca5d65d
+Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
@@ -13164,12 +13164,12 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm64.deb
-Size: 59736
-MD5sum: 99868393839377c190ce2262d617a6e1
-SHA1: 8885cb0795e36408c43d3277bf00e044e2f52ef9
-SHA256: 25af6be3ed0403f7f5e59b70ec353518ccaa933e9b13fde722c00b9aa70a9090
-SHA512: 99ac6c0a780693592bf4d560d6a0d4d0c31ea3fc63f4b66dafd2c3693e6d5e1e989dad9d9e42ea60d3810272a1adb0134216c6896f1d56c93ffa85fca601956b
-Description: Automate alert actions.
+Size: 59788
+MD5sum: 5fe45f3509ecd743f409840e487c8a35
+SHA1: 571c3309d55a9ff65755d12c09786320245477ed
+SHA256: 3365f711dd46de4a9d34a712401fda37bd06da2d5030a4cb18760e5b21077279
+SHA512: a0b3f0d6c81f21d74ea40712f01f9458852ba94a18dae41142c5b91f652ecac96a2c94346b0d952e921312717034584a2ba11d3057c3edfd82915998d419bef7
+Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
