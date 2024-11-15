@@ -2990,15 +2990,16 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm.deb
-Size: 51820
-MD5sum: 0e249dac3d4d624f635c9f2a37ebd6c5
-SHA1: 017143e94fa3c18a14a7aaa286af5f7db1186573
-SHA256: 2e20acaecb1dbad7b42941fa811ee321a2952e44e7b7948d82fc48f4ec4f9b90
-SHA512: 8a87d35bf9327241dc05ba16e0a92e7fb3f01d4c72c9a4e334d365b178102a3fbcf6a7a52c06a0d64b60b2d14b1fb0742e6ce1799ef2b78d2bd6471e98776fa8
+Size: 51956
+MD5sum: 852cb833157bdd011f42c862434052a2
+SHA1: b80755e781e0aa34b0f64c5895e6b6e9061c6abf
+SHA256: 6bd0920ace92226ff4faa24304de07c86e12b2f9fecb4e1c0b199d23bd0a72eb
+SHA512: 71833f5ecd2c3e3c531f3438211f16f592f821c4121d85a0dfc7847897e132b3b86502d25119ef44fd00a8f6284aa82893265b052e0c400af3cde9c478d523ba
 Description: Automate alert actions.
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm
@@ -13163,15 +13164,16 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm64.deb
-Size: 53048
-MD5sum: cf3b10bdd8474fa3e589f3a0aec46bfc
-SHA1: 2662f6f0cc5d9c6f2e0a504dd1c5e84a2dfd4149
-SHA256: c56b903eae9dff09636b1e132f43ce3fbdba4d18e91200735b695feeb9f9313e
-SHA512: ff862cc31a3c67767caaca4db165eddde42492e6dceba4f7853ad758fb63372e33d7191991b493cde673e7b8a56dda297c0223c9ef38aec7c3f7d9fc578f4064
+Size: 59736
+MD5sum: 99868393839377c190ce2262d617a6e1
+SHA1: 8885cb0795e36408c43d3277bf00e044e2f52ef9
+SHA256: 25af6be3ed0403f7f5e59b70ec353518ccaa933e9b13fde722c00b9aa70a9090
+SHA512: 99ac6c0a780693592bf4d560d6a0d4d0c31ea3fc63f4b66dafd2c3693e6d5e1e989dad9d9e42ea60d3810272a1adb0134216c6896f1d56c93ffa85fca601956b
 Description: Automate alert actions.
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm64
