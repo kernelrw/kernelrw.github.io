@@ -3009,11 +3009,11 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.4_iphoneos-arm.deb
-Size: 51976
-MD5sum: 87c069ec8fe02d26e6220c5eaf1e52ae
-SHA1: 02ce452e3fd7d1eee9d0ae11826015b002f0cc25
-SHA256: dfe2faa6c5e7206568788eb5c4651724e560470b2e5f3355268825af48c00304
-SHA512: 236d51c15ff397bdff6f671123df38becca5e10fcb871ef56914c17f7a9282e3096e8a15c00c8ddbb5fd292d72ab8e10d0e4616d440cb54b47333a317da2244c
+Size: 51900
+MD5sum: fb8a4b53175658ae08011b244fbcf770
+SHA1: 256b92bedd82a433caed5fd966abbfbb357c379a
+SHA256: 12ad70efe61f10dc3fcd2e8b3730cc9da46292b8e5acad88cd9a84931abeb3e3
+SHA512: fe2083d6802201257f51b48cc210e072d6d5f9f8774d222d7c4f9ebddb467d1dabe09c489c37f254056b1a71da969f1b60c955495f8218245179fc6cca11da29
 Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
 Name: AutoAlerts
 Author: shiftcmdk & Fadh1l
@@ -13198,18 +13198,18 @@ Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm64
 Version: 1.0.4
 Section: Tweaks
-Maintainer: shiftcmdk & Fadh1l
+Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.4_iphoneos-arm64.deb
-Size: 59708
-MD5sum: 93d02d4d22241bcc015527ccd10ff281
-SHA1: a8c55fd5cfc5bbf380a625f0aee8eae6c8af9c7f
-SHA256: f6b9c59fcc5c7cc84e72849585ddd878c6851363ce64fedaa3a186e653616588
-SHA512: ae4321908d43f745fcff8f6d11a068dd9e778c8c394f45a0f6b9d203638fb845e8c6b0e740885963e0a7d057c09828136ccf14fcf40036b1cbf9592626829e74
+Size: 59844
+MD5sum: 2ba1a60d874f147be873d49cb65fb701
+SHA1: 5466312851255c15246ac2e52f78d82df24ffc5e
+SHA256: 0b1823f547b0a7539865236f2103f18defb6c25c3c21d83ac7f117596206156f
+SHA512: c73b8ef3ed75fb95812279f5d07c6fa59f69c5de18b8e91055e764b84d81f0537e702b48c491c81275c59134722617a6de980ee3e747dade51fc0693ae666f9f
 Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
 Name: AutoAlerts
-Author: shiftcmdk
+Author: shiftcmdk & Fadh1l
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
