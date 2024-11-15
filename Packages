@@ -935,6 +935,30 @@ Name: BHTikTok Plus
 Author: Bandar Alruwaili
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
 
+Package: com.den.igformat
+Architecture: iphoneos-arm
+Version: 1.12-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.den.igformat_1.12-1_iphoneos-arm.deb
+Size: 73792
+MD5sum: 7a397dbdc5f28d093a827f3c798f9d91
+SHA1: 16d15d280417705a3689c86d63c2962fc9743cf7
+SHA256: e7207c40a6d45c0a0e632e92829bfcdd2f6a023f8bf6c7d2b9747d643d5480cb
+SHA512: f4d87e81aa879b226ea2705306cb6ff76528e15c07f969a792a6cbaab81e6dbb251daa73958204597c49f46c05fcef16ea3f3d8dafb63c4642fb678875d7ca12
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igformatDp
+Description: Powerful Instagram Tweak
+Tag: purpose::extension
+Author: MrDeNsor <alianwer9988@gmail.com>
+Name: IGFormat
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igformatDp
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: mrdensor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+
 Package: com.den.respr1ng
 Architecture: iphoneos-arm
 Version: 0.0.1-3
@@ -2320,6 +2344,24 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
+Package: com.mystery.sanjeh
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Mysteryexe
+Installed-Size: 1224
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
+Filename: ./debians/Rootful/com.mystery.sanjeh_1.0_iphoneos-arm.deb
+Size: 668544
+MD5sum: 8a14ae52b753e5372dc590bd369a8d97
+SHA1: 7335c86bd1b2063a3de82c4a5b749859a6096234
+SHA256: 28a1a29b1df2ee27404a789bd28a1419966f6a175814823b8ca0099fa14d569e
+SHA512: c3ff298326b8ce793347baced00a415597e48dfcf885eeae3cea99a8a306deb1ca40eee88f83581c8b2004a8c55829e36407a5a0b763b4604f082aedb9a3c7e2
+Description: Fancy battery popups
+Name: Sanjeh
+Author: Mysteryexe
+Icon: https://mysteryexe.xyz/repo/sanjehIcon.png
+
 Package: com.nahtedetihw.loopvideoss
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2917,6 +2959,24 @@ MD5sum: 8dd594dca1f85724dc44d9409792d5a0
 SHA1: aa0d42f2a6dccf1e13fc8baf5fcb507d2ba0ceb6
 SHA256: 20ac7f8833b70610eeefebba8fb0f5e55e5f528431707ab5dc6e95218667be07
 SHA512: e0fb15f3a0114a948b48f657d0f29fb753c13e2d0f6329bd05470c2649a557fe58437293dd2d5735984476994c707c8ed15574c3c7ef2dec00a8f2b2b3da8781
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
+Package: com.sergy.immortalizer
+Architecture: iphoneos-arm
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debians/Rootful/com.sergy.immortalizer_2.0.0-1_iphoneos-arm.deb
+Size: 41572
+MD5sum: d39d700188c5fab312756c71d7883736
+SHA1: 305a38c62d9a05923d03897912bc3c4870f31ae0
+SHA256: 40b2cc10f07e9e7fcd2640b05963d87c18c79d7312e96a831de16104e1d14966
+SHA512: e511c3d2658267e515d7897f94769dad1296fbd8f6703192af2484ebcea7da189450f9ca9c45af2969e12f33b6480fb2d077bc7b3bd0beffab2750fd717abe9e
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer
 Author: sergy
@@ -10425,6 +10485,30 @@ Name: BHTikTok Plus
 Author: Bandar Alruwaili
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
 
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 1.12-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.den.igformat_1.12-1_iphoneos-arm64.deb
+Size: 73472
+MD5sum: 3acffd1158a07fbf3dd56dc90976662c
+SHA1: 6d4b5c0fbc698b3108106cf3b01e8fb2be7c13f3
+SHA256: 24cf9afcd8513c03f58d3c05c5109648ade89aae9cdaa35a2663155482b67234
+SHA512: a76f997c0c1f5e778ffc9f24cea5b682462f2d9c89216ab526b2c4ca256f05f1f8933dfbabcdd1e98e30d6e9938379ff83da0a24d8300df6de786d9bfc245e37
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igformatDp
+Description: Powerful Instagram Tweak
+Tag: purpose::extension
+Author: MrDeNsor <alianwer9988@gmail.com>
+Name: IGFormat
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igformatDp
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: mrdensor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+
 Package: com.den.respr1ng
 Architecture: iphoneos-arm64
 Version: 0.0.1-3
@@ -12237,6 +12321,24 @@ Name: Cr4shed
 Author: Muirey03
 Icon: file:///var/jb/Applications/Cr4shed.app/AppIcon60x60@2x.png
 
+Package: com.mystery.sanjeh
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Mysteryexe
+Installed-Size: 1224
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
+Filename: ./debians/Rootless/com.mystery.sanjeh_1.0_iphoneos-arm64.deb
+Size: 672482
+MD5sum: 0ddf55a798a40cb76a3def9687474aec
+SHA1: 63b4c28d7121cda9e46436c29eaecacd413e528f
+SHA256: f79027097d2f0dd1eb3f08003e2c81f562a2eb736c7b2a47a14eda4423c68633
+SHA512: 620059d1674828dbf7441866ec67546bd236101a8fcdb4858abc6f906a4e483808b2d7026119d98cb173480e150109b91d0de3bf72287ec43cbedcdda3f5a8d7
+Description: Fancy battery popups
+Name: Sanjeh
+Author: Mysteryexe
+Icon: https://mysteryexe.xyz/repo/sanjehIcon.png
+
 Package: com.nahtedetihw.loopvideoss
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -13012,6 +13114,24 @@ MD5sum: 4a252fb51bce0cfe0e52bcf5fa7c4c9d
 SHA1: 51f8707f4bafb3dedf02b0cc8af30d5531dfca28
 SHA256: a0456fb958077bd3087223bd69efff8701df802f767e2f8377e1afe0b9a93a71
 SHA512: b0ffcbda03b816bf9f4b634e2719f47ab24100a29eb0f8a4c411e87b6a8d9849da028e43042c38199b2056cd57517d84cbb2fc896713c0a17d9683d6f1831fb1
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
+Package: com.sergy.immortalizer
+Architecture: iphoneos-arm64
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debians/Rootless/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64.deb
+Size: 42832
+MD5sum: 8f6405e45964acc33f58843a3b294f51
+SHA1: 0b82a193a3c77571589075c8c13d05dfdc66c32b
+SHA256: fc5ee025e7fc514eb3923e7b53992370f34db1e9f4796287f7d417afc3660800
+SHA512: 9ea4ea96d1ddc3ee025e60d18e3fb33f09383046b49a6ea29bdc82f51dc3515922b2293ddbe085d6fa45117a39ade5f7a73fed5063e3bcfb6c6105429286a315
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer
 Author: sergy
