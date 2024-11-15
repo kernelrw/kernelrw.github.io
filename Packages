@@ -2982,6 +2982,24 @@ Name: Immortalizer
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm.deb
+Size: 51820
+MD5sum: 0e249dac3d4d624f635c9f2a37ebd6c5
+SHA1: 017143e94fa3c18a14a7aaa286af5f7db1186573
+SHA256: 2e20acaecb1dbad7b42941fa811ee321a2952e44e7b7948d82fc48f4ec4f9b90
+SHA512: 8a87d35bf9327241dc05ba16e0a92e7fb3f01d4c72c9a4e334d365b178102a3fbcf6a7a52c06a0d64b60b2d14b1fb0742e6ce1799ef2b78d2bd6471e98776fa8
+Description: Automate alert actions.
+Name: AutoAlerts
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm
 Version: 0.6.0-1+debug
@@ -13136,6 +13154,24 @@ Description: Foreground your apps even if they are in the background!
 Name: Immortalizer
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm64.deb
+Size: 53048
+MD5sum: cf3b10bdd8474fa3e589f3a0aec46bfc
+SHA1: 2662f6f0cc5d9c6f2e0a504dd1c5e84a2dfd4149
+SHA256: c56b903eae9dff09636b1e132f43ce3fbdba4d18e91200735b695feeb9f9313e
+SHA512: ff862cc31a3c67767caaca4db165eddde42492e6dceba4f7853ad758fb63372e33d7191991b493cde673e7b8a56dda297c0223c9ef38aec7c3f7d9fc578f4064
+Description: Automate alert actions.
+Name: AutoAlerts
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm64
