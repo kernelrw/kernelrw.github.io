@@ -11041,6 +11041,24 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.4.40
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded
+Filename: ./debians/Rootless/com.f0u4d.watusitools_2.4.40_iphoneos-arm64.deb
+Size: 4498804
+MD5sum: 1f5e985f11c3bfb7e8e02d85056722b8
+SHA1: 9688dba7c89caf93752aab0103e11f950bfe6cba
+SHA256: 2401fd0e3b160d9e03877071f3d0ea12e635ab10038bedb584537280103d9181
+SHA512: 674db6412cb9eb83935d9fb41913841b94422c9cf2e7c3fa7dfeab862137db66b64a3c048d3c81ad9f8a2cc2a81b8a5dc7e977f52d74f60cac8e1e6823f57015
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm64
 Version: 1.0.1
