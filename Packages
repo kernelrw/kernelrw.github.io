@@ -1841,25 +1841,6 @@ Description: Break 80Hz to full 120Hz
 Author: Kernelrw
 Name: 120Hz
 
-Package: com.kernelrw.bazzi2
-Architecture: iphoneos-arm
-Version: 2.0.8
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Filename: ./debians/Rootful/com.kernelrw.bazzi2_2.0.8_iphoneos-arm.deb
-Size: 65272
-MD5sum: 1e4b123d023b6cb7f50484d45d53e242
-SHA1: 31f35127f9f9a0b03b92b8bf54d648e60faf252d
-SHA256: 54e68a7de8f0c7e1591833ddbeee2da778bc533e2ec3fc5edd724f4b8d0456a8
-SHA512: addd2445c3e6f3af69b7bb8ab73a4837e9d8548f0ae70ebc71310a87c2f24d192d4b896250d8bb5bbdaae01ec518c2f7ae2d8f3c46e4b1daaa1fa308cd7e54bf
-Description: Battery in your Notch
-Name: Bazzi 2
-Author: Blake Boxberger
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fdynastic.png&s=180x180&f=webp
-
 Package: com.kernelrw.carbridge13
 Architecture: iphoneos-arm
 Version: 2.0.13
@@ -11793,25 +11774,6 @@ Description: Minimal design without compromise
 Author: Tr1Fecta & Kennyroo
 Name: Akara
 Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
-
-Package: com.kernelrw.bazzi2
-Architecture: iphoneos-arm64
-Version: 2.0.8
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
-Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Filename: ./debians/Rootless/com.kernelrw.bazzi2_2.0.8_iphoneos-arm64.deb
-Size: 64564
-MD5sum: 65503672ea83118a1e0d7d72fe63fb19
-SHA1: 7b87d1b54ff745b3d2b393b74b5f56ac2c050c26
-SHA256: 15d52f5852ab9dc1cbb78cdf0087500bb165369f4314e32364493cbdc0cbcd56
-SHA512: 4f27b154e902e2ca69d3b45dc80dfddd281188ec483089bd6f75d6f34f8f61a802a349b99fd7695ff814caaf603e09d7c91d117c4ac7ca6cce461cc78b41479c
-Description: Battery in your Notch
-Name: Bazzi 2
-Author: Blake Boxberger
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fdynastic.png&s=180x180&f=webp
 
 Package: com.kernelrw.breezy
 Architecture: iphoneos-arm64
