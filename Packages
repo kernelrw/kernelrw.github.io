@@ -1561,6 +1561,24 @@ Description: Rosemary font for A-Font
 Name: Rosemary
 Author: kernelrw
 
+Package: com.ketty.tweaktool
+Architecture: iphoneos-arm
+Version: 0.0.1-252+debug
+Section: Tweaks
+Maintainer: Ketty Allen
+Installed-Size: 452
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootful/com.ketty.tweaktool_0.0.1-252+debug_iphoneos-arm.deb
+Size: 354832
+MD5sum: 3e0003f180b5ae6a5009c6272eb7db00
+SHA1: 5b1cf347037d65314f4c91b10894f6664acc8076
+SHA256: f1219d685098dceeeacb6189e769533ee3a802715f97260344087be429eacc35
+SHA512: 1854926e7d2d54030f8d6c5bae140cad228328a3a4be7e293c87b033dc8eb4acf51f2c9f90ee523d937e03441f6a62906808100ca50cfe588c16e979d47a719e
+Description: Save All Your Installed Debs With Only A Single Click .
+Name: TweakTool
+Author: Ketty Allen
+Icon: https://axs66.github.io/repo/icon/TweakTool.png
+
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm
 Version: 0.0.3
@@ -9463,6 +9481,24 @@ SHA512: 951a880bd2c15c070032e8a47498ed21f0db9dbd6f6072e4994bd482ae204f7965c0be32
 Description: Break 80Hz to full 120Hz
 Author: Kernelrw
 Name: 120Hz
+
+Package: com.ketty.tweaktool
+Architecture: iphoneos-arm64
+Version: 0.0.1-252+debug
+Section: Tweaks
+Maintainer: Ketty Allen
+Installed-Size: 452
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootless/com.ketty.tweaktool_0.0.1-252+debug_iphoneos-arm64.deb
+Size: 362508
+MD5sum: 4a0b1ca97789d15d060d7a752b6cced7
+SHA1: d8d5b1fe165466c26e9c220ba8d6a134fb63e081
+SHA256: 91a70222dc993158187d8d981e7aca495f2015af3cd883d5f68ae733c8b97125
+SHA512: 85bf5c6ca61f51702298e59506cf9f0385e611371c6b8cb657acc1a94abd0b4eb9011af458b4e8b76078ede7df435adb1b9c36ce3afe98ea6dd0fb5007a62d0d
+Description: Save All Your Installed Debs With Only A Single Click .
+Name: TweakTool
+Author: Ketty Allen
+Icon: https://axs66.github.io/repo/icon/TweakTool.png
 
 Package: com.lema.wolf
 Architecture: iphoneos-arm64
