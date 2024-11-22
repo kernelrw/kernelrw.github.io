@@ -8816,23 +8816,6 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
-Package: com.82flex.touchviss
-Architecture: iphoneos-arm64
-Version: 2.8
-Section: Tweaks
-Maintainer: Lessica
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Rootless/com.82flex.touchviss_2.8_iphoneos-arm64.deb
-Size: 263804
-MD5sum: bf911c816fce5bfafde2db21c86b4ba2
-SHA1: bdcb1ee07850482402d804bf58bc203e79e41919
-SHA256: 5814829127523dbeee3cbeaba061bdf48034ac244ffd2eec227165f7dae3dfb6
-SHA512: f89f4d9e79f2051a6788ab54f39cae9dff65b042dee81bb0a6b3a575a8a88ce2816c2ca48946cdcef1a4bfa6ce81dcf81ad90482d6e9bbda9cb251845d77cf93
-Description: Displays your touch interactions!
-Name: Touch-Viz
-Author: Lessica
-Icon: file:///Library/PreferenceBundles/TVZPrefs.bundle/icon@3x.png
-
 Package: com.apextweaks.veza
 Architecture: iphoneos-arm64
 Version: 1.2.0
