@@ -1213,25 +1213,6 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm
-Version: 5.1b2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16192
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.dvntm.ytlite_5.1b2_iphoneos-arm.deb
-Size: 6127910
-MD5sum: e13bdd21dde61462657d734d6e0b0975
-SHA1: ddee61e404b8a8f880aaca0a36baf9fcbe95b8f9
-SHA256: 11692806385ac7ddad5f20eb5a92e4d559fbda9809eddc8abba57222bb59bf89
-SHA512: b2f8890f65ec2190241de0d25509fdf800304b079a94b98f3395d7cf120afdbfae827fcece40c6994f51f831dcc843b09c7b40257a1b0cb9d407bc45907de39d
-Description: Lightweight YouTube Enhancer
-Name: YTLite
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
-
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -2410,6 +2391,23 @@ Author: tesla_man <computerman939+POBsupport@gmail.com>
 Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
+
+Package: com.tr1fecta.autotooth
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Tr1fecta
+Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/Rootful/com.tr1fecta.autotooth_1.0_iphoneos-arm.deb
+Size: 12096
+MD5sum: fb28383557eccfd8a18678fabeec2ef7
+SHA1: 3d9518bb37cdee60cd1740bb7e1d06309d88bb75
+SHA256: 94cfdc8e4cdba71729c2aabe7eb8d25647e8cee9287898690c2df86b9d6743b7
+SHA512: fa503d5bff8f95b1b701f3b037793232de0d3ead79778c644dac7007c76748e7d8b5c1d1e635bd400356039c9e43b38257d0b685ebf2d76fe21dcb151c1b0e2e
+Description: Control your BlueTooth & WiFi .
+Name: AutoTooth
+Author: Tr1fecta
+Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
 
 Package: com.zqbb.limitchargingg
 Architecture: iphoneos-arm
@@ -9847,25 +9845,6 @@ MD5sum: b64c5f0fa8f80a462c56bb57c402dfea
 SHA1: e4bb3789d2191c54e93b94ea5495addac0e40b55
 SHA256: 18136bd45cba62699fc1e14ac910fa17ebf33cf3a9f338e19f90f89e586605db
 SHA512: 30c0c5b03cdf080a650bcaccb78cc00a7402f0c7ebfeb74b18d25cef568992d41c5d4b40344e6f013efc9d54faae603913148b5e2cf98ba4bd3aa1b662cd3066
-Description: Lightweight YouTube Enhancer
-Name: YTLite
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
-
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm64
-Version: 5.1b2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16192
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.dvntm.ytlite_5.1b2_iphoneos-arm64.deb
-Size: 6132838
-MD5sum: 9e4ca87200bd79a87646e8281d696221
-SHA1: 1f50516cf299243573ad1ee3cfc0fbbdcb55e7ef
-SHA256: 1149135505ad6c6b64593d8d0eb7b8f920fa7ae285b9963d51d1e0622267716c
-SHA512: d2e3458a73ae1b20c40b4f1cf4884cd0fcbf3e2bad7fcf90e3c43a62fc0cbff5edb8b73fa90c045a8ac17ef2a1a0aafceba929019271189f42f624f50424038d
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
