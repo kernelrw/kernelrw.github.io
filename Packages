@@ -262,23 +262,6 @@ Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
 
-Package: com.82flex.iconrestoree
-Architecture: iphoneos-arm
-Version: 1.7
-Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 444
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debians/Rootful/com.82flex.iconrestoree_1.7_iphoneos-arm.deb
-Size: 31180
-MD5sum: a2d5dbcd0e614bbbc09ff18190e4fe73
-SHA1: bef46fec8bf59489c2bd5064200d8e6a8124ff77
-SHA256: 7f2938560bd6c201dc7acce06dde3f509eb71e062713cc993e2d7d38017a668f
-SHA512: 269a49fab233670890f831aadac526693ddf12dc2697059469b7f4b128cb695882a1ca4863e207f076bc4b6a6ba17032f311cdce9df268ce3e8037c2f6f6d975
-Description: Save and restore the layout of your icons.
-Name: Icon Restore
-Author: Lessica <82flex@gmail.com>
-
 Package: com.82flex.noredirect
 Architecture: iphoneos-arm
 Version: 1.10
@@ -1561,24 +1544,6 @@ Description: Rosemary font for A-Font
 Name: Rosemary
 Author: kernelrw
 
-Package: com.ketty.tweaktool
-Architecture: iphoneos-arm
-Version: 0.0.1-252+debug
-Section: Tweaks
-Maintainer: Ketty Allen
-Installed-Size: 452
-Depends: firmware (>= 14.0)
-Filename: ./debians/Rootful/com.ketty.tweaktool_0.0.1-252+debug_iphoneos-arm.deb
-Size: 354832
-MD5sum: 3e0003f180b5ae6a5009c6272eb7db00
-SHA1: 5b1cf347037d65314f4c91b10894f6664acc8076
-SHA256: f1219d685098dceeeacb6189e769533ee3a802715f97260344087be429eacc35
-SHA512: 1854926e7d2d54030f8d6c5bae140cad228328a3a4be7e293c87b033dc8eb4acf51f2c9f90ee523d937e03441f6a62906808100ca50cfe588c16e979d47a719e
-Description: Save All Your Installed Debs With Only A Single Click .
-Name: TweakTool
-Author: Ketty Allen
-Icon: https://axs66.github.io/repo/icon/TweakTool.png
-
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm
 Version: 0.0.3
@@ -2580,6 +2545,25 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.g
 SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
+
+Package: hi.my.name.is.ubik.sonus13
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 720
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
+Filename: ./debians/Rootful/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm.deb
+Size: 120176
+MD5sum: 7e3b818faef6632ae72cfc4ce828f400
+SHA1: ab7099bea802bc2261dadd17fee0488ca7264997
+SHA256: a45c22105ef34762b05910e389a3d78403b10327af908f7b742671f3c0602b0e
+SHA512: 0d0a1cbd452965b942409e50ee3b39e8ce9e6fa324b04a37508f282508d8db847f53255e99a85ced33b74591878421829ae443f6e5c1d5e5bf1211600d58016f
+Description: The better and highly customizable volume hud. For iOS 13 ~ iOS 16 , Dopamine 2 too .
+Name: Sonus13
+Author: ubik <cydia@ubikstyl.es>
+Icon: file:///var/jb/Library/PreferenceBundles/Sonus13Prefs.bundle/Images/Sonus@2x.png
 
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm
