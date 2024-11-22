@@ -10646,18 +10646,18 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
-Package: com.sudo.debraa
+Package: com.sudo.debra
 Architecture: iphoneos-arm64
 Version: 2.9.9
 Section: Utilities
 Maintainer: Sudo
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debians/Rootless/com.sudo.debraa_2.9.9_iphoneos-arm64.deb
-Size: 24340
-MD5sum: b2a2cdcce1101713eb7b8f054100614c
-SHA1: a89874cd4dc8d998d1d46f488bef03174923df55
-SHA256: 8c63e2677adecf9fc2cc81ac43cffa47c34eda8f971e2d552a1b6056ff9bf4e7
-SHA512: b9cf6ea2e8dc510362f21cf55a98bd39bd3a140bc3f0380fc0eb6885b9c217a9768fde3b1220096bbbcbf8d657ce2167119297b5f1f8bd7c1c777222b71f4ff6
+Filename: ./debians/Rootless/com.sudo.debra_2.9.9_iphoneos-arm64.deb
+Size: 24348
+MD5sum: 284a8e203b86754ab2ceba2cfe35b5ca
+SHA1: a2f4a249b15b7badbe0ebd09681055be748da09b
+SHA256: 66e2df3fdbd07375580ef67765b82f6885660defe01f196d97d1fc4abdd9a31e
+SHA512: 7d691ccc9393441e4ce75010acc73d9fa01924f8c1b05ce6fcd9a0196057a7a11a8ff669b0037f170cd45b83d3f15dab4d53da2eb0e6885ff023df4f6e994ff1
 Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
 Depiction: https://sudo9000.github.io/depictions/debra/index.html
 Name: Debra
@@ -10827,7 +10827,7 @@ Name: AutoTooth
 Author: Tr1fecta
 Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
 
-Package: com.udevs.dockxx
+Package: com.udevs.dockx
 Architecture: iphoneos-arm64
 Version: 2.6.1
 Section: Tweaks
@@ -10835,12 +10835,12 @@ Maintainer: udevs
 Installed-Size: 2036
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
 Conflicts: com.restiveconch.actionbar
-Filename: ./debians/Rootless/com.udevs.dockxx_2.6.1_iphoneos-arm64.deb
-Size: 420972
-MD5sum: 9d49313951a023627821ab5c4af9e202
-SHA1: 91387ade4a2f5292cd330d427ac69f20f2296b29
-SHA256: a9d9fb836cfe5471f2e691ece674c3d0ce0c4ba23aa1f15f9aec5f96e63e2a5d
-SHA512: c64d61a57b609f033e7d856da942a3a34c50efddbc8e1287d9f8d48662f73a765b67259648c84abcb343203cf7323949d67135edc70f18b156bd1370e947870c
+Filename: ./debians/Rootless/com.udevs.dockx_2.6.1_iphoneos-arm64.deb
+Size: 421188
+MD5sum: 7e685925b498146bab071a7237ae7772
+SHA1: 29a6c38a485cbdf3552eafe403e2b57ee0940f51
+SHA256: 1380dd530dc359d1f829b394bbee797deb9a5f031c4d4740040b3793864a7f1a
+SHA512: 7c0ddab36489842e5f6a5915d48d136ed7267dd4e7421edc3e55fefca67566b2433c9d34caba1c58b2ac55ce05b9c50808aa03ce93c162cfc95ef7980eb1e0dd
 Description: Pasteboard shortcuts on your keyboard dock, Supports iOS14+ ; rootless too !
 Name: DockX
 Author: udevs

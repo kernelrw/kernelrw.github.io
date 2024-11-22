@@ -4,13 +4,13 @@
 	"itemCornerRadius": 10,
 	"banners": [
 		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/%20%20.png?raw=true",
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/AutoAlerts.png?raw=true",
 			"title": "AutoAlerts",
 			"package": "com.shiftcmdk.autoalerts",
 			"hideShadow": false
 		},
 		{
-			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.pxcex.autoscrolll/screenshots/AutoScroll.png?raw=true",
+			"url": "https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Sonus13.png?raw=true",
 			"title": "Sonus13",
 			"package": "hi.my.name.is.ubik.sonus13",
 			"hideShadow": false
