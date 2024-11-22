@@ -2298,6 +2298,23 @@ Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
 Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
+Package: com.squidforce.disablepastealert16
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debians/Rootful/com.squidforce.disablepastealert16_1.0_iphoneos-arm.deb
+Size: 3712
+MD5sum: db3249041ac0f3ea260b89f0f772065c
+SHA1: 907b7263fba1e86c5dcf59c76c8b76e8f012065a
+SHA256: bd7a3353e84e3bb5bbca72084644646657b6e6e0d78d39f074f7b488d1830d33
+SHA512: 4327ec6fe698ce8c60f5ae9dd89ad95ef35134a690beb1cef578f79c92c3352bdfcd0e1b7e6960a34fb38be39fcb95157d02e9029a28c730f0467afb8fdd8000
+Description: Disable Paste Alerts System-Wide .
+Name: DisablePasteAlert16
+Author: SquidForce
+
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm
 Version: 2.0.4
@@ -11552,6 +11569,23 @@ Tag: role::hacker
 Name: FridaCodeManager
 Icon: https://dekotas.org/asset/fcm/icon.png
 Author: FridasCoolCodingTeam
+
+Package: com.squidforce.disablepastealert16
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debians/Rootless/com.squidforce.disablepastealert16_1.0_iphoneos-arm64.deb
+Size: 4016
+MD5sum: 1386771e1ab8990c0f2924f683afb6e1
+SHA1: f2147244b07c7127a1d586c11891a4450c159975
+SHA256: 6f43bda66c1b0f4bcf2b3194a39592e927ee12742536ee5529a39ff18b00cee3
+SHA512: 9da1586abcb0b874a702c22ec7d058bb26bbdeead9c58caf9e0daabea4fedd5f17c242e59a2ca6f7c25e39116c9ba6a07f986a69f6092caacdb3649396004187
+Description: Disable Paste Alerts System-Wide .
+Name: DisablePasteAlert16
+Author: SquidForce
 
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm64
