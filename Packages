@@ -1550,13 +1550,14 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Kernelrw
 Filename: ./debians/Rootful/com.kernelrw.xsvpncrack_1.0_iphoneos-arm.deb
-Size: 19436
-MD5sum: c2e3777fbafa680c39ddbe1b2da3bb44
-SHA1: f06e0b69e13e9030cdd6255ddcf8c8064e3bdf5a
-SHA256: aa7e531ed085ebf53f21a0128cc449e19195b260219ab524c102ba13ec256875
-SHA512: 077bd2faffcc82537b5a3ee350f2b400191963ff359235dcc3d598fc2f38491a1597666358b3f85b7a9a77ec8d72f5b4082a204aadaf9cea31029e1f1d25714d
+Size: 19480
+MD5sum: 84841b3d9231857a342c8c2ca3cec82d
+SHA1: c8384f8fe4b9029005160ea76052283e1335a66c
+SHA256: 73e1938da6f326214a4fb52b8e864e3da64ce1e28c2076be23f2c3ad5b2b3111
+SHA512: d3bcf3caa4272396689159c85fcfa09200d1b618be04fb27ef4836f8df3e7d17dc65fb9b8f05244c515bcfba003f6c7b20147c8636990fdbe9e8a345cdedbeda
 Description: XS VPN VIP
 Author: Kernelrw
+Name: XSVPN Premium
 
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm
@@ -9506,13 +9507,14 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Kernelrw
 Filename: ./debians/Rootless/com.kernelrw.xsvpncrack_1.0_iphoneos-arm64.deb
-Size: 21124
-MD5sum: 92cd3c9be27271858d6ea2c9d1d0780d
-SHA1: 74743d2680f4463b8164e3bdbd5563c2963747cc
-SHA256: feb88d2cde3c1e46ddf72981459ef17f2955d1d4b6af29046a71c3dd22539d1e
-SHA512: 6a61cf0b9e90f1c80e48d874dda7709cd789678a7efe11492b9ea1aee88c3d473c5a14adef4040b28d1a7044b556eee92d4b7efa0c4061c5df6bfb011ffded77
+Size: 21160
+MD5sum: b73863fb1faed72dbe45fab430175ec5
+SHA1: 202d1880b1ba7519198e9706b66ebd1a9d12ead9
+SHA256: 14b4e29eba799bba37f0b75ed0499b7f9bf540159f35c93817a7f37eb7a7a64f
+SHA512: 998bd3ec72752159f238d16ce8fe951a812414b11535584f9d279575978f2d7ef41de8c910900575e41111e64e4759f65a076600ef17397f51379e2641db1d58
 Description: XS VPN VIP
 Author: Kernelrw
+Name: XSVPN Premium
 
 Package: com.ketty.tweaktool
 Architecture: iphoneos-arm64
