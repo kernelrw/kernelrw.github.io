@@ -1844,6 +1844,26 @@ Name: Twitter NoAds
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Rootful/com.nguyenasang.snmessenger_1.0.0_iphoneos-arm.deb
+Size: 653794
+MD5sum: f9b49e0a206765f29f4769e7d684cbc6
+SHA1: 0f193f8dfc2d609b1a997bda0473f0b9eea2f283
+SHA256: 42591a49932b757ebbef69654ee80c8ffb3a271e7f15f3485248fb8f68593f64
+SHA512: 2607cb077ea4075ed459660dcb5dd0ee1d178bfca511ed06ceae90f731cceb4f98932dc3d7f956806736fc43c66057afbe5cfb3ba0ed47aa6225569814b6dfd2
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -9934,6 +9954,26 @@ Description: Twitter removes ads from data stream. Tested on version 10.64.1 onl
 Name: Twitter NoAds
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Rootless/com.nguyenasang.snmessenger_1.0.0_iphoneos-arm64.deb
+Size: 653760
+MD5sum: 6b2409f49ae7f82a174cfdda1f3836f4
+SHA1: 0f6df5c56e31b3bf5b3b3e8e37f955368c596b10
+SHA256: 3442c5f2b315435cd115fc27e0de2d4b19216a920ee64c4c14ab925c1633265b
+SHA512: c79f5d9d9e6d00d1861dec99389f7fd615017160d69ba4783fad0fa0de6a59154517b0cb7150ddc1939a417f7c3b159b56f891c3dc5b14d5896a3f2f5f785ded
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
 
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
