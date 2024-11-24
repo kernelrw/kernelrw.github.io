@@ -1579,17 +1579,35 @@ Author: level3tjg
 
 Package: com.megadev.sentinel
 Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Maintainer: MegaDev
+Installed-Size: 752
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.opa334.ccsupport
+Filename: ./debians/Rootful/com.megadev.sentinel_1.3.1_iphoneos-arm.deb
+Size: 76748
+MD5sum: 512974aa1ed8dec70dc7f343a489cca2
+SHA1: 5a357bf62930d89abc9278e6cb3f44d29d4487ab
+SHA256: dd11d5bbf86bedcf6f9ff097a0b543dba72e50b103929f23b400ef5eb49ff990
+SHA512: 313eee8f43194b84e3452e0a940b439d46649bb56c653f91aa203c49cdecc8e7ffaac373b4abd5f1314da542c2316041f465bc17ee2804451b37fcb9eec310b7
+Description: Stop losing your jailbreak when your battery dies!
+Name: Sentinel
+Author: MegaDev
+Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
+
+Package: com.megadev.sentinel
+Architecture: iphoneos-arm
 Version: 1.3.2
 Section: Tweaks
 Maintainer: MegaDev
 Installed-Size: 752
 Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
 Filename: ./debians/Rootful/com.megadev.sentinel_1.3.2_iphoneos-arm.deb
-Size: 77416
-MD5sum: ce30d6418bbe62b1dd1a532ff696b1b1
-SHA1: bcc84c8ea8b58295597c30dd0a886b8cb4a01bd1
-SHA256: 7ca76787bf7b83a680cffa619a48273fac577380c71cfdd80de2133d829b17a3
-SHA512: c32f4757e24e307c4b4982883d3236a2b48f2323cfa9752c0224bdca9856beb297f223203cc104ccad685ed76c223dff5011eb8a336fe8c10b41637fd7bbe8d2
+Size: 77184
+MD5sum: 1ca7e39439060c96cd1153ab8f359598
+SHA1: 1b389737d754ac7f226f15523d6db232b2004343
+SHA256: 2a2e7dabebbbadd9cfb045ea0493b91123c045773554d419782635295357badd
+SHA512: 92305b94d823920c16fa806f54a645a15dbaa62c9c51d499b40ca139dc479ac37cb3ef0b214ce37a62f76f0a4eecffb7a0541c7321ae8280fcbb1280add59b39
 Description: Stop losing your jailbreak when your battery dies!
 Name: Sentinel
 Author: MegaDev
@@ -2459,6 +2477,40 @@ Description: Control your BlueTooth & WiFi .
 Name: AutoTooth
 Author: Tr1fecta
 Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
+
+Package: com.uckermark.betaalert
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.uckermark.betaalert_1.0_iphoneos-arm.deb
+Size: 4056
+MD5sum: c30f644fc6f73a1275ee166a1a56baa8
+SHA1: a745fceda75a7e91bbaab8d0f477102eda26109f
+SHA256: 5823c02c3c3b19ed9a11b2c35e90d116e4f447767b9b08731d94d7c6d51d5360
+SHA512: c0b3d061c13307ca5ac73dfb35d2f330143f38e33bbdf28433396b32cf7246c796fc4a72dfd2bfcd5840a842e226c585e7ac127e5d2e1908ca5bc6c0bf1563af
+Description: Removes the annoying beta expired alert
+Name: BetaAlertBeGone
+Author: Uckermark
+
+Package: com.uckermark.cometcrashfix
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/Rootful/com.uckermark.cometcrashfix_1.0_iphoneos-arm.deb
+Size: 2452
+MD5sum: 2907c07f025bde5db116c642f514dbd3
+SHA1: 1f1426fa868205d2edd1aebe0da57bc89170ff65
+SHA256: 65cf87cc3462506f414176606fee4a99443abdd60ba9686ab912bf99240b9f95
+SHA512: 6280d737d13e8ba3f4c7c3784a40f4d84ba7c7f3826f4d21da5894327b92dd95d864c8cfc449639556d025e8d5ba84a3f74dae0ddc12211d3bf16740ca6536cf
+Description: Workaround for Preferences crashing when opening Comet Preferencebundles on iOS 16+
+Name: CometCrashFix
+Author: Uckermark
 
 Package: com.zqbb.limitchargingg
 Architecture: iphoneos-arm
@@ -9630,6 +9682,24 @@ Author: Lizynz <lizynz@ya.ru>
 
 Package: com.megadev.sentinel
 Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: MegaDev
+Installed-Size: 752
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.opa334.ccsupport
+Filename: ./debians/Rootless/com.megadev.sentinel_1.3.1_iphoneos-arm64.deb
+Size: 77364
+MD5sum: e281e9c3d2a44e4e082230e28161633e
+SHA1: d02d58d4220be5cb12df70b98222883076f99984
+SHA256: 840bc2dcef3be5931509409bc77843ba7c07ac1589dfc0133fca74d10249929d
+SHA512: bddc7594882687d8c3a07a83379ba4b690d81a5ab40c90f1d103fffaa3882ed1916864b2a35eaca5768d365832cd7a7910fe59e2dd856b9da7887f9ed96b04a8
+Description: Stop losing your jailbreak when your battery dies!
+Name: Sentinel
+Author: MegaDev
+Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
+
+Package: com.megadev.sentinel
+Architecture: iphoneos-arm64
 Version: 1.3.2
 Section: Tweaks
 Maintainer: MegaDev
@@ -10982,6 +11052,40 @@ Description: Control your BlueTooth & WiFi .
 Name: AutoTooth
 Author: Tr1fecta
 Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
+
+Package: com.uckermark.betaalert
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.uckermark.betaalert_1.0_iphoneos-arm64.deb
+Size: 3812
+MD5sum: 6c8061b352981617e891fccd72566f5c
+SHA1: 62d5e77ac46bbcd9edb9c3788c00463b4f01b017
+SHA256: 30e2fb16efea0dda0397b45e5de309b2ed185ce29379ad609689b8d2440eb6b2
+SHA512: 56b9fb63f915d3cd7623bf38082ac59836aabc3c76316474634470485b6a23aa3dd56c11b50a1c3f024dfa0485db06261cb129cf534f4a4f8751ac7f53d4c293
+Description: Removes the annoying beta expired alert
+Name: BetaAlertBeGone
+Author: Uckermark
+
+Package: com.uckermark.cometcrashfix
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/Rootless/com.uckermark.cometcrashfix_1.0_iphoneos-arm64.deb
+Size: 2512
+MD5sum: ce82f5eb7ebbec03b76fc38cac4f5cb1
+SHA1: f6de5692323ace6c74a463f691f9dcd1053debc1
+SHA256: e911255e3327d64b0ddb4dcfcde635de97a34a7ef4ff9ad8db9021b9a0c3bfa6
+SHA512: 60122631cedf948fe564da93b1a1495c47bcb44c4ff614f386aa498a04f31c9873ee2ff81ddfddfd668e01736afa1f2c13e4f42a8cc160419a1e6d3651f0ebcb
+Description: Workaround for Preferences crashing when opening Comet Preferencebundles on iOS 16+
+Name: CometCrashFix
+Author: Uckermark
 
 Package: com.udevs.dockx
 Architecture: iphoneos-arm64
