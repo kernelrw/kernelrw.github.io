@@ -2025,6 +2025,22 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Name: MobileMeadow Reborn
 Author: pkgFiles
 
+Package: com.prophecykitten.tweaktool
+Architecture: iphoneos-arm
+Version: 2.0.0-beta
+Section: Tweaks
+Maintainer: Prophecy Kitten
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debians/Rootful/com.prophecykitten.tweaktool_2.0.0-beta_iphoneos-arm.deb
+Size: 10504
+MD5sum: 6a04930e493e5b9db1092fd1ecfe8c66
+SHA1: 3a3a91902c2cdc599a3d090753c1a601feff5978
+SHA256: 1694cae897bad53a9dbad1e6286e2458d69f552e1468ea4fa2b7a86906b5b995
+SHA512: c5d5d61b09a27e7d172f85c193dd355af0e35d9e7136b6622f839df57fe00cfbd295077b7127e31498a788f6e4e154ac21019fa1238375b7637f5f204625f8d5
+Description: A great tweak to make jailbreak backups .
+Name: TweakTool
+Author: Prophecy Kitten
+
 Package: com.ps.ytx
 Architecture: iphoneos-arm
 Version: 1.7.1
@@ -2312,6 +2328,23 @@ SHA256: bd7a3353e84e3bb5bbca72084644646657b6e6e0d78d39f074f7b488d1830d33
 SHA512: 4327ec6fe698ce8c60f5ae9dd89ad95ef35134a690beb1cef578f79c92c3352bdfcd0e1b7e6960a34fb38be39fcb95157d02e9029a28c730f0467afb8fdd8000
 Description: Disable Paste Alerts System-Wide .
 Name: DisablePasteAlert16
+Author: SquidForce
+
+Package: com.squidforce.doubletapflipcamera
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.1.5000)
+Filename: ./debians/Rootful/com.squidforce.doubletapflipcamera_1.1_iphoneos-arm.deb
+Size: 4560
+MD5sum: 7996efb02e305ea3c052fb7b7b4418af
+SHA1: 34256ee7a7215a9e94624098ee5b702fe8c47baa
+SHA256: 5e8d5db9a990af7585e831016f68f04fc96435902c5da01839e0d0e82abf9c1c
+SHA512: f815df5cfdde60914e7596457f97726bf7083d4f69dc12eb28e8919132e8502d5c3569853a9397243feaf4732074d48c1edf6d28ae2b413c53af18db34d61888
+Description: Double Tap To Flip Camera Between Main And Front Camera .
+Name: DoubleTapFlipCamera
 Author: SquidForce
 
 Package: com.squidforce.exacttimeen
@@ -10189,6 +10222,22 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Name: MobileMeadow Reborn
 Author: pkgFiles
 
+Package: com.prophecykitten.tweaktool
+Architecture: iphoneos-arm64
+Version: 2.0.0-beta
+Section: Tweaks
+Maintainer: Prophecy Kitten
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debians/Rootless/com.prophecykitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb
+Size: 10516
+MD5sum: cb250ac8dc4cdacb18e0bc81a2b2f751
+SHA1: 87e8278343f219c9acb021fdc4b7ec6e15af9a43
+SHA256: 2fdce859c8b1e57fce678683eadda8e9cef5a4674fe0fab67b9a08d3df86d7ba
+SHA512: 35b95a51b0964970c7bc41513b09f8310b018891e6c5ce75d409000f8af18de936cdb8888ad91b7d1476e7fc0d28c5cc0c94e39a729e8be7010b7e9c28db9224
+Description: A great tweak to make jailbreak backups .
+Name: TweakTool
+Author: Prophecy Kitten
+
 Package: com.ps.ytx
 Architecture: iphoneos-arm64
 Version: 1.6.11
@@ -10714,6 +10763,23 @@ SHA256: 6f43bda66c1b0f4bcf2b3194a39592e927ee12742536ee5529a39ff18b00cee3
 SHA512: 9da1586abcb0b874a702c22ec7d058bb26bbdeead9c58caf9e0daabea4fedd5f17c242e59a2ca6f7c25e39116c9ba6a07f986a69f6092caacdb3649396004187
 Description: Disable Paste Alerts System-Wide .
 Name: DisablePasteAlert16
+Author: SquidForce
+
+Package: com.squidforce.doubletapflipcamera
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.1.5000)
+Filename: ./debians/Rootless/com.squidforce.doubletapflipcamera_1.1_iphoneos-arm64.deb
+Size: 4776
+MD5sum: 857b2f1a7c0d30eca77aca210091532d
+SHA1: 3c05a80bb2bb75d11f3fc9ff6fce30057bee4e23
+SHA256: 4982bdc6307db2122970a58d4cd58a478c4f9d2df61aa601e1233922b423cdbd
+SHA512: c30706b1c6680c8f09eebf953663d76ae586a5c820770b8fe5b56b6bcb7798a6d2ef3eccbf8eb2c3bd433998ae3cc0b75d25930f24435c3b5a92a476e14f0bb3
+Description: Double Tap To Flip Camera Between Main And Front Camera .
+Name: DoubleTapFlipCamera
 Author: SquidForce
 
 Package: com.squidforce.exacttimeen
@@ -11524,11 +11590,11 @@ Provides: emt.paisseon.xinamine (= 99)
 Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp16, llvm-16, llvm-16-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Replaces: emt.paisseon.xinamine
 Filename: ./debians/Rootless/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64.deb
-Size: 77036
-MD5sum: 430c17bf3038d8e40cf11f5776e65ae6
-SHA1: 9721f90b72326ad74ef7f96bde1b4ab8c24b3132
-SHA256: 74878a1d5bda47550bb9809c3d1ac7e3dd279389ce7932e69785119a3bb687e6
-SHA512: afdbfc023eb2b8804b00593addf1f064d562905498f90830330293740bbd91196b881ab9300601342aba46dd7ffcd2d7f6992667eed3d863197ee767df7a1b33
+Size: 77020
+MD5sum: 239561fb201b3dcf9e3b0259b8af8c3b
+SHA1: dbfa1863eaa7f4ac92e61db9c31ef5a7246a470b
+SHA256: f144975d1c4fdd4f1125df525ef69c32aab2eb9e4aad023ad04042d44c67466d
+SHA512: 4ce04f03671b7bfac37e25668c616542b11c4551c45cc176c7cae6c7e445a2a25e9b2850edb82f48a0d59f7edb54119c7b7bee978762b1d25be39e2dd3015323
 Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless & rootless to rootful with ease using the Xinam1nePatcher in Filza .
 Icon: file:///var/jb/Library/PreferenceBundles/Xinam1nePrefs.bundle/icon@3x.png
 Name: Xinam1ne Patcher
