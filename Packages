@@ -11207,25 +11207,6 @@ SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.gith
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 
-Package: emt.paisseon.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-8
-Section: Utilities
-Maintainer: Sudo
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp16, llvm-16, llvm-16-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debians/Rootless/emt.paisseon.xinam1ne_2.6-8_iphoneos-arm64.deb
-Size: 77152
-MD5sum: dfcc13c9f665445b509d505b04f8ae4d
-SHA1: 1d4bab40f4dcbcf637e6ecdea219cbebe7d32d48
-SHA256: 6f492ce77dd8545c77eae9742ef102866c08588c8796e0fc909a1f471869f056
-SHA512: c799488b2be874dbf49743c6adbb7358df23906975a03c917dc72d491976a726b351f03a1120fccadd16713c21e092a92a67c1eb4c6024a293859489312c5334
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Icon: file:///var/jb/Library/PreferenceBundles/Xinam1nePrefs.bundle/icon@2x.png
-Name: Xinam1ne Patcher
-Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
-
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm64
 Version: 1.0.5
@@ -11533,6 +11514,25 @@ Author: Saily Team <support.0xa1@qaq.wiki>
 Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.6-8
+Section: Utilities
+Maintainer: Sudo
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp16, llvm-16, llvm-16-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debians/Rootless/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64.deb
+Size: 77036
+MD5sum: 430c17bf3038d8e40cf11f5776e65ae6
+SHA1: 9721f90b72326ad74ef7f96bde1b4ab8c24b3132
+SHA256: 74878a1d5bda47550bb9809c3d1ac7e3dd279389ce7932e69785119a3bb687e6
+SHA512: afdbfc023eb2b8804b00593addf1f064d562905498f90830330293740bbd91196b881ab9300601342aba46dd7ffcd2d7f6992667eed3d863197ee767df7a1b33
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless & rootless to rootful with ease using the Xinam1nePatcher in Filza .
+Icon: file:///var/jb/Library/PreferenceBundles/Xinam1nePrefs.bundle/icon@3x.png
+Name: Xinam1ne Patcher
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm64
