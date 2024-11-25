@@ -11704,6 +11704,25 @@ Icon: file:///var/jb/Library/PreferenceBundles/Xinam1nePrefs.bundle/icon@3x.png
 Name: Xinam1ne Patcher
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64
+Version: 2.7
+Section: Utilities
+Maintainer: Sudo
+Provides: emt.paisseon.xinamine (= 99)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp16, llvm-16, llvm-16-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debians/Rootless/xyz.cypwn.xinam1ne_2.7_iphoneos-arm64.deb
+Size: 77052
+MD5sum: 77335a516f4d128d80c3c1579280ee0d
+SHA1: 917134384d2185210a2793ae3e7794a69e2549cd
+SHA256: 83d6942a6cc6dbfdeeea2a2accf597f35ecf033f71bed013b77c748d4153145f
+SHA512: 067c7117467db345db82c0c7b39262a72b3d8a29279809e50a4dcf591987ab34dcadbb696d6fad05c2bb5eb79c1fd654bde71402d25c672cd9a0830dbacceb15
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless & rootless to rootful with ease using the Xinam1nePatcher in Filza .
+Icon: file:///var/jb/Library/PreferenceBundles/Xinam1nePrefs.bundle/icon@3x.png
+Name: Xinam1ne Patcher
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm64
 Version: 1.1.2
