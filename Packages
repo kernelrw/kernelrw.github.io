@@ -1614,6 +1614,24 @@ Description: XS VPN VIP
 Author: Kernelrw
 Name: XSVPN Premium
 
+Package: com.lenglengyu.bypasscc
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Control Center (Modules)
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 920
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
+Filename: ./debians/Rootful/com.lenglengyu.bypasscc_1.0.7_iphoneos-arm.deb
+Size: 193240
+MD5sum: 3748143f7fdf61452eda400626990ec8
+SHA1: 4adbe1c3fde12879785d8e442de3c049b340e8a5
+SHA256: bf6a1cdf36f1440c25f1a345c7dd4f18a470a30efe2795ac7cede9246cf69300
+SHA512: 9c1b26c32ac2c67d871916b12ac562c26d150f87c3165ca277fbf86ae15a42d7f6928625da41b7dbb2d14a4ded3a94c497675eae98bab8d2766b2e9d39759018
+Description: Activate and deactivate password & face ID through control center ; Supports iOS 15.0+ , rootful & rootless .
+Name: ByPassCC
+Author: lenglengyu
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fsmokin1337-s-repo.png&s=180x180&f=webp
+
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm
 Version: 0.0.3
@@ -9790,6 +9808,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Michael Lema <samewhitetee@gmail.com>
 dev: lema
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fhttps-senkawolf-github-io-repo.png&s=180x180&f=webp
+
+Package: com.lenglengyu.bypasscc
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Control Center (Modules)
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 920
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debians/Rootless/com.lenglengyu.bypasscc_1.0.7_iphoneos-arm64.deb
+Size: 196884
+MD5sum: 4e549c7d8ec781177f3fc57fcc596521
+SHA1: 081667b90216b78f1b69d94df365b2cd3586091d
+SHA256: 7d069201eb355dbc49be7014255be0b2b0fe801aaf6dd9888668a79a9b2fc34b
+SHA512: b5ac0c9d1b7f6dbde9d17cec8279e505e7ebf9f5ae3707fe50047e6026a6110f9339e2a1569769ac8c667a19369147523eb4155f0b705df8f1a86406dd96a965
+Description: Activate and deactivate password & face ID through control center ; Supports iOS 15.0+ , rootful & rootless .
+Name: ByPassCC
+Author: lenglengyu
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fsmokin1337-s-repo.png&s=180x180&f=webp
 
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm64
