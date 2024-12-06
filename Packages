@@ -1970,6 +1970,26 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Rootful/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm.deb
+Size: 653626
+MD5sum: ae39b2cbf6da1edc793a4be51cd13253
+SHA1: d2311de18e7bc87170d66e79e5e6f68fbca9817b
+SHA256: 531d6da168bf1e88c9676f3525683717d936b272bbae03eba2d6c9a2dae73ab8
+SHA512: 784a274fcc34052cb39a22ffd46049d212d5e8d9363a6fad0dde342a9b2e2b603c97de87926c4e25c972276d2b010bd5ec52306b6809ef4400b443bc5eed7311
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -2846,6 +2866,25 @@ SHA512: 34fd6099ed78034d5de74bc5bb4dfc66929da63d93b4846816cac4e8fc98bd97658a3d89
 Description: Ensures the Restart SpringBoard button appears in the Sileo package manager when installing tweaks . Supports Dopamine 2
 Name: Sileo Respring
 Author: jjolano
+
+Package: net.tateu.strongerfi12
+Architecture: iphoneos-arm
+Version: 1.0.0~beta5
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 412
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.strongerfi
+Filename: ./debians/Rootful/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm.deb
+Size: 56072
+MD5sum: 6e5c76b8c9b9e8c13866bf79f4b3d753
+SHA1: e9ac4a561d0be67716e3a47928d03d77b014f3a2
+SHA256: beb65e0a507eb79754bc2c641f4211c1dec29237400007751d0b6294f03e1e94
+SHA512: ad2b31880da9344559f832ab8db6e06b92bd19ea506ad668665e52095831271b90a805155f17109512dbe66e3077777939d95ab7a2abff0496c46ce22e9d4a99
+Description: Auto switch to the strongest WiFi Network.
+Name: StrongerFi12
+Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
+Author: tateu (Josh Harris) <tateu@tateu.net>
 
 Package: org.brandonplank.haptic16
 Architecture: iphoneos-arm
@@ -10292,6 +10331,26 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Rootless/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm64.deb
+Size: 653700
+MD5sum: e925f59c89d4652d39c501ce8e3f7484
+SHA1: 62687bfac32e0630f5faadf8746aa522b6222242
+SHA256: 63f888503de71b432f3fa40bd0286762d970cd071ff0f03839d3a7e84932f6bc
+SHA512: c625cf5ab86349bd1785302a6470726fe90c14c306db6e979d151278a4a3f89ce63fff296eb26b1bc59c9c29fa5f3d0a38fb1fcda612b7b4d6b39e52e0787bdc
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -11628,6 +11687,25 @@ SHA512: 266748c980c8b95d83943a1af68e9ceaf29e574206d3e979ab2fd728cf484dced0bc52be
 Description: Easily backup and restore your tweaks
 Name: IAmLazy CLI
 Author: Lightmann
+
+Package: net.tateu.strongerfi12
+Architecture: iphoneos-arm64
+Version: 1.0.0~beta5
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 412
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
+Conflicts: net.tateu.strongerfi
+Filename: ./debians/Rootless/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm64.deb
+Size: 54564
+MD5sum: 5a57a2a774ee2a59fd44b382d459766a
+SHA1: 6c115f41ccd45c7e3c7dbf1635941fa892ce914d
+SHA256: abc365e639a045a546882a594d8e89323961b922b3c8e9100d32be54f88cc43c
+SHA512: eee39e4534dd292e6019df0d6bd2dbc4df65fd95411a41c2eab6539ab5b65535f68fe26713e5b4c4ac462ad7a6cb012187c2bf99c1b6be494105e069707313ae
+Description: Auto switch to the strongest WiFi Network.
+Name: StrongerFi12
+Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
+Author: tateu (Josh Harris) <tateu@tateu.net>
 
 Package: netskao.batterypercentx
 Architecture: iphoneos-arm64
