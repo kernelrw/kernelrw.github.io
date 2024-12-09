@@ -2066,6 +2066,28 @@ Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
 
+Package: com.opa334.choicy
+Architecture: iphoneos-arm
+Version: 1.4.10-3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/Rootful/com.opa334.choicy_1.4.10-3_iphoneos-arm.deb
+Size: 104292
+MD5sum: ba9676c2195cde4fc2994167360760b5
+SHA1: ed627d9927e9cfbdcf1dfdded6c345f47f9bb8b9
+SHA256: 3c29b1ac1a999aed7929f761d7fbc8148b58c536ae1c2b376cdf6cda86b23639
+SHA512: 74151ad8cf9a7216b20394e5edb73333eaed41318003538eb7775ac8c92290a9184d8a32337c501f4c36a73eaa6d7c4efac62544c723d5bdc7d3a6479b6d1fa5
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
 Package: com.opa334.trollstorehelper
 Architecture: iphoneos-arm
 Version: 2.1
@@ -10426,6 +10448,28 @@ SHA512: 94c8c169a8b9d9a1babb7e1b1417a0311897c4b314909f9c87316f6793804295fe91fb2b
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64
+Version: 1.4.10-3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/Rootless/com.opa334.choicy_1.4.10-3_iphoneos-arm64.deb
+Size: 104912
+MD5sum: 6158f6bf2f3bfd1fce42487ab3aea06c
+SHA1: 3b90083108c72444c50b051d2fd599b5a75b088a
+SHA256: 2ec88e3a02ba959da0b9f861f4a703abcfdfcb5f189ecc26ac1903842cf98142
+SHA512: 967351ca2bf99318f3ef8178cca1a77966d232e73d031f9e65a97ca06e4d394ed00e065261bdb58601bc1c8153f4884c96fca16f9bec69cd3372c845eccf3eab
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
 
 Package: com.opa334.trollstorehelper
 Architecture: iphoneos-arm64
