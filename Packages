@@ -2370,6 +2370,23 @@ Name: Immortalizer
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
+Package: com.sergy.replyactionstheme
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: sergy
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000), com.sergy.replyactions
+Filename: ./debians/Rootful/com.sergy.replyactionstheme_1.0.0_iphoneos-arm.deb
+Size: 2198
+MD5sum: a432391275baa10eb97533d335053de3
+SHA1: 72f2d83542190f76fecc5b8cdc0bedb6e252a2c6
+SHA256: d5143b2032942b68eba44b7f3326e8dc768bb9089752278bda8e560e9c574a06
+SHA512: 25f48d695b11e7784a74299586b16de9eaaca61fc8c7ed988ec880aadc4e672bcab9486b7c544dcaf54bc09dc5264bfdd1799105a5b467a05a04fc5281d1b537
+Description: Additional Theme Pack for ReplyActions!
+Name: ReplyActions Theme Pack
+Author: sergy
+
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -10876,6 +10893,23 @@ Description: Foreground your apps even if they are in the background!
 Name: Immortalizer
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
+Package: com.sergy.replyactionstheme
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Themes
+Maintainer: sergy
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000), com.sergy.replyactions
+Filename: ./debians/Rootless/com.sergy.replyactionstheme_1.0.0_iphoneos-arm64.deb
+Size: 2286
+MD5sum: 2e476ade595d3c43f7840dd1210b0f5e
+SHA1: a8079217fa93b531c427abcb6c6a2a042dbd7feb
+SHA256: 23103bf5d9ee3024a6fe520c20df03322c3e8a975f080bb042347e83ea0927b3
+SHA512: 089a96dd5354532757e18124b30f81952747b93dbcadc3175759224f941215f00ab4d19348fd177f1fb6821f56edc0aa08f1f1c00854ad245a64605e10195b64
+Description: Additional Theme Pack for ReplyActions!
+Name: ReplyActions Theme Pack
+Author: sergy
 
 Package: com.shepgoba.settingswidgets
 Architecture: iphoneos-arm64
