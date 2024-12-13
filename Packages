@@ -2667,6 +2667,42 @@ Author: zqbb <w2599z@gmail.com>
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
 
+Package: ddgg.uiscroller
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: @iamdega
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/ddgg.uiscroller_1.0.0_iphoneos-arm.deb
+Size: 4892
+MD5sum: 46361d0251b1810f786de6c02c03204a
+SHA1: 89ad686fbdd26f83824cccc951e6c91e8adce589
+SHA256: 1c9468870dce5e5cd51533065223c471fd5f02c306e094946c66f7a8be39e4f6
+SHA512: 757be1971b4ebc0ba779d10c38cf0734b303624de631bb97abea22b9b7671f39f1960d6bf62254471978a3c7c3a350264d8ef7a5c653ef3ce8cb0db33e503742
+Description: Rest your fingers, automate scrolling any pages!
+Name: UIScroller
+Author: @iamdega
+Icon: https://i.postimg.cc/qRD5kq6z/UIScroller-1.png
+
+Package: ddgg.uiscroller
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: @iamdega
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/ddgg.uiscroller_1.0.2_iphoneos-arm.deb
+Size: 7654
+MD5sum: 89300aa295b7da2b7c74f0920b36d696
+SHA1: 567c8ba6e0470640222288dc1baf2325eef561a6
+SHA256: 9d749ae48a4110b41cc7b23780a7a9e00281ac240ec812b8e4e8ef0a317039c7
+SHA512: 753c9d38f57b0a68e849d1544b97986ae39a77e60245a8c783906a5181e6ffdbd325ed9bace06c0d4a22e0e715c35b79c617274ce745b470143114079a785edf
+Description: Rest your fingers, automate scrolling any pages!
+Name: UIScroller
+Author: @iamdega
+Icon: https://i.postimg.cc/qRD5kq6z/UIScroller-1.png
+
 Package: de.finngaida.daynightswitch
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -11526,6 +11562,42 @@ SHA512: 764aef192b37c64ea8f34020fb7eee894c2dc97f2f9867bd0844a9f40b64590a4d60d5a2
 Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
+
+Package: ddgg.uiscroller
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: @iamdega
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/ddgg.uiscroller_1.0.0_iphoneos-arm64.deb
+Size: 4924
+MD5sum: ff43f9e63f5b3d9c90dbb2116efa1438
+SHA1: 006fc99b3c3995429195a0ad8341c98f013e3a64
+SHA256: 4529248da4a72258e96e32121252b729ca63539148d8f342bf51f3b36b65c93b
+SHA512: b16b305f8a59593e94e99d29d0da6f84376020246041c548d4639b42edc768481dbb358265fa3dc2675488df070856dbc550db898e928ab39246f41896f7e1e3
+Description: Rest your fingers, automate scrolling any pages!
+Name: UIScroller
+Author: @iamdega
+Icon: https://i.postimg.cc/qRD5kq6z/UIScroller-1.png
+
+Package: ddgg.uiscroller
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: @iamdega
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/ddgg.uiscroller_1.0.2_iphoneos-arm64.deb
+Size: 7720
+MD5sum: 233b22aa907b46f8663d94ae6ae388a8
+SHA1: ab544771d261a44a42a9b4992f0f30204f13b76b
+SHA256: 36f0cfbc717fe026ad5251364be3cbb5742c21131c5bde3daedc1a5e936a4135
+SHA512: eedacad05ad2b974763fd654c994d9190941f7a9eb77c24f7adcdacecd610bf14a681e0822d94aaa5d59943aa0c376e1e12971d4f127ab1e5245ad900eac5660
+Description: Rest your fingers, automate scrolling any pages!
+Name: UIScroller
+Author: @iamdega
+Icon: https://i.postimg.cc/qRD5kq6z/UIScroller-1.png
 
 Package: de.finngaida.daynightswitch
 Architecture: iphoneos-arm64
