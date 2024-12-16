@@ -2088,6 +2088,52 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
 
+Package: com.opa334.choicy
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1112
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/Rootful/com.opa334.choicy_1.5.1_iphoneos-arm.deb
+Size: 159468
+MD5sum: 5d5b693edbb0c3ee43e16f4cfc57e625
+SHA1: bd331bb8a2194aa57c26351a155579ec2f8a5f28
+SHA256: b9dfa6cab9ad55203a3b5958221e874ed205fc6d39c1bec4693a1e0435458c29
+SHA512: 9b20ebd61bfc0aebfedf45eb5e2bea28c1aa9b2f763109fb0e186a4fbdb3bf6b878dbd941e2dd8af844fb4d7ada708e4c29f05e9fcefd970b6561a7641cdc95e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1114
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/Rootful/com.opa334.choicy_1.5_iphoneos-arm.deb
+Size: 158628
+MD5sum: 581678c57427b91895c5f8631225f558
+SHA1: 4aa79841b9e2b0a7e8e165fd146df593af91e338
+SHA256: ba94b2ec1590f3559ec82b1fcf6c9bfac759916ed836f82384b46b920ad4cdaa
+SHA512: 02a7bf3333c794d1ea8758f34027b88f044adede1fd4da34fd6d1052abb61da6276e7704eac4a8d78072324c8444fc15beca53134a94c5ec04b7a8c1b5e45560
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
 Package: com.opa334.trollstorehelper
 Architecture: iphoneos-arm
 Version: 2.1
@@ -10514,6 +10560,52 @@ MD5sum: 6158f6bf2f3bfd1fce42487ab3aea06c
 SHA1: 3b90083108c72444c50b051d2fd599b5a75b088a
 SHA256: 2ec88e3a02ba959da0b9f861f4a703abcfdfcb5f189ecc26ac1903842cf98142
 SHA512: 967351ca2bf99318f3ef8178cca1a77966d232e73d031f9e65a97ca06e4d394ed00e065261bdb58601bc1c8153f4884c96fca16f9bec69cd3372c845eccf3eab
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1112
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/Rootless/com.opa334.choicy_1.5.1_iphoneos-arm64.deb
+Size: 159906
+MD5sum: 8dc5003a071b040c9b78c7b7b6291075
+SHA1: 8457d4ef8ea0822b143d092452f5f948fc2513af
+SHA256: 273e4108a5e49384bc381b7d64ae1844eb653f26304ececb8bd3a7cb70ddb8d4
+SHA512: 89bbcd6ac40a13ff4c2dc67e83d1516f6620be8b953a34e68e82f09ec8a485208764d2782b100814e67aa92b93b383201249ae3ef4257a1e0e18ef537109fe73
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1114
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/Rootless/com.opa334.choicy_1.5_iphoneos-arm64.deb
+Size: 159070
+MD5sum: 28b897b075600fdb8d8ee34d30462a5d
+SHA1: 03e0f20ca14a8d6f7e9c74516800d9c3320c0eb0
+SHA256: e7196e7c213eb8959a0f22952cb72d16945b30d03b2b1455fcafaba2e9255484
+SHA512: 5f149aa586642c1aabbaad93f69adbd9f6ab3bbbf9d2a7b222bcd5b38fb354698514547797a685b3f16ecd716c3ee7602533aa6d842f2d527621e5510914ec03
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Description: Advanced Tweak Configuration!
 Tag: purpose::extension
