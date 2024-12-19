@@ -348,6 +348,27 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.anthopak.addtofolder
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/Rootful/com.anthopak.addtofolder_1.4_iphoneos-arm.deb
+Size: 111176
+MD5sum: a1ab8d6b050b386700d9512db4a3333f
+SHA1: 90c1ecac6d6161ea3ca3b77edc1784233947e1a8
+SHA256: b5b9fa68f405ee13be33309a4991f6516e82577ec98f7cb4884ecc48b0fd2df2
+SHA512: d31c4fb79f3c1ec9e8d89983c83a0995088fc77334c58c03f2d1e48e4c538571dba7dc4e557eb881e629b7411cca6ff3f59fd2949e2234d92c9b6774855c7da3
+Homepage: https://repo.anthopak.dev
+Description: Easily move apps to your folders
+Name: AddToFolder
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
 Package: com.apextweaks.veza
 Architecture: iphoneos-arm
 Version: 1.2.0
@@ -1550,6 +1571,26 @@ Name: AutoLockX
 Author: julioverne
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
+
+Package: com.julioverne.screendump13
+Architecture: iphoneos-arm
+Version: 0.0.3d-2
+Section: Tweaks
+Maintainer: Julio
+Installed-Size: 3152
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cosmosgenius.screendump
+Filename: ./debians/Rootful/com.julioverne.screendump13_0.0.3d-2_iphoneos-arm.deb
+Size: 1191872
+MD5sum: 5cdefa2ff138aba3a99b4455f40b43a7
+SHA1: 1575843366aa2c8b5a60aeaad17d63b1e977ac9e
+SHA256: 1ffc9e950d9f4ce0dd2e276ba566124532c75f2a6e1d0079ed5ee857980a9097
+SHA512: fe05bc6f9e3f21b3bd5dbb36bceaa606190e6e53fc669c4b5b631877bc8f7b5557b659751f4826bb0f68958d80733da654ead268146890768f97a9c6e0d19748
+Description: VNC for ios (rootless/Ellekit)
+Name: screendump (iOS 13+)
+Author: julioverne, Sharat M R
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.screendump13
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/screendump/ScreenDump@2x.png
 
 Package: com.kernelrw.120Hz
 Architecture: iphoneos-arm
@@ -8286,6 +8327,27 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.anthopak.addtofolder-rootless
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/Rootless/com.anthopak.addtofolder-rootless_1.4_iphoneos-arm64.deb
+Size: 136444
+MD5sum: 58937bf95c859d98c25408f7233428d2
+SHA1: e05fc7d1985e17ea2ee5643759af45220ccb9c7a
+SHA256: d8f0b0df80ca669538e1a7462b6c66a5b6c6223257a6a0fe005a8d647ef50849
+SHA512: 34bebc6cf1cf75d7cf5b45c492661ea57e556da5152d2c3635fee0bdf7660100fec215ad389da1dcea483159675eb39a737c50ab89faca2a01b5abf03bbb5fa6
+Homepage: https://repo.anthopak.dev
+Description: Easily move apps to your folders
+Name: AddToFolder (Rootless)
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
 Package: com.apextweaks.veza
 Architecture: iphoneos-arm64
 Version: 1.2.0
@@ -9895,6 +9957,26 @@ Description: Force Auto Lock Device
 Name: AutoLockX
 Author: julioverne
 Icon: file:///var/jb/Library/PreferenceBundles/AutoLockXSettings.bundle/icon@2x.png
+
+Package: com.julioverne.screendump13
+Architecture: iphoneos-arm64
+Version: 0.0.3d-2
+Section: Tweaks
+Maintainer: Julio
+Installed-Size: 3152
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cosmosgenius.screendump
+Filename: ./debians/Rootless/com.julioverne.screendump13_0.0.3d-2_iphoneos-arm64.deb
+Size: 1209368
+MD5sum: 369cca0947b3327e04c7bff102650b54
+SHA1: f5ad63b8daf9144c0dfdf5255791ae0e32a1b05d
+SHA256: 79a453c4eaaf8dbe4f15806cb4bda960b13c8ec4f2b992bacaf52bb43fe131fd
+SHA512: c75d8a0ce32e1c92b8e031462806ef15258753fa7255e8de625e0c4e7d99f7a4ae347cb983462be35c3f459d3f7855dbb946a91d9fa911cd749e5a009975a465
+Description: VNC for ios (rootless/Ellekit)
+Name: screendump (iOS 13+)
+Author: julioverne, Sharat M R
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.screendump13
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/screendump/ScreenDump@2x.png
 
 Package: com.kernelrw.120Hz
 Architecture: iphoneos-arm64
