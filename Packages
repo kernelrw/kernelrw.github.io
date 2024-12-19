@@ -1553,6 +1553,23 @@ Author: Hitori <mikasa-san@outlook.jp>
 Name: PassText
 Icon: file:///Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
 
+Package: com.hw.ostrichvpn
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: HW
+Installed-Size: 564
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.hw.ostrichvpn_0.0.1_iphoneos-arm.deb
+Size: 99100
+MD5sum: 8015306557b801e893f5203036d6262b
+SHA1: 33178f596fb5e257dfdaa375461fd8ad79481801
+SHA256: 636b03234e57ef577c330a3c7210bdb69e13abb07f49ffef4f22907b6d5878ae
+SHA512: dedc4ac7ca112cbf6136dec33425dc3d728a471c6dc31804d236d4732785fa427597c38fcefb67ad0b0c94352280142fe4b32a3c800c854790beabed5c967a83
+Description: Ostrich VPN Premium For Free .
+Name: Ostrich VPN Premium
+Author: HW
+
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
@@ -9868,6 +9885,23 @@ Description: Turn Your Passcode Numbers into Words with Style
 Author: Hitori <mikasa-san@outlook.jp>
 Name: PassText
 Icon: file:///var/jb/Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
+
+Package: com.hw.ostrichvpn
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: HW
+Installed-Size: 564
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.hw.ostrichvpn_0.0.1_iphoneos-arm64.deb
+Size: 98980
+MD5sum: 3f63bc6f17ea02a6b08cd55e5f3e1126
+SHA1: 7fe5d726bead4c9601a9681b46cb9815c1729372
+SHA256: 625774b2dd5c8cefca5ca6b9f433572c2613baafb8c62e1cde631b05bdac00bb
+SHA512: 3dd844062b3f98d1952c0c70b70b0b512832c580024be9c705b4e4647bb1819445db70fb966e21d883e402e0898a35bd1baa40beee83f543ba54a4ba3ed2d092
+Description: Ostrich VPN Premium For Free .
+Name: Ostrich VPN Premium
+Author: HW
 
 Package: com.ichitaso.youtubepatcher
 Architecture: iphoneos-arm64
