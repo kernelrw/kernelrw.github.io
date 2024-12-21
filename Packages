@@ -228,6 +228,23 @@ Description: Lower your Dynamic Island and make it disappear if you don't need i
 Name: mineland
 Author: 34306, DuyKhanhTran
 
+Package: com.34306.timelefted
+Architecture: iphoneos-arm
+Version: 1.0-12+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.34306.timelefted_1.0-12+debug_iphoneos-arm.deb
+Size: 10848
+MD5sum: 747d3fc5165c257f0767ee4309fe017f
+SHA1: a84b3b7c92428449f4c91f216bbe0a0feac7e98a
+SHA256: 54709b8a53b62f2f9b84212524599ff5e5b3283407550d9f9a7f44635bdeadf6
+SHA512: 273d0507e9b216f3bad909a67848f104a4baf6ddcbfa91fe7c76449c88b16d3bc95ad4176d373a28066e3207812ac9431159c74419c1787d469ae789a4bcfefe
+Description: Show estimate time left on charging battery
+Name: Time Left
+Author: 34306
+
 Package: com.34306.watchedd
 Architecture: iphoneos-arm
 Version: 1.2-1
@@ -8206,6 +8223,23 @@ SHA512: b413c0a103801b844abcdfc6ece77eaffa9dd47228953d3f84f655631cbbdd89652bfb6c
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Name: mineland
 Author: 34306, DuyKhanhTran
+
+Package: com.34306.timelefted
+Architecture: iphoneos-arm64
+Version: 1.0-11+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.34306.timelefted_1.0-11+debug_iphoneos-arm64.deb
+Size: 10908
+MD5sum: 550cb4d84138b24fefbd3895339c4b40
+SHA1: 848b74406b063e345611ba2f6cc8acd31cfa1633
+SHA256: 7596d30b742cc3dd90873ed77fd120fe70e63beb12b16d8f85756aeaac51f4c9
+SHA512: 6462d44aaf6769582aeb9bef203d0e14a49a4605d4a2fe6aa5e9587d52cdfaeb66324218669865605c9a628f229526ebbd28a7ac7f4b55b5b0acc458ae128241
+Description: Show estimate time left on charging battery
+Name: Time Left
+Author: 34306
 
 Package: com.34306.watchedd
 Architecture: iphoneos-arm64
