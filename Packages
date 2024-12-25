@@ -2899,6 +2899,158 @@ Description: Remove videos uploaded by specific channels
 Name: Gonerino
 Author: Adrian Castro
 
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.5.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.5.0_iphoneos-arm.deb
+Size: 15640
+MD5sum: f1f8c38986cf378f77140f9e3a157508
+SHA1: e18a7fc8d94c9577b64abb46e0a982f90233e29a
+SHA256: d460141d2f29199e3e4a234724dff28d8370edc06ca73ee416f2c7c542d182e1
+SHA512: 86f39cb286ef91a40db500ff65bf8bc93147dc9ad9f4f8d7c51c71982afcd860a013583f47d43c999645644952c1148c28941427dc6a0f3ac5485ed821c93076
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.5.1
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.5.1_iphoneos-arm.deb
+Size: 15860
+MD5sum: 77a85e13fe3243dab9c778682a829a5a
+SHA1: 6757787e5bd44667aad0f97d8b6616e2962dbd3d
+SHA256: e6d2aa6f90f209a2db0a5856d97d32c19b31f1e1aab9de3e0c4c0d3d121144fd
+SHA512: f5c8648ccc6d584e680373659d537623fe486d455d81e2f8a31e3f68c45e95b6073f2fdcf30d815b8b0f2faf8073ec8128c62975fe59951a270947f2108e7371
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.5.2
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.5.2_iphoneos-arm.deb
+Size: 16208
+MD5sum: b4791138d94efab15b7cfd78ee48d66c
+SHA1: 3d3e7feba28ea2cfa6b0b241d9fa198456dd39b8
+SHA256: c8970a05d87c64b2042e5c3a51d38a2ff701577733047ae60a3056cc8095a616
+SHA512: d4a9c2688d08e4ffc1a3baec91c908bde29f658899aac50355a9a9ce4c5ce30fea99d4cc5c9c752dc4f9a1b1d4ea75eee6dfa20b4ce5e3d21cddc6157bc42939
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.6.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.6.0_iphoneos-arm.deb
+Size: 17204
+MD5sum: d73cec4886394027a4ef1a0506475281
+SHA1: 0f143ebf0acc94a8269e9070c74fe650e1eb8459
+SHA256: ae865455dbd5aaf4f5c863a18e489fab5cf2bc9aab4a337ea1a75521adb5c815
+SHA512: f40b070e72e4e9b57f6c8763f49950a9aa098199624690d781c12005880cc7041d9458b1e9d1588a04095a2e060e1fc645a1685f416fb34bb10a8fbb495af343
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.6.1
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.6.1_iphoneos-arm.deb
+Size: 17372
+MD5sum: 5fcea04fe351176d792264b34fae9052
+SHA1: 6810758924d2b3c3de7c8a7543e589b6d14d416e
+SHA256: 941040df614cf368f3dc485c58b6bc8e6bf1c36c421b4a57753390316f4943eb
+SHA512: b0f4b1872b59b4c7a42b91e871cf1c97543923280e056af5ebd2e5ef9c2a59ecbc5a74336c53584aebdfbc195a83b5eb373cfa7e727501afeac11f59c834feb5
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 0.6.2
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_0.6.2_iphoneos-arm.deb
+Size: 17384
+MD5sum: 1832834d0ceb0d87cbbaf063241b2fc5
+SHA1: e3e5289a143105f5179959698259c5c85c832ed1
+SHA256: 9916026a4e9f4740ac95d1bf6c59b894c563d18bb272becabe6a2ba0b140eb4a
+SHA512: 313c81fa6aadc074443ff7aba0bfd54a27e0a6fc1fa2ec8ac980f5f353b470c96ebdf73650d2438f42bf160718a822a66c5b943a91f281e4291a1d15db42595e
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_1.0.0_iphoneos-arm.deb
+Size: 19432
+MD5sum: b23a94728031d8cc9fd431d731b0b717
+SHA1: 175f0c607be779c9e1feffe391f6211298bf1357
+SHA256: 8c2620a8f388dd5a866d8fe18b754f5d682217a97dc0bb23f6b62e623ed82291
+SHA512: 2de70667605a27074f4e1aeca3c42ab204d6ae5aa307c10eae3054f256415c3fd6a47da67ae2195fa833a1c646cfab4ddc1d5051965cf1b39d33b3114ba01d54
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.adrian.gonerino_1.0.1_iphoneos-arm.deb
+Size: 19588
+MD5sum: 079e7a4fbf0e6762eb017cf645390158
+SHA1: 9a42b3dddc64e242ed49f72dab73f6eadbee1114
+SHA256: 07f8e6d29a0d22811dac23506a1330482b586c02ccbe2ede5121fc09acd9ba26
+SHA512: 0ba4b0e2c9a17c22c6e2c518d2dbbfee2baacdd722c96e5c9bfdc16f5c8cc72c1442d6f482d67d0c426ac5b11a7baaa9bd2f1a7d871a42d2975c949c90e120f0
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -11915,6 +12067,158 @@ SHA512: 42369866d9ddcfd633c7c775c6655bac071a93d6e6edd43252650df0e2d33cac2096c47e
 Description: Remove videos uploaded by specific channels
 Name: Gonerino
 Author: Adrian Castro
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.5.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.5.0_iphoneos-arm64.deb
+Size: 15822
+MD5sum: c5f75733fa4aee5db678856145b18e84
+SHA1: efdf62b7f66e3d26cc0a7f25f8f7ab656d76c54c
+SHA256: fd2e2620a0aaed054b42ee3b52b14d2a6ba7058bd431e800f0d46dd730eca7c9
+SHA512: 8a156351ec01f5c36ef7b470d4b41de2e57ecb4ff00d1f371e48cc7f1e1e8797e472fce4b3dff724ea50a8113d39e844a1d2aba6f6955b5297d3a2ee742ce3e8
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.5.1
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.5.1_iphoneos-arm64.deb
+Size: 16026
+MD5sum: 6006be63ef6d9d7ea4c9387fe6d2d217
+SHA1: e5b87d6df0586dc0909fd61680587a41adcea0ba
+SHA256: 4e92a8df1bcbcc2bed7392af1c00c1ae2a06262f416c65d58fc453c649f9f353
+SHA512: ab9872ea06f2870e0370f41128fb526ea4b1a9566b2f603297ef8e8a7537ba0953256f5fdd7b5a653cb841b394b1e19a8b2b52f43ced706ed198989dd84e89a3
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.5.2
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.5.2_iphoneos-arm64.deb
+Size: 16386
+MD5sum: 751db99d5fae2e2d7fc5aad88b439bf0
+SHA1: 5bdb7c6edb9e9c20a421b1591388abde9fbcd407
+SHA256: b367f5cf54bdb711c49bf703f2b50c0600e95a851c71853482abe1d9139967c7
+SHA512: 9fa704c83bc1293c56e2c486e34524561559b9f12e7e53b3a1ecdfc2ce58f4d064189d85111799d8c283b3209efc32667d4166dcb9653bcd20bbe48ef9e43923
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.6.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.6.0_iphoneos-arm64.deb
+Size: 17416
+MD5sum: 76daf5b0d9483790b86e0d7a8770534c
+SHA1: 05b9414d56d7c3f11c91b53240403d239d7c1350
+SHA256: 9779f91f088f55f7ae534d6a53b351964d5ceedbecefb8072821a5fcb9ed2722
+SHA512: 1214379f9b8b2df99718229afdd056cd71aed80902b0565cc690d4e6c73bc3f1aa8edf7578c39660cabf02e3b02d9ef271d35b0ca6d8ab5a4097b5dff5864cfb
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.6.1
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.6.1_iphoneos-arm64.deb
+Size: 17570
+MD5sum: 6b331e02ff6230fc8c67a1ec81c06d57
+SHA1: 6bde53e323500580f861b3b756c469a2719d4164
+SHA256: bf6f77a04941fd37542896a665a13cc688eff0ebd4622b687583268ff1551dba
+SHA512: b52cb2c9b43120d95cc877de87bc1c9b295ed6a32c1c192585e913c5d6ccd8c457e5945b51a66b8ea47d7e8237ab10580dc6a1c9a92b208b55794e0a86178ce0
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 0.6.2
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_0.6.2_iphoneos-arm64.deb
+Size: 17554
+MD5sum: 20fcb455a5d37dbc5e9a84678b59a7d0
+SHA1: 076be06bca029779fe18f3d53ed1e0a177ae31c2
+SHA256: 33dc2c33571e8a7310757946f54064a160e4c733730c9d078f26ecfb65a5782a
+SHA512: 1f4616eae5b430ebb0cb8e2dd9fdf343ba5e3717f268d0f419d6b095599dfb0114fff12d9e496d337c5de8667b6e81c92075c94bff2975c4b0624a49f863e659
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_1.0.0_iphoneos-arm64.deb
+Size: 19656
+MD5sum: 52357be51c4a663a8d4bcc537b87e1a7
+SHA1: aea2c3528d0c94d2bec4bfc034bb83792a848c20
+SHA256: 95b7d6a2aaec1960d857f7ce47e40a405675697da6c06e53e16ca88fd5dca0aa
+SHA512: ffad2f2128a5eb715b558df1f85e5aa9dc4e2d5e308c881559d6d23e99080428692ecb64c5df4c016a9ac9d10e28b89af067699f989a5df880ea70df555a10a3
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.adrian.gonerino
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Adrian Castro
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.adrian.gonerino_1.0.1_iphoneos-arm64.deb
+Size: 19864
+MD5sum: cefc3ea4d23d73de03efd02f9b555b64
+SHA1: 2e7628acdb3acb9984536fc50081db8566214b89
+SHA256: ce3d92c62bff7313c2ccb6fa1b83f25520dc63a53e28ab7a14ad19f417b46b50
+SHA512: c1f817c47a38c210e160f536aacb47a785855f851dedf95dcdda4839632b9f1406fab373f6988193a1c797d0474d471fb5c507f2fb9ba1edf888a913050debec
+Description: Remove videos uploaded by specific channels
+Name: Gonerino
+Author: Adrian Castro
+Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
+SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
 
 Package: dev.ayden.ios.tweak.lib.libdundas
 Architecture: iphoneos-arm64
