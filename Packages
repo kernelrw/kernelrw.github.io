@@ -3234,6 +3234,27 @@ Name: StrongerFi12
 Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
 Author: tateu (Josh Harris) <tateu@tateu.net>
 
+Package: net.tetherme.tetherme8
+Architecture: iphoneos-arm
+Version: 2.1.3
+Section: Networking
+Maintainer: Sam Bingner <support@tetherme.net>
+Installed-Size: 22912
+Pre-Depends: mobilesubstrate (>=0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debians/Rootful/net.tetherme.tetherme8_2.1.3_iphoneos-arm.deb
+Size: 11424672
+MD5sum: 92f94866a0eb6d27da046ee02474edba
+SHA1: 66c4675e950156667f7d58cf348a739688451a9a
+SHA256: d4462e24feb472564e25bce03b5e6f0b670aa39628a279e073077b25d3d214cc
+SHA512: b8ffb3ae147887c11e3d4df4cd99fa6a0adc7b3aa559e16e7f92a38bc476e45339dc60d69e20dbc9e2e93099a60b5fbcee1eb2ce16b502cd9e82dc7490d07427
+Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
+Tag: purpose::extension
+Depiction: http://repo.tetherme.net/licensed/net.tetherme.tetherme8.html
+Name: TetherMe for iOS8+
+
 Package: org.brandonplank.haptic16
 Architecture: iphoneos-arm
 Version: 1.0.1
