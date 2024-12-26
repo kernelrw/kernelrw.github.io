@@ -372,11 +372,11 @@ Section: Tweaks
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debians/Rootful/com.anthopak.addtofolder_1.4_iphoneos-arm.deb
-Size: 111176
-MD5sum: a1ab8d6b050b386700d9512db4a3333f
-SHA1: 90c1ecac6d6161ea3ca3b77edc1784233947e1a8
-SHA256: b5b9fa68f405ee13be33309a4991f6516e82577ec98f7cb4884ecc48b0fd2df2
-SHA512: d31c4fb79f3c1ec9e8d89983c83a0995088fc77334c58c03f2d1e48e4c538571dba7dc4e557eb881e629b7411cca6ff3f59fd2949e2234d92c9b6774855c7da3
+Size: 111144
+MD5sum: a0ee973992ab9496b5a45f40f2c60178
+SHA1: be0c4e4a2959621aafc9ce228a3f15a84f85fa79
+SHA256: 270f4234d5e859be25e857c284e37d7d1bc33746eb8a3c2c9e4e19ca0e9261aa
+SHA512: 07acf8422bd2f49dd16f41c5637ec61227f2681d5cff2a532d0fb487cab0f25faa8a46c0b3fd6855fc96458b3fd9a2ad434422b855de3145be6b977a03b7593c
 Homepage: https://repo.anthopak.dev
 Description: Easily move apps to your folders
 Name: AddToFolder
