@@ -118,15 +118,14 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debians/Rootful/codes.aurora.kayoko_2.7_iphoneos-arm.deb
-Size: 123836
-MD5sum: 547f36d1555a894a6aa91dfd2a15b6e8
-SHA1: b164504fdfef6da156a5001e4d135f3eb243571e
-SHA256: 3c7379c5018d79e8b1c5c8133a0f4af07211e9edd5ce369f9c45ec3caa674f6e
-SHA512: f79f077dc75fd29d891d0b37ddca78f1bdd26057442897e3390223a8cdb41996ac18a96dcd82af3f8f68ffcd100082ae6d7b9519f4f422a04050bebe29ce6754
+Size: 126706
+MD5sum: eb87e244bef6e69475514a26aad2c447
+SHA1: 2e976fa538ce6d939fd425473a559636de9538fb
+SHA256: 2e11748443914afde88adb77ada08bc30c1b778cec98dbd792ffac417f0d051a
+SHA512: 10232d116af7aee19e24305a1bfdd7e7caf65918f3759fce64b251794b263a4182022d958a23aa542fac555faf54c9d6cf1d835f4621479cf48a2b0ee2bc2af0
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
-Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
 Package: com.0xilis.snooliebattery
 Architecture: iphoneos-arm
@@ -7258,15 +7257,14 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debians/Roothide/codes.aurora.kayoko_2.7_iphoneos-arm64e.deb
-Size: 123956
-MD5sum: d4323431f5ad502af980fababe1d0ce0
-SHA1: 8d6543f6ebf3f27d8b53e2f6352b7a2c1acae85d
-SHA256: 75a888282bb52d42c08a5c94ad486336d4600154df72ed7842381c52f78868d6
-SHA512: c5e2d4560aa07155adf54ef4d2b9d3a11bc593e19d0c14ccf94967f18e1bb05fbc8d9e93fcf88726690a376e72bce48f0622ac10b246d40ce089d040758279e2
+Size: 126552
+MD5sum: 62209d49c8e3d9ca031d6bbab1ecfed5
+SHA1: 0394ef427a5938054adced6d873c6de0050f3c0d
+SHA256: 449d7f6a87677056fe1be7831a80f470121e8396eb9a3115530d8017f0740c9b
+SHA512: ff52f3ce6cf9ef8adcc77c7c7b3d96bcde5a9564c6ac5367aae00608c4791b6039f4c4f687284a1b884db7b97b64fcde2d7d4789e540f9d098a9a6e476adfe58
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
-Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
 Package: com.34306.mineland
 Architecture: iphoneos-arm64e
@@ -8319,15 +8317,14 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debians/Rootless/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
-Size: 123644
-MD5sum: 6a879bd02b9b5531b781b168a0b7c395
-SHA1: 6d83a489e20509f0c709bcb6289fb526dd402b10
-SHA256: 9eb4520142c6cecf4e0989c9a8850f23fba1830c06b92f8f146ab87ab6d13270
-SHA512: d30b57b434903f8452b4d80e18d4cbba74476f713e2a11100c22624429f93438e83e2cb5e8dcb8b55e3660d04a1e65b6c0bf5e8c1862b9afee25b1a8cdfbd423
+Size: 126294
+MD5sum: ef8bf34a3bf7d1e3c1f69e4fd2fc303b
+SHA1: ae04ce0726840ce0db94c567c56a3a33060c6e88
+SHA256: f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f
+SHA512: fd584fc546b73c341fc0027fe88e5f58280ab41af89fb309d201b7a64ad7ccf4988880494dcae21e6ae7e2c621a53f949f31333dcab3569cadf0fa18abc30953
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
-Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
