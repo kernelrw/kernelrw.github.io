@@ -3107,6 +3107,23 @@ SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.gith
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 
+Package: fr.rootfs.rode
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: rootfs
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/fr.rootfs.rode_1.0_iphoneos-arm.deb
+Size: 5988
+MD5sum: 8269a4d9cde80d06150c713a64029ec8
+SHA1: aefd058de0618151c7639b2a80a1d32db9c1e893
+SHA256: 08b01913e1f067645bf98e0846a3ce1614fa1af9b1ffc86d44d59dd0e9614509
+SHA512: df993ba3681b893d01f63a85f6018bed851411078844a96e8cc67fcc1b77173ad8fa1c563c2f5fd2ebeff835c694ee1050139e5a744ccef35f2fe0aaad055f02
+Description: Scramble the passcode view on your lockscreen!
+Name: Rode
+Author: rootfs
+
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -12314,6 +12331,23 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.g
 SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
+
+Package: fr.rootfs.rode
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: rootfs
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/fr.rootfs.rode_1.0_iphoneos-arm64.deb
+Size: 6084
+MD5sum: 7f7a936d7507947a13ce9e3fdcfe8cc1
+SHA1: 3a6f37c50f7266ccdbfc7ad1237dc441f1395e18
+SHA256: a3951f93a3f8ab2635f5fb83b882fe14662331329c15eb467880c40ad416ca20
+SHA512: c5ecfb4755ddc42f06cd2ebcd0743bfec6a721c75a0175873d6052fb06dd42a70edcf5d9245024fb36b6986125b7034586a3ed7eca4e359349a132d337afc16d
+Description: Scramble the passcode view on your lockscreen!
+Name: Rode
+Author: rootfs
 
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm64
