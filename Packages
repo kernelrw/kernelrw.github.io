@@ -865,6 +865,26 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 
+Package: com.den.igformat
+Architecture: iphoneos-arm
+Version: 1.21-2+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 1020
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.den.igformat_1.21-2+debug_iphoneos-arm.deb
+Size: 136440
+MD5sum: 9d30852252e45735c46944f716fae282
+SHA1: c7ea5c7d21d021cb923edc08139c84edd57cedd9
+SHA256: 2fcf6d1595b10083844586180c1ea89ee32e89147663ea87d538073af816a7e9
+SHA512: a485e4b768a1abbd162cf80f6d1f961cc8504d9692da0289f12f4bb1fcde570c4b3c1543ead4a9dfa7e2bf0cdf11f2f68ff1fff6df313ee96d95adb1eecf61fb
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
 Package: com.den.respr1ng
 Architecture: iphoneos-arm
 Version: 0.0.1-3
@@ -908,6 +928,46 @@ Name: ShortCutx
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
+
+Package: com.den.twigalaxy
+Architecture: iphoneos-arm
+Version: 1.1-13+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.den.twigalaxy_1.1-13+debug_iphoneos-arm.deb
+Size: 55104
+MD5sum: c1ad96bc066b69574d2bd630b56d2d21
+SHA1: bcb5685f1ccbb5e72c3ea925e685ef2140672cc1
+SHA256: 5cbfbe2ed2c3e3949d63fecf94ca65c4fcce4aa902468fe7d04a78bd1d9c26d2
+SHA512: eb0180fd525389cb27e12744698e408af0b3dc1a6685026f9e3f32e2983c79d55eccd1aec7dc1c68d057e7e7b6c77aa25d0334551247114d6c5efbf4993648c1
+Description: Make Twitter Better!
+Name: TWIGalaxy
+Author: DeNsor
+Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
+Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
+
+Package: com.den.vibetok
+Architecture: iphoneos-arm
+Version: 1.2-11+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 616
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.den.vibetok_1.2-11+debug_iphoneos-arm.deb
+Size: 82868
+MD5sum: e096cdd37a102506c4d3399a096c3397
+SHA1: 83c3a943d8cc351546dc0f6e7f6e90bba994acf6
+SHA256: 55a10fd55eade2ee372e814959f46448c4406c267c19b4c8fb53a7f09ef80e0d
+SHA512: 749f55fd3da6389b8ba4e84e9eaa7f0363d84f06dc729c74c906688ff057809a6f14f5bb12a0d655d84bc0c1f3e8ed14acb7def19972e76e35ad9ba01891a0f0
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
 
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm
@@ -2223,6 +2283,26 @@ SHA512: 01284cf5a16eb694334865571ffd02fa63a846780240b33881b0c1d732d0605b749c22b5
 Description: Helper utility to install and manage TrollStore!
 Name: TrollStore Helper
 Author: opa334
+
+Package: com.p2kdev.instanosuggestions
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.p2kdev.instanosuggestions_1.1_iphoneos-arm.deb
+Size: 3644
+MD5sum: 0bcd7f3dcaad0663729ccb87cc43ba28
+SHA1: 1fb1353970ed7e506aafdc930e6a36582a9dbecd
+SHA256: eee234560928f75a0d49b49c08914316835cbf27ff156746dda6d65a03ccce55
+SHA512: ea57c94d87ed242f85dc4645466a63d5d06271c776fc26995fe7118a1905ccd744b655a88adb89de4d316fc112cb9b443493f1fcfd43fa538d5754ceebe680a7
+Description: Remove suggestions in Instagram
+Name: InstaNoSuggestions
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
 
 Package: com.p2kdev.underdockk
 Architecture: iphoneos-arm
@@ -9220,6 +9300,26 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 1.21-2+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 1020
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.den.igformat_1.21_iphoneos-arm64.deb
+Size: 152130
+MD5sum: d7630036397a1e9fe1aa29d4a2915ee5
+SHA1: 6f7bf03c2636c1ca99ac0fee397185fbd1448714
+SHA256: 8354ea8e112280df335911cfc279bbabc9bb6cf7ab091832041a8023b1426a9f
+SHA512: 9fcd2e83ae57ddff3551471285dc898bfb42b105e720c73c2dab6bd9e668cac64f802de4d8ad9c7b73b8c2e0f3d8af280d3cd53bc615b93ae5cb703d8d81a197
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
 Package: com.den.respr1ng
 Architecture: iphoneos-arm64
 Version: 0.0.1-3
@@ -9263,6 +9363,46 @@ Name: ShortCutx
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
+
+Package: com.den.twigalaxy
+Architecture: iphoneos-arm64
+Version: 1.1-13+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.den.twigalaxy_1.1_iphoneos-arm64.deb
+Size: 60582
+MD5sum: b5d0cade9a51db104beba161b964071c
+SHA1: 5fc8b99e4dc681b18214f2265a84ac43f4a7da50
+SHA256: 40a5c9105d474adc2c31b1ced8d5a1ec9928ebf25e1accc607aa545d77e14140
+SHA512: 67e76b5f7464a9befa63447d5fd1e42ab3d081da82e7f668db3200792010dc8c9118921cbae79371e455e6c9f3ea90945c71bba2068ea91b265c82b4f2d7d347
+Description: Make Twitter Better!
+Name: TWIGalaxy
+Author: DeNsor
+Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
+Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
+
+Package: com.den.vibetok
+Architecture: iphoneos-arm64
+Version: 1.2-11+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 616
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.den.vibetok_1.2_iphoneos-arm64.deb
+Size: 91404
+MD5sum: a45071f6a183005b19af26022cde8519
+SHA1: bddc5ba1fc667d4cc68fc3d43373979c34853561
+SHA256: 604388779ab1b4c599fb05c7be298eab17d8cff5a742a67317b51fbb3ef87045
+SHA512: 5c2bbcc7fa256b852fcfb1d8d4d0f65216c1681ce8d7f25c16dacbf78c4859d279d3a0d0f32805996ad8978c26e49670eb90c847840f78dfbd7106dbbda370aa
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
 
 Package: com.devvix.nocshare
 Architecture: iphoneos-arm64
@@ -10988,6 +11128,26 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+
+Package: com.p2kdev.instanosuggestions
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.instanosuggestions_1.1_iphoneos-arm64.deb
+Size: 3804
+MD5sum: f4734d534e81170891e838aae380f2bf
+SHA1: 648ee509b981badb5d0d488d2b2e021205919eef
+SHA256: 0e3dc0d4b852ee6053d296c0442a9a38dc82c9ec7d957636508a5b76c76b00d7
+SHA512: b9742c8dc8f273d8c78837d2f3c37a3ff55addba58712448e0c86e0dbf5b88cd7feeb42c13bfbe6ba232b1b121082f0e798b297a81b144ed9e41425a688ff92d
+Description: Remove suggestions in Instagram
+Name: InstaNoSuggestions
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instanosuggestions
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instanosuggestions/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instanosuggestions.json
 
 Package: com.p2kdev.modernsettings
 Architecture: iphoneos-arm64
