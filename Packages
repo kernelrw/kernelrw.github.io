@@ -2906,26 +2906,20 @@ Icon: https://i.postimg.cc/qRD5kq6z/UIScroller-1.png
 Package: de.finngaida.daynightswitch
 Architecture: iphoneos-arm
 Version: 1.0.2
-Priority: optional
 Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 490
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Maintainer: Finn Gaida
+Installed-Size: 608
+Depends: mobilesubstrate
 Filename: ./debians/Rootful/de.finngaida.daynightswitch_1.0.2_iphoneos-arm.deb
-Size: 59274
-MD5sum: 6808bf082ffc6d6c85663658c972151c
-SHA1: dadb2eee59536fce01c2bbb5a93428d9176c0e8c
-SHA256: 51214d2588f57c6f50932234bf6ff57cbcafc629fa021351dff1ec579a87ea03
-SHA512: c2a3a1c12e5cd16e8e9adb4ccdb02e22329951e6deae85366c538fc3450c1be99d256c64b3f4ff0bb2280c716fc9396720df0d9878b33a1523ded0d8f037f316
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daynightswitchDp
+Size: 59560
+MD5sum: 4462c433e2e288d6be0d31e009679d8f
+SHA1: 1c9f5fc9dc765cb4c57ccdc84cf8bf2cd3234f2c
+SHA256: dd1d905f45c8b44cf74fa29f10d9cf4eb68abc817751cc9b873d857f9a3a2d62
+SHA512: 928a1e7122b11e22408594854e27a2c7587c08745e7104408eb4ef07ecd03c2e71db69635554922354d9cb096146007b8884d392e2f43c4913c17585573e8715
 Description: Add some style to your switches
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Name: DayNightSwitch
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daynightswitchDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: Finn Gaida <finngaida@gmail.com>
-dev: finngaida
-Icon: file:///Library/PreferenceBundles/DayNightSwitch.bundle/icon@2x.png
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Author: Finn Gaida
 
 Package: dev.adrian.gonerino
 Architecture: iphoneos-arm
@@ -12191,26 +12185,20 @@ Icon: https://i.postimg.cc/qRD5kq6z/UIScroller-1.png
 Package: de.finngaida.daynightswitch
 Architecture: iphoneos-arm64
 Version: 1.0.2
-Priority: optional
 Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 490
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Maintainer: Finn Gaida
+Installed-Size: 608
+Depends: mobilesubstrate
 Filename: ./debians/Rootless/de.finngaida.daynightswitch_1.0.2_iphoneos-arm64.deb
-Size: 59996
-MD5sum: b7489089cd74b3d904bf2116d3fafdeb
-SHA1: 9226b3ad9280c48fbc9ac39d103e23c718dc14e3
-SHA256: 66d92d444cf1b28f72567995826bef0bef1d9ccf21be06ffa74d9b23ff13b288
-SHA512: c6e4c4232950df635e3bbc1cd8a31c0070fa8b2421c84a39c64bc3f8526bdcc5ce6ab53570a3ba88d615bd739f86e84e1fc8e2d64145bbdd1a08156c632fb4dd
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daynightswitchDp
+Size: 60404
+MD5sum: 06f02360902785422f6348236bf47a36
+SHA1: 2ee265ed3f247f558f55a5b63d063bc80fc1174c
+SHA256: 250ec54664f14c02f23cf9f3ec70cf3cf0d91b682b052bc6cb13744364b79b48
+SHA512: 2447543fca4bff8033a142c960feeab54c435b3d03f7e67f05d19f03716c131a2ec36e936fee884eb2dcfe361a0234bf4023e58b2cb35ee7b2ab191a2aa7b3fb
 Description: Add some style to your switches
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Name: DayNightSwitch
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daynightswitchDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: Finn Gaida <finngaida@gmail.com>
-dev: finngaida
-Icon: file:///Library/PreferenceBundles/DayNightSwitch.bundle/icon@2x.png
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Author: Finn Gaida
 
 Package: dev.adrian.gonerino
 Architecture: iphoneos-arm64
