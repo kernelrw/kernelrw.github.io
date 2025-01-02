@@ -1685,6 +1685,23 @@ Author: julioverne, Sharat M R
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.screendump13
 Icon: file:///var/jb/Library/PreferenceLoader/Preferences/screendump/ScreenDump@2x.png
 
+Package: com.kasper.mita
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Artem Kasper
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.kasper.mita_1.0_iphoneos-arm.deb
+Size: 20152
+MD5sum: 93540a3376b7d897930412d17b048d93
+SHA1: a369d4fc3b1570c62d299c5b662472205f740d5b
+SHA256: c2318fd62b7bfcdf58229e7f263aadcf0356e367eb1d9776a280b754ead1f8a0
+SHA512: 00cdf2d96e147b8de65573b69de13592200c640ba51d99b85f030e9c6414ca3d80a2480eccb7a0e5a0c8c3f95ecc32345c8a4b99d2cccadb5f7f197cb0b5878d
+Description: Save your lockscreen wallpaper simply like never before
+Name: Mita
+Author: Artem Kasper
+
 Package: com.kernelrw.120Hz
 Architecture: iphoneos-arm
 Version: 1.0
@@ -10366,6 +10383,23 @@ Name: screendump (iOS 13+)
 Author: julioverne, Sharat M R
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.screendump13
 Icon: file:///var/jb/Library/PreferenceLoader/Preferences/screendump/ScreenDump@2x.png
+
+Package: com.kasper.mita
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Artem Kasper
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.kasper.mita_1.0_iphoneos-arm64.deb
+Size: 20186
+MD5sum: 81584090f580a92de71eadf20df9e83d
+SHA1: 4e597c8f21d0272d2bd20d8e4df853432fac8910
+SHA256: ce6da84d5d25afcbff2baa7d5c4261b0b83bd3d0958eaa7e9d7afd917dffd0f7
+SHA512: f953babaa24b7612f6a5b173860038b2d4ee87c55076c1cd67c5aef05f866ad495e21981ee4eb4b2e0e2273a019bcab47676252ab4c2a0304035babcea38ed05
+Description: Save your lockscreen wallpaper simply like never before
+Name: Mita
+Author: Artem Kasper
 
 Package: com.kernelrw.120Hz
 Architecture: iphoneos-arm64
