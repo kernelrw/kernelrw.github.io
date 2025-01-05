@@ -1331,6 +1331,24 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm
+Version: 2.4.49
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
+Filename: ./debians/Rootful/com.f0u4d.watusitools_2.4.49_iphoneos-arm.deb
+Size: 4867604
+MD5sum: ea9296925028a7cca4e2d515b149d3a4
+SHA1: 1f5c154c2fa3cfe17dd5f80baf4170a150bdc1d1
+SHA256: 58f8ccff480abd116ef18ec7d8ca336575aa941283c77e7b84a16bc1cfb74a57
+SHA512: a0f2e03b93f6e305722b6a0faaeb14c4c4188230104d52b188ed2dd875b98f42954bd7e0b2f1ceae58652885a8aaba59dd993679598fce426a136daa265eeb3d
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -9899,6 +9917,24 @@ MD5sum: 1f5e985f11c3bfb7e8e02d85056722b8
 SHA1: 9688dba7c89caf93752aab0103e11f950bfe6cba
 SHA256: 2401fd0e3b160d9e03877071f3d0ea12e635ab10038bedb584537280103d9181
 SHA512: 674db6412cb9eb83935d9fb41913841b94422c9cf2e7c3fa7dfeab862137db66b64a3c048d3c81ad9f8a2cc2a81b8a5dc7e977f52d74f60cac8e1e6823f57015
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.4.49
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
+Filename: ./debians/Rootless/com.f0u4d.watusitools_2.4.49_iphoneos-arm64.deb
+Size: 4895628
+MD5sum: fee41577b405607ec472e8757830fc2c
+SHA1: 845db06efb0e4cdc14c883ca6fae613c4f8ba63b
+SHA256: 6a506db3c4b85a7ef9a8d125321d4ba7b3cabd653a0979bbba4f1e6188540a4e
+SHA512: 2554a7c4a7662e7abe47f512174c96cd0229a3cc6ab49c360997508801d9e949fdc71e0ac86089880e062f1dae180793d6d3aa5417f595ae807a1ee821b61564
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
