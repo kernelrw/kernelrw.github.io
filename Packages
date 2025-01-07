@@ -4380,6 +4380,25 @@ Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
 
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16344
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.ytlite_5.1_iphoneos-arm64e.deb
+Size: 6178448
+MD5sum: 5f09b35c1ab333e25bb414cbbbe870fa
+SHA1: ad5f5e2831a6b8f42803797eb88c56fbb7400f5b
+SHA256: b7ad93232ca9d9788aa2897da26ddd2315e474caecc04ea2e0aea9f8f0ce1fa1
+SHA512: c38ac04c04a0a23feb8e8210779e184fc8c105f46ddec81153065f054d36af862268b73f125df1272b671aeb80ffb03b0df0a4e5b06a6c7f7b656fc62f252861
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
 Version: 7.10.0
@@ -4401,6 +4420,24 @@ Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Themes
+Maintainer: Fadh1l
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Roothide/com.fadh1l.uiswitches_1.1_iphoneos-arm64e.deb
+Size: 4537996
+MD5sum: 90f5ddaaa2a9ff155de33a7cf65b9f5f
+SHA1: f1d846a35cae249df7c36005c366346aaaeffee9
+SHA256: 1f806425adaedce909efa3f1592477f569862ce78d9a80be07e9abbb0d000d4d
+SHA512: 28b56cfdf35ca99140253b8bcf996423e17c3d6637ba504287196fda4cec8227593b12fbe16dd7cecb3e09545833a8543fbb14c455d82029fa101eaef590005b
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/Cachexiaa/Cachexiaa.github.io/blob/main/depictions/web/com.cachexiaa.sample/screenshots/UISwitches.png?raw=true
 
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64e
@@ -5149,6 +5186,69 @@ SHA512: 57653cc9980976675787cac594450ebf10f4f0b2f854949f34d0c289ce5784867181ed76
 Description: enable screen recorder always work even on lock screen
 Name: RecordAnywhere
 Author: Muirey03 & lclrc
+
+Package: com.lclrc.squidgesture
+Architecture: iphoneos-arm64e
+Version: 2.1.6
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 7044
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
+Filename: ./debians/Roothide/com.lclrc.squidgesture_2.1.6_iphoneos-arm64e.deb
+Size: 2010740
+MD5sum: 9d295f283f13a78ea076e6bc2c31dd6a
+SHA1: 0fbd3ed42b53c687c3c5d71d7da628761ab80243
+SHA256: 237d4419cf7623660368c607f6d6f2623761498f3914b11d81b1f65ca616ecb4
+SHA512: 34ff1cba31713c573190e4dac33b683b3f6fb42d55f41ace358925581321c999e0707de7972594a8c2dab907cb3aacd76dd2d740e2f6369b19e3c44aa339366e
+Description: Gestures
+Name: SquidGesture
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
+
+Package: com.lecard.wuyu
+Architecture: iphoneos-arm64e
+Version: 1.1.7
+Section: Tweaks
+Maintainer: Crassna
+Installed-Size: 5168
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debians/Roothide/com.lecard.wuyu_1.1.7_iphoneos-arm64e.deb
+Size: 1054340
+MD5sum: 16c9939c88bce54d6cbd0880791a83ac
+SHA1: 87c0e35d076e481a282bb8875a9859344fe8f5d3
+SHA256: 6b2e924b5c97bfb1fb6f931f254aac81fc9bacf1b381cfefbd40dd8649e6322e
+SHA512: 7d9b3166eef987fd1f720b8854767277d4753605d77bd1293b6bf84d4b368a81d9c3b1932dcaaabfbb5c8050413c8e3304389d39e3579c1ab381efeb877d8f34
+Description: 不要看版本号变成了1.1.7，实际上是在3.1.0之后，重新编译的版本。所以比3.1.0版本更新。
+Name: App Lecard
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
+
+Package: com.lema.wolf
+Architecture: iphoneos-arm64e
+Version: 2.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12212
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debians/Roothide/com.lema.wolf_2.1_iphoneos-arm64e.deb
+Size: 2789220
+MD5sum: 43122e62440b4eedf3d780b03d461fe4
+SHA1: e2dab38f5f995263ab3d78db82910e0fbb4b72c1
+SHA256: 3e1802ca4c51d0415bb96e86f067b39545c665e4bb1dfa6d2ae67267cdf4797a
+SHA512: 90c9871b6a3b769d4e4e85835e84765449dd7f9f244768c647effd453329988035a70b1b8eb584f700a2a5bb70e65233c36979656e868662a593b58b738cd183
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Description: The all-in-one tweak for Facebook
+Tag: purpose::extension
+Name: Wolf
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Michael Lema <samewhitetee@gmail.com>
+dev: lema
+Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
 
 Package: com.level3tjg.betterccbrightness
 Architecture: iphoneos-arm64e
@@ -7298,6 +7398,42 @@ Name: Haptic16
 Author: Brandon Plank
 Icon: file:///var/jb/Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
 
+Package: org.coolstar.classicfolders3
+Architecture: iphoneos-arm64e
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/org.coolstar.classicfolders3_3.0.6_iphoneos-arm64e.deb
+Size: 3299640
+MD5sum: 7a4f0a32da24aa8dc857093ee30cb905
+SHA1: 88ab201a218e92e01b2da1f888ccb8ff251a949b
+SHA256: 551528c177e2d128b8566285c72b8c67d60db8f745312227939c17ec66527218
+SHA512: 84ba3ff47a0cc3173c24b2b5fc7e7ceb110c303da9d22b91249eea1303549853bb35154afabea581f76cde47e26fc1c65d516f8415e6ffaeddb49f3875b65421
+Description: iOS 6 folders with a modern twist for rootless jailbreaks
+Icon: file:///var/jb/Library/PreferenceBundles/ClassicFoldersSettings.bundle/icon-29@3x.png
+Name: ClassicFolders 3
+Author: CoolStar
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5.1-6
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/Roothide/org.coolstar.sileo_2.5.1-6_iphoneos-arm64e.deb
+Size: 3934232
+MD5sum: 383c59f5836ec73c8133bcd2eb915442
+SHA1: 62a5ec93598cf15eaa475ac07480f9d5e31bf6fd
+SHA256: 09e9c8e8698ab6170fe2abdf3385e3ac7725b7343602823ba1ec2559d0f48c67
+SHA512: 648e4ff676bd1bb16f224c63cc2d4c6f80b2d1960b69cdd1b8bc4795718794065fd3a57804b5750ffa52a0275bdd60fe0d347f503c9b574b126b861dc379a1d3
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64e
 Version: 1.6.9.1
@@ -7462,24 +7598,48 @@ dev: hbang
 
 Package: ws.hbang.common
 Architecture: iphoneos-arm64e
-Version: 2.0
+Version: 2.0-14+debug
 Section: Development
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 3132
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 15.0)
-Filename: ./debians/Roothide/ws.hbang.common_2.0_iphoneos-arm64e.deb
-Size: 205192
-MD5sum: 747a48fc96b56ee015ff0a9746df4365
-SHA1: f3046a4446e170dbb8b30f6b26f0966323b73e4c
-SHA256: 2b2e24c6bd406f525c863eb71b2c17e8e0cfb760f8a0ae6df04fd4a6b1610c71
-SHA512: f5aa8665be9782fb516f6985910f39f03007f0fa61baedfe77ec616c7d2d2a2914d871e8df93e584f88a32024836cb9ad2fa0d2dc3fe7b44db09361a17c89d03
+Filename: ./debians/Roothide/ws.hbang.common_2.0-14+debug_iphoneos-arm64e.deb
+Size: 205252
+MD5sum: 74f88e4d80ba4208352cfc6080685c17
+SHA1: 220ea0287fa9c8cfe797e768b94aa17478022f3f
+SHA256: d81135fd22494165bc9c6bf6e93970ab5fea793f2e5c2ce57d2e6cbd98f549c5
+SHA512: a8f35b7d0eac6b0566c7d3c1d2ca6ccfd790e498e1d84ef85ff9606589c59778ff8a6cc99110a2a2449892e4c52c6cda6507a15712228aae8950247cacd6fc36
 Description: Support library for tweaks
 Tag: role::developer, compatible_min::ios15.0
 Name: Cephei Tweak Support
 Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.newterm3
+Architecture: iphoneos-arm64e
+Version: 3.0~beta1-18+debug
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24280
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debians/Roothide/ws.hbang.newterm3_3.0~beta1-18+debug_iphoneos-arm64e.deb
+Size: 3947140
+MD5sum: 63795d927ecd9d281d9039bd003fc441
+SHA1: a2a1c422792d9dd5268b5e451bba6575ee6ff268
+SHA256: b1023f907f2fa29a31b450574ad41c7fdf2880a021fcdce8d71c103760d11593
+SHA512: 9682a9a362fd55ad15fb5484e63ae3fb472693fa1072b8de0a68dfd98773c127d98e73ffdf4104791209abd787c537de46aee6192d691248e84295061827bed7
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Name: NewTerm 3 Beta
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Depiction: https://chariz.com/get/newterm-beta
 Support: https://hashbang.productions/support/
 
 Package: xyz.cypwn.speedtestvpn
