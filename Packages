@@ -475,24 +475,6 @@ Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
-Package: com.crassna.appcardlite
-Architecture: iphoneos-arm
-Version: 3.1.0
-Section: Tweaks
-Maintainer: Crassna
-Installed-Size: 1076
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/Rootful/com.crassna.appcardlite_3.1.0_iphoneos-arm.deb
-Size: 226324
-MD5sum: 439f7ef4573e701078b2b657212d425b
-SHA1: a54de2cf23af15545556f2cda98f315dad0b868b
-SHA256: 52a95b3e28a578a19d081f367e28afee83c072fa35e09c104956464e9164af93
-SHA512: 57236a4488b880d54cc3a30ca83a19bc4f0af971d3b04ae288c1fd2b3a7367aedd4b34b58daae53a79025f87806ac597379205665f576736313a4bec49bb0708
-Description: Cool AppSwitcher
-Name: App Lecard
-Author: Crassna
-Icon: https://axs66.github.io/repo/icon/applecard.png
-
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -2587,6 +2569,23 @@ Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+
+Package: com.rullinoiz.ipa2deb
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Development
+Maintainer: rullinoiz
+Depends: dpkg
+Filename: ./debians/Rootful/com.rullinoiz.ipa2deb_1.0.4_iphoneos-arm.deb
+Size: 3376
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+SHA512: a0af0ed4723a1a3da0c54606342551dbc0cf4860130dd702a7e40ba81a7bb885d01215cc16c931d8d0bcafbce9c512c3347ddac0d2306d6e56ca8ae851a9a1b0
+Description: Convert IPA to DEB
+Name: ipa2deb
+Author: rullinoiz
+Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
 
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm
@@ -6244,6 +6243,23 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.rullinoiz.ipa2deb
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Development
+Maintainer: rullinoiz
+Depends: dpkg
+Filename: ./debians/Roothide/com.rullinoiz.ipa2deb_1.0.4_iphoneos-arm64e.deb
+Size: 1756
+MD5sum: c6d7eb39f10cf1e6b37f4f5f6dc7cb0c
+SHA1: a5fe77c37f523fe18efd65ed27ede8423b942666
+SHA256: ca306a2f1e618157796b5ab05da4851d157ffaf8bae70d63ca3893d87e27b25e
+SHA512: f6424d483e310ba9cb2edf256dd6193e7f1502556bb0242693ae4b7fb5713363707519dd1af169fa1e1b8809bffc00488abf6a5a84e57e832966cbd5b4a8c42b
+Description: Convert IPA to DEB
+Name: ipa2deb
+Author: rullinoiz
+Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
+
 Package: com.ryannair05.cask3
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -8382,24 +8398,6 @@ SHA512: a4f417660a65aaa71e1a2002a14ea97e78f883255388fd8018b5cff2a851ce0c02276939
 Description: Double tap to flip camera
 Name: TapTapFlip
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-
-Package: com.crassna.appcardlite
-Architecture: iphoneos-arm64
-Version: 3.1.0
-Section: Tweaks
-Maintainer: Crassna
-Installed-Size: 1076
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/Rootless/com.crassna.appcardlite_3.1.0_iphoneos-arm64.deb
-Size: 231308
-MD5sum: 9777eca3b865d70a2f66d6e7dd120385
-SHA1: 2bd24aedce1ef0003357174f6c8cc2194cfbea30
-SHA256: 46201d99848869ff060edc8454f2107cd82394395a10f89cd7b5a84bde35544b
-SHA512: dcf9e0a92d6caf1f8cc57ebed21e8c0d59a77ec099e9594a1ed9ceb0314b937ff264600fd9096191a461d9411824854fa945533e4c0052223316bdac4136256a
-Description: Cool AppSwitcher
-Name: App Lecard
-Author: Crassna
-Icon: https://axs66.github.io/repo/icon/applecard.png
 
 Package: com.creatix.sugarcane
 Architecture: iphoneos-arm64
@@ -11073,6 +11071,23 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.rullinoiz.ipa2deb
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Development
+Maintainer: rullinoiz
+Depends: dpkg, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/com.rullinoiz.ipa2deb_1.0.4_iphoneos-arm64.deb
+Size: 3452
+MD5sum: 8f2e94c154ff8fe95cce683f88eca097
+SHA1: 1e76c33cf28ee77569a559a881b28e505eade548
+SHA256: 4d728563ca924d7af52e9760c6f9a93e64cb3cb7e6d79c1f1ffe290d121caea8
+SHA512: a89c861e52d99b7e16322544485b76a40c0b07dad4ddb6b9acb035896e609e19877581084cd1daf8d3101cfb425148b48b899e757ff6918f49462cc79f6803c9
+Description: Convert IPA to DEB
+Name: ipa2deb
+Author: rullinoiz
+Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
+
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -12270,21 +12285,6 @@ Description: Click to wake up and double-click to wake up .
 Author: Netskao <netskao@gmail.com>
 Name: DoubleClickWake-rootless
 dev: netskao
-
-Package: oldabi
-Architecture: iphoneos-arm64
-Version: 1.1.0
-Maintainer: Xina520
-Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
-Filename: ./debians/Rootless/oldabi_1.1.0_iphoneos-arm64.deb
-Size: 6852
-MD5sum: 548c3aa8332a7a281bf9d988ae95bc84
-SHA1: 6a6603a5f430771e62556295f74df1e63d32b2fe
-SHA256: 249c98809c2251eb13ad2a7aceba11391f72aa118006530c6e1ed2ed000b5f38
-SHA512: 68ceeacc44cf69de5dd910c20d53c77ff19a83a41dea56182f466e0c68afcec6c4ec8c3fa5e19400fd068dfa9d2b31e167c255194fb285bef8e021fc4a1387fa
-Description: Support for legacy arm64e ABI in iOS 15.0+
-Author: Xina520
-Name: Old ABI for Dopamine
 
 Package: org.brandonplank.haptic16
 Architecture: iphoneos-arm64
