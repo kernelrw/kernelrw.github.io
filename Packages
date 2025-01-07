@@ -7941,39 +7941,21 @@ Description: Replace the snoozing title for your alarms with your actual alarm l
 Name: SnoozeLabels
 Author: 0xkuj
 
-Package: com.34306.messedd
-Architecture: iphoneos-arm64
-Version: 3.1
-Maintainer: Little 34306
-Installed-Size: 2440
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.34306.messedd_3.1_iphoneos-arm64.deb
-Size: 305952
-MD5sum: c2b978abd959dc191f1ba1ad2d318c54
-SHA1: 8ad103b49e254da6286da4cc0b8babe87753ca59
-SHA256: 1df624dfb2220d1e2928f91a029b4ea0bad32007f2bd2c7a65bbdd8f9461b6a4
-SHA512: d4969dc2141df62c804ea8d67d875cb3f4a02533f857cbf5cc1bd32350a0e64d399fe18d52674aa288fb9db80fd1191939f24753fe4ca396ba0606f6dd5b33e5
-Description: Messed, Messenger with No Ads and No seen.
-Name: Messed
-Author: 34306
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
-
-Package: com.34306.messedd
+Package: com.34306.messed
 Architecture: iphoneos-arm64
 Version: 3.2
 Maintainer: Little 34306
-Installed-Size: 2440
+Installed-Size: 2488
 Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.34306.messedd_3.2_iphoneos-arm64.deb
-Size: 308552
-MD5sum: 457ffbc0b79500017b8403c2787ff25e
-SHA1: c40da29759da6706e402e5fca7e12fb69cb2f5e3
-SHA256: b15414403cf8a42dca4467b7b292e25144c0d449bab94b96ba588e758f354dc3
-SHA512: 2a8b2f4edf0a3093db2b13865d312556390541e1d14ea731afc28c296bdc9b62f5eec61ac27ae8c730ac51e986f67018428debe3b1f9d910f17dee54e8d96600
+Filename: ./debians/Rootless/com.34306.messed_3.2_iphoneos-arm64.deb
+Size: 308140
+MD5sum: b0ad3c912f79badc944d60d88e5f8b6d
+SHA1: 6f84b14ceefac17ebe80103572fe26d89c60d287
+SHA256: 9867c721c8d9320f3674aaf2b3dff476ef98acd5a9a2afe633beb7cce9665b44
+SHA512: 089cd80139d7f745aa9da15ba0ccfb3e8c306070b190d584b4d9bd711e5ba3749ca7ca904a5776689e4062d62cc4bcd7d3f117c0fd74b8f2144e90c0431b90d6
 Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
 
 Package: com.34306.mineland
 Architecture: iphoneos-arm64
