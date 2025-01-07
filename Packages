@@ -422,6 +422,23 @@ Name: Omakase
 Author: Skitty & b4db1r3
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.b4db1r3r3p0.omakase.png&s=180x180&f=webp
 
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 460
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootful/com.bandarhl.bhinsta_1.0_iphoneos-arm.deb
+Size: 68956
+MD5sum: b6da57d5ef17f8fcc9b3f4bb978f5e4f
+SHA1: 899750fbe9e4bef950c7c63532f2a5fd7b07efcd
+SHA256: 3aeac4444b12255096a9c5b8c22ae0f8a2986530627dab1e5c44af01b530c66a
+SHA512: 82b55deb630b0d1337ce93da323400188c21c0fd86ab43753caa1c3ec7f38119c9f65ea5b0cc30a815aeb87cca54c8d62f599eb639ae27445b27cf18feea16ce
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm
 Version: 4.3-4+debug
@@ -3648,6 +3665,24 @@ Description: Troll your speed, but jailbroken.
 Name: TrollSpeed JB
 Author: Lessica <82flex@gmail.com>
 
+Package: chaoge.ChargeLimiter
+Architecture: iphoneos-arm64e
+Version: 1.7
+Priority: optional
+Section: Applications
+Maintainer: chaoge
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debians/Roothide/chaoge.ChargeLimiter_1.7_iphoneos-arm64e.deb
+Size: 4626984
+MD5sum: f08e0791a5779e5e52c99e9a96f43bc3
+SHA1: 6f58d9e63ef8c140bff69e4d125b9309e936956e
+SHA256: c3cbd46ff7227bbdf26665003056bd58e6d1aaa34aaed1f1dcd2f58875d4dc09
+SHA512: cdb7c2621d1e142595dd19fa05b1094ff1ea47e5bcb7b9f6864855b1858b1e23e7a8d8c7c5e84080abd52aea1f47a5fb4a22285f6e3b236313897c18368a3a8f
+Description: ChargeLimiter
+Name: ChargeLimiter
+Author: chaoge
+
 Package: cn.bswbw.fixsets
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -4001,6 +4036,24 @@ SHA512: 516814257c11fadcca72ed72d120ea3fd0626c2416039b69f3d8caadbbbcb421eacdebc5
 Description: Enhance your control center on iOS 11 and iOS 12
 Name: BetterCCXI
 Author: ATWiiks
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 460
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Roothide/com.bandarhl.bhinsta_1.0_iphoneos-arm64e.deb
+Size: 94712
+MD5sum: c7aaa0cd199753c08828067899b0b1ec
+SHA1: 74cdd867d129566239ff51d5b66dec16dc1e485e
+SHA256: 3200371ee0d94243da7012347d402376115ccbc4eba17113ff7dcca1df7696d2
+SHA512: 593e0c4f8643496798a03faa749af6ad9e5f826bf95f809d19f7b013abd3797b2a75c9f6970b1182880ec0f41811bc8349ca20ea3659faaaaad733976ecb19eb
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64e
@@ -8203,6 +8256,23 @@ Description: Now playing card, with expandable when clicked!
 Name: Omakase
 Author: Skitty & b4db1r3
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.b4db1r3r3p0.omakase.png&s=180x180&f=webp
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 460
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootless/com.bandarhl.bhinsta_1.0_iphoneos-arm64.deb
+Size: 68864
+MD5sum: 5303d88c64bc29ccaed5ec3305088ab7
+SHA1: e4c86f87c5c7afbfaf412d15cceb7f68cb378c86
+SHA256: 734fb973d0b042d1fa8cb82a75b75c932e464a60c3588d00c0e5376728f5612d
+SHA512: 621d01c0c0ed8f121621007635d1aec86569d596fb6f485a1ce01586f95d04c571c8f39007cf0ad003159ed95601946855bbc0e5f8a7bbc2dbb3bdc5851f356c
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
