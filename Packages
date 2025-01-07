@@ -4002,6 +4002,25 @@ Description: Enhance your control center on iOS 11 and iOS 12
 Name: BetterCCXI
 Author: ATWiiks
 
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.4-1
+Priority: optional
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 19120
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Roothide/com.bandarhl.bhtwitter_4.4-1_iphoneos-arm64e.deb
+Size: 13977784
+MD5sum: f66d5a5672700d99feb9c6422a33db77
+SHA1: 62cf9988723992567090a873f1818c338270372c
+SHA256: 71c52a523efa3cc076e010acf0d0d3ca0fb98f843ac4a20bba3f999266cb6162
+SHA512: 277854710038f1e189ddd8eb8ee87120f6b9b2a7c5dcccb674d80ed7bdbf4fbe4ff4100c8c818ab8b511863f1897d1588e782b891b9a9cead7ccbbfb922ddd77
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
 Package: com.brend0n.nopastedfrom
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -5513,6 +5532,25 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: zqbb <w2599z@gmail.com>
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
+
+Package: com.netskao.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.4
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 13548
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.netskao.appdata_1.4.4_iphoneos-arm64e.deb
+Size: 10002388
+MD5sum: b4c1577f57ab4d912bea0fc2b54e34e0
+SHA1: 5077a0e0642458ac06f725a63dea565b263ea652
+SHA256: b4a20ea550a199102b99f3d9449667adcff345d352305c4a60be07834d827e4d
+SHA512: afb3c14a2894043ef70d76d900c5c3dcdab38e61f094de184ed3a9b80a83b7f89eef4f1d98fab53d1ff25d09b79efeb05bc81c78a86c7c57063d5685f4bf7401
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 
 Package: com.netskao.cclifttowake
 Architecture: iphoneos-arm64e
