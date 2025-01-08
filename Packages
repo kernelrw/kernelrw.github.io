@@ -6377,6 +6377,25 @@ Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
 
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Roothide/com.shiftcmdk.autoalerts_1.0.5_iphoneos-arm64e.deb
+Size: 49144
+MD5sum: 33ec96ff02e80e27841755fd10d60113
+SHA1: 9cdc1f4c9bfb9fa069f5683e28b3763e5173add3
+SHA256: 55a15853d23f43fa35b588d867896f304d942f17bf84fbc89fdc096d0d18f4f1
+SHA512: a2fe840331c87e32919dcda98cfa59476d7e0ae1260552b32b96f10a7b4799ab326eb7426d0f2b62e3bb27b36f7466ca59a2d7874b0686540ebdf2de08029c83
+Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
+Name: AutoAlerts
+Author: shiftcmdk & Fadh1l
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
 Package: com.skypain.cclocation
 Architecture: iphoneos-arm64e
 Version: 1.1.0-1
