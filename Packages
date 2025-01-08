@@ -4144,6 +4144,26 @@ Description: Prevent apps from changing volume/brightness
 Name: NoSlideToChangeVolumeAndBrightness
 Author: Brend0n <brendonjkding@126.com>
 
+Package: com.brend0n.notransitcardversionlimit
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.brend0n.notransitcardversionlimit_0.0.2_iphoneos-arm64e.deb
+Size: 10470
+MD5sum: 9ca510909a5e997ef3d65538e21e19d7
+SHA1: d7e21fb18881745281e65248c77b709f1a3f1a0c
+SHA256: 98bef8b536147b534cf9714dd79c60d3dfc79ab5ff0539b8676ff09d80eef6ab
+SHA512: c6372229c510a511494024e68099bde77cb3cfa357789e07c6a5495d0f4585f99be125ae5c7a847485f78a81e5a04f080ab7ae5ef8c6740a115a3e722862db72
+Description: Spoof OS version in Wallet App!
+Name: NoTransitCardVersionLimit
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.notransitcardversionlimit
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.notransitcardversionlimit/depiction.json
+
 Package: com.brend0n.redditnoad
 Architecture: iphoneos-arm64e
 Version: 0.0.5
@@ -6041,6 +6061,27 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.switchconfirm/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.switchconfirm.json
 
+Package: com.p2kdev.twitternoads
+Architecture: iphoneos-arm64e
+Version: 1.2.4
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.p2kdev.twitternoads_1.2.4_iphoneos-arm64e.deb
+Size: 9830
+MD5sum: 64dbc319bca3c3acd151463e0f74c5c0
+SHA1: 0e5d49f6c3ca014f875216ad3261d6847b89aa73
+SHA256: 607fc408730bcb2e2f3fe11d4e855bf52a9ea6ae94961d431e12a6d69cb620ce
+SHA512: ea083715a46b3fdc5cfe9be1d5fb77f8129ff5937c66f829afbb56ef9f8a4f2abb18faf100d5c69684e958cc8937f1b3ed96e8ba262236f423c8887fe2e4d4cf
+Description: No Ads in the Twitter App!
+Name: TwitterNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
 Package: com.p2kdev.videosunmute
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -6180,6 +6221,26 @@ Name: SmoothKB
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/smoothkb.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/smoothkb.json
+
+Package: com.ps.ytuhd
+Architecture: iphoneos-arm64e
+Version: 1.5.7
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 160
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/Roothide/com.ps.ytuhd_1.5.7_iphoneos-arm64e.deb
+Size: 19184
+MD5sum: 16ed84e88b16f8aeaf6309e4176bb727
+SHA1: 7e3e0392f229acdb9530d7407a00ccac3ee39fb3
+SHA256: 57d85a4ce026dfb2662f77335ad8f4edc08a1fd8ce6b239bb3d042bca275119d
+SHA512: 700babd866315276965bca9864bb23db4f6ba13475ccc7a81b9da5f628b97e4d2a1fe7c4aa3fe2b3dfd88c60f6d2b6604ee74c9962a4d6709f6db9fb875ca5dd
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Name: YTUHD
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
 
 Package: com.pwnd2e.filzascriptdev
 Architecture: iphoneos-arm64e
