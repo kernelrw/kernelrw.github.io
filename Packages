@@ -5412,6 +5412,24 @@ Description: Shows where you touch the screen
 Name: ShowTouch
 Author: LonestarX
 
+Package: com.megadev.sentinel
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: MegaDev
+Installed-Size: 752
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.opa334.ccsupport
+Filename: ./debians/Roothide/com.megadev.sentinel_1.3.1_iphoneos-arm64e.deb
+Size: 89198
+MD5sum: 31733637ed68d173a836fac705d2ae35
+SHA1: 50ef5f28739c17bed5021d2f106c86194dc187b2
+SHA256: ef1421e42a886df290b4e2c3ef92443fb3d3f0dc7658f75eab0e9e11188b8ab2
+SHA512: 35d8ae4128d3cdd51a15d17fed75deca686e5cb8282a7b68ca9a5d7c352e0233f338c530b1429cdb6fdbb90bf5f544957995af58443eeac9dfebb3e3d0de3c8e
+Description: Stop losing your jailbreak when your battery dies!
+Name: Sentinel
+Author: MegaDev
+
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64e
 Version: 1.0.2
@@ -5560,6 +5578,23 @@ SHA256: dc816072f918782688603b6a02c997f1d2b0d0419ba28aed0251596f9b533dc0
 SHA512: e450725a959972e0ae971fafebe07b85581a0999f74cdea0cef2cfe1e78e67e4003a764d38aa97ec74cab0e1bed59dd65d91ae08317a1f42916d29225553e7cc
 Description: Change your now playing app icon to the album artwork of currently playing music!
 Name: NowPlayingIconXVI
+Author: Ethan Whited
+
+Package: com.nahtedetihw.volvibes
+Architecture: iphoneos-arm64e
+Version: 3.2
+Section: Tweaks
+Maintainer: Ethan Whited
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
+Filename: ./debians/Roothide/com.nahtedetihw.volvibes_3.2_iphoneos-arm64e.deb
+Size: 594608
+MD5sum: c92c0eda7c241e4be56e2eb704815c13
+SHA1: 7c938e0f13b47dbfa833750947a204470bf0a393
+SHA256: 1e13601f1f9f5ea75c8c244a22bc3c594f2ec23d6428f3364d3733067cd3d00d
+SHA512: 81b24531861a09be1175e75daca786967384d994b6b1430e66ddf1ad0a209eea68e2f8f2f8d68eac4e76c0315303f3006e1d7d103efd91dc52bcd21707f4ede7
+Description: Change the Volume Button vibrations, color the Volume HUD, and add volume percent!
+Name: VolVibes
 Author: Ethan Whited
 
 Package: com.nan.allemand
@@ -6834,6 +6869,30 @@ Author: tesla_man <computerman939+POBsupport@gmail.com>
 Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
+
+Package: com.tomaszpoliszuk.applibrarydisabler
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | firmware (>= 15.0)
+Conflicts: com.tomaszpoliszuk.applibraryenabler
+Filename: ./debians/Roothide/com.tomaszpoliszuk.applibrarydisabler_1.1.1_iphoneos-arm64e.deb
+Size: 4718
+MD5sum: 2c87f39e5c2c882d1273d751e269d2ec
+SHA1: 4219c55f9ee7f5709fc8fe73d0e432614883a349
+SHA256: c6ad4f1d29bafd88f5b5e64b87ea357446dcf677a92aea3ea6b7e225b57a885a
+SHA512: 7d1a4e9975a103a4d75482e6f75a19e1cbab5f41a614e1e0816f3c539204c6ff77ef7ae968c7f1aafb474638e608e7d497d1246ab4cfe4e41cf2032ec45ef49e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Description: Turn off App Library
+Tag: purpose::extension
+Name: App Library Disabler
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
 
 Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
 Architecture: iphoneos-arm64e
