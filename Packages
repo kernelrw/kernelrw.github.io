@@ -2047,6 +2047,23 @@ Tags: compatible_min::ios14.0, compatible_max::ios16.7.1
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.nahtedetihw.volvibes
+Architecture: iphoneos-arm
+Version: 3.2
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 1092
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
+Filename: ./debians/Rootful/com.nahtedetihw.volvibes_3.2_iphoneos-arm.deb
+Size: 590824
+MD5sum: b0a2396a2136b4d13630bbb2aa1991e7
+SHA1: 53e59a243aa016bf4b9ddf1b94d33e3df5e42f1d
+SHA256: ee458f54d0c7f596a0d6d2ea80ae46b6f0bd358c38fe1b5cc4362b2ae051701a
+SHA512: ed228cfa401503de21ceb991385d0297717978bbcff98e391dd49dd54e9c65d312d581f33799abafb312b974058d93324acc62da5358989c4e31915b607dcb42
+Description: Change the Volume Button vibrations, color the Volume HUD, and add volume percent!
+Name: VolVibes
+Author: Ethan Whited
+
 Package: com.netskao.batterypercentx
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -2565,6 +2582,23 @@ Name: BHTikTok++
 Author: raul saeed
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
 
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1124
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.raulsaeed.bhtiktok++_1.9.3_iphoneos-arm.deb
+Size: 198240
+MD5sum: 2c9abca4ebe6cf5162f027b76050503f
+SHA1: 30982f50d159cd734a4b24076e9d5d27e82eaa40
+SHA256: 317eeb4ba6618a7aa088ff8a9634a5981b8a49db101f7132269bf5a11a24a20d
+SHA512: bdde5daf693aadd74974ce6df103e6b1266570b131723836f2a3a9f0f68eaed60a43a8209d568be86fd9f24ab31018509fa7bd0768404c2614655601b7372c2b
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Version: 1.0.10~beta4
@@ -2949,6 +2983,21 @@ SHA512: 6280d737d13e8ba3f4c7c3784a40f4d84ba7c7f3826f4d21da5894327b92dd95d864c8cf
 Description: Workaround for Preferences crashing when opening Comet Preferencebundles on iOS 16+
 Name: CometCrashFix
 Author: Uckermark
+
+Package: com.yourepo.peterpan.checkm8respringanimation
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootful/com.yourepo.peterpan.checkm8respringanimation_0.0.1_iphoneos-arm.deb
+Size: 2172524
+MD5sum: e41cd433b1a0584b464fbfc8a5332927
+SHA1: 7c625f9e47625bab58ca7396cdab3b38434a7f8e
+SHA256: 381b479a61094c53eb2fd1bded9b19ff31c38fe54bf0de50b53d256c129d8c7e
+SHA512: 0a8d0bf09211d670b69a26a53590f2a5d452130d379b17f16195f6ecb8a81b90851509235183745b594766d5b241dfc886f896a0fc88ee0d8a20cd1e5f1b41a6
+Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkm8 Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
 
 Package: com.zqbb.limitchargingg
 Architecture: iphoneos-arm
@@ -6293,6 +6342,24 @@ SHA512: 76a9f3b8403eb6b01b75bdc66b03159ff558b9a315084cf3932d40d904709e4776432bd8
 Description: Scripts to build rootful & rootless with Filza. Plus other handy Filza scripts. *Use regular Filza, NOT trollstore Filza*
 Name: Filza Scripts
 Author: pwnd2e & Sudo
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64e
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1124
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.raulsaeed.bhtiktok++_1.9.3_iphoneos-arm64e.deb
+Size: 280390
+MD5sum: 7e0faf792024db020d8866e1e9246423
+SHA1: 9c69d9c8515752c1423bcbedd160bbe0232ec480
+SHA256: b3ddb4a49cef033ac220ece5ae17679149080f88340a931d20badb8ff9a59bff
+SHA512: 2df6099bad6304f1fcb9f7cc4764d4afddafa21c891c0fdb78b919353c161ba9125cf3327cf745113189dd0db9a0b753295662068e9133bfcc9495a45fa18819
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
 
 Package: com.roothide.manager
 Architecture: iphoneos-arm64e
@@ -10450,6 +10517,23 @@ Tags: compatible_min::ios14.0, compatible_max::ios16.7.1
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.nahtedetihw.volvibes
+Architecture: iphoneos-arm64
+Version: 3.2
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 1092
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
+Filename: ./debians/Rootless/com.nahtedetihw.volvibes_3.2_iphoneos-arm64.deb
+Size: 590866
+MD5sum: b4535698c5ca4499bb6389e2cdb3c6fb
+SHA1: 8650af514fd9c1a3549c75e0611e369c2bb8f0e3
+SHA256: a8d25de8c0eb200ebf79353e9267ab3c38a89cad1b073fd46c81bc9032847322
+SHA512: 7ad5783a088ba84de31654ead867d59396ce618efadf3056bee4bd2566074559a9e03adad4b04eda402be879a3da44d63c8d14f691868a1223340a5074bfe91b
+Description: Change the Volume Button vibrations, color the Volume HUD, and add volume percent!
+Name: VolVibes
+Author: Ethan Whited
+
 Package: com.nan.allemand-filza-script
 Architecture: iphoneos-arm64
 Version: 0.1.0
@@ -11172,6 +11256,23 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1124
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.raulsaeed.bhtiktok++_1.9.3_iphoneos-arm64.deb
+Size: 197884
+MD5sum: 87f958ff68b5f3b1da5bca7eb80b9c0c
+SHA1: f2da759285dba4890d642303e6a125fbb1462b6a
+SHA256: 6bd11e1d6b4e753a99913e3f806f2519f3c192e8c35134e3fef2a40f7af537f9
+SHA512: d76382adb939200f9ba3957072e97e26bf60c1e3238a9e95dba41c42e6793a81677823d1a3a87edea27fa26a16bf1299876e6993cc2fb6eb835e7c615653ef64
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
@@ -11905,6 +12006,21 @@ Description: Customize Switch Colors System-wide
 Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
 Icon: file:///var/jb/Library/PreferenceBundles/SwitchColor.bundle/iBreak@2x.png
+
+Package: com.yourepo.peterpan.checkm8respringanimation
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootless/com.yourepo.peterpan.checkm8respringanimation_0.0.1_iphoneos-arm64.deb
+Size: 2172704
+MD5sum: dfc91c534a4f3c1d1518d6bf5139506a
+SHA1: e54bfed3444f25fff7b88cab6a879cafb93a6d28
+SHA256: af84db36cb752010c03b62800384c1dc4d6d869158658e72063b095b0fce4ef4
+SHA512: a92a1c2ac6abebafccf5a8322a98a18dfbcfa758b407c87284af3b6c609cdc988060643cede75bcdca9848c660d56f69ebd07ad4f89a13d13cedc7b5dc148e6d
+Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkm8 Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
 
 Package: com.zqbb.limitchargingg
 Architecture: iphoneos-arm64
