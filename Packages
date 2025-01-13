@@ -1003,42 +1003,6 @@ Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
-Package: com.dvntm.cmm
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.dvntm.cmm_1.0.1_iphoneos-arm.deb
-Size: 43780
-MD5sum: 2f458a65dfcbb6126f77597fc2e49b83
-SHA1: 58f263a233f9ec54da6b3254b50235e0a430990f
-SHA256: f3420c8f44084337b9cdfb61b1e660a61580058fd3fd0fecec90deae5d8706c7
-SHA512: 55d0e26f819a43b93fc83fb91ccb4b553753f3a4ae4529cfbd3d03c156f05f8c6a2e271b6a8391323d26b044f3377575d2b2c5b30c152d1462546ea41954d0b1
-Description: Enhancer for the system Phone app
-Name: CallMeMaybe
-Author: dvntm
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F67255cdaa80bcf5e2e3b13fc&s=180x180&f=webp
-
-Package: com.dvntm.cmm
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.dvntm.cmm_1.0_iphoneos-arm.deb
-Size: 34412
-MD5sum: a8104fc35f479ff4e15b3519632a8b2d
-SHA1: 4218a26829627889304e7ba80db85e65b9ceac0a
-SHA256: b3884462319634ed5e713d9f18ee202d4c623112244c121e0558e064a0a7ee2b
-SHA512: 97f2d33dabae851e3eeb01d616a6142e53df0b5dbc06b7f6458878974056ee6f60040a5b3e92eae6adbb133d370bc829cfb9ac5228e8c9c148337fd8981ebabf
-Description: Enhancer for the system Phone app
-Name: CallMeMaybe
-Author: dvntm
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F67255cdaa80bcf5e2e3b13fc&s=180x180&f=webp
-
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm
 Version: 1.3.0
@@ -4499,26 +4463,6 @@ Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
 
-Package: com.dvntm.cmm
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 264
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Roothide/com.dvntm.cmm_1.0.1_iphoneos-arm64e.deb
-Size: 45676
-MD5sum: b2b0e595bfaf904f2ce2873de81f11c8
-SHA1: 3deab34710ffc9c20b39baeb004760a11c51ee5c
-SHA256: 3e10ca2cfe0c9f57f106dc066405343d66892a34e906577f916ee85b0ad09327
-SHA512: 5cfd8629b44f78d8ebfd668c84df297f0defddf8c644b5e9deb96414e25f4825a3664d0266f44d92b7694f2d1a9ab7d84999c51d560661b97d261cb53c21213f
-Description: Enhancer for the system Phone app
-Name: CallMeMaybe
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
-
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -5248,22 +5192,6 @@ Description: A beautiful Dark mode theme for Laetus .
 Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
-
-Package: com.kernelrw.xsvpncrack
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Tweaks
-Maintainer: Kernelrw
-Pre-Depends: rootless-compat (>= 0.9)
-Filename: ./debians/Roothide/com.kernelrw.xsvpncrack_1.0_iphoneos-arm64e.deb
-Size: 21676
-MD5sum: 6231eea9d22402bdef7924893dd60d34
-SHA1: fcc8a055a1edca542e908ca0929047d7e0bb6c14
-SHA256: 22745a0d1239e9f487e9599837188a1074eac68dc94d5bafd0105cae426faee0
-SHA512: 94a0acb113f688baf1af646a0b5adc3aa6fb5d3a4ab2dcc28aed47afaa7110940e01c13b4604101185db8fac6acede7becbb099f89b1b825861755646e8ed0cc
-Description: XS VPN VIP
-Author: Kernelrw
-Name: XSVPN Premium
 
 Package: com.kernelrw.youtopia
 Architecture: iphoneos-arm64e
@@ -7518,28 +7446,6 @@ SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
 
-Package: net.kernelrw.audiorecorderxs-rootless
-Architecture: iphoneos-arm64e
-Version: 5.0-37
-Section: Tweaks
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, preferenceloader, net.kernelrw.simpleactivationactions-rootless, firmware (>= 12.0)
-Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx
-Filename: ./debians/Roothide/net.kernelrw.audiorecorderxs-rootless_5.0-37_iphoneos-arm64e.deb
-Size: 1153016
-MD5sum: f2520b9e63baf8556fcad95424124594
-SHA1: e14bb481eecda1eaaa561100c16491a9f5a3461c
-SHA256: 41b9a7b3f101d052bfe0263ee1ec766024b447023c8f007c35184c2b2ee32e08
-SHA512: 3d1478cb31bb9694dc94e11049cdd8c2683760fea4687296037a98ce736e4aa5323b250f2c99ee35159aef97cd46990e0702ff79bcf862f6ef95a3b8373184c9
-Description: Most Advanced iOS Call Recorder Ever!
-Name: AudioRecorder XS (rootless) (iOS 12 to 17)
-Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
-SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.audiorecorderxs
-Author: Elias Limneos <limneoselias@gmail.com>
-MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
-
 Package: net.kernelrw.simpleactivationactions-rootless
 Architecture: iphoneos-arm64e
 Version: 0.1-3
@@ -7558,26 +7464,6 @@ Description: Simple Activation Actions
 Name: SimpleActivationActions (rootless)
 Author: Elias Limneos <limneoselias@gmail.com>
 
-Package: net.limneos.glow-roothide
-Architecture: iphoneos-arm64e
-Version: 0.6-6
-Section: Tweaks
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Installed-Size: 1008
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
-Filename: ./debians/Roothide/net.limneos.glow-roothide_0.6-6_iphoneos-arm64e.deb
-Size: 219640
-MD5sum: 3ba25ca2fe6c7f7eba887f683aa25a0b
-SHA1: f0f3c2692fc4da121f5263e5c4837d650e9daa20
-SHA256: ff7d82b986196b945ce19ede5aa8ff01fc81db80dc7988059f583f4a3f91be63
-SHA512: 96f77702833b9b32743d73828781518a29a7a995445a226ee8872dc501e5a832c00538e2bd768cd45ee83e1583ca063a9f6785513995bc0af1fe698b512a8a4b
-Description: Let your lockscreen glow!
-Name: Glow
-Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/glow/
-Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
-MainLibMD5: 6917b0465197e155f5385405b1258fef
-
 Package: net.limneos.libbulletin
 Architecture: iphoneos-arm64e
 Version: 0.1-178
@@ -7595,48 +7481,6 @@ SHA512: ea749e4660e4974d6ccb302896fc5c4bb5bd6115b54d73e7312d5109802182a3e8f8f910
 Description: Simple library that displays bulletins
 Name: libbulletin
 Author: Elias Limneos
-
-Package: net.limneos.nfcwriterx-rootless
-Architecture: iphoneos-arm64e
-Version: 4.0-4+debug
-Section: Utilities
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, net.limneos.libbulletin
-Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, me.kanam.nfcwriterquickaction
-Filename: ./debians/Roothide/net.limneos.nfcwriterx-rootless_4.0-4+debug_iphoneos-arm64e.deb
-Size: 712288
-MD5sum: 4cb651617e298bb502af191b7ca4cace
-SHA1: c6a26a158f3580b1e06345c9d021d85d0eea584b
-SHA256: 5949f0921d0bb460f6b6193f76bcb58b276c55e3260c22145996f98db2e89fe8
-SHA512: ccf2720c9a0c0cc484122dfbb948093042a4e969b804258342d405eec2f9f37088d67bd94c9daa14acd88c228f02b3824fb5b7a39372284d7afebf1a3ad4e230
-Description: NFCWriter XS for iOS 11/12/13
-Name: NFCWriter XS (rootless)
-Icon: file:///Applcations/NFCWriter.app/icon@2x.png
-Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
-Author: Elias Limneos <limneoselias@gmail.com>
-MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
-
-Package: net.limneos.voicechangerx-rootless
-Architecture: iphoneos-arm64e
-Version: 2.4-3
-Section: Tweaks
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debians/Roothide/net.limneos.voicechangerx-rootless_2.4-3_iphoneos-arm64e.deb
-Size: 237260
-MD5sum: 245acf44ea10df71d78389a7fa34f865
-SHA1: 7f9fe54b0172233da5a0bacabd3da0878affe431
-SHA256: fce203a9f3f5a9fb434f20b4744447c21a76d6a7a58a3d496f87756d6fe97fe2
-SHA512: 00109e8e9e8a9e157408b0778146f54266d2741c89f40c5fb9ac4b7868744845b138771cb898fbf6cfe95fe5046287348dedb4ca59c2106b87bb69b4af92f010
-Description: Change your voice during a call!
-Name: VoiceChanger XS (rootless) (iOS 11 to 16)
-Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
-Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
-Author: Elias Limneos <limneoselias@gmail.com>
-MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
 Package: net.p0358.allemande
 Architecture: iphoneos-arm64e
@@ -9225,42 +9069,6 @@ Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
-Package: com.dvntm.cmm
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootless/com.dvntm.cmm_1.0.1_iphoneos-arm64.deb
-Size: 44392
-MD5sum: cd8b76fc2309cb78cfb7613eb3c6a841
-SHA1: a73f47c19b31efeac62211dfe73129d44072db14
-SHA256: cdae09a516fb1b476154160739b0858499e1455c83fafad243a32188fbf37036
-SHA512: 9473fd9693d5eb3aa0554b89f8091d6dee5c883be46c075b9a93e042cf4cf475716888ec5ea1fa490fb643a03a98bf9d79ced2b9352d8536b4e493791519e3cb
-Description: Enhancer for the system Phone app
-Name: CallMeMaybe
-Author: dvntm
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F67255cdaa80bcf5e2e3b13fc&s=180x180&f=webp
-
-Package: com.dvntm.cmm
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootless/com.dvntm.cmm_1.0_iphoneos-arm64.deb
-Size: 34948
-MD5sum: 15540a6b6d780728c763f3e15c9361a0
-SHA1: daa761b2aad5844c75da1f1a90e570acf70dccc6
-SHA256: c836ac2bc46f3186bf3ef555d9557163e54a59d79c30ca36585ef4f589cf3e9c
-SHA512: ab2fd8297326e39b86056902f9b73c2dceeb678022bfacf57e1bb65448fca7033963f06fea7b74dc691022aae00e826a4ca6af9fde77de4c5ad817aec2aaae23
-Description: Enhancer for the system Phone app
-Name: CallMeMaybe
-Author: dvntm
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F67255cdaa80bcf5e2e3b13fc&s=180x180&f=webp
-
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm64
 Version: 1.3.0
@@ -10072,23 +9880,6 @@ Author: Hitori <mikasa-san@outlook.jp>
 Name: PassText
 Icon: file:///var/jb/Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
 
-Package: com.hw.ostrichvpn
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Tweaks
-Maintainer: HW
-Installed-Size: 564
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.hw.ostrichvpn_0.0.1_iphoneos-arm64.deb
-Size: 98980
-MD5sum: 3f63bc6f17ea02a6b08cd55e5f3e1126
-SHA1: 7fe5d726bead4c9601a9681b46cb9815c1729372
-SHA256: 625774b2dd5c8cefca5ca6b9f433572c2613baafb8c62e1cde631b05bdac00bb
-SHA512: 3dd844062b3f98d1952c0c70b70b0b512832c580024be9c705b4e4647bb1819445db70fb966e21d883e402e0898a35bd1baa40beee83f543ba54a4ba3ed2d092
-Description: Ostrich VPN Premium For Free .
-Name: Ostrich VPN Premium
-Author: HW
-
 Package: com.ichitaso.youtubepatcher
 Architecture: iphoneos-arm64
 Version: 0.5
@@ -10230,21 +10021,6 @@ SHA512: 951a880bd2c15c070032e8a47498ed21f0db9dbd6f6072e4994bd482ae204f7965c0be32
 Description: Break 80Hz to full 120Hz
 Author: Kernelrw
 Name: 120Hz
-
-Package: com.kernelrw.xsvpncrack
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: Kernelrw
-Filename: ./debians/Rootless/com.kernelrw.xsvpncrack_1.0_iphoneos-arm64.deb
-Size: 21160
-MD5sum: b73863fb1faed72dbe45fab430175ec5
-SHA1: 202d1880b1ba7519198e9706b66ebd1a9d12ead9
-SHA256: 14b4e29eba799bba37f0b75ed0499b7f9bf540159f35c93817a7f37eb7a7a64f
-SHA512: 998bd3ec72752159f238d16ce8fe951a812414b11535584f9d279575978f2d7ef41de8c910900575e41111e64e4759f65a076600ef17397f51379e2641db1d58
-Description: XS VPN VIP
-Author: Kernelrw
-Name: XSVPN Premium
 
 Package: com.ketty.tweaktool
 Architecture: iphoneos-arm64
