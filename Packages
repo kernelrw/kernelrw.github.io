@@ -8406,6 +8406,23 @@ Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///var/jb/Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
+Package: com.brandonplank.haptic17
+Architecture: iphoneos-arm64
+Version: 0.8
+Section: Tweaks
+Maintainer: Brandon Plank
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/com.brandonplank.haptic17_0.8_iphoneos-arm64.deb
+Size: 13140
+MD5sum: fe66eae7fa5ed65380879060ad4beb70
+SHA1: 9e59f70a260c87c56992495725c269161e52abec
+SHA256: 121f78c9e2553d41eea42a87e9e3a65082c32a7b5df030fbde49477799d79f4e
+SHA512: 8bbcdae519c063e059ba4dfd451cdda50ed99974cd9028eb6e9e79339d7c653f3b7f08bcbfc66461ed35b1400bfc5ed27b5481413179bf59715ffe300bdff622
+Description: Puts haptics in places apple should have!
+Name: Haptic17
+Author: Brandon Plank
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
+
 Package: com.c1d3r.pulloverpro
 Architecture: iphoneos-arm64
 Version: 2.1.5-3
