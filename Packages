@@ -6733,6 +6733,23 @@ Author: Spark
 
 Package: com.spark.snowboard.statusbar
 Architecture: iphoneos-arm64e
+Version: 1.0.12-Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debians/Roothide/com.spark.snowboard.statusbar_1.0.12-Beta4_iphoneos-arm64e.deb
+Size: 48952
+MD5sum: 2eafd53bccbcdfbdd22b5c07ef2c1b98
+SHA1: 0c6290ceeea5e30c87db92b374d32bd6e85d061a
+SHA256: 924e5865249427751cba7d3a86e85215d2bb8122c112bf63861b27c7b4fbe009
+SHA512: dc7e4f992c0593e9a9cd9ef1825460631500e3daabc6a9465f270b3c6ea24ead560d492348ac743451a59e3c677e3ee458352e83064dbfd5ed960ae8210b731c
+Description: StatusBar for SnowBoard
+Name: SnowBoard StatusBar Extension
+Author: Spark
+
+Package: com.spark.snowboard.statusbar
+Architecture: iphoneos-arm64e
 Version: 1.1.0-Beta4-rootless
 Section: SnowBoard Extensions
 Maintainer: Spark
@@ -6764,6 +6781,26 @@ SHA512: 96d4c9d7d2f0df354b289e4cf0f901cf7026460a3873a79d0b435402a773f44cba0cfa2a
 Description: UI Extension for SnowBoard
 Name: SnowBoard UI Extension
 Author: Spark
+
+Package: com.spark.snowboard
+Architecture: iphoneos-arm64e
+Version: 1.5.11-Beta3
+Section: Tweaks
+Maintainer: Spark
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debians/Roothide/com.spark.snowboard_1.5.11-Beta3_iphoneos-arm64e.deb
+Size: 1422064
+MD5sum: cb24b7ef02ace729b2ea208cb252d048
+SHA1: 3b007fb35b24ce3f8693849a1c483a720e464476
+SHA256: fccccb574baa89790a330cdb869e804a84b5cedc2530299517b930234ef89512
+SHA512: ec4ce4ed1d09628dfe1c4941070c15c0b560e55fe77793dc66849a80a18686c58c78109f37f21398a60078f2d187707f01d05ef4be77a9d4c7f64811dc084bbc
+Description: Snowboard theming engine
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
 
 Package: com.spark.snowboard
 Architecture: iphoneos-arm64e
