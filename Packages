@@ -2252,6 +2252,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
 
+Package: com.objc-msgsend.theta
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Objc_MsgSend
+Installed-Size: 2576
+Filename: ./debians/Rootful/com.objc-msgsend.theta_1.1_iphoneos-arm.deb
+Size: 663116
+MD5sum: fb919f36c7b549df56dac67f1ffb06f1
+SHA1: 4a9a37cf3edfe551ffd214bc38340d35c30e2a81
+SHA256: 49030a100cb5be6ea37a7372109fae3e2314e5dc1a6fcf15c3d355e0d3e53e4b
+SHA512: 34e1ec9652bcd8b0cbce19f5eebe8abc58b2b4e9ef9c0035b8859ae8dd86d0d81091795c7675388d0cb9339440379015bca9f0ebba6f3d7f9c3bb43adab5fe70
+Description: An awesome tweak for Instagram!
+Icon: https://repo.cypwn.xyz/packages/Theta-Rootless/icon.png
+Name: Theta
+Author: objc_msgSend
+
 Package: com.opa334.choicy
 Architecture: iphoneos-arm
 Version: 1.4.10-3
@@ -10713,6 +10730,23 @@ SHA512: 94c8c169a8b9d9a1babb7e1b1417a0311897c4b314909f9c87316f6793804295fe91fb2b
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
+
+Package: com.objc-msgsend.theta
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Objc_MsgSend
+Installed-Size: 2576
+Filename: ./debians/Rootless/com.objc-msgsend.theta_1.1_iphoneos-arm64.deb
+Size: 675672
+MD5sum: ed372c0fb34394e48e484ded5b99ca02
+SHA1: d23ab28df07d3b2178f33b3f9d203e208117e48c
+SHA256: b14df77bde3c152c9562493f3264f00053f825d0bd671f92c17578d2bf923e7b
+SHA512: 74286d00a436905df444d24bbbc7472cd1b321c95410133dab32deaf42b8029e37c7901b7f31a0195a0f3941d96f5591d24ca6deb1c2401d3f351abc047d1ebd
+Description: An awesome tweak for Instagram!
+Icon: https://repo.cypwn.xyz/packages/Theta-Rootless/icon.png
+Name: Theta
+Author: objc_msgSend
 
 Package: com.opa334.choicy
 Architecture: iphoneos-arm64
