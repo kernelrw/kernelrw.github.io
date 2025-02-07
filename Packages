@@ -11717,6 +11717,24 @@ Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64
+Version: 4.0.1-4
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debians/Rootless/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
+Size: 6973628
+MD5sum: 90f0f22c56aa8e2e8bd01e1f796d187a
+SHA1: 12b1053eb70e496615f12fe9839bcb663d25c3e4
+SHA256: 74cba2360f13be67b5b9bcceaec597e640eb0fe6766f26043d7abd4c896989e9
+SHA512: c8e45cd46632795e2c3c4d7c5fbdeadfb7406ad73b1cad4830969857c1536f1574ed5ee2685f813dedeaca92a1d95220a0a6a33fdc7d205020230220d4ff26ec
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
 Package: com.tonykraft.inosleep
 Architecture: iphoneos-arm64
 Version: 1.2.4
@@ -12476,11 +12494,11 @@ Section: Packaging
 Maintainer: Amy While <me@anamy.gay>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: ./debians/Rootless/org.coolstar.sileo_2.5.1_iphoneos-arm64.deb
-Size: 2909972
-MD5sum: 1a63e7c8df30e616f11977a1fcb13797
-SHA1: c2ea7d3cd4f11a9a0f74c115d19df07c3e62f13f
-SHA256: 8e3c90e5a7d32f4ca207a0ac30d3cfa8a13dca86a2b4e11cb3f9e5c68d7bc97a
-SHA512: f59e34d85addcdf208f6f737bc3700fb36d9ae4a020fd132aa1a53d08ae347b8d8001b53d4f97104a1edad707d21324b693142cae41d7a1dcc9539a7b0709be6
+Size: 2910032
+MD5sum: ec2c4efbec901fd72b5813f5507f2b6d
+SHA1: 274ebfdfae671a8402d6311ae35fd8112e1a5a58
+SHA256: 5761ed660f0214012c63b693ba45b4d5d95d4edbe00e1a2913eb3cb932ccf971
+SHA512: 8ebad9dc23d72e2d7fce909351cbc7e9d1ae396a8860dda3e338c25873d132ef5d02aff234a8e705c5d2347170697d31b002eb3f1c58c6363beaedcab0f57510
 Description: A modern APT package manager frontend
 Name: Sileo
 Author: Amy While <me@anamy.gay>
@@ -12699,6 +12717,27 @@ Author: Skitty
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.sushi.png
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/sileo.json
+
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm64
+Version: 1.1.36
+Section: Packaging
+Maintainer: Zebra Team <team@getzbra.com>
+Installed-Size: 6992
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debians/Rootless/xyz.willy.zebra_1.1.36_iphoneos-arm64.deb
+Size: 3616708
+MD5sum: 33a8010a8be7b51c436647a2a583973c
+SHA1: 3381f05e6a94ae64648d6ee1ae91cb139db67266
+SHA256: fa186ff4e85145e304b0922eead1e4ac0ea0e232a9fa58fdb6449ee4e9555716
+SHA512: 04a6149ca7681cd807070239570a5d25b0a46efaeeb2ad0ade67b3cc63abd2c3c12cb078165ae3c58dd3dbd81882edd3f0470b73f08e1ffc8120a8e7f639bb6f
+Description: A Useful Package Manager
+Tag: compatible::9.0-16.6
+Name: Zebra
+Author: Zebra Team <team@getzbra.com>
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64
