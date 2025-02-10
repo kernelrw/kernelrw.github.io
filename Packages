@@ -1664,6 +1664,40 @@ Description: Ostrich VPN Premium For Free .
 Name: Ostrich VPN Premium
 Author: HW
 
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 112
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.ifilipis.fckzck_1.0-1+debug_iphoneos-arm.deb
+Size: 11000
+MD5sum: 3e8b72a625e35117aca1fd26cccc21f7
+SHA1: 8b81427d4192d9e53ef17cb4e098174fb83e38aa
+SHA256: 5fe9303d81b5a707d922845bffaa6a892fa44e73b45039b29ff482b6af4f3ed8
+SHA512: c80e060a03083a7cad718bcaf9ce15a35c88f020edcc23ec9c7c8f98eed54454e9ced9900d5ae7ee7159c900326efc14f3cecb78028fc756bf0e8676f8ae92eb
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
+
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.ifilipis.fckzck_1.0-2+debug_iphoneos-arm.deb
+Size: 7822
+MD5sum: a1de5c7f30a06dd029a663171e4c1a5d
+SHA1: 27aa5ae4dd529e5ee53f5e4426c5f35136e1ddc1
+SHA256: c13e207d1de2b74a6258401abcd63afc63f1681d2925fc67abf07cd3db41bcf6
+SHA512: c3de4855da072003f1f4f2d637ad1bf03b008a6be22f16b402349ce9340d917310b9220f97d6d8aae53cbffeb329984d55f9ce31ded1d07a9af7316f1300e339
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
+
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
@@ -9988,6 +10022,23 @@ Description: iPhone X gestures and iPad status bar for all devices
 Name: Gestures15
 Author: iCraze
 
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm64
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 108
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/com.ifilipis.fckzck_1.0-2+debug_iphoneos-arm64.deb
+Size: 8252
+MD5sum: 386ae8f636d85e1e1a1028bfbf2d4369
+SHA1: 6c3def597d11735426a3e10071d6bd5d4d1efc55
+SHA256: 622510420da7dad630fea71dcc669262bf43c3ffbb33959edefeede6d50dcc05
+SHA512: 04aad954ff8213ff87239020713b02f27672303ea1af4b4bfbad270e7590cb972ed791ea4cc353f88fe1d028cfac56ac2e0d27be528916e77b8226983a176866
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
+
 Package: com.imkpatil.spotcc
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -11137,6 +11188,28 @@ SHA512: d76382adb939200f9ba3957072e97e26bf60c1e3238a9e95dba41c42e6793a81677823d1
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootless/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
+Size: 14032
+MD5sum: 1c9683a472e1d5370ee3e8544b6fb696
+SHA1: db9ca587c16e1b420f83fd52dd0d44bf1170f349
+SHA256: a8f89348b7dd10bdcbb10a5b56f679e74be54d7304e4b7d481764f3863dcb888
+SHA512: b5bcd4c386736dc06d82cbe7d6fb768f0dfacfb3bb87736fc9871ccf22f50fc2a78bfb30e98504e49827b57799575e75f5d985c15d6975e20d52a576a50ed777
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
