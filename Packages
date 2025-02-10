@@ -3532,6 +3532,23 @@ Name: Haptic16
 Author: Brandon Plank
 Icon: file:///Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
 
+Package: org.coolstar.classicfolders2
+Architecture: iphoneos-arm
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Installed-Size: 4468
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debians/Rootful/org.coolstar.classicfolders2_3.0.6_iphoneos-arm.deb
+Size: 3309482
+MD5sum: ee2bfa205e5e28fb46520fdf173415dc
+SHA1: 0dd50613baedc8c2f582f229b79adabd43beb5b5
+SHA256: d48180222d4c59c42baa48e27698b6f0fb971086cc80c1f12dbf56bfbcb75d55
+SHA512: ee1a969d5a513373c4b043fda25fb1f2bd94300409a11eefce004bf90abbcc9291129ad099951525e0840b38e706069045e77e81f5221f1a42329fc4da47bb30
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 2
+Author: CoolStar
+
 Package: sh.litten.rose
 Architecture: iphoneos-arm
 Version: 7.7.2
@@ -7677,6 +7694,23 @@ Description: Puts haptics in places apple should have!
 Name: Haptic16
 Author: Brandon Plank
 Icon: file:///var/jb/Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
+
+Package: org.coolstar.classicfolders2
+Architecture: iphoneos-arm64e
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Installed-Size: 4464
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debians/Roothide/org.coolstar.classicfolders2_3.0.6_iphoneos-arm64e.deb
+Size: 3306566
+MD5sum: 9489dd6975888227c2d8245a02eacb03
+SHA1: bbd193ea652cda8de93adf8908bdd6c7ca86dc84
+SHA256: f58c45f6af8ae310500373869c4d768ee46c9242991ba5755789b1fa821e19ff
+SHA512: 3d610741316cb759de90baacb76592c99a878386042cf8be69a6c95ae6953afda3c6a4b5cdd8217c6945a69f41ee4f496fea28eea61123694ec314cdf4314b53
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 2
+Author: CoolStar
 
 Package: org.coolstar.classicfolders3
 Architecture: iphoneos-arm64e
@@ -12542,6 +12576,23 @@ Description: Puts haptics in places apple should have!
 Name: Haptic16
 Author: Brandon Plank
 Icon: file:///var/jb/Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
+
+Package: org.coolstar.classicfolders2
+Architecture: iphoneos-arm64
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Installed-Size: 4468
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debians/Rootless/org.coolstar.classicfolders2_3.0.6_iphoneos-arm64.deb
+Size: 3309382
+MD5sum: f5055f0aa94f13a3030a88ac489222f8
+SHA1: f67fe3599cb9b0d04411178de49b9ee03d90873d
+SHA256: a6714051df95706c81be9b4c0c0635e5a0a9f9adceca95132678bd98ed8250ff
+SHA512: 31318a0c12b890c5cec73677652982e74b4924b2b36fc682f6d463bb4b65ae94e5b4f30c81e8c2b099e0727ee183fe2de4d03ea1d2737a1059d57072a586c59f
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 2
+Author: CoolStar
 
 Package: org.coolstar.classicfolders3
 Architecture: iphoneos-arm64
