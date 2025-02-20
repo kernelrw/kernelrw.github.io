@@ -1787,6 +1787,21 @@ Name: Cartoon Color
 Author: Kernelrw
 Icon: file:///var/jb/Library/Themes/Cartoon Color.theme/Bundles/com.apple.TelephonyUI/11@3x.png
 
+Package: com.kernelrw.hapticwake
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: iDebCreator
+Filename: ./debians/Rootful/com.kernelrw.hapticwake_1.1_iphoneos-arm.deb
+Size: 4656
+MD5sum: 065d928df4e537c8de8b87d02963953f
+SHA1: df3bf58b9a06774c97d53f8e37d81a146226f3c8
+SHA256: 69ac1c4fbc356de5f83680c1cee7fa7b3bba831361bcdaba62fbcc0334bf55b0
+SHA512: 07ca9f8d44f96d39f14ed568665eb7ef651956c417d0ea9dbddd652e19727c0375360810bb06d35429c5e49a83d7f4ab6ff9fcf89b27db0102e124f21a947c04
+Description: Play Haptic On Device Wake . Supports iOS11 - 16.7.10 , Rootless support too .
+Name: Haptic Wake
+Author: iDebCreator
+
 Package: com.kernelrw.rosemary
 Architecture: iphoneos-arm
 Version: 1.0
@@ -10177,6 +10192,21 @@ SHA512: 951a880bd2c15c070032e8a47498ed21f0db9dbd6f6072e4994bd482ae204f7965c0be32
 Description: Break 80Hz to full 120Hz
 Author: Kernelrw
 Name: 120Hz
+
+Package: com.kernelrw.hapticwake
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: iDebCreator
+Filename: ./debians/Rootless/com.kernelrw.hapticwake_1.1_iphoneos-arm64.deb
+Size: 4696
+MD5sum: 67fd2b32d8a6e71aeb0001e20c51e185
+SHA1: 8d79a3c807dc790855da5ce017f2526c104d42e9
+SHA256: 2ed13ba43730e4ec386d1c392f922ac97dc880b4abab910b2d7e01495edbd64d
+SHA512: dbd8e448fb56e309ae3302bc834e796705e643ca2c3e63efdcc8a3a42de5cf7bcf601060b18e57bd628f81336449eb81292dfa6ba038da44b3d034304ef14a4c
+Description: Play Haptic On Device Wake . Supports iOS11 - 16.7.10 , Rootless support too .
+Name: Haptic Wake
+Author: iDebCreator
 
 Package: com.ketty.tweaktool
 Architecture: iphoneos-arm64
