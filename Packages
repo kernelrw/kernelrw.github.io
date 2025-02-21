@@ -1787,6 +1787,22 @@ Name: Cartoon Color
 Author: Kernelrw
 Icon: file:///var/jb/Library/Themes/Cartoon Color.theme/Bundles/com.apple.TelephonyUI/11@3x.png
 
+Package: com.kernelrw.deepclear
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.kernelrw.deepclear_1.0.1_iphoneos-arm.deb
+Size: 4456
+MD5sum: 802624a145aa8ff74b7c98a7e0cc6c69
+SHA1: c8745e5172b67ce339c75c5e00efe59efe874bf1
+SHA256: c145b91f0ad0dfe4101782bff0b170dbf7630426a467f622a89c0b76dc9e9ee6
+SHA512: 6922496c7d72a795f98b467122f57afbc29107240e1a8f80f6880b8a450ad552e2f76196c3ebafc8b3c8c59fdff416a81559478e135d85b7086c0d739f49305e
+Description: Test Package , Do Not Install .
+Name: Deep Clear
+Author: Kernelrw
+
 Package: com.kernelrw.hapticwake
 Architecture: iphoneos-arm
 Version: 1.1
@@ -10192,6 +10208,22 @@ SHA512: 951a880bd2c15c070032e8a47498ed21f0db9dbd6f6072e4994bd482ae204f7965c0be32
 Description: Break 80Hz to full 120Hz
 Author: Kernelrw
 Name: 120Hz
+
+Package: com.kernelrw.deepclear
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.kernelrw.deepclear_1.0.1_iphoneos-arm64.deb
+Size: 4376
+MD5sum: 91f9b8e658936d2a6950992b70d5e5b2
+SHA1: e5f19bc2281b3de0e240c3c5303d6ddef01f58a3
+SHA256: eb2a438315febc376e5115d284514c3d19302cf005ff612b41f86b65b22ec850
+SHA512: 4cddffc60d69213afe07ddd3bae5865e77245f270093c9f258af1b5d656922322c82b37545e14f3c08b90f65256897ac8003681f0c9f97de7302fc5b4f604a05
+Description: Test Package , Do Not Install .
+Name: Deep Clear
+Author: Kernelrw
 
 Package: com.kernelrw.hapticwake
 Architecture: iphoneos-arm64
