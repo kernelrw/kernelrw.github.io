@@ -2469,6 +2469,23 @@ Description: Helper utility to install and manage TrollStore!
 Name: TrollStore Helper
 Author: opa334
 
+Package: com.p2kdev.applock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.p2kdev.applock_1.0_iphoneos-arm.deb
+Size: 8864
+MD5sum: 97b5956d2e9e941827a907672d127863
+SHA1: 8d932fba0d044758c57467a5499f13bbc85e79ca
+SHA256: 2619b4d80bb970915e341d71a5a21bd8f65e85a2aa9e6083ba8b0ff6fe1362c5
+SHA512: d3dc49f1fe2952fbffe4ab0917856a08bdeab8095f6b65a93a6aaff1a0c2bd8e58f3353f1e4c047742e89bddbab5a9d114c19d7a340d1d979b34ef3d9e7361a5
+Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.10 ;  Rootful , Rootless & Roothide .
+Name: AppLock
+Author: P2Kdev
+
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm
 Version: 1.1
@@ -6117,6 +6134,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+
+Package: com.p2kdev.applock
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.p2kdev.applock_1.0_iphoneos-arm64e.deb
+Size: 8860
+MD5sum: cf243f7f0d2bb65e5026b4de5bbe3607
+SHA1: 74681ee7b3064a2456bc017f34f2cf9ecdd90773
+SHA256: 0b93c7b2d435798489bf3fab8a446d27b293e6da1fd33b6474937eac754908ea
+SHA512: 3b67ea2fe9b07ef9ec75466021785501ce7e845eb8bf2cc7631b65cde9c0558df7cc8fc5c7de30b183cbcf62fe8f024b23ee93865908c81ae012393886731b40
+Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.10 ;  Rootful , Rootless & Roothide .
+Name: AppLock
+Author: P2Kdev
 
 Package: com.p2kdev.facebooknoads
 Architecture: iphoneos-arm64e
@@ -11100,6 +11134,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+
+Package: com.p2kdev.applock
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.p2kdev.applock_1.0_iphoneos-arm64.deb
+Size: 8932
+MD5sum: 7573ccfb56f58a4248263b03fcaf2873
+SHA1: ac549cba1ac4bf55454c64542dbdc07c92eff663
+SHA256: e8aef8d8ffa6f0aa66f339f9ad63dcc853836dc83a9eb95d18bd46438bb80a69
+SHA512: 9c87f74d0ba137bd229c746d140babb81ab16c89d274de49d042bcb0e5bbed65ff8e7e18e1f713603b1ad6f7ec78e5c483a39500b3a770609851a41ef87454d2
+Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.10 ;  Rootful , Rootless & Roothide .
+Name: AppLock
+Author: P2Kdev
 
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm64
