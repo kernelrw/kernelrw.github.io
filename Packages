@@ -8129,6 +8129,53 @@ Author: zqbb
 Name: StopAutoLaunchApps
 SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
 
+Package: ai.akemi.appinst
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Priority: standard
+Section: Utilities
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 364
+Provides: com.linusyang.appinst
+Pre-Depends: firmware (>= 5.0)
+Depends: ai.akemi.appsyncunified (>= 5.1)
+Conflicts: com.sull.appinstaller
+Replaces: com.linusyang.appinst
+Filename: ./debians/Rootless/ai.akemi.appinst_2.1.1_iphoneos-arm64.deb
+Size: 59538
+MD5sum: e6d2a75aca6914175323aa421dd8ba1a
+SHA1: 1af6238bedc0cb46528c0f1b601229e2314f5eba
+SHA256: 71d53a9d7f7b5c90f2fa43fff30dbce842e48f219011c8febb4439ffc5f461e2
+SHA512: 1902037c53e03036635b3d88e290b09f1bd3ff5327aa884013c0c360675eb4842f8a213486b96b63c952079d18f9776735c2559098e9e4ef41cca62d00f63749
+Homepage: https://github.com/akemin-dayo/AppSync
+Description: A command-line IPA app installer.
+Tag: role::enduser, purpose::console
+Name: appinst (App Installer)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
+
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm64
+Version: 116.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 668
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debians/Rootless/ai.akemi.appsyncunified_116.0_iphoneos-arm64.deb
+Size: 49472
+MD5sum: d6a31911e878b83e47c6525fa29ecef1
+SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
+SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
+SHA512: 92577917216cd67f3ce8f640e72de0b3c39128e4e23dc9b9031d387698fcd204db385337ba02fac6bc712e8a3a9ddec113eddd10b690cdae9921c5065cc7d447
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
 Package: applebetas.ios.tweak.willow
 Architecture: iphoneos-arm64
 Version: 1.2.14
