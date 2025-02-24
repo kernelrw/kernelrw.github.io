@@ -2504,6 +2504,24 @@ Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.1
 Name: AppLock
 Author: P2Kdev
 
+Package: com.p2kdev.applock
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.p2kdev.applock_1.1_iphoneos-arm.deb
+Size: 8940
+MD5sum: b14560205d831d0c951745a49c8ebf7e
+SHA1: 9f3b0ee3610373304e538b516debe379f6699fe9
+SHA256: 57f1936f5a361008cd953d5892dfc755b41aca63665db250664a203c049b7629
+SHA512: 9767c5f1bcac015e0e9b4891bca109ad701bb430f91bf22254dcb0916d0ceee6adb7b74d80f9d747b4243eeec48c824930a236be5625c525f3b440e33e32a906
+Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.10 ;  Rootful , Rootless & Roothide .
+Name: AppLock
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm
 Version: 1.1
@@ -6169,6 +6187,24 @@ SHA512: 3b67ea2fe9b07ef9ec75466021785501ce7e845eb8bf2cc7631b65cde9c0558df7cc8fc5
 Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.10 ;  Rootful , Rootless & Roothide .
 Name: AppLock
 Author: P2Kdev
+
+Package: com.p2kdev.applock
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.p2kdev.applock_1.1_iphoneos-arm64e.deb
+Size: 8956
+MD5sum: db324e724b39efb34f4af0f394e60eb6
+SHA1: 286f43e9cb15ba05a6af30a96a696ba142b03a3c
+SHA256: dee0987b79a69e282d360ee54a84cc7775a5ef201380d253a1cd22a9631dd762
+SHA512: 81669c3df0e86224f2f2ab986d9c5951c9423d3868b2ee5b03f04626e49a4e6842730c1001973385659258d519f74774e10c79784ddf8a61419a4e761d4a01c4
+Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.10 ;  Rootful , Rootless & Roothide .
+Name: AppLock
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
 
 Package: com.p2kdev.facebooknoads
 Architecture: iphoneos-arm64e
@@ -11251,6 +11287,24 @@ SHA512: 9c87f74d0ba137bd229c746d140babb81ab16c89d274de49d042bcb0e5bbed65ff8e7e18
 Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.10 ;  Rootful , Rootless & Roothide .
 Name: AppLock
 Author: P2Kdev
+
+Package: com.p2kdev.applock
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.p2kdev.applock_1.1_iphoneos-arm64.deb
+Size: 9028
+MD5sum: f173e08651496134e0629fa2c3b7d722
+SHA1: 3796c4570ad187b65f4cfe2520ab51cb011ed6fb
+SHA256: 2e25acc0baae4c3f36aee23f98a594dd34432fe4f91e31e5b7c9a7f39a4f3f73
+SHA512: edf6640b21ce49d7eadd18f9150d832a163cc92e660fdc6a4b8490334f7985b13d4731cfb4fc06e20135cd1905b5dc99860365e5cf669fca1ac22d5bc915c8d8
+Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.10 ;  Rootful , Rootless & Roothide .
+Name: AppLock
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
 
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm64
