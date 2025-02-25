@@ -11405,13 +11405,29 @@ Section: Tweaks
 Maintainer: Prophecy Kitten
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debians/Rootless/com.prophecykitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb
-Size: 10516
-MD5sum: cb250ac8dc4cdacb18e0bc81a2b2f751
-SHA1: 87e8278343f219c9acb021fdc4b7ec6e15af9a43
-SHA256: 2fdce859c8b1e57fce678683eadda8e9cef5a4674fe0fab67b9a08d3df86d7ba
-SHA512: 35b95a51b0964970c7bc41513b09f8310b018891e6c5ce75d409000f8af18de936cdb8888ad91b7d1476e7fc0d28c5cc0c94e39a729e8be7010b7e9c28db9224
-Description: A great tweak to make jailbreak backups .
-Name: TweakTool
+Size: 10556
+MD5sum: 94d4ece862533c8e6f31210ee7fd780d
+SHA1: ea2e98003a487fa6216abf22d6ef1a38d81f176c
+SHA256: c4e2293f6dea7e5e1f0a3744d57c767ff5ba83884a5b4b945eaa744e6ba9dbbe
+SHA512: 686f8c2cb6ba589d6078ab98d709c7abf2155395944b0da17b801ba433eea590b635c255ef160aff7e40e3e754d7390b43022567b7bfea79a8d5d17ac417ba4b
+Description: Back up & Restore your tweaks , Supports iOS15-iOS16 . After installing run the included script .sh as a terminal command and follow the options ; backups output directory is var/mobile .
+Name: Tweak Tool
+Author: Prophecy Kitten
+
+Package: com.prophecykitten.tweaktool
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Prophecy Kitten
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debians/Rootless/com.prophecykitten.tweaktool_2.2_iphoneos-arm64.deb
+Size: 10556
+MD5sum: 73f0bd564cf6c51c46c1f18656677ca8
+SHA1: b1647dd5623a3668d17bd0aa8aad91530a706610
+SHA256: 64b398c902e64a5a63c305302eb6a4ca3b397b0dc6b8daf7479b85b99de14bdb
+SHA512: b7484320e92c5645b23f731c72592cef7468fb7de7273a004ba065327a85e8f699406a4ccad960be9baeb170157b1701bd356c0e30053ee24b8a8621f16915ed
+Description: Back up & Restore your tweaks , Supports iOS15-iOS16 . After installing run the included script .sh as a terminal command and follow the options ; backups output directory is var/mobile .
+Name: Tweak Tool
 Author: Prophecy Kitten
 
 Package: com.ps.ytx
