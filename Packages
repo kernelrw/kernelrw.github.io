@@ -3149,6 +3149,26 @@ Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7
 Name: Checkm8 Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
 
+Package: com.zqbb.limitcharging
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: zp.limitcharging.rootless
+Filename: ./debians/Rootful/com.zqbb.limitcharging_1.0.8_iphoneos-arm.deb
+Size: 18148
+MD5sum: 721642104d5766d9f8bf7efcd4531cb7
+SHA1: 0913a138975eded96be9b38a713c714a6c963a70
+SHA256: e425e72f03e3413864d65e7d7f3bd732f1f24c24f0367e2496bd54471f574c61
+SHA512: af12decb81145d215e1c0222689e4e1f4526af6bcb02e99e98a07c96424ef57a404efb82833fa121c8a92b0fa80116425259d0ef5ffece659d43148695b02e59
+Description: Hello Charging (限制充电)
+ - Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
+ - 锁屏不断Wi-Fi(待机多费电5%)
+Name: Hello Charging
+Author: zqbb
+SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
+
 Package: com.zqbb.limitchargingg
 Architecture: iphoneos-arm
 Version: 1.0
@@ -12395,6 +12415,26 @@ SHA512: a92a1c2ac6abebafccf5a8322a98a18dfbcfa758b407c87284af3b6c609cdc988060643c
 Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7.10 .
 Name: Checkm8 Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.zqbb.limitcharging
+Architecture: iphoneos-arm64
+Version: 1.0.8
+Section: Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: zp.limitcharging.rootless
+Filename: ./debians/Rootless/com.zqbb.limitcharging_1.0.8_iphoneos-arm64.deb
+Size: 19236
+MD5sum: 6961a01ae8a1666114368ac981bfa005
+SHA1: 8e98b770261d17b0625d0604376cfeeffcf8cfa5
+SHA256: 7a3f4d3d47f1c0cb989222d59e499b6bcc5dfa19b0f5ae294342fc22ff93b5d1
+SHA512: b32f28d1147675792a90187393e514a0b24c5008a59c92b9668d784040144e99f1fdbbc6188979c3e5744b8344b0ee412b056bb2cd60a2c4526e9be1802923c0
+Description: Hello Charging (限制充电)
+ - Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
+ - 锁屏不断Wi-Fi(待机多费电5%)
+Name: Hello Charging
+Author: zqbb
+SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
 
 Package: com.zqbb.limitchargingg
 Architecture: iphoneos-arm64
