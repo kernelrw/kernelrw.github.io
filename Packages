@@ -2749,6 +2749,28 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
 
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootful/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
+Size: 14044
+MD5sum: 769c2559a33798d15addbf89a2fce8b2
+SHA1: 0701fb21ebefbf77f8750968d205d3b9356d479a
+SHA256: 0f8636cd428a48c6108fa6281dd58d58565246671bb0a2c0c19ca22fc24bfb02
+SHA512: f1671bddd0395a16769f1e2c7dcb7581f6bbc13d6b1f47c42d02bfb53c92bed43521e53e8deb70c7ca5d97fc2eed674a552539b3a412ab15aadbf896ff9eb018
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Version: 1.0.10~beta4
@@ -3449,6 +3471,22 @@ Author: Adrian Castro
 Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
 SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
 
+Package: dev.mineek.muffinstore
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Utilities
+Maintainer: Mineek
+Installed-Size: 96
+Filename: ./debians/Rootful/dev.mineek.muffinstore_0.0.1_iphoneos-arm.deb
+Size: 16760
+MD5sum: 1f348a94b7028f4023c27eb3b192a01e
+SHA1: fa876d5ec2b43b8518e26a5b6cd8ed046517779e
+SHA256: a5b75934991ab40a7b893b927ea36da1f819825d4658dfed814997431cd1ec00
+SHA512: 05189e0a16907d37eb22e88549763c81d5232363d45478869172588d0d330b8adbe8bcce47bdd9310b8567bbc504f3a37a676646176fa15a571698c2ba8f5715
+Description: Downgrade iOS apps easily on-device
+Name: MuffinStore
+Author: Mineek
+
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -3629,6 +3667,22 @@ SHA512: 34fd6099ed78034d5de74bc5bb4dfc66929da63d93b4846816cac4e8fc98bd97658a3d89
 Description: Ensures the Restart SpringBoard button appears in the Sileo package manager when installing tweaks . Supports Dopamine 2
 Name: Sileo Respring
 Author: jjolano
+
+Package: me.krit.lockdown
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Tweaks
+Maintainer: _kritanta <kritantadevelopment@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/me.krit.lockdown_1.0.6_iphoneos-arm.deb
+Size: 10832
+MD5sum: 6d64ef51a0be2e4ea7f8019335f29204
+SHA1: 7b6314475fba54d3c8025a4813776782e8d52893
+SHA256: 923563b82880875b904376159a9317eab28fefd38a012d7170cecd2833628c53
+SHA512: cb0cf0e80416a4c0886c5c2865c45f8e9ac0ee9c291855a48504ae2db510a55fc2098ce9c11f62de43abd8e435ee22a5f639bafd8226c7cb9f715f24475cf877
+Description: Re-enables passcode functionality on iOS 14+ A11 devices.
+Name: lockdown beta
+Author: _kritanta <kritantadevelopment@gmail.com>
 
 Package: net.tateu.strongerfi12
 Architecture: iphoneos-arm
@@ -12767,6 +12821,22 @@ Tag: role::developer
 Name: libdundas
 Author: Ayden Panhuyzen
 
+Package: dev.mineek.muffinstore
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Utilities
+Maintainer: Mineek
+Installed-Size: 96
+Filename: ./debians/Rootless/dev.mineek.muffinstore_0.0.1_iphoneos-arm64.deb
+Size: 15408
+MD5sum: 6c4158a1445f17a6c8cec796472681eb
+SHA1: 916fe2c30d02ef7dc5f2831b0e16f8786f15a0d8
+SHA256: 8f716f334210b0d580475a8def5db44f31ce90a471b2b853ca26fb0ba7d31a12
+SHA512: 893edfcea7f392e8ab8ce5ce5767ffac35a88296a7f417f279eb56e735dd3108a6d4dd28a09fd6cf04fe360c218fe62d246e8def8d99d339b11938a5622a7bde
+Description: Downgrade iOS apps easily on-device
+Name: MuffinStore
+Author: Mineek
+
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -12911,6 +12981,22 @@ Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
 Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+
+Package: me.krit.lockdown
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: _kritanta <kritantadevelopment@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/me.krit.lockdown_1.0.6_iphoneos-arm64.deb
+Size: 12124
+MD5sum: 733115b2ddc4cc087056d098869bc537
+SHA1: 51b9de6abfff34286b36675a3cb6a2b7d8886428
+SHA256: a47fb7b8fab0b3325e47762072a4529d29d41a0076b1eb095bcab034b31dc319
+SHA512: 186f0c723b61f404940880dd5aa96f5c3890bcbfb6b0ad6d15eaa3c30554f5c5627496cdcfe7234f337d2091e0f9f85864ae7559419d8f3b9480578ce92232d6
+Description: Re-enables passcode functionality on iOS 14+ A11 devices.
+Name: lockdown beta
+Author: _kritanta <kritantadevelopment@gmail.com>
 
 Package: me.lightmann.iamlazy-cli
 Architecture: iphoneos-arm64
