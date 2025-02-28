@@ -2328,6 +2328,24 @@ Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
+Package: com.nightwind.powersettings
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/Rootful/com.nightwind.powersettings_0.0.1_iphoneos-arm.deb
+Size: 20628
+MD5sum: 48c792abf48f90b732a5681b42b55e7a
+SHA1: b4ec48bc4ba2e81458c9b64794fa9b24ba5ca467
+SHA256: 0b3729cc00dab7865389e5af5d7d0483ef2b7fe1a6f5a90f383b2bab6ce57de6
+SHA512: 0cdb6f3aa2ecb891f472cd7576d8d61c8530f49339d7c6331d1988871cedaf0aee3e1c3e594d3f04cb222412678dff77c6fa9fffbdc019c71cf93b000ccdfe39
+Description: A simple tweak to add power settings to the Settings app.
+Name: PowerSettings
+Author: Nightwind
+Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+
 Package: com.noisyflake.betteralarm
 Architecture: iphoneos-arm
 Version: 1.4.1
@@ -11142,6 +11160,41 @@ Description: Simple tweak to remap the long press of the power button on notched
 Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
+
+Package: com.nightwind.powersettings
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/Rootless/com.nightwind.powersettings_0.0.1_iphoneos-arm64.deb
+Size: 26046
+MD5sum: 625d89c6bfe69ecb302db2680c506e31
+SHA1: d12c1c8bf9196373974da81829b311cd53d0ded7
+SHA256: ae19d8a1c180cb943df410b55ad7ca77f3bbb14cbf5a75d025829d8e389d9a82
+SHA512: a751bafa4310550d14c0a5228d97601f2246a042d8c33109d6bb292ef9ac03b08bea0e5f2de4f91c33938173da3ea17ca85bdbdbc496c45f7bb2cadc3be0fa81
+Description: A simple tweak to add power settings to the Settings app.
+Name: PowerSettings
+Author: Nightwind
+Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+
+Package: com.nightwind.sileorespringfix
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64.deb
+Size: 4526
+MD5sum: ca0d0d62abd5d73ab7b2b21a07155558
+SHA1: 85887028c2fbb3b96fcce597d1b785124c66b139
+SHA256: 6ed1adcf587f9f4343727316d2e794419326aa2ad40b5319222fe9a059ff8be6
+SHA512: d14ff0da39c9ed4d83ae4585efaeb5e2167c18a45c83500651bc45a56ac7a68121dc14b711fd66584428c0615a3b20dc60c4870397ebe05d52fa98eac0296868
+Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
+Name: SileoRespringFix
+Author: Nightwind
 
 Package: com.noisyflake.betteralarm
 Architecture: iphoneos-arm64
