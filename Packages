@@ -3684,6 +3684,26 @@ Description: Re-enables passcode functionality on iOS 14+ A11 devices.
 Name: lockdown beta
 Author: _kritanta <kritantadevelopment@gmail.com>
 
+Package: me.nixuge.networkmanager
+Architecture: iphoneos-arm
+Version: 1.4.3
+Section: Control Center (Modules)
+Maintainer: Nixuge
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/Rootful/me.nixuge.networkmanager_1.4.3_iphoneos-arm.deb
+Size: 36592
+MD5sum: 10a4788c8347e6a05f9c7e60e044636e
+SHA1: 86b92393031ad2de4a982cdc83b2be17980df7be
+SHA256: 8af14e267520e920a8496ad5806f0d9bedc32c2b21fec6d05f8e462977d17307
+SHA512: 1dd3554a688629d530af0c37ce0b7b8b3106d1011df2395df3231b7584f4ecf2587261536f048df92f73dfe2ca4e02be15e496392c323bc2cda4279a146f8a7e
+Description: Force 2G/3G/4G/5G connection from the Control Center
+Name: NetworkManagerReborn
+Author: NoisyFlake, Nixuge
+Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
+SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+
 Package: net.tateu.strongerfi12
 Architecture: iphoneos-arm
 Version: 1.0.0~beta5
@@ -13015,6 +13035,26 @@ SHA512: 266748c980c8b95d83943a1af68e9ceaf29e574206d3e979ab2fd728cf484dced0bc52be
 Description: Easily backup and restore your tweaks
 Name: IAmLazy CLI
 Author: Lightmann
+
+Package: me.nixuge.networkmanager
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Control Center (Modules)
+Maintainer: Nixuge
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/Rootless/me.nixuge.networkmanager_1.4.3_iphoneos-arm64.deb
+Size: 37728
+MD5sum: 3d085d1868de668aa3b78da504a60ad4
+SHA1: 63573858efaad248247e5a0b022f2f9c9d939002
+SHA256: 53eceba132fcb173c73bfeeb9871fb3117d28542cd709e74030879e2efcfaed0
+SHA512: cb058b824818b969237f5c5ce4e7d7ecdc6e463fad0762d83035ef7495ac8ca929aefaaff9325e0f11581b245ac346b4337c4b6feafeb5efda3a943e8cb97626
+Description: Force 2G/3G/4G/5G connection from the Control Center
+Name: NetworkManagerReborn
+Author: NoisyFlake, Nixuge
+Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
+SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
 
 Package: net.tateu.strongerfi12
 Architecture: iphoneos-arm64
