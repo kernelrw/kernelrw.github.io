@@ -3171,49 +3171,6 @@ Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7
 Name: Checkm8 Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
 
-Package: com.zqbb.limitcharging
-Architecture: iphoneos-arm
-Version: 1.0.8
-Section: Tweaks
-Maintainer: zqbb
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: zp.limitcharging.rootless
-Filename: ./debians/Rootful/com.zqbb.limitcharging_1.0.8_iphoneos-arm.deb
-Size: 18148
-MD5sum: 721642104d5766d9f8bf7efcd4531cb7
-SHA1: 0913a138975eded96be9b38a713c714a6c963a70
-SHA256: e425e72f03e3413864d65e7d7f3bd732f1f24c24f0367e2496bd54471f574c61
-SHA512: af12decb81145d215e1c0222689e4e1f4526af6bcb02e99e98a07c96424ef57a404efb82833fa121c8a92b0fa80116425259d0ef5ffece659d43148695b02e59
-Description: Hello Charging (限制充电)
- - Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
- - 锁屏不断Wi-Fi(待机多费电5%)
-Name: Hello Charging
-Author: zqbb
-SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
-
-Package: com.zqbb.limitchargingg
-Architecture: iphoneos-arm
-Version: 1.0
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Rootful/com.zqbb.limitchargingg_1.0_iphoneos-arm.deb
-Size: 18476
-MD5sum: 3ee1eabd6dec5671e4382ff9526c6a28
-SHA1: d7496e00954dce64be70096f891d2f136c4bcb5c
-SHA256: 5bf061c4f24e4f7f720b81f0b3188452899fe5b3ba4eb2d4c6caf9bfaa563f40
-SHA512: d7bf29e10f85888a6c28bad8626df922fcbccb09f8a42a435a8f72b9df79e0c86288065e93dc566aa8bd14498607a1aad39ac13fd7430614df5d8a59805fce0d
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=limitchargingDp
-Description: Manually set the charging limit more freely to protect battery health.
-	- Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
-Name: LimitCharging
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=limitchargingDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: zqbb <w2599z@gmail.com>
-dev: zqbb
-Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
-
 Package: ddgg.uiscroller
 Architecture: iphoneos-arm
 Version: 1.0.0
