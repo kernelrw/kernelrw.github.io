@@ -2328,6 +2328,58 @@ Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
+Package: com.nightwind.musicplayercolor
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debians/Rootful/com.nightwind.musicplayercolor_0.0.1_iphoneos-arm.deb
+Size: 15078
+MD5sum: 94846c4b6895efc94cb072c5b133052a
+SHA1: 9228dfa20c67d13c58c7942ac77cb1742faec251
+SHA256: 69574cb1c197cf96de99d193e61cffcdfe6853b17651efcc819592571fe71658
+SHA512: 2f508f457abf54368d2ec4f2f2c635d8c91b3f7221ef589f8a9caa37c048084b236c6c51701c05ebe2c7fa0e1f40c681858d73f9ebbf2f7c7cd41d0b6eba218f
+Description: Colorize the music player on the lockscreen on iOS 16!
+Name: MusicPlayerColor
+Author: Nightwind
+Icon: https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon.png?raw=true
+
+Package: com.nightwind.oldsettings
+Architecture: iphoneos-arm
+Version: 0.0.1-experimental
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nightwind.oldsettings_0.0.1-experimental_iphoneos-arm.deb
+Size: 4236
+MD5sum: c7de9d2940a1115fe3f9b5de2f512d53
+SHA1: 285e8f5bbd26a1233fb6cb16f5d6b9cd6a2fee3d
+SHA256: a542f935f61750f9e0c17f960e42e8d21473529c206553c1d749f0e62b20147c
+SHA512: f10fa2f9777cc1ee48a53a5a35476d32a6ba98b2eeb51eee4130a9bc9d9808097cd6cabf9e42a1a09b01fe84aa7656463cef7f6447e4f058d7cfa137b89a84ca
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
+Package: com.nightwind.oldsettings
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nightwind.oldsettings_0.0.1_iphoneos-arm.deb
+Size: 3644
+MD5sum: 611ee323dde8679f430f0cbc07058f29
+SHA1: 35396c6d077a56f5efd94dde34a8d3bb77843353
+SHA256: e9cd79e61d4cde31fe9400ebd96773f26afcf66ace2736b0d43b574b27ba3c08
+SHA512: 5b5ec2e1ef92e0cf7c5637363e55d6421fb364cc2c074d6715b3f111859c578476829427893b0b71dd9d359e8e0c08004fad730293805826d0fc8e3a4d3b0ab4
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
 Package: com.nightwind.powersettings
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -2345,6 +2397,23 @@ Description: A simple tweak to add power settings to the Settings app.
 Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+
+Package: com.nightwind.settingswifipassword
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<< 16.0)
+Filename: ./debians/Rootful/com.nightwind.settingswifipassword_0.0.1_iphoneos-arm.deb
+Size: 7930
+MD5sum: 36c872679ebc49f57427fc9b7a77903a
+SHA1: aab3736b5f76cbdc18fcd9e000916a979731dbb6
+SHA256: 9d7ae54e95fe631590f697190bc103b45e69ac67634e8274394b5b78c3dccd67
+SHA512: 03a89da17cbebc70e536e8b72f8b4f2fa671147be75bc6d69ba679a41a8d8012109f254ce069ef4de8a87f5e447d89b0d20f758888421b7d95f8f9c0b876ac28
+Description: Add a button to copy the WiFi password to the Settings app.
+Name: SettingsWiFiPassword
+Author: Nightwind
 
 Package: com.noisyflake.betteralarm
 Architecture: iphoneos-arm
@@ -11178,6 +11247,58 @@ Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
+Package: com.nightwind.musicplayercolor
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debians/Rootless/com.nightwind.musicplayercolor_0.0.1_iphoneos-arm64.deb
+Size: 15144
+MD5sum: 4294eb8f1afcd7745c42ac459e6df1b6
+SHA1: 92b13bb3c4b8ed2e94d50e4e46b3c0bf994cfc8f
+SHA256: 0413e716dbc7266d0a101a3ef497f9ad924066414120d31d6b59bfc4076368bf
+SHA512: 3172f851b765fed19beb42aa3cf13183fbaa187f5f7c12f9e59a3c82a468602b532be3a4e9a276290a409e4773f905eb2e4c28d7245184106376d749286127c8
+Description: Colorize the music player on iOS 16!
+Name: MusicPlayerColor
+Author: Nightwind
+Icon: https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon.png?raw=true
+
+Package: com.nightwind.oldsettings
+Architecture: iphoneos-arm64
+Version: 0.0.1-experimental
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nightwind.oldsettings_0.0.1-experimental_iphoneos-arm64.deb
+Size: 4284
+MD5sum: a3db8326abae84940b1452dcb9128319
+SHA1: 6bc99adc4a49c10f5c5336026291cf1689ff0088
+SHA256: 085e1d73235931f5e56a3fd52f8420ef7e11ead2106b73d449ac19b4266421b5
+SHA512: b106a516bfeae4367197c3d89f67ddbae725bf8e3e53883758d40c0c60bde1d2636f731e6477919ab9acc94a67131d2baea7cede265347d3e4cbcfd8e54d1248
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
+Package: com.nightwind.oldsettings
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nightwind.oldsettings_0.0.1_iphoneos-arm64.deb
+Size: 3702
+MD5sum: 0899f32a5729ff4f071ac54ddcdb05c5
+SHA1: 09c4de90df65a374e998c5fe2c5d47dde24dd163
+SHA256: 14a48f4fd4a5dd21064aaa1344672cff1e4fa068e0dae2ec54107772dff3517c
+SHA512: f414693d5d279668e4fa02703e46fa3ac07ebb7dedb4301ec63e46e165a6448561f3a7d7fcbf13b90b819aa2dc974881a552f395f6ff458b0e06a27e391ce072
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
 Package: com.nightwind.powersettings
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -11195,6 +11316,23 @@ Description: A simple tweak to add power settings to the Settings app.
 Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+
+Package: com.nightwind.settingswifipassword
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<< 16.0)
+Filename: ./debians/Rootless/com.nightwind.settingswifipassword_0.0.1_iphoneos-arm64.deb
+Size: 7992
+MD5sum: f055f850adae4079e708be073e02df78
+SHA1: d54c235d8a2ae8f23f4a6a89a5c3d3fafcfd805c
+SHA256: d78ae4afb0cdbe88395e4597c334db4f1798db1f11a1d137d849737ded8c7409
+SHA512: 55c4ed0e38d18d56a692eab08113db3aa6e2ca2e892251455c759d56c080b4c9e9f7146c60e6f46eaa947ca9f6e7312021c291a7fa99830b5fba6321cd3bb9cf
+Description: Add a button to copy the WiFi password to the Settings app.
+Name: SettingsWiFiPassword
+Author: Nightwind
 
 Package: com.nightwind.sileorespringfix
 Architecture: iphoneos-arm64
