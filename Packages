@@ -10940,6 +10940,23 @@ Author: zhaonan <invalidunit@icloud.com>
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 
+Package: com.nathan.dynamicnotland
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.dynamicnotland_1.0_iphoneos-arm64.deb
+Size: 3870
+MD5sum: 2ac99efb2df94c392130c3ffb796c9ea
+SHA1: f74bd713e12c5ae02744bddc7956ae02aa3c6277
+SHA256: 2c67a287c317a34e13bff6d27cd6430a6843b33e5823c9258b9b9c2c454d7485
+SHA512: f2d7d6e75326d6c5dc011a30984bce19ee9c84dccc4e0232afba531805bdf296aeac9efeb6545b3012bd4ee9696ecc692d2e4222cd43bf26fed2b42c8a6dc24c
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicNotLand
+Author: Nathan
+
 Package: com.nepeta.axon
 Architecture: iphoneos-arm64
 Version: 1.5
