@@ -3658,6 +3658,24 @@ Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
 
+Package: love.litten.diary
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 4628
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures, com.joshuaseltzer.nextalarmsx
+Filename: ./debians/Rootful/love.litten.diary_1.2.3_iphoneos-arm.deb
+Size: 1901360
+MD5sum: 49491fd68bf2e611453e705e6cdbc57f
+SHA1: 4eb17b02512fd8c04ef08fd3459caf5fce186602
+SHA256: f49f1b00372428f3cb5afb3583c45f5ff3bbced856550a3ba19ba4c486802118
+SHA512: f8c42b977d83deed99e9a66dca508c566fa4050626313d7f95ea5824c969f4fafe1909ca111d9ecd6d767b79acd0b8977db8aa997b1480a59f476c29204ddfc9
+Description: Dear diary..
+Name: Diary 📖
+Author: Litten
+
 Package: love.litten.rose
 Architecture: iphoneos-arm
 Version: 1.0.9
@@ -7703,6 +7721,24 @@ Author: Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/Reverie.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Paisseon
 Icon: https://paisseon.github.io/icons/Reverie.png
+
+Package: love.litten.diary
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 4628
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures, com.joshuaseltzer.nextalarmsx
+Filename: ./debians/Roothide/love.litten.diary_1.2.3_iphoneos-arm64e.deb
+Size: 1899420
+MD5sum: f61b77b36f9d9039e054c27dd4d386be
+SHA1: eec920295c4172664bac8b59f0e75689116c985c
+SHA256: b7bb367881aa07f89fcf7870acb1c51e8d61dab451a6884a6142651c3d9eaada
+SHA512: ad3b4c7a922ea4b7fbf408cf7f272fd2c35f91b5a00fb9b28183321a80f54444df12adff9ccca91cfebfa48c51d16c42f1bceade4c258b401674144452ae25cd
+Description: Dear diary..
+Name: Diary 📖
+Author: Litten
 
 Package: love.litten.rose
 Architecture: iphoneos-arm64e
@@ -13189,6 +13225,24 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
+
+Package: love.litten.diary
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 4628
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures, com.joshuaseltzer.nextalarmsx
+Filename: ./debians/Rootless/love.litten.diary_1.2.3_iphoneos-arm64.deb
+Size: 1901044
+MD5sum: deb13a98504527e9f8289b74d2e784b6
+SHA1: 734f99305c068e1b0095b3a3b48f08e262e76a97
+SHA256: f2b91bf8b8302c445fad1b22839dc9d1691a14a2ab6a2132437aebb9966282fb
+SHA512: 0bc55bd6f45b69048f7b13dcc915900ce43199a16581a03e6b98a09575dbfc388f2bf17e286292bcb8e90728add9625a352c0f23ef56be1b3d441f80f5bbb904
+Description: Dear diary..
+Name: Diary 📖
+Author: Litten
 
 Package: love.litten.lisa
 Architecture: iphoneos-arm64
