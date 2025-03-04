@@ -13131,6 +13131,30 @@ Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
 Icon: file:///var/jb/Library/PreferenceBundles/Sonus13Prefs.bundle/Images/Sonus@2x.png
 
+Package: info.mostafa89.infobar
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 929
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), com.mrgcgamer.libgcuniversal
+Filename: ./debians/Rootless/info.mostafa89.infobar_1.0.1_iphoneos-arm64.deb
+Size: 191170
+MD5sum: fdb34b4b2ab50e03f551350249e445d8
+SHA1: d0f7b75764936f54ad824ee4f718fc9a49bed219
+SHA256: d938e4d130af9bd9cfbf9b292f692297d419dd23b18be6a1563c5fcf9c2597c4
+SHA512: 8e58cf204fa93d6725904de6adc5efbd4a637710d2118ee221b8449a6f6a050378146e22728ed986ebc51ce61c9617e29b0e733e8dcf99ea83c7f477f8cb2d91
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tapiiDp
+Description: New Statusbar features!!
+Tag: purpose::extension
+Name: Tapii
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tapiiDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: mostafa89 <ella89sp@yahoo.com>
+dev: mostafa89
+Icon: file:///var/jb/Library/PreferenceBundles/Tapii.bundle/icon@2x.png
+
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm64
 Version: 1.0
