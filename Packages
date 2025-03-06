@@ -2453,6 +2453,24 @@ Name: betterAlarm
 Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
 Depiction: https://chariz.com/buy/betteralarm
 
+Package: com.noisyflake.networkmanager
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: NoisyFlake
+Installed-Size: 336
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/Rootful/com.noisyflake.networkmanager_1.0.2_iphoneos-arm.deb
+Size: 27356
+MD5sum: 498054dafe497c9a74f081182694f256
+SHA1: 7772dd3cf9def90d54b975d170f6ba47d9209db6
+SHA256: 5c095126b9fee5ac6887b42a8cf6ae5d2cdec74fd18ff150198c5adfc3edd287
+SHA512: 28fcaa52388914ec3213e2a006ce564fb3b4dc8dfc2cbede31231736deb1b5e4fd4138b7b90f8e8cab4aa4e5118337923138bc03e9d0321336f62783ee8ca63a
+Description: Lock your carrier to 2G/3G/LTE ; supports iOS11+ .
+Name: NetworkManager
+Author: NoisyFlake
+Icon: https://apt.wxhbts.pro/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+
 Package: com.noisyflake.velvet2
 Architecture: iphoneos-arm
 Version: 2.1.2-3
@@ -11494,6 +11512,24 @@ Author: NoisyFlake <support@noisyflake.com>
 Name: betterAlarm
 Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
 Depiction: https://chariz.com/buy/betteralarm
+
+Package: com.noisyflake.networkmanager
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: NoisyFlake
+Installed-Size: 336
+Depends: mobilesubstrate, com.opa334.ccsupport, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/com.noisyflake.networkmanager_1.0.2_iphoneos-arm64.deb
+Size: 27716
+MD5sum: d9e2711140f4b86497c400bfd2bf49ac
+SHA1: adbe2f1381e054a959da70243e27ea2a294297f3
+SHA256: 0836d12f367210cc87c4bdb9ed69c47076f8819f75a6cff92e82bc835e14bdda
+SHA512: 0791027da4749af41cfa1bfeeb406f64e11dadf456c4897c1a550d5a7996d74ee11f9cf7a22511bcace30ac797fb3d45c9481ce2d73be3c452dd7b231a3bffc2
+Description: Lock your carrier to 2G/3G/LTE ; supports iOS11+ .
+Name: NetworkManager
+Author: NoisyFlake
+Icon: https://apt.wxhbts.pro/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
 
 Package: com.noisyflake.velvet2
 Architecture: iphoneos-arm64
