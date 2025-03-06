@@ -1610,6 +1610,24 @@ Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
+Package: com.hans32.extrude
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Applications
+Maintainer: Hans32
+Installed-Size: 940
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootful/com.hans32.extrude_1.0_iphoneos-arm.deb
+Size: 572156
+MD5sum: 594e93b136facfdc77a7a612db6d4ae5
+SHA1: 8bf4809799d9e9036f3195803783e38b81dad6dd
+SHA256: df86a968dbd7988a282981d9c897e3c636bcf6c67191155d5b7fd70a24b810c2
+SHA512: 6dda6397203b4b487040e7d8847e72db305bcda9bc458804051ccc5b3e950f52e1402527823b57ef0f35be43e4e37784331950177a1100c5481b9147096039ff
+Description: View, Terminate or Pause processes.
+Name: Extrude
+Author: Hans32
+Icon: /Users/hnc/Developer/Extrude/Resources/UniversalIcon.png
+
 Package: com.haoict.instanoads
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -10372,6 +10390,24 @@ Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
+Package: com.hans32.extrude
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Applications
+Maintainer: Hans32
+Installed-Size: 940
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootless/com.hans32.extrude_1.0_iphoneos-arm64.deb
+Size: 575952
+MD5sum: 6aeea4bd888b845417da8326dafa02d3
+SHA1: 3b44235b5d41f9ce86b4d499431b31401076917d
+SHA256: ec472f8eb1f0f163f4a251979d2f4a4e14c9bd71b7d8090f7e94bf03cf36fa59
+SHA512: af37e12970c16fdca05b9871658ecc201bdcdf9a1f5fd0867aed588cea3e6babe99e2011538e12f16b6cf6076701aeeb14ed844234feecccbd1fee25d16d2cb1
+Description: View, Terminate or Pause processes.
+Name: Extrude
+Author: Hans32
+Icon: /Users/hnc/Developer/Extrude/Resources/UniversalIcon.png
+
 Package: com.haoict.facebooknoads
 Architecture: iphoneos-arm64
 Version: 1.4.1
@@ -10763,6 +10799,24 @@ Description: Activate and deactivate password & face ID through control center ;
 Name: ByPassCC
 Author: lenglengyu
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fsmokin1337-s-repo.png&s=180x180&f=webp
+
+Package: com.level3tjg.twitchadblock
+Architecture: iphoneos-arm64
+Version: 0.1.5
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.level3tjg.twitchadblock_0.1.5_iphoneos-arm64.deb
+Size: 21074
+MD5sum: f831bbb9b0c1f6acaffad0b1da2f46e3
+SHA1: b12d8bdafc1ab36cdd479acbee8d9ed2d3ecbc80
+SHA256: 1a2853d2e021bd55c6a10e5c2ec409ad117e3132c2bbef7a85b8ea07b48238b6
+SHA512: 442831ca4f97996e561b6faf2df417e106dbc03c054ffd50bc447ca36b7e2dbf31aab6fcaad9d80e230c90ce81000ff4089afcea71f0baeebb390420d70f81f0
+Description: Block Twitch video ads
+Name: TwitchAdBlock
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
+Author: level3tjg
 
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm64
