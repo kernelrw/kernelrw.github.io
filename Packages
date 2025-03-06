@@ -3098,6 +3098,24 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
+Package: com.streamer.ios
+Architecture: iphoneos-arm
+Version: 1.2.42
+Section: Applications
+Maintainer: iphoneos-arm
+Depends: firmware (>=15.0)
+Filename: ./debians/Rootful/com.streamer.ios_1.2.42_iphoneos-arm.deb
+Size: 23116792
+MD5sum: 6f38df9920c27a9f54f426af7bbe161d
+SHA1: 05eb83cb4fdd10fda01fab09eab73b0616343bdb
+SHA256: 5ecb640e915ab87c9731686b25d859e37099dd303dd1a2ff8c83d2d5bf34c59b
+SHA512: f021da929ee8d8611cccaed1e42e86091496bf05f88bc39b4816dc6922c993b73276aa618e7d76905b84019502001143f247e54f1b214424617f48d9e4fb28cc
+Description: Streamer resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
+Name: Streamer
+Author: iphoneos-arm
+Tags: compatible_min::ios15.0
+Depiction: https://permasigner-depictions.itsnebula.net/depiction?name=Streamer
+
 Package: com.sudo.debra
 Architecture: iphoneos-arm
 Version: 2.9.9
@@ -11064,6 +11082,23 @@ Author: Nathan
 
 Package: com.nathan.dynamicnotland
 Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.dynamicnotland_1.0.2_iphoneos-arm64.deb
+Size: 3820
+MD5sum: d82e61a7cae0c90dc4aaf2927c4e13de
+SHA1: 35270081c4ebcfe17457c588d8aa50c3778f6780
+SHA256: 112121b103490f36660b3c6061a6bc84ba5787a6c16344075f732c4d74e452f5
+SHA512: db9eef65e262e2dd912172aced4d5400b51a0fb69a703c455ddf5e76838027713555daafa8aa6672dae195a52189b53370947f541692615691305b81a3ca3618
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicNotLand
+Author: Nathan
+
+Package: com.nathan.dynamicnotland
+Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: Nathan
@@ -12356,6 +12391,24 @@ Name: ExactTime
 Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
+
+Package: com.streamer.ios
+Architecture: iphoneos-arm64
+Version: 1.2.42
+Section: Applications
+Maintainer: iphoneos-arm64
+Depends: firmware (>=15.0)
+Filename: ./debians/Rootless/com.streamer.ios_1.2.42_iphoneos-arm64.deb
+Size: 23081540
+MD5sum: de7aaaf3f76db3f9b68f6839af718aa8
+SHA1: 4fe8f9323e3a3f7b26ea649aedcca8052b3edeaa
+SHA256: 0dd0cb40470bc79b30bb4480b07906db78c6aab54cf5db27fe079b6f0db97ae9
+SHA512: 46f5dccc04007c2a08028f8f50145efc0413b749957a27dc0353370fde80e48f13fcbd2f8988c812f70ad454a9449bedbe38c1f047a5a1686bf1f5ac3272d5ad
+Description: Streamer resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
+Name: Streamer
+Author: iphoneos-arm64
+Tags: compatible_min::ios15.0
+Depiction: https://permasigner-depictions.itsnebula.net/depiction?name=Streamer
 
 Package: com.sudo.debra
 Architecture: iphoneos-arm64
