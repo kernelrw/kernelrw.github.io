@@ -1552,6 +1552,27 @@ Name: UI Switches
 Author: Fadh1l
 Icon: https://github.com/Cachexiaa/Cachexiaa.github.io/blob/main/depictions/web/com.cachexiaa.sample/screenshots/UISwitches.png?raw=true
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm
+Version: 1.0~b23
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 10956
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
+Filename: ./debians/Rootful/com.fouadraheb.regram_1.0~b23_iphoneos-arm.deb
+Size: 3017288
+MD5sum: d545d10d2d0405b138d74fa115717118
+SHA1: c7d1e534abca057163d6761caf6b8b7ba66213d1
+SHA256: e375544ddf398cc98942794dd2c45deec4ea2e020d935b66c6cfc9af9e6041ff
+SHA512: 0c3284d518fa7f368438d99eeb9ff2e8db3b5dfb6fddc492676359bf03ed7aa2230d560a340b465920e546ee70d65a218059921b778879d22d873e99c84b7436
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm
 Version: 1.2.50
@@ -1924,6 +1945,22 @@ MD5sum: 802624a145aa8ff74b7c98a7e0cc6c69
 SHA1: c8745e5172b67ce339c75c5e00efe59efe874bf1
 SHA256: c145b91f0ad0dfe4101782bff0b170dbf7630426a467f622a89c0b76dc9e9ee6
 SHA512: 6922496c7d72a795f98b467122f57afbc29107240e1a8f80f6880b8a450ad552e2f76196c3ebafc8b3c8c59fdff416a81559478e135d85b7086c0d739f49305e
+Description: Test Package , Do Not Install .
+Name: Deep Clear
+Author: Kernelrw
+
+Package: com.kernelrw.deepclear
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.kernelrw.deepclear_1.0.2_iphoneos-arm.deb
+Size: 1582452
+MD5sum: 8074d9a7391297422a559158890d5d4f
+SHA1: 03c6fb9bfb582e2cc0da009e21ecce6e6cb856ca
+SHA256: 8f6b3423978a048fdc7d6dbc1fbad95e6d651af826f9c52a8c5e899339104a71
+SHA512: 505f756bb6e99d9282cd0b73bd25a96d9724b0ab5f52dce0426988bfc08949e8c58088b17f0e127da09b0dd5fb828079903a0e3cc44992fdcd4e6eadc0edd9be
 Description: Test Package , Do Not Install .
 Name: Deep Clear
 Author: Kernelrw
@@ -10330,6 +10367,27 @@ Name: UI Switches
 Author: Fadh1l
 Icon: https://github.com/Cachexiaa/Cachexiaa.github.io/blob/main/depictions/web/com.cachexiaa.sample/screenshots/UISwitches.png?raw=true
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64
+Version: 1.0~b23
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 10956
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
+Filename: ./debians/Rootless/com.fouadraheb.regram_1.0~b23_iphoneos-arm64.deb
+Size: 3026722
+MD5sum: 52726262f94c176e30aa0620d3733bf7
+SHA1: b91a0bb54790a84a4400edb0026638a7e5dc99d2
+SHA256: b5adaf42f2d4cbde948f71bd2127806516e602d345d8f5e930e1019b6aab136a
+SHA512: 3d8f701cc8fb8808732537a07131e89029e8720a5a7ccf1e42348fc054517e2409c680169a55c54229b8f177f76834bf198d65435e37ee5eda52f47add68ac4f
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.33
@@ -10797,6 +10855,22 @@ MD5sum: 91f9b8e658936d2a6950992b70d5e5b2
 SHA1: e5f19bc2281b3de0e240c3c5303d6ddef01f58a3
 SHA256: eb2a438315febc376e5115d284514c3d19302cf005ff612b41f86b65b22ec850
 SHA512: 4cddffc60d69213afe07ddd3bae5865e77245f270093c9f258af1b5d656922322c82b37545e14f3c08b90f65256897ac8003681f0c9f97de7302fc5b4f604a05
+Description: Test Package , Do Not Install .
+Name: Deep Clear
+Author: Kernelrw
+
+Package: com.kernelrw.deepclear
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.kernelrw.deepclear_1.0.2_iphoneos-arm64.deb
+Size: 1587976
+MD5sum: affcb7be80b9dadc453e0b4fd53964ac
+SHA1: 159a05ffc474ec7c915e4317a13e1effd34e5db3
+SHA256: 8c531b779a6d09aecaa2cb5a6aa5b634a13d13f79e5970b40c1fc886ac59f1c3
+SHA512: 3172fb580c28ef95b4ebac8852b0bdb1196c4b1aed669c7a3e61802365f845ba98a3383a0cf0630f16ca5f157078a0297b9f633d552e69f7e67a4ca6f0316bfc
 Description: Test Package , Do Not Install .
 Name: Deep Clear
 Author: Kernelrw
