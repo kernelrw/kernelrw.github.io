@@ -13573,6 +13573,114 @@ SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
 
+Package: net.limneos.audiorecorderxs-rootless
+Architecture: iphoneos-arm64
+Version: 5.0-62
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 6088
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debians/Rootless/net.limneos.audiorecorderxs-rootless_5.0-62_iphoneos-arm64.deb
+Size: 1417398
+MD5sum: a556847ade6dcaa2546ce6eec7c867ca
+SHA1: b3de7f0777304adea13087806141b967a05d5998
+SHA256: 84164f8da7a890209e84073d973601c184bac3357bd8b8d42d83d2abce258fb6
+SHA512: b2f77a81f5923a56ea4ce5732265b29d381579b5c8148e11e25d23957d9482ca061d1a19c95cc3d78296165677410105132f170849d5712cf90e39bad19807a7
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS (rootless) (iOS 12 to 18)
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.audiorecorderxs
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+
+Package: net.limneos.bioprotectxs-rootless
+Architecture: iphoneos-arm64
+Version: 4.7-4
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 2328
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debians/Rootless/net.limneos.bioprotectxs-rootless_4.7-4_iphoneos-arm64.deb
+Size: 618200
+MD5sum: a5eff12d35695f0db05467986ed32fe5
+SHA1: c1abf8b723156ecf2521b7f3b160684882c62904
+SHA256: b8a23e07a5720709c1cbd9acf2f3a3a93da674883816b3290b71cd1b0ab6efda
+SHA512: 9d74a35b271293765003c8ec87dbec698ae477350faae3c29febc8a080a228a3d1ebc64f49c8afe9c7f4b25b417392e4048769c6f244f82d2cec521f20c7d69c
+Description: Protect your apps with Touch/Face ID!
+Name: BioProtect (rootless) (iOS 14 to 18)
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Depiction: http://limneos.net/bioprotectxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.bioprotectxs
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 11a31f2c14af96f0ee846d1e06d5cfd0
+
+Package: net.limneos.glow-rootless
+Architecture: iphoneos-arm64
+Version: 0.6-12
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1008
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Filename: ./debians/Rootless/net.limneos.glow-rootless_0.6-12_iphoneos-arm64.deb
+Size: 230628
+MD5sum: 77ccc85926f6143e590115b7066e71cd
+SHA1: 30cfe60f19fbd06fc36d74164581b9c54530f39d
+SHA256: 932bf07daaa0871b799b7e1b4829829482b51ce80656d4c367cdbd23950a98c7
+SHA512: 52d578479c98b2574823a822b57e195888d0ae9085c06cb23449592e6765697cbb73bd8370809e4aae2b17f2e75de3d29d166c4b38097ae0ef42a12a82c59167
+Description: Let your lockscreen glow!
+Name: Glow (rootless iOS 12-17)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/glow/
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.glow
+Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
+MainLibMD5: e3ff8fe0c7435fb119f47b6b046a2c96
+
+Package: net.limneos.nfcwriterx-rootless
+Architecture: iphoneos-arm64
+Version: 4.0-4+debug
+Section: Utilities
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 3724
+Depends: mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, me.kanam.nfcwriterquickaction
+Filename: ./debians/Rootless/net.limneos.nfcwriterx-rootless_4.0-4+debug_iphoneos-arm64.deb
+Size: 874730
+MD5sum: 92cc4eb587ef49c90a0c1856c5b6ce6c
+SHA1: 3f29d85e8d1582db28200994f7c420820512d59a
+SHA256: 3b8645ce45935a18dc65425989c3b7fc0dc3fba0491d774e9253280b0082020e
+SHA512: 196ec8f475f00253a7cad379aeb9489522c12c9bc9479351128a9712622d7c54f7348c734ce4fe11f09c6bc513303dbc13d101fca4653084d5fa949f5802ff6a
+Description: NFCWriter XS for iOS 11/12/13
+Name: NFCWriter XS (rootless)
+Icon: file:///Applcations/NFCWriter.app/icon@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
+
+Package: net.limneos.voicechangerx-rootless
+Architecture: iphoneos-arm64
+Version: 2.4-136
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1476
+Depends: mobilesubstrate, preferenceloader
+Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debians/Rootless/net.limneos.voicechangerx-rootless_2.4-136_iphoneos-arm64.deb
+Size: 247934
+MD5sum: d579aaebf322bf0acabcd91bb7e390f9
+SHA1: dbc5ec6bc98fc3808aa50820dc75912789dd415a
+SHA256: 08b23675e53bcfbdbe7012516b2a366e869f9730c223a8d8c58cfab5c8ad8073
+SHA512: 7307c75e9422815c2f5d1bf9f4073514699b85ef97cb909a876af32f942ff45e607f38bd27d5c6532a1bf7ad1a56b825137320bb71a526c684b2640b07766580
+Description: Change your voice during a call!
+Name: VoiceChanger XS (iOS 11 to 18)
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.voicechangerx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 673e3d50e6fa61e9a22d888b9013b537
+
 Package: net.tateu.strongerfi12
 Architecture: iphoneos-arm64
 Version: 1.0.0~beta5
