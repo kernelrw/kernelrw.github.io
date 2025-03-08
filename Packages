@@ -492,6 +492,22 @@ Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
+Package: com.castyte.iamchinese
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Castyte
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.castyte.iamchinese_1.0.0_iphoneos-arm.deb
+Size: 3536
+MD5sum: 8d5906224c3f191529849a9d0074f1dc
+SHA1: 47922f284dbe3909a05ae968845110f7723858bc
+SHA256: a887815acbfc839de1d1e3d37c5c16455c85d97a083e03ed8ef79602f27c885c
+SHA512: c4c6baa60bd7f905cf87ccec4a59c1d8603d06fdee7b5f56aac102c268d6a758c817bd5db2f597425cb4879dd55c212e86724afb43b033716358eb03e246cde8
+Description: Enables options to disable wifi in apps usually only available in China.
+Name: I Am Chinese
+Author: Castyte
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -3714,6 +3730,23 @@ SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.gith
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 
+Package: eu.teggers.netkillui
+Architecture: iphoneos-arm
+Version: 0.2.1-1
+Section: Tweaks
+Maintainer: Teggers
+Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0)
+Filename: ./debians/Rootful/eu.teggers.netkillui_0.2.1-1_iphoneos-arm.deb
+Size: 600664
+MD5sum: 530d3a1808b8659aa2af0dab7cd6b2a6
+SHA1: f0ceccaaf5d665878e440e654d6701c01deca3d5
+SHA256: d9c5e94644e6986541bfdbc3933d04fd1a30594323095046b18c84a997078a34
+SHA512: 58e7301dce869fe80a5954b832505c04d4281784b78e4be5fef6f3bf2803ffa6b9255902bc5a640f5e2438668c77bbf11259d13b52d6f9ed6057f2160ffd7ca9
+Description: GUI for arp-scan and arp-spoof.
+Name: NetKillUIbeta iOS11+
+Author: Tuggers
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.quarter.barmagnet.png&s=180x180&f=webp
+
 Package: fr.rootfs.rode
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3966,6 +3999,29 @@ SHA512: ee1a969d5a513373c4b043fda25fb1f2bd94300409a11eefce004bf90abbcc9291129ad0
 Description: An awesome MobileSubstrate tweak!
 Name: ClassicFolders 2
 Author: CoolStar
+
+Package: org.coolstar.nolargetitles
+Architecture: iphoneos-arm
+Version: 1.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 67
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/org.coolstar.nolargetitles_1.0-1_iphoneos-arm.deb
+Size: 2958
+MD5sum: 65391853bd9f521e749c89301dfc3995
+SHA1: eb21090850a9b3c7a0b6377e9a7c2e37445d4391
+SHA256: 24eae27e2bd790c34684fd112bf9b6b787b78ebcec9134fd638c57b7b8575585
+SHA512: 129082cd7d9f6ba82970bac9c314a2725446f1c1ee9c7f356577065223c6259b1f4ebcaa3211466fafed56249c094394dfafc025e7c1781c339ce371b7ade3e9
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolargetitlesDp
+Description: Remove the large titles system-wide on iOS 11
+Tag: purpose::extension, compatible::ios11
+Name: NoLargeTitles
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolargetitlesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CoolStar <coolstarorganization@gmail.com>
+dev: coolstar
 
 Package: sh.litten.rose
 Architecture: iphoneos-arm
