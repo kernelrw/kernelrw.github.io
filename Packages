@@ -12685,6 +12685,23 @@ Name: Split-View-Pro Helper
 Author: sunshinesong
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.mika.pineappletools.png&s=180x180&f=webp
 
+Package: com.sunshinesong.splitviewpro-helper
+Architecture: iphoneos-arm64
+Version: 1.1.7
+Section: Tweaks
+Maintainer: snshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debians/Rootless/com.sunshinesong.splitviewpro-helper_1.1.7_iphoneos-arm64.deb
+Size: 1448
+MD5sum: 6498c7c6e9c663478035ab562625c441
+SHA1: 373cdc68cbeabbd7fd5ba9f225c04eadb6775db0
+SHA256: 46277b0b9c6f6d475fd92ec761a605c3e3da588be2fd2d123cb9774a08b2e6f0
+SHA512: c9082b1876097eb7f5c10eb0e06cc14ce557a9a6825c342ca81f855943971a11f7a0d04cd8d0804cad13e52c5ed4f14f2a381c1cb30cde1ef4bc8b3851acdbab
+Name: Split-View-Pro Helper
+Author: sunshinesong
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.mika.pineappletools.png&s=180x180&f=webp
+
 Package: com.sunshinesong.splitviewpro
 Architecture: iphoneos-arm64
 Version: 1.1.6
@@ -12697,6 +12714,23 @@ MD5sum: 3ccb0ffebe68e2a9370d41feb1bdc9ec
 SHA1: fc836f0b3282aa1ab837e0ada62c91b1a6f75727
 SHA256: 894b1f4d0cfdbc68b2e2336659793cd2f548813f557e57a4f2582d610fe0f77d
 SHA512: 0d5193522f5b9f2d42534d7b3d5ada8402c15da468415fd5fa6965b989e7d410bbc2e41cc2a00aea0c78bbf6fa270143453db33d68a49e89c0c1f61f29866651
+Description: Best Free Multi-tasking and Arc Replacement By Sunshinesong.
+Name: Split View Pro
+Author: sunshinesong
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.archer.png&s=180x180&f=webp
+
+Package: com.sunshinesong.splitviewpro
+Architecture: iphoneos-arm64
+Version: 1.1.7
+Section: Tweaks
+Maintainer: Sunshinesong
+Depends: mobilesubstrate, preferenceloader, com.sunshinesong.splitviewpro-helper (>= 1.1.6)
+Filename: ./debians/Rootless/com.sunshinesong.splitviewpro_1.1.7_iphoneos-arm64.deb
+Size: 1538456
+MD5sum: e03a270a8dbac05175eff40aa865a8ea
+SHA1: 4126b80986f5833550461e71a1222b1ea2472aa3
+SHA256: 5d0b4adf8051ad0741b9c6a23d486872dbda1876749d834ae81334f06900ece7
+SHA512: 39287c899f49ad6a9fd09d7ecea8f05c9dd647f5ffca20d09f0655f51937f16f974a2c59f77da2f1f7691627d488ccf86f35115052f92da93723c9d7c5ce4f76
 Description: Best Free Multi-tasking and Arc Replacement By Sunshinesong.
 Name: Split View Pro
 Author: sunshinesong
