@@ -2151,6 +2151,25 @@ Author: mikifp
 SileoDepiction: https://raw.githubusercontent.com/miki-fp/repo/main/depictions/com.mikifp.khroma/depiction.json
 Icon: https://raw.githubusercontent.com/miki-fp/repo/main/assets/com.mikifp.khroma/icon.png
 
+Package: com.miro.damnduration
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 336
+Depends: firmware (>= 13.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debians/Rootful/com.miro.damnduration_1.0.3_iphoneos-arm.deb
+Size: 22364
+MD5sum: b55dbefa092b7e0851d1dd294caf29b3
+SHA1: 461efd454e4be2d45605f03e32a3adb4f85c73b2
+SHA256: dbcbec6cf23f3870c96105275b97d1004cf17a958584bb94f6d43ec1a2b39adf
+SHA512: 1466ae3adaaf1e42f566b48a0b4592fb0b3147ef24882353016f5a6f4a04ef747e2077701d733047cc52eda94e31b13cea13152634e6f68a852d07a826528321
+Description: Shows ringing duration in the Phone app.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: DamnDuration
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.damnduration
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -2879,6 +2898,26 @@ Name: YouTube X
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
+Package: com.pxcex.facebooknoads
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.pxcex.facebooknoads_0.0.2_iphoneos-arm.deb
+Size: 11902
+MD5sum: 1e747caba377423c5630a86b7c0bdefb
+SHA1: 9578a7fb36dea0160099e134a2bd68110d303807
+SHA256: 8bc135aa49ef8007eba1fefcea37addb9fec64d74a2bc15f077e2737fe697f37
+SHA512: 92862bee39e7977f0e709b1fb4f9423bf16ddeb306fe36d6c121bbc62f2237b7f66a1030754aef2b802bda6c2425bcea470575b2c8a7f458c045ebe204acf14f
+Description: Block all Facebook™ Ads! Super simple to use, light & FAST. This Tweak removes FB NewsFeed ads, Story ads, Video ads & All Sponsored Posts.
+Name: Facebook NO ADS
+Author: pxcex
+Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
+Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
+SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm
@@ -12162,6 +12201,26 @@ Name: YouTube X
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
+Package: com.pxcex.facebooknoads
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.pxcex.facebooknoads_0.0.2_iphoneos-arm64.deb
+Size: 8376
+MD5sum: f60f36137ea68c0a56a796bc307963d3
+SHA1: 53a794c578d60a8f7eeca237f9d939a86ce7c14f
+SHA256: 86615f45ee9de8f583b15d72cb0e0124d806323863aa55b7ff4352de3c499239
+SHA512: 98ea2921b69ff5f3760cad2f1ced85e382f1f3989339f25f76e4c65153f005f9c09b0d4f764a2cc9c0ce6707f8e3dd8e2a350970fbf340bd598d244e9bd97b97
+Description: Block all Facebook™ Ads! Super simple to use, light & FAST. This Tweak removes FB NewsFeed ads, Story ads, Video ads & All Sponsored Posts.
+Name: Facebook NO ADS
+Author: pxcex
+Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
+Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
+SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm64
