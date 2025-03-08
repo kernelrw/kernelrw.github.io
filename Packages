@@ -364,6 +364,44 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.Axs.split-view-pro-helper
+Architecture: iphoneos-arm
+Version: 999.1
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debians/Rootful/com.Axs.split-view-pro-helper_999.1_iphoneos-arm.deb
+Size: 1360
+MD5sum: 8541c81447ea871a231a16ebff86eb8a
+SHA1: be1fa776df52d2f18bb3b3141eec3012faccaee0
+SHA256: 88f87ea9ea5f59d3ef097659443e86debffbe8e7ef2db0e9cf2c959ee7a1a688
+SHA512: b2168825d7e8b2c31f12b1d649c189d73ec3d46bdd0ae2793307ed98024c6ae18fe8e80583ccd786fd086891551c2b18671635200768b98205a256331d68ba56
+Description: SVP Helper
+Name: SVP Helper
+Author: sunshinesong
+TS: sp-sss
+Icon: https://axs66.github.io/repo/icon/svp.png
+
+Package: com.Axs.split-view-pro
+Architecture: iphoneos-arm
+Version: 1.3.7
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootful/com.Axs.split-view-pro_1.3.7_iphoneos-arm.deb
+Size: 1511244
+MD5sum: fefbb31b81daf1eabc4037b7a04a689a
+SHA1: 5278998a180548ed2b6ebcf692b55ef43693dc9b
+SHA256: 4ad6babbcd1036912911e1dfa8754a19058266a4c2c2c11b7b1fdd62c2d181ce
+SHA512: 0ef93e11d27a4203ab0299378f5b2af5735c1449a770c25fb6ea891a6697583b562d5b432f56e6e737395a5c2e09620d2d7202abe75dfd6bc13e9feb608df1dc
+Description: Great Multi-Tasking .
+Name: Split View Pro
+Author: sunshinesong
+TS: sp-sss
+Icon: https://axs66.github.io/repo/icon/svp.png
+
 Package: com.anthopak.addtofolder
 Architecture: iphoneos-arm
 Version: 1.4
@@ -3242,43 +3280,6 @@ Depiction: https://sudo9000.github.io/depictions/debra/index.html
 Name: Debra
 Author: Sudo
 Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
-
-Package: com.sunshinesong.split-view-pro-helper
-Architecture: iphoneos-arm
-Version: 999.1
-Section: Tweaks
-Maintainer: sunshinesong
-Installed-Size: 13792
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: ./debians/Rootful/com.sunshinesong.split-view-pro-helper_999.1_iphoneos-arm.deb
-Size: 1416
-MD5sum: 522258eb38ea4f7645fed625437cc5bf
-SHA1: e9655e1169e807b3db93a8cf62a4858ad17ed93d
-SHA256: c4290418405e81d48a923de9050e9b3b74b822e65a096332a09fdff538e9bfd0
-SHA512: 1ab26c5cd52220d9687affd9256381a295e0f1b6f289b6c66718e6eb63cc8fbfc3d8d27cf336d3bed132f047f64346c4beea76dd72fb0255761a9978e7e8bf3d
-Description: SVP Helper .
-Name: SVP Helper
-Author: sunshinesong
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.mika.pineappletools.png&s=180x180&f=webp
-
-Package: com.sunshinesong.split-view-pro
-Architecture: iphoneos-arm
-Version: 1.3.7
-Section: Tweaks
-Maintainer: sunshinesong
-Installed-Size: 5624
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debians/Rootful/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm.deb
-Size: 1512016
-MD5sum: 08b2c3f07ab5cb2b4a50ec86554c0bec
-SHA1: c72a436b1bfbad9b3b776e40768eb62b2a0903cd
-SHA256: bf1aa489abd6f38fc1c990d005a8db3c192016c350779d834d1b3b5d8d2ced64
-SHA512: 5ccc6cb35c562ec9904a898fe5a3d02efd8c538683d24406abe9ce175c63e67c295ea70a283742a3d5cccb9b04d8b635f32270f513645e0301b228d6a5cafdca
-Description: Great Multi-tasking .
-Name: Split View Pro
-Author: sunshinesong
-TS: sp-sss
-Icon: Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.archer.png&s=180x180&f=webp
 
 Package: com.swing.padswitcher
 Architecture: iphoneos-arm
@@ -8937,6 +8938,44 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.Axs.split-view-pro-helper
+Architecture: iphoneos-arm64
+Version: 999.1
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debians/Rootless/com.Axs.split-view-pro-helper_999.1_iphoneos-arm64.deb
+Size: 1388
+MD5sum: d861ef6c96309f3d8efadc5c999aa683
+SHA1: 3d7e4890d28aa5640ef0bcd93a187495e5849a6d
+SHA256: c9739d478a7ffb0a9e15aa907accceb5938e7b30b39f8a339ec651b094f06470
+SHA512: 9a88cce40077c2c9f0bd7348ea2068700f2fe9d6dd7206b786b0aac93b7e960c4b54d40525116631c874aacbeacd124c67d03904fb3f2fad62c338ac223627be
+Description: SVP Helper
+Name: SVP Helper
+Author: sunshinesong
+TS: sp-sss
+Icon: https://axs66.github.io/repo/icon/svp.png
+
+Package: com.Axs.split-view-pro
+Architecture: iphoneos-arm64
+Version: 1.3.7
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.Axs.split-view-pro_1.3.7_iphoneos-arm64.deb
+Size: 1535388
+MD5sum: 4a1ab59512ee74c76ca2440223b21020
+SHA1: 6ae90782925f251d73905a21eb1e1bc5c85d8c5f
+SHA256: 6baa1a6735c5f6fd3408420445e45f790c690d450f872c07bdfc13d6f1c96edc
+SHA512: 2dbdb2c0afd82e3b0540db1d2467af72fe241a1cd0afe7003a6a869599c9232d0313099342216bdd196d9a5d919b993406c860b233d1c2320d392dc2bd7ab5ab
+Description: Great Multi-Tasking .
+Name: Split View Pro
+Author: sunshinesong
+TS: sp-sss
+Icon: https://axs66.github.io/repo/icon/svp.png
+
 Package: com.anthopak.addtofolder-rootless
 Architecture: iphoneos-arm64
 Version: 1.4
@@ -12736,43 +12775,6 @@ Description: Customize CC on iOS15 & 16 with  animated icons and more
 Name: PlampyCC
 Author: sugiuta
 Icon: file:///var/jb/Library/PreferenceBundles/PlampyCC.bundle/icon@2x.png
-
-Package: com.sunshinesong.split-view-pro-helper
-Architecture: iphoneos-arm64
-Version: 999.1
-Section: Tweaks
-Maintainer: sunshinesong
-Installed-Size: 13792
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: ./debians/Rootless/com.sunshinesong.split-view-pro-helper_999.1_iphoneos-arm64.deb
-Size: 1444
-MD5sum: 7331749cd51bec5f82633c165c61df23
-SHA1: 86f8fdc8286222a799e01d14d95601768d0a884b
-SHA256: 9472b7b3b818104a7e309d63e755fdfd9f5dedd95d24224d6f14bfad5ed3730b
-SHA512: 260af0dcd588a2bcc87a3fdcbdccf725176be24fd973f2543efcbec77d9c868c2a69056a136a57520741857f6b39611074dc8ea3dc7f4c1be4172c9a54e00d63
-Description: SVP Helper .
-Name: SVP Helper
-Author: sunshinesong
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.mika.pineappletools.png&s=180x180&f=webp
-
-Package: com.sunshinesong.split-view-pro
-Architecture: iphoneos-arm64
-Version: 1.3.7
-Section: Tweaks
-Maintainer: sunshinesong
-Installed-Size: 5624
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debians/Rootless/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
-Size: 1538224
-MD5sum: 5eb4524e40a5040befa987b17a1a31f6
-SHA1: 7560f72b227062d469d3d607bfc2122a97a51a8b
-SHA256: 69d8856bc11c79bfb265e9fecaae537bbdf7bc2232498f81a0446c9321e0a6fe
-SHA512: 20969db5ef41daf0a499b4de5520743f0ee56f5aefa975bb4dcd15d58531d0b38b87508e22f9155862971a2eff7bfcab4cdd42f2efef98d710b3ed9f9b526801
-Description: Great Multi-tasking .
-Name: Split View Pro
-Author: sunshinesong
-TS: sp-sss
-Icon: Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.archer.png&s=180x180&f=webp
 
 Package: com.swing.appstorenoads
 Architecture: iphoneos-arm64
