@@ -6460,6 +6460,25 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nightwind.lockbuttonx
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 164
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/Roothide/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm64e.deb
+Size: 23304
+MD5sum: 56a0bc34756459e3ea5ba1238b5f8d9d
+SHA1: 1fc26a44dc3578b77d41fbf7f844584208c55d73
+SHA256: 85f11d86d3e04c526590397856867f957c7d055420702b3cc273572bdaf79977
+SHA512: 683605505eab36df217c3a0f80d31adc1d490dbcb4a5fa6c7a8adbdc79647dd7fe3fcf987a7c2f6de7177353c2da5358094e0656a354e0224ce9b4efb0684433
+Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
+Name: LockButtonX
+Author: Nightwind
+Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
+
 Package: com.noisyflake.betteralarm
 Architecture: iphoneos-arm64e
 Version: 1.4.1
@@ -8714,6 +8733,28 @@ Depiction: https://chariz.com/get/alderis
 Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
 Support: https://hashbang.productions/support/
 dev: hbang
+
+Package: ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: ./debians/Roothide/ws.hbang.common_2.0_iphoneos-arm64e.deb
+Size: 276480
+MD5sum: 25ab4785e6920a0aa6e47ec3947c12c5
+SHA1: ad39b94fcd45160df54706b4006d1484ebf9ca0a
+SHA256: b3a63488289f8205997ab018aa41b90d7e6d600d11a96a8ad98a8038e6d32f8c
+SHA512: 82d0cccb31c5fb8b15bdfdc36096eab7ed41db7eb42bce5a34a324c1b3509ea96febe7ff5e9b508a33ba340a280a8c3ac0a06d8edcd4aca89baefd42aad715fa
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
 
 Package: ws.hbang.newterm3
 Architecture: iphoneos-arm64e
