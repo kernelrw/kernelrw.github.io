@@ -4702,6 +4702,24 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.brandonplank.haptic17
+Architecture: iphoneos-arm64e
+Version: 0.8
+Section: Tweaks
+Maintainer: Brandon Plank
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Roothide/com.brandonplank.haptic17_0.8_iphoneos-arm64e.deb
+Size: 17434
+MD5sum: 61b5e621175fa5630e96089475311080
+SHA1: ea95bf27f13d9ab072799cac0be2b1ef4acf7d33
+SHA256: cb7dfebe6e3dd44ed00c2e03c2acd5e08fadb000aa33331a1822cf0e5415fd23
+SHA512: cc790b64aa6d7135688ad64f273b232ab189ace50f8b5fccfa76f9254316b66afef23f6971b3dee9d27cc2235bf315e9e1600cd52e4cdc8d3a63bef255af1ba8
+Description: Puts haptics in places apple should have!
+Name: Haptic17
+Author: Brandon Plank
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
+
 Package: com.brend0n.nopastedfrom
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -4983,6 +5001,25 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 
+Package: com.den.locktouchx
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.den.locktouchx_1.4_iphoneos-arm64e.deb
+Size: 30262
+MD5sum: 03eee4abe252bbee7f1d2a697a8a3d9c
+SHA1: 6c0cbefa605cbfd5987a6bc66198a244665f9138
+SHA256: 5885c2d3b25b58297c40e0e01c56e5d037eaa8b2edc041a211a9a0eca2d32181
+SHA512: eac1e040411aad9130051993ddda564b78216d36bc23041203d4aa5bc05fcc4600f642f902511f0f0a663bba7366ad07c19627c6766dd53150809d70cac757ad
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
+Name: LockTouchX
+Author: MrDeNsor
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.w00tylab.virtualhome8.png&s=180x180&f=webp
+
 Package: com.den.shortcutx
 Architecture: iphoneos-arm64e
 Version: 0.0.1-1
@@ -5161,6 +5198,25 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
+Package: com.gilshahar7.pearlretry
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: gilshahar7
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm64e.deb
+Size: 26344
+MD5sum: c0d7a7829867f812b86e54b5ea15e8a7
+SHA1: 79100c3e765e0ae07b00437f900a66e4ed64d002
+SHA256: 594e203dab8b586904d1ee8656c30df986e01ac90866b904ac279b2c4e0f256b
+SHA512: 7993c492818646c25ca0c316f2f2aa6803e3d3ac49b9fd991b8f557a2212fed0992e07f0b253e1f3139ea05c212c2bf534f962ba83f02abf5c3e18351f836460
+Description: Retry FaceID when failed to recognize.
+Name: PearlRetry
+Author: gilshahar7
+Icon: file:///var/jb/Library/PreferenceBundles/PearlRetryPrefs.bundle/icon@3x.png
+
 Package: com.ginsu.comet
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -5177,6 +5233,24 @@ SHA512: a75ecfe21f6bb5ef0839234742eb9abea3f0a43604f6ee73dd120b3264d95eeaeb68214d
 Description: A SwiftUI Prefs Framework
 Name: Comet
 Author: Ginsu
+
+Package: com.hitori.pressspring
+Architecture: iphoneos-arm64e
+Version: 4.0
+Section: Tweaks
+Maintainer: Hitori
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.hitori.pressspring_4.0_iphoneos-arm64e.deb
+Size: 4442
+MD5sum: 681b96b4940e33ebf60bb50862c08abc
+SHA1: c02266d1f003c08fad6a0b656f9663f1788cf79e
+SHA256: 4413c70ea54580e47508f70e199a4dc7798dd3fcf7d97243b1562664b53e0a91
+SHA512: b9afc47508fa32f4f387b258b35d82beb6ddf36b7d155c2222b4f170b935d921a9f76b34cf6f0063f2ca836e145401d37879619b3d30bb6917aa00e1e83bf929
+Description: Respring with hardware buttons.
+Name: Press Spring
+Author: Hitori
 
 Package: com.hoangdus.speedster
 Architecture: iphoneos-arm64e
@@ -5422,6 +5496,24 @@ Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
 Icon: https://raw.githubusercontent.com/ichitaso/file/main/images/YoutubePatcher.png
+
+Package: com.icraze.swipeselection
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.icraze.swipeselection_2.0_iphoneos-arm64e.deb
+Size: 18750
+MD5sum: 78dee06d390ddf1e09eea8993abd5f32
+SHA1: ce1b9dff9a25351ccf892ea6751213b087dd46d3
+SHA256: 29c3ba8cd7d593e29b21368c903f212b1e1f1a49f993b361b9a7a7699fbc6325
+SHA512: 89e28e075ae8190cb6f481724b547bd51ee71aeba0cc6361e9c027e7b771902e4f97c47e8932a6406e257ef717542bed53d79a84b7e28f1e9af3ce682cf2b68b
+Description: Swipe along the keyboard to move the cursor and select text.
+Name: SwipeSelection
+Author: Kyle Howells
 
 Package: com.icraze.tempdrop
 Architecture: iphoneos-arm64e
@@ -6347,20 +6439,41 @@ Description: Replace the text in breadcrumbs with the app icon!
 Name: Croutons
 Author: burrit0z & Nezuko
 
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Roothide/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm64e.deb
+Size: 672634
+MD5sum: 707832e0933eaf242aa0e00d59317394
+SHA1: ce04ac20f35b3f6e4150f8869e820508eaf415aa
+SHA256: 05e0734f1920b24fc1a3f45ea2f4a4eda613efe7c6715a82fc882567e71d1972
+SHA512: 2e692fd54f88e5804c7e82b6c835165e8bd4a88a3cabec190503bef432cdfd05977d1253513de96a731fe60c3d9277c948aeb4507875a79121444a9e9d15d090
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
 Package: com.noisyflake.betteralarm
 Architecture: iphoneos-arm64e
 Version: 1.4.1
 Section: Tweaks
 Maintainer: NoisyFlake <support@noisyflake.com>
 Installed-Size: 748
-Pre-Depends: rootless-compat (>= 0.9)
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Filename: ./debians/Roothide/com.noisyflake.betteralarm_1.4.1_iphoneos-arm64e.deb
-Size: 298520
-MD5sum: e9af8559a0ea2ca61671fb0a29ce6116
-SHA1: 0c782c980ddfdf66dcc7137b64b413563226793a
-SHA256: 53f2698ab44130805f7ff72784fbe0a04d51c65a9237182083ab58abc757ae13
-SHA512: e94429d6451c0734b813555bc3efa298c6f9a38bcaa643774f284e98cf1022aa1eca0a6db79422b449a402c2166d13d5470c9b3b0dc23b9dcb128672bbe33803
+Size: 314870
+MD5sum: 5d68c523db080e8d4958861e8005065e
+SHA1: 4e5842803ae47d19906d382aebf26af394249155
+SHA256: 07d508b7ee6760203094d9735cbdd089f0d1b58aae293ab3c2e441fcf58547cd
+SHA512: cc7e4fa2f7083b93d6fb4c62ae5e8b139a319d8773cdb78fa49c2c34582109a6acd3bc64b4b2a3e50d72d0edfe9d0b35cdf440a06f11443005d4ddf5c4d5af58
 Description: A beautiful timer and alarm screen
 Tag: cydia::commercial, compatible_min::ios14.0
 Author: NoisyFlake <support@noisyflake.com>
@@ -6584,6 +6697,27 @@ Name: AppLock
 Author: P2Kdev
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
 
+Package: com.p2kdev.colorcodedlogs
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debians/Roothide/com.p2kdev.colorcodedlogs_1.0_iphoneos-arm64e.deb
+Size: 6662
+MD5sum: 2cfde4907c340ee1609895eb44490c01
+SHA1: 216506fdbdd60496a56550d15b338a6cbfad60fa
+SHA256: 2ec409037e8b6aa2c324643f2e673772d3368dd001a3d90c8fc11b892cad8959
+SHA512: 3ed1181793617e2f275eca9c3c2b60f585f8de6ee1adb5404d747ce911ab142984e01c18e7005ddd932ebc7777ff132e3c8ea383ac89ed7363cd719da2af216c
+Description: Color-coded recent MobilePhone app logs!
+Name: ColorCodedLogs
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorcodedlogs
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorcodedlogs/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorcodedlogs.json
+
 Package: com.p2kdev.facebooknoads
 Architecture: iphoneos-arm64e
 Version: 1.3
@@ -6668,6 +6802,27 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nowplayingvolumecontrol/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nowplayingvolumecontrol.json
 
+Package: com.p2kdev.quitall
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 440
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.p2kdev.quitall_1.3_iphoneos-arm64e.deb
+Size: 38958
+MD5sum: 8272e843610267b7b36d5b7a531393d2
+SHA1: 55880820579b3758f395bee7890f54de37d335a3
+SHA256: b79557bc1462c4b059b355e75c59b89e36ff3660857e1d5d99e231102f45e623
+SHA512: 1309db616a3d93ca00c8bf97a24718491950f7918038983f35b04b6e43dd3435685b0cfdd48326b7ac7e7eedc36f78b0bf50adb86fa024496d48a70bd271f278
+Description: Swipe down on app switcher card to kill all apps!
+Name: QuitAll
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quitall
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quitall/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
+
 Package: com.p2kdev.switchconfirm
 Architecture: iphoneos-arm64e
 Version: 1.1.3
@@ -6689,6 +6844,27 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.switchconfirm/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.switchconfirm.json
 
+Package: com.p2kdev.tapticboard
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debians/Roothide/com.p2kdev.tapticboard_1.2_iphoneos-arm64e.deb
+Size: 27478
+MD5sum: f09ce6467874009678d526acfd0ec187
+SHA1: ad60cea6bad6b82c0a3e58c477cb8deb24a488ef
+SHA256: e69900c75f4faa20570a11936f8c8c33fe359863b3b98a0c773acc894c91aa59
+SHA512: 30fb3143c8f7498ec7795ff5aa2b3ce812a9ef9fdde4fc604a42d5507a9228ffe3401fc3fef744cac890cf81968ea1cba80ef103d9e77d4b1dfe556902612888
+Description: Taptic keyboard without any lag!
+Name: TapticBoard
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
+
 Package: com.p2kdev.twitternoads
 Architecture: iphoneos-arm64e
 Version: 1.2.4
@@ -6703,6 +6879,27 @@ MD5sum: 64dbc319bca3c3acd151463e0f74c5c0
 SHA1: 0e5d49f6c3ca014f875216ad3261d6847b89aa73
 SHA256: 607fc408730bcb2e2f3fe11d4e855bf52a9ea6ae94961d431e12a6d69cb620ce
 SHA512: ea083715a46b3fdc5cfe9be1d5fb77f8129ff5937c66f829afbb56ef9f8a4f2abb18faf100d5c69684e958cc8937f1b3ed96e8ba262236f423c8887fe2e4d4cf
+Description: No Ads in the Twitter App!
+Name: TwitterNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
+Package: com.p2kdev.twitternoads
+Architecture: iphoneos-arm64e
+Version: 1.2.5
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.p2kdev.twitternoads_1.2.5_iphoneos-arm64e.deb
+Size: 9936
+MD5sum: ba81bf7dda4bceebf9eb73ba38f373e4
+SHA1: 8c11bd5630d5598499e4a3c5a14a4f136dfd6b3c
+SHA256: c6f039ce44741b113f1e2a76cf4e9de406728062551d9ed23c5583519106e6be
+SHA512: cba453a96b3d0fe30fbf57dbefe243dca6fa030420b76abb7729c22e4a98749bd0d47a1cc8ed7a33d520adc4e6a3798d0448ce5739fdc2d3a095f0e76b7b9771
 Description: No Ads in the Twitter App!
 Name: TwitterNoAds
 Author: P2KDev <p2kdev@gmail.com>
@@ -6961,6 +7158,29 @@ Description: RootHide Dynamic Patches Loader
 Tag: role::developer
 Name: PatchLoader
 Author: roothide
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Roothide/com.rpetrich.powercuff_0.1_iphoneos-arm64e.deb
+Size: 17090
+MD5sum: b7a73d36c834f75426961f9efa37c4cf
+SHA1: d4c7a1735d24ed938582f101eb6781235d099a25
+SHA256: ada26db15032535adfe44beacc316a36a9789050830780122b4322974fe00a5f
+SHA512: 1c253f45bad245f148f84c671e2048be1d69a1dcc821bfd579bbb4f2541efc24ff5d5dab54bb317d182ce2590a7cb9b9353f577fee24b5834b29ffca09f1fe31
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64e
@@ -7517,6 +7737,25 @@ Author: tesla_man <computerman939+POBsupport@gmail.com>
 Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
+
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 4.0.1-4~roothide
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 23200
+Pre-Depends: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debians/Roothide/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64e.deb
+Size: 17132786
+MD5sum: 206b9179174252fc2a5dcdd73d1cd7f7
+SHA1: 6bcba31236f49b3f11804671ab12e83ddb68f9c8
+SHA256: 8df6e18ee9a1214b7ebe7a0b5a5a043c3cd29764afcc835705db5e21e8415bb3
+SHA512: f542b786e7b8e6ab16d5a3cea0a5c1a643ae945de7e091603db0dfdaeed323314e04703c3847c465f54da6e4038383a897581cc44e77d764721dd59e6225bf80
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
 
 Package: com.tomaszpoliszuk.applibrarydisabler
 Architecture: iphoneos-arm64e
