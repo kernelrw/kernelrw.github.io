@@ -4647,6 +4647,26 @@ dev: delewhopper
 Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
 
+Package: com.apextweaks.veza
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: ApexTweaks <support@apextweaks.com>
+Installed-Size: 5036
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, xinamine (>=1.0.6)
+Filename: ./debians/Roothide/com.apextweaks.veza_1.2.0_iphoneos-arm64e.deb
+Size: 6613250
+MD5sum: a0d03fb0dd892d92590a671952837269
+SHA1: 2ef46d639c25473af5071821adca86ee8bdc5a46
+SHA256: a5acff1ad611d31c6dc68187056782a257fcf879b8e32bda760336f93ed2131d
+SHA512: 35ca34ef39fab1829a3236c1f02e20311fa515ebaf9d66bd830c37010e39993597760c257fbfb16449c6fbfe1a9d3637f67c556cf221785e13ac385324fffcb2
+Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
+Tag: compatible_min::ios11.0
+Name: Veza
+Author: ApexTweaks <support@apextweaks.com>
+Icon: file:///var/jb/Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
+
 Package: com.atwiiks.betterccxi
 Architecture: iphoneos-arm64e
 Version: 1.6.0
@@ -6979,6 +6999,27 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quitall/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
 
+Package: com.p2kdev.swipetoreply
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 192
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.p2kdev.swipetoreply_1.1_iphoneos-arm64e.deb
+Size: 18352
+MD5sum: 99e2a95df77790b69de1b05969e3bdd4
+SHA1: 6807761a204494e7d7220ec3d2185c506f4f7964
+SHA256: 8d53a75a3460e53a4c914af3a445b2c7a014ac94f23d7a3c0ce6b05f5c15a6d8
+SHA512: 2288d890af441e996af2129c35c7ddf210dc5367ad9f166d21d3e99c6f90895ace0eed22b48550a5fe8e148ac8d73272bcffbfd5d54bbfc1005c6c1f6727301e
+Description: Swipe to reply in Messages!
+Name: SwipeToReply
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.swipetoreply
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.swipetoreply/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.swipetoreply.json
+
 Package: com.p2kdev.switchconfirm
 Architecture: iphoneos-arm64e
 Version: 1.1.3
@@ -8959,6 +9000,27 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Depiction: https://chariz.com/get/newterm-beta
 Support: https://hashbang.productions/support/
+
+Package: xinamine
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: System
+Maintainer: SingleKeycap
+Provides: emt.paisseon.xinamine (= 1.0.6)
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: emt.paisseon.xinamine, xyz.cypwn.xinam1ne
+Replaces: emt.paisseon.xinamine, xyz.cypwn.xinam1ne
+Filename: ./debians/Roothide/xinamine_1.0.6_iphoneos-arm64e.deb
+Size: 1356
+MD5sum: dd637618a857e0cb0dd8b69b4afc401d
+SHA1: ad7f0098bdccbfdce4d33b91d66aa957ad26c54d
+SHA256: f5ae715668431de49b0f44178568fd918b2f4d7bf3e05c23e181eafad053ae90
+SHA512: ad64bd58571026a194cde9dd9d043e3978add536b487632a14ad9a42c40c26324f39c404db937f6700b43e712388c73122292fa133d6797fa57e30105585232c
+Description: Dummy package for Xinam1ne. Allows Xinamine patched tweaks to install.
+Name: Xinamine
+Author: SingleKeycap
+SileoDepiction: https://repo.keycap.one/depictions/xinamine.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://repo.keycap.one/depictions/Xinamine.json&name=Xinamine&dev=SingleKeycap
 
 Package: xyz.cypwn.speedtestvpn
 Architecture: iphoneos-arm64e
