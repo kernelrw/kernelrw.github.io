@@ -2078,6 +2078,27 @@ Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
 
+Package: com.macthemes.axolotl
+Architecture: iphoneos-arm
+Version: 2503.02
+Section: Tweaks
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 597
+Depends: ws.hbang.common
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: ./debians/Rootful/com.macthemes.axolotl_2503.02_iphoneos-arm.deb
+Size: 229902
+MD5sum: d91b29691401a8b3d4b902acfade84bf
+SHA1: 990b735f853b5742c10861cfc635cb1b43b2c755
+SHA256: d42e561e72236a6bebf908998a27d55eef986d538bd9b3da9d3a6ad08a361b29
+SHA512: 1de51ce4139253d5aa09d8870b77303f11a635ddcb3b14111f2abdc97b5c38bedaa25fed1094deb22920e7151d589f4a755bb06cd806075987f1857552551960
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: Axolotl for WhatsApp
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
+
 Package: com.megadev.sentinel
 Architecture: iphoneos-arm
 Version: 1.3.1
@@ -2860,6 +2881,23 @@ SHA512: c5d5d61b09a27e7d172f85c193dd355af0e35d9e7136b6622f839df57fe00cfbd295077b
 Description: A great tweak to make jailbreak backups .
 Name: TweakTool
 Author: Prophecy Kitten
+
+Package: com.ps.cyarchfix
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0)
+Filename: ./debians/Rootful/com.ps.cyarchfix_v1.1.0_iphoneos-arm.deb
+Size: 3508
+MD5sum: b135bda3304dc280ade2cf517848ad01
+SHA1: aefb2cc52d6146a4df91c2feac126a592898878f
+SHA256: ba5974d93c2c03affa981a699918855db2945c48b53680b3b2bd1c851bc9fd73
+SHA512: d9e7654b4e1f99d38d5781762023006991eba2288602bda29feaa41574c6bd7820d2f2bf2027694d0d76d173e3c763ebd80e4783aa10b17e1002fc01a6fb05e5
+Description: Hide *-arm64(e) packages from Cydia.
+Name: cyarchfix
+Author: PoomSmart
 
 Package: com.ps.ytx
 Architecture: iphoneos-arm
