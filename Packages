@@ -3368,6 +3368,25 @@ Name: Debra
 Author: Sudo
 Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
 
+Package: com.sugiuta.lpmnotification
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.sugiuta.lpmnotification_1.0.0_iphoneos-arm.deb
+Size: 7574
+MD5sum: dde4c99804ec804f940d3b03861a26c0
+SHA1: cd390926d5389de0cba6f68bf2d99580cd7a53ca
+SHA256: a83a0d011ad9e103cc83b5d5e75f62840f763e191c4189c8787353b291bcf697
+SHA512: 9a3f32e9793f6f83efd9582d98685d602c958c4c1b2f9199456d685940ea987f113b4777d994effb7384e75f6bf1c8a7a6a8aa00d133f6fef17ffcf61d2b4673
+Description: Remove LowPower Alert for iOS16.
+Name: LPMNotification
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.lpmnotification
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/icons/LPMNotification.png
+
 Package: com.swing.padswitcher
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -8042,6 +8061,26 @@ Name: ExactTime(English Version)
 Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
+
+Package: com.sugiuta.lpmnotification
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.sugiuta.lpmnotification_1.0.0_iphoneos-arm64e.deb
+Size: 10100
+MD5sum: 1a8c9e9cabe8dc72643119e99b0c3401
+SHA1: c09e2d2d592bb349e4b1b1ee013307558fc6cc50
+SHA256: c347a841d22cb23960dffb3582a61f997ebd1c1a31cbba4e3dec29762edaba33
+SHA512: 3f391d52dc8d13f70c09ba756eea25ed3f02049ccdb7ba8711e7d6479152f5d5d7f75c46be1cc0c1f9f22b814f3c174ed579f2b1386b99be478fa7a773afd503
+Description: Remove LowPower Alert for iOS16.
+Name: LPMNotification
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.lpmnotification
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/icons/LPMNotification.png
 
 Package: com.telegram.return
 Architecture: iphoneos-arm64e
