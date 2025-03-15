@@ -1877,6 +1877,21 @@ Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
 
+Package: com.ivintagelover.locktimex
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: iVintageLover
+Filename: ./debians/Rootful/com.ivintagelover.locktimex_1.0_iphoneos-arm.deb
+Size: 1469352
+MD5sum: 2d64ff6907ffff4b0260189b92b4cf59
+SHA1: 013d6f06164925149dd7f77dfc4d6966f43533d2
+SHA256: 02cbb12598d8f11f32cf35499c301fa613e5885667098b094e60e66219fd8e49
+SHA512: 89306b41594f3cc29ffba53410fc4d402deffb5a4bc11a43cbe72481d4e34bc985faa7fc51369269180de97f0f4d741e30165d86f04914b7d98a752c68210c70
+Description: Bring iOS 16+ Lock Screen clock, with full support for both Light and Dark mode clocks to match your wallpaper. Available styles: Rail, Stencil, Black, Rounded. Supports iPhone, iPad and iPod touch running iOS 9.0 or later. Apply using Xen HTML.
+Name: LockTimeX
+Author: iVintageLover
+
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
