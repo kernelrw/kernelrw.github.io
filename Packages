@@ -4732,6 +4732,28 @@ ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofo
 Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
+Package: com.anthopak.pancake-rootless
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debians/Roothide/com.anthopak.pancake-rootless_2.3_iphoneos-arm64e.deb
+Size: 126602
+MD5sum: f1226e5af19e80e17f0542f5b08fb91c
+SHA1: 27585d42fd074717b2f22e06b4323d4a4ff1e38c
+SHA256: 44b1117d11a04e307168669f18876b970e036397d29df1ae38023f7a43b7aef5
+SHA512: bca7b2f6471cd7c4046d4e4e682c6b02e7be13881974bb7bdf3156aff93f650bd65c8fda438b96d026579da3984d8fac374708ae0e69d49bd54209c80bd5662c
+Homepage: https://repo.anthopak.dev
+Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page
+Name: PanCake (Rootless)
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
 Package: com.anubistweaks.keyswipe11
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -9718,6 +9740,27 @@ Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-root
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
 Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
+Package: com.anthopak.pancake-rootless
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debians/Rootless/com.anthopak.pancake-rootless_2.3_iphoneos-arm64.deb
+Size: 139378
+MD5sum: 7f4aeb3ffdc84893945a14df6b9c99e9
+SHA1: 3d5ba26615ac29d8b288997cbe9ea79248b2e456
+SHA256: 612855d062452167cce3c39c38161ab2b0339c3ecdb685d2e54a6bd4083bacdd
+SHA512: 0c27702c6cf68940038402e692ac74712bb5b4760ffc9c1d5d92e4211fa6cf26243f20563aea9e848ead862f605bda8688c897b0e2248ad2baa522e6d3fb5cbc
+Homepage: https://repo.anthopak.dev
+Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page
+Name: PanCake (Rootless)
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake-rootless/icon.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
 Package: com.apextweaks.veza
