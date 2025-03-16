@@ -8788,15 +8788,14 @@ Maintainer: Elias Limneos
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 4.0)
 Filename: ./debians/Roothide/net.limneos.randomiconsflip_0.3-21_iphoneos-arm64e.deb
-Size: 12976
-MD5sum: dac5c39da33518b4b186b5d28415496e
-SHA1: e58b9b3ea1ae114c442abe268376826f8286c9d3
-SHA256: 4c0836120edec902793c4788a382cb086a4b974d6f1220c96ca704192fc4ac81
-SHA512: 7715a6c3eff47959af76dad9f39847df2e743ef4321689ed4f67f27c5517583c56620d5446d58fc814ae66b6eb7cf6be53db041255240debb09a8a0300a1f1d2
+Size: 12964
+MD5sum: 63bd0a5c40728b4673c3dbec3d431400
+SHA1: 6551205f84ab0c61054127b85ce61e8dfa24374a
+SHA256: 437ec65df8118442b7823e8036aad7bec5b88e88f112ed3d87b2322b6931e5a5
+SHA512: 76b158f6e779f7d6924feb83eb793168c9e0fed015551c7113a4acca3bb25f6aff230f908c17f232ad2d004592641b71e632858105bfa143d87379495365f6a7
 Description: Randomly Flipping Your HomeScreen Icons . Supports iOS4+ .
 Name: Random Icon Flip
 Author: Elias Limneos
-Icon: https://chinesebuilding.club/pic/cydia.png
 
 Package: net.p0358.allemande
 Architecture: iphoneos-arm64e
@@ -14505,15 +14504,14 @@ Section: Tweaks
 Maintainer: Elias Limneos
 Depends: mobilesubstrate, firmware (>= 4.0)
 Filename: ./debians/Rootless/net.limneos.randomiconsflip_0.3-21_iphoneos-arm64.deb
-Size: 12044
-MD5sum: 8bb08436914626d547a6a4f036abb3f4
-SHA1: b13bcd682386b51ac62ee015a1473aa68e121ec2
-SHA256: bb315335a53721e58f7de8e41b18255fffb0cdd9ae223d5a6f3aaa757fa1c027
-SHA512: 39725956bd7f33845fc62a69b9b3a578308cc2d8c8681bcc1cd72c24b31b4c006677dfb53c5dd559b5c3b4d4d7015e47e4ce3020f26ba73b46b484c1f686c952
+Size: 12000
+MD5sum: 5414a1f3121cc075eedf9313ac6f0d8c
+SHA1: 884419bb949a74f87baff7b653d1df186699e657
+SHA256: 8f0383b00cd9fc87660dd06b291e46963af1262af682de4db21fa88e4c94d99b
+SHA512: 9fb1f2ca1eaeef216dca9d51645833b4da378d0161ae623127e83f420bcd708de96ed48748f64bb11c567c3c0a595ed90351dfc8706ab558dd8a597230fe15c4
 Description: Randomly Flipping Your HomeScreen Icons . Supports iOS4+ .
 Name: Random Icon Flip
 Author: Elias Limneos
-Icon: https://chinesebuilding.club/pic/cydia.png
 
 Package: net.limneos.voicechangerx-rootless
 Architecture: iphoneos-arm64
