@@ -6277,11 +6277,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 12212
 Depends: mobilesubstrate, firmware (>= 5.0)
 Filename: ./debians/Roothide/com.lema.wolf_2.1_iphoneos-arm64e.deb
-Size: 2789220
-MD5sum: 43122e62440b4eedf3d780b03d461fe4
-SHA1: e2dab38f5f995263ab3d78db82910e0fbb4b72c1
-SHA256: 3e1802ca4c51d0415bb96e86f067b39545c665e4bb1dfa6d2ae67267cdf4797a
-SHA512: 90c9871b6a3b769d4e4e85835e84765449dd7f9f244768c647effd453329988035a70b1b8eb584f700a2a5bb70e65233c36979656e868662a593b58b738cd183
+Size: 3853284
+MD5sum: 16a8a78795a02cc4c65b29ad466b051c
+SHA1: 670b4c8b41b985f728be5935294c42877711b143
+SHA256: 851f3d0b5495db91fb497da772201cfdd4548e5fc8c578eff83f183307db9595
+SHA512: 578d6a54886c9af63c9120483ed6bf5a0328b8a2c806697370571ec2c4eb88590d67b924351f6af5ad4910471b951c9d61364ba9812e23ddddc4f9ad17c1b58b
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
 Description: The all-in-one tweak for Facebook
 Tag: purpose::extension
