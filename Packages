@@ -8780,6 +8780,24 @@ Description: Simple library that displays bulletins
 Name: libbulletin
 Author: Elias Limneos
 
+Package: net.limneos.randomiconsflip
+Architecture: iphoneos-arm64e
+Version: 0.3-21
+Section: Tweaks
+Maintainer: Elias Limneos
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 4.0)
+Filename: ./debians/Roothide/net.limneos.randomiconsflip_0.3-21_iphoneos-arm64e.deb
+Size: 12976
+MD5sum: dac5c39da33518b4b186b5d28415496e
+SHA1: e58b9b3ea1ae114c442abe268376826f8286c9d3
+SHA256: 4c0836120edec902793c4788a382cb086a4b974d6f1220c96ca704192fc4ac81
+SHA512: 7715a6c3eff47959af76dad9f39847df2e743ef4321689ed4f67f27c5517583c56620d5446d58fc814ae66b6eb7cf6be53db041255240debb09a8a0300a1f1d2
+Description: Randomly Flipping Your HomeScreen Icons . Supports iOS4+ .
+Name: Random Icon Flip
+Author: Elias Limneos
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: net.p0358.allemande
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -14479,6 +14497,23 @@ Icon: file:///Applcations/NFCWriter.app/icon@2x.png
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.nfcwriterx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 5c9513f65efdf5339b2ba47ef648a46c
+
+Package: net.limneos.randomiconsflip
+Architecture: iphoneos-arm64
+Version: 0.3-21
+Section: Tweaks
+Maintainer: Elias Limneos
+Depends: mobilesubstrate, firmware (>= 4.0)
+Filename: ./debians/Rootless/net.limneos.randomiconsflip_0.3-21_iphoneos-arm64.deb
+Size: 12044
+MD5sum: 8bb08436914626d547a6a4f036abb3f4
+SHA1: b13bcd682386b51ac62ee015a1473aa68e121ec2
+SHA256: bb315335a53721e58f7de8e41b18255fffb0cdd9ae223d5a6f3aaa757fa1c027
+SHA512: 39725956bd7f33845fc62a69b9b3a578308cc2d8c8681bcc1cd72c24b31b4c006677dfb53c5dd559b5c3b4d4d7015e47e4ce3020f26ba73b46b484c1f686c952
+Description: Randomly Flipping Your HomeScreen Icons . Supports iOS4+ .
+Name: Random Icon Flip
+Author: Elias Limneos
+Icon: https://chinesebuilding.club/pic/cydia.png
 
 Package: net.limneos.voicechangerx-rootless
 Architecture: iphoneos-arm64
