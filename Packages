@@ -7982,12 +7982,13 @@ Installed-Size: 364
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debians/Roothide/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64e.deb
-Size: 28492
-MD5sum: c826f7fcdaa7add5a5a433ae65a9ab91
-SHA1: be6beb9bfe3b0a22be0006fc6814ef61ee7e082b
-SHA256: 661a1378eb3ae1273ffc1318e3e3829a4bac365b5e2d39640e228ef3b02867af
-SHA512: 4beebf4096a4e70239c366babed23c9e3e7b8124150a3d6fa730a8110dd85a74af875524d141a77fe66cf345952ac3f1189da3db7d563863b336049ad222a87e
+Size: 28404
+MD5sum: ae117b7f155515a11ae25a77c20a4856
+SHA1: 29fc29da773a5d38fbcaee42a672142b5cec09da
+SHA256: e3c10e8645575e003183e110ae6e142dd661f5e1f6b982ac5a5c325107653cf9
+SHA512: fa92ed5267b6c768e10b06e9c0fe0ce0833789ff98e1ab9d315cc18f3e4d5f6dc4febd2153c9bb5a3639550270e326ed3c6b6c88b25f081749c9e785370fb7e6
 Author: Spark
+Name: Snowboard Statusbar Extension
 
 Package: com.spark.snowboard.ui
 Architecture: iphoneos-arm64e
