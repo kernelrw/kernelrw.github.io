@@ -8277,6 +8277,27 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.uncore.dig3st
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: uncore
+Installed-Size: 580
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/Roothide/com.uncore.dig3st_1.0.0_iphoneos-arm64e.deb
+Size: 127548
+MD5sum: 01c621e9ea48f8d26a433fd59de2b51a
+SHA1: e87d31e094b51f24635ff8bb3f71fcff691904bb
+SHA256: 98641156ab4b7459f3081bc591bbf5f8634568aa190c4968bd4810237ef5c214
+SHA512: 532923b028518e83c1b0358c73e71a0094585e65a47ce66c69f713c81ddd7cbf0ebf0287692f7e0c7b9fac440c18d07455af0108de17b2afd74ab9ecbefbfe2a
+Description: Free tweak to summarize your notifications using any Openai endpoint, fully customizable.
+Name: dig3st
+Author: uncore
+Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
+SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
+Header: https:/uncore.me/api/media/file/banner.jpg
+
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode
 Architecture: iphoneos-arm64e
 Version: 0.5.1-11
@@ -13787,6 +13808,26 @@ Description: Pasteboard shortcuts on your keyboard dock, Supports iOS14+ ; rootl
 Name: DockX
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+
+Package: com.uncore.dig3st
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: uncore
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/Rootless/com.uncore.dig3st_1.0.0_iphoneos-arm64.deb
+Size: 102948
+MD5sum: a7472927cbe09a34a155c1cc9b9ae4a0
+SHA1: 5812024cad1f279ff9c5cc0f973ca2d15074896b
+SHA256: 127315660ed3ecef601c71b0dd8229addfdad7fa4dbabb46cca2969a33515044
+SHA512: 99a476087121225e6e954783b4fd219cf070526b850c6ec96f9d0d6dd2fc6a85026fa79da49a426558cae504556d9f7dd813813684e5c4f84404f93b56f01c54
+Description: Free tweak to summarize your notifications using any Openai endpoint, fully customizable.
+Name: dig3st
+Author: uncore
+Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
+SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
+Header: https:/uncore.me/api/media/file/banner.jpg
 
 Package: com.yourepo.cydiageek.batteryswipeup
 Architecture: iphoneos-arm64
