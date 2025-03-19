@@ -8295,6 +8295,33 @@ Author: Tomasz Poliszuk
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
 
+Package: com.tomaszpoliszuk.magsafecontroller
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 496
+Provides: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Replaces: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Filename: ./debians/Roothide/com.tomaszpoliszuk.magsafecontroller_1.1.3_iphoneos-arm64e.deb
+Size: 106360
+MD5sum: 7d1c0d3d4c215e33df133130a4418bf8
+SHA1: 893d5f9ce422845e95371da570601567739e04e9
+SHA256: bd7f020d06269de3895f48104c46a6ef2b2d8223f13bbbe77431a6d60a2ff361
+SHA512: b71d34b6a58809b998f1c7bc5e1a8558fdf43a01b0b60da459e56cd116d6e53058ac3c1ad33db3dc20818e99bba05b462552609a6fc136a63ed8cfadaa22cb54
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=magsafecontrollerDp
+Description: Customizable native "MagSafe" charging view
+Tag: purpose::extension
+Name: MagSafe Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=magsafecontrollerDp
+Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/MagSafeControllerSettings.bundle/icons/MagSafeController@3x.png
+
 Package: com.udevs.debhoarder
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -13833,6 +13860,32 @@ SHA512: c8e45cd46632795e2c3c4d7c5fbdeadfb7406ad73b1cad4830969857c1536f1574ed5ee2
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
+
+Package: com.tomaszpoliszuk.magsafecontroller
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 496
+Provides: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Replaces: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Filename: ./debians/Rootless/com.tomaszpoliszuk.magsafecontroller_1.1.3_iphoneos-arm64.deb
+Size: 102934
+MD5sum: f88a4f6402a9af6333f1f361dd576cf9
+SHA1: 5065af0d4ab1edd2f669dfb9903442070ef9bfc9
+SHA256: de9d6cd4e7347eb128484b46c1a364b80104de6d54e900658fae036b160bf7a0
+SHA512: 980fecdd2a0a3709bee2920643cdbcd8fdf3e91ed178a0a78aa635fc082e1119f1d55d9113c719e5adba05568a4e3e79513426fcd47d9fe398bd770d0398afd7
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=magsafecontrollerDp
+Description: Customizable native "MagSafe" charging view
+Tag: purpose::extension
+Name: MagSafe Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=magsafecontrollerDp
+Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/MagSafeControllerSettings.bundle/icons/MagSafeController@3x.png
 
 Package: com.tonykraft.inosleep
 Architecture: iphoneos-arm64
