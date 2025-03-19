@@ -6593,6 +6593,24 @@ Author: zhaonan <invalidunit@icloud.com>
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 
+Package: com.nathan.miniisland
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.miniisland_1.0_iphoneos-arm64e.deb
+Size: 3786
+MD5sum: 930ba6a20f0c59f13b9475f764ab0e02
+SHA1: 8a8a3e0b810a4cbfd42a25fb0c8fcb556599e148
+SHA256: 5e1a4f0b76158e3815abeb616af9220f778a35c980a384bd8bfca57822d2d279
+SHA512: b66ec064f80f7ce238567d560224185fd3e56eed4b50ba5583e41bceed0323ef7530fa275c26ef1d4f533d93c73e2d8516a9fd3d67ca2c83c02dd0738dfd80c7
+Description: A Tweak that makes the island look mini when playing music!
+Name: MiniIsland
+Author: Nathan Senter
+
 Package: com.nathan.respringcc
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -12256,6 +12274,23 @@ SHA512: f2d7d6e75326d6c5dc011a30984bce19ee9c84dccc4e0232afba531805bdf296aeac9efe
 Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Name: DynamicNotLand
 Author: Nathan
+
+Package: com.nathan.miniisland
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.miniisland_1.0_iphoneos-arm64.deb
+Size: 2628
+MD5sum: 3b75c43500ab0bd3c4b1ec919a899418
+SHA1: ebc360757e7ae013635753a438ba42547888bf7d
+SHA256: e0dbdf16297f558dbee3926b6658de03a49be3d2695d28c4f9f7e6412b3b58e2
+SHA512: e05be6939a0d2a08996f0dda24655cdce6d2145af1cd3e8b0ac9d86fce4037aa064545b0387506365a216e6e49d73c521b34114d9b9ad8ecac797cbf5c977acc
+Description: A Tweak that makes the island look mini when playing music!
+Name: MiniIsland
+Author: Nathan Senter
 
 Package: com.nepeta.axon
 Architecture: iphoneos-arm64
