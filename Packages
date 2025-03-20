@@ -8761,6 +8761,28 @@ Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/rose.html
 SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/rose.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
 
+Package: me.jjolano.alertdismiss
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: jjolano <jjolano@me.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: ./debians/Roothide/me.jjolano.alertdismiss_1.0.4_iphoneos-arm64e.deb
+Size: 17224
+MD5sum: aef7157b4e7c161d1f4ccd972c10bf5a
+SHA1: 64c2285606bea98fdcbf88e276602c317fa641d6
+SHA256: 031a01c65bd1797e540c35adda2e482510bd91a4cd86f631f0bc4d3b77c4498c
+SHA512: 6b6b05dd39c555d3f52ba2a85632ee09e0db02a19cfabb62a3c9d803a67ecdec8c8f677a0e5e3c7127dcc49ee9b18aa1d4e607992a3851789d5aa97aefb9531e
+Homepage: https://shuga.co/
+Description: Add a Force Dismiss button to any UIAlertController.
+Name: AlertDismiss
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.alertdismiss.html
+SileoDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+ModernDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+Icon: https://ios.jjolano.me/assets/me.jjolano.alertdismiss/icon.png
+Author: jjolano <jjolano@me.com>
+
 Package: me.jjolano.fmwk.hookkit
 Architecture: iphoneos-arm64e
 Version: 1.0.15
@@ -14629,6 +14651,27 @@ Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
 Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+
+Package: me.jjolano.alertdismiss
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: ./debians/Rootless/me.jjolano.alertdismiss_1.0.4_iphoneos-arm64.deb
+Size: 14936
+MD5sum: aafdecff1cda78f7877a373dcf4c0e07
+SHA1: 9b4ad7ec99a3b1480af36fc7f4dceb31b5bb1167
+SHA256: 33ef491d32f1f7642b0710aba11db3ad5c11bde9800f92d2ce46a62544b23872
+SHA512: 327ee89f91b163c97770b29c01534fa5668122d460d2f526ca828aa13a44dc061451950a4a652a414751b187ed02d556b6c095e0aba404c66aad7e3e7def7759
+Homepage: https://shuga.co/
+Description: Add a Force Dismiss button to any UIAlertController.
+Name: AlertDismiss
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.alertdismiss.html
+SileoDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+ModernDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+Icon: https://ios.jjolano.me/assets/me.jjolano.alertdismiss/icon.png
+Author: jjolano <jjolano@me.com>
 
 Package: me.krit.lockdown
 Architecture: iphoneos-arm64
