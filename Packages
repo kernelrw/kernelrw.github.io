@@ -8895,6 +8895,26 @@ Description: A modern jailbreak detection bypass.
 Name: Shadow
 Author: jjolano
 
+Package: me.luki.hislerim
+Architecture: iphoneos-arm64e
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/me.luki.hislerim_0.9.0_iphoneos-arm64e.deb
+Size: 5104
+MD5sum: 1d2bb18661d0b4c90cce8b9f6aa38df1
+SHA1: cfdf2b3232a5358d49a0f7007710e4035df3d2a4
+SHA256: 6165441e6f105f492c5d32ce5b875571c34a75ecb0fd38aa767b87b73b0bf324
+SHA512: 03310d585051eab45989bdb4df28afe1c75d77a18fdb5a7a427d8d4b45ebdc510979eec2e068a1993bdd62d8a508d9d6ae111e772b170fef22cb40b3715f8250
+Description: Lock your device by double tapping on HS
+Name: Hislerim
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hislerim
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hislerim/depiction.json
+
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64e
 Version: 1.4.3
@@ -14706,6 +14726,25 @@ SHA512: 266748c980c8b95d83943a1af68e9ceaf29e574206d3e979ab2fd728cf484dced0bc52be
 Description: Easily backup and restore your tweaks
 Name: IAmLazy CLI
 Author: Lightmann
+
+Package: me.luki.hislerim
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/me.luki.hislerim_0.9.0_iphoneos-arm64.deb
+Size: 3656
+MD5sum: c01cdaf67b5cadf37b715f82f7b4aa19
+SHA1: 93919a8af360b10300f1cb81e079b733732cd0df
+SHA256: 60f71856b38f82c4e9b383ba6b3a697059055f70a3be9224a5fdb0982e299033
+SHA512: a96cad91ab3ecda978270f94f37092311cf034a43f4bb779d19caa69e20963a17960374dd1e40cb7d1977d53039599ba881b708c03467fb4f21e4c31c560405f
+Description: Lock your device by double tapping on HS
+Name: Hislerim
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hislerim
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hislerim/depiction.json
 
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64
