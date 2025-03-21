@@ -8786,11 +8786,11 @@ Maintainer: jjolano <jjolano@me.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
 Filename: ./debians/Roothide/me.jjolano.alertdismiss_1.0.4_iphoneos-arm64e.deb
-Size: 17224
-MD5sum: aef7157b4e7c161d1f4ccd972c10bf5a
-SHA1: 64c2285606bea98fdcbf88e276602c317fa641d6
-SHA256: 031a01c65bd1797e540c35adda2e482510bd91a4cd86f631f0bc4d3b77c4498c
-SHA512: 6b6b05dd39c555d3f52ba2a85632ee09e0db02a19cfabb62a3c9d803a67ecdec8c8f677a0e5e3c7127dcc49ee9b18aa1d4e607992a3851789d5aa97aefb9531e
+Size: 18808
+MD5sum: 878a2c2810bf4b78ed9a82205eec58fd
+SHA1: b8b2a8ee2f371a3fdbbf60eba2e3235ec202f881
+SHA256: 6a53fa4557be27744fcc142c026cffc70b9ff9b4ae1e90bb057fc67f66d2be80
+SHA512: 9b31993ffcbf9eefe5a283a7eba9ed445144b87a252a8a2f757ed0a1a88ee333b1e482457e7b19ee709a856ee2c4ca70d5a9be59e9b9af7a957a2377dee3e874
 Homepage: https://shuga.co/
 Description: Add a Force Dismiss button to any UIAlertController.
 Name: AlertDismiss
@@ -14696,11 +14696,11 @@ Section: Tweaks
 Maintainer: jjolano <jjolano@me.com>
 Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
 Filename: ./debians/Rootless/me.jjolano.alertdismiss_1.0.4_iphoneos-arm64.deb
-Size: 14936
-MD5sum: aafdecff1cda78f7877a373dcf4c0e07
-SHA1: 9b4ad7ec99a3b1480af36fc7f4dceb31b5bb1167
-SHA256: 33ef491d32f1f7642b0710aba11db3ad5c11bde9800f92d2ce46a62544b23872
-SHA512: 327ee89f91b163c97770b29c01534fa5668122d460d2f526ca828aa13a44dc061451950a4a652a414751b187ed02d556b6c095e0aba404c66aad7e3e7def7759
+Size: 13564
+MD5sum: f9d997cf3862f64de942411788b2d86b
+SHA1: 77a86cdf58f654834055726f81169a3b0815e3bd
+SHA256: 928cb4586b2a698f9abd438d8476a10da2cc5091d8d84b05cc3221d22b8455c7
+SHA512: 444f207c237c2ce2a4901d071340223bf567a252cabab9549395c70d22b135c61875596ddc306822a0d4863b7dd177027d0bd2b754ec6fb5fbdf6f992b5edb5c
 Homepage: https://shuga.co/
 Description: Add a Force Dismiss button to any UIAlertController.
 Name: AlertDismiss
