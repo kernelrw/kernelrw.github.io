@@ -6531,6 +6531,26 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
+Package: com.misakaproject.frendacc
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 4332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/Roothide/com.misakaproject.frendacc_1.0.1_iphoneos-arm64e.deb
+Size: 2861944
+MD5sum: 0299ff265983a2224607d97a9c43636c
+SHA1: cd33cee4d7a10db7244538dd6b7e201dc9e9f498
+SHA256: 26dbad17ef2d361f25a36dd4e74f146d7b183ce7f0fdddc06ead694b665424b6
+SHA512: 37b99e1634967b948f430ddb9c5df1fd22cfe732b2a67ca2b37c6b5caa6bf2d921fc789fa11b66b87f18d8ef7c19f07fc76674ee2ba4ba5b34641b13b982550c
+Description: FrendaCC is custumize CC on Jailbroken devices for iOS15 & 16.
+Name: FrendaCC
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
+
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64e
 Version: 1.7.0
@@ -12392,6 +12412,25 @@ Name: YellowPages 2
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
+
+Package: com.misakaproject.frendacc
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 4332
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/Rootless/com.misakaproject.frendacc_1.0.1_iphoneos-arm64.deb
+Size: 1403642
+MD5sum: 4a112dcdadf172be51002771c810333a
+SHA1: f9c1f378f28dc86949b6b289d60715d05dca2bfa
+SHA256: af45cafbbaac0faa851db45b94d9120f9a145c166c9da19cd1fc18052b0ce8e5
+SHA512: 6b524539fa7b0b5139e112e46d417d2c46ce7eca9f7e9656383adaa9a525cd983056856ece10ab5bd35809ee2fca693e72633aafba6979317ed7a0c119cc70c0
+Description: FrendaCC is custumize CC on Jailbroken devices for iOS15 & 16.
+Name: FrendaCC
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
 
 Package: com.mystery.sanjeh
 Architecture: iphoneos-arm64
