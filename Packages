@@ -3258,6 +3258,26 @@ Author: shiftcmdk & Fadh1l
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
+Package: com.smokin1337.togglow
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Tweaks
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1172
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debians/Rootful/com.smokin1337.togglow_1.0.8_iphoneos-arm.deb
+Size: 340246
+MD5sum: c90533cae91aaae3ee1b88b60dced107
+SHA1: e75de6ecb2621703428c37833fd7f6fa4c9c4537
+SHA256: d3daedd8a2312ef046192ae01993b3a3b2946e6815e1d2f4307d6fc9e78fa1d0
+SHA512: 46747a470cdb904fde887ac64b0053e2588243f491e80214c8ba0bcc53b60161339b20d09f6d0412093ef5bcb8b18f5dce415c0d80389ca958f137d4a1c68366
+Description: Make the control center your own !
+Name: Togglow
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+SileoDepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/Togglow
+Author: smokin1337 <smokin1337@gmail.com>
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
+
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm
 Version: 0.6.0-1+debug
@@ -7871,6 +7891,26 @@ Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
 Depiction: https://skypain.github.io/repo/static/view/?p=ccvpn
 SileoDepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
+
+Package: com.smokin1337.togglow
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: Tweaks
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1172
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debians/Roothide/com.smokin1337.togglow_1.0.8_iphoneos-arm64e.deb
+Size: 395684
+MD5sum: eafafb51f21f176f1bc6a1b9c28900d6
+SHA1: 9e6c92b8fd1f0128c89be539b62dea49fa269c8c
+SHA256: c8b5ecd38ad1d87c1795d32e591084121bb6a45943b45fb9f4885c025a29a7d0
+SHA512: e036df0412e0d3648b0e5ab085b90f8796e07ad73ffebfcc876f27be691500312879b47474ec4f1c7fc67e67c833dc7e4417f096bd9ebd2e4e7fb62e91912604
+Description: Make the control center your own !
+Name: Togglow
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+SileoDepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/Togglow
+Author: smokin1337 <smokin1337@gmail.com>
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
 
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm64e
@@ -14188,11 +14228,11 @@ Section: Tweaks
 Maintainer: CydiaGeek <lucaluca86@aol.com>
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.yourepo.cydiageek.wanomessageticks_1.0.0_iphoneos-arm64.deb
-Size: 4050
-MD5sum: 07154d20a3952a7400c332d51263bec3
-SHA1: 270e980cebc76bd66ad6a25afc49ff62b2833229
-SHA256: 4b452e32c2fbde2aa69796579ba8cb906c14b2a0d9549425bf4d9ba188cb27de
-SHA512: f7d1db67f31138d7d4a4f4f303fdcc3d0da190b41cd94eac322d79c43ff121036721564d44064bedf3612a07ae31d494dc727e72fe9703538053e2dafc5c79b4
+Size: 4052
+MD5sum: b85ece95464990f59c76cfbaa9225fb8
+SHA1: aa1647d76f8fde47715b4328f6e70d41a376e8f7
+SHA256: 8c6a26018538a2aa5a4ecc1e3ab8a14a7b269355abfb1fddd6f07d492d1e2aa7
+SHA512: f6535c9bcfa2748586e35cbcdde92eb432765c88107371041559467f360e0ea162ea36ac3a79a3c09f40fd6554d5c07438d72ebc17672082cb79bb80f85f887c
 Description: Hide WA Message/Ticks!
 Name: WANoMessageTicks
 Author: CydiaGeek <lucaluca86@aol.com>
