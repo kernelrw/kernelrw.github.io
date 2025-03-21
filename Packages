@@ -4674,6 +4674,24 @@ Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
 
+Package: com.4nni3.coolcc
+Architecture: iphoneos-arm64e
+Version: 1:4.0
+Section: Tweaks
+Maintainer: 4nni3 <4nni3.14@gmail.com>
+Installed-Size: 328
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Filename: ./debians/Roothide/com.4nni3.coolcc_1%3a4.0_iphoneos-arm64e.deb
+Size: 44510
+MD5sum: 140495dc9338fb9eaac2f0f664a6c3f0
+SHA1: bc0e1efd716a29a08c3ccba8c2d606145568ad76
+SHA256: 106b74151fdc32feef61ef3c8becf310345ef15dbd7698b5397eaff09b5bc63b
+SHA512: e757482753ae9d8b3f18fb9a30ae732ed7e1dffc881771d1cb3aa0418910b79a8a29b7411c04dfc18215d613dfb87d26d750f4250c49edc596b420b1d5b93c5a
+Description: Makes ControlCenter cool.
+Name: CoolCC
+Author: 4nni3 <4nni3.14@gmail.com>
+
 Package: com.82flex.iconrestoree
 Architecture: iphoneos-arm64e
 Version: 1.7
@@ -4986,6 +5004,27 @@ dev: CreatureSurvive
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+
+Package: com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 960
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 7.0)
+Filename: ./debians/Roothide/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64e.deb
+Size: 207536
+MD5sum: 0cb07a869525f58eeaa8d346972d27fa
+SHA1: 37b0065c521a22db0fa933f5bac3f834de51a5ff
+SHA256: dfa43c914936f112d5386753d056a303a946e2b559eca685e32689cbd916bfee
+SHA512: 254fc689f62d969c7e9e8dee1084c39c49f3c2bf7f6a2c481dddfe2d72d8e96f11fbdcd5a7312681f00f1e6ba19c26ac14fd3b30993819c6126515dfb973a7e7
+Homepage: https://creaturecoding.com/
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
 
 Package: com.cydiageek.ermete
 Architecture: iphoneos-arm64e
@@ -8469,6 +8508,23 @@ Description: Lock Device by Double Tapping on Home Screen/Lock Screen!
 Name: DoubleTapToLock
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: com.yourepo.cydiageek.wanomessageticks
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.yourepo.cydiageek.wanomessageticks_1.0.0_iphoneos-arm64e.deb
+Size: 5368
+MD5sum: 03de0e25719e18476b7acdc0edc37d11
+SHA1: 6d865fa0ff2a612e44fabe04de08bcc5c2c19b2a
+SHA256: 3536c0706a44ce835be96bddcc7c708a36c10ad0e399578386f8d1adf64be4a4
+SHA512: 587e4180325eef50183ef37eb4b13ef7eb40ea40813e04725d15c585859b62bfda8297d177524d3bb2faf3d8d6aa95450c9f4d1a914d720031fbe75c3e0f86a4
+Description: Hide WA Message/Ticks!
+Name: WANoMessageTicks
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64e
 Version: 1.9.2
@@ -9789,6 +9845,23 @@ Description: Pair your iPhone on any version with your WatchOS .
 Name: watched
 Author: 34306
 
+Package: com.4nni3.coolcc
+Architecture: iphoneos-arm64
+Version: 1:4.0
+Section: Tweaks
+Maintainer: 4nni3 <4nni3.14@gmail.com>
+Installed-Size: 328
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Filename: ./debians/Rootless/com.4nni3.coolcc_1:4.0_iphoneos-arm64.deb
+Size: 43120
+MD5sum: deb4f9082296c889abdfae6190570e96
+SHA1: 4c618650395925ac2fc134d67c22fd50db9a336a
+SHA256: 8e892b3ed893cd307bd91a83370f7139f3d9d2ea72db764d6697b7f6ee1b4c62
+SHA512: 6cc33dc957b8ac3a78d5b140e9b452b329f43b113260cbb2f9f11a93b274826ee6e995bb87ede276142c90c498663f2652a573953012b78b7c8b4458817bd5d6
+Description: Makes ControlCenter cool.
+Name: CoolCC
+Author: 4nni3 <4nni3.14@gmail.com>
+
 Package: com.82flex.iconrestore
 Architecture: iphoneos-arm64
 Version: 1.7
@@ -10205,6 +10278,27 @@ dev: CreatureSurvive
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+
+Package: com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debians/Rootless/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64.deb
+Size: 206352
+MD5sum: bc3b47252a5f1ac8c0cc1e4e28cc4891
+SHA1: de1df8e04e647361adaf8ded1d2061ee8f91dc17
+SHA256: 8bda84f9bee823a35e50baf62d30216a1b954ff2eb1862d933988808592a30f8
+SHA512: ce86d87d18d39ea836578e8f27002e1bc88834c9d0c60db29a2bbb80d0b28156ce1cf005e81f57b2aa683d5f7188b3de814a897def687b87f55f358699427375
+Homepage: https://creaturecoding.com/
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
 
 Package: com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm64
@@ -14086,6 +14180,22 @@ Description: Bye Bye Facebook ADS!
 Name: ByeSponsorFB
 Author: CydiaGeek <lucaluca86@aol.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fcom.jacobcxdev.fbspnosor%2Ficon.png&s=180x180&f=webp
+
+Package: com.yourepo.cydiageek.wanomessageticks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.yourepo.cydiageek.wanomessageticks_1.0.0_iphoneos-arm64.deb
+Size: 4050
+MD5sum: 07154d20a3952a7400c332d51263bec3
+SHA1: 270e980cebc76bd66ad6a25afc49ff62b2833229
+SHA256: 4b452e32c2fbde2aa69796579ba8cb906c14b2a0d9549425bf4d9ba188cb27de
+SHA512: f7d1db67f31138d7d4a4f4f303fdcc3d0da190b41cd94eac322d79c43ff121036721564d44064bedf3612a07ae31d494dc727e72fe9703538053e2dafc5c79b4
+Description: Hide WA Message/Ticks!
+Name: WANoMessageTicks
+Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64
