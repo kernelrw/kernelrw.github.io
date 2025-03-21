@@ -1654,15 +1654,14 @@ Maintainer: gilshahar7
 Installed-Size: 428
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm.deb
-Size: 22992
-MD5sum: 13e882d1664f5fa04d2c1d3c793f3565
-SHA1: 301ffe4f9af041a9347496b15e1021738fd900fb
-SHA256: 88665bca63c0c690aaf327f8157c18f018ba118c8210e94ed24da325a66b7793
-SHA512: a25226672061d58846973d2d3554e54d273d9c45450cddefd83437561708726598fdcec7accfc8422f21b73d64d190f39a3d2fafc1390c1b32b745574402a2f0
+Size: 22840
+MD5sum: 51e1e6e3a0f8d6ab288afcec79280fd2
+SHA1: 47552ca4f104025d9e3e960ec848203c5b48fbdf
+SHA256: 77af0a7713d2fd1e46d8eca495fb754053629d6d917b2faa91c95eb0e2eb2168
+SHA512: 3941210bedb84d921446614e643e2daa4a195b1f0c569cdd6ad8957733c1f4ea528f3d8f3a2d2073d88e98856a8f4c4c29c5b502bea3671b331986d8410e2532
 Description: Retry FaceID when failed to recognize.
 Name: PearlRetry
 Author: gilshahar7
-Icon: file:///Library/PreferenceBundles/PearlRetryPrefs.bundle/icon@3x.png
 
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm
@@ -3921,15 +3920,14 @@ Installed-Size: 720
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
 Filename: ./debians/Rootful/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm.deb
-Size: 120712
-MD5sum: 9d67edb1741a92871821eefe8f70c55f
-SHA1: 939ea3b220a7d95967302b75abfaf914d78d6b49
-SHA256: 82afabf7e35e86dc01dd0707565dd99d830b98bd4a90e76821bb2660fae106a2
-SHA512: 1569cc445415a657f88a601c7dea7406a97b10139d4067dd70863805bb26ecdff87c07a38d4ca1f4a744af2031a3ec760bfc8807e33a08445901fe33d416ff83
-Description: The better and highly customizable volume hud. For iOS 13 ~ iOS 16 , Dopamine 2 too .
+Size: 118404
+MD5sum: 751e65ab695e63d2331e5769ce848569
+SHA1: f91986786cc4d98073b6b4ffbebf3c85f387569d
+SHA256: c67fe3342baca69b9d911c427eb38caf6c5cc877245b598f38cbf3e81c5ef034
+SHA512: b19f9b68602fd0f079e1a9fa2f5152e1fb65b953b3205de49c018d4ee4d6e0815e9a737b785210ac227b971cc0af4067ad8c9de23c01569b70f1a38329d6485d
+Description: The better and highly customizable volume hud. For iOS 13.
 Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
-Icon: file:///var/jb/Library/PreferenceBundles/Sonus13Prefs.bundle/Images/Sonus@2x.png
 
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm
@@ -5513,18 +5511,16 @@ Version: 1.2.1
 Section: Tweaks
 Maintainer: gilshahar7
 Installed-Size: 428
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm64e.deb
-Size: 26344
-MD5sum: c0d7a7829867f812b86e54b5ea15e8a7
-SHA1: 79100c3e765e0ae07b00437f900a66e4ed64d002
-SHA256: 594e203dab8b586904d1ee8656c30df986e01ac90866b904ac279b2c4e0f256b
-SHA512: 7993c492818646c25ca0c316f2f2aa6803e3d3ac49b9fd991b8f557a2212fed0992e07f0b253e1f3139ea05c212c2bf534f962ba83f02abf5c3e18351f836460
+Size: 23892
+MD5sum: 2455a6f1f5fe86a6002f45aa4e627cfd
+SHA1: b0c4863270d11f6fe34d907ef4127d9c75d69444
+SHA256: 941792e65546376089a986940642fe54313c8320882f7331e2f01ac1f193e6de
+SHA512: 8ba6edebde07e4e7502dcd2b941c6f27799b7c14b093f21416586be3d111bd0bac01b39b465bd445e9e8b663ec79ee7397be1072334036014a3ce871fd83d4ba
 Description: Retry FaceID when failed to recognize.
 Name: PearlRetry
 Author: gilshahar7
-Icon: file:///var/jb/Library/PreferenceBundles/PearlRetryPrefs.bundle/icon@3x.png
 
 Package: com.ginsu.comet
 Architecture: iphoneos-arm64e
