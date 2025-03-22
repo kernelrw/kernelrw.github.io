@@ -3582,23 +3582,6 @@ Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
 
-Package: com.tonykraft.persistentwifi
-Architecture: iphoneos-arm
-Version: 1.2.4
-Section: Tweaks
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 368
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.tonykraft.persistentwifi_1.2.4_iphoneos-arm.deb
-Size: 30136
-MD5sum: 1969b340da490b1869052001c459bc7e
-SHA1: 76403bdd1bec07b4194edc73774a077818a94720
-SHA256: dbadf4d3a4bb1fd81abc4689f071aa8e55c8347f7a630ae3cd876c83e41a35f1
-SHA512: f4f5e3b87407a6f288c70c6cb50c1d0fb2cad446dd26b5186040fa26faf4ad1f9428986d8fab580fb7324916cead7cdcf3303037848f3c924a7219e4be4c782c
-Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine , Paera1n rootful and rootless & Dopamine-Roothide .
-Name: Persistent WiFi
-Author: Tony Kraft <iostonykraft@gmail.com>
-
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm
 Version: 1.0
@@ -8591,23 +8574,6 @@ Author: Tomasz Poliszuk
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
 Icon: file:///Library/PreferenceBundles/MagSafeControllerSettings.bundle/icons/MagSafeController@3x.png
-
-Package: com.tonykraft.persistentwifi
-Architecture: iphoneos-arm64e
-Version: 1.2.4
-Section: Tweaks
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 368
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/com.tonykraft.persistentwifi_1.2.4_iphoneos-arm64e.deb
-Size: 30580
-MD5sum: f9642d3a79cfd53fbb27b91e66a337ab
-SHA1: d71f3247ce06627cea2f258c8fd32991bcbc79e7
-SHA256: b009174fd8a1cfc71edd027b5a8a9cb95b7229a2080f8451dfd743208fe41b9b
-SHA512: 71dc1aaaa27879ae575fd1102f0de8c262cf5db401e11a2a2a694b0c90f77c2bbfb0c34d0a416eb4567b9fb12260fa2c7ec1c73613a0641958bf7b8368b4c86d
-Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine & Dopamine-Roothide .
-Name: Persistent WiFi
-Author: Tony Kraft <iostonykraft@gmail.com>
 
 Package: com.udevs.debhoarder
 Architecture: iphoneos-arm64e
