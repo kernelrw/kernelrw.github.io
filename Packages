@@ -3590,15 +3590,14 @@ Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.tonykraft.persistentwifi_1.2.4_iphoneos-arm.deb
-Size: 30180
-MD5sum: 383d5ad9f0a1555b55c0a8ec4937241a
-SHA1: 9ccf6c65ba8ae9972492710caa247e0726b85047
-SHA256: 485b7092938df0d8759faa698266e830206b843e68d4cb036a75173c81257790
-SHA512: c2964e46206ab2d911892cdba3692b6c573010f2174e18bae4c5c862d45bc439c43142466cafe64e4b94aa90bab28686528d250039dcadf1ce8b90e98743c38c
+Size: 30136
+MD5sum: 1969b340da490b1869052001c459bc7e
+SHA1: 76403bdd1bec07b4194edc73774a077818a94720
+SHA256: dbadf4d3a4bb1fd81abc4689f071aa8e55c8347f7a630ae3cd876c83e41a35f1
+SHA512: f4f5e3b87407a6f288c70c6cb50c1d0fb2cad446dd26b5186040fa26faf4ad1f9428986d8fab580fb7324916cead7cdcf3303037848f3c924a7219e4be4c782c
 Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine , Paera1n rootful and rootless & Dopamine-Roothide .
 Name: Persistent WiFi
 Author: Tony Kraft <iostonykraft@gmail.com>
-Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm
@@ -8601,15 +8600,14 @@ Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/com.tonykraft.persistentwifi_1.2.4_iphoneos-arm64e.deb
-Size: 30616
-MD5sum: 4cffb025c4296988471c26f29d1f403c
-SHA1: 9e067f61c8e28a4d89efc74673f44f2473a2081e
-SHA256: 5d1a0f49b88cfe09f25ef7bbfa3edcef0de9b05afacdf835bcbff8556452f8ce
-SHA512: c421a0e92fa9cc7e6dd0812e865ed6e64b4b8c43ac0504e169257e9cf4469dfa51dc0b48584509656c9d54b8e34dca50a6a74eb261513578dee9c16ff3f0141f
+Size: 30580
+MD5sum: f9642d3a79cfd53fbb27b91e66a337ab
+SHA1: d71f3247ce06627cea2f258c8fd32991bcbc79e7
+SHA256: b009174fd8a1cfc71edd027b5a8a9cb95b7229a2080f8451dfd743208fe41b9b
+SHA512: 71dc1aaaa27879ae575fd1102f0de8c262cf5db401e11a2a2a694b0c90f77c2bbfb0c34d0a416eb4567b9fb12260fa2c7ec1c73613a0641958bf7b8368b4c86d
 Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine & Dopamine-Roothide .
 Name: Persistent WiFi
 Author: Tony Kraft <iostonykraft@gmail.com>
-Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 
 Package: com.udevs.debhoarder
 Architecture: iphoneos-arm64e
