@@ -3582,6 +3582,23 @@ Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
 
+Package: com.tonykraft.persistentwifi
+Architecture: iphoneos-arm
+Version: 1.2.4
+Section: Tweaks
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.tonykraft.persistentwifi_1.2.4_iphoneos-arm.deb
+Size: 30172
+MD5sum: f6ae83327bf71e65f11533155f53ac55
+SHA1: 972571b06a43f86360c33ff667d54f83cdcd0fd8
+SHA256: 130cf0dde0bda2ad0e5f9a165252297a969e3e06bda9fcdb920f23ec5560f693
+SHA512: da74eb248f2a0261558a7c0cca0e53b40f502a4deccf0df87f3a2b700b17418dcb8bcdd0091d06d59c62248a2337a975ec5012462265c67d866363fabcdf26db
+Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine , Paera1n rootful and rootless & Dopamine-Roothide .
+Name: Persistent WiFi
+Author: Tony Kraft <iostonykraft@gmail.com>
+
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm
 Version: 1.0
@@ -8574,6 +8591,23 @@ Author: Tomasz Poliszuk
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
 Icon: file:///Library/PreferenceBundles/MagSafeControllerSettings.bundle/icons/MagSafeController@3x.png
+
+Package: com.tonykraft.persistentwifi
+Architecture: iphoneos-arm64e
+Version: 1.2.4
+Section: Tweaks
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.tonykraft.persistentwifi_1.2.4_iphoneos-arm64e.deb
+Size: 31744
+MD5sum: 1470283141b050bad5b0de04315006f5
+SHA1: 0a3ddd92826550e4e9071b8fb4ca3d955adf2a75
+SHA256: fb5820f96abc7447c3979e2c25bfec48935594328a138697e4de328798202f7c
+SHA512: a493a7b5aa86a0075eabb224f4ebab599b5b165fb6c8ebdbef3e3ea91a591f23f40349bdc4264e4ae633f77083e3b93feeb75c08cef33905186e7b3e04a97098
+Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine , Paera1n rootful and rootless & Dopamine-Roothide .
+Name: Persistent WiFi
+Author: Tony Kraft <iostonykraft@gmail.com>
 
 Package: com.udevs.debhoarder
 Architecture: iphoneos-arm64e
