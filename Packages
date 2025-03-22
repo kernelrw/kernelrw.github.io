@@ -3582,21 +3582,21 @@ Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
 
-Package: com.tonykraft.inosleep
+Package: com.tonykraft.persistentwifi
 Architecture: iphoneos-arm
 Version: 1.2.4
 Section: Tweaks
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.tonykraft.inosleep_1.2.4_iphoneos-arm.deb
-Size: 29964
-MD5sum: 411627286d22eb28e67a71b9e99eede9
-SHA1: 7cb300fd0913250a83e9105eb45cf8e8222f07ac
-SHA256: 4938dbd4fe14a50a6568816da9c73df668c3f36d12dde17c53d8c3ef29b3d382
-SHA512: ea0edd1b0f5cb7230ec426445a5661607afc465c3bfad9e62efe052007e9321b4c56c9f2070f88ba912fc015fb7826708d595f06f50204d04ddc04602cf3b474
-Description: Allows Wifi to stay connected when the device is locked.
-Name: iNoSleep
+Filename: ./debians/Rootful/com.tonykraft.persistentwifi_1.2.4_iphoneos-arm.deb
+Size: 30180
+MD5sum: 383d5ad9f0a1555b55c0a8ec4937241a
+SHA1: 9ccf6c65ba8ae9972492710caa247e0726b85047
+SHA256: 485b7092938df0d8759faa698266e830206b843e68d4cb036a75173c81257790
+SHA512: c2964e46206ab2d911892cdba3692b6c573010f2174e18bae4c5c862d45bc439c43142466cafe64e4b94aa90bab28686528d250039dcadf1ce8b90e98743c38c
+Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine , Paera1n rootful and rootless & Dopamine-Roothide .
+Name: Persistent WiFi
 Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 
@@ -8592,6 +8592,24 @@ Author: Tomasz Poliszuk
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
 Icon: file:///Library/PreferenceBundles/MagSafeControllerSettings.bundle/icons/MagSafeController@3x.png
+
+Package: com.tonykraft.persistentwifi
+Architecture: iphoneos-arm64e
+Version: 1.2.4
+Section: Tweaks
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.tonykraft.persistentwifi_1.2.4_iphoneos-arm64e.deb
+Size: 30616
+MD5sum: 4cffb025c4296988471c26f29d1f403c
+SHA1: 9e067f61c8e28a4d89efc74673f44f2473a2081e
+SHA256: 5d1a0f49b88cfe09f25ef7bbfa3edcef0de9b05afacdf835bcbff8556452f8ce
+SHA512: c421a0e92fa9cc7e6dd0812e865ed6e64b4b8c43ac0504e169257e9cf4469dfa51dc0b48584509656c9d54b8e34dca50a6a74eb261513578dee9c16ff3f0141f
+Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine & Dopamine-Roothide .
+Name: Persistent WiFi
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 
 Package: com.udevs.debhoarder
 Architecture: iphoneos-arm64e
