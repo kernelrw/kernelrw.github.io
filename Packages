@@ -7744,6 +7744,27 @@ Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
+Package: com.qiop1379.swipeextenderx
+Architecture: iphoneos-arm64e
+Version: 1.6.1~2
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debians/Roothide/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64e.deb
+Size: 119144
+MD5sum: ef91de805733d359009d3a13365cfe46
+SHA1: e8556a5029c516118717d9c56ec1f794db2f2b29
+SHA256: 04797f040fcc10f951131644ce2c7c1b53cd43347a4c5d303133b90a9cc38b33
+SHA512: 148522aac15bb0a7105d1ee4a84ed3c9b9521fa08ecc6effff18bff1ac3901832ffc942fd84affd74d47e244678099c2f5803f93888a5f7b2dd966ab22f829e2
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Tag: compatible_min::ios14.0
+Author: MiRO <tweaks_support@miro92.com>
+Name: SwipeExtenderX
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Depiction: https://chariz.com/get/swipeextenderx
+
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64e
 Version: 1.9.3
@@ -13558,6 +13579,26 @@ Author: pxcex
 Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
+
+Package: com.qiop1379.swipeextenderx
+Architecture: iphoneos-arm64
+Version: 1.6.1~2
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debians/Rootless/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64.deb
+Size: 86084
+MD5sum: d4992f8c6db6f8b1ce17c242d3be0d0e
+SHA1: 3beeec5c769e585675e0466e4898fd1eea711c00
+SHA256: 41e789dcae7e3195b1b6a21804aad35a7fcabc5e170acb24fade92ce1c002877
+SHA512: b7a381ca33492fdd5eab07ab742e2afc1d2d88a7f240b7b4d1931dda550cb1f2540c9e4b6b7ca87522c7515eb786ac640fa09c0026098b1dad732c83b126c1a5
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Tag: compatible_min::ios14.0
+Author: MiRO <tweaks_support@miro92.com>
+Name: SwipeExtenderX
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Depiction: https://chariz.com/get/swipeextenderx
 
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm64
