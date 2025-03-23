@@ -3249,6 +3249,28 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.10~beta5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 552
+Depends: firmware (>= 13.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debians/Rootful/com.rpetrich.rocketbootstrap_1.0.10~beta5_iphoneos-arm.deb
+Size: 22448
+MD5sum: e95a02c1eae3fde3ce5f9f8e45f5e2aa
+SHA1: 881e57db27e88b0ba773547d32fb7460b3b5177b
+SHA256: 77c66f2537993c53c6ddafc80f3664307922d97642711f7a90b250ebb61ff6d3
+SHA512: d0b3fe9b62276be28067da1809e92d76b00aaf59252cea63b45d8d3e5c43c7cc7e0f3c9b4b320bbc36b6fee01f9373edbd0bbe4b4171f094ce7d3ffe12d084a8
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.rullinoiz.ipa2deb
 Architecture: iphoneos-arm
 Version: 1.0.4
@@ -7876,6 +7898,29 @@ MD5sum: 9973be03722a29554101b08b35dc4bb7
 SHA1: 8052c8576cb15b8be8dc180b1edc950934f2b410
 SHA256: 74c2672973ff3dd747002b0994c35feb92fc63cac6d5622b06977f3713f49a59
 SHA512: f93136b898e428c3ad05d96da807a558b65b7acef1ed659d925c4bf78c53b82eeafb872733df6a15dc327c1f9dda6d41b55804b8d57d397df94607eefd3362a6
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm64e
+Version: 1.0.10~beta5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debians/Roothide/com.rpetrich.rocketbootstrap_1.0.10~beta5_iphoneos-arm64e.deb
+Size: 21408
+MD5sum: de52a621977bf15fb685c0e5ec03b5ec
+SHA1: 75b98ce558880432617ef5eec630904d3b0d9a96
+SHA256: 6a0f283b86e54197673751e6ac88d15f6da0ecf56ec632c3fba27bce0c0d664f
+SHA512: 47ad7c4bbd240225eee0c18ff19f9c17ea66bfd81cdf3dfb755039c4581c45d20b33f78d5049dc2393f5cd5e6e878be82eef46f49fe0fa2f50e548b502963060
 Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Description: Support library allowing tweaks to communicate with sandboxed processes
 Tag: purpose::extension, role::developer
@@ -13798,6 +13843,28 @@ MD5sum: 8573198183a0186a9aa70067ec7ea226
 SHA1: d4bac0d682bc2f6c5e7132bbec357cf18629fb4f
 SHA256: f765e3b95d6e5bf01d71d938ac220ef578d25f6fdfe02a5e65cf2a21da2ef0b5
 SHA512: 6675f91a5f8666947f6872d1127cf15ea75c5ca550ae3953fa59a0bebae29502207bf8c04f53b0ab61ba438331456c2701c49ca9d0095f87d4fddcc2c44d993e
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm64
+Version: 1.0.10~beta5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 532
+Depends: firmware (>= 13.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debians/Rootless/com.rpetrich.rocketbootstrap_1.0.10~beta5_iphoneos-arm64.deb
+Size: 19288
+MD5sum: 0d0c137aadc680a9c5b604c4b1e1b021
+SHA1: dc0be9c09c53dc48ba2d6d7a512f2a75ab524298
+SHA256: 19486a71f2b077d4e8ac3c28a826711967527fcd366d461009f5e487e03f9587
+SHA512: ba37a32109d0b5d5ae7eb78e065673d1ff8bdfb2d64dc6be8f5323addd8e7d5d50697fa2aa953aa119d5bebc34f2959c1c4dce96ff72c96544db67e2fa9c5fe6
 Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Description: Support library allowing tweaks to communicate with sandboxed processes
 Tag: purpose::extension, role::developer
