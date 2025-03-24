@@ -6885,6 +6885,24 @@ Author: Nathan
 
 Package: com.nathan.miniisland
 Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.miniisland_1.0.2_iphoneos-arm64e.deb
+Size: 4224
+MD5sum: c534328a3897ace4067f6d4cae3cfa62
+SHA1: 795578b1c264b28a9c4975638985188a4949e623
+SHA256: 84274d30312415740ac01d2f5193463c31a54146a4849d9c64e50db200a4e3b1
+SHA512: 156fcdcbc2ee0c20429625ec22136221bfc1184b01687ee8648384a72a638bc69404bd1028afd51d79758a2f376a5a49fd7e75ad060cd517194c48f1f9bc5672
+Description: A Tweak that makes the island look mini when playing music!
+Name: MiniIsland
+Author: Nathan Senter
+
+Package: com.nathan.miniisland
+Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Maintainer: Nathan Senter
@@ -12933,6 +12951,23 @@ SHA512: f2d7d6e75326d6c5dc011a30984bce19ee9c84dccc4e0232afba531805bdf296aeac9efe
 Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Name: DynamicNotLand
 Author: Nathan
+
+Package: com.nathan.miniisland
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.miniisland_1.0.2_iphoneos-arm64.deb
+Size: 2996
+MD5sum: 4c9a45017e240d2eecc8ced744f9c57f
+SHA1: b7712c33fba0987c36b2ae7e61b8d584b41092dc
+SHA256: cef1d6a29d0c4c0483fff5473504f291cb3ca6121527ce9454aca07b058a84bd
+SHA512: 15db29753e3fdf33b2aa95fb9d921e1a9d9a0f629bafc7beb5106007318704ba97eb49820d8cc1ffe23581623b40ec6e26a6630de8f895bfa676555b0b267d32
+Description: A Tweak that makes the island look mini when playing music!
+Name: MiniIsland
+Author: Nathan Senter
 
 Package: com.nathan.miniisland
 Architecture: iphoneos-arm64
