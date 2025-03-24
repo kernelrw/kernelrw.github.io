@@ -8862,12 +8862,12 @@ Installed-Size: 344
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Roothide/dev.mineek.appstoretroller_0.0.1_iphoneos-arm64e.deb
-Size: 9862
-MD5sum: 7a56354de28ba35e631a409265d38cc3
-SHA1: c136159c1ef72e66b4a109b7cfbebda8a4344afb
-SHA256: bd04a693caae98ea1487485db315bce7fab3029373d9f7cf467ab7b46bb7fe98
-SHA512: 958e0bbdaaea4ed45087a5b8664fd5ba9a9799a49709ddf66721364f3fd847f2b8dc08cc986ebcbdce681bd5071528db0bc64c472e01bf4eb2e3af05ff378605
-Description: An awesome MobileSubstrate tweak!
+Size: 8528
+MD5sum: 5716a59745399b474a6b6c3e2533c702
+SHA1: 519dc0d7dccd1d56500b9880cdadd00bcd9a81cf
+SHA256: dee912a1de67b250fa21fee58d9cb413eb124ee573611bbbd9f83d4fa6614d4d
+SHA512: f3cd6829b9b469e2de455a2c5fa88536df3c93a6946b036f95847bd3e426295da932f96773d83a5391c233b480e281f1ea2734ad188bab7bfa35ff289444a107
+Description: Very simple tweak to let you purchase an app to your Apple ID that requires a newer iOS version than the one you're running on your device. Afterwards, you can install the last compatible version onto your device, if it exists.
 Name: appstoretroller
 Author: Mineek
 
@@ -14978,12 +14978,12 @@ Maintainer: Mineek
 Installed-Size: 344
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootless/dev.mineek.appstoretroller_0.0.1_iphoneos-arm64.deb
-Size: 6752
-MD5sum: 72cced8af6b06194c91a02db085c20f2
-SHA1: 580fc92ef3c0e39929b81cc37960c0f4325220f1
-SHA256: 55c5fdc48bbc375e5c4e6c9658f28fba8f9f84fd27ca99dfec1beb72ac88f6f6
-SHA512: 3f9b9fd97498643a488b69601afe667a8369a991946382db31d21f1010dbd30be4ce4ae3cf03dbf573e01ab4db92d74932047228bb6eab506ede6eb883cd4ec7
-Description: An awesome MobileSubstrate tweak!
+Size: 6940
+MD5sum: 6b5875ab3df322f2e38f624a7e5f3560
+SHA1: 6d27fcfc9c061422f2a7b6cd19e08d94ab1ed949
+SHA256: 692df5ab09c20068cfa74512059e236923039492f73477169dd8e7c39dc11011
+SHA512: 0af45532846c139b95484e914c9a728c23f0d5fb392feefc7059304d141471b1901483dedb6d64c2d7d4136ec230c7f5ec1b3bae5fedd6b5d06be493b253c00f
+Description: Very simple tweak to let you purchase an app to your Apple ID that requires a newer iOS version than the one you're running on your device. Afterwards, you can install the last compatible version onto your device, if it exists.
 Name: appstoretroller
 Author: Mineek
 
