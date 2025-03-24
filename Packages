@@ -6847,6 +6847,42 @@ Author: zhaonan <invalidunit@icloud.com>
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 
+Package: com.nathan.dynamichiderecordland
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.dynamichiderecordland_1.0_iphoneos-arm64e.deb
+Size: 4284
+MD5sum: c509eede0d678471f4de2037a3397479
+SHA1: 8be11de16461aa8fdf2be9ec05e1530446660a3c
+SHA256: ec85c57402baab5ab1c6ba2c2bc295b603fbcbe172dc25f61d34f29752fa8265
+SHA512: ba99afca674e6d1128e4d34c843a27d1cb5d4172a7e7f21e2e9cd541308e569bf707e7d31f1e28597ba68c5000ae9f13736e23965725f794cedd15b56e1d3d48
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicHideRecordLand
+Author: Nathan
+
+Package: com.nathan.dynamicnotland
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.dynamicnotland_1.0.3_iphoneos-arm64e.deb
+Size: 4914
+MD5sum: 63dc5bab7232c301e8364f183741a055
+SHA1: ccd27d7a5bd24eb25827e0b77a6548c337565e2a
+SHA256: d91860d4ce69c708f44148ecbffbcbe8b84d5ced8684dee191aeaeaa1a28574b
+SHA512: fe40b24ac35c82de41a0a1418823f51cb08a983f211355d48912eace825b9451d854920141bb949ec9738cdc2534951a137255398fee4c3695e25f4c53c9c854
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicNotLand
+Author: Nathan
+
 Package: com.nathan.miniisland
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -12813,6 +12849,23 @@ Author: zhaonan <invalidunit@icloud.com>
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 
+Package: com.nathan.dynamichiderecordland
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.dynamichiderecordland_1.0_iphoneos-arm64.deb
+Size: 3004
+MD5sum: 476ee373ab4b93fa51d1a1a7a889241a
+SHA1: 51416d8af2503b6344842336fe5b1759664a1dd7
+SHA256: 5f7d7b030a1347ab34d99770b8edb2ddf52e37deda41da3da463b2d9a3cf6298
+SHA512: 884a1c503057e5f4829ae02c94edfc1f933df8421b0d36cf925325184bf2cd67387e4c3cd3bde6d8b11e0be165b4a015eab593ec966abb064fcd5a8b879622cd
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicHideRecordLand
+Author: Nathan
+
 Package: com.nathan.dynamicnotland
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -12843,6 +12896,23 @@ MD5sum: d82e61a7cae0c90dc4aaf2927c4e13de
 SHA1: 35270081c4ebcfe17457c588d8aa50c3778f6780
 SHA256: 112121b103490f36660b3c6061a6bc84ba5787a6c16344075f732c4d74e452f5
 SHA512: db9eef65e262e2dd912172aced4d5400b51a0fb69a703c455ddf5e76838027713555daafa8aa6672dae195a52189b53370947f541692615691305b81a3ca3618
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicNotLand
+Author: Nathan
+
+Package: com.nathan.dynamicnotland
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.dynamicnotland_1.0.3_iphoneos-arm64.deb
+Size: 3546
+MD5sum: 94fcb8c79290ed921364647d06a5a96e
+SHA1: d241b1c891adc9cc6a334be143c2426178802058
+SHA256: 4b66266f2cf4160f41f8df8c77622a34b2eb8d72654cc835981a90ac4d78118f
+SHA512: eaedf736e195e090e51a85749e8fa86aed025a530a9e2e0fd624766dc24efe9850f7fd75936e2a23bb70f66452b961630bac61c322b97a3b8b4c9777e354767b
 Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Name: DynamicNotLand
 Author: Nathan
