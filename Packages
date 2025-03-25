@@ -4159,6 +4159,29 @@ Depiction: https://repo.litten.love/depictions/Rose/index.html
 SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
 
+Package: me.jjolano.shadow
+Architecture: iphoneos-arm
+Version: 3.7.6
+Section: System
+Maintainer: jjolano
+Installed-Size: 1428
+Provides: me.jjolano.shadow.beta
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Filename: ./debians/Rootful/me.jjolano.shadow_3.7.6_iphoneos-arm.deb
+Size: 164872
+MD5sum: d358e346e3c7d5530ca2498fddff2e4d
+SHA1: a2aa5f5bd2d8904ab04ec230c2b4c4e2e3ce9b9e
+SHA256: 2ce5c8ac813e4b0953284662f2540546353eef36c8206fbcb1aef155f07cabea
+SHA512: e28bb278846e641ef7d68b50332751583b2e87afa5ba1f9ee70ebba52964e9272683a8c7393b12365dd13cf53ce1983011c6de0bdf84ce054404b1151a737c00
+Description: A modern jailbreak detection bypass.
+Name: Shadow
+Author: jjolano
+
 Package: me.kernelrw.sileorespring
 Architecture: iphoneos-arm
 Version: 0-2
@@ -4327,6 +4350,23 @@ Author: Litten <hiya@litten.love>
 Depiction: https://repo.litten.love/depictions/rse/index.html
 SileoDepiction: https://repo.litten.love/depictions/rse/rse.json
 Icon: https://repo.litten.love/depictions/rse/assets/icon.png
+
+Package: system-cmds-memory-pressure
+Architecture: iphoneos-arm
+Version: 880.120.1
+Section: Utilities
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 72
+Depends: firmware (>= 13.0)
+Filename: ./debians/Rootful/system-cmds-memory-pressure_880.120.1_iphoneos-arm.deb
+Size: 8266
+MD5sum: 991b32f2ca9fec8810adf863a00964fd
+SHA1: 270856266ec8170b77f13e394114c9d9eaf9349f
+SHA256: 7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878
+SHA512: 7b207d08de83b379605a8804acc6373c019b338cd8c8010d04d4dd97fd692df6c6bd11c8ccdc456670599abfc340670afd6b886578c7aec96685115537eff096
+Description: Tool to apply real or simulate memory pressure on the system.
+Name: memory_pressure
+Author: Apple Inc.
 
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm
@@ -4538,6 +4578,23 @@ SHA512: cdb7c2621d1e142595dd19fa05b1094ff1ea47e5bcb7b9f6864855b1858b1e23e7a8d8c7
 Description: ChargeLimiter
 Name: ChargeLimiter
 Author: chaoge
+
+Package: cm90.crossoveripc
+Architecture: iphoneos-arm64e
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: @CrazyMind90
+Installed-Size: 368
+Depends: mobilesubstrate, com.opa334.libsandy
+Filename: ./debians/Roothide/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64e.deb
+Size: 17484
+MD5sum: e9df193a414386b07306ba84d754fbe0
+SHA1: 23633596c9c4c9f9fb7e89031d574672276fee11
+SHA256: 1c8ea11cad2e0d6d47fb2f50d30d34bbd4ac45cd36bc35f0809138a1122027ef
+SHA512: 0e17e72175764d3d2d83ac4a7eb3cc8803030f9415706b8976c325f9ef4fe6753ca72e780a688a7c25f072ba5ce968fe16b069405aa87977ac8e78bcce0a1e24
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Name: CrossOverIPC
+Author: @CrazyMind90
 
 Package: cn.bswbw.fixsets
 Architecture: iphoneos-arm64e
@@ -5154,6 +5211,30 @@ Name: RedditNoAD(Beta)
 Author: Brend0n <brendonjkding@126.com>
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.redditnoad
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.redditnoad/depiction.json
+
+Package: com.cokepokes.libnotifications
+Architecture: iphoneos-arm64e
+Version: 0.3-6-1+debug
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 376
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0)
+Filename: ./debians/Roothide/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64e.deb
+Size: 21596
+MD5sum: 4d6870729ae83fff334f45c6991d8e93
+SHA1: 64a369417ff2eb958cc8d9bcece314519dc28bfa
+SHA256: 245ee9d6439b9d15d8516a38938829fb2084eb7495e4487287882a2aa01a246e
+SHA512: e051c6ee601051087766072dcbe4aa51fcf765bb8ad672201270c459768baded2d3fea746d51325a14686bc090d414a5797a164425407eba8cd73dd5dcb27259
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: libnotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CokePokes <cokepokes@gmail.com>
+dev: cokepokes
 
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm64e
@@ -9775,6 +9856,23 @@ SHA512: a81e43346e22c8b6c91e555b1a826813753ac8ad685897b308ba54732f085626c5e850c8
 Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
 Name: CocoaTop
 Author: Domo, SXX
+
+Package: system-cmds-memory-pressure
+Architecture: iphoneos-arm64e
+Version: 880.120.1
+Section: Utilities
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 72
+Depends: firmware (>= 13.0)
+Filename: ./debians/Roothide/system-cmds-memory-pressure_880.120.1_iphoneos-arm64e.deb
+Size: 8274
+MD5sum: 9e96e3db6589d827b35eb93c82096c28
+SHA1: aa26803626d44c8853ac719a998b3a0063ef26c7
+SHA256: 9d4d74615d3ada31460aa1302dc2c4176969622cea974a770ecf779ea56ab549
+SHA512: 193546bff5efc04e72bc579cd3fbd911c52ac68d919b6cc2629d3c52e3120d6b8ccdec417fdd1f20b03732c7ca4ad7aaea298ec8b9a3b9ff19dcc27ca19ddd53
+Description: Tool to apply real or simulate memory pressure on the system.
+Name: memory_pressure
+Author: Apple Inc.
 
 Package: tw.hiraku.datalogoswitcher
 Architecture: iphoneos-arm64e
@@ -15492,6 +15590,29 @@ ModernDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss
 Icon: https://ios.jjolano.me/assets/me.jjolano.alertdismiss/icon.png
 Author: jjolano <jjolano@me.com>
 
+Package: me.jjolano.shadow
+Architecture: iphoneos-arm64
+Version: 3.7.6
+Section: System
+Maintainer: jjolano
+Installed-Size: 1076
+Provides: me.jjolano.shadow.beta
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Filename: ./debians/Rootless/me.jjolano.shadow_3.7.6_iphoneos-arm64.deb
+Size: 100938
+MD5sum: d5d9e73e6fb80918eb95772361f123be
+SHA1: 22c6e9db9a75db1b4faff4292b7343d699e2de86
+SHA256: 52fdf82c814ab67700a51a13de0ca2138b5942b8b2e949493e04614aeef523d4
+SHA512: ee656a8a45e65898bf5c89b9fcfb0e7fd291769c6c495d7f313da37a87f2d6af92f6f75eb0ce888e15dbee4ed956e1c2bdb038d5b9f7ee1992768da954f88521
+Description: A modern jailbreak detection bypass.
+Name: Shadow
+Author: jjolano
+
 Package: me.krit.lockdown
 Architecture: iphoneos-arm64
 Version: 1.0.6
@@ -15852,6 +15973,23 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
+
+Package: system-cmds-memory-pressure
+Architecture: iphoneos-arm64
+Version: 880.120.1
+Section: Utilities
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 72
+Depends: firmware (>= 13.0)
+Filename: ./debians/Rootless/system-cmds-memory-pressure_880.120.1_iphoneos-arm64.deb
+Size: 8346
+MD5sum: ccb630169a8ac36c5919ce89416b0185
+SHA1: 552666702f1406579f6decef460d799539190c55
+SHA256: 735a94b99902125702fa082d8f73a2cab26e5c801b54e494cf9ab2df5e17fe99
+SHA512: 2a9eb8c54ae94e25647b47b887e52d180c3a5b50b88df6255db22ac3e2f31b97b5ffb4217fb9f4c8b2ae14cc1c6e01f9b240dad848118609e1a6f46d9a860e48
+Description: Tool to apply real or simulate memory pressure on the system.
+Name: memory_pressure
+Author: Apple Inc.
 
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm64
