@@ -6883,6 +6883,24 @@ Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's n
 Name: DynamicNotLand
 Author: Nathan
 
+Package: com.nathan.dynamicnotland
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.dynamicnotland_1.0.6_iphoneos-arm64e.deb
+Size: 5246
+MD5sum: 14544e757d327deee44964127ea9dbbc
+SHA1: b335246ee3b9d50a7f1db720022e7d9ab5f450b8
+SHA256: f3ad32f077505158e71d6b1f6cbd1c3e8d99794f29920b8ca33ed11d86b10976
+SHA512: f569cbd24c6ed6693bd687654e362297253403a24a6ae2386bdccccb89133f5f60fff534839fd74461b8f7bdb7aa7a03faa6250ae8e15b110edc07ab44d55e6c
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicNotLand
+Author: Nathan
+
 Package: com.nathan.miniisland
 Architecture: iphoneos-arm64e
 Version: 1.0.2
@@ -12931,6 +12949,23 @@ MD5sum: 94fcb8c79290ed921364647d06a5a96e
 SHA1: d241b1c891adc9cc6a334be143c2426178802058
 SHA256: 4b66266f2cf4160f41f8df8c77622a34b2eb8d72654cc835981a90ac4d78118f
 SHA512: eaedf736e195e090e51a85749e8fa86aed025a530a9e2e0fd624766dc24efe9850f7fd75936e2a23bb70f66452b961630bac61c322b97a3b8b4c9777e354767b
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicNotLand
+Author: Nathan
+
+Package: com.nathan.dynamicnotland
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.dynamicnotland_1.0.6_iphoneos-arm64.deb
+Size: 3828
+MD5sum: 94b18b4fbbd048c938590e3e052f379e
+SHA1: ffeb13805ed54ba72c0c78ef8fc1e6c84808b4c4
+SHA256: c80b86702019b945ca58af0974a94bec839c0b82da167c58262f24f6b573e956
+SHA512: dfabea1787cf66245bd476638000dcf0865fd7c7ac8883f5a1186694cc644cd8e39f140a623e6f05f62c7039f64c8aca2a67e0d8f969dcaec52f4b681c1f2da1
 Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Name: DynamicNotLand
 Author: Nathan
