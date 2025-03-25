@@ -4867,6 +4867,24 @@ Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
 
+Package: com.82flex.libsandyxpc
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: System
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 200
+Depends: com.opa334.libsandy
+Filename: ./debians/Roothide/com.82flex.libsandyxpc_1.0_iphoneos-arm64e.deb
+Size: 18102
+MD5sum: 456682d92e7bc10f692094828e83f1ba
+SHA1: 618adf266c3eb29d7d625e334806c4cf48a61bdf
+SHA256: 6b47b9d662b30c59a9a607406faf5a22ec6037f41853083d27cc61b3a7cd0d45
+SHA512: 8a29761357cc3d450dd002c742e18c908266f853fc55abe56ad298ec59482b6d12ddedbebb3ea5993438ac1bcc140d4bbcad11962c8d5c3b87dc3726958c0de3
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Name: libSandyXpc
+Author: 82Flex <82flex@gmail.com>
+
 Package: com.82flex.noredirect
 Architecture: iphoneos-arm64e
 Version: 1.10
@@ -10297,6 +10315,24 @@ SHA512: ff00121aaf41662b0081f78992f918af2867bc3dca62c35c3599b6c79735ccf75814431f
 Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.libsandyxpc
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: System
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 200
+Depends: com.opa334.libsandy
+Filename: ./debians/Rootless/com.82flex.libsandyxpc_1.0_iphoneos-arm64.deb
+Size: 18168
+MD5sum: 5c378bbee38e5dc687931f97dd61a8d8
+SHA1: bd2399ad1a785fb1eb0dca841efbd515a74d299b
+SHA256: 76d83c0292b99fb1d38f4c8af5623dc031e0d6e790078dee909f8d45b8fcc1af
+SHA512: 9eb5ac77dc4220e7517b35635b837296c80797b261fa5aae39a68fe7a7737011eb0eaf005eba9514030c81d1614d5ff5f2c2934059fada59da93d6bbcccef462
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Name: libSandyXpc
+Author: 82Flex <82flex@gmail.com>
 
 Package: com.82flex.noredirect
 Architecture: iphoneos-arm64
