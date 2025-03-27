@@ -15366,6 +15366,24 @@ Description: Modified version of mineeks tweak that lets you specify the minimum
 Name: AppStoreTroller
 Author: Mineek
 
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm64
+Version: 0.0.9
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.mineek.appstoretroller_0.0.9_iphoneos-arm64.deb
+Size: 15776
+MD5sum: d1590015c01e2100dddf58d191c218a4
+SHA1: 57faeece12b59387f3de4ed3b47626f928bd9d9f
+SHA256: a7728c91ce7f875186df46ce4346ea9ad3b021321a422513a72e39377d4a26a3
+SHA512: 9da93abc678bc50a0c06dac25a40e58c8d0a30685ed8fe847b744744e00e4a01f0e0bb23cf8aeae21ad4f72840b82e857fb6b00e276e30461eb6906fac5c0c34
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: AppStoreTroller
+Author: Mineek
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fredentic.dev%2Fdepictions%2Fcom.redenticdev.appmore%2Ficon.png&s=180x180&f=webp
+
 Package: dev.mineek.muffinstore
 Architecture: iphoneos-arm64
 Version: 0.0.1
