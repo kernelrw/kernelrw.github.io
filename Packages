@@ -5380,6 +5380,30 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 
+Package: com.cydiageek.nowachannelsviewcell
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debians/Roothide/com.cydiageek.nowachannelsviewcell_1.0.4_iphoneos-arm64e.deb
+Size: 5564
+MD5sum: 5685dbad59dab5ba0efdf642626f65a6
+SHA1: ecdb1a1ac2b0669e6a39a9192304f671e4ca9cc1
+SHA256: 2385a64027fdeaf4597925bc804357cd5942eebde26d9cb942622994f654d341
+SHA512: 607c485bee1240edcd946278e280c4f26bfd33237143b0d96c2882d4073207f4d774b8f3b81c947b43d472ec64ced243d324b887e090aef27f5241853c4ede6d
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowachannelsviewcellDp
+Description: Hide New WhatsApp Channels Cell!
+Tag: purpose::extension
+Name: NoWAChannelsViewCell
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowachannelsviewcellDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
 Package: com.cydiageek.playmusiconrecord
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -11151,6 +11175,29 @@ MD5sum: 575cc602a29036fe20686f3811a034f6
 SHA1: ada7b1357561ce2780a686a1bc1911760b0955c5
 SHA256: ed083f15244568df6f455f6b0b65d6e32cd17de087ec60432bc5bfafa8891c57
 SHA512: fdeb4bff873cad0eb55b1adea02fa8c4fb785d31b56c486b8fcaa592cbecda4aa00c4dc377b027b80b3115cde0b8dcf44480fc8421b51b25ea07bb3d5224e602
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowachannelsviewcellDp
+Description: Hide New WhatsApp Channels Cell!
+Tag: purpose::extension
+Name: NoWAChannelsViewCell
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowachannelsviewcellDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
+Package: com.cydiageek.nowachannelsviewcell
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debians/Rootless/com.cydiageek.nowachannelsviewcell_1.0.4_iphoneos-arm64.deb
+Size: 4044
+MD5sum: ce4662708bcdb52e9a8887104ca66973
+SHA1: df7e6aacec9ef83b55def3dbd6dfaad655f82b71
+SHA256: aecdfcfc2269ee62473f4fd72622295b801e604d75c62e3715f512bd1da4836f
+SHA512: 22f3118f6bd52c8b4de5a19bc308e8a5e40782269d074a2c5f3bcd53601e2ae94b61ff3a426bd0aa10eaf9de68adac3406478662a039a11814fc83b0fa94f825
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowachannelsviewcellDp
 Description: Hide New WhatsApp Channels Cell!
 Tag: purpose::extension
