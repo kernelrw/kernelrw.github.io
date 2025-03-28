@@ -8380,6 +8380,27 @@ Description: A feature-rich tweak for Instagram on iOS!
 Name: SCInsta
 Author: SoCuul
 
+Package: com.sop.settingsrevamp
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Section: Tweaks
+Maintainer: SOPPPra
+Installed-Size: 888
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debians/Roothide/com.sop.settingsrevamp_3.0.1_iphoneos-arm64e.deb
+Size: 205830
+MD5sum: f329b1f62f51dd347f1c668a9e23ccc1
+SHA1: a0190133f73c24eef98aade987d0577c6a9e214d
+SHA256: c472108f4370dcd94a06bf9ce07798319cae8a1fc3a7a9b49c15c74f2c8689c5
+SHA512: 82e5217cff9f25dc3c2784341541e239802cf79c9a83c98ddf21b45888e1cd6780ce8c662edba902751826e5b36a98da05aaec2ca4674ec33d75a362d6d6eafe
+Description: Customize the ios settings page
+Name: SettingsRevamp
+Author: SOPPPra
+Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
+
 Package: com.spark.autounlockx
 Architecture: iphoneos-arm64e
 Version: 1.1.0-roothide
