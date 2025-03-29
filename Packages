@@ -13259,6 +13259,23 @@ Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's n
 Name: DynamicNotLand
 Author: Nathan
 
+Package: com.nathan.dynamicnotland
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.dynamicnotland_1.1.1_iphoneos-arm64.deb
+Size: 10444
+MD5sum: 7ebc7cbfa98f0b5b22c5e3a032176654
+SHA1: 5e0440e547f48b1a8aae3a34a10b45a04f72cb1e
+SHA256: ef1dd87f4374770996b16097f41ff1e44a67bd085be82fa14e6ae1857581168c
+SHA512: 01542502941ae617157e0ec0e746ac5a9f30ba4c9a0ceb306035f32044c71c9e76381a76ce5561887f294d96639098edcb4a8f44d56428030bbf98bdbd32da98
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Name: DynamicNotLand
+Author: Nathan
+
 Package: com.nathan.miniisland
 Architecture: iphoneos-arm64
 Version: 1.0.2
