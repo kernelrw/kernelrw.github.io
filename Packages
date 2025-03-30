@@ -2664,6 +2664,23 @@ Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
+Package: com.nightwind.matchingiconlabels
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nightwind.matchingiconlabels_0.0.1_iphoneos-arm.deb
+Size: 3478
+MD5sum: fccec6730227db5a41919fc2737c4222
+SHA1: 717da98e654dffb77614fde9657358b1e30baa6b
+SHA256: 85412baef16cf35749de08adddda0e8e8bc528829b8c70c0de42ae9cc416e32a
+SHA512: 966f378fceac114e4f0574aa0af775ce6648205bc55a1eb207be3e6455537b507750ce35e727448790007088ca89b72da8166180282315a7ab78fe7bf840ad5c
+Description: Match icon labels colors to their icons.
+Name: MatchingIconLabels
+Author: Nightwind
+
 Package: com.nightwind.musicplayercolor
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -2749,6 +2766,23 @@ SHA256: 9d7ae54e95fe631590f697190bc103b45e69ac67634e8274394b5b78c3dccd67
 SHA512: 03a89da17cbebc70e536e8b72f8b4f2fa671147be75bc6d69ba679a41a8d8012109f254ce069ef4de8a87f5e447d89b0d20f758888421b7d95f8f9c0b876ac28
 Description: Add a button to copy the WiFi password to the Settings app.
 Name: SettingsWiFiPassword
+Author: Nightwind
+
+Package: com.nightwind.visionsearchpill
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debians/Rootful/com.nightwind.visionsearchpill_0.0.1_iphoneos-arm.deb
+Size: 121704
+MD5sum: 9063c9214018f265e73d98ad84252166
+SHA1: faacddcdedfaf2e03f5adabc4760ccb3a353162f
+SHA256: 8b1106df3733cf618580d51f98f1edb523d2af7a6f0cb0298b922bd8d2a24285
+SHA512: 59b9d4cd3fc8e12f335fe1fd1ffd4ffefd91902648e73277cbf2626349cb2888ffd2c9e3a2b0c566966a02d4a1029c2791b4dc474e9e74124190130ba0d5a934
+Description: Add a flare of visionOS to your search pill!
+Name: VisionSearchPill
 Author: Nightwind
 
 Package: com.noisyflake.betteralarm
@@ -3727,6 +3761,23 @@ SHA512: 0a8d0bf09211d670b69a26a53590f2a5d452130d379b17f16195f6ecb8a81b9085150923
 Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7.10 .
 Name: Checkm8 Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
+
+Package: daniel.old-lockscreen
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/daniel.old-lockscreen_0.0.1_iphoneos-arm.deb
+Size: 4034
+MD5sum: dcf26bd2679023bb785e69e1f57e02ff
+SHA1: 6c654898a64a0627b8bd610c970357419b966a19
+SHA256: 544e670778bfa5fb6354963988f92bc1c3af65a3d593097bb9316a16c1274aa1
+SHA512: fd21b83b22ce072959ef19a37581c8604b5b2743c8c4365ee2a6a38140f608811a8616d8a067bdf926302e2a5486e8e7b4797e9298f5e812fc1cce8691765865
+Description: An awesome MobileSubstrate tweak!
+Name: old-lockscreen
+Author: daniel
 
 Package: ddgg.uiscroller
 Architecture: iphoneos-arm
@@ -13612,6 +13663,23 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nightwind.cephei-compat
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0)
+Filename: ./debians/Rootless/com.nightwind.cephei-compat_0.0.1_iphoneos-arm64.deb
+Size: 3622
+MD5sum: 2ddae6e0e2c2bc94ac6408661670944f
+SHA1: 79168b04c5f19c0f59999c260d0f954f00101b31
+SHA256: 970c4212e78b6f5201d14eeae628edf3015518abc0f2480ff1c5156bfe70416c
+SHA512: af4730233fde87139f24ada649db18c4d0087a98628a8c248206f6dca03031f681a9433cb66cca70a8683ff8a76e0996070e4612c5a0ebb167184e35055f8006
+Description: Fixes an incompatibility with new versions of Cephei that certain patched tweaks have. Adds back the old `translucentNavigationBar` property from earlier versions of Cephei in order to prevent a `didNotRecognizeSelector:` exception being thrown. Tested with Shortmoji 2.
+Name: Cephei-compat
+Author: Nightwind
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -13629,6 +13697,23 @@ Description: Simple tweak to remap the long press of the power button on notched
 Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
+
+Package: com.nightwind.matchingiconlabels
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nightwind.matchingiconlabels_0.0.1_iphoneos-arm64.deb
+Size: 3554
+MD5sum: 14b78684c2367f1858793b9d958077db
+SHA1: fc37d7866982551f1e8554874e6213fc231d9455
+SHA256: 0b8e5d0bc7dbf035374a6562c30125dad70369f3d76ee40129cbe0a46a366236
+SHA512: 43c918656a56ea8cfb3e9faf41ac27769f5cc2b966726cd3e41b6cf17a71a62d2bcbfbd0487f47278498d96444dc6b3e2df23ac960e8d64e8ce2bc47427eddd7
+Description: Match icon labels colors to their icons.
+Name: MatchingIconLabels
+Author: Nightwind
 
 Package: com.nightwind.musicplayercolor
 Architecture: iphoneos-arm64
@@ -13732,6 +13817,23 @@ SHA256: 6ed1adcf587f9f4343727316d2e794419326aa2ad40b5319222fe9a059ff8be6
 SHA512: d14ff0da39c9ed4d83ae4585efaeb5e2167c18a45c83500651bc45a56ac7a68121dc14b711fd66584428c0615a3b20dc60c4870397ebe05d52fa98eac0296868
 Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
 Name: SileoRespringFix
+Author: Nightwind
+
+Package: com.nightwind.visionsearchpill
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debians/Rootless/com.nightwind.visionsearchpill_0.0.1_iphoneos-arm64.deb
+Size: 121790
+MD5sum: fe95d5132723cfaee71112b59121f2e9
+SHA1: f6d14d37871eb487db7c9d351fe65c8f4f1d5eba
+SHA256: ab0bd0c1094a1a2655703fb23913d5b0086f753769fea80f98463927bad2f1b9
+SHA512: 1448c4071db3ceead313bc893d4f71a58dcec324836ab8690c14a1bf70276db47d344e0c95b524856a4cf2643f9123a07a0c8c6f460706e8f5f467cfb481c2f2
+Description: Add a flare of visionOS to your search pill!
+Name: VisionSearchPill
 Author: Nightwind
 
 Package: com.noisyflake.betteralarm
@@ -15240,6 +15342,23 @@ SHA512: 764aef192b37c64ea8f34020fb7eee894c2dc97f2f9867bd0844a9f40b64590a4d60d5a2
 Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
+
+Package: daniel.old-lockscreen
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/daniel.old-lockscreen_0.0.1_iphoneos-arm64.deb
+Size: 4106
+MD5sum: 93c21341791a86d9be32c909334c33d5
+SHA1: 0c7c344d8132df18c1776b51ec620e8a1b56e2cb
+SHA256: 88f2a89f5ad60d695b1612b9ce2927182256032ec947e493a9d354625e1f3438
+SHA512: fac93a2a72bfec0b0232cfb07e99f8396f873faed0a9f2bd9818ca6368b01caa3f26845142e8fe51a67dd960973f06b2031513887ee25928b66dca2a926714db
+Description: An awesome MobileSubstrate tweak!
+Name: old-lockscreen
+Author: daniel
 
 Package: ddgg.uiscroller
 Architecture: iphoneos-arm64
