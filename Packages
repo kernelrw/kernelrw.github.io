@@ -5813,6 +5813,25 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.15
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
+Filename: ./debians/Roothide/com.f0u4d.watusitools_2.5.15_iphoneos-arm64e.deb
+Size: 12256510
+MD5sum: a0d6dbe2032726ae3931366c0055e6d3
+SHA1: 81d7f8db6fe2fc81c1b33794eee6bb6dd60dc92c
+SHA256: 677fbc5edfa9ca82c6bd5f9bc85a51853ca0fe1bbbad03058478df02807d53f9
+SHA512: ceef7db91ca48f642143b3fd9a8bf60bb640921408e4c3433c290ea12344e30959b8b17e2bd9366bb2cc1331a33979c639feeaa8d4e23a8265edd29e0fae8370
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -5912,6 +5931,27 @@ MD5sum: 53472b22bad258b0de38b2b7ee1ce3e4
 SHA1: 6800ed9e33c4626642d90efd5218c0cc52979753
 SHA256: f3b37b15027c4e44219057afdca9cffb199fd1c7ba070eb04b7936b5b88c2908
 SHA512: 09c5f02054d66068f8418bb6e7e9218b65693a5c9f56c6acd84618c186dc58e5b56dc07e5a290a83cf3d547d9cf99cb9eca6c7de93a3780898dceb208cecdf7c
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.67
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.15)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Roothide/com.fouadraheb.watusi3_1.2.67_iphoneos-arm64e.deb
+Size: 4664074
+MD5sum: 45570bf032f197ba8e3d44c47599be29
+SHA1: 5f4b26807f603a753eb1f0c70a0902699d7338ae
+SHA256: b784c29785f2dc20960fc9502d6939cc379290531365ef99217ea7f0ea159137
+SHA512: 9860abc9fc5ba9d43cd5699af95d2fb39ab1bb7b342fa5588314e1357588ca4750b46520ffb1565abf095f141289fd0c68681ea70fc7232a0e639afbd8abb298
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -6898,6 +6938,28 @@ Description: Shows where you touch the screen
 Name: ShowTouch
 Author: LonestarX
 
+Package: com.macthemes.axolotl
+Architecture: iphoneos-arm64e
+Version: 2504
+Section: Tweaks
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 589
+Pre-Depends: rootless-compat(>= 0.9), mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 15.0)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: ./debians/Roothide/com.macthemes.axolotl_2504_iphoneos-arm64e.deb
+Size: 247932
+MD5sum: a0f5456b0be6fc4c28d24eed3c4695b1
+SHA1: e1e162e276d49ad3e058a01de8c5b331a293d43f
+SHA256: dbc43b9607b276306cb7f84e1c47e71a58f607187389df94d0c10c237f355978
+SHA512: 73c16f8d1f2d4faa9e369033b8272eec9fb42eca1c3191f58c7392659438181727c99a429a07fb35c8424d92c21b88c545116faeb9733c6d65177de752230c4b
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios15
+Name: Axolotl for WhatsApp
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
+
 Package: com.megadev.sentinel
 Architecture: iphoneos-arm64e
 Version: 1.3.1
@@ -7442,6 +7504,24 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nightwind.cephei-compat
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0)
+Filename: ./debians/Roothide/com.nightwind.cephei-compat_0.0.1_iphoneos-arm64e.deb
+Size: 5176
+MD5sum: 6fe745e51562d5947ccb46fc58406581
+SHA1: 7af25edf9d37d4deb07e207b034f7ddd3ea32043
+SHA256: 71a23e35bd9bb8dd9401873a02db04db010035a62042b1b7afc54304ea06c17f
+SHA512: dcf99a1ecd74a5a891b5e532733bc95a4bc742e7fd153c3383ecbc318880a7056f0a82c5c9107b0b06359be117bc86311059f35f20b192e38129dcfcdbeab737
+Description: Fixes an incompatibility with new versions of Cephei that certain patched tweaks have. Adds back the old `translucentNavigationBar` property from earlier versions of Cephei in order to prevent a `didNotRecognizeSelector:` exception being thrown. Tested with Shortmoji 2.
+Name: Cephei-compat
+Author: Nightwind
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -7479,6 +7559,24 @@ Description: A simple tweak to add power settings to the Settings app.
 Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+
+Package: com.nightwind.visionsearchpill
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 540
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debians/Roothide/com.nightwind.visionsearchpill_0.0.1_iphoneos-arm64e.deb
+Size: 138992
+MD5sum: b161a2e5407ae5ce6bed7d9b086ae3e9
+SHA1: f58ed7a2fa4ccecde6f076ae9061e7b22b79c71a
+SHA256: ac50b0fd80bafde300e3c12fbf6649b394c826bf7690c7abe51243587bcadaf3
+SHA512: 2e528fd13a7a9358ae673eafb2f3c316cb91cc5a5337a7f4850caa8c97a5d887cbb8536d396ef066308c4356b611f719c07106de4088a32afacbc3d74922dce4
+Description: Add a flare of visionOS to your search pill!
+Name: VisionSearchPill
+Author: Nightwind
 
 Package: com.noisyflake.betteralarm
 Architecture: iphoneos-arm64e
