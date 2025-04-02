@@ -3201,26 +3201,6 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
-Package: com.pxcex.autoscroll
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.pxcex.autoscroll_1.0.0_iphoneos-arm.deb
-Size: 34494
-MD5sum: ba85d6d2eed28a198644205ea99daafa
-SHA1: 3197c0f51ef900df5c06c419f9907ea7f4f1dd73
-SHA256: 8e738509a872038591ac79a9d7ea4e27930cb9e90b42bb2265c34cd01df857c0
-SHA512: d55e60f4e972752d11fb2a28a160da20509230cddbd38b040322f31efc461b54d2dd82c6ad801638ade1d7b4fea4c6f424e56f9016cd4a652371634afaa154d6
-Description: Smart Auto Scroll & Faster Scrolling on all app.
-Name: AutoScroll
-Author: pxcex
-Depiction: https://d.plutorepo.com/posts/AutoScroll
-Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
-SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
-
 Package: com.pxcex.facebooknoads
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -8245,26 +8225,6 @@ SHA512: 76a9f3b8403eb6b01b75bdc66b03159ff558b9a315084cf3932d40d904709e4776432bd8
 Description: Scripts to build rootful & rootless with Filza. Plus other handy Filza scripts. *Use regular Filza, NOT trollstore Filza*
 Name: Filza Scripts
 Author: pwnd2e & Sudo
-
-Package: com.pxcex.autoscroll
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/com.pxcex.autoscroll_1.0.0_iphoneos-arm64e.deb
-Size: 4124
-MD5sum: c20d38374b5c46f536b33ef30e6aff8c
-SHA1: 7e9276b969243c7609061fa52351429717dc5b59
-SHA256: 8cb160744eb3922b74d950261fdf351085bad2c9a11c26c9c1585bf06c4a75f6
-SHA512: 3711cf83770fbd23ad763e4c44b25ede85f738458b4e080dfb710e4542ec843eb03c72df82f5873b1a8133ba187d5de51bfab8fc345640d963e695634beb1bae
-Description: Smart Auto Scroll & Faster Scrolling on all app.
-Name: AutoScroll
-Author: pxcex
-Depiction: https://d.plutorepo.com/posts/AutoScroll
-Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
-SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
 
 Package: com.pxcex.facebooknoads
 Architecture: iphoneos-arm64e
@@ -14522,26 +14482,6 @@ Name: YouTube X
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
-
-Package: com.pxcex.autoscroll
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 152
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/Rootless/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
-Size: 26340
-MD5sum: d908811b4e895634aa4ed5e8e47cc183
-SHA1: e18be64dd0c552ec03986aa20cfd3882d3a88f2f
-SHA256: 39acd02062010c24552c036a3f085c0697b9db9c344f5fb2df66bbd6badfe5fc
-SHA512: 6957c34a06ce58f6d41e78ec0b426eeeab35dd96c537a3bb030b49f8459a300ddd42ff72a0d6f9726c3fb8a978a61313fa4e25e648635b2537e4d39930045bed
-Description: Smart Auto Scroll & Faster Scrolling on all app.
-Name: AutoScroll
-Author: pxcex
-Depiction: https://d.plutorepo.com/posts/AutoScroll
-Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
-SileoDepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
 
 Package: com.pxcex.facebooknoads
 Architecture: iphoneos-arm64
