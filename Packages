@@ -608,6 +608,23 @@ Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
+Package: com.brandonplank.haptic17
+Architecture: iphoneos-arm
+Version: 0.8
+Section: Tweaks
+Maintainer: Brandon Plank
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
+Filename: ./debians/Rootful/com.brandonplank.haptic17_0.8_iphoneos-arm.deb
+Size: 12380
+MD5sum: c2b29048c5be5985c2d911f7dd5c02cd
+SHA1: 6cf656e4b4061f7f899fc6ec3d90e5555ec09d9f
+SHA256: a89f293c815bb68c1faeb104b0630d36c66fdaed9c12308e7434527cd2431e02
+SHA512: a34c0985bc7294a9795de81204836c4d97bcd604dbd52277473edd4c02cb4ef959871564bd8c7154b599fda9f7ca3a1345c1a0d8f6315ffcc9e84ff1daa78516
+Description: Puts haptics in places apple should have!
+Name: Haptic17
+Author: Brandon Plank
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
+
 Package: com.castyte.iamchinese
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -4405,23 +4422,6 @@ Description: Dynamically enables native tethering for iOS8+ devices.  This shoul
 Tag: purpose::extension
 Depiction: http://repo.tetherme.net/licensed/net.tetherme.tetherme8.html
 Name: TetherMe for iOS8+
-
-Package: org.brandonplank.haptic16
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Brandon Plank
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
-Filename: ./debians/Rootful/org.brandonplank.haptic16_1.0.1_iphoneos-arm.deb
-Size: 15524
-MD5sum: d20b7f6aa5ac94912b0f41a2b9dcc3cd
-SHA1: e95e0d014205c61474d53d8b4a07b706fd0144eb
-SHA256: 8ce6fdfb6c5036ed4e4cccf5d08c87ebdb63b7bfc719d27c80be7c164e68ed2d
-SHA512: 3d249c5c7bfa07297b5f00790bc8abd43149d9ee337e91b700494b6f5408dcf952ed64e5216d6b683b22e8511603fbd33f90c2d016bd95a169379f72150bb59a
-Description: Puts haptics in places apple should have!
-Name: Haptic16
-Author: Brandon Plank
-Icon: file:///Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
 
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm
@@ -9966,24 +9966,6 @@ SHA512: b09c64ce3e1b9e9595493b5d97cd6209a3b1e235c863b5fc4b7437e64cca71a0b3083b69
 Description: 隐藏X系列的所有地方的黑条，且没有任何影响（例如横屏游戏时依旧需要上滑两次退出）
 Name: HideAllBar-Rootless
 Author: Netskao
-
-Package: org.brandonplank.haptic16
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Brandon Plank
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
-Filename: ./debians/Roothide/org.brandonplank.haptic16_1.0.1_iphoneos-arm64e.deb
-Size: 16712
-MD5sum: 7a47c621add701f3940b74b441ba8ead
-SHA1: f0a92dfe265751adc1582c876c94948ce26e8189
-SHA256: f915a8d638e56fdc853c430806feb89d491fc10a52e927400bf825537f059ed6
-SHA512: 82462f50f6a2f3554933fc94277c8791bbeb22e8c858fd4a8477b152f190fa16edc5928aa3fde23fc6d0547c9e1ad8123aa36160de7201fbd28cbb2f07555e49
-Description: Puts haptics in places apple should have!
-Name: Haptic16
-Author: Brandon Plank
-Icon: file:///var/jb/Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
 
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm64e
@@ -16381,23 +16363,6 @@ Description: Click to wake up and double-click to wake up .
 Author: Netskao <netskao@gmail.com>
 Name: DoubleClickWake-rootless
 dev: netskao
-
-Package: org.brandonplank.haptic16
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Brandon Plank
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
-Filename: ./debians/Rootless/org.brandonplank.haptic16_1.0.1_iphoneos-arm64.deb
-Size: 15600
-MD5sum: 54040b5cd995a88911bfcce2bf07600e
-SHA1: 1202360b7150775e7f2434aaa360f58de2a2f73b
-SHA256: 3e6a1fad7c447cf9b6af0c9e859dd342b699dd28b20e9327ebfb0a157b625c05
-SHA512: e109000e74f7b5db88518ed71347c3a113688a6d5f1467ff463eae2b1f0c4d063b66c7343f88d082ed00e8e564c7c377861cc7cd61c1b7897c0a376a0d5e73a5
-Description: Puts haptics in places apple should have!
-Name: Haptic16
-Author: Brandon Plank
-Icon: file:///var/jb/Library/PreferenceBundles/Haptic16.bundle/Haptic16.png
 
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm64
