@@ -2813,14 +2813,13 @@ Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
 Maintainer: Nightwind
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000), firmware (<< 16.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<< 17.0)
 Filename: ./debians/Rootful/com.nightwind.settingswifipassword_0.0.1_iphoneos-arm.deb
-Size: 7930
-MD5sum: 36c872679ebc49f57427fc9b7a77903a
-SHA1: aab3736b5f76cbdc18fcd9e000916a979731dbb6
-SHA256: 9d7ae54e95fe631590f697190bc103b45e69ac67634e8274394b5b78c3dccd67
-SHA512: 03a89da17cbebc70e536e8b72f8b4f2fa671147be75bc6d69ba679a41a8d8012109f254ce069ef4de8a87f5e447d89b0d20f758888421b7d95f8f9c0b876ac28
+Size: 13174
+MD5sum: a2b58785827781067c5a422140b8f1d2
+SHA1: 7d7e82f2382746ce70e7f958e69646430ad4d094
+SHA256: c84d6ce9b63e89acd7eed7f61327ce28dfc9d95e0f58e5ecffb098d4530e00e6
+SHA512: e63704725b1359c4f7f3bad4f4cfb50f0d46e93b3c7aacba4e81fc3a8f4e982d82bd00b9e92bfb6fc3d5324c630de88db53d4eefc73ec89d58b6c152d654fcb9
 Description: Add a button to copy the WiFi password to the Settings app.
 Name: SettingsWiFiPassword
 Author: Nightwind
