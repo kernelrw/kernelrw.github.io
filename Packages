@@ -4252,6 +4252,23 @@ Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
 
+Package: lol.sep.turdusmerula
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Development
+Maintainer: kok3shi
+Depends: firmware (>= 14.0), cy+cpu.arm64, libcurl4, libssl3, usbmuxd
+Filename: ./debians/Rootful/lol.sep.turdusmerula_1.0.2_iphoneos-arm.deb
+Size: 897498
+MD5sum: 972134ac85241907f16a91fc068f2b51
+SHA1: 78ec629cfaa19cdf00a74cd29ffd4f65e9c7556d
+SHA256: 56dc15bbc50d17c4b224599992b8ef973f4f6cc060f814a7f07775410ecfaa34
+SHA512: 6e991fc89cc51f49cdfb4a68c0ca492fb17aefba8cfe17559c0ea230e063834d05f86b2c813db884f7f2640f8aa9e54fd83dd46faacaddbaf177a5e6cdaa49f1
+Description: meow
+Name: turdus merula
+Depiction: https://kok3shidoll.github.io/info/lol.sep.turdusmerula/
+Author: Clarity, kok3shidoll, Mineek
+
 Package: love.litten.diary
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -16031,6 +16048,23 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
+
+Package: lol.sep.turdusmerula
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Development
+Maintainer: kok3shi
+Depends: firmware (>= 15.0), cy+cpu.arm64, libcurl4, libssl3, usbmuxd
+Filename: ./debians/Rootless/lol.sep.turdusmerula_1.0.2_iphoneos-arm64.deb
+Size: 875138
+MD5sum: f6ec771b285f783f809e68f74e02ebae
+SHA1: 74d2278add4c1109c43bb07fced7269f0985a042
+SHA256: d3a92b5ce754f41424a2a9777e29cb24336c30889df7eded178f0a0a2e9c6f82
+SHA512: 0b9fee0d438875d1963981aa0cfa6a0fcae1b9edf7963003cd2171d10a830ab1fcc8bafe2397b12e61b8a48a2eebf30256d0348cd51957bd6c04eb653f052626
+Description: meow
+Name: turdus merula
+Depiction: https://kok3shidoll.github.io/info/lol.sep.turdusmerula/
+Author: Clarity, kok3shidoll, Mineek
 
 Package: love.litten.diary
 Architecture: iphoneos-arm64
