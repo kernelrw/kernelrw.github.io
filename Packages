@@ -3735,6 +3735,23 @@ Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
 
+Package: com.thatmarcel.tweaks.lyrication
+Architecture: iphoneos-arm
+Version: 2.5.1
+Section: Tweaks
+Maintainer: Marcel Braun
+Installed-Size: 1376
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11)
+Filename: ./debians/Rootful/com.thatmarcel.tweaks.lyrication_2.5.1_iphoneos-arm.deb
+Size: 94092
+MD5sum: f9e269800e0954280176e43551f52082
+SHA1: a350e923fd481d4d61f6b63a8d922dd0574d2793
+SHA256: e9ef81f2b8ced3176e2d30748e75008334be94e72233b5d2abdfe76f0c83641f
+SHA512: af490f48baf662d47769b10433d0913599e246990d4b9b84331305368a076b7c5f2c867e7cbd6e7e32f03a422db7997ef1791f57fb55851ca7f302d36e485b3d
+Description: Live Lyrics for music
+Name: Lyrication
+Author: Marcel Braun
+
 Package: com.tonykraft.persistentwifi
 Architecture: iphoneos-arm
 Version: 1.2.4
@@ -15211,6 +15228,23 @@ Author: tesla_man <computerman939+POBsupport@gmail.com>
 Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
+
+Package: com.thatmarcel.tweaks.lyrication
+Architecture: iphoneos-arm64
+Version: 2.5.1
+Section: Tweaks
+Maintainer: Marcel Braun
+Installed-Size: 1376
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11)
+Filename: ./debians/Rootless/com.thatmarcel.tweaks.lyrication_2.5.1_iphoneos-arm64.deb
+Size: 98098
+MD5sum: 385353d24379a21c601b2eaf89919980
+SHA1: c16642aedd324b4efa4199744f1ac8e940210447
+SHA256: 52b799d9659167c65168fd193a5799cab667bc269964f122fb8f393c79baf2e7
+SHA512: a56e48029b9c5f657c66c89ded665b4b4156b24582822761c2b115f6f4112876791022d699899a0e370e531fd7cf6127fd2f4f25a53199e30a71d26284595b3f
+Description: Live Lyrics for music
+Name: Lyrication
+Author: Marcel Braun
 
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64
