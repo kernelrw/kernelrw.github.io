@@ -3835,6 +3835,23 @@ Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7
 Name: Checkm8 Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
 
+Package: con.dell.speedview
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/con.dell.speedview_0.0.1_iphoneos-arm.deb
+Size: 39704
+MD5sum: ae24acbb3d73f41bc2ada8ddaa9d1684
+SHA1: 072844f0e70a88bc0d156e4920a5b5d188c7a820
+SHA256: b03ec3f8a4fc00df8988f2c3908483969554604a82d24b4c41c2fa3e616468cb
+SHA512: 1ca5e28943b8d9ff80757334ee50ead78433e469744ed34b4f250ad90b95635017619930cd25dd24ced5cf94dc31d73e7db58e0dfcb5e3f46c20b05e61dcc10b
+Description: Another Network Speed View!
+Name: SpeedView
+Author: Dell
+
 Package: daniel.old-lockscreen
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -9369,6 +9386,24 @@ SHA512: 3fefdf9c6af2a7c4b8c8f0960f6f354f4bf6040d638077a62d1bd7830a520bef66c3ed7e
 Description: 自定义系统全局开关颜色・Customize System-wide Switch Colors
 Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
+
+Package: con.dell.speedview
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell
+Installed-Size: 288
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/con.dell.speedview_0.0.1_iphoneos-arm64e.deb
+Size: 41756
+MD5sum: 1f3e693128853a4e3c354dee55f6599e
+SHA1: 83e5ae47933513167e740e661a7ac9044c9591ba
+SHA256: d3c1e423f9b69e9e4edf3834c1a5687d17ea80e1cc45eb915c56380c852da307
+SHA512: d97ccec1601938594f97205407b3fe53abb14f2f76ebdc12bd5a1d3247fe1c7f3133ea760784bc3f23bd01ee96da5d5e694fced0605d63b14544a57598af0510
+Description: Another Network Speed View!
+Name: SpeedView
+Author: Dell
 
 Package: dev.kernelrw.ccshutdown
 Architecture: iphoneos-arm64e
@@ -15537,6 +15572,23 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: zqbb <w2599z@gmail.com>
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
+
+Package: con.dell.speedview
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/con.dell.speedview_0.0.1_iphoneos-arm64.deb
+Size: 40736
+MD5sum: 8c97b1f27a3bdb297001bf4a81f8cef1
+SHA1: 8960d5bb0e2d57da66ca34e74f19a199fbfc9809
+SHA256: 5a7c4c633c6f26fdfef3a0de083274a2c3e7eea4849ddab5b5086cc3113737d9
+SHA512: c66b3730a79e2567888ad8c78102594c693092dfb199a7aca5f8cbfe410d218bd9a24403db2902b9bb0d34d7958de59dd2762057fc9818a2e68083f1e9d6b556
+Description: Another Network Speed View!
+Name: SpeedView
+Author: Dell
 
 Package: con.merdok.battivator
 Architecture: iphoneos-arm64
