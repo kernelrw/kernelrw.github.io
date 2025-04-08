@@ -144,6 +144,23 @@ Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 
+Package: codes.aurora.ve
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 708
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/codes.aurora.ve_2.0-beta_iphoneos-arm.deb
+Size: 72274
+MD5sum: ea372fde7193a59b04b60d00c39f1bcc
+SHA1: eebe2bc74bdabc4c518b60119dabc593e952ecb3
+SHA256: fe88eb6ade99079d3c0654ef7e20515d82e79df472d25724498d40c60be70edd
+SHA512: e61536e735b1252e5ded5f51fc187ce83ef86d013f7944337848e8e15d661abcab4235fa4e068b76a5e86f8d30457a9d6bf985f6c944b45691b2c063d784cc09
+Description: Natively integrated notification logger.
+Name: Vē
+Author: Alexandra Aurora Göttlicher, 74k1_
+
 Package: com.0xilis.letmepass
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -4924,6 +4941,24 @@ SHA512: 815a0d136fc2bbccdaabd1fd2fd13813a7ef50f303a4de879f1fdfbd88d13f31c01afb3e
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
+
+Package: codes.aurora.ve
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 740
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/codes.aurora.ve_2.0-beta_iphoneos-arm64e.deb
+Size: 90438
+MD5sum: 6175e172c1aab5e617aca383210a1c56
+SHA1: ea605d30a72134799a15b34e72e4759b4ac7ac34
+SHA256: ad686951a82d6689157dd37e75ad3ba601a1dd559b390671fb65eca4ad5a4a0e
+SHA512: 73e2ad5916fbba6b6ee8b3095cf3aff88aad5ee5e414c978fddee9c726ddcaf95618ce6730ad2bd97c99b6721caa2002946936c86c5d82dbf3934f736e11070d
+Description: Natively integrated notification logger.
+Name: Vē
+Author: Alexandra Aurora Göttlicher, 74k1_
 
 Package: codes.aurora.ve
 Architecture: iphoneos-arm64e
@@ -10731,6 +10766,23 @@ SHA512: fde0158a2f46141630ac78a5229ec8e2dd95b174af53997c46f43c52a1f8e1696a537799
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
+
+Package: codes.aurora.ve
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 740
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/codes.aurora.ve_2.0-beta_iphoneos-arm64.deb
+Size: 65540
+MD5sum: 59936873263d39437c72ab3c35d1b472
+SHA1: f1df7fb21ea650220d3d2af4166c8f5b9dbbe843
+SHA256: 4c85642477d01eaf68e542b6787f8eed056942920d01ef5308411d14a94ea58a
+SHA512: d8d900ac594038f8a934bfa0b1c02d2881f5e18ae134fb0de2201068cad884724500121b9e8c386ebc783fee989443e1b899f8d1cd84cd1ad39f69baad8ecf6d
+Description: Natively integrated notification logger.
+Name: Vē
+Author: Alexandra Aurora Göttlicher, 74k1_
 
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
