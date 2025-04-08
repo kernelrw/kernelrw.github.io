@@ -2555,6 +2555,23 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
+Package: com.nathan.mediacolor
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nathan.mediacolor_1.0_iphoneos-arm.deb
+Size: 7516
+MD5sum: 3387af9873cc5ef960ad98d97235f6e7
+SHA1: efaaf7ba4c1211cc49873ca20b64ba88fb093868
+SHA256: 5d23baadd124193b67b4bb70257aaeafab3699f8ba77626b1d35cebfb7939cfd
+SHA512: f2233ccd9ced14cdd34a5847d942c26d4ad491a9129219d0a163566c897eadbb4ba06e659ec5d8e0259473d7c4acfba0f02815109d7f05d28b164b7cddcfd3f0
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Name: MediaColor
+Author: Nathan Senter
+
 Package: com.netskao.batterypercentx
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -13671,6 +13688,23 @@ SHA512: 4f324e7422107b2c24075149fa19be13ba34fe37f8d4f82f1cbd746501ce85c54872740b
 Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Name: DynamicNotLand
 Author: Nathan
+
+Package: com.nathan.mediacolor
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.mediacolor_1.0_iphoneos-arm64.deb
+Size: 7322
+MD5sum: 6f552d50f9aa4e96eac7ab1e748f30c0
+SHA1: d140dacf7ee6ae0bbf4e8bc39c92088c29d2a3f7
+SHA256: ce58fd1dffe17bf63ad58f64cba1d6c91404915b75724cdccd28b99b0b7fbcdb
+SHA512: f5ff3a22f167f733ca9cc5aa7aeb5918b7be55e2a422f91cc9ea31547dbdd730cb16d343d9c465adc911b513ffddd11883ff2819d6f2923abbf5dfb038d2c84d
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Name: MediaColor
+Author: Nathan Senter
 
 Package: com.nathan.miniisland
 Architecture: iphoneos-arm64
