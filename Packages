@@ -2572,40 +2572,6 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
-Package: com.nathan.mediacolor
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Nathan Senter
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.nathan.mediacolor_1.0.1_iphoneos-arm.deb
-Size: 7244
-MD5sum: 59050560c3ddc476f222c8b17727cfae
-SHA1: 68418fa87247c51fb433901442c8cef8425bd060
-SHA256: e8156d589af17ca77279c90f682fa844e04d6fa41c4ab0f081d35a4ead355f0b
-SHA512: 4def6f36a8dc7dde60fb0a569c15c7022368252699a5062f9a9e49a35ec9d04d52ff8df749c51183fd68ddcae61943b23ccd44e00fb63a5277ea8782d899c957
-Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
-Name: MediaColor
-Author: Nathan Senter
-
-Package: com.nathan.mediacolor
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Nathan Senter
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.nathan.mediacolor_1.0_iphoneos-arm.deb
-Size: 7516
-MD5sum: 3387af9873cc5ef960ad98d97235f6e7
-SHA1: efaaf7ba4c1211cc49873ca20b64ba88fb093868
-SHA256: 5d23baadd124193b67b4bb70257aaeafab3699f8ba77626b1d35cebfb7939cfd
-SHA512: f2233ccd9ced14cdd34a5847d942c26d4ad491a9129219d0a163566c897eadbb4ba06e659ec5d8e0259473d7c4acfba0f02815109d7f05d28b164b7cddcfd3f0
-Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
-Name: MediaColor
-Author: Nathan Senter
-
 Package: com.netskao.batterypercentx
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -4179,17 +4145,34 @@ SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.goner
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm
+Version: 0.0.9
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.mineek.appstoretroller_0.0.9_iphoneos-arm.deb
+Size: 15754
+MD5sum: 8ba7f4fd12ce82d27f12c39713bf612f
+SHA1: ee6b7714b75b6ce638b93924cdefb59c90e4ab00
+SHA256: 4f0d24cae0f44d61a73cc0d9db051fa3ffcce3eb0707be585a38c4b45c4254f0
+SHA512: 1890f482b339ad40cce5fa990035bf52e0cccce45b405bb994586687a0cb74856ff990392d214441521bec973d7a7b476871df37848ebf1bcc871a04fdbd82b1
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm
 Version: 0.1
 Section: Tweaks
 Maintainer: Mineek
 Installed-Size: 512
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootful/dev.mineek.appstoretroller_0.1_iphoneos-arm.deb
-Size: 16092
-MD5sum: 1564c66dfa5bffd431c78352f1fb927b
-SHA1: 422532a28dcef58d7f97bc716eb9e11ede607a62
-SHA256: 9fab37910f198ca22aa1dc23607b94d6a9d3a83599e2291ef712e6d42d4088d8
-SHA512: 0e9c02038586882fa910657d15013abd0e1b1613da847e25d87f494b92d400e5cd5f7652c2f176b28a18059708ab682d8fe80751cc5c08cda3f73a2307690eab
+Size: 16242
+MD5sum: 063995724650cee8e8cf3efb463ebb4a
+SHA1: 0739aab9821cb16e4f3ad7b620db8ba84077c624
+SHA256: a9fd512956116f0a2084a24b60affc90b7fcba883f08002f43e093db92d63ef6
+SHA512: 49e84e4c1594c9260e44ec91a93cf82c6b60fcd32d90b0c5ccb170be179d07164237260235c7272ed2b666bf3a2be35b984b1e1768087576ce7ddb0e3a392d01
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
