@@ -2557,6 +2557,23 @@ Author: Ethan Whited
 
 Package: com.nathan.mediacolor
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nathan.mediacolor_1.0.1_iphoneos-arm.deb
+Size: 7244
+MD5sum: 59050560c3ddc476f222c8b17727cfae
+SHA1: 68418fa87247c51fb433901442c8cef8425bd060
+SHA256: e8156d589af17ca77279c90f682fa844e04d6fa41c4ab0f081d35a4ead355f0b
+SHA512: 4def6f36a8dc7dde60fb0a569c15c7022368252699a5062f9a9e49a35ec9d04d52ff8df749c51183fd68ddcae61943b23ccd44e00fb63a5277ea8782d899c957
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Name: MediaColor
+Author: Nathan Senter
+
+Package: com.nathan.mediacolor
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Nathan Senter
@@ -7340,6 +7357,24 @@ SHA512: 7184461a91634fc35dc431aa3d6b8c25f8f2a2f896a76fda3a7408c7329dedac67031300
 Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Name: DynamicNotLand
 Author: Nathan
+
+Package: com.nathan.mediacolor
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.mediacolor_1.0.1_iphoneos-arm64e.deb
+Size: 9720
+MD5sum: 04993ddfbebe15dae553d61edfeef035
+SHA1: 6115f49de54212211425331d10d5fa1ab6fae635
+SHA256: e420c665cf7d625831e885922f911e7df5d48708cb7bc831fa66fe05e6c5de96
+SHA512: 5db8645afdc462960fe921fc0a60826b11db72077e6ccda92c71a15abf1d2a807587585d985cccb2534da60e742c74990430142a05db4286d323ad00e45e3603
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Name: MediaColor
+Author: Nathan Senter
 
 Package: com.nathan.miniisland
 Architecture: iphoneos-arm64e
@@ -13688,6 +13723,23 @@ SHA512: 4f324e7422107b2c24075149fa19be13ba34fe37f8d4f82f1cbd746501ce85c54872740b
 Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Name: DynamicNotLand
 Author: Nathan
+
+Package: com.nathan.mediacolor
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.mediacolor_1.0.1_iphoneos-arm64.deb
+Size: 7190
+MD5sum: 0fca537f0e9a11ff8b3a31978bf93402
+SHA1: 5a14391a79d51f8302b308c14a533fa215acff68
+SHA256: fd94fefc94b5471fcebe649d9b7c0429ef836f92d657d01ff326255c2dc60864
+SHA512: d4fa59bde59b508eed02e7172e9bd31300d89faac3e8383bb096fd3c9fa9328b9b06e71c1a76ab981b6d3209385cb967479678b09f6d7c4dc5750a7830742874
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Name: MediaColor
+Author: Nathan Senter
 
 Package: com.nathan.mediacolor
 Architecture: iphoneos-arm64
