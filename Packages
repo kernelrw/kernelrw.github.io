@@ -9439,6 +9439,26 @@ Description: 自定义系统全局开关颜色・Customize System-wide Switch Co
 Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
 
+Package: com.zqbb.limitcharging
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 244
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.limitcharging.rootless
+Filename: ./debians/Roothide/com.zqbb.limitcharging_1.0.8_iphoneos-arm64e.deb
+Size: 17940
+MD5sum: 749cc04f72b5a5b9edd1d23740b77f36
+SHA1: d0f498d417c0a07700dbb1739862d91708ae2b39
+SHA256: 92526131bd72514e26f6f8315cd121e0df9172bfacc6e8c2c455ad58990068e6
+SHA512: 8878d7a149affcc821750e1fc89283a1b3c0650693b15655eaa9c2e8c6fa0e17fe3af5b7fec3dcd3c31e9108ceb7d9b7245c33cde1c575eba7a5cc05be6f2813
+Description: Hello Charging
+ -Keep Wi-Fi Connected On Lock Screen (Standby consumes 5% more power)
+ -Stop Charging To Any Percentage You Prefer .
+Name: Hello Charging
+Author: zqbb
+
 Package: con.dell.speedview
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -15621,20 +15641,20 @@ Architecture: iphoneos-arm64
 Version: 1.0.8
 Section: Tweaks
 Maintainer: zqbb
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Installed-Size: 244
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
 Conflicts: zp.limitcharging.rootless
 Filename: ./debians/Rootless/com.zqbb.limitcharging_1.0.8_iphoneos-arm64.deb
-Size: 19236
-MD5sum: 6961a01ae8a1666114368ac981bfa005
-SHA1: 8e98b770261d17b0625d0604376cfeeffcf8cfa5
-SHA256: 7a3f4d3d47f1c0cb989222d59e499b6bcc5dfa19b0f5ae294342fc22ff93b5d1
-SHA512: b32f28d1147675792a90187393e514a0b24c5008a59c92b9668d784040144e99f1fdbbc6188979c3e5744b8344b0ee412b056bb2cd60a2c4526e9be1802923c0
-Description: Hello Charging (限制充电)
- - Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
- - 锁屏不断Wi-Fi(待机多费电5%)
+Size: 19180
+MD5sum: a7b6e05ce3c19d672363a7071114f78b
+SHA1: 7018314c34c92e78a2f456fb32453d45db2e5316
+SHA256: f7e027c332153fde50ee36c21ca26e608f9718b383652e88bea1b4fe7e75c049
+SHA512: 0486c69ac4295759fbc4b101b8c419f47b5c7ee57dcaa8abca4330a63d7ec5faa71deb86ac493f38c7612dd657de2329c7d6406fbc26a633f818b1203df53f74
+Description: Hello Charging
+ -Keep Wi-Fi Connected On Lock Screen (Standby consumes 5% more power)
+ -Stop Charging To Any Percentage You Prefer .
 Name: Hello Charging
 Author: zqbb
-SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
 
 Package: com.zqbb.limitchargingg
 Architecture: iphoneos-arm64
