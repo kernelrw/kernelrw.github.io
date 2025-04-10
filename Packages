@@ -7429,6 +7429,24 @@ Description: Tweak that changes the background color of Now Playing widget of th
 Name: MediaColor
 Author: Nathan Senter
 
+Package: com.nathan.mediacolor
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.mediacolor_1.0.5_iphoneos-arm64e.deb
+Size: 9790
+MD5sum: fc35220e3fcb2176c8cb64879fc13d36
+SHA1: 9b0b57cdc5cd105e791068bfad4f59e9307bc748
+SHA256: f7cb8f02141e1f73e026fa7a5ce8ccbb6fb6875a59626ba529655a74038d90dd
+SHA512: 9a21cf45a354a78e06a9aa21fd4bade3c98609523932fcef1c3b5d0c6b1e8dbfd2863e179c3c080177d1da08304c5c6eda0172cc54b4cda53018b6987754212c
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Name: MediaColor
+Author: Nathan Senter
+
 Package: com.nathan.miniisland
 Architecture: iphoneos-arm64e
 Version: 1.0.2
@@ -13862,6 +13880,23 @@ MD5sum: df3d61d701b319a642fcd808a40bf7a5
 SHA1: 0859357d6d754531a6bf4a670e6948101f024cd9
 SHA256: 9279c7e3f3e6df5326c9b79502d91d68985c4105466200b036d2ab90d5b7ba02
 SHA512: 9391699d18999e9fa347d646aa3baa78897e8c6fc8a1bc65affa552e29266f5175ebbd8b90e9121cf110644dbb6df1e0926b2972c634801bf3fc9881d9157c9d
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Name: MediaColor
+Author: Nathan Senter
+
+Package: com.nathan.mediacolor
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.mediacolor_1.0.5_iphoneos-arm64.deb
+Size: 7236
+MD5sum: 3e20ec16e70a3e67d7efce7dad0793b4
+SHA1: 066a1996aaf374ff2958e29a5cab053f7aaeb051
+SHA256: a7c0cdb52b3601f75d1176e0917caa923d636fb81550079b13a7f91f3ea14e07
+SHA512: ccfb429b69339c23baae01d4ad0b5154f01b449b510d534001e4da53b240e1049821c5b3d586aefc566961a18083b77012418805c9a3b216f0fba620f70e72b0
 Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
 Name: MediaColor
 Author: Nathan Senter
