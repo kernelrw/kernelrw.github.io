@@ -7859,6 +7859,30 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
 
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64e
+Version: 1.5.2-2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1122
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debians/Roothide/com.opa334.choicy_1.5.2-2_iphoneos-arm64e.deb
+Size: 213252
+MD5sum: 59bc9a8828daa07d5649f3632c5daf1d
+SHA1: ba9098fe4b891160cfcf212af652d39dfa0f84d9
+SHA256: d56a0c6bafdb0c9874583c62169e7b6670c9ea061b19503e3717bfb67b443049
+SHA512: c9334b965ba0687847876ac367700b30579ffffeefbcd7a592a71911d9ef02d7313b4bfa87ac9a4c5a155a40a6157beb58444b6410b355c608a3870587cf8f76
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
 Package: com.opa334.libsandy
 Architecture: iphoneos-arm64e
 Version: 1.1.3-3-1+debug
