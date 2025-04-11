@@ -3254,6 +3254,23 @@ Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
+Package: com.r0.relocatereborn
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nepeta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist,  com.rpetrich.rocketbootstrap, preferenceloader
+Conflicts: me.nepeta.relocate
+Filename: ./debians/Rootful/com.r0.relocatereborn_1.0.1_iphoneos-arm.deb
+Size: 69572
+MD5sum: 730e693e3e1a6a05c2cd624cc35a5ef2
+SHA1: a7940ec59cc484b27775569a833210e23516cb57
+SHA256: 015e45c233934321502c31c282ab0ad770ddaad052ce1cf9ea4a49e31024b45d
+SHA512: 4c7afe9c7436618668da53946ef53c9a673b454d6bee6c0403182371330c483be5317e6db5ad7304fcbc3e3491c0d622f7f8895e5eb2fda43f477b0711596e56
+Description: Minimalist GPS spoofer
+Name: Relocate Reborn
+Author: Nepeta
+
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
