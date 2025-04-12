@@ -6423,6 +6423,28 @@ Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
 Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
 
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64e
+Version: 0.6
+Section: System
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/Roothide/com.ichitaso.otadisabler_0.6_iphoneos-arm64e.deb
+Size: 66236
+MD5sum: af60d0b5a784441374fa2c22a9c32bb5
+SHA1: 39f7d6129b3aafd71123b1a51701597dd5aedd75
+SHA256: 195b7f04c27164f0d39019cd38a2619996eecc3dd87c68523917206d8e0fd649
+SHA512: d5f95effc195a67c1c34e5f63b8507eb28a5bb0fdfd1ba497d21ba4df12f2e51550d3b32c1e0a51eea5443fadde39f4458e0e48c5d4ddd342d3e154de252fce9
+Homepage: https://ichitaso.com
+Description: Disable OTA and remove badges on home screen, etc.
+Name: OTADisabler
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
+Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
+
 Package: com.ichitaso.powerselector11
 Architecture: iphoneos-arm64e
 Version: 1.4.0
@@ -13120,6 +13142,27 @@ Description: Rest your fingers, automate scrolling any pages!
 Name: UIScroller
 Author: iamdega
 Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64
+Version: 0.6
+Section: System
+Maintainer: ichitaso
+Installed-Size: 168
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/Rootless/com.ichitaso.otadisabler_0.6_iphoneos-arm64.deb
+Size: 17152
+MD5sum: 6be45a897dc6d1a275c9ed0c0fc32329
+SHA1: 28e10242affc37852e3eac34bca1439f81ca6653
+SHA256: 3052aefd5a41dcfa3f77433508ae0f7ced87607e6d01517f512cb6195239dea5
+SHA512: 15599c3585881e33651a968a163932e89da88ddf9ab7bb6886eb4644a366a0506062c1eb16d5c27d42d8ddd36538504c8f74cf28d3a6bb41a6d8f35d5e8f9f3f
+Homepage: https://ichitaso.com
+Description: Disable OTA and remove badges on home screen, etc.
+Name: OTADisabler
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
+Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
 
 Package: com.ichitaso.youtubepatcher
 Architecture: iphoneos-arm64
