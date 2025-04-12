@@ -5228,6 +5228,27 @@ Name: No Redirect
 Author: Lessica <82flex@gmail.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66ffaad634a8a14a39e9a27a&s=180x180&f=webp
 
+Package: com.alexpng.tapme
+Architecture: iphoneos-arm64e
+Version: 1.3-6+debug
+Section: Tweaks
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Installed-Size: 7956
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.alexpng.tapme_1.3-6+debug_iphoneos-arm64e.deb
+Size: 11300692
+MD5sum: 40a0845e4de40d35e1731ae3b33e0563
+SHA1: d0b7b31307f97de023ddaca4c78e34cb44aa879c
+SHA256: dfaf2876279d1fb5368622da9df044dc17f555ad8b54f61a1d5c3d4b50424b1b
+SHA512: ddcbb63c569d4af78a6bdab1b179aecfe8b3e43d63ddfa0aa07b61377d429ffaaedd776e72dbc8604af6fa1111030ffb3826e68de38d116d3be39d3e7e5bba0f
+Description: Give sound to your icons and folders when you tap them , Convert and fixing it by TweaksDev22
+Name: TapMe (rootless)
+Author: TweaksDev22<tweaksdev22@gmail.com>
+Depiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+Icon: https://alexpng.github.io/depictions/com.alexpng.tapme/DebIcon.png
+SileoDepiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+
 Package: com.anthopak.addtofolder-rootless
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -9761,6 +9782,25 @@ SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
 Icon: https://paisseon.github.io/icons/Xinamine.png
 
+Package: hi.my.name.is.ubik.sonus13
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 720
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, oldabi
+Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
+Filename: ./debians/Roothide/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm64e.deb
+Size: 152286
+MD5sum: d60375a41884098e5eae480ff73187e5
+SHA1: d58dcaff644649299d0bee7471a1b58072b0cba7
+SHA256: 02de5d7d861739b34da7507e47147ec1260b0eaf82a64d9339615f0351f8960c
+SHA512: a296a4163b8adf09a936c3f6fa45c4c1d48a96c1d7f85149d39aff0fbd8dc193c98b5f4f381ec3fc227e69594b8bc7159187fac6a72c333bb890209585694883
+Description: The better and highly customizable volume hud. For iOS 13.
+Name: Sonus13
+Author: ubik <cydia@ubikstyl.es>
+
 Package: ios.kernelrw.ccwifijoin
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -11099,6 +11139,26 @@ SHA512: 4eff0e1e87e2294d2b70ea493ca3a92fb3256e32347f3fcc9e9060c3293c2c8479234f20
 Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
+
+Package: com.alexpng.tapme
+Architecture: iphoneos-arm64
+Version: 1.3-6+debug
+Section: Tweaks
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Installed-Size: 7956
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.alexpng.tapme_1.3-6+debug_iphoneos-arm64.deb
+Size: 3918728
+MD5sum: 2c04a816baa26554a62a30a43b4a414f
+SHA1: 6e080f1c2446ee68eaf7120a4607c1ac1d3b1660
+SHA256: ea87fc530fd3ea16cc896b247d73aff8678f9d39b5d40dc944f748ab5e1bb044
+SHA512: b63002c235608953ec728c4dfef1f337ceb73583e0dea100eae5bcad2e04fe2c26477cbd192caf0e503a34e60f0794b7fada41f14dbb0bb222d6f5e69064ad92
+Description: Give sound to your icons and folders when you tap them , Convert and fixing it by TweaksDev22
+Name: TapMe (rootless)
+Author: TweaksDev22<tweaksdev22@gmail.com>
+Depiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+Icon: https://alexpng.github.io/depictions/com.alexpng.tapme/DebIcon.png
+SileoDepiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
 
 Package: com.anthopak.addtofolder-rootless
 Architecture: iphoneos-arm64
