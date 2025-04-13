@@ -8349,6 +8349,27 @@ Description: Tweak reviews made easy.
 Name: TweakReviewsDB
 Author: pixelomer
 
+Package: com.pkgfiles.harlemshakereborn
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Installed-Size: 8316
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debians/Roothide/com.pkgfiles.harlemshakereborn_1.0_iphoneos-arm64e.deb
+Size: 15458840
+MD5sum: cce25db40ce8eb934f4134c4cb9c2076
+SHA1: 2cb7f2762447ee7802696d40f118fc1de4c42adc
+SHA256: 73b4e167c873f2cd431bd33a8726479dc67028649c55a165841f68d14c178a1c
+SHA512: e7b11278c5adfa69c192b80596477a8ee3f17169bd86595d6b66225e329a05732cd766885810cf155cef4f84a94f614291b426a5112db79b2069f4f62e30c721
+Description: You probably thought the Harlem Shake was over, didn't you?
+Name: HarlemShake Reborn
+Author: pkgFiles
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemshakereborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
+
 Package: com.prophecykitten.tweaktool
 Architecture: iphoneos-arm64e
 Version: 2.0.0-beta
@@ -14798,6 +14819,26 @@ Description: Disables almost all region differences/restrictions on iOS devices.
 Name: Globalize
 Author: parrotgeek1
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
+
+Package: com.pkgfiles.harlemshakereborn
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Installed-Size: 8316
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debians/Rootless/com.pkgfiles.harlemshakereborn_1.0_iphoneos-arm64.deb
+Size: 7733810
+MD5sum: 65b35c595dff74033baa93a631227bf5
+SHA1: 44728b5958e88e4be4d5000aaa748abfd82fcd57
+SHA256: b9e43eaac95c27617f7df443d885a4acc4ce045d970589ff972b2744b53077e6
+SHA512: 12d117e1ccf21b6c98da51968e8eba6c5c2bb309833f04474b253b185b402bfa147f1ccad8f51fb87b3c1354860a937787912712dcb875e251a10a8c283bc8d0
+Description: You probably thought the Harlem Shake was over, didn't you?
+Name: HarlemShake Reborn
+Author: pkgFiles
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemshakereborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
 
 Package: com.pkgfiles.mobilemeadowrebornn
 Architecture: iphoneos-arm64
