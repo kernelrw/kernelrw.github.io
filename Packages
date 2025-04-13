@@ -8466,6 +8466,26 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
 
+Package: com.ps.ytuhd
+Architecture: iphoneos-arm64e
+Version: 1.6.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 160
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/Roothide/com.ps.ytuhd_1.6.1_iphoneos-arm64e.deb
+Size: 22870
+MD5sum: 1d0ebe743b23bdc54f12732b11db1396
+SHA1: a08b6ff1dda3db30b3deb1c5afa2947fc17c5d5c
+SHA256: 5a89d4af4a3d32328c4a8edcff0c3cda03bcffddd74b2791274a388d97a3fc4d
+SHA512: f7ca137646fdaf5e54870520532f9269c878109ced2274a8da6375700fbba28b6cd9c46c1502f3d51d1b9a02fd0f5020d17981b1583df5253c3574ead9195005
+Description: Unlocks 1440p and 2160p resolutions in iOS YouTube app.
+Name: YTUHD
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+
 Package: com.pwnd2e.filzascriptdev
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -14846,6 +14866,25 @@ Name: YouTube Legacy
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytlegacy.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytlegacy.json
+
+Package: com.ps.ytuhd
+Architecture: iphoneos-arm64
+Version: 1.6.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/Rootless/com.ps.ytuhd_1.6.1_iphoneos-arm64.deb
+Size: 17216
+MD5sum: 9a59dbeac8a7efecd64f99d334378834
+SHA1: 7b33d5dd352af1a9ed09c2a0af62d76203896954
+SHA256: 653b23c95cc35f1e7f32b1318861ce0af5afc138a793963bab37858df2217d48
+SHA512: a767c1ad123a28070a5ebd3cebe0addee2dba43f259fcb864ca932219d996889fabc736b07637a196b9d9e113e1bbfee23247196489869dd5d8bd68907ca4328
+Description: Unlocks 1440p and 2160p resolutions in iOS YouTube app.
+Name: YTUHD
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
 
 Package: com.ps.ytx
 Architecture: iphoneos-arm64
