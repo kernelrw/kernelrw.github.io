@@ -16621,18 +16621,17 @@ Version: 1.0.5
 Section: Tweaks
 Maintainer: ubik <cydia@ubikstyl.es>
 Installed-Size: 720
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
 Filename: ./debians/Rootless/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm64.deb
-Size: 120968
-MD5sum: fe6fe34ebffd3b75c2d04b198ffbf8fb
-SHA1: 6e5b1403ed3b4e714a7aa96a347a19fd51047e41
-SHA256: 40ce58f69052cbffe6b3d17d12be7d8accf4f40bae39ec9de18de9099534d45b
-SHA512: 40b627b8c4f19fe4109d9c72a0c25c876ad9e9213975b9cc7c31ae4d68fa6c0a0d90b3cc59ab83f007039b2ff9c274562b9d5c380ef63d531d4e7b3286d60863
-Description: The better and highly customizable volume hud. For iOS 13 ~ iOS 16 , Dopamine 2 too .
+Size: 119944
+MD5sum: d99c37f8831f26b81db08f418c1b1871
+SHA1: aca3bf8b7f2084c322c46f72cdb8e4b977826a5a
+SHA256: f68faf62fd9932962d86f7fd055766fa3c0c1c130f29f40cd91bb24fa4306a4c
+SHA512: 0d5a7bfe9b0a0e96f04c7e4335c4332870bb0360f46590e472d30cbf66fb4e1782abc3cfc34854446b7305e86bf248496b8b33b2f296a1d17ecf69620cf629df
+Description: The better and highly customizable volume hud. For iOS 13.
 Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
-Icon: file:///var/jb/Library/PreferenceBundles/Sonus13Prefs.bundle/Images/Sonus@2x.png
 
 Package: info.mostafa89.infobar
 Architecture: iphoneos-arm64
