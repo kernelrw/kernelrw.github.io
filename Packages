@@ -2842,6 +2842,25 @@ Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
 
+Package: com.nightwind.rootless-patcher
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: Nightwind
+Installed-Size: 116
+Depends: odcctools, ldid
+Filename: ./debians/Rootful/com.nightwind.rootless-patcher_0.0.1_iphoneos-arm.deb
+Size: 23940
+MD5sum: 22efd2d4fae39ac7644c99e07a7aea18
+SHA1: c2a16eb7ca41d6742c9771ed1aa6cb3e8a661892
+SHA256: 3a0eb0640858064aaf165254805fb5fcbfb3b843c0cf24c9657fc596c067fad3
+SHA512: 141732aaf8198f17d7f5747607ef2b3c964150b27d722fa7681e6abeade24d1163784fc1020a4779b4230bd15b0cd10437d98091155a03eaf6b643476c7e0185
+Description: A CLI rootful to rootless patcher.
+ Utilizes a technique that does not require Xina-style symlinks.
+Tag: role::hacker
+Name: rootless-patcher
+Author: Nightwind and staturnz
+
 Package: com.nightwind.settingswifipassword
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -14495,6 +14514,25 @@ Description: A simple tweak to add power settings to the Settings app.
 Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+
+Package: com.nightwind.rootless-patcher
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: System
+Maintainer: Nightwind
+Installed-Size: 116
+Depends: odcctools, ldid
+Filename: ./debians/Rootless/com.nightwind.rootless-patcher_0.0.1_iphoneos-arm64.deb
+Size: 23914
+MD5sum: 6e6ecca9bd8d6f6518c2b1cde85ed640
+SHA1: 8a09a5a62c0c9599ce517d3e20fc02be7a374886
+SHA256: 014204c7a1505739e2f84c2f70df04001956859b11dbf88fc64e009674a5b7bd
+SHA512: 6943cbfd2b0d397e7f5a525844c10349716a08bfe4a5bc519c834c30957517ebbce10c7749ca47dbd9bdb343baed4822838528981149ffc0ceaa8402ed24c872
+Description: A CLI rootful to rootless patcher.
+ Utilizes a technique that does not require Xina-style symlinks.
+Tag: role::hacker
+Name: rootless-patcher
+Author: Nightwind and staturnz
 
 Package: com.nightwind.settingswifipassword
 Architecture: iphoneos-arm64
