@@ -1722,6 +1722,23 @@ Icon: file:///var/jb/Library/Themes/Dopam1neEllekitSwitch.theme/Icon.png
 
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.fadh1l.uiswitches_1.1.1_iphoneos-arm.deb
+Size: 2286280
+MD5sum: d37e40e6da24ebe113be1410c5eeadbb
+SHA1: a1b3521f4da7accce71a3ac55ac088406c9bb47a
+SHA256: caaa52b2a433b94ef4573ab08b654262d5952dc44e570bcdb12258b81fc6ea6e
+SHA512: e8e3824f14f6abc059fd46fb42ddede614997371bf9b3ff0bc316c34be8932d6770ad1a29ed8d038f65e6813577c10038a71b38611fdce8b9ea33a368989ed83
+Description: UI Switches For Almost All Jailbreaks .
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/Cachexiaa/Cachexiaa.github.io/blob/main/depictions/web/com.cachexiaa.sample/screenshots/UISwitches.png?raw=true
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm
 Version: 1.1
 Section: Themes
 Maintainer: Fadh1l
@@ -12790,6 +12807,23 @@ Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switch
 Name: UI Switches
 Author: Fadh1l
 Icon: file:///var/jb/Library/Themes/Dopam1neEllekitSwitch.theme/Icon.png
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.fadh1l.uiswitches_1.1.1_iphoneos-arm64.deb
+Size: 2286216
+MD5sum: ad6b8a46fcc9f11596bd8a452a710c25
+SHA1: 8be7d82b88c5391d0bba5b819fae3ddc34e29a19
+SHA256: 089c3fc91b75a1c23943cb29817bf26f4be72465d8a6df47363ae0c4be5fca5f
+SHA512: b43852b94fe4fcca34cf60ad27236e3ef7ff27f51260fbbbeab04483bffbb2fc5a8e5f247a0cd654d93184ef5bb519b81e4ada69ce32d267e60a86f5b49a1c80
+Description: UI Switches For Almost All Jailbreaks .
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/Cachexiaa/Cachexiaa.github.io/blob/main/depictions/web/com.cachexiaa.sample/screenshots/UISwitches.png?raw=true
 
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm64
