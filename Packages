@@ -3575,6 +3575,26 @@ Author: shiftcmdk & Fadh1l
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
+Package: com.sinfool.youtopia
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: sinfool
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.sinfool.youtopia_0.0.2_iphoneos-arm.deb
+Size: 3492
+MD5sum: ac6cc4524bb3e21e4d15d4523d96c9d5
+SHA1: f1984fa0418b89f366e299d4582d93b81332c5e3
+SHA256: 1d44da392bfd538be4add8ea5c1e50df148298b3893b8198addcc97080b146c9
+SHA512: 6367052a39975b2a744f6aeba234068133be9542e5c8c908630d90c232249f4ba1229462d88c43da2c720dc29f6d18e345e696cbbfc33f3d5fbfbf6b819cdd55
+Description: The perfect YouTube experience!
+ - No Home Feed Ads
+ - No Video Ads
+ - Enable Background Playback
+Name: YouTopia
+Author: sinfool
+
 Package: com.smokin1337.togglow
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -11284,18 +11304,19 @@ Version: 1.2.0
 Section: Tweaks
 Maintainer: ApexTweaks <support@apextweaks.com>
 Installed-Size: 5036
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.apextweaks.veza_1.2.0_iphoneos-arm64.deb
-Size: 3208176
-MD5sum: dc4580d1b8df328760a5432913afec81
-SHA1: 61acdd1f9c2d5ac328efe285678eee4d023e0a5e
-SHA256: 51f0196156c31466ab8a1e843ac34311f50781626bc9a9f73090c0b02959b167
-SHA512: a53e73a241808328a8b7fd1b4127c4912a0d36285382bcb2d7ca58ecbbe679374d9f0d635edd426d4c1216794fc2fd19984c3438da0d791cc95dd164d93b0822
-Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
+Size: 3207768
+MD5sum: 5927b9cdd593f9f670b7fbbdc227d0aa
+SHA1: 594c6c8576c4d8de003edfba818315b646993096
+SHA256: f96787366ca826305430cd5951f54c7e20e7a7dd6ff6c5f2d50a4a04d0a8440d
+SHA512: ba51dd583ca80f395d545d6da6ac241b4651052de0b2c56e688b8e0ef65176d9aef8f3bf003b7ab2233d5f7bd20f78237dbe947460a08d0f6db17a8840d4195c
+Description: Quick Controls right at your disposal!
 Tag: compatible_min::ios11.0
 Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
-Icon: file:///var/jb/Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
+Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
+Depiction: https://chariz.com/get/veza
 
 Package: com.atwiiks.betterccxii
 Architecture: iphoneos-arm64
@@ -15453,14 +15474,15 @@ Architecture: iphoneos-arm64
 Version: 0.0.2
 Section: Tweaks
 Maintainer: sinfool
-Depends: mobilesubstrate
+Installed-Size: 152
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.sinfool.youtopia_0.0.2_iphoneos-arm64.deb
-Size: 3844
-MD5sum: 2c49bd9bf8f56cee7af220d91e00f3d4
-SHA1: 2b8e6ca2e9a1a1f4bdd0aaf3fd0482d4cd43a57e
-SHA256: 60e21c25b02e66c3af1ee047f64fa1640fa7c5b301506f16dd46800a65f640c2
-SHA512: 8820dd92e5725f35003d3c87f7892f11faffc5d4f5cc0eafd8d3ff76393a96b612c312fde4fbd851501d1f169e7b002d30f1b2813d5cb4889ee347830d51567a
-Description: YouTopia by sinfool | The perfect YouTube experience!
+Size: 3220
+MD5sum: 5bb6c1bab7fb262898fd94281cabd111
+SHA1: e856af2066dc2148c2d6bcaf6af079d7f6a13535
+SHA256: 46233d66dca371b3849a19ea96deff6a303040072a20850a0d94871b9c9ce528
+SHA512: b28a32aeef34498e44bb5ed5f2f259d76a35e4d329f00b758d3052c8e797d2a5ef2227be19afd53d64117e64bdf701d10fa2f6814ec56af37e99f4214584579b
+Description: The perfect YouTube experience!
  - No Home Feed Ads
  - No Video Ads
  - Enable Background Playback
