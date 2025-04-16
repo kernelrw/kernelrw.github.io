@@ -4298,6 +4298,25 @@ SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.gith
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 
+Package: emt.paisseon.xinamine
+Architecture: iphoneos-arm
+Version: 0.0.5-1
+Section: System
+Maintainer: Sudo + Paisseon
+Depends: ellekit, oldabi
+Filename: ./debians/Rootful/emt.paisseon.xinamine_0.0.5-1_iphoneos-arm.deb
+Size: 67656
+MD5sum: e52031a926da5ec5b685fd80594c512c
+SHA1: 545ba69b42f79fc8486df830c7fc8f675898b82b
+SHA256: 1db79c9b3bee21b5153859370f289954086b3983a36a6ecc0f3e9c77d596b120
+SHA512: 0983f4cf3fb0920256d78105d3313ecc6555600aebee02342135291266e6a76d22e9951da2ab48bf80145d11af058947606c5e17bdd5db8be35ce60fc59a4ce2
+Description: Add Xina tweak compatibility to Dopamine
+Name: Xinamine
+Author: Sudo + Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+
 Package: eu.teggers.netkillui
 Architecture: iphoneos-arm
 Version: 0.2.1-1
