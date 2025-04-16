@@ -132,14 +132,13 @@ Architecture: iphoneos-arm
 Version: 2.8
 Section: Tweaks
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 952
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debians/Rootful/codes.aurora.kayoko_2.8_iphoneos-arm.deb
-Size: 126772
-MD5sum: dcb533640beca0f50ecd04111d2abe19
-SHA1: 05e29fce18db7df5309c3317579668ec7f8ba9af
-SHA256: 72e0379ba988775a296ba5a41310c6d82b4014dea245a3d21c68332d967fc1ae
-SHA512: 2420941c9e8f57d3748c5decaf3a146c6524505a033989aefdf6a00388aba8baabf5db622eeba85891b662b4d1c5e42d02fef7ee700d2323d7c6a10524788519
+Size: 125536
+MD5sum: aaff255952ede946e2efb459fb619d7a
+SHA1: 1b08d7923fd214a8bdd3805405950dbe4c89487c
+SHA256: 4bc3597d6b7faf94f4fb02d95cc0bf973acfd40ac4fc96fbd633c11b91707043
+SHA512: 8023b88beff84a8700d65b0a6c51c1f6a6c658ab6314492528b69af7aac2e9981ca5b4dca76cb6a0d6c8118095cbfe43cf641230f206133078f87b778fd67370
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
@@ -4315,6 +4314,26 @@ Description: GUI for arp-scan and arp-spoof.
 Name: NetKillUIbeta iOS11+
 Author: Tuggers
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.quarter.barmagnet.png&s=180x180&f=webp
+
+Package: ez.now.xinaminepatcherscript
+Architecture: iphoneos-arm
+Version: 1.7.4
+Section: System
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit, file, odcctools, ldid, emt.paisseon.xinamine, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootful/ez.now.xinaminepatcherscript_1.7.4_iphoneos-arm.deb
+Size: 4208
+MD5sum: bfc197c1a2f23e7f11a7716b63887b64
+SHA1: 3858e2e973e9c6384025c5b126c88369cc6ddf19
+SHA256: 6e40b9808637d65c69e67b19e355890d39d944e0ef70f68af24297b416b07bf9
+SHA512: 710ced2186daa5271c000244523a35efcaec1436445d546f453db1e3f5119f2f56c1118b88c064c7f1e97bbbc3b04b40617ae3ca6bbeebe32b0dcfdd8f489a6f
+Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Name: Xinamine Patcher
+Author: NoW4U2Kid
 
 Package: fr.rootfs.rode
 Architecture: iphoneos-arm
