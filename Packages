@@ -1547,6 +1547,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
+Package: com.eamontracey.secretshot
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Eamon Tracey
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.eamontracey.secretshot_1.1-1_iphoneos-arm.deb
+Size: 56652
+MD5sum: 421ed1327808909ce81297d56561a1f7
+SHA1: 97862c79545d71a3e7fd461c258f381c63cb7521
+SHA256: 10f4a560cadc8de7dd78e0ebdb8c2d233e7a442c51587e46a32eff80382c8814
+SHA512: f7b7857cd24b1147ea6868f76a9eaf9ba26a02f0173328bdbbbcbad3d76098d0328626af0fa10bc30a74f0c0f9cc78fd8b867deaae5a5da8349f09a0b56735be
+Description: Block Snapchat screenshot and screen recording detection
+Name: SecretShot
+Author: Eamon Tracey
+
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm
 Version: 2.4.49
@@ -3589,6 +3606,23 @@ Section: Tweaks
 Maintainer: SoCuul
 Installed-Size: 3136
 Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootful/com.socuul.scinsta_0.6.0-1+debug_iphoneos-arm.deb
+Size: 769338
+MD5sum: d6f59dfc6297a05c029d1bb6b0782bf3
+SHA1: d70f4dc3d1dd1152bb490f38a7b6be890ab9073d
+SHA256: d43a9d0e1a6c4d22e05a60f257ef34a57105a84d827d3cfdf4cdf0de89c5e37e
+SHA512: 8831a8f1c473a082dd37f81f5b859a49d2b5240696b0bf8009fa0aaf349598493fd688d83f6b2cf973f5a4d7a33014d3ca72a69e818559ab41ef823cf0f3d3d6
+Description: A feature-rich tweak for Instagram on iOS!
+Name: SCInsta
+Author: SoCuul
+
+Package: com.socuul.scinsta
+Architecture: iphoneos-arm
+Version: 0.6.0-1+debug
+Section: Tweaks
+Maintainer: SoCuul
+Installed-Size: 3136
+Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debians/Rootful/com.socuul.scinsta_0.6.0_rootful.deb
 Size: 769338
 MD5sum: d6f59dfc6297a05c029d1bb6b0782bf3
@@ -4425,6 +4459,24 @@ Author: Litten
 Depiction: https://repo.litten.love/depictions/Rose/index.html
 SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
+
+Package: me.eternal.phantom
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: eternal
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/me.eternal.phantom_1.1.1_iphoneos-arm.deb
+Size: 3016
+MD5sum: e6dad213c2f71809a1ded3e2cdef0adc
+SHA1: cd447d9d8710021aaaa257407732c114a28e9090
+SHA256: c35721e9f22e3846aa0841b3138393b04c5b13553fc6d01cbd2ba63bb433f7a6
+SHA512: 4453dac9945196d72f63847678c5aadfa709f80d2eab91ded84c9750bc6fcd822b5b7788fa122c68a86dc3c00de64002a1670cc213e61190bcea01c7952e614e
+Description: Seamlessly block screenshot and screen recording detection in iOS apps.
+Name: Phantom
+Author: eternal
+Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm
@@ -12511,6 +12563,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
+Package: com.eamontracey.secretshot
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Eamon Tracey
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.eamontracey.secretshot_1.1-1_iphoneos-arm64.deb
+Size: 57638
+MD5sum: 758c85268c008d759cb53132bfdb798b
+SHA1: 6e6a22e0aa997f925cdf4a811d95a53430617aee
+SHA256: 28f69a764f0e62161bf5ebc0e6ef9247417f5436819bce972ecb855d2212229e
+SHA512: 5f5c5c6c916ed650a71aa9aaf708e0176dca2680fbd139ec17bca843258658c57a3459941574e482f6de06f1c2ca061a910a1e69557d0b0730a100f95d8d5f6f
+Description: Block Snapchat screenshot and screen recording detection
+Name: SecretShot
+Author: Eamon Tracey
+
 Package: com.eevee.youtubefix
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -15412,6 +15481,23 @@ Section: Tweaks
 Maintainer: SoCuul
 Installed-Size: 3136
 Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootless/com.socuul.scinsta_0.6.0-1+debug_iphoneos-arm64.deb
+Size: 769336
+MD5sum: 09b05c55810d15d34c69903a23fab348
+SHA1: 432dba18fc67a62ad62bc42384f076b62b876c5e
+SHA256: 3474355fc9cb5239a036743f0e5a2764a0c61dfcdc31be6c8af87602c4e4ab2e
+SHA512: 56e5c687e871729d6a9e4f0db23c319cfc503e5698675b6f07905a86c94015a34e2213c26d1d03c6925c3fbb1f257e41ffa5423d00e8ee55051cded964e68244
+Description: A feature-rich tweak for Instagram on iOS!
+Name: SCInsta
+Author: SoCuul
+
+Package: com.socuul.scinsta
+Architecture: iphoneos-arm64
+Version: 0.6.0-1+debug
+Section: Tweaks
+Maintainer: SoCuul
+Installed-Size: 3136
+Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debians/Rootless/com.socuul.scinsta_0.6.0_rootless.deb
 Size: 769336
 MD5sum: 09b05c55810d15d34c69903a23fab348
@@ -16676,6 +16762,24 @@ Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
 Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+
+Package: me.eternal.phantom
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: eternal
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/me.eternal.phantom_1.1.1_iphoneos-arm64.deb
+Size: 3098
+MD5sum: 061abbe63eec829e5f1351541e98f0d7
+SHA1: 29e819c3ec4f900fcdf9f802ee8e78c64d722736
+SHA256: eda61a9401cee498d9af9483ec378f56fc23788cc9627140672b4ae1d640992a
+SHA512: 63a1c5b5a97c570473946b25ce9de6f825838fbf2885aed8e4f75522754958f2532371bed23f3a5b95abf70be81a5185b3d16d3332e7a008c79eb7d508a7771d
+Description: Seamlessly block screenshot and screen recording detection in iOS apps.
+Name: Phantom
+Author: eternal
+Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
 Package: me.jjolano.alertdismiss
 Architecture: iphoneos-arm64
