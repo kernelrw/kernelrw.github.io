@@ -1887,6 +1887,70 @@ Name: Extrude
 Author: Hans32
 Icon: /Users/hnc/Developer/Extrude/Resources/UniversalIcon.png
 
+Package: com.haoict.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debians/Rootful/com.haoict.facebooknoads_1.4.1_iphoneos-arm.deb
+Size: 270658
+MD5sum: d8487007dcbfc4ed0081ec1f7f2739a1
+SHA1: 1788c6d65f335782f6d7bc1ccb1fd339d064ac91
+SHA256: d8886bae431ad79798147c3b682f1ce9e8f0bdc13545551193280dd82da4fc29
+SHA512: c2bee1a1d6c3791c140bab37af2ef13d3652c8a9a161a7e77837d2626eabe3f6efbc60ba9e8c647c38a67cf02179f93726a053584c3c318355f3783135bda1d2
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 12-14
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Facebook No Ads
+Author: Hao Nguyen
+
+Package: com.haoict.gmailnoads
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 452
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debians/Rootful/com.haoict.gmailnoads_1.1.0_iphoneos-arm.deb
+Size: 144276
+MD5sum: e7034eab5d37b795f89d41ee5271a761
+SHA1: d8e8e61c11a870e1c8d6a7751e0342774f9ef530
+SHA256: e431d81b5ee1c56f00884e051adde3d07399bbdf094bfdabb1fea9073224f9dd
+SHA512: 1e8ff997221edf3e9d382891e7d0f3e84b644689cf4b86bac8d9a878dcd8827d73d1e67b0ba398cf2d81624cc5cd8511907e04fc807044dee612ac3477584974
+Description: Free & Open Source Tweak for Gmail
+ Free & Open Source Tweak for Gmail
+ Change log: https://github.com/haoict/gmail-no-ads/releases
+ . 
+ Features:
+ - Remove Ads (in inbox list)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Gmail version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Gmail No Ads
+Author: Hao Nguyen
+
 Package: com.haoict.instanoads
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -1911,6 +1975,75 @@ Author: Hao Nguyen <hao.ict56@gmail.com>
 dev: haoict
 Icon: file:///Library/PreferenceBundles/INAPref.bundle/icon@2x.png
 
+Package: com.haoict.instanoads
+Architecture: iphoneos-arm
+Version: 2.10.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debians/Rootful/com.haoict.instanoads_2.10.0_iphoneos-arm.deb
+Size: 383142
+MD5sum: cff30db4dcafdd9c6e3e21af6085c54e
+SHA1: 829acb1505c1543e90d61651a04467b369c38f6d
+SHA256: 8c9b31599ea9dc000ab0bf9dc67c3e361b0d517e76f640375c6193db3c2dba3d
+SHA512: 344e25450b9a8ca5783fee3290f579228b7fd174fd3e50b7ab85157f28c9a948358ed4ff697a80ae20b70283bb6c6c8071db1b5214380976611095ecaead7418
+Description: Free & Open Source Tweak for Instagram
+ Free & Open Source Tweak for Instagram
+ Change log: https://github.com/haoict/instagram-no-ads/releases
+ .
+ Features:
+ - Remove Ads (New Feeds, Stories & Reels)
+ - Can save media (Photos, Videos, IGTV, Stories, Reels, press and hold to show download option)
+ - Can Save HD Profile Picture (Press and hold to show download option)
+ - Show like count
+ - Determine if user is following you
+ - Disable DM seen and Story seen receipt
+ - Unlimited Replay Direct Messages
+ - Like confirmation
+ - Add App lock (use faceid/touchid to unlock)
+ - Support iOS 12 - 14 & latest Instagram version (>= 178.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Name: Instagram No Ads
+Author: Hao Nguyen
+
+Package: com.haoict.killallapps
+Architecture: iphoneos-arm
+Version: 3.2.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, applist, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debians/Rootful/com.haoict.killallapps_3.2.0_iphoneos-arm.deb
+Size: 64932
+MD5sum: 41bfda36d84c4b3db98669075d53681d
+SHA1: d3bbda52874a9d7065ce90fdfbfe0d930b1188e8
+SHA256: e5ffa68df72108d26ff24c90bc36ce0334fb04a03cdb1651ec4ba8ca5d2d0a12
+SHA512: 70b8ea5edff910b5fa2eb4ecc57ac7a97da31168ba417bcccb9cc407d8f653beedd10c7e6ee7d9573416cfe4d6f03fb003294e1cce23a40fd4fd21dc183ac2eb
+Description: Swipe down in app switcher to kill all background apps
+ Swipe down in app switcher to kill all background apps
+ . 
+ Features:
+ - Custom UI Effect/Haptic Feedback when killed all apps
+ - Option to add Clear Button and its style
+ - Option to kill all apps but keep current app alive
+ - Option to kill all apps and restart current app
+ - Option to not kill Now Playing or Navigation Apps or Swiped Down App and Except Apps
+ - Custom swipe down offset
+ - iPad switcher style
+ - Support iOS 12 - 14
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Kill All Apps
+Author: Hao Nguyen
+
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm
 Version: 4.8.1
@@ -1919,11 +2052,11 @@ Maintainer: Hao Nguyen <hao.ict56@gmail.com>
 Installed-Size: 316
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Filename: ./debians/Rootful/com.haoict.libhdev_4.8.1_iphoneos-arm.deb
-Size: 46140
-MD5sum: 8cba7918308eb9a4ce3aedb8fd27f7fd
-SHA1: 3adb681448b7df98fc03c04aebc0565e2657f815
-SHA256: 3c3b7d811156d0585981dbde622b51e7ae032e0e516d1c68f63fffbdd848ecc9
-SHA512: 61b6f00a4b676af1852834007bc7f8b5c3138c91c7a3ce685a9078b93497942d341f453d82eeff75c7e6bac7007dd40959a518e6fe34ce7bbc25ca2056473843
+Size: 76814
+MD5sum: fb633033b2011e0a198f98a0bed15314
+SHA1: 04a2eb1507959647c06b52dd8add18c54879832c
+SHA256: a73c3137510b73b004817e64b5f9233d89f2baa6cb1194d3d9b1c1edf4a2d121
+SHA512: c8584a44e86d270d447ccf703cd33e86e3fd3b068ce3fd32c5d3a0297dc421b30dc36740b0040a721cedd819a5aa32c87afa98d276f2573481dab7e7b845a9ee
 Description: This is a developer library for better preferences and useful utilities.
  This is a developer library for better preferences and useful utilities.
  . 
@@ -1974,6 +2107,69 @@ Description: The best tweak for Messenger app.
 Name: Messenger No Ads
 Author: Hao Nguyen
 Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
+
+Package: com.haoict.redditnoads
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debians/Rootful/com.haoict.redditnoads_1.4.0_iphoneos-arm.deb
+Size: 224350
+MD5sum: 1f564aa055e20b3c48ba8646a2993a4c
+SHA1: 79201e0c1314fc6f98f0421b032a04136fa82910
+SHA256: 94b5ea215e5aa1badcfc15182650f95db3e896b92ed3ad8985f4cc11c1066877
+SHA512: f0edfdd3cb05fae9ef52c1158a8e8abea0cfc893de9462adb6d93238298f3f2c2393400c34a507249545aa2f71c8db67155cd6a418fe299ba7b89c63ea8a7d44
+Description: Free & Open Source Tweak for Reddit
+ Free & Open Source Tweak for Reddit
+ Change log: https://github.com/haoict/redditnoads/releases
+ . 
+ Features:
+ - Remove Ads (posts and comments)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Reddit version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Reddit No Ads
+Author: Hao Nguyen
+
+Package: com.haoict.twitternoads
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debians/Rootful/com.haoict.twitternoads_1.4.0_iphoneos-arm.deb
+Size: 118310
+MD5sum: 259dafdddbb68fb6adc850e325fccf3c
+SHA1: 82ef3f324b3df7cdf4ae09eb8ff0c780e1182ad1
+SHA256: 3d21f4e4c415badfe4743cdb221bcbab6a06ca9481e93c30502ab59886a5e514
+SHA512: b29398010a4b9adabd64bbe8ab883908996420263baa1ebe91559e35728cb7ca1adc13f09d3e2c163cf7dc2b44db34e483e3b025b7b611b446ab600323efa30b
+Description: Free & Open Source Tweak for Twitter
+ Free & Open Source Tweak for Twitter
+ Change log: https://github.com/haoict/twitter-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Remove Fleets
+ - Hide News and Trending posts in search tab
+ - Hide who to follow section
+ - Can Save Video (long press on video to save)
+ - Skip analytic URL when open a link
+ - Lightweight
+ - Support iOS 12 - 14 & latest Twitter app
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Twitter No Ads
+Author: Hao Nguyen
 
 Package: com.hitori.passtext
 Architecture: iphoneos-arm
@@ -2096,6 +2292,42 @@ Description: Bring iOS 16+ Lock Screen clock, with full support for both Light a
 Name: LockTimeX
 Author: iVintageLover
 
+Package: com.jacobcxdev.fbspnosor
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: Tweaks
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0)
+Filename: ./debians/Rootful/com.jacobcxdev.fbspnosor_1.2.9_iphoneos-arm.deb
+Size: 554650
+MD5sum: 04f46c67579c3243b55591265fed5d52
+SHA1: c7b16f40773d3f700835e75be7f60c3826656112
+SHA256: c4d9d2f9f8d20b471d05e555a61a518bdfb95356d419a62fdac5db0b44363fa2
+SHA512: 57b1accae6efb8cebefd4d3d9e93bba88ca3812dd561ed1d60f40cdeae4efc2c63cfd79ee96c26215fceedc770b6110d769df17ac3e3ff639dc1a1bb9bb68230
+Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
+Name: FBSpNOsor
+Author: JacobCXDev <jacobcxdev@gmail.com>
+
+Package: com.jacobcxdev.libjcx
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: System
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Installed-Size: 292
+Depends: firmware (>= 11.0)
+Filename: ./debians/Rootful/com.jacobcxdev.libjcx_1.1.1_iphoneos-arm.deb
+Size: 59048
+MD5sum: eee954c00ea3e08d84024220b2bc8a08
+SHA1: f39ea70301c899d72536195dd17fd9653a073ae0
+SHA256: 59bec4e24cc13c9665230ec3123c681608fc035168af2695eeb75f0fb0e423b5
+SHA512: a64e8bf2f4fc27ad11b436b175817c193938cafa067dd86236ec35449229a9ab2d57c7056b686700f6e669e900cff0b67cd37e056acd22359ae601966e5b773d
+Description: A library used by JacobCXDev.
+Tag: role::developer, compatible_min::ios11.0
+Name: libJCX
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Depiction: https://chariz.com/get/libjcx
+
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
@@ -2114,6 +2346,44 @@ Name: AutoLockX
 Author: julioverne
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
+
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 155824
+MD5sum: 5f46d7383f852fda779aec5911bc70d1
+SHA1: b039a81e95a505bb90ea9f0535f49ef5748b6363
+SHA256: cd7c53972d4fa9688dacc45fde603763111db554aeb3e18c3aad96c208e5d663
+SHA512: 21abe34403dc11b000e9c846940169d4cedd1fc7b2e62264098ce366ab344e27ebec269514e892ae72d06e76d9360d7f44a577f209c417b8d07db6a154cd1001
+Homepage: http://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+
+Package: com.julioverne.mimport
+Architecture: iphoneos-arm
+Version: 0.0~beta40
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, unzip, unrar
+Filename: ./debians/Rootful/com.julioverne.mimport_0.0~beta40_iphoneos-arm.deb
+Size: 1495576
+MD5sum: c568cac16c27500622a4eda930ad8661
+SHA1: 18f1ddead70f5e35520f5a0dd38501202f47f67c
+SHA256: b407693861b7c3169806b3b79c4829e0aa7c84865b3241e3a787cdc719bd0f8f
+SHA512: 6871abf237ef6b7736951720b634d4d6883207cd9ed1e6af854ac86b7b6deab1969f3c831846a1f6cd9ef00a12860364c950ea6f54c898c191b5a318ec55eed2
+Homepage: http://twitter.com/ijulioverne
+Description: Media Importer Directly From Music App
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
 
 Package: com.julioverne.screendump13
 Architecture: iphoneos-arm
@@ -2247,6 +2517,22 @@ SHA512: 07ca9f8d44f96d39f14ed568665eb7ef651956c417d0ea9dbddd652e19727c0375360810
 Description: Play Haptic On Device Wake . Supports iOS11 - 16.7.10 , Rootless support too .
 Name: Haptic Wake
 Author: iDebCreator
+
+Package: com.kernelrw.iamchinese
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Castyte
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.kernelrw.iamchinese_1.0.0_iphoneos-arm.deb
+Size: 5502
+MD5sum: e539cdfcaa36c0947fc28b0578dd2511
+SHA1: aea6c60f7b77000d3c704f9957428a80b7fbf433
+SHA256: fa670d086aef3102d124802153901a0fec1b0e53465ce4f729c101d24cbcb93f
+SHA512: 2acc95b741c71c2a6b8e5281ad32f0fb9427e16dcdd96cf7886b2b2c93ec713e3e309acb2a6ef301c245c1d6cfb9f98eb39e101c879aab727305bd47383f79a7
+Description: Enables options to disable wifi in apps usually only available in China.
+Name: I Am Chinese
+Author: Castyte
 
 Package: com.kernelrw.rosemary
 Architecture: iphoneos-arm
@@ -3520,6 +3806,24 @@ SHA512: 25f48d695b11e7784a74299586b16de9eaaca61fc8c7ed988ec880aadc4e672bcab9486b
 Description: Additional Theme Pack for ReplyActions!
 Name: ReplyActions Theme Pack
 Author: sergy
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm.deb
+Size: 94868
+MD5sum: e2766a2dcec28802cdf05a251f791342
+SHA1: 218543b583937d4b96191570c644d3e6c362e7c8
+SHA256: a33b3e78e390f2e9db591d5ab7e790599e86db1f6ff914dd6fc8040bbbd102ba
+SHA512: f2c82f0942d534fd9bf8e28e05233592e4a4c61b3eb66db92554212de9fc8f561efac0e02d4924efc72b25713cda5f6da6a5f1787ccf5aa579939278d435be18
+Description: Automate alert actions.
+Name: AutoAlerts
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm
@@ -4803,16 +5107,16 @@ SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sushi/sileo.json
 
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm
-Version: 2.7.2-4
+Version: 2.7.2-2
 Section: Tweaks
 Maintainer: ARX8x
 Depends: mobilesubstrate
-Filename: ./debians/Rootful/xyz.xninja.systeminfo_2.7.2-4_iphoneos-arm.deb
-Size: 272388
-MD5sum: 5c69b7906e43cd17f9849ea28116bf1a
-SHA1: e70c87bfc5a688282bcab6ad604ecefc9b4830a9
-SHA256: 4cb4bdcc5ea4a4ed3093f5cc4742d1b98712c2cbd8ad120d85c1ad0215d300d5
-SHA512: 662327263fcb4d8049b80293e9c6df3b81552ab9802f91e73e5affa12592420e49a6d60b257d61a20af1ff9532d31b5bb773ee885a7511bcf02b984c429502d2
+Filename: ./debians/Rootful/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm.deb
+Size: 427472
+MD5sum: 586f07abca9dfe032ee3e28edf810ccd
+SHA1: 9d689ce1b82025c2d1255870fcdb3bb0e2b21e87
+SHA256: aa1ab3c30a9f53b949b3ce2907ea09cd1e00909077ce9fe9ed041d7303118e78
+SHA512: d0c057f65a5f99ffb6688d1d61ababac99e7555f5f17abe037eb4e84ad07c5aa1de7fcbc29870fbb44889f7fbfece8bdc4ddd493f6ab6b02cbe1a1dc6efdaf3a
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
@@ -13137,13 +13441,13 @@ Version: 1.4.1
 Section: Tweaks
 Maintainer: Hao Nguyen
 Installed-Size: 584
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.haoict.facebooknoads_1.4.1_iphoneos-arm64.deb
-Size: 254568
-MD5sum: 93897b4633be8343e4aabff27137bdb2
-SHA1: 82ee49e532d0f603806a556e1f436cd1ab992b7a
-SHA256: 25b146f7172ac5b3f63acbac44426d8f95d09ba9482a27e424c905a3c6e74e94
-SHA512: 1b5922a302c640c2a13222c45b4695545d748b558ca609a3720fee37b43f0c33d8bb8c94f3bed2f82c3925c02e9d67fc7df1f1295cc5378a5e40f3bf2e3fbbd5
+Size: 254476
+MD5sum: db230421931c6d9138ceef317a1e8906
+SHA1: 5a5176bcd5f198d5dca40bed66c917e2bbd5a2e9
+SHA256: 7d5107b4ad773c9f7ec3b9a8a660b7080a428f3b5a806378ac992e090905f9db
+SHA512: e003f0fd3e32cb84349a81f210cd4ac90b1592ab7da2894977e7e7ab4b3da428dc27c6479a690be1a4715e826a0aa7c0898a7b633eb7a3df1fa38f6bb8202396
 Description: Free & Open Source Tweak for Facebook
  Free & Open Source Tweak for Facebook
  Change log: https://github.com/haoict/facebook-no-ads/releases
@@ -13165,7 +13469,35 @@ Description: Free & Open Source Tweak for Facebook
  Thanks a ton
 Name: Facebook No Ads
 Author: Hao Nguyen
-Icon: file:///var/jb/Library/PreferenceBundles/FNAPref.bundle/icon@2x.png
+
+Package: com.haoict.gmailnoads
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 452
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.haoict.gmailnoads_1.1.0_iphoneos-arm64.deb
+Size: 137004
+MD5sum: a57af9106e092d7b0a620c8c1c9bda6c
+SHA1: 2ba94087d982c8e87d24af9915e6f9c8fcbbff49
+SHA256: 4dd9925b2d0cabeb6f16a2825d95dc5349ab61341207210f06d2b5820828214f
+SHA512: a43892ce38596bd2ebefe15f4e08cbff777d862b6cc92127d78107102d038f1c03210331bf6838945fdd27b6c38668f6024763ca731cd146b94e675ce4635573
+Description: Free & Open Source Tweak for Gmail
+ Free & Open Source Tweak for Gmail
+ Change log: https://github.com/haoict/gmail-no-ads/releases
+ . 
+ Features:
+ - Remove Ads (in inbox list)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Gmail version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Gmail No Ads
+Author: Hao Nguyen
 
 Package: com.haoict.instanoads
 Architecture: iphoneos-arm64
@@ -13191,23 +13523,91 @@ Author: Hao Nguyen <hao.ict56@gmail.com>
 dev: haoict
 Icon: file:///var/jb/Library/PreferenceBundles/INAPref.bundle/icon@2x.png
 
+Package: com.haoict.instanoads
+Architecture: iphoneos-arm64
+Version: 2.10.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), firmware (>= 12.2) | org.swift.libswift (>= 5.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.haoict.instanoads_2.10.0_iphoneos-arm64.deb
+Size: 350396
+MD5sum: e69ea44d9844e14f8a1b77bf9642d388
+SHA1: 9cb13696bb47663dd607387f220f7199c32e7500
+SHA256: 445bd20914cd2f2743ead55a267a8227c7f734a98aff69b23c6a7b9de7f90f38
+SHA512: 537716501b6681bdd552dbf1a03ca35b990ea71b8c21277800dc1fb598b50115fcd233750d450b2342c4148f0875accb870040a621c1dc0b5757f18c2ce852a4
+Description: Free & Open Source Tweak for Instagram
+ Free & Open Source Tweak for Instagram
+ Change log: https://github.com/haoict/instagram-no-ads/releases
+ .
+ Features:
+ - Remove Ads (New Feeds, Stories & Reels)
+ - Can save media (Photos, Videos, IGTV, Stories, Reels, press and hold to show download option)
+ - Can Save HD Profile Picture (Press and hold to show download option)
+ - Show like count
+ - Determine if user is following you
+ - Disable DM seen and Story seen receipt
+ - Unlimited Replay Direct Messages
+ - Like confirmation
+ - Add App lock (use faceid/touchid to unlock)
+ - Support iOS 12 - 14 & latest Instagram version (>= 178.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Name: Instagram No Ads
+Author: Hao Nguyen
+
+Package: com.haoict.killallapps
+Architecture: iphoneos-arm64
+Version: 3.2.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, applist, com.haoict.libhdev (>= 4.6.0), firmware (>= 12), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.haoict.killallapps_3.2.0_iphoneos-arm64.deb
+Size: 41216
+MD5sum: d70e03718f0cbc30e38c6b2348218d88
+SHA1: 5b4558f423de08ca41832e7242de5d1a49416e62
+SHA256: 303e19328590541f968d6987b1841fdefae69b33d652e46a43a5018cec8b23e2
+SHA512: 67760a9bfea031c664456b602e18b18651986627e15eb92f00a0c93e1e202d1e8d36811886ae0a5dc6f1d96fc4d42ede1cbb51febd8ff633cca20296221c8ad0
+Description: Swipe down in app switcher to kill all background apps
+ Swipe down in app switcher to kill all background apps
+ . 
+ Features:
+ - Custom UI Effect/Haptic Feedback when killed all apps
+ - Option to add Clear Button and its style
+ - Option to kill all apps but keep current app alive
+ - Option to kill all apps and restart current app
+ - Option to not kill Now Playing or Navigation Apps or Swiped Down App and Except Apps
+ - Custom swipe down offset
+ - iPad switcher style
+ - Support iOS 12 - 14
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Kill All Apps
+Author: Hao Nguyen
+
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm64
 Version: 4.8.1
 Section: System
 Maintainer: Hao Nguyen <hao.ict56@gmail.com>
 Installed-Size: 316
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.haoict.libhdev_4.8.1_iphoneos-arm64.deb
-Size: 46204
-MD5sum: 275afcb9122d07ec45f7b37db4525737
-SHA1: 0eb7377c052e3725f4bdd7e522a58b63b7029735
-SHA256: 8cc314134a771f547bc6b7e683aba3889aa50b6bc8a76613f3c012d7373f1030
-SHA512: b3690da3ab60f97f54fea4f04b64899439ddf35b5301837955e41b822b76e68604078d80e7c8be4169684bc05a8182b0fc3f5294abaac5cc7822dcb990522224
+Size: 46488
+MD5sum: 2968ade00c722f1efe20b07bceff8be9
+SHA1: 56cd70a9cf476a5080881e45d050a3fc0f6ca2d2
+SHA256: f41b1ad0c11553d4a5d2fba6f43d73737cf7601f78d49a7843138f87a46f01fe
+SHA512: 94a4e95c5756863dc7edc0f73a6faf3b6f8f3e0cfff1ea5671ca824967f26fd75274bfc7e5b76ac7735a2e61d54de81603a192b4f669621997a595a3f7be7ac7
 Description: This is a developer library for better preferences and useful utilities.
  This is a developer library for better preferences and useful utilities.
  . 
- Change log: 
  - v4.8.1: Minor improvement
  - v4.8.0: Improve performance & reduce package size
  - v4.7.0: Improve media download & fix preferences cell color
@@ -13254,6 +13654,69 @@ Description: The best tweak for Messenger app.
 Name: Messenger No Ads
 Author: Hao Nguyen
 Icon: file:///var/jb/Library/PreferenceBundles/MNAPref.bundle/icon@2x.png
+
+Package: com.haoict.redditnoads
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.haoict.redditnoads_1.4.0_iphoneos-arm64.deb
+Size: 217808
+MD5sum: cf231088bb78de4eaa0e930271a24a69
+SHA1: df6c4241eb582d9b7901b18a11161707803ad873
+SHA256: 71deea6e1f5db330d111f7202b7973a52368dfe78448c29efc07c7bfdb38b1a3
+SHA512: 44ac65f30a6819effab4e14c7c1a9869ff1ab8a6d21e87d1ba7278193ca7be2ad701794580f147bcde36e476dfed3fc5778b99736407ef603dc55f2ee9b0c8d2
+Description: Free & Open Source Tweak for Reddit
+ Free & Open Source Tweak for Reddit
+ Change log: https://github.com/haoict/redditnoads/releases
+ . 
+ Features:
+ - Remove Ads (posts and comments)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Reddit version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Reddit No Ads
+Author: Hao Nguyen
+
+Package: com.haoict.twitternoads
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.haoict.twitternoads_1.4.0_iphoneos-arm64.deb
+Size: 106536
+MD5sum: e61de3959e8547e00c3f70d17b6c6eae
+SHA1: e5634d2bc21949e3981fcfd5b0b5f66e6fede26f
+SHA256: d3f8afd6fa6fa113a96d114dab249ab7aeb38c2d65033c441d114604fea257f5
+SHA512: f48a4adc2f9b55cd1fddea9cdff854c215968116ce820a1a8848b0be8f9a234bf25b3e46d63eddbc282e1c4da03d907a4dec02d849d828dee60ec471b338f27b
+Description: Free & Open Source Tweak for Twitter
+ Free & Open Source Tweak for Twitter
+ Change log: https://github.com/haoict/twitter-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Remove Fleets
+ - Hide News and Trending posts in search tab
+ - Hide who to follow section
+ - Can Save Video (long press on video to save)
+ - Skip analytic URL when open a link
+ - Lightweight
+ - Support iOS 12 - 14 & latest Twitter app
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Twitter No Ads
+Author: Hao Nguyen
 
 Package: com.hitori.passtextt
 Architecture: iphoneos-arm64
@@ -13389,17 +13852,18 @@ Version: 1.1.1
 Section: System
 Maintainer: JacobCXDev <jacobcxdev@gmail.com>
 Installed-Size: 292
-Depends: firmware (>= 11.0)
+Depends: firmware (>= 11.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.jacobcxdev.libjcx_1.1.1_iphoneos-arm64.deb
-Size: 33464
-MD5sum: 7abc9737cf3494a6941e20adca867250
-SHA1: b604eb01657ee7a3ddd1e6fbba5be47a7c066da4
-SHA256: e4abf8f8ea69772534f776a45acdfaec92f3ce2b6d0da8e480ec150082531f84
-SHA512: 68b192b3634f43e14c793f5a3246ff6bfbd6f494dca05a7174942ec73e2600afce63cc1db47ef5dce31b155c932e1fda7cbdb2db173e543f88ba52589018e597
+Size: 33812
+MD5sum: 162e16dfe671ac4678b7b62de0c4269a
+SHA1: e2d07ffd94d6ebb4bb233674613722fbcd806d43
+SHA256: adc5a0328fdd5ca7e8a2edda1ff0aa17e8c418afdf8d7b978663d0d3991fb2ab
+SHA512: 80c8c45e9fe85f1eed1db787c5e06e98990441148968e060d13465213343faab7c9631c6216a167071ca4f2b53764675cd9cc46c1987f27fdd99cfa1e6edcd51
 Description: A library used by JacobCXDev.
 Tag: role::developer, compatible_min::ios11.0
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
+Depiction: https://chariz.com/get/libjcx
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
@@ -13417,6 +13881,44 @@ Description: Force Auto Lock Device
 Name: AutoLockX
 Author: julioverne
 Icon: file:///var/jb/Library/PreferenceBundles/AutoLockXSettings.bundle/icon@2x.png
+
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm64
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Size: 43284
+MD5sum: 52f49eead7b9b7376c929a777e12114e
+SHA1: 7fae33201a07855223a883abe3865694b2a5cbd7
+SHA256: a5523ebff81be5bb318e25636d7e263bf7f79bb625c5ec9e7f24946f94f5a13b
+SHA512: 6fd1c68bc21e4631e1b9e6c0f01c17187d882f5e1d90d686dee62e59a82cc1921b48c87a89047b57b8c2f706a89eea793e66cf8f7aaf6f86a8e9949619838955
+Homepage: http://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+
+Package: com.julioverne.mimport
+Architecture: iphoneos-arm64
+Version: 0.0~beta40
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, unzip, unrar, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.julioverne.mimport_0.0~beta40_iphoneos-arm64.deb
+Size: 1082478
+MD5sum: f283f93974e5a176b9ed3361c96b7d05
+SHA1: 9357e902e772cb2c4d3874f1960b679bdd7264ce
+SHA256: 12b2b4b65e3c554723b28e3a2404449e74219ca270327a0f772b8fe80ce5158a
+SHA512: 58c0869a653a5fbddcfd9217bf73b7864532d47088be72273810e33df60d8cbb7ba10bb25b58e102688d3dc6dd6b3675f5bfc46cfa243402de2eba4ea7b4e626
+Homepage: http://twitter.com/ijulioverne
+Description: Media Importer Directly From Music App
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
 
 Package: com.julioverne.screendump13
 Architecture: iphoneos-arm64
@@ -15135,13 +15637,13 @@ Version: 0.0.2
 Section: Tweaks
 Maintainer: pxcex
 Installed-Size: 152
-Depends: mobilesubstrate
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.pxcex.facebooknoads_0.0.2_iphoneos-arm64.deb
-Size: 8376
-MD5sum: f60f36137ea68c0a56a796bc307963d3
-SHA1: 53a794c578d60a8f7eeca237f9d939a86ce7c14f
-SHA256: 86615f45ee9de8f583b15d72cb0e0124d806323863aa55b7ff4352de3c499239
-SHA512: 98ea2921b69ff5f3760cad2f1ced85e382f1f3989339f25f76e4c65153f005f9c09b0d4f764a2cc9c0ce6707f8e3dd8e2a350970fbf340bd598d244e9bd97b97
+Size: 5952
+MD5sum: d9f6e83dfb89ee9ebd206500f6a3bd03
+SHA1: 8cdd56f7444a764ab845e4d55de35cfee041ac27
+SHA256: fee5b711f0e7a87688e3797d7b886c1c9edd07290f60e190d048587f3c486bff
+SHA512: 6c071bcd674130c4bb2e18bbfa28b532f72278f3b32574ff670503a842d67d69ec8682abc9fd186c4c5577adcb34e09aabbaa027792aeb74b6220fb83058e3ed
 Description: Block all Facebook™ Ads! Super simple to use, light & FAST. This Tweak removes FB NewsFeed ads, Story ads, Video ads & All Sponsored Posts.
 Name: Facebook NO ADS
 Author: pxcex
@@ -15452,6 +15954,24 @@ SHA512: 889664b666bd6d625fb10b5204b6f5154a462b40abf0e9bbf651478643bae4952e1cedfb
 Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm64.deb
+Size: 155330
+MD5sum: 7f3cc619eea95dd742fa1b333d4ed0fe
+SHA1: 928e8e181f14d5727e358bef07975b173feb9474
+SHA256: c82e39f79e6b084610ab5a7a44a9b483a319dd9e543052783e7663759fa1fe90
+SHA512: 0f2892b8147264ad318552ff66d5a091569387d576354c1e0c70af981cfe809599538cb6185a303f3fbfbcf1f097cbd564736be86c02c1b6def5e305d3d5afc5
+Description: Automate alert actions.
+Name: AutoAlerts
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm64
@@ -17437,16 +17957,16 @@ Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64
-Version: 2.7.2-4
+Version: 2.7.2-2
 Section: Tweaks
 Maintainer: ARX8x
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/xyz.xninja.systeminfo_2.7.2-4_iphoneos-arm64.deb
-Size: 272604
-MD5sum: 71e9a208edbcaf30100f7e0da2c780cf
-SHA1: 1b846f8a9ed728d50f0628a359e014a1d3210009
-SHA256: 109d9097b8394c79f91e951386807821e9eceba048af4b7981114c375a75448d
-SHA512: d23de0026101e9a441747c96ac7254197b478087fdb193b4a5217fd23c54e784a393dd6eb98c08fe1c96f2c2c3bfe761fb3020c74f5b27d42e3a19a95c10e5dc
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
+Size: 145120
+MD5sum: 0fecf4e1316fb2768b0906ddd585b5cc
+SHA1: d0b1986b73938e1bed4fd377e62983c7a47c4169
+SHA256: e75d5ccdd733fc95e4a5baed8cae32232edf6eb6db121781b3ce12f851242242
+SHA512: cc49634165ea18f97efee9464ac1d8ab9c3b2876c289d935b098c1bbb5a52b58f953ec84c4bbfe9c0a70b3bbbd0978199b6bf983b52c5128f67dfb959271fdf4
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
