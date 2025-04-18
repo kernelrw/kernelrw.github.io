@@ -13902,25 +13902,6 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 
-Package: com.julioverne.mimport
-Architecture: iphoneos-arm64
-Version: 0.0~beta40
-Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate, unzip, unrar, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/com.julioverne.mimport_0.0~beta40_iphoneos-arm64.deb
-Size: 1082548
-MD5sum: d863c9e64343ffd33824a6af893029ba
-SHA1: a01d5375322813a2e5cb9db79f445588432692ad
-SHA256: ad5da6a6958b8ed8d43d20887abe054a016e964dd5ad9c2711c45d69e882ff17
-SHA512: 3cb7fef9a8f9e294fac4259d1e19165b09f7c6d64b82167b1b51f83c6cd49fe5e5825edfc2c2a2275b0582ca6ef1e32bf5b9c1f07665daac38f0f4737e194648
-Homepage: https://twitter.com/ijulioverne
-Description: Media Importer Directly From Music App , big thanks for rootless-patcher for making this tweak for Dopamine alive again , one issue still exist is importing from within Music app crashing Music app , only sharing media to Music is working .
-Name: MImport
-Author: julioverne <julioverne@me.com>
-Icon: file:///var/jb/Library/PreferenceBundles/MImport.bundle/icon@2x.png
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mimport
-
 Package: com.julioverne.screendump13
 Architecture: iphoneos-arm64
 Version: 0.0.3d-2
