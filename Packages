@@ -3815,51 +3815,14 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm.deb
-Size: 94868
-MD5sum: e2766a2dcec28802cdf05a251f791342
-SHA1: 218543b583937d4b96191570c644d3e6c362e7c8
-SHA256: a33b3e78e390f2e9db591d5ab7e790599e86db1f6ff914dd6fc8040bbbd102ba
-SHA512: f2c82f0942d534fd9bf8e28e05233592e4a4c61b3eb66db92554212de9fc8f561efac0e02d4924efc72b25713cda5f6da6a5f1787ccf5aa579939278d435be18
+Size: 97106
+MD5sum: b622b36dea95ff15932dbabe955ff165
+SHA1: 7e4225aff39eb345a2c77c5b0de16037fac2740a
+SHA256: 524b0fed94154809aa8d86ec14fb567a34581d770d8a722e5cc03283d08f77df
+SHA512: 7cc7a86c56e1d213b4b523ee0fcd8cb6ca5fdd6d491eab5364c162f56113a12ee9ee2520683b5b7adf34b2eb40c56f55b478af5a710ee69110e8f873802f0357
 Description: Automate alert actions.
 Name: AutoAlerts
 Author: shiftcmdk
-Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
-
-Package: com.shiftcmdk.autoalerts
-Architecture: iphoneos-arm
-Version: 1.0.3
-Section: Tweaks
-Maintainer: shiftcmdk
-Installed-Size: 424
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm.deb
-Size: 51876
-MD5sum: 051d0cab08beb4922022b0fe0c4c176a
-SHA1: d607d40e09016979817d61024a31148307646c52
-SHA256: 69d4f4f8cf14e6ca14365d7aa8685e810df35f381f85a594b00255ce8067d5d2
-SHA512: c5fb94ef9801af64579844234128f6b04625e1d27ed6ac33a64f2aa4079411559b5075f6b8624a9ebfb618fe5b1f0f54fe043b04031ab35a489c69159ca5d65d
-Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
-Name: AutoAlerts
-Author: shiftcmdk
-Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
-
-Package: com.shiftcmdk.autoalerts
-Architecture: iphoneos-arm
-Version: 1.0.4
-Section: Tweaks
-Maintainer: shiftcmdk
-Installed-Size: 424
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.4_iphoneos-arm.deb
-Size: 51900
-MD5sum: fb8a4b53175658ae08011b244fbcf770
-SHA1: 256b92bedd82a433caed5fd966abbfbb357c379a
-SHA256: 12ad70efe61f10dc3fcd2e8b3730cc9da46292b8e5acad88cd9a84931abeb3e3
-SHA512: fe2083d6802201257f51b48cc210e072d6d5f9f8774d222d7c4f9ebddb467d1dabe09c489c37f254056b1a71da969f1b60c955495f8218245179fc6cca11da29
-Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
-Name: AutoAlerts
-Author: shiftcmdk & Fadh1l
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
@@ -15963,51 +15926,14 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm64.deb
-Size: 155330
-MD5sum: 7f3cc619eea95dd742fa1b333d4ed0fe
-SHA1: 928e8e181f14d5727e358bef07975b173feb9474
-SHA256: c82e39f79e6b084610ab5a7a44a9b483a319dd9e543052783e7663759fa1fe90
-SHA512: 0f2892b8147264ad318552ff66d5a091569387d576354c1e0c70af981cfe809599538cb6185a303f3fbfbcf1f097cbd564736be86c02c1b6def5e305d3d5afc5
+Size: 155426
+MD5sum: c3d73d39a4b9bc6eec1c7db5f83c1b66
+SHA1: d5f0b3880f912cd292d2ed1e0efb32eb2bf6c9ea
+SHA256: c820c1c5644446d49b5ff3dae36ba154879962af5c76fefd6468e246bcb61964
+SHA512: 12d21cc45658827c0eb5215f06c90d69c5191906cf2e48f4a3d061589c0eef3dc7a1a31013234686057c24224f653845e265a151d64904d1332bc3a91f96ed4f
 Description: Automate alert actions.
 Name: AutoAlerts
 Author: shiftcmdk
-Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
-
-Package: com.shiftcmdk.autoalerts
-Architecture: iphoneos-arm64
-Version: 1.0.3
-Section: Tweaks
-Maintainer: shiftcmdk
-Installed-Size: 424
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm64.deb
-Size: 59788
-MD5sum: 5fe45f3509ecd743f409840e487c8a35
-SHA1: 571c3309d55a9ff65755d12c09786320245477ed
-SHA256: 3365f711dd46de4a9d34a712401fda37bd06da2d5030a4cb18760e5b21077279
-SHA512: a0b3f0d6c81f21d74ea40712f01f9458852ba94a18dae41142c5b91f652ecac96a2c94346b0d952e921312717034584a2ba11d3057c3edfd82915998d419bef7
-Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
-Name: AutoAlerts
-Author: shiftcmdk
-Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
-
-Package: com.shiftcmdk.autoalerts
-Architecture: iphoneos-arm64
-Version: 1.0.4
-Section: Tweaks
-Maintainer: shiftcmdk
-Installed-Size: 424
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.4_iphoneos-arm64.deb
-Size: 59844
-MD5sum: 2ba1a60d874f147be873d49cb65fb701
-SHA1: 5466312851255c15246ac2e52f78d82df24ffc5e
-SHA256: 0b1823f547b0a7539865236f2103f18defb6c25c3c21d83ac7f117596206156f
-SHA512: c73b8ef3ed75fb95812279f5d07c6fa59f69c5de18b8e91055e764b84d81f0537e702b48c491c81275c59134722617a6de980ee3e747dade51fc0693ae666f9f
-Description: Automate alert actions , now supports up to iOS 16.5 ; rootful & rootless .
-Name: AutoAlerts
-Author: shiftcmdk & Fadh1l
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
