@@ -2373,17 +2373,17 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, unzip, unrar
 Filename: ./debians/Rootful/com.julioverne.mimport_0.0~beta40_iphoneos-arm.deb
-Size: 1495576
-MD5sum: c568cac16c27500622a4eda930ad8661
-SHA1: 18f1ddead70f5e35520f5a0dd38501202f47f67c
-SHA256: b407693861b7c3169806b3b79c4829e0aa7c84865b3241e3a787cdc719bd0f8f
-SHA512: 6871abf237ef6b7736951720b634d4d6883207cd9ed1e6af854ac86b7b6deab1969f3c831846a1f6cd9ef00a12860364c950ea6f54c898c191b5a318ec55eed2
-Homepage: http://twitter.com/ijulioverne
+Size: 1495760
+MD5sum: 577986fe71b6fb188b31a0e4ceb257ed
+SHA1: 38af4bac2f9829c274b1d9dd9385b17752cd46b7
+SHA256: 34133d611240b7ccbc757a47740bd225a5a5746cd6ac342d9ccd8eb55e62292d
+SHA512: 97291ca151235e6b1b9422d288d20a780258249885edd8a2589e578f39e89e270b54c51ad7481489b817e289bebcdea36c91215fb621f6cb4d2cb10f1f641fcc
+Homepage: https://twitter.com/ijulioverne
 Description: Media Importer Directly From Music App
 Name: MImport
 Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mimport
 
 Package: com.julioverne.screendump13
 Architecture: iphoneos-arm
@@ -13871,17 +13871,17 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, unzip, unrar, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.julioverne.mimport_0.0~beta40_iphoneos-arm64.deb
-Size: 1082528
-MD5sum: e87b21c86d0d1019c82e75669b57facf
-SHA1: 36f3b61000ca75074a6ccdbb4f72879d00f9efff
-SHA256: 6283ab252410cbaa560cc1312945bfaaf2508731d131df1bd668fd10325f7403
-SHA512: 0858a83ededd614ae741349640bd08cd547e86469b52d32852377209335362a15448015da96cbdddad61c2ed02452d8cad760017c455b1e5835b1db89f37e476
-Homepage: http://twitter.com/ijulioverne
-Description: Media Importer Directly From Music App ,big thanks for rootless-patcher for making this tweak for Dopamine alive again .
+Size: 1082548
+MD5sum: d863c9e64343ffd33824a6af893029ba
+SHA1: a01d5375322813a2e5cb9db79f445588432692ad
+SHA256: ad5da6a6958b8ed8d43d20887abe054a016e964dd5ad9c2711c45d69e882ff17
+SHA512: 3cb7fef9a8f9e294fac4259d1e19165b09f7c6d64b82167b1b51f83c6cd49fe5e5825edfc2c2a2275b0582ca6ef1e32bf5b9c1f07665daac38f0f4737e194648
+Homepage: https://twitter.com/ijulioverne
+Description: Media Importer Directly From Music App , big thanks for rootless-patcher for making this tweak for Dopamine alive again , one issue still exist is importing from within Music app crashing Music app , only sharing media to Music is working .
 Name: MImport
 Author: julioverne <julioverne@me.com>
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
 Icon: file:///var/jb/Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mimport
 
 Package: com.julioverne.screendump13
 Architecture: iphoneos-arm64
