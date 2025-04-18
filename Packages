@@ -4782,6 +4782,27 @@ Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
+Package: me.jjolano.alertdismiss
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: ./debians/Rootful/me.jjolano.alertdismiss_1.0.4_iphoneos-arm.deb
+Size: 25240
+MD5sum: 2282ea8ff09e382807e1aa3399996d8d
+SHA1: a0d8427704e3e458e1ed7c373d1ff236c58e1ffc
+SHA256: d7ad8fa1edf908499c807075ee62b947cd1b329300d0dc12cdf79171e69f2fb1
+SHA512: 89b72e51f06fa7f2a6b8ad8760a041b3fa426aa439d31448a7af20d40fd2954890f5c93e152792777fcd55d13eb46bc7ad4e9176cc13c8738404686812ae1e1d
+Homepage: https://shuga.co/
+Description: Add a Force Dismiss button to any UIAlertController.
+Name: AlertDismiss
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.alertdismiss.html
+SileoDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+ModernDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+Icon: https://ios.jjolano.me/assets/me.jjolano.alertdismiss/icon.png
+Author: jjolano <jjolano@me.com>
+
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm
 Version: 3.7.6
@@ -13809,6 +13830,23 @@ Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScr
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
 
+Package: com.jacobcxdev.fbspnosor
+Architecture: iphoneos-arm64
+Version: 1.2.9
+Section: Tweaks
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.jacobcxdev.fbspnosor_1.2.9_iphoneos-arm64.deb
+Size: 548572
+MD5sum: d5260e318fc0c39fe23cd334e7425708
+SHA1: e208370447431b8a2785d06e4639ee2a61a9c24f
+SHA256: 56c9f71c26f74a47b35ee4936b1c8788527f9ed53bf0a2a87f6317ef4eb8bde5
+SHA512: 7f60c8359712a7f206c4820f70adadfafde0335d724581ef03da5affb948513258a5bced9b39a5d83dbf1323ad22392254e1964ff8d49311102faaee79031681
+Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
+Name: FBSpNOsor
+Author: JacobCXDev <jacobcxdev@gmail.com>
+
 Package: com.jacobcxdev.libjcx
 Architecture: iphoneos-arm64
 Version: 1.1.1
@@ -17287,13 +17325,13 @@ Architecture: iphoneos-arm64
 Version: 1.0.4
 Section: Tweaks
 Maintainer: jjolano <jjolano@me.com>
-Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/me.jjolano.alertdismiss_1.0.4_iphoneos-arm64.deb
-Size: 13564
-MD5sum: f9d997cf3862f64de942411788b2d86b
-SHA1: 77a86cdf58f654834055726f81169a3b0815e3bd
-SHA256: 928cb4586b2a698f9abd438d8476a10da2cc5091d8d84b05cc3221d22b8455c7
-SHA512: 444f207c237c2ce2a4901d071340223bf567a252cabab9549395c70d22b135c61875596ddc306822a0d4863b7dd177027d0bd2b754ec6fb5fbdf6f992b5edb5c
+Size: 24404
+MD5sum: b0c5ba2a97e3fe36278655d331c45151
+SHA1: efdee7604c524ae268e7a563858424d1b70d3b99
+SHA256: 8fa0e4b7d9acefb72ff4567679231b656b5c186f276b824c0adeb340117efefb
+SHA512: 9475806da9d1b5ba609b63fc0ee9da66a850fd7fc4f03fff4575896fefebf7211fd748eeec109312157d6fa442fcf6fd7b0e4da586314b14469fde85641c8143
 Homepage: https://shuga.co/
 Description: Add a Force Dismiss button to any UIAlertController.
 Name: AlertDismiss
