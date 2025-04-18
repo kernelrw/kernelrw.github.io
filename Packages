@@ -3745,6 +3745,43 @@ Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.lpmno
 Author: sugiuta
 Icon: https://sugiuta.github.io/repo/images/icons/LPMNotification.png
 
+Package: com.sugiuta.mochi15
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Filename: ./debians/Rootful/com.sugiuta.mochi15_1.0.3_iphoneos-arm.deb
+Size: 130140
+MD5sum: ffed4a5ad54910cc5bdaa40cbb5b26d9
+SHA1: 6ab1c2fe01e1fed9222c90ffa3f756302798e96b
+SHA256: 85fb93b15bfd5c4299ca52325afe399534d20f40f4e805b487600fcdfe8f9752
+SHA512: 6ecfa50bd47755439b506edbc5a86008f6582b87ec484f52a96a3fab93d443cac82263c8e5208a18a7ff5131bc6a7f3ece0c8ed4f47a0e0f8b29470213757c29
+Description: Beautiful UI music player for iOS15.
+Name: Mochi15
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/mochi15.png
+
+Package: com.sugiuta.mochi
+Architecture: iphoneos-arm
+Version: 0.0.8
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 1404
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), com.sugiuta.libkuromi, firmware (>=14.0)
+Filename: ./debians/Rootful/com.sugiuta.mochi_0.0.8_iphoneos-arm.deb
+Size: 861164
+MD5sum: 8a88469a3a833a2ad42a443d35be5daf
+SHA1: 258c9c3ef41c1e08a0dc5cb6b90a84efd52617e9
+SHA256: 7113a15ad59ae2e2d5a515ea622a22c10183a576510bcfc7e6a9586623c5a21d
+SHA512: c93e67c60f349a4575534acfbb1ff182ed6b872ba81424adbb13ab6535aad83119f1604fb64bb2c46625a25d7ab3f35f0e37c74caded02a8dddfaf6d10052fae
+Description: Compact music player tweak for iOS14.
+Name: Mochi
+Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.mochi
+Author: sugiuta
+Icon: https://sugiuta.github.io/descriptions/com.sugiuta.mochi/bigIcon.png
+
 Package: com.swing.padswitcher
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -15713,6 +15750,24 @@ Name: LPMNotification
 Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.lpmnotification
 Author: sugiuta
 Icon: https://sugiuta.github.io/repo/images/icons/LPMNotification.png
+
+Package: com.sugiuta.mochi15
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Filename: ./debians/Rootless/com.sugiuta.mochi15_1.0.3_iphoneos-arm64.deb
+Size: 133948
+MD5sum: 7a21d9d03eafb5d6bc25a226015fd735
+SHA1: f774897ef39c6f5c35c1d2cb40e68ea4ffb3bc8a
+SHA256: 917d8b038af9a3adf2ae07f00b95ef8177b2a494318440e78339ee80efa04587
+SHA512: b184458e00c1e0f5e57ed575418e43f92a500e3102305ff367e5f90273f88247dcd71a4872bfe56db309e4d3611e9ee8cddd0c6963d41e34c540cd0e6fd2d641
+Description: Beautiful UI music player for iOS15.
+Name: Mochi15
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/mochi15.png
 
 Package: com.sugiuta.plampycc
 Architecture: iphoneos-arm64
