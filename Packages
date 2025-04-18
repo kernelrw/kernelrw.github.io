@@ -17310,14 +17310,15 @@ Maintainer: Litten
 Installed-Size: 2832
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
 Filename: ./debians/Rootless/love.litten.rose_1.1.0_iphoneos-arm64.deb
-Size: 430810
-MD5sum: db63f7cc63e870de158058d9605a6eea
-SHA1: f27d7c003417f92ef369c06589c523d45a25bb4a
-SHA256: 3d41bb53e99062bee045cd562d5e9ed38a2176d253e12439cb82427579c0f15f
-SHA512: 731a15e29d0dc8b8d53994813dcdd5ffc61a9e76dd058a54fae293557c26856c374b23427633b9303283bfeba3179c807d9b4869e4ed4c9d3e2147fb74924d74
+Size: 563646
+MD5sum: 7799af4eafeff328d1243fae45f366b5
+SHA1: c084569182a446c82b9e131cae40554b66ee1d4e
+SHA256: e411938c94882a87aa0d7bcb36729ee3533b26af4c0e5bc04d1669a07ebe0ee7
+SHA512: 6cf88c43907d43f23c318ab62cae070d36b8b9e005b41b0def2249ec01096c3c07c7434d58f2acb3a3006a29cb7dd8854d01211ee86c28b5ae31e61e2a623750
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
 Name: Rose 🌹
 Author: Litten
+Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
 
 Package: me.eternal.phantom
 Architecture: iphoneos-arm64
@@ -17707,23 +17708,6 @@ Author: Bailey Seymour
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.thebigboss.libcolorpicker
 Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
-
-Package: sh.litten.rose
-Architecture: iphoneos-arm64
-Version: 1.0.9
-Section: Tweaks
-Maintainer: Litten
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debians/Rootless/sh.litten.rose_1.0.9_iphoneos-arm64.deb
-Size: 428240
-MD5sum: ef0a4c03b44f9d86effa5364d017bae7
-SHA1: 455c9322fbf6d6f9a25cc97bcfe0396d73c2bbb2
-SHA256: 957411f1ec7cd30ceeebf2d18c318da82213a8fd834b13388fc6465299d546f1
-SHA512: 8a65ee9e8a05bc64e3f92e1f175beeaeeb93d1250ee1c542c7ffc33fe61a32ca654157e5e593ee4cea39cef63538412f8c5ea4ec37430b4ea0b4e8498fda061d
-Description: Getting peeped by a rose doesn't feel that good, it's time to change that, supports rootless jailbreaks on iOS15.0 ~ iOS16.5
-Name: Rose 🌹
-Author: Litten
-Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
 
 Package: system-cmds-memory-pressure
 Architecture: iphoneos-arm64
