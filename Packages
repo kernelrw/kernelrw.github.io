@@ -13890,11 +13890,11 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
-Size: 43284
-MD5sum: 52f49eead7b9b7376c929a777e12114e
-SHA1: 7fae33201a07855223a883abe3865694b2a5cbd7
-SHA256: a5523ebff81be5bb318e25636d7e263bf7f79bb625c5ec9e7f24946f94f5a13b
-SHA512: 6fd1c68bc21e4631e1b9e6c0f01c17187d882f5e1d90d686dee62e59a82cc1921b48c87a89047b57b8c2f706a89eea793e66cf8f7aaf6f86a8e9949619838955
+Size: 107120
+MD5sum: 14c9a400c56ec16b0d6897b42426ee82
+SHA1: 70349d9e55e994ff08d7cd2cdb73749ea6c064e8
+SHA256: 344b0df6aab9cf5148d3639c4af040c1b16156047fda0deb11f1a926d84c84b3
+SHA512: 9dbee0c57b08c832faca5b0666ec00fef4370e1119e6427d190589b970acf4ee1d8a848a57911d2b091f0174a428f5f044a73862774066e3bfab2284f841d536
 Homepage: http://twitter.com/ijulioverne
 Description: Better WiFi Preferences
 Name: GoodWiFi
@@ -17301,6 +17301,23 @@ Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
 Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+
+Package: love.litten.rose
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 2832
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debians/Rootless/love.litten.rose_1.1.0_iphoneos-arm64.deb
+Size: 430810
+MD5sum: db63f7cc63e870de158058d9605a6eea
+SHA1: f27d7c003417f92ef369c06589c523d45a25bb4a
+SHA256: 3d41bb53e99062bee045cd562d5e9ed38a2176d253e12439cb82427579c0f15f
+SHA512: 731a15e29d0dc8b8d53994813dcdd5ffc61a9e76dd058a54fae293557c26856c374b23427633b9303283bfeba3179c807d9b4869e4ed4c9d3e2147fb74924d74
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Name: Rose 🌹
+Author: Litten
 
 Package: me.eternal.phantom
 Architecture: iphoneos-arm64
