@@ -13871,17 +13871,17 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, unzip, unrar, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.julioverne.mimport_0.0~beta40_iphoneos-arm64.deb
-Size: 1082478
-MD5sum: f283f93974e5a176b9ed3361c96b7d05
-SHA1: 9357e902e772cb2c4d3874f1960b679bdd7264ce
-SHA256: 12b2b4b65e3c554723b28e3a2404449e74219ca270327a0f772b8fe80ce5158a
-SHA512: 58c0869a653a5fbddcfd9217bf73b7864532d47088be72273810e33df60d8cbb7ba10bb25b58e102688d3dc6dd6b3675f5bfc46cfa243402de2eba4ea7b4e626
+Size: 1082528
+MD5sum: e87b21c86d0d1019c82e75669b57facf
+SHA1: 36f3b61000ca75074a6ccdbb4f72879d00f9efff
+SHA256: 6283ab252410cbaa560cc1312945bfaaf2508731d131df1bd668fd10325f7403
+SHA512: 0858a83ededd614ae741349640bd08cd547e86469b52d32852377209335362a15448015da96cbdddad61c2ed02452d8cad760017c455b1e5835b1db89f37e476
 Homepage: http://twitter.com/ijulioverne
-Description: Media Importer Directly From Music App
+Description: Media Importer Directly From Music App ,big thanks for rootless-patcher for making this tweak for Dopamine alive again .
 Name: MImport
 Author: julioverne <julioverne@me.com>
-Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
+Icon: file:///var/jb/Library/PreferenceBundles/MImport.bundle/icon@2x.png
 
 Package: com.julioverne.screendump13
 Architecture: iphoneos-arm64
