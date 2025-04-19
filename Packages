@@ -2518,6 +2518,22 @@ Description: Enables options to disable wifi in apps usually only available in C
 Name: I Am Chinese
 Author: Castyte
 
+Package: com.kernelrw.magsafe
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Tweaks
+Maintainer: Ethan Whited & MTAC
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker
+Filename: ./debians/Rootful/com.kernelrw.magsafe_1.0.9_iphoneos-arm.deb
+Size: 326536
+MD5sum: 5a90038f6bde6dc609407a8e9e645503
+SHA1: f46b4569ab447255f15b4ed191b041a323bd39bf
+SHA256: d0ccd47dbb326d19c5d5047a813c77aade73dd85f7931d98cd426a2deee05e9f
+SHA512: ee3fffc50f882197d8bd3f18cd559f8e45899a9e021e0322faf588760138ec4099095d217f5d28a474dc0585f1f3501812a558278ca4be4fb7b7552fe2c6ef4f
+Description: MagSafe charging indicator just like iOS 14!
+Name: MagSafe
+Author: Ethan Whited
+
 Package: com.kernelrw.tgextras
 Architecture: iphoneos-arm
 Version: 1.2-9+debug
@@ -2526,11 +2542,11 @@ Maintainer: choco
 Installed-Size: 14980
 Conflicts: com.choco.tgextra
 Filename: ./debians/Rootful/com.kernelrw.tgextras_1.2-9+debug_iphoneos-arm.deb
-Size: 2308016
-MD5sum: 99788fe3fbf813c4a37668a649697f97
-SHA1: 31766c2e01406d5cd41c85d909fb64dd14e3ede0
-SHA256: 0666c31f9fca324d4864a92018990322a02080256e63a430beddf94aeee06f01
-SHA512: 2213b63a388b123a6c9d59ac4c949ad110cab06ce0c566c2daf1fc58d310502e79116a78043c81002ce8143b27a4bdbafcb7d99b463fc4793c21b78a2d3e4268
+Size: 2313212
+MD5sum: 476b4606694802382dedfbf03dcf78c9
+SHA1: bcc5d88971c7e5c1d1bb6dfa63bd325b77e1dafb
+SHA256: 2a11c9bde2dc04b465024b5461ae83358b6eb2aeab373fa8f06a3faa7b2f44c5
+SHA512: 1395c7a14175e62c1a7414e86d52c23d57c65a8219519881d3d8d51a3307f67831385e3d115d037c98a3bcda60f738f431e8ec4f8b4289f289465f3f82156745
 Description: Telegram Enhancement tweak
 Name: Telegram TGExtra
 Author: choco
@@ -13983,6 +13999,22 @@ Description: Play Haptic On Device Wake . Supports iOS11 - 16.7.10 , Rootless su
 Name: Haptic Wake
 Author: iDebCreator
 
+Package: com.kernelrw.magsafe
+Architecture: iphoneos-arm64
+Version: 1.0.9
+Section: Tweaks
+Maintainer: Ethan Whited & MTAC
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker
+Filename: ./debians/Rootless/com.kernelrw.magsafe_1.0.9_iphoneos-arm64.deb
+Size: 325308
+MD5sum: df74108c8ddc68578d7fae9787527487
+SHA1: 55ce9468adfc02c9615c454709d6cb4f2aeaf214
+SHA256: 4a75d13da549fa05aac0ec08d7e340806d883798b618fc5fdbc0749f2b5e17ad
+SHA512: 4ddc458064cd473e75274057a45ad74ecde4ec465f040c9f1d5072e05a4c131ecb198d69a9aa4f6d69b54e4b66b9782fcb807a688cb4af084136a265806510bb
+Description: MagSafe charging indicator just like iOS 14!
+Name: MagSafe
+Author: Ethan Whited
+
 Package: com.kernelrw.tgextras
 Architecture: iphoneos-arm64
 Version: 1.2-9+debug
@@ -13991,11 +14023,11 @@ Maintainer: choco
 Installed-Size: 14980
 Conflicts: com.choco.tgextra
 Filename: ./debians/Rootless/com.kernelrw.tgextras_1.2-9+debug_iphoneos-arm64.deb
-Size: 2314388
-MD5sum: 3acdd3cc2d225980fa67a1575e91981e
-SHA1: 3b630fe14f3242525c0819aec989d4cd8370ef57
-SHA256: fd520f406662ddc7a7527ed84c54d30ebe5234545e3ff70dcee5a82cd1800be0
-SHA512: f02034910fc8cca6f59d3932390b101d749fa8c3c80e6576a562d34b40f5722dece4fb0c178e565e1f2a7ce0c3d21d0dfe1e2962411bf701f9c296d2948d9546
+Size: 2310872
+MD5sum: 6ff9c8b3a6ad2001ea2f75dbd2d8beea
+SHA1: 53cb7919654d8a0fb5fea0c740e0786bae1b8b02
+SHA256: fa1961b9d37d01ed1fbcb3630909f8d38e5880a54ef58ce494ed7828a3e2ecf4
+SHA512: bed5a954309c1fc830d1760f601a6d4b73d7cffc543bdd4251a7ba9dc0379af48443e1290e95bbf927940e5b6de3c7d84f4fc0366142e95995c1a097f74d25cd
 Description: Telegram Enhancement tweak
 Name: Telegram TGExtra
 Author: choco
