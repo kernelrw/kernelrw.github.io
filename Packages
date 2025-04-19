@@ -536,6 +536,30 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: file:///Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
 
+Package: com.asterix.digitalbattery13
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 509
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
+Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg.batterypercent12, com.dpkg.arkrome, ca.ndoizo.perxent, com.asterix.modernbatteryx, com.laughingquoll.cowbell, com.peterdev.half, com.asterix.digitalnotchedbattery
+Filename: ./debians/Rootful/com.asterix.digitalbattery13_1.1.0_iphoneos-arm.deb
+Size: 39512
+MD5sum: 79aeeeb936b973d6a9d0b92fe9033871
+SHA1: b35a173f7f30a537c3a92f6b331c75b3f67313f2
+SHA256: 802db800fafde3c7334fa7250ef2d1dfbf82fa0d6a51f7c29d70fbe036203b99
+SHA512: d60bb12b33848fe66319205e197c2ffe7815cbefb98bc907e0cb36bf6b54fe474e10a18b9de7db2028d11b216a535a91ffa86e0d3c4bba27274c7920edc8f183
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Description: Digital battery in statusbar for iOS13-iOS16
+Tag: purpose::extension, compatible::ios13
+Author: Asterix <asterix_gaul@outlook.com>
+Name: DigitalBattery13-16
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: asterix
+Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
+
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm
 Version: 1.0
@@ -11658,6 +11682,30 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 Depiction: https://chariz.com/get/veza
+
+Package: com.asterix.digitalbattery13
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 509
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg.batterypercent12, com.dpkg.arkrome, ca.ndoizo.perxent, com.asterix.modernbatteryx, com.laughingquoll.cowbell, com.peterdev.half, com.asterix.digitalnotchedbattery
+Filename: ./debians/Rootless/com.asterix.digitalbattery13_1.1.0_iphoneos-arm64.deb
+Size: 39656
+MD5sum: 7f87334c888cb63a41e34c8e15f7bfce
+SHA1: 2755e138b828cf107b030f1e20c358a60786f5ee
+SHA256: aa16d7eec0b6ae74ae6aa5b187ec3685de338fffdbf415b12121e8815038a905
+SHA512: ef3da136fc25663c127a88961663516f3269baa334527e57d948f71b4f0b13d3a7ec1a016d17f4ff9659b0ecdcdef94aeb7b48fa424e9e0b6371f67cc6da600e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Description: Digital battery in statusbar for iOS13-iOS16
+Tag: purpose::extension, compatible::ios13
+Author: Asterix <asterix_gaul@outlook.com>
+Name: DigitalBattery13-16
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: asterix
+Icon: file:///var/jb/Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
 
 Package: com.atwiiks.betterccxii
 Architecture: iphoneos-arm64
