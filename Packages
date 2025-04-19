@@ -2518,6 +2518,24 @@ Description: Enables options to disable wifi in apps usually only available in C
 Name: I Am Chinese
 Author: Castyte
 
+Package: com.kernelrw.tgextras
+Architecture: iphoneos-arm
+Version: 1.2-9+debug
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 14980
+Conflicts: com.choco.tgextra
+Filename: ./debians/Rootful/com.kernelrw.tgextras_1.2-9+debug_iphoneos-arm.deb
+Size: 2308016
+MD5sum: 99788fe3fbf813c4a37668a649697f97
+SHA1: 31766c2e01406d5cd41c85d909fb64dd14e3ede0
+SHA256: 0666c31f9fca324d4864a92018990322a02080256e63a430beddf94aeee06f01
+SHA512: 2213b63a388b123a6c9d59ac4c949ad110cab06ce0c566c2daf1fc58d310502e79116a78043c81002ce8143b27a4bdbafcb7d99b463fc4793c21b78a2d3e4268
+Description: Telegram Enhancement tweak
+Name: Telegram TGExtra
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+
 Package: com.kernelrw.xsvpncrack
 Architecture: iphoneos-arm
 Version: 1.0
@@ -13964,6 +13982,24 @@ SHA512: dbd8e448fb56e309ae3302bc834e796705e643ca2c3e63efdcc8a3a42de5cf7bcf601060
 Description: Play Haptic On Device Wake . Supports iOS11 - 16.7.10 , Rootless support too .
 Name: Haptic Wake
 Author: iDebCreator
+
+Package: com.kernelrw.tgextras
+Architecture: iphoneos-arm64
+Version: 1.2-9+debug
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 14980
+Conflicts: com.choco.tgextra
+Filename: ./debians/Rootless/com.kernelrw.tgextras_1.2-9+debug_iphoneos-arm64.deb
+Size: 2314388
+MD5sum: 3acdd3cc2d225980fa67a1575e91981e
+SHA1: 3b630fe14f3242525c0819aec989d4cd8370ef57
+SHA256: fd520f406662ddc7a7527ed84c54d30ebe5234545e3ff70dcee5a82cd1800be0
+SHA512: f02034910fc8cca6f59d3932390b101d749fa8c3c80e6576a562d34b40f5722dece4fb0c178e565e1f2a7ce0c3d21d0dfe1e2962411bf701f9c296d2948d9546
+Description: Telegram Enhancement tweak
+Name: Telegram TGExtra
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 
 Package: com.ketty.tweaktool
 Architecture: iphoneos-arm64
