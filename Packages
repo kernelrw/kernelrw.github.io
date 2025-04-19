@@ -2534,6 +2534,22 @@ Description: MagSafe charging indicator just like iOS 14!
 Name: MagSafe
 Author: Ethan Whited
 
+Package: com.kernelrw.rosemary
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: kernelrw
+Filename: ./debians/Rootful/com.kernelrw.rosemary_1.0_iphoneos-arm.deb
+Size: 252440
+MD5sum: 0ede321eac9987a662f10b808bd3065a
+SHA1: 70f551a756948126b1577bfccf4a5f2ba3db8c8c
+SHA256: 05c21bde2d171899ca587ece7afebb973ba0669801e414d95551adb972830241
+SHA512: 5bb00c11f8592ca496889be1c49cd2700b47882ff8fcd70772eac3ca74eb8f11885aed1afb8a0e3dda7ea886d091f9a109730b0a16989d5aece65ec18fe1e7c2
+Description: Rosemary font for A-Font
+Name: Rosemary
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
+
 Package: com.kernelrw.tgextras
 Architecture: iphoneos-arm
 Version: 1.2-9+debug
@@ -14014,6 +14030,22 @@ SHA512: 4ddc458064cd473e75274057a45ad74ecde4ec465f040c9f1d5072e05a4c131ecb198d69
 Description: MagSafe charging indicator just like iOS 14!
 Name: MagSafe
 Author: Ethan Whited
+
+Package: com.kernelrw.rosemary
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: kernelrw
+Filename: ./debians/Rootless/com.kernelrw.rosemary_1.0_iphoneos-arm64.deb
+Size: 252440
+MD5sum: 73720fbbbbc8924a50d1467a2acc549b
+SHA1: 15c4f87877f18cadfccdc9533482cac2be54a654
+SHA256: a2df9930741c8c94e9f9b61d5d4f16e7334396e82ace9fae611b2cbda13f0507
+SHA512: 1397d7e2efa42e242598938e5a3f62adee26597dbbe7a665763e5c4260ed0b4cd2b03d9e4fd6202b150bf6a705f91bbee02387e0184a2973ad584fd1098f05bb
+Description: Rosemary font for A-Font
+Name: Rosemary
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
 
 Package: com.kernelrw.tgextras
 Architecture: iphoneos-arm64
