@@ -2422,22 +2422,6 @@ Description: Save your lockscreen wallpaper simply like never before
 Name: Mita
 Author: Artem Kasper
 
-Package: com.kernelrw.120Hz
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.kernelrw.120Hz_1.0_iphoneos-arm.deb
-Size: 4852
-MD5sum: 0068a0350b1408573003026fcd57b771
-SHA1: b1ed5d589f9d4b681d6c49f27377e2f98947073d
-SHA256: cba0e9aee4faf1d0a2d9e76eb04ecc98d52c83d0130a3e03828b66d36e265c83
-SHA512: 71ea854c3fc397c4bfa1346eeea30e2a8395817ea76d6b609e0b7c1f642afefdbbadff44626a1674dd52c89b9673542e4818fcc75f922a710ea1bc7eb5a7ba59
-Description: Break 80Hz to full 120Hz
-Author: Kernelrw
-Name: 120Hz
-
 Package: com.kernelrw.cartooncolor
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2533,21 +2517,6 @@ SHA512: 2acc95b741c71c2a6b8e5281ad32f0fb9427e16dcdd96cf7886b2b2c93ec713e3e309acb
 Description: Enables options to disable wifi in apps usually only available in China.
 Name: I Am Chinese
 Author: Castyte
-
-Package: com.kernelrw.rosemary
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Fonts
-Maintainer: kernrlrw
-Filename: ./debians/Rootful/com.kernelrw.rosemary_1.0_iphoneos-arm.deb
-Size: 252376
-MD5sum: 1fdd06db06a0377cc7e335807162602a
-SHA1: a427ae5e8029066ed12fb86b4664b3e148312ff4
-SHA256: a080c24aadbbacd18bfef237479f782088b63d8b29fba082512df9570630a23b
-SHA512: 46e94627641f456ab496bb1328580717f85a2c686013310f9252a8f08966352d33e322a3a69de50911cb50dc5d2ca8d385431a74074566c8562336072371d7be
-Description: Rosemary font for A-Font
-Name: Rosemary
-Author: kernelrw
 
 Package: com.kernelrw.xsvpncrack
 Architecture: iphoneos-arm
@@ -4747,22 +4716,20 @@ Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
 
 Package: love.litten.rose
 Architecture: iphoneos-arm
-Version: 1.2
+Version: 1.1.0
 Section: Tweaks
 Maintainer: Litten
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/Rootful/love.litten.rose_1.2_iphoneos-arm.deb
-Size: 431484
-MD5sum: bf4abe9feb27db4b92f762e12939e093
-SHA1: 9aba85c0d25d36d42899ffd58c38a152478c3e1f
-SHA256: d0cd50422ee668c8c14137bef63c0d9e10fb1a9db74e0ff2a1f4bce29f93e4a8
-SHA512: 0f1c596d167a449bb531d2663affb90a24610aaac0138c03bb6cad50ad01d29e481b66d6de03d604706547308866c0a962f1c934a816b6d88d149f6d9fcc485f
+Installed-Size: 2868
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debians/Rootful/love.litten.rose_1.1.0_iphoneos-arm.deb
+Size: 425828
+MD5sum: a8c7c92d3acf85b7387d6236de9f7679
+SHA1: b2f0bcfe5ede6123bc9269d382181771324e59ad
+SHA256: 01fd13a0cfe9f69ae14c025fe1e96d47b0ce4bc636fa0c6ff9e86130fe79f7b8
+SHA512: c042bc1d469fc0c2b15d344122e92889690495ce46d0c9efbdb6d83c2c6f7c712759ab47d018bf4f570c4432c004c411bc59fb6df229a4d1dfdef41730cfeaea
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
 Name: Rose 🌹
 Author: Litten
-Depiction: https://repo.litten.love/depictions/Rose/index.html
-SileoDepiction: https://repo.litten.love/depictions/Rose/index.json
-Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
 
 Package: me.eternal.phantom
 Architecture: iphoneos-arm
@@ -4957,26 +4924,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolargetit
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 dev: coolstar
-
-Package: sh.litten.rose
-Architecture: iphoneos-arm
-Version: 7.7.2
-Section: Tweaks
-Maintainer: Litten <hiya@litten.love>
-Installed-Size: 3104
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debians/Rootful/sh.litten.rose_7.7.2_iphoneos-arm.deb
-Size: 1208368
-MD5sum: 429952bd9afa19a1f0e59bc3438651ac
-SHA1: ad6e36d2c6d0b5c61c971ef56e7e0ed6fa070deb
-SHA256: 8c15918f43ebde3d2ad93e6ed69f5bb19d290d67b48000c9bf7f00ff14b5cddc
-SHA512: f69d5707feb065933291beb13afb9c85409d6241bb110b689025c80226cdb6f489d0e290c5a3f41f37afcc53ab2471f40b4eea2407e082af8536de541d529566
-Description: Getting peeped by a rose doesn't feel that good, it's time to change that
-Name: Rose 🌹
-Author: Litten <hiya@litten.love>
-Depiction: https://repo.litten.love/depictions/rse/index.html
-SileoDepiction: https://repo.litten.love/depictions/rse/rse.json
-Icon: https://repo.litten.love/depictions/rse/assets/icon.png
 
 Package: system-cmds-memory-pressure
 Architecture: iphoneos-arm
@@ -17291,11 +17238,11 @@ Maintainer: Litten
 Installed-Size: 2832
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
 Filename: ./debians/Rootless/love.litten.rose_1.1.0_iphoneos-arm64.deb
-Size: 563646
-MD5sum: 7799af4eafeff328d1243fae45f366b5
-SHA1: c084569182a446c82b9e131cae40554b66ee1d4e
-SHA256: e411938c94882a87aa0d7bcb36729ee3533b26af4c0e5bc04d1669a07ebe0ee7
-SHA512: 6cf88c43907d43f23c318ab62cae070d36b8b9e005b41b0def2249ec01096c3c07c7434d58f2acb3a3006a29cb7dd8854d01211ee86c28b5ae31e61e2a623750
+Size: 424200
+MD5sum: 4665fc906ecf1ab4d0e0eec660527ab0
+SHA1: 45a699a1155c91c71d50edbdf2793054f623e1ca
+SHA256: 732a58781e4201bae4d896f930704e2a208014891eb4dcce5adc41b79173e514
+SHA512: f7a1c3151b8f14f16ea8a15e961cfad00c9dba6b74637f9639b66a03549eb48852b7770b075012ddfa8abf754ff5e70b100373470fdf1e6da9c3c662b132fe60
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
 Name: Rose 🌹
 Author: Litten
