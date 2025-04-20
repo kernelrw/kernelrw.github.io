@@ -699,6 +699,29 @@ Description: Enables options to disable wifi in apps usually only available in C
 Name: I Am Chinese
 Author: Castyte
 
+Package: com.choco.tgextra
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/Rootful/com.choco.tgextra_1.2_iphoneos-arm.deb
+Size: 1059556
+MD5sum: 90cfa0ec6afe54a49be54034c97c490b
+SHA1: 966e343f46b1900293bebdf27128deb00ff93ec1
+SHA256: e53603fb8f32efb760f48116966f321627e19f9636de2a5f084533e34899dce7
+SHA512: 094e9812590b9274e5f1670f94cb64b4d06d579bf9b492197bc2ee9b3234b9b7218e4862efb6c83e93712e1c08f3044c36791ef328c552193686a7932008822d
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+Name: Telegram TGExtra
+Author: choco
+Icon: https://axs66.github.io/repo/icon/Telegram.png
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/tgextras/js.json
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -2591,24 +2614,6 @@ Description: Rosemary font for A-Font
 Name: Rosemary
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
-
-Package: com.kernelrw.tgextras
-Architecture: iphoneos-arm
-Version: 1.2-9+debug
-Section: Tweaks
-Maintainer: choco
-Installed-Size: 14980
-Conflicts: com.choco.tgextra
-Filename: ./debians/Rootful/com.kernelrw.tgextras_1.2-9+debug_iphoneos-arm.deb
-Size: 2313212
-MD5sum: 476b4606694802382dedfbf03dcf78c9
-SHA1: bcc5d88971c7e5c1d1bb6dfa63bd325b77e1dafb
-SHA256: 2a11c9bde2dc04b465024b5461ae83358b6eb2aeab373fa8f06a3faa7b2f44c5
-SHA512: 1395c7a14175e62c1a7414e86d52c23d57c65a8219519881d3d8d51a3307f67831385e3d115d037c98a3bcda60f738f431e8ec4f8b4289f289465f3f82156745
-Description: Telegram Enhancement tweak
-Name: Telegram TGExtra
-Author: choco
-Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 
 Package: com.kernelrw.xsvpncrack
 Architecture: iphoneos-arm
@@ -5934,6 +5939,29 @@ Name: RedditNoAD(Beta)
 Author: Brend0n <brendonjkding@126.com>
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.redditnoad
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.redditnoad/depiction.json
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/Roothide/com.choco.tgextra_1.2_iphoneos-arm64e.deb
+Size: 1059312
+MD5sum: e023b50d680f5eb063cc1d8a5139d0d2
+SHA1: 5343f750ec5ea3c82546f88dad20d07d5f12f451
+SHA256: 94b86d3419e80a444a5f222b5a64dea2170d28c3cd141e44e30b3d810f1d3f9a
+SHA512: e93aceeb764b1908ba9bed0b70010a6bd326885e86e9f765687f3b0ff7ff4ffcfc2a733f5f63fed91141c99310d7a1b9cdc704337359cdda80dfcdedec44fe44
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+Name: Telegram TGExtra
+Author: choco
+Icon: https://axs66.github.io/repo/icon/Telegram.png
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/tgextras/js.json
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
@@ -11901,6 +11929,29 @@ Description: A better way to multitask! Fix support for iOS15+
 Name: PullOver Pro
 Author: c1d3r
 
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/Rootless/com.choco.tgextra_1.2_iphoneos-arm64.deb
+Size: 1060860
+MD5sum: 081ed4c3f26a22e7887b84871ab5a3fd
+SHA1: 43bd9f25689420698a69f80b001ba35359d3f9f8
+SHA256: 7fc8a26821f5cecfd91f2f7ee46e3aa876f4715c78d1c9c664e01881f0a1b324
+SHA512: e80bed7ad444f8b58f2417e148ec761bc39ca8b67542919f6519a4dc4afc86b043911129240a9f898b6a758e593c00894bfbd72613074b20bbf42ff672a30c8b
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+Name: Telegram TGExtra
+Author: choco
+Icon: https://axs66.github.io/repo/icon/Telegram.png
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/tgextras/js.json
+
 Package: com.chris.donteatmycontent
 Architecture: iphoneos-arm64
 Version: 01.01
@@ -14148,24 +14199,6 @@ Description: Rosemary font for A-Font
 Name: Rosemary
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
-
-Package: com.kernelrw.tgextras
-Architecture: iphoneos-arm64
-Version: 1.2-9+debug
-Section: Tweaks
-Maintainer: choco
-Installed-Size: 14980
-Conflicts: com.choco.tgextra
-Filename: ./debians/Rootless/com.kernelrw.tgextras_1.2-9+debug_iphoneos-arm64.deb
-Size: 2310872
-MD5sum: 6ff9c8b3a6ad2001ea2f75dbd2d8beea
-SHA1: 53cb7919654d8a0fb5fea0c740e0786bae1b8b02
-SHA256: fa1961b9d37d01ed1fbcb3630909f8d38e5880a54ef58ce494ed7828a3e2ecf4
-SHA512: bed5a954309c1fc830d1760f601a6d4b73d7cffc543bdd4251a7ba9dc0379af48443e1290e95bbf927940e5b6de3c7d84f4fc0366142e95995c1a097f74d25cd
-Description: Telegram Enhancement tweak
-Name: Telegram TGExtra
-Author: choco
-Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 
 Package: com.ketty.tweaktool
 Architecture: iphoneos-arm64
