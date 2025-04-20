@@ -410,6 +410,24 @@ Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
 
+Package: com.82flex.libsandyxpc
+Architecture: iphoneos-arm
+Version: 1.1
+Section: System
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 256
+Depends: com.opa334.libsandy
+Filename: ./debians/Rootful/com.82flex.libsandyxpc_1.1_iphoneos-arm.deb
+Size: 28690
+MD5sum: 2d8078a772703c23fb8154b78819911b
+SHA1: c6ea4107ebf25a711630c57742c0699ffd685049
+SHA256: 6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff
+SHA512: 2ea161623fb89d2bf1ef4e8fe76217bacd60ac0a79d969c1ca92d8b9ad812251a83f2f628261071b42b1a85ecb6c50a361da11933930ff8f8b09e0b4d2df69fc
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Name: libSandyXpc
+Author: 82Flex <82flex@gmail.com>
+
 Package: com.82flex.noredirect
 Architecture: iphoneos-arm
 Version: 1.10
@@ -5603,6 +5621,24 @@ MD5sum: 456682d92e7bc10f692094828e83f1ba
 SHA1: 618adf266c3eb29d7d625e334806c4cf48a61bdf
 SHA256: 6b47b9d662b30c59a9a607406faf5a22ec6037f41853083d27cc61b3a7cd0d45
 SHA512: 8a29761357cc3d450dd002c742e18c908266f853fc55abe56ad298ec59482b6d12ddedbebb3ea5993438ac1bcc140d4bbcad11962c8d5c3b87dc3726958c0de3
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Name: libSandyXpc
+Author: 82Flex <82flex@gmail.com>
+
+Package: com.82flex.libsandyxpc
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: System
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 200
+Depends: com.opa334.libsandy
+Filename: ./debians/Roothide/com.82flex.libsandyxpc_1.1_iphoneos-arm64e.deb
+Size: 18710
+MD5sum: ace27b92a95e1f97152f796adf684c8a
+SHA1: 8240980af13d9e7768d067d2f7e3fcf7af33f972
+SHA256: d5b228f015a97dbbd806c5dd4c3a1d3be996ed76785e7ad5afb5c39e317038aa
+SHA512: 7911b6a14dc2a9af092b5000f1f49757c0c0c86d968c45f2f4f64c9c08f4ecba35d175da7a8487a66c2fc7673cf9884edc85738d7c8ed826dfaea43313743dfe
 Description: Yet another XPC library for iOS
 Tag: role::developer
 Name: libSandyXpc
@@ -11510,6 +11546,24 @@ MD5sum: 5c378bbee38e5dc687931f97dd61a8d8
 SHA1: bd2399ad1a785fb1eb0dca841efbd515a74d299b
 SHA256: 76d83c0292b99fb1d38f4c8af5623dc031e0d6e790078dee909f8d45b8fcc1af
 SHA512: 9eb5ac77dc4220e7517b35635b837296c80797b261fa5aae39a68fe7a7737011eb0eaf005eba9514030c81d1614d5ff5f2c2934059fada59da93d6bbcccef462
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Name: libSandyXpc
+Author: 82Flex <82flex@gmail.com>
+
+Package: com.82flex.libsandyxpc
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: System
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 200
+Depends: com.opa334.libsandy
+Filename: ./debians/Rootless/com.82flex.libsandyxpc_1.1_iphoneos-arm64.deb
+Size: 18800
+MD5sum: 89d7ded810109fb0c6354f8c77e5a343
+SHA1: 898a917a89c9f5e13fe56d7587ae1cc66d6d0a44
+SHA256: 471bbd9438ecea2ae4b192d64d71f7b01c96ddf24e8881ded31c4d0f997469cc
+SHA512: 41de98016afe70a31cc774cf9a4c52955eeaab42349bcab30a06da1f94be4a362b1de5bd2c3e828a57644dc9dfb5d8dc15137ed42905a0880d12488f34b0a3a0
 Description: Yet another XPC library for iOS
 Tag: role::developer
 Name: libSandyXpc
