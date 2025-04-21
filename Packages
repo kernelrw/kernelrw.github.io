@@ -11820,16 +11820,16 @@ Installed-Size: 443
 Depends: firmware (>= 11.0), firmware (<< 17.0.1), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg.batterypercent12, com.dpkg.arkrome, ca.ndoizo.perxent, com.asterix.modernbatteryx, com.asterix.digitalbattery13, com.laughingquoll.cowbell, com.peterdev.half
 Filename: ./debians/Rootless/com.asterix.digitalnotchedbattery_1.2.0_iphoneos-arm64.deb
-Size: 36352
-MD5sum: 60ca9a9b4a9d8b15460cbee2dbe5cb8d
-SHA1: 43bd46fd674e93bfa285a45bd1da9c342035e777
-SHA256: 7b44b5e692b3997077155b7030b92655c3e7cc7e11910eb5af6e4c9ea3bb7e1c
-SHA512: 514fda4faba7521c495d36b493ad14154b29619e368c410a48e740254a5fa3e0f81f2e04c9b0f6baf2487023f0e76aa69d19f8561e986cb7b5d67b00f5caac65
+Size: 36376
+MD5sum: 0bfbe67e3c4e7c4af1fb0752b9e347a0
+SHA1: e08fce0d0c248fec5a6d53fa661377855df76e6c
+SHA256: d62bc006b0e9144d3bebf94ce2e148658c1b431bbd4e21d67daa3627629e12d5
+SHA512: a66aad33d964bd218068e3c2233fc3c95c975e797eacca97520d6e4ca7ddd0c506fd5c70bbd15d80186bc2c47a7464cde6ffd24b6c999591c903a187c4796363
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalnotchedbatteryDp
-Description: Digital battery in statusbar (iOS 11-12)
+Description: Digital battery in statusbar (iOS 11-16)
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 Author: Asterix <asterix_gaul@outlook.com>
-Name: DigitalNotchedBattery (iOS 11/12)
+Name: DigitalNotchedBattery (iOS 11/16)
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalnotchedbatteryDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: asterix
