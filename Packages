@@ -730,11 +730,11 @@ Section: Tweaks
 Maintainer: choco
 Installed-Size: 4532
 Filename: ./debians/Rootful/com.choco.tgextra_1.2.1_iphoneos-arm.deb
-Size: 1513196
-MD5sum: 2111577b620d80714dac94f8b0a21b4e
-SHA1: 6329438586bec502679848c06eef50fb91277d24
-SHA256: e71bfbbb275750abe29ed04807c295cb87ba4b123449de9be0c1f5e841605939
-SHA512: e7748446dcbe87823cbef7e8615071832659ec58db94e2b62a6b8461728e3191ee1e8575567974153df2e521775a2d621102dcbbadacc6e77b0c61230ff91dad
+Size: 1513232
+MD5sum: ce5ece7ceb02823ff12fa7b7573e6acf
+SHA1: 32a1ef37adb67a52ae1c534b43e08003bf749ad3
+SHA256: 62e22357c18d7f004eb6f6919884e19e9d2e308be286f2a5cc0238db3dddf3bf
+SHA512: 8b5d5904944cf476a05973b4221aa9b723417bc3c5783aa75106780e0ad82f7e1f650d90397c501934a86ecf4ab2b2615185f36596a26e2b9b43f6a48fdb45b3
 Description: Telegram Enhancement Tweak
   * Remove Ads
   * Hide some input states
@@ -744,7 +744,7 @@ Description: Telegram Enhancement Tweak
   * Fixed languages
 Name: Telegram TGExtra
 Author: choco
-Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
 
 Package: com.choco.tgextra
 Architecture: iphoneos-arm
@@ -11983,11 +11983,11 @@ Section: Tweaks
 Maintainer: choco
 Installed-Size: 4532
 Filename: ./debians/Rootless/com.choco.tgextra_1.2.1_iphoneos-arm64.deb
-Size: 1559000
-MD5sum: 650edb2eb1e91d903aa4f0de899db16f
-SHA1: 3b2b3bc0941f440f52db970e373692491d96d2c7
-SHA256: 6d07e81eb6381b3eefcebb85a797ff2baea5bbd3dd07574ada6125b337a1cfe0
-SHA512: a90945adc0a4b97b92367da689bf847e6a10528fc4c0fe192d1350087768de35ffe7113a1a7f989fe9f0946d69b50d7f7b5fa6fc33fc94a72d42ca74567c5bb1
+Size: 1559724
+MD5sum: 876efb649263578090eff4c5545b1393
+SHA1: b90165eef8e2a06582502574a5971a0a4a11f317
+SHA256: 8b249504a3e062b446c96ba1abd72786eb89b01de22f0dd7185ac34148d78b86
+SHA512: 3fd389be46931308925bdd0a1972ae6e4b0fb11c345ce7fcfba10ce7cf46bdfd7361b092421541f57b94e020ffb5544fedbd3055095ac8ebac23532f1cfa3cbb
 Description: Telegram Enhancement Tweak
   * Remove Ads
   * Hide some input states
@@ -11997,7 +11997,7 @@ Description: Telegram Enhancement Tweak
   * Fixed languages
 Name: Telegram TGExtra
 Author: choco
-Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
 
 Package: com.choco.tgextra
 Architecture: iphoneos-arm64
