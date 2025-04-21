@@ -4304,6 +4304,22 @@ Description: Workaround for Preferences crashing when opening Comet Preferencebu
 Name: CometCrashFix
 Author: Uckermark
 
+Package: com.yourepo.itweakios.ccpatch10
+Architecture: iphoneos-arm
+Version: 4.0.1
+Section: Tweaks
+Maintainer: Pwn20wnd <itweakios@yahoo.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debians/Rootful/com.yourepo.itweakios.ccpatch10_4.0.1_iphoneos-arm.deb
+Size: 31492
+MD5sum: 9521354313cb2ffaa832ebda435d5c38
+SHA1: b39f33bec36c172921691609ea81650ee118f2f1
+SHA256: 8657ca8892cde2e037036b728a4ed711fc6d292fff1c486e357acd47b178b27a
+SHA512: 51a06c6c23cff48c3f5038499ac8af12c7f1e045fb5b08c67540832d2a60df6efb7e94c65b0b3b35772024869db608c87749b6eb35a4ae885b99223d48f5e636
+Description: Carrier bundle verification bypass
+Name: CommCenter Patch
+Author: Pwn20wnd <itweakios@yahoo.com>
+
 Package: com.yourepo.peterpan.checkm8respringanimation
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -16828,6 +16844,22 @@ Description: Customize Switch Colors System-wide
 Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
 Icon: file:///var/jb/Library/PreferenceBundles/SwitchColor.bundle/iBreak@2x.png
+
+Package: com.yourepo.itweakios.ccpatch10
+Architecture: iphoneos-arm64
+Version: 4.0.1
+Section: Tweaks
+Maintainer: Pwn20wnd <itweakios@yahoo.com>
+Depends: mobilesubstrate, firmware (>= 10.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.yourepo.itweakios.ccpatch10_4.0.1_iphoneos-arm64.deb
+Size: 31792
+MD5sum: f580dddabedd45cdc5b31366e6ffce4c
+SHA1: a5c3ed22985bfca693802aa61a3f7c6a2df6cfd0
+SHA256: d80e45ef2160c55e4c216ccb3fb87f9ed2cb6896a6893df6e0794e0ee3e52ef5
+SHA512: 95319002f5bec0ffcaa512411f1c375979d7d9f7913881c2f0c39de6fe4e493a62f51c4ebe7e8bae8947849efb9337c668586e88ed7d0fb01bf3335d61040702
+Description: Carrier bundle verification bypass
+Name: CommCenter Patch
+Author: Pwn20wnd <itweakios@yahoo.com>
 
 Package: com.yourepo.peterpan.checkm8respringanimation
 Architecture: iphoneos-arm64
