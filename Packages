@@ -393,6 +393,23 @@ Description: Pair your iPhone on any version with your WatchOS .
 Name: watched
 Author: 34306
 
+Package: com.82flex.artworkspinner
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootful/com.82flex.artworkspinner_1.3_iphoneos-arm.deb
+Size: 28924
+MD5sum: 78673af69827da09833de81b8960aa7d
+SHA1: 5a99180bc1354adccd51d2b6276b55d11f06da73
+SHA256: 2991643809630ab8b0d3927c5287542686b5e631901f457996f59e69576f78bf
+SHA512: ca36c0478c0a09eed5d2dd52aa8524b87d5ead4e066e43b2fbc94f81131277c87df288dd02c267605c0cfcfd3c86805b63a75db83de2582cf8070b1d8e4228f1
+Description: Rotate the album artwork!
+Name: ArtworkSpinner
+Author: Lessica
+
 Package: com.82flex.iconrestore
 Architecture: iphoneos-arm
 Version: 1.7
@@ -11565,6 +11582,23 @@ SHA512: 6cc33dc957b8ac3a78d5b140e9b452b329f43b113260cbb2f9f11a93b274826ee6e995bb
 Description: Makes ControlCenter cool.
 Name: CoolCC
 Author: 4nni3 <4nni3.14@gmail.com>
+
+Package: com.82flex.artworkspinner
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootless/com.82flex.artworkspinner_1.3_iphoneos-arm64.deb
+Size: 28822
+MD5sum: 7bd9443960110ed6eb24fa52ced7c8c6
+SHA1: 6f59974034881998e5428f08c023db10c5832c11
+SHA256: a480d83e7175f6561a3130377996948a7b05838e9d161cbe06f74420a9144525
+SHA512: eb25deafda3705d11f7a663230862efe075bfb020bca835e071e2b474fc562d253e513e43bde2d0ef237e694c526b746659d0d6605a9d59d78b3335948a53e29
+Description: Rotate the album artwork!
+Name: ArtworkSpinner
+Author: Lessica
 
 Package: com.82flex.iconrestore
 Architecture: iphoneos-arm64
