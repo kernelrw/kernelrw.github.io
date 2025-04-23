@@ -463,6 +463,23 @@ Name: No Redirect
 Author: Lessica <82flex@gmail.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66ffaad634a8a14a39e9a27a&s=180x180&f=webp
 
+Package: com.82flex.ohmyinsets
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.82flex.ohmyinsets_1.2_iphoneos-arm.deb
+Size: 210282
+MD5sum: 04992a0a6c0e45456b31bac174e93043
+SHA1: f49d9e8b6caba89b9531f2b5c299a7e70dbf5689
+SHA256: 2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c
+SHA512: 9c7b6e5093470ad2b468fb1987d5a3d6fa0e7fe9b151e4a8e5d5516d45204f9d6b0683a3f96cc7982e7d1ac5dd6954c4d176448c8bf44913a7fb381fc8a7250b
+Description: An awesome MobileSubstrate tweak!
+Name: Oh My Insets
+Author: Lessica <82flex@gmail.com>
+
 Package: com.82flex.singlemute
 Architecture: iphoneos-arm
 Version: 1.4
@@ -687,25 +704,6 @@ SHA512: 4050781b4391d0d9bb8ceeebf4e6c8546fd6d118d573d8b53e6c0273e699388bb9837b0d
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
-
-Package: com.blakeboxberger.bazzi2
-Architecture: iphoneos-arm
-Version: 2.1
-Section: Tweaks
-Maintainer: Blakeboxberger
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Filename: ./debians/Rootful/com.blakeboxberger.bazzi2_2.1_iphoneos-arm.deb
-Size: 64972
-MD5sum: 0f66b1fcfef234e088adafcf6aa303e6
-SHA1: 2505403be24c8d3f987ce152dc0e3cd23d03575e
-SHA256: 56d6866f043a93541adea593be0e0aeabd1d0341b0b66f1a77fcad6c0decdd58
-SHA512: 60510d0c4d5c67cb4bc8c793e81dece14688a14dca404786861c081cded50986b3cbbbf71bf2fd2be564173207bd15bd631099c5283b54448b070688cf9cb516
-Description: Battery in your Notch
-Name: Bazzi 2
-Author: Blake Boxberger
-Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm
@@ -5763,6 +5761,23 @@ Name: No Redirect
 Author: Lessica <82flex@gmail.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66ffaad634a8a14a39e9a27a&s=180x180&f=webp
 
+Package: com.82flex.ohmyinsets
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.82flex.ohmyinsets_1.2_iphoneos-arm64e.deb
+Size: 208986
+MD5sum: d1eb48d7603ba987b6a234054a3ce520
+SHA1: 11afed170b0012e26b34b00c8612decb441b8543
+SHA256: 25599e2c33610fe1e2b1a772bd9283e607bdc45a80ab45c55ae35e200d4a34b6
+SHA512: 9747fe86276e2fb51d435154b159ab724120879d03bd22caba89799e13d486eabd7d5d0e71af5db8c63dffba175fa9d140ee825f3d1de16c3f17fc2157857b00
+Description: An awesome MobileSubstrate tweak!
+Name: Oh My Insets
+Author: Lessica <82flex@gmail.com>
+
 Package: com.alexpng.tapme
 Architecture: iphoneos-arm64e
 Version: 1.3-6+debug
@@ -7230,25 +7245,6 @@ SHA512: 954f7d9c294df0dc2510ab94490dabdd179f1a56778e833d730a2c092716c4dc803410bc
 Description: Priority Hub for iOS 15 - 16
 Name: Axon
 Author: Nepeta & Baw Appie
-
-Package: com.kernelrw.bazzi2
-Architecture: iphoneos-arm64e
-Version: 2.1.1
-Section: Tweaks
-Maintainer: Blake Boxberger
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Filename: ./debians/Roothide/com.kernelrw.bazzi2_2.1.1_iphoneos-arm64e.deb
-Size: 65660
-MD5sum: a371f41b1436a8db8f1fd7af860964c8
-SHA1: cf9813446f3032b1afa16c6fddd0f9ae8f8acf72
-SHA256: 4dd27e3d4f9804a1c9c7f2a9b8c265a4fa2d5517eaf5d98fd6d54cb84fe02140
-SHA512: 4a8e5f01d72bcd3b58d3081a74dd58739545562685948fd9bef2ba811bd6aa6131c1091cde0b128731f0e12728120133378c44c8efa850b827d36928c5a18932
-Description: Battery in your Notch
-Name: Bazzi 2
-Author: Blake Boxberger
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/bazzi2.png
 
 Package: com.kernelrw.ccautobrightness
 Architecture: iphoneos-arm64e
@@ -11705,6 +11701,23 @@ Name: No Redirect
 Author: Lessica <82flex@gmail.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66ffaad634a8a14a39e9a27a&s=180x180&f=webp
 
+Package: com.82flex.ohmyinsets
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.82flex.ohmyinsets_1.2_iphoneos-arm64.deb
+Size: 209802
+MD5sum: 1d595efd012858682ead366c90a95a45
+SHA1: 1092af85f92a41146be7e593e61ad5a48af950b1
+SHA256: aad70e04ea0ad71287a0f7d0e81f32f5a35068d9d97681e8e35fe97fe594919e
+SHA512: 63c5287a6306bada71a6f90427dc3d15691dfeca5aba715a44abfd44d15cdef97d00ee03608213decc953686a9d7a677596119f4e104fc17068702de23c3b474
+Description: An awesome MobileSubstrate tweak!
+Name: Oh My Insets
+Author: Lessica <82flex@gmail.com>
+
 Package: com.82flex.singlemute
 Architecture: iphoneos-arm64
 Version: 1.4
@@ -11989,25 +12002,6 @@ SHA512: 32a49d5b7679bb42491ecfa72e9964bd315c519374d702041e87541f85b02a8291cc5159
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
-
-Package: com.blakeboxberger.bazzi2
-Architecture: iphoneos-arm64
-Version: 2.1
-Section: Tweaks
-Maintainer: Blakeboxberger
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Filename: ./debians/Rootless/com.blakeboxberger.bazzi2_2.1_iphoneos-arm64.deb
-Size: 65404
-MD5sum: e32daa0c4eb28e7ae6776478add2323d
-SHA1: 62f741869f1fe445b96866364c7e4c5769c05845
-SHA256: 5e2afa91dd533b588d601251831ecb0fef16e8b0380c6edc047dd21601631366
-SHA512: 422773a2da97bc85fca1cf353d3c8a76a71d8a8a635252914d5c7f24779feb8fd628db3d79b5cbf0dc32a8a01f4bd1bab9768115dd0da331be542567072844a4
-Description: Battery in your Notch
-Name: Bazzi 2
-Author: Blake Boxberger
-Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm64
