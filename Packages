@@ -2879,6 +2879,25 @@ Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.miro.libphonenumber
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 604
+Depends: firmware (>=14.0)
+Filename: ./debians/Rootful/com.miro.libphonenumber_1.1_iphoneos-arm.deb
+Size: 138990
+MD5sum: cc7789f30c6d29137c56ccd93eda4eaf
+SHA1: eec776f2dc6f1e0a41b8cea81fe33400adb9d62d
+SHA256: 2676ec8b2e32f21526ea714cc9c29f2b5ba81a2baeaf09980d3abef8fc5440ac
+SHA512: 516d66013f5f5007abe62740942be5db12d6cc70a01914bc7814e30279c4d7b11050348b10d4eb7ace1391ade2a3a7cdfca57749bd28e464c67ab79449d3713c
+Description: Google's phone number handling library.
+Tag: role::developer, compatible_min::ios14
+Name: libPhoneNumber
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.miro.uyou
 Architecture: iphoneos-arm
 Version: 3.0.4
@@ -14559,6 +14578,25 @@ Description: Shared library for my tweaks.
 Tag: role::developer, compatible_min::ios14
 Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.miro.libphonenumber
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 604
+Depends: firmware (>=14.0)
+Filename: ./debians/Rootless/com.miro.libphonenumber_1.1_iphoneos-arm64.deb
+Size: 139526
+MD5sum: 6526faccef6eda32412bd5ea38663140
+SHA1: 827356444462b062c0d0310c1773388298556a89
+SHA256: bb6729a557d74bf6a133c3ef24d71595d56ac4ce39f1ce195dd4a7a494ad191a
+SHA512: 3825409401fe7a2ac6b2607b25e3abfa3df27f6bca79765d602f09773996ec0d79453f4f427d368f910842d085ecbe7368a4798e7e7fd357aa0a0e3f6df6dacf
+Description: Google's phone number handling library.
+Tag: role::developer, compatible_min::ios14
+Name: libPhoneNumber
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
 Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.miro.uyou
