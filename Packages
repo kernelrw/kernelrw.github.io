@@ -4050,6 +4050,23 @@ Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
 Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
+Package: com.spark.snowboard.respringextension
+Architecture: iphoneos-arm
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 596
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debians/Rootful/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm.deb
+Size: 41728
+MD5sum: 6790e458b85966a05f3bf256da68d337
+SHA1: 41581ba711604986c19ee94adaf27c0a6db31a8b
+SHA256: 8c90bd7190561b7a5cd89caee3f74286d47e23c5af362466935e626f9410b971
+SHA512: 7abab5500b81143abf9544051e6ee83504b272bb104b65e301df8a1276f93756c7b454ff1bd0bb6b002408f193773b90acb45e962035874cd8fe1a08b574f6c7
+Description: Respring icon extension for SnowBoard
+Name: SnowBoard Respring Extension
+Author: Spark
+
 Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm
 Version: 1.0
@@ -11826,11 +11843,11 @@ Maintainer: ApexTweaks <support@apextweaks.com>
 Installed-Size: 5036
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.apextweaks.veza_1.2.0_iphoneos-arm64.deb
-Size: 3207768
-MD5sum: 5927b9cdd593f9f670b7fbbdc227d0aa
-SHA1: 594c6c8576c4d8de003edfba818315b646993096
-SHA256: f96787366ca826305430cd5951f54c7e20e7a7dd6ff6c5f2d50a4a04d0a8440d
-SHA512: ba51dd583ca80f395d545d6da6ac241b4651052de0b2c56e688b8e0ef65176d9aef8f3bf003b7ab2233d5f7bd20f78237dbe947460a08d0f6db17a8840d4195c
+Size: 3207908
+MD5sum: 7e6f2abd0d3c25f083cb6c293333037a
+SHA1: 451b58fd4231aab415487bf1a9dd5996735ea01e
+SHA256: 1833fcfa970293aec916edf82d44ab07acb85ac227ca8dd6cd5f9d4801a2dc94
+SHA512: dfd77d78a40808395ccdb28249654b2cbf2d2da7ea4f8ba1f44a763a3e85f8a9acf0f1129b58317753f182593753cf06100ffdc4dfb78274ccf4c9367d20238d
 Description: Quick Controls right at your disposal!
 Tag: compatible_min::ios11.0
 Name: Veza
@@ -11978,19 +11995,19 @@ Architecture: iphoneos-arm64
 Version: 2.1
 Section: Tweaks
 Maintainer: Blakeboxberger
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/Rootless/com.blakeboxberger.bazzi2_2.1_iphoneos-arm64.deb
-Size: 65260
-MD5sum: 03d4af11090a4bbe4c8c15307f8b1613
-SHA1: d0a8b247dad8c6f3edc9c1e15bc9a403deee94d2
-SHA256: d4e98065c69cb10de447bf905e6de0f6508475d8ab6d156c2835679fd44b1856
-SHA512: 10fada1a1eb711764b32177bfd2c0b0be443bf2584626eaa6cb1543088ec6d3086dbdbd41d0ae85ccf4755171ac09345cbd195647184f2c913860715a6be3629
+Size: 65404
+MD5sum: e32daa0c4eb28e7ae6776478add2323d
+SHA1: 62f741869f1fe445b96866364c7e4c5769c05845
+SHA256: 5e2afa91dd533b588d601251831ecb0fef16e8b0380c6edc047dd21601631366
+SHA512: 422773a2da97bc85fca1cf353d3c8a76a71d8a8a635252914d5c7f24779feb8fd628db3d79b5cbf0dc32a8a01f4bd1bab9768115dd0da331be542567072844a4
 Description: Battery in your Notch
 Name: Bazzi 2
 Author: Blake Boxberger
-Icon: file:///var/jb/Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
+Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm64
@@ -16138,13 +16155,13 @@ Architecture: iphoneos-arm64
 Version: 1.0.4
 Section: Development
 Maintainer: rullinoiz
-Depends: dpkg, emt.paisseon.xinamine (>= 0.0.5)
+Depends: dpkg
 Filename: ./debians/Rootless/com.rullinoiz.ipa2deb_1.0.4_iphoneos-arm64.deb
-Size: 3452
-MD5sum: 8f2e94c154ff8fe95cce683f88eca097
-SHA1: 1e76c33cf28ee77569a559a881b28e505eade548
-SHA256: 4d728563ca924d7af52e9760c6f9a93e64cb3cb7e6d79c1f1ffe290d121caea8
-SHA512: a89c861e52d99b7e16322544485b76a40c0b07dad4ddb6b9acb035896e609e19877581084cd1daf8d3101cfb425148b48b899e757ff6918f49462cc79f6803c9
+Size: 3444
+MD5sum: f6d4d53d9efee6d089bea1128d03420e
+SHA1: e0e913559d1a00923f803e3837402057f42ac16e
+SHA256: 881842918593f666a66f69d3b11f9b810f3da01896268b61e01ed6de809d5ee4
+SHA512: 4d14e67ca78fad4690bcd2edc0d5b16424a126a24c729fd6644c3b77fcc0ead1c713009f7ee2cd4332b80de2d6db8ecf0e796177b6db065033e606282652ef54
 Description: Convert IPA to DEB
 Name: ipa2deb
 Author: rullinoiz
@@ -16351,6 +16368,23 @@ Tags: compatible_min::ios15.0, compatible_max::ios16.7.7
 Author: SGWC <southerngirlwhocode@gmail.com>
 Sponsor: SGWC <southerngirlwhocode@gmail.com>
 SomeOtherEntryToControl: True
+
+Package: com.spark.snowboard.respringextension
+Architecture: iphoneos-arm64
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 596
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
+Size: 22464
+MD5sum: 3b5ffa9e2799d5ad3436c0673bbc15f4
+SHA1: dc08baa0b03b35ed0db21f7dbc649dac265353d5
+SHA256: 20d0599d6dd4224a7eeaed82e66e616a21199f66c015feb48dcbe0f2a640c526
+SHA512: cc4e2d4c9953b012f927a05b04f2126cb5db82197b237e252c9ba670ef4078e2679e801241965da65bb00d210c77680a20de0fded59d1b5d74204fa6d3d8e35d
+Description: Respring icon extension for SnowBoard
+Name: SnowBoard Respring Extension
+Author: Spark
 
 Package: com.spark.snowboard.respringextensionn
 Architecture: iphoneos-arm64
