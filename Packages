@@ -16386,23 +16386,6 @@ Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
 
-Package: com.spark.snowboard.respringextensionn
-Architecture: iphoneos-arm64
-Version: 1.0.7~Beta3
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 596
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: ./debians/Rootless/com.spark.snowboard.respringextensionn_1.0.7~Beta3_iphoneos-arm64.deb
-Size: 41924
-MD5sum: 2766b009f3e67f434f4d3b232661074d
-SHA1: ee08c6615b326c520185a479f04087c4d73e930c
-SHA256: d29177c449e75b9a3cacd4c262bf72d78a4fa3ef44c5f179d9b9cc7474061eba
-SHA512: c459138a0351d8f5ad2808c785d4280e4d5dda0c56216b240418c11021178bc77145dd5b91a6ab17114f5e05809d8159f06411c9822d8cb39bbadfe97bdcca58
-Description: Respring icon extension for SnowBoard
-Name: SnowBoard Respring Extension
-Author: Spark
-
 Package: com.sparklechan.swifty
 Architecture: iphoneos-arm64
 Version: 1.4.1
