@@ -5873,20 +5873,20 @@ Architecture: iphoneos-arm64e
 Version: 1.2.0
 Section: Tweaks
 Maintainer: ApexTweaks <support@apextweaks.com>
-Installed-Size: 5036
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, xinamine (>=1.0.6)
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.apextweaks.veza_1.2.0_iphoneos-arm64e.deb
-Size: 6613250
-MD5sum: a0d03fb0dd892d92590a671952837269
-SHA1: 2ef46d639c25473af5071821adca86ee8bdc5a46
-SHA256: a5acff1ad611d31c6dc68187056782a257fcf879b8e32bda760336f93ed2131d
-SHA512: 35ca34ef39fab1829a3236c1f02e20311fa515ebaf9d66bd830c37010e39993597760c257fbfb16449c6fbfe1a9d3637f67c556cf221785e13ac385324fffcb2
-Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
+Size: 3213780
+MD5sum: a2be3fb23db954bc11549c8e56e3fc0e
+SHA1: c5d9fc096bf274a09590ef6627e0872db6c02b9f
+SHA256: 9a1dadce83bcc4c86d0ba55005ddae88220ffea4141fe5f448f206fd1974acf2
+SHA512: a10505836a6ada61663813279440b9c3355438ba89ccfe1a653d26fe36a292788f17dfc7819a77fd56c693c2254c3ec342456eb6f2c47e0d88a8537de90e07e5
+Description: Quick Controls right at your disposal!
 Tag: compatible_min::ios11.0
 Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
-Icon: file:///var/jb/Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
+Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
+Depiction: https://chariz.com/get/veza
 
 Package: com.atwiiks.betterccxi
 Architecture: iphoneos-arm64e
@@ -5905,6 +5905,25 @@ SHA512: 516814257c11fadcca72ed72d120ea3fd0626c2416039b69f3d8caadbbbcb421eacdebc5
 Description: Enhance your control center on iOS 11 and iOS 12
 Name: BetterCCXI
 Author: ATWiiks
+
+Package: com.atwiiks.betterccxii
+Architecture: iphoneos-arm64e
+Version: 1.6.0
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 640
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debians/Roothide/com.atwiiks.betterccxii_1.6.0_iphoneos-arm64e.deb
+Size: 106232
+MD5sum: 8fa843f4638579a379b5a30c7d7d59e5
+SHA1: 477e9b5db977f7db3996de0c3ce4747cad649432
+SHA256: b4e1f52f8aec9855b99683cf3946d79c4b1eae47642b03d5a8ddebb2eece771f
+SHA512: 3ad4c9e9cdff91120e040a853c61e4b5379726a9cbbcbf8ee7f0e27a93828d306a5a2753c90db0bb67d26b30dfeb583e4563f94a21e630178cd65be45fb65210
+Description: Enhance your control center on iOS 11 and iOS 12
+Name: BetterCCXI
+Author: ATWiiks
+Icon: file:///var/jb/Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64e
@@ -5967,13 +5986,13 @@ Version: 0.8
 Section: Tweaks
 Maintainer: Brandon Plank
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8), emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8) , cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.brandonplank.haptic17_0.8_iphoneos-arm64e.deb
-Size: 17434
-MD5sum: 61b5e621175fa5630e96089475311080
-SHA1: ea95bf27f13d9ab072799cac0be2b1ef4acf7d33
-SHA256: cb7dfebe6e3dd44ed00c2e03c2acd5e08fadb000aa33331a1822cf0e5415fd23
-SHA512: cc790b64aa6d7135688ad64f273b232ab189ace50f8b5fccfa76f9254316b66afef23f6971b3dee9d27cc2235bf315e9e1600cd52e4cdc8d3a63bef255af1ba8
+Size: 17390
+MD5sum: 887cbe4a8b8c6184250c456dfa0f2ab6
+SHA1: dcedf86c53bcc334369e43bb2ccccc3cec291886
+SHA256: 711b0eee4402acde374c34e10b3b2ab8a71352ee3c78b66d0c48d74caccc2e02
+SHA512: 635c8c2593935dc0932a6d4061dcf90d5b2438e74cc6cb51b4c61613cb286bccfa90bd7710fd1b890d8775e2267214629a7bd34d7de42de145d98a2492f5d604
 Description: Puts haptics in places apple should have!
 Name: Haptic17
 Author: Brandon Plank
@@ -9345,6 +9364,25 @@ Author: shepgoba
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: shiftcmdk
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm64e.deb
+Size: 54936
+MD5sum: 2bb21c4b24d95bbe68d3955ea05ee0b1
+SHA1: 831d253fc0bea4be740a472f5cf25bcd05c573be
+SHA256: 407c96f00dc03176693483b89a6e78ba3560b7cb7426c17868aca11317ef7afb
+SHA512: 4afb5024585323b2143433decfbfc3a93ab3c6660666858d69c07a9980677f6240c14bb7098d738da33727ed7ed7584bb4cd0e6cc365ee419307f03ae0aeb999
+Description: Automate alert actions.
+Name: AutoAlerts
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm64e
 Version: 1.0.5
 Section: Tweaks
 Maintainer: shiftcmdk
@@ -9361,6 +9399,27 @@ Name: AutoAlerts
 Author: shiftcmdk & Fadh1l
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
+Package: com.sinfool.youtopia
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: sinfool
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.sinfool.youtopia_0.0.2_iphoneos-arm64e.deb
+Size: 4336
+MD5sum: cedbe34c64c1bdfbd06e0aebd9fc9cd6
+SHA1: 287a106200bb76be1f14f66094d1ca734c8218e1
+SHA256: f546818e8d02f31ff93fdadfb55644d4a4748ada86a3394b3deb30749f84fc02
+SHA512: 057e05dbe3b0e8dbb01e0fb318c4346c55610ca85dd0fab5927d9b7e16bfa08858348ffcfdef5847f4210b7ed92cc2970460a685c57c114219506105c3fc785a
+Description: The perfect YouTube experience!
+ - No Home Feed Ads
+ - No Video Ads
+ - Enable Background Playback
+Name: YouTopia
+Author: sinfool
 
 Package: com.skypain.cclocation
 Architecture: iphoneos-arm64e
@@ -10141,15 +10200,15 @@ Architecture: iphoneos-arm64e
 Version: 1.9.2
 Section: Tweaks
 Maintainer: iBreak <ibreak2019@qq.com>
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
 Filename: ./debians/Roothide/com.yourepo.ibreak.hideseparator_1.9.2_iphoneos-arm64e.deb
-Size: 9308
-MD5sum: 39d0491a0850dc2f40c9e80b8990b7db
-SHA1: d39a105cc5abc75f4f140da11fb7dcdee5c8505f
-SHA256: a9aeff3efc7df5b5f40d1086310c2d5d158c692b80fb9cf3703cc75db217647b
-SHA512: 346b6fd6a410d9f4076e5b4243dd3ea9d83b67b8d7508c041be399db715e5abf65e37d823498e19db241222f047e5b1cdaee10f7deb6e7665ba529c420c6848c
-Description: 隐藏全局分割线 (包括第三方App)・Hide system-wide separator (including third-party Apps)
+Size: 10482
+MD5sum: aedf08ed47ae5ff4523d86af33fb1fe3
+SHA1: 8f8506e7778e63b0212c0e76e81d5f8964af84dc
+SHA256: 6939675cf995b6e841e7577d5c567b237cb6d26b9de28ab3d7fef8f339ae4bf5
+SHA512: ae9a834029008e70cd275c41cc92cad5ad7dc6633ba849161161249ee63321e3814999e1d6b3a1fe7fbee4bb4fb76dca16791f4bb21b437fb97fee7c62e19d6b
+Description: Hide separators system-wide  (including third-party Apps)
 Name: Hide Separator
 Author: iBreak <ibreak2019@qq.com>
 
@@ -12012,13 +12071,13 @@ Architecture: iphoneos-arm64
 Version: 0.8
 Section: Tweaks
 Maintainer: Brandon Plank
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8), emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8) , cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.brandonplank.haptic17_0.8_iphoneos-arm64.deb
-Size: 13140
-MD5sum: fe66eae7fa5ed65380879060ad4beb70
-SHA1: 9e59f70a260c87c56992495725c269161e52abec
-SHA256: 121f78c9e2553d41eea42a87e9e3a65082c32a7b5df030fbde49477799d79f4e
-SHA512: 8bbcdae519c063e059ba4dfd451cdda50ed99974cd9028eb6e9e79339d7c653f3b7f08bcbfc66461ed35b1400bfc5ed27b5481413179bf59715ffe300bdff622
+Size: 13124
+MD5sum: 397159a29e2b4f7c7c475560452088f5
+SHA1: d3c6a922c47dde4b8b0b6d79afe039f1cb942c50
+SHA256: d1c2decba33138ad123bdf40c4032469f78be28ed87aae08dc03c94b13792128
+SHA512: b3d6662cb37bde27e1fac202b4d97945c98075df1e447f99dd71e189b7a707c1ebe33a41302c7b28dc0b1b716125c81fc43a83077cbe7ba516c474a37db8e134
 Description: Puts haptics in places apple should have!
 Name: Haptic17
 Author: Brandon Plank
@@ -16280,11 +16339,11 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm64.deb
-Size: 155426
-MD5sum: c3d73d39a4b9bc6eec1c7db5f83c1b66
-SHA1: d5f0b3880f912cd292d2ed1e0efb32eb2bf6c9ea
-SHA256: c820c1c5644446d49b5ff3dae36ba154879962af5c76fefd6468e246bcb61964
-SHA512: 12d21cc45658827c0eb5215f06c90d69c5191906cf2e48f4a3d061589c0eef3dc7a1a31013234686057c24224f653845e265a151d64904d1332bc3a91f96ed4f
+Size: 53412
+MD5sum: 46da10edc5fdfb01683d1507592a62d5
+SHA1: 377c04bf9caf1c5937f9920f8530baf79833000a
+SHA256: 855a0f4d8bb5486fdb3895a8e10b0d17866c06ad6a6f309d04e4c77521099a97
+SHA512: c28436c17e37496b9053d1598dc93a1e15dbe2534316da4359116215e40a34bbcd8a08ba023628cd54ed704e89ad25b29d43ea2e7001a345394132b5261cc5f9
 Description: Automate alert actions.
 Name: AutoAlerts
 Author: shiftcmdk
@@ -17513,11 +17572,11 @@ Installed-Size: 720
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: org.fwdr.sonus, es.ubikstyl.sonus12
 Filename: ./debians/Rootless/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm64.deb
-Size: 119944
-MD5sum: d99c37f8831f26b81db08f418c1b1871
-SHA1: aca3bf8b7f2084c322c46f72cdb8e4b977826a5a
-SHA256: f68faf62fd9932962d86f7fd055766fa3c0c1c130f29f40cd91bb24fa4306a4c
-SHA512: 0d5a7bfe9b0a0e96f04c7e4335c4332870bb0360f46590e472d30cbf66fb4e1782abc3cfc34854446b7305e86bf248496b8b33b2f296a1d17ecf69620cf629df
+Size: 119732
+MD5sum: 7554e456ba3923f2f7d0ed2b25ee81ae
+SHA1: 5a1904c6feebfca8e1b8e8c90547f0f4b2c0b3dc
+SHA256: 3a7e6eb6c7e39ccc6b8337bc07785721ba7a133bb430d357c4b8623674167489
+SHA512: da8f478027f3be2e161932bf5f7eecc73de11f08b4c6ea0f037a31a74a5188aac9eb485cc2b873151f5df83f874225c386ba9a89115f454a8a65df35333527f6
 Description: The better and highly customizable volume hud. For iOS 13.
 Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
