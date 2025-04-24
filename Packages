@@ -2676,21 +2676,6 @@ Name: Rosemary
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
 
-Package: com.kernelrw.xsvpncrack
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Kernelrw
-Filename: ./debians/Rootful/com.kernelrw.xsvpncrack_1.0_iphoneos-arm.deb
-Size: 19480
-MD5sum: 84841b3d9231857a342c8c2ca3cec82d
-SHA1: c8384f8fe4b9029005160ea76052283e1335a66c
-SHA256: 73e1938da6f326214a4fb52b8e864e3da64ce1e28c2076be23f2c3ad5b2b3111
-SHA512: d3bcf3caa4272396689159c85fcfa09200d1b618be04fb27ef4836f8df3e7d17dc65fb9b8f05244c515bcfba003f6c7b20147c8636990fdbe9e8a345cdedbeda
-Description: XS VPN VIP
-Author: Kernelrw
-Name: XSVPN Premium
-
 Package: com.lenglengyu.bypasscc
 Architecture: iphoneos-arm
 Version: 1.0.7
