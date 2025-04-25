@@ -7217,6 +7217,27 @@ Author: julioverne
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
 
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm64e
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e.deb
+Size: 52402
+MD5sum: 3bd6f32a238e6bb52436afd860315175
+SHA1: b9cace1244e31e3c67100588bc3c08092d969356
+SHA256: da4f70fddb40d7734454c0c4b3b84144808610f8188c91c8da0008cc7a8f3006
+SHA512: a6070a28696c2277f0979e50d25504e25329cce7c0a5ca444b5fc40edb97f2a17cfb267f75cfa0e61d4b8a95d953f755d454de1082140c618a5e2becf69cab0e
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi
+
 Package: com.kernelrw.a-font
 Architecture: iphoneos-arm64e
 Version: 1.10.1
