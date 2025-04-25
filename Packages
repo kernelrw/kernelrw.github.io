@@ -5312,6 +5312,26 @@ Description: Gives the Opportunity to Show the Confirmation Popup Before Calling
 Name: ConfirmToDo
 Author: alias20
 
+Package: applist
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: System
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: `du -ks usr|cut -f 1`
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.rpetrich.rocketbootstrap (>= 1.0.9~beta3)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debians/Roothide/applist_1.6_iphoneos-arm64e.deb
+Size: 152686
+MD5sum: c340796f53bb31e2f22463aa891f412d
+SHA1: 4a6f4fb8eac639db593bf5cc3bb287fdd079fe9c
+SHA256: 47b5bd05f0c1095a57c62bc78e5e1ddb5061322b52e1d89d40a0f08305bceeb5
+SHA512: 376c8ca96ed362a02aa0846c474c57e7cd808b9a0a232ba1963e07a9d727568e23741e9766679c777bb67f85aa9ce3f61acf1631f142d99efdf01e00184448b0
+Description: Allow extensions to read the list of installed apps for rootless.
+Name: AppList
+Author: Ryan Petrich <rpetrich@gmail.com>
+Sponsor: Ryan Petrich
+
 Package: ch.xxtou.hudapp.jb
 Architecture: iphoneos-arm64e
 Version: 1.12.0
@@ -6074,6 +6094,30 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.redditnoad
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.redditnoad/depiction.json
 
+Package: com.cannathea.afc2d-arm64e
+Architecture: iphoneos-arm64e
+Version: 1.1.7-21
+Section: System
+Maintainer: Cannathea <csupport@cannathea.com>
+Installed-Size: 212
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0), ldid | firmware (>= 15.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debians/Roothide/com.cannathea.afc2d-arm64e_1.1.7-21_iphoneos-arm64e.deb
+Size: 12778
+MD5sum: 4e462efe49097a6fe5f7a0699cc201d4
+SHA1: f16bbbc395ff09169d946b832152822f31967f24
+SHA256: a7ff4383a5cd8356144fbb136b5ca41006de34a90e59abad85621b592fd6cf32
+SHA512: 69eb98217e034f2d7f9c18b56be956a9dcd407d3b5dea13a2d322c7fba8a17e4446cb1fdae10bb1faa0ec920dad27ea62fb9ff5d247e32da2e820727f8e86867
+Homepage: https://cannathea.com/
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on RootHide. by Shadow-
+Tag: purpose::daemon, role::enduser
+Name: Apple File Conduit "2" (RootHide)
+Author: saurik, Cannathea, i_82, Shadow-
+Depiction: https://cydia.akemi.ai/?page/com.cannathea.afc2d-arm64
+
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
 Version: 0.3-6-1+debug
@@ -6097,6 +6141,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotific
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
+
+Package: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm64e
+Version: 1.5.8
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2332
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debians/Roothide/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e.deb
+Size: 977000
+MD5sum: aef2bb3790c6dda71108bfcb23a5a351
+SHA1: 161d54ca5e675c2d113678a50fb0bfbe984696fa
+SHA256: 798fe295fdb2c2bc71a293420249f461995f1d0c78dede9d64de6f982a4b9e06
+SHA512: 177774906ca9cd1ecb3a1ce20f6fc20ce39eedfda4428357e15b402de5e2840033dc159f22bf7dccc23b4993d7ac91bf2f696c90a0bd280aeea111c1f1eb5a41
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Name: libCSPreferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
 
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm64e
@@ -6713,11 +6778,11 @@ Maintainer: Ginsu
 Installed-Size: 2432
 Depends: dev.theos.orion14, firmware (>= 14.0)
 Filename: ./debians/Roothide/com.ginsu.comet_1.0.5_iphoneos-arm64e.deb
-Size: 231540
-MD5sum: 881b31701f93c67f285d767801efa1e9
-SHA1: 54f2b2fc5dc42c82db62d1d39d48ff89120e19e5
-SHA256: 272bb1bb503e80048e4b22c54dc2c28659f1526b4abbba83b8cda99bdd726814
-SHA512: a75ecfe21f6bb5ef0839234742eb9abea3f0a43604f6ee73dd120b3264d95eeaeb68214dbd5a8f04950aa551ee9979ff590a7ae3d07f02875be875ba33f84a9d
+Size: 258420
+MD5sum: 720ea265946ea3f8964f23c1cb3bcfaa
+SHA1: 6bf982c02dab296df5f25a20ea01c4b3361f0552
+SHA256: ca8ae29c8a8e763df75e1085c52d59578723789f4591f97e71a19522b2f90c0a
+SHA512: 7517870fe857152dd8b4836146fa8ee60783154174b9bac396e2308dc71f00fdda3debe3834138d8bf25140a63cbf661de2fdb345e14fe02a5d7726b037d86e2
 Description: A SwiftUI Prefs Framework
 Name: Comet
 Author: Ginsu
@@ -8351,6 +8416,25 @@ Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
 
+Package: com.nightwind.rootless-patcher
+Architecture: iphoneos-arm64e
+Version: 0.0.1-38+debug
+Section: System
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: odcctools, ldid
+Filename: ./debians/Roothide/com.nightwind.rootless-patcher_0.0.1-38+debug_iphoneos-arm64e.deb
+Size: 34208
+MD5sum: 4f9a83453faf0c24d0279de8e2654b93
+SHA1: 79c9c763c0a2d65aec6eab4262ad518cec624f2f
+SHA256: 2ba340a0659f8b1c15b8ec9a659a33b692e39b605cc50e7f0492a5d0ce4a7794
+SHA512: 2e72cd17db55107bc1d9e1b69d5a4f798fb8ae0b8c748f735bd14029c89902807a3564a4a4af29413f8e5cc92bd30fa69f2a47124fb8f27fc82ed0381ae9302a
+Description: A CLI rootful to rootless patcher.
+ Utilizes a technique that does not require Xina-style symlinks.
+Tag: role::hacker
+Name: rootless-patcher
+Author: Nightwind and staturnz
+
 Package: com.nightwind.visionsearchpill
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -8436,13 +8520,13 @@ Version: 1.0.11
 Section: System
 Maintainer: opa334
 Installed-Size: 340
-Depends: firmware (>= 7.0)
+Depends: firmware (>=7.0)
 Filename: ./debians/Roothide/com.opa334.altlist_1.0.11_iphoneos-arm64e.deb
-Size: 27932
-MD5sum: 322a7feaf69ee480e7cf625b69988038
-SHA1: d7c74165a01427e55bcd2020385cb61f89a4756a
-SHA256: e24fa3cd83817d6b9b4f11f0707769122d081a207259763fece041d98fb12610
-SHA512: 38303543303b84d90d5baec61386487624a5e98819498298f4b801d4b24794fc0893a00adee59299590734cfb9a8e84979c94d9cdf528fc636e51a806f5e01ed
+Size: 27902
+MD5sum: f1cfdb97679bc2b30b2918220ee9351f
+SHA1: 9eef53971a1a30e13cfc2adf3a18b655dd2d9eb2
+SHA256: 7d145977d3fbcd5030564dc429e18f7456c29f92020c36f32e61d4a82418f737
+SHA512: 47c2499b925b7f59bc54bc2c9e25190bf39ce55afd07ae3c75bf579b7ede5d66b0c17cacdd5e256a59670f08fc81475c0cbe4fa85649fc5a5ffa53522d39765d
 Description: A modern AppList alternative
 Tag: role::developer
 Name: AltList
@@ -8526,15 +8610,32 @@ Maintainer: opa334
 Installed-Size: 416
 Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
 Filename: ./debians/Roothide/com.opa334.libsandy_1.1.3-3-1+debug_iphoneos-arm64e.deb
-Size: 20244
-MD5sum: de38c6d859afc74bc76c268a04689431
-SHA1: 37c3e9c45e1f3ae4db6ac277c84de8d3c0b84d9b
-SHA256: b3c80dfd0805ae96b89eb0e338f9dc47aba4a6661507e13734ff3a013e037ba0
-SHA512: 3db644580fe0405800b1d6442113fc33ea3b0b8bc55af1f72759c8274072d04516d6647aa51c8b53cf84ff2a84276b16e6e65f3ec7d60ba3bfccc77e6333603b
+Size: 20950
+MD5sum: 08232087924064f25bb55cf652bb308e
+SHA1: 2ac0b33ba74db5ae9108b705c6329b66241179fb
+SHA256: 69f3dc5ab72ca278d24d65d54c73b583c03c81685dd6a651a94f0cacfed68b3f
+SHA512: 5b17d7abb6af72fc9d09ca84671043ecbdce1dd93bcf9ea3801b3f56e7bd515aec73948d217efd9d394cc589c3d935d1a8d96f493dbbbacbebb31d05cfe07012
 Description: Securely extend the sandbox of system processes and user applications
 Tag: role::developer
 Name: libSandy
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Author: opa334
+
+Package: com.opa334.libundirect
+Architecture: iphoneos-arm64e
+Version: 1.1.6
+Section: System
+Maintainer: opa334
+Installed-Size: 168
+Filename: ./debians/Roothide/com.opa334.libundirect_1.1.6_iphoneos-arm64e.deb
+Size: 6488
+MD5sum: 42f1842748252a4a2af0404210cf97cc
+SHA1: bfa2a221754b8ac0c2fad47c838f0407a280543b
+SHA256: 721fe9211378550280a7ef421292c27cf88e56e8dc1c2c28178bb4d5cac97dc1
+SHA512: 9101360b96aef4178ea04f0724570fe65d872f5cada147a8b959bb7ec1b9a1e526a7598849d5ed6f17a2ff64fdc2a5c292b06c7537424b862a041b4d9b5f400c
+Description: Patchfinder and rebinder for objc_direct methods
+Tag: role::developer
+Name: libundirect
 Author: opa334
 
 Package: com.opa334.notrecording
@@ -9178,6 +9279,26 @@ Icon:
 Depiction: https://github.com/roothide/RootHideManagerApp
 Support: https://github.com/roothide/RootHideManagerApp
 
+Package: com.roothide.manager
+Architecture: iphoneos-arm64e
+Version: 1.3.2
+Section: System
+Maintainer: roothide
+Installed-Size: 900
+Depends: firmware (>= 15.0)
+Filename: ./debians/Roothide/com.roothide.manager_1.3.2_iphoneos-arm64e.deb
+Size: 734218
+MD5sum: 80f1a04bc01e3e90126f2d991d2fae3f
+SHA1: 496bd5055ce8a28bde812ff960d9d5cb10a16a66
+SHA256: 295aac31682738bada3073bf23659d7571d26103c7f3387fc8125a8ee2ac67ff
+SHA512: 0a773b0d8dc25887fe842fb9884fa085b3ec9632ecb9af54d4a76ae7d84a337bc52b48e42d7045d31cf3a791d2f6d63aac96ec8110195d3dbe8369f53aaecdc2
+Description: Configuare RootHide's Features
+Name: RootHide Manager
+Author: roothide
+Icon:
+Depiction: https://github.com/roothide/RootHideManagerApp
+Support: https://github.com/roothide/RootHideManagerApp
+
 Package: com.roothide.patcher
 Architecture: iphoneos-arm64e
 Version: 1.9-1+debug
@@ -9198,6 +9319,26 @@ Icon: https://github.com/roothide/RootHidePatcher/blob/master/derootifier-2-modi
 Depiction: https://github.com/roothide/RootHidePatcher
 Support: https://github.com/roothide/RootHidePatcher
 
+Package: com.roothide.patcher
+Architecture: iphoneos-arm64e
+Version: 2.1-1+debug
+Section: Utilities
+Maintainer: roothide
+Installed-Size: 4128
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
+Filename: ./debians/Roothide/com.roothide.patcher_2.1-1+debug_iphoneos-arm64e.deb
+Size: 1202686
+MD5sum: 40259b0ca66bff47c765a3b41b63cf59
+SHA1: 1aa5bae9ee6576f2b67a941aa291cd229b37c52e
+SHA256: 8e95be62faccec2cd7fe47de9aefb5bd551a16cddff784c67a9d4e9e4ae25b9b
+SHA512: 808073eaa59b7c37e4d08cf9245c2e9227b5b10ef4eb5f69ac816f4911c94a5dae25b6852553c923b33e47fd75489f3986f487b4b17163a90d7aae05da42cd8b
+Description: patch rootless package to roothide, not work for all packages.
+Name: RootHide Patcher
+Author: roothide
+Icon: https://github.com/roothide/RootHidePatcher/blob/master/derootifier-2-modified.png?raw=true
+Depiction: https://github.com/roothide/RootHidePatcher
+Support: https://github.com/roothide/RootHidePatcher
+
 Package: com.roothide.patchloader
 Architecture: iphoneos-arm64e
 Version: 0.0.6-7
@@ -9205,11 +9346,11 @@ Section: System
 Maintainer: roothide
 Installed-Size: 132
 Filename: ./debians/Roothide/com.roothide.patchloader_0.0.6-7_iphoneos-arm64e.deb
-Size: 3328
-MD5sum: e133a339087a9db7fdcaacea6c6a20e7
-SHA1: 78ba93f1b4e1c4c07673b334f00219158e7e177a
-SHA256: b0d399a9d1b710c8a356a23c32efd0073c6ae641d38248d8ec85584d21ca37f1
-SHA512: 17c7c4318e3efda0ba901e70a25768e4d12972b4e585a315403aa28bf8c3e407b2838f8d5e2871e04fc7d1a63ba225657f2888a3953c010941389a20217c28ad
+Size: 3550
+MD5sum: 354403bb1669b034a7658c1d6d7beab3
+SHA1: fc98a79217b73de2dc63fb070cbe5bd076684087
+SHA256: 759d5a22a0f8d3d2bb9e95854cb7aacf2af5fb05233a4f4917efeee256659096
+SHA512: aa86c330ca813a63165a0e44f519927e5ffcae27397a305c0764de2724608074affad6d6730def7fd0ff701d1ab3b23561a3c046dcf98f0ceae51790f905d90a
 Description: RootHide Dynamic Patches Loader
 Tag: role::developer
 Name: PatchLoader
@@ -9588,13 +9729,13 @@ Version: 1.1.0~rootless
 Section: System
 Maintainer: Spark
 Installed-Size: 408
-Pre-Depends: rootless-compat (>= 0.1)
+Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debians/Roothide/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64e.deb
-Size: 26392
-MD5sum: 08ea188d0867cbc75612394a0eee68b0
-SHA1: 1fffce9b14f0039e302325fcaab1be43eec320b0
-SHA256: 277a80be53844850787ffb9fdd0e2e0c82bf9750f0e66a312f4256bea9b7fd56
-SHA512: a2d3851ab10a4b0d06b9ca8f6b151d3d5cdbbdb24a9150c90225a2d9b4a330a074bb1c7f4ed792bc120b35aeb38d8c615df29dfd5bd9a0ab5459b94925a66304
+Size: 33398
+MD5sum: 16487f9ee2fdd06199ddeb9d25dc01ea
+SHA1: 3c7210b2a7798296abd4bec3c37a12a66f8103a1
+SHA256: 58ebd1bf0b7ed8e16e94b4d1b020307d8badbe02d78c39cb2f868cf1362d4046
+SHA512: 4818ba14c33ccc9284031a739ce7333c5b9ad6c6ac0a0fabfc475a4a6d0cae25d5357e35be57fe27332c0aa922865479c217e2c39e0a45f983e9a1a1f1587499
 Description: AppList alternative
 Tag: role::developer
 Name: libSparkAppList
@@ -9606,16 +9747,35 @@ Version: 1.0.3-rootless
 Section: System
 Maintainer: Spark
 Installed-Size: 424
-Pre-Depends: rootless-compat (>= 0.9)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends:
 Filename: ./debians/Roothide/com.spark.libsparkcolourpicker_1.0.3-rootless_iphoneos-arm64e.deb
-Size: 72252
-MD5sum: e43921a475ca356ff21f1d14fa083d22
-SHA1: c327cc256b16dd8472f328abd9fa7e503acbef2d
-SHA256: 797a70145cf71cc27d902787635e63ac11d78418c2a9e662b5711be3f0ed3230
-SHA512: e29ea1dd15fa8896abb327529d23e1317122b12ca7600cbd0855a3cd43054ea34b4b8c19f2de4afcd65cfc9e465bca6667acbf635190f0476ed9a0d461b19f63
+Size: 97406
+MD5sum: c0984213cc4db8e6f96abd2f1d89ecae
+SHA1: 2dd7477f005b16fe58cfb5adb33783241cd91e1e
+SHA256: b379b701b95b9eda62c07e7fc8b0591d0d0ee1c4ef254a02e9ccb9f468db86c9
+SHA512: 73f510c4d804fdd3b1a7756a66528aea554f4c190b47c32c909a4660e5c67f7d793182cf415e8948a0bdb1adb7b38be8eced60ba5b64f88b0782db5e7d7567ee
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
 Tag: role::developer
 Name: libsparkcolourpicker
+Author: Spark
+
+Package: com.spark.libsparkmessage
+Architecture: iphoneos-arm64e
+Version: 1.1.0~rootless
+Section: System
+Maintainer: Spark
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/com.spark.libsparkmessage_1.1.0~rootless_iphoneos-arm64e.deb
+Size: 10604
+MD5sum: 9d9ae1a2a0dda3a48e5715444a5f78b5
+SHA1: bc7fe7d1e02cc20c6363dd7c1024a927e48e9d22
+SHA256: 6c06b392d1bcb00f6f378e0640784cafd719f598583e64c9ba969ab5f343e8e7
+SHA512: a6c70cc0f83087afa07973d2ce10bf37493921be63ad1dc640f244a8b665b045dc7a680d0deccc294c5577bc52b1a714ca93cff2a9452cffda119eefbf8dcc48
+Description: Super lightweight IPC messaging library
+Tag: role::developer
+Name: libSparkMessage
 Author: Spark
 
 Package: com.spark.nolowpowerautolock
@@ -10350,11 +10510,11 @@ Installed-Size: 1220
 Provides: dev.theos.orion (= 1.0.1-3+debug)
 Depends: firmware (>= 14.0), firmware (<< 18.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Roothide/dev.theos.orion14_1.0.1-3+debug_iphoneos-arm64e.deb
-Size: 162364
-MD5sum: f4aa3836038e8a687e600d4f394c973d
-SHA1: f880549f7fc8ecca3c11baa5f71230ca11d60a89
-SHA256: 98bd0ad507fe9e93662c9cbc27808aa2bcf19dc52703fbd738695e62591611cc
-SHA512: 770a823304bcc9e2b702be10054e40a960def43e59d028ea2fc6b6c092ad40d2d06a2ed548e297a80c6ca76a2756b1528d9107de2c758e82aacd78f226402916
+Size: 181106
+MD5sum: 86b1f3a313d1d4f4bbf9aa50ce99c274
+SHA1: 0fb7e6b04357773e9c9250c7156a5fdc1b96f4fd
+SHA256: a2de49957df5c5211ffb7e522ee9e95c020c123979ff4faeb43c70e7c6607400
+SHA512: 6e0c1cfd425a4e4ceff08155a51d3ecf642c08e19a0772e2aa914173faace9f6d54c6106a902fa4db8067513a407f0d082dcdc7755e8cf4785dc79269eea0f93
 Description: Runtime for tweaks built using Orion and Swift
 Tag: role::developer
 Name: Orion (iOS 14-17)
@@ -11009,6 +11169,24 @@ Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5.1-9
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/Roothide/org.coolstar.sileo_2.5.1-9_iphoneos-arm64e.deb
+Size: 3943268
+MD5sum: 6d0e0bcf1015dbc475e59318cfcc76c3
+SHA1: d485658da2915ec22ee9f3e865db08c057c6a243
+SHA256: 81e7ee83d2566a0b31d4f57a16467e3e2fbb9cf48cdd840281bd4fa2f19886ac
+SHA512: 382991753b47341b94ed8604fa5beb7b3d96e2944808d50471bce1a1751c4381682fac5c989ff5c04ddfc1cb33ca24cb97a03d7d196a86bf3a53e211feb956eb
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64e
 Version: 1.6.9.1
@@ -11041,11 +11219,11 @@ Maintainer: ProcursusTeam <support@procurs.us>
 Installed-Size: 456
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/preferenceloader_2.2.6-11+debug_iphoneos-arm64e.deb
-Size: 26512
-MD5sum: 785d26e3de440ceec23aa1ca676613bc
-SHA1: 371d2be022b42f0772dac6bbce8f5115d01bffa6
-SHA256: b7f791f7cea1ba739e7885b521cf6d5ab7cba65ab34a79c65376ff9afb7cfe4f
-SHA512: b1ea74bf2467642918a83487877ce8f9b4a2eea21923213c9ca026f736bbdfeaeac82784f2c2fbdb795aee7c7b59e0faa66e2604938a8d871831676723494b7a
+Size: 27818
+MD5sum: a2e0ba8d486df80c3deebee923f9081e
+SHA1: d232922d88a46ee8bf70af7fb7d036a4736ebd5b
+SHA256: 2713b727e8d14c553e6d39a3ef10f967073240f995d40a471026f36dc50c0fea
+SHA512: 3aea7f2dee176d33fc584bc4710ded3ee6f57e26dfd41bde1b6492381e0c656bde768109651459e61929656926fef7b407fc640cce516443d459553e81cdadfb
 Description: load preferences in style
 Author: Dhinak G <dhinak@dhinak.net>
 Name: PreferenceLoader
@@ -11056,16 +11234,16 @@ Version: 0.4-15
 Section: RootHide Patches
 Maintainer: roothide
 Installed-Size: 268
-Provides: patches-com.tigisoftware.filza64bit (= 4.0.1-4~roothide)
+Provides: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
 Depends: com.roothide.patchloader
-Recommends: com.tigisoftware.filza64bit (= 4.0.1-4~roothide)
-Conflicts: com.tigisoftware.filza64bit (>> 4.0.1-4~roothide), com.tigisoftware.filza64bit (<< 4.0.1-4~roothide)
+Recommends: com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Conflicts: com.tigisoftware.filza64bit(>> 4.0.1-4~roothide), com.tigisoftware.filza64bit(<< 4.0.1-4~roothide)
 Filename: ./debians/Roothide/roothide.patches.filza_0.4-15_iphoneos-arm64e.deb
-Size: 30996
-MD5sum: d9ea84c1402dccf233b8a17b8be0286c
-SHA1: de79536621cd64ad9c1da5dbec5b36529e1ead98
-SHA256: b34441d844b4276a867a7cc34c726018df017c2fe176dbb430df223004264331
-SHA512: c1b7a119a438ec8ad57c20cf7f122c8cee037648988881091d260923fbeeb9578c25819bd074ad6dcc1f241922b5c000846be077ed2c1a0b85f86461721e970a
+Size: 32518
+MD5sum: 0d2b31c71d53ee8809d15467e71ef914
+SHA1: e8e4a732dbd7d9b95ca014daf6b39a21c7b0c3f6
+SHA256: c048a0416474326c86eefe8852c92f16eea44786a127d499a5e9a644b612aa90
+SHA512: d842b1d5b030060205a8b864dff4dda2a99fb9c7a25fe8f243788c332bd9d7624325a8561568190af416a217eed1dcb88abde6ebd53eab05b43c7eda5aa96435
 Description: RootHide Dynamic Patches For Filza
 Name: Patches for Filza 64bit
 Author: roothide
@@ -11106,19 +11284,37 @@ Description: Compat Layer for Rootless Tweaks
 Name: rootless-compat
 Author: roothide
 
+Package: rootless-compat
+Architecture: iphoneos-arm64e
+Version: 1.8
+Section: RootHide Patches
+Maintainer: roothide
+Installed-Size: 284
+Depends: com.roothide.patchloader(>= 0.0.4)
+Filename: ./debians/Roothide/rootless-compat_1.8_iphoneos-arm64e.deb
+Size: 39322
+MD5sum: 3a2914e4a30d88904b9ee9b40d8b0331
+SHA1: b1322794f4fa674bfdba198fdcd3f047f4adc6dc
+SHA256: 0d566a31bd1bf14857d24258a89cabc6231760ebc3fc7188c3cfb85c1c89c4f4
+SHA512: ba499b54e7d6f4aad7466bfcc0eff6a8cc9dc493cca9644df07109a137ebb184cad1a4f7147712411cfefec00e16ce6dc119797ccf57967f15be153c31e50392
+Description: Compat Layer for Rootless Tweaks
+Name: rootless-compat
+Author: roothide
+
 Package: ru.domo.cocoatop64
 Architecture: iphoneos-arm64e
 Version: 2.2.3
 Section: Utilities
 Maintainer: SXX, Domo
 Installed-Size: 892
+Depends:
 Conflicts: ru.domo.cocoatop
 Filename: ./debians/Roothide/ru.domo.cocoatop64_2.2.3_iphoneos-arm64e.deb
-Size: 225276
-MD5sum: 87a248c728564f818c02415f43e28c86
-SHA1: 1b2cfe181f856452f0658fe048977f1a56212da0
-SHA256: 041cd6ce0f5f457d6a080d49724d63bd1d8263ef82db39763ddceb9564f74aa9
-SHA512: a81e43346e22c8b6c91e555b1a826813753ac8ad685897b308ba54732f085626c5e850c8443d1c8a8c7d01304640b0c7582bf520a16992c0695c31a50db68131
+Size: 225116
+MD5sum: 3ca1d68508bc56731f00a9806e777a3c
+SHA1: 51aa5c12508998708cd9221868ec3c82aa3b815a
+SHA256: 3a26c6ecb590683b152eb108ed154d6ad2604dbed91bcd2e425cc6c8343b1ba6
+SHA512: 06ba3bd8ced4c5730c1d29b55cdc2c7eaf6cdc218e798a8ceb9d3ffb695542c15b1ed3851ef0ae418280dcaa7a9ae89f91a83e5006a482b6d85f63d6836e654f
 Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
 Name: CocoaTop
 Author: Domo, SXX
@@ -11174,11 +11370,11 @@ Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99
 Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
 Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
 Filename: ./debians/Roothide/ws.hbang.alderis_1.2.3-8+debug_iphoneos-arm64e.deb
-Size: 550120
-MD5sum: 1d4d4e983c102d4da2159ccbcc65291b
-SHA1: f8fb585aaccc7d7007bf301fbf78fe7a20ac749a
-SHA256: 9c467ce80753bd1822335075c49a0eb457e818b8b2bea7b10b1848d2540ff5d6
-SHA512: 744ec0afd88e6832574fb15cf1b3b3e88c71f83dfde9c9d3a3c5675e02970c88f18a8954f5bdda8ef07628f04bf1502254e555352ef002e4883332f20b0d8901
+Size: 857360
+MD5sum: 163162fd0db44b348478d1973d8576ea
+SHA1: ee9d931f1a598cbcc57a4757bb939fa2edd07204
+SHA256: 23338feb0fa8f0adbdd3ae843df1d191e18bd9450ef1e813983584cf0f094575
+SHA512: 4e7b864f0c4c1ae6ffd54104eda1331809912d7b58a182cb3c4e4a59d008e1c885dbc49b7222dab29504f8258cf26ec58357762f4f18bece1ab09bc1dd8314f5
 Description: Color picker support library for tweaks
 Tag: role::developer, compatible_min::ios12.0
 Name: Alderis Color Picker
@@ -11187,6 +11383,27 @@ Depiction: https://chariz.com/get/alderis
 Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
 Support: https://hashbang.productions/support/
 dev: hbang
+
+Package: ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 2.0-29
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3132
+Depends: firmware (>= 15.0)
+Filename: ./debians/Roothide/ws.hbang.common_2.0-29_iphoneos-arm64e.deb
+Size: 304566
+MD5sum: 8f10a20e69b6196d558680c6de959a10
+SHA1: 70a6fe7f4ad528248fc1f137edf8c14d23e54082
+SHA256: fd69a700d66bf44f4e579fb65cc5bdbd86c5dfd6726888639502b251f63b230b
+SHA512: 89a747a98bb81c76064533ba9ee0a0d9b0bfb11a79f23035a1799040631114513450f31fdc0d83ae682a765d3db8473af8acbef94486fd4cc11e78ccf7f5d873
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
 
 Package: ws.hbang.common
 Architecture: iphoneos-arm64e
@@ -11208,6 +11425,30 @@ Name: Cephei Tweak Support
 Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.newterm3
+Architecture: iphoneos-arm64e
+Version: 3.0~beta1-1042+debug
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 31496
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debians/Roothide/ws.hbang.newterm3_3.0~beta1-1042+debug_iphoneos-arm64e.deb
+Size: 6628694
+MD5sum: 6990e49ae10bf81442f3c91b6f74628d
+SHA1: 7be7b2b04ec2d81d00229a4b918cca1a236e8db4
+SHA256: 1b6f10525f00d85edd76b597c33187ac2498cd9b260e00d1d63afcd38d8677aa
+SHA512: 755d8fee4d58eaa033fb02b72081b6222d2cb426c197c07d44fc946d5e0d399060844770430a13117c98666731c4b1b3a934d484fafbb583136785b85a3d5398
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Name: NewTerm 3 Beta
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Depiction: https://chariz.com/get/newterm-beta
 Support: https://hashbang.productions/support/
 
 Package: ws.hbang.newterm3
@@ -11296,6 +11537,27 @@ Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
 Author: Skitty
+
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm64e
+Version: 1.1.36-2-1+debug
+Section: Packaging
+Maintainer: Zebra Team <team@getzbra.com>
+Installed-Size: 10740
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debians/Roothide/xyz.willy.zebra_1.1.36-2-1+debug_iphoneos-arm64e.deb
+Size: 4409110
+MD5sum: 4c77fe7e8ead2660ef8f103536003237
+SHA1: 4a5e9215bd7a89b4b77dfec6718544ea9905997f
+SHA256: ca82c18256e19ff78af3e53308d53f047a2d429cb7e025c892377abe4d2e7825
+SHA512: 2d4ce6180e858253e1ba9b3a8dd14aad459c7f6cb416f99bb9dae99118cc9f59b820f4ffa5fe740070e9165f3addd2c11ac41e19e0b5cd64b6adf277f1be93f7
+Description: A Useful Package Manager
+Tag: compatible::9.0-16.4
+Name: Zebra
+Author: Zebra Team <team@getzbra.com>
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64e
@@ -11399,6 +11661,25 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Name: Ultrasound
 Author: Ayden Panhuyzen
 Icon: file:///var/jb/Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
+
+Package: applist
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: System
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: `du -ks usr|cut -f 1`
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.rpetrich.rocketbootstrap (>= 1.0.9~beta3)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debians/Rootless/applist_1.6_iphoneos-arm64.deb
+Size: 105512
+MD5sum: 133f087cb4afa624d36eabb8d05e7ae1
+SHA1: 2cea8afab2b5b91df477425cde2f86c050babc73
+SHA256: d7879497f72aa5a8b104e1512bd04529ce22a968595d2a576c78e16d5c1c0aee
+SHA512: 33dd66c96a52eba1c1b3dff966eed33c6646676e8b068cf7c60741b7b7b3c7e9926c01e004a84b69b9d6bae7c297a028df7ac3b4cb8d38b3acdff685accb1468
+Description: Allow extensions to read the list of installed apps for rootless.
+Name: AppList
+Author: Ryan Petrich <rpetrich@gmail.com>
+Sponsor: Ryan Petrich
 
 Package: chaoge.ChargeLimiter
 Architecture: iphoneos-arm64
@@ -12238,6 +12519,27 @@ SHA512: 4879651001b61297e9198836c5009f6429cf8a685bc8caac1df0b9db3280ab03ae159de0
 Description: Percentages On CC Sliders .
 Name: SugarCane 16
 Author: iOS Creatix, kasiimh1, p2kdev
+
+Package: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm64
+Version: 1.5.8
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2332
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debians/Rootless/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
+Size: 333134
+MD5sum: bbb549941f13b83b158f0809e953214a
+SHA1: cefacbbd2ad0e7701c0708e919131c401cd50d8a
+SHA256: 1d86c58915f7d3b5943c1bc8b9866c384ab029e843dc3bf3af1b7bad9ee6791d
+SHA512: 923fe10671a404369a9f8ae8ae97a6f8295ce24f12f5af93969a3d60e3383e4c5700da5a910d0f7ba0ef172209c90c8fb685296cb988e71e5d63e1b57aa12c07
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Name: libCSPreferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
 
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm64
@@ -16235,10 +16537,10 @@ Installed-Size: 532
 Depends: firmware (>= 13.0), firmware (<< 17.0), mobilesubstrate
 Filename: ./debians/Rootless/com.rpetrich.rocketbootstrap_1.0.10~beta5_iphoneos-arm64.deb
 Size: 19288
-MD5sum: 0d0c137aadc680a9c5b604c4b1e1b021
-SHA1: dc0be9c09c53dc48ba2d6d7a512f2a75ab524298
-SHA256: 19486a71f2b077d4e8ac3c28a826711967527fcd366d461009f5e487e03f9587
-SHA512: ba37a32109d0b5d5ae7eb78e065673d1ff8bdfb2d64dc6be8f5323addd8e7d5d50697fa2aa953aa119d5bebc34f2959c1c4dce96ff72c96544db67e2fa9c5fe6
+MD5sum: cf5577f1b223bb33452dcf6445f8dbe3
+SHA1: 1b12b2aa8f365ffc1acd735f629ff396e0718b90
+SHA256: 0917fcf7d38a6794477938423e35e35b422cb91eff3e9eccf7334a2727783b78
+SHA512: 3dbb9c2ff7c09c6401fc8bcc3f08ef69b1c1f3a88264577486a0beaea7d27d4805f0a4ee758fc7a31e408561382581e612dfe28a645e5580ed17f3c1d0925a7c
 Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Description: Support library allowing tweaks to communicate with sandboxed processes
 Tag: purpose::extension, role::developer
@@ -16466,6 +16768,58 @@ Tags: compatible_min::ios15.0, compatible_max::ios16.7.7
 Author: SGWC <southerngirlwhocode@gmail.com>
 Sponsor: SGWC <southerngirlwhocode@gmail.com>
 SomeOtherEntryToControl: True
+
+Package: com.spark.libsparkapplist
+Architecture: iphoneos-arm64
+Version: 1.1.0~rootless
+Section: System
+Maintainer: Spark
+Installed-Size: 408
+Filename: ./debians/Rootless/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
+Size: 24834
+MD5sum: 0b8283166fd138011c971c9e466002c4
+SHA1: 986f8a4c07c63d9685b7fc61644dda220566438c
+SHA256: 3c99db2ec79f728826536bd55d2902c03c46ac995909c02b80c2fd5e9e8e812e
+SHA512: 01b13ae096a24a09daed98fea7bb695ff1e25a997358ed657b8c4e19614f848e7255059894c763b363474b58f00a94e346e143d5a6d301662da88bdcac3057b9
+Description: AppList alternative
+Tag: role::developer
+Name: libSparkAppList
+Author: Spark
+
+Package: com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm64
+Version: 1.0.3-rootless
+Section: System
+Maintainer: Spark
+Installed-Size: 424
+Depends:
+Filename: ./debians/Rootless/com.spark.libsparkcolourpicker_1.0.3-rootless_iphoneos-arm64.deb
+Size: 71040
+MD5sum: 2d6f2707d84e95f56a6f52402aa72996
+SHA1: f6d2f6acfe010b7c443f78921b490185f4ddd518
+SHA256: 22844b4abdd5bd37fa302ec6ce50c28948a7b88d3d363ae072e8bea081d025ad
+SHA512: fc80f0fe70f595ba5502ec9ce5e902d0b9b58d16faf99324862da3f487e9fc0a3b8071cd956961720fc22a8fbc57cb34102ecd7871c6cc1e1468cd31ab4f15ab
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Tag: role::developer
+Name: libsparkcolourpicker
+Author: Spark
+
+Package: com.spark.libsparkmessage
+Architecture: iphoneos-arm64
+Version: 1.1.0~rootless
+Section: System
+Maintainer: Spark
+Installed-Size: 200
+Filename: ./debians/Rootless/com.spark.libsparkmessage_1.1.0~rootless_iphoneos-arm64.deb
+Size: 8216
+MD5sum: 96a3fbfc6801b3858bfa6bf65972089e
+SHA1: cf7a814caf6c72b345b36bec99659b77aaaa49d3
+SHA256: def11abd6eab785384665d6988d23dc3471b3f60adce51b4347f87dedb7e6ffe
+SHA512: 7c8b0af7c6b6c89791bfade15027fcf64da84360d0dda08d816ac455e93649ccb9678e0dfee59945c34c42ca7d85dbe3c843ea708cf52a3a93042cf7743d6ed1
+Description: Super lightweight IPC messaging library
+Tag: role::developer
+Name: libSparkMessage
+Author: Spark
 
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm64
