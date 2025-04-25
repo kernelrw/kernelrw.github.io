@@ -10843,6 +10843,26 @@ Tag: role::hacker
 Name: allemande
 Author: p0358
 
+Package: net.tateu.strongerfi12
+Architecture: iphoneos-arm64e
+Version: 1.0.0~beta5
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: net.tateu.strongerfi
+Filename: ./debians/Roothide/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm64e.deb
+Size: 68788
+MD5sum: b20bafc1ed9ab10618cf9d20e3bd5766
+SHA1: 91aa4160a4abcfb47900ae212d199a237b860b00
+SHA256: 5b1d7219db7a5377f45021e5e64efda29a323d006095a5cd155aeb085b0d97dc
+SHA512: 641f08d3f4065a4bf8c9d0d5460e1f68aef18adb139ef8510a42c63ff1f7a339e2ce07ddbc5950eedaf8fd315b41777ae1b576b4a7f974989c619acbff2bfdf3
+Description: Auto switch to the strongest WiFi Network.
+Name: StrongerFi12
+Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
+Author: tateu (Josh Harris) <tateu@tateu.net>
+
 Package: netskao.cccellularrate-rootless
 Architecture: iphoneos-arm64e
 Version: 1.1-1
@@ -17957,14 +17977,14 @@ Version: 1.0.0~beta5
 Section: Tweaks
 Maintainer: tateu (Josh Harris) <tateu@tateu.net>
 Installed-Size: 412
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: net.tateu.strongerfi
 Filename: ./debians/Rootless/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm64.deb
-Size: 54564
-MD5sum: 5a57a2a774ee2a59fd44b382d459766a
-SHA1: 6c115f41ccd45c7e3c7dbf1635941fa892ce914d
-SHA256: abc365e639a045a546882a594d8e89323961b922b3c8e9100d32be54f88cc43c
-SHA512: eee39e4534dd292e6019df0d6bd2dbc4df65fd95411a41c2eab6539ab5b65535f68fe26713e5b4c4ac462ad7a6cb012187c2bf99c1b6be494105e069707313ae
+Size: 54420
+MD5sum: e791eaeb29b24581d045b6c3c6c29c4d
+SHA1: 255cec54074edfd997ca1f3e9fc6444f4fae633f
+SHA256: fe21896f8d4b62c0cb81f863e5088f36e8d51e2777a1b234bcec965d0ed0db4a
+SHA512: 86138f1ca496f022c9d93762e183163c66cc4a83d867613d2c20ccff44e07f16044c2dffca57323fe703fc230fb132c6e9c0f8f0fe7d712b0703e8afbaf6027a
 Description: Auto switch to the strongest WiFi Network.
 Name: StrongerFi12
 Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
