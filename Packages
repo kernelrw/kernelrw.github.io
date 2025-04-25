@@ -3719,6 +3719,22 @@ Description: Minimalist GPS spoofer
 Name: Relocate Reborn
 Author: Nepeta
 
+Package: com.r333d.eqe
+Architecture: iphoneos-arm
+Version: 2.2.241009.1754.7cd8a
+Section: Tweaks
+Maintainer: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Depends: mobilesubstrate, coreutils
+Filename: ./debians/Rootful/com.r333d.eqe_2.2.241009.1754.7cd8a_iphoneos-arm.deb
+Size: 7945068
+MD5sum: 7a31113bce793cf2ac05ecd30ce17d96
+SHA1: ff49b01c25c3d6185d3370b9f3961abb9553830a
+SHA256: e4289039a86c63f940fa984c8f384726495e7756a56bfb2660a48371697999f5
+SHA512: 6d327d8de26fc9b3131c6c58abe5a56b4d3d9c1ad7790050464b075b281b0764fd2e3a30b40246372780ee735adf4a821f0e0f92a82256e677a1c76b73be25d8
+Description: System-wide parametric equalizer
+Name: EQE
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
@@ -9281,6 +9297,23 @@ Name: SwipeExtenderX
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Depiction: https://chariz.com/get/swipeextenderx
 
+Package: com.r333d.eqe
+Architecture: iphoneos-arm64e
+Version: 2.2.241017.2202.05f8
+Section: Tweaks
+Maintainer: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, coreutils
+Filename: ./debians/Roothide/com.r333d.eqe_2.2.241017.2202.05f8_iphoneos-arm64e.deb
+Size: 17473768
+MD5sum: 502c8ca5d2fef6582c98137df49286bb
+SHA1: 5cb51ab6fc146da16f1f641f568a5a3949c55bb2
+SHA256: e66d483cfe524d5b6ca086caa8a060bde5b9d9c54d309d62738adf68df0e433f
+SHA512: ad20cfd6744e8a0053fc08c5937e96a2f789c50179da3fa1780135c7d585269132b61542fa6409bc03573e3b95a8458f01c4e9b513834fcf568cc42dfe220655
+Description: System-wide parametric equalizer
+Name: EQE
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64e
 Version: 1.9.3
@@ -11576,6 +11609,27 @@ Name: Ersatz
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
+Author: Skitty
+
+Package: xyz.skitty.quietdown
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Skitty
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/Roothide/xyz.skitty.quietdown_1.1.2_iphoneos-arm64e.deb
+Size: 58144
+MD5sum: 573a369be136de48278ebfb913a88e63
+SHA1: 9c14beeaa66436962ee339a93d6d44a1499c8c79
+SHA256: b3b4f2abefad4bab4f7fe72af45e26480ec09e1e7be29c4ee1fb76e1079b74e7
+SHA512: c5c06da0be6c95fde74d117a242b74d3f32b2042ffc3fb2ef68534b67bc1b26cc933214a43a4fbc65e63a22069e161a634cffcdcbf160b2ea4c7b6d4f81ee7c3
+Description: Mute Notifications for Time Periods
+Name: QuietDown
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.quietdown/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.quietdown/sileo.json
 Author: Skitty
 
 Package: xyz.willy.zebra
@@ -16448,6 +16502,22 @@ Author: MiRO <tweaks_support@miro92.com>
 Name: SwipeExtenderX
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Depiction: https://chariz.com/get/swipeextenderx
+
+Package: com.r333d.eqe
+Architecture: iphoneos-arm64
+Version: 2.2.241017.2202.05f8
+Section: Tweaks
+Maintainer: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Depends: mobilesubstrate, coreutils
+Filename: ./debians/Rootless/com.r333d.eqe_2.2.241017.2202.05f8_iphoneos-arm64.deb
+Size: 7941352
+MD5sum: d272be4ddbdcd7929aa9e24495de0fc8
+SHA1: 7197b012e8fe4a562781a6431e662b70c99581c1
+SHA256: 6fadf2e66a0785c393ed667ad7cfe525cfea96974295dd75b7c840324dae64e1
+SHA512: 28683630baa2c026d775e56d08b56036e8977ce025c7ca45ba3a4d0b2d63e125393ab11c43c7553c33e355c295c81295f0f623f15b97d104e4c4bd1cac73a670
+Description: System-wide parametric equalizer
+Name: EQE
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
 
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm64
