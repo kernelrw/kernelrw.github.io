@@ -8022,28 +8022,6 @@ Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
-Package: com.kernelrw.youtopia
-Architecture: iphoneos-arm64e
-Version: 0.0.2
-Section: Tweaks
-Maintainer: sinfool
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/Roothide/com.kernelrw.youtopia_0.0.2_iphoneos-arm64e.deb
-Size: 4828
-MD5sum: 3f7e1af103dc10c9ce2bb80ffd492576
-SHA1: 3c68d23a5a9419919d1ab537fe9724830218bd9a
-SHA256: 53915a99205b694c2185b65b3a7582f870265781ee5dba3eaadbdf75cb1d1f3a
-SHA512: 482f9eaaa4251ad53be9551986ebc39394381403b78b2b956f144786bc1745a8dabf73020cc6ebbde88b4afd8cfa64afccf03edeec972b818f0996d0b4ddd32a
-Description: YouTopia by sinfool | The perfect YouTube experience!
- - No Home Feed Ads
- - No Video Ads
- - Enable Background Playback
- Officially hosted by MYXXdev
- - https://www.reddit.com/r/jailbreak/s/mK0CmCje9J
-Name: YouTopia
-Author: sinfool
-
 Package: com.kingpuffdaddi.alwaysdark
 Architecture: iphoneos-arm64e
 Version: 1.2.3
