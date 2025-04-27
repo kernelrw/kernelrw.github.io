@@ -1,3 +1,24 @@
+Package: applist
+Architecture: iphoneos-arm
+Version: 1.5.16
+Section: System
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debians/Rootful/applist_1.5.16_iphoneos-arm.deb
+Size: 105098
+MD5sum: af1bdc77dd1805c249d416fa96957841
+SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
+SHA256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
+SHA512: b7e71705b10ea05613dc01c28cf174517acc626a9866f4030365c3eb034a81b70927b1a59678f50ed24513b56785523e8e415f932970f48c1b30156048386d1e
+Description: Allow extensions to read the list of installed apps
+Name: AppList
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+
 Package: chaoge.chargeLimiter
 Architecture: iphoneos-arm
 Version: 1.7
@@ -2883,6 +2904,26 @@ Name: libPhoneNumber
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.miro.tranzlo
+Architecture: iphoneos-arm
+Version: 3.5
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 5112
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.17), com.creaturesurvive.libcscolorpicker
+Filename: ./debians/Rootful/com.miro.tranzlo_3.5_iphoneos-arm.deb
+Size: 2098662
+MD5sum: fd7db45ce6fe7c638d9c8a539aa889fc
+SHA1: 43250bb916443408885ab1165938991c5dffc34d
+SHA256: bf897b422ad59acce791d3c016da191741a186e9e29b3d4928441a0592ccf7ad
+SHA512: e3ef79ef67d4d8fb04b63b256d3639bf410faf101e5722fa7a33ebd582cff6c7314f2e97ef7ffa0344ab1e86778b21c92a8b41252d34f56dcf2ee8456f0b3146
+Description: A life savior translator tweak.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.tranzlo
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
+
 Package: com.miro.uyou
 Architecture: iphoneos-arm
 Version: 3.0.4
@@ -5330,23 +5371,25 @@ Author: alias20
 
 Package: applist
 Architecture: iphoneos-arm64e
-Version: 1.6
+Version: 1.5.16
 Section: System
 Maintainer: Ryan Petrich <rpetrich@gmail.com>
-Installed-Size: `du -ks usr|cut -f 1`
+Installed-Size: 780
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.rpetrich.rocketbootstrap (>= 1.0.9~beta3)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: com.a3tweaks.polus (<< 2.0.7)
-Filename: ./debians/Roothide/applist_1.6_iphoneos-arm64e.deb
-Size: 152686
-MD5sum: c340796f53bb31e2f22463aa891f412d
-SHA1: 4a6f4fb8eac639db593bf5cc3bb287fdd079fe9c
-SHA256: 47b5bd05f0c1095a57c62bc78e5e1ddb5061322b52e1d89d40a0f08305bceeb5
-SHA512: 376c8ca96ed362a02aa0846c474c57e7cd808b9a0a232ba1963e07a9d727568e23741e9766679c777bb67f85aa9ce3f61acf1631f142d99efdf01e00184448b0
-Description: Allow extensions to read the list of installed apps for rootless.
+Filename: ./debians/Roothide/applist_1.5.16_iphoneos-arm64e.deb
+Size: 80196
+MD5sum: f2764f7f695547ac61f277640d833e24
+SHA1: 75038fc1b643258ac6aab28843e6aa615592f7c6
+SHA256: 65ef861c7c241cbb1b86d2c103ceb0b4321a04e3e5c890b31d14c8d07bbdaf82
+SHA512: 451936496ece548e364f3a64c999214321736ad54c4f33243e3ab35f7053a869b56bf5e7778251d917d77c99c091defed9b066879c375ac389574f0f2cc1a98c
+Description: Allow extensions to read the list of installed apps
 Name: AppList
 Author: Ryan Petrich <rpetrich@gmail.com>
-Sponsor: Ryan Petrich
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
 
 Package: ch.xxtou.hudapp.jb
 Architecture: iphoneos-arm64e
@@ -9278,6 +9321,25 @@ SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
 Package: com.qiop1379.swipeextenderx
 Architecture: iphoneos-arm64e
+Version: 1.6.1
+Section: Tweaks
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Installed-Size: 656
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debians/Roothide/com.qiop1379.swipeextenderx_1.6.1_iphoneos-arm64e.deb
+Size: 119490
+MD5sum: a3bc56695126e78fd0b24f5421b073a2
+SHA1: 185896c1c7286b024a067a5f97485eea11f7ae95
+SHA256: 74810af20329a33e1351767f15108dc740bc300d16f01b038a31958a6f33c44f
+SHA512: 647e2b2f3b545654f862ca71b7788e28c5249edc54eadae7a5e8820810898bf450906a1a9856a6d0f9dd0dffe23eddeb5f57ac73689951f68e736c7effd98da3
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Name: SwipeExtenderX
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+
+Package: com.qiop1379.swipeextenderx
+Architecture: iphoneos-arm64e
 Version: 1.6.1~2
 Section: Tweaks
 Maintainer: MiRO <tweaks_support@miro92.com>
@@ -9425,6 +9487,26 @@ MD5sum: 40259b0ca66bff47c765a3b41b63cf59
 SHA1: 1aa5bae9ee6576f2b67a941aa291cd229b37c52e
 SHA256: 8e95be62faccec2cd7fe47de9aefb5bd551a16cddff784c67a9d4e9e4ae25b9b
 SHA512: 808073eaa59b7c37e4d08cf9245c2e9227b5b10ef4eb5f69ac816f4911c94a5dae25b6852553c923b33e47fd75489f3986f487b4b17163a90d7aae05da42cd8b
+Description: patch rootless package to roothide, not work for all packages.
+Name: RootHide Patcher
+Author: roothide
+Icon: https://github.com/roothide/RootHidePatcher/blob/master/derootifier-2-modified.png?raw=true
+Depiction: https://github.com/roothide/RootHidePatcher
+Support: https://github.com/roothide/RootHidePatcher
+
+Package: com.roothide.patcher
+Architecture: iphoneos-arm64e
+Version: 2.1.2-1+debug
+Section: Utilities
+Maintainer: roothide
+Installed-Size: 4128
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
+Filename: ./debians/Roothide/com.roothide.patcher_2.1.2-1+debug_iphoneos-arm64e.deb
+Size: 1202674
+MD5sum: 407eaabea9aa3b8aeec7a868b8b82511
+SHA1: c2d92c981d23e831cf04fc5bc3bcedf8d033c3ad
+SHA256: dfa9dd31f04a801307579da60b93e84f1791cc9034998a513315d03354f2ec8a
+SHA512: 503908118c18442a438d8b6d565e14d1c0dfa35e8d122981d8d30945df5641654e42517f4be5910d672f0b4f58a7509b67be12949e310ea8489d4130778d5ab6
 Description: patch rootless package to roothide, not work for all packages.
 Name: RootHide Patcher
 Author: roothide
@@ -10364,6 +10446,23 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
 
+Package: com.yourepo.0xash.fixrepairsystempower
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: System
+Maintainer: ash <krylov0@outlook.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.yourepo.0xash.fixrepairsystempower_0.0.1_iphoneos-arm64e.deb
+Size: 5988
+MD5sum: 7227fd52b8282679b1d4f8407e1949c5
+SHA1: 486666468dee33746155951f9abf4d71e7f5db7a
+SHA256: 59c67955bf33419f93a082afa65e43e4109b13120e61f789954fd923fa181142
+SHA512: a9d0a1659c87523d4c55e12b34b22964a11aa49ec261eb808442e826406c784c1707c2416abff3cb4f1fe14d5040f594cba3dd9a8ce75785a6cd9944c75db674
+Description: CPU Battery Saver Battery Connected State Not Change Remove Monitored Regions Don't Use Background Location Services No Update WiFi State Remove Pretending To Search In Telephony Manager No Has Results From Wifi Scan Disable Wifi Charger Queue Has Cellular Telephony Private Location Apps Not Using Location With Details Remove Animations Remove Animations Fake Service If Unnecessary Don't Scan For Updates Remove Check Time Zone Time Zone (Fixed) AdBlock - Block Some iAds No Automatic Sync Hidden iAds Device
+Name: Fix Repair System Power
+Author: ash <krylov0@outlook.com>
+
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode
 Architecture: iphoneos-arm64e
 Version: 0.5.1-11
@@ -10788,6 +10887,25 @@ SHA512: 2c62dd43c16186c9807d7df9c8b21ecaf2f18dd2731e9a7e4a4dd5fc7f0bc81ad5c2a7c4
 Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode. 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
 Name: FreePIP
 Author: Soh Satoh
+
+Package: jp.uzra.muteplay
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/jp.uzra.muteplay_1.0_iphoneos-arm64e.deb
+Size: 5120
+MD5sum: e560ed7ba5aea1a5f75d3bea0259285a
+SHA1: c7022774ff40c65164d4ef44b7f43f534a52a5f1
+SHA256: d4349f169afb47eae51ef4bd82bc1205845f7013d709eea6dbd741273b63e9d2
+SHA512: 89c2434614088244090370c1922b854efeaf5087fba6eb73ad93e367fae1768acccb305f14aef806bbda84250ba485d211fd495eda6fc1ec0c76cd9bd04f7546
+Description: Mute notification sound while playing music
+Name: MutePlay
+Author: uz.ra
+Icon: https://uz-ra.github.io/icons/MutePlay.png
 
 Package: lilliana.apphider
 Architecture: iphoneos-arm64e
@@ -11778,22 +11896,24 @@ Icon: file:///var/jb/Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x
 
 Package: applist
 Architecture: iphoneos-arm64
-Version: 1.6
+Version: 1.5.16
 Section: System
 Maintainer: Ryan Petrich <rpetrich@gmail.com>
-Installed-Size: `du -ks usr|cut -f 1`
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.rpetrich.rocketbootstrap (>= 1.0.9~beta3)
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: com.a3tweaks.polus (<< 2.0.7)
-Filename: ./debians/Rootless/applist_1.6_iphoneos-arm64.deb
-Size: 105512
-MD5sum: 133f087cb4afa624d36eabb8d05e7ae1
-SHA1: 2cea8afab2b5b91df477425cde2f86c050babc73
-SHA256: d7879497f72aa5a8b104e1512bd04529ce22a968595d2a576c78e16d5c1c0aee
-SHA512: 33dd66c96a52eba1c1b3dff966eed33c6646676e8b068cf7c60741b7b7b3c7e9926c01e004a84b69b9d6bae7c297a028df7ac3b4cb8d38b3acdff685accb1468
-Description: Allow extensions to read the list of installed apps for rootless.
+Filename: ./debians/Rootless/applist_1.5.16_iphoneos-arm64.deb
+Size: 58768
+MD5sum: 7bbe8b81aae32a6b3c3418e6c8c9a93d
+SHA1: f36baaaaf6bffa073c615b012244f3999db45530
+SHA256: 3b16b4fd60eaf7faa25def59cba7792b6fa41006f7149ff820d4dc56415d16c4
+SHA512: fa2043f6485eb8495539d0ef6657212230afb6fe5ee0c9ad24361dbdfff42e543f8c196cd829d0493394d55cc634523b68bf4f1f6dac9973e321884bc05ac74b
+Description: Allow extensions to read the list of installed apps
 Name: AppList
 Author: Ryan Petrich <rpetrich@gmail.com>
-Sponsor: Ryan Petrich
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
 
 Package: chaoge.ChargeLimiter
 Architecture: iphoneos-arm64
