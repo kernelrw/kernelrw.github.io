@@ -3731,12 +3731,13 @@ Maintainer: pxcex
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.pxcex.autoscroll_1.0.0_iphoneos-arm.deb
-Size: 25268
-MD5sum: d949850888e0ed2d02288ba3d9bc8b6d
-SHA1: 60fc02b135decc7968082025d2b303fe30b5e961
-SHA256: 65c4c57eb8bc59362372f6f3db940e3008b318d395171031b7b45aa0031fc4e2
-SHA512: b6660ea7714a6a39b9951e96bdac96df39016f76fbae8bef43b1fc32607cd63ca4e5c73a2f4bb3f9bb9905af4a8133c578a36c73252025dae5f7a24296ff83ff
+Size: 25272
+MD5sum: 4be7a03e6eeb8bd2ef1b27a663f900ec
+SHA1: d198db748287dccaa2408616e3a0100452b99b4e
+SHA256: fa1f54294646c2c13dc9dacb6a25ee97d20f449e4824e12420d70bc795fc2bad
+SHA512: cf1511aa23d60d0df1de38ca513b0b4f1570446cd801112ea8abef7f367a363e5b1040114bf0f621b70cb93ef033585ef682c985b6d447a0f9f21fbdb5722090
 Description: Smart Auto Scroll & Faster Scrolling on all apps .
+Tag: cydia::commercial
 Name: AutoScroll
 Author: pxcex
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xRd7K0RfX_B1KlS7ypYY0xRtNazHw2jWbIMy3ey7Bg&s
@@ -4021,12 +4022,13 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm.deb
-Size: 97106
-MD5sum: b622b36dea95ff15932dbabe955ff165
-SHA1: 7e4225aff39eb345a2c77c5b0de16037fac2740a
-SHA256: 524b0fed94154809aa8d86ec14fb567a34581d770d8a722e5cc03283d08f77df
-SHA512: 7cc7a86c56e1d213b4b523ee0fcd8cb6ca5fdd6d491eab5364c162f56113a12ee9ee2520683b5b7adf34b2eb40c56f55b478af5a710ee69110e8f873802f0357
+Size: 50000
+MD5sum: 2ed311b6ce5a62300c9a24bfd0b87540
+SHA1: 94a2978735da6e9da867517bc460d4df3f28fc0e
+SHA256: e2b4becb9644cea27d91382540ecb48d6f4f13dc65968a0f9a75dd16b04b8f66
+SHA512: 12104f0145a0209b0b2b0afae7f645c9c98b3ed648c346aa766622a73748cc8fcb876a757717518a16c39e102e94a355194fde3bbb708284c459f8b381c1f2b3
 Description: Automate alert actions.
+Tag: cydia::commercial
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
@@ -4903,12 +4905,13 @@ Maintainer: nqt1195
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debians/Rootful/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm.deb
-Size: 8796
-MD5sum: a43d09d00698283f29a0c68d658dc2e3
-SHA1: 7fb6c286f8b089b56234a2dfae0e25c3d9e4f4c7
-SHA256: 2754163d48940f92c859fe90f0373d76ad28c9e690f2803d0de3f6fe56124530
-SHA512: fe73a03a5859c735309606fc62d67b046e4657e123df9fc5f7cad9a8520f17f86fc26e9584560fb2af22f4005711496c4e6c02e303fd3a75af0081585174b52f
+Size: 8800
+MD5sum: 5146685d5588470d16a5a24e816b10cb
+SHA1: 99ef43c6e3a6a5162db4470f5165347d4ba17693
+SHA256: 2daf5d27a07be38524147af3d1367f006f42634ba86acc662f773f03658ca5e4
+SHA512: c78757ae559363ff0c57bd768dbab5710ef837ac93c055e8136c2b844caa92a79ad02ce3b6f71f6bdd44563f647645f699b3e63f2646bacac974b27e4ed4632a
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
+Tag: cydia::commercial
 Name: CCWiFiJoin
 Author: nqt1195
 
@@ -9789,12 +9792,13 @@ Maintainer: pxcex
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/com.pxcex.autoscroll_1.0.0_iphoneos-arm64e.deb
-Size: 4136
-MD5sum: 69bf711e2aaf9c59d0db595306370e90
-SHA1: 65c70dada5a5a6b0ad738a2ecd1271e9678b2c9e
-SHA256: 0b15e5cbda4cc18f857e5d8c3004cdc6343a2f976d7945bd4754af26ef2c6ec4
-SHA512: 55330481d09fc1e1d811dba0ff27cd38395699c19e5ad9870a4eedc34b0a1bf99e9205dae86e624aa868d8742f88a4ffc6c70f63ac7dcba8d981fcf22d1af314
+Size: 4140
+MD5sum: d0102d771d59e8363019ffb29cef57e9
+SHA1: 6af008c99439939c0b3ebbbb2cfb648d9df56518
+SHA256: 58abb11db5ba0e91c443492d36e3e41ce0e6540fbe961ffdcd88495211270a65
+SHA512: 4d7556fc391d10ee0497a92d883b609b27b66348629bcf26f7398001b1d430b7e399cfb763127df11d09f660b53dc0ad655ffeb6f5c4b73b18bc30fdfd57bc26
 Description: Smart Auto Scroll & Faster Scrolling on all apps .
+Tag: cydia::commercial
 Name: AutoScroll
 Author: pxcex
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xRd7K0RfX_B1KlS7ypYY0xRtNazHw2jWbIMy3ey7Bg&s
@@ -10225,12 +10229,13 @@ Maintainer: shiftcmdk
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm64e.deb
-Size: 54936
-MD5sum: 2bb21c4b24d95bbe68d3955ea05ee0b1
-SHA1: 831d253fc0bea4be740a472f5cf25bcd05c573be
-SHA256: 407c96f00dc03176693483b89a6e78ba3560b7cb7426c17868aca11317ef7afb
-SHA512: 4afb5024585323b2143433decfbfc3a93ab3c6660666858d69c07a9980677f6240c14bb7098d738da33727ed7ed7584bb4cd0e6cc365ee419307f03ae0aeb999
+Size: 54948
+MD5sum: 338b678c4c1f0e847bab63c1cdffcb49
+SHA1: 2368cc891c55f84632bbf4473ec0af409336110e
+SHA256: 38d6203cea6c387ff5becacd65b60f27adef7ebd69359ada49bcd805c12e3f2b
+SHA512: a8528027732beab6f22a1182a8878adcc5abcce0fcc4132ae25d8c8c9453d2b1fd9805339332e830bbe9c56afd7c25593e7dd72200ed6823435e3e6824f9cce5
 Description: Automate alert actions.
+Tag: cydia::commercial
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
@@ -11337,12 +11342,13 @@ Installed-Size: 136
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm64e.deb
-Size: 11764
-MD5sum: 815b2c68b30cd5add3fff242f1d8a8e1
-SHA1: d94fcabcac18b05b560937bbfd607ac485d7d76d
-SHA256: d6c48617d7fb670742525e11d8cedbd64c869d9bb3f293fd83d916c30011fd76
-SHA512: 56fb05c1093fc8d58ebf326ad2c1eb3d93f4a24b370a1cffd2cf5df30b2f2ffad66c0830dfac91e9a236ac5b63cf5dba56de9f99a0aafefbe667b2ece4682a94
+Size: 9788
+MD5sum: 800727425880df9f2f91fb0efafec95e
+SHA1: 2c31dfafaf6a5548a36692dab73abc1480a4afd8
+SHA256: 594d28b80955d59e884e3b76f44a4f2ae2e0da6b5bda1f937e2e7f23af05763c
+SHA512: 44d741a9e0e027880466679212b4bdaebe62dc49a65541a73426c8b0c6fe7d1be2a29bd18bd9d2795fe6b3551becd981cedce4d2d3ef6390d741766a98a5d4a8
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
+Tag: cydia::commercial
 Name: CCWiFiJoin
 Author: nqt1195
 
@@ -17148,12 +17154,13 @@ Maintainer: pxcex
 Installed-Size: 152
 Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootless/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
-Size: 26388
-MD5sum: 2a80556dfddd3b9121014727aaf655bf
-SHA1: 429af2edf577262332b5fde69eb66378f61cf870
-SHA256: a900783f40ee2ee228349c02f6af96b6fb195464089b109dc6450597a6a93078
-SHA512: 2bb340a8e2b114b09be083527547d9fa97eb9a7c0530a57e7f8dc06da54496ea47f59b3d0ac2b37b73181d00d067def3b2b6f023c4d1875c419f65fb2b570c57
+Size: 26404
+MD5sum: 9a7f45977a45575a46f1cf540a891671
+SHA1: bd43d922cd07872a14e6e2f96e31ddadad6d043a
+SHA256: db5e7289621c467c8d502f18c4da0974ba1fc178e1ebed5948d3f408d76d2a05
+SHA512: 325e4c610b890af6ecb0021e5a5fa1e8fe08db1e8b82f56d6c3de18ff8355399766e314d0b4b527a69a4d3c9088be14f72721d82e3bd5939b6a6f1e9f95321d9
 Description: Smart Auto Scroll & Faster Scrolling on all apps .
+Tag: cydia::commercial
 Name: AutoScroll
 Author: pxcex
 Depiction: https://d.plutorepo.com/posts/AutoScroll
@@ -17507,12 +17514,13 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm64.deb
-Size: 53412
-MD5sum: 46da10edc5fdfb01683d1507592a62d5
-SHA1: 377c04bf9caf1c5937f9920f8530baf79833000a
-SHA256: 855a0f4d8bb5486fdb3895a8e10b0d17866c06ad6a6f309d04e4c77521099a97
-SHA512: c28436c17e37496b9053d1598dc93a1e15dbe2534316da4359116215e40a34bbcd8a08ba023628cd54ed704e89ad25b29d43ea2e7001a345394132b5261cc5f9
+Size: 53440
+MD5sum: b6c3d2f770975a49ad4a7dfceab92ae5
+SHA1: e8285d463d4175e16d1c8533e47cfe4198fb2dcd
+SHA256: 1c48f23e3e0a54ef2bf9841f556e9ea7bdd7ea92f859267e027d9d049d51258b
+SHA512: a3870f1f3fa361e2055dcf8f818676c139ace8a86eadf6eb30ba820404122285b9ef2d7b6244ae431035549d3d58f32d5c7bcdd580937de50ede981e6752a2c0
 Description: Automate alert actions.
+Tag: cydia::commercial
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
@@ -18833,12 +18841,13 @@ Maintainer: nqt1195
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm64.deb
-Size: 9016
-MD5sum: 04a1baacf66d17b723a11603d871f9d6
-SHA1: 662d8ef8349f979edb419f213861438cc4067b2d
-SHA256: decc01d5b7fae58298d353c01e1cbd5bba621a2af2a7248a4bc53bc9c72b609e
-SHA512: fb0e960eb5f052eeeaab6bd641485641411c655efa4932d48dcd7f6c165a38bcc35e2deeafcb566c3b7074fb5b046a55d6eacd9a20abd6a3c8f5378d6ba6d7d7
+Size: 9060
+MD5sum: a7b7e02965e1b610b912260d0e771a70
+SHA1: 840b1a05c8309c95064c8d4b9702a1dbad051819
+SHA256: 23d2b5d856d4ba4670a3effd4318442a333894f551246a4d5a7a460ce58566ca
+SHA512: 1a97fddf1ea77bcef9ab640f89a5df8551f2506a2388717597aa5b2b09f3773d8c795dbaaa1e9e5decc2a52d25a36e8140b92fe2c85bedda493ed924defdf371
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
+Tag: cydia::commercial
 Name: CCWiFiJoin
 Author: nqt1195
 
