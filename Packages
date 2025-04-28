@@ -4352,15 +4352,16 @@ Section: Tweaks
 Maintainer: Tr1fecta
 Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debians/Rootful/com.tr1fecta.autotooth_1.0_iphoneos-arm.deb
-Size: 12096
-MD5sum: fb28383557eccfd8a18678fabeec2ef7
-SHA1: 3d9518bb37cdee60cd1740bb7e1d06309d88bb75
-SHA256: 94cfdc8e4cdba71729c2aabe7eb8d25647e8cee9287898690c2df86b9d6743b7
-SHA512: fa503d5bff8f95b1b701f3b037793232de0d3ead79778c644dac7007c76748e7d8b5c1d1e635bd400356039c9e43b38257d0b685ebf2d76fe21dcb151c1b0e2e
+Size: 12100
+MD5sum: 2ab39a98cee3c12a03fab48db227f2a1
+SHA1: 816eae814a25738c7dc8a66a5df07a52ff75caaf
+SHA256: 4d06eb612ff8343aeb1313e83388d7b34ee583fa0350c48d13b21a71c8eae86d
+SHA512: bfd45921d1eefdcde25ff215ea5ebbe1582ac3dfe93173c002626e65df9b798ac6510889874226514b286945672e6101ee3e65f9df9033dde1ec7938dd69d056
 Description: Control your BlueTooth & WiFi .
+Tag: cydia::commercial
 Name: AutoTooth
 Author: Tr1fecta
-Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
+Icon: file:///Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
 
 Package: com.uckermark.betaalert
 Architecture: iphoneos-arm
@@ -7874,23 +7875,6 @@ Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodw
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi
 
-Package: com.kernelrw.autotooth
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Tweaks
-Maintainer: Tr1fecta
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/Roothide/com.kernelrw.autotooth_1.0_iphoneos-arm64e.deb
-Size: 22784
-MD5sum: fa76d3725118ebcf3aae63e286575009
-SHA1: 156015b8acbcd4de1bf1dcb77c0d04a8469e810e
-SHA256: c628e6f8c2625d19bac3a2450f8bd8ec030fe7310dbd5dc91e78b0e9753d5810
-SHA512: 9d50baf0dcf46ba1996b0eb434ff9ac258f0c4ac261f03ab22f544af6093e2c1e6a62101a832c534649e93f38587d3b01a5edb48dcb256cdc041eaa4340633d5
-Description: Control your BlueTooth & WiFi .
-Name: AutoTooth
-Author: Tr1fecta
-
 Package: com.kernelrw.axon
 Architecture: iphoneos-arm64e
 Version: 1.5
@@ -10924,12 +10908,13 @@ Maintainer: Tr1fecta
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.tr1fecta.autotooth_1.0_iphoneos-arm64e.deb
-Size: 14740
-MD5sum: 868720af4b4faa039debda0332b03bc8
-SHA1: 1cb158f43f1b0e43325476101d9f0edbb82f69b7
-SHA256: f81c42464916ec8af820191ab4119db9afea660c814871c4c61e058c9aa78430
-SHA512: 63dfd65ef0015b056c5d346ac333d8d06fe5c5ecb8d896357bbee59962ab0e7014015fe4ceb134d1e1d1e3bd94d913804b89d95d52998056682dc7b6a02f1c47
+Size: 12964
+MD5sum: 480f7d8312b0606241d5d6663a8e0a58
+SHA1: d0bdd27bf4bd1940106e33100646820cdf6894eb
+SHA256: ef3e8d240a2c0c580e85b1f64375649716971475970c595765abef4c4e43f46b
+SHA512: bc615462bdc47fcd0ac5180ef9ba59d79e53403146a8bca3eb58624997740a50446b2e57c9d56d51ce984b2d330b97e6512538bfcda09a22a02b604b66753cdf
 Description: Control your BlueTooth & WiFi .
+Tag: cydia::commercial
 Name: AutoTooth
 Author: Tr1fecta
 Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
@@ -18015,12 +18000,13 @@ Section: Tweaks
 Maintainer: Tr1fecta
 Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.tr1fecta.autotooth_1.0_iphoneos-arm64.deb
-Size: 11996
-MD5sum: dec66c52c3c5cd4923c433db252be0b5
-SHA1: 0122fd25eb806f486f9ce7756998a00bf4783eb3
-SHA256: 40992e2e1ce628dd2479aca32807b1b66d2e1d9c2550368c497e4929cd6e780c
-SHA512: 7819b36d21e3477d736bebface6250d3164bc204d26f3949e2fc1df9b3c21f775751c1d98a2698c0b7cd49b95c8e25a8b5c100a23ab986ffd34b032d01f5dcb3
+Size: 12016
+MD5sum: 9e76c7a995e2b9652611de877f008d66
+SHA1: b92af8c5d155b0a2bf425cb42f5b5d7e14c4bce5
+SHA256: 2f198a38b5b956a97794b30eda7fe0d15ba65fcbdd570b9c6027c993cf5387b0
+SHA512: fee0e71a7a1ae04f26f34e211131dd162c2f4992a2ca0584dea690279e5f6a14c9af012e5883a68404d95c02e6549223c3496fad991d2208fd0983255db32426
 Description: Control your BlueTooth & WiFi .
+Tag: cydia::commercial
 Name: AutoTooth
 Author: Tr1fecta
 Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
