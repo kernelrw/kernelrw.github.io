@@ -2401,12 +2401,13 @@ Maintainer: ifilipis
 Installed-Size: 112
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.ifilipis.fckzck_1.0-1+debug_iphoneos-arm.deb
-Size: 11000
-MD5sum: 3e8b72a625e35117aca1fd26cccc21f7
-SHA1: 8b81427d4192d9e53ef17cb4e098174fb83e38aa
-SHA256: 5fe9303d81b5a707d922845bffaa6a892fa44e73b45039b29ff482b6af4f3ed8
-SHA512: c80e060a03083a7cad718bcaf9ce15a35c88f020edcc23ec9c7c8f98eed54454e9ced9900d5ae7ee7159c900326efc14f3cecb78028fc756bf0e8676f8ae92eb
+Size: 10664
+MD5sum: 6056cd4c4119c6b94cf802c78ea77c3d
+SHA1: 30338abdb3d88c68c10327b399cc8f3c30ef4baa
+SHA256: f70329383554a785f031fd343502635357ca5bdbf87f92bae06459df39e18cc3
+SHA512: 39aefed9b61911de6ce6ce77cada3aea070ed45d910051493ae94034f59326585d2d6e988e6bc55298aa176c62ac96ac644a15e4d89cdf66b3e9064e1c107ae2
 Description: A tweak that kills forced updates from WhatsApp completely
+Tag: cydia::commercial
 Name: FckZck
 Author: ifilipis
 
@@ -2418,12 +2419,13 @@ Maintainer: ifilipis
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.ifilipis.fckzck_1.0-2+debug_iphoneos-arm.deb
-Size: 7822
-MD5sum: a1de5c7f30a06dd029a663171e4c1a5d
-SHA1: 27aa5ae4dd529e5ee53f5e4426c5f35136e1ddc1
-SHA256: c13e207d1de2b74a6258401abcd63afc63f1681d2925fc67abf07cd3db41bcf6
-SHA512: c3de4855da072003f1f4f2d637ad1bf03b008a6be22f16b402349ce9340d917310b9220f97d6d8aae53cbffeb329984d55f9ce31ded1d07a9af7316f1300e339
+Size: 7608
+MD5sum: 51b4e7745fd615b5bad52a2a5fb07346
+SHA1: 7ac5133acf9f74eaffdf8e8de10f3e998f2235e7
+SHA256: 1f94f65ad7dd94ba8d2fbbfbfa994f16adc8fa2cd8bd8a7ca6bea50af1a309d5
+SHA512: 240c5729919e25ed6a2571897f59cf77132558e071e2ea1b6535398cc865c08f7c6373a7e87487dd77f5ff942bcd6e56ff56dd5931c43fd984cfc3f1ad578f68
 Description: A tweak that kills forced updates from WhatsApp completely
+Tag: cydia::commercial
 Name: FckZck
 Author: ifilipis
 
@@ -2523,13 +2525,14 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Rootful/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm.deb
-Size: 155824
-MD5sum: 5f46d7383f852fda779aec5911bc70d1
-SHA1: b039a81e95a505bb90ea9f0535f49ef5748b6363
-SHA256: cd7c53972d4fa9688dacc45fde603763111db554aeb3e18c3aad96c208e5d663
-SHA512: 21abe34403dc11b000e9c846940169d4cedd1fc7b2e62264098ce366ab344e27ebec269514e892ae72d06e76d9360d7f44a577f209c417b8d07db6a154cd1001
+Size: 82184
+MD5sum: 4d3a3b7494954235101b9147a7b3199f
+SHA1: aab31562958df52b7b64a407ca9633931724cbe0
+SHA256: b5ba2d61dca52800306b4deb84bf6d0fd78d8c83ef5c6c94b3919ebcdcebd812
+SHA512: 3ae08beae79a681fa3e562e05388fb9ded0293e998131a0491e3485fdf1c4b68e0e16f09d97038471242bfa754e0766579a48ca0428a56764cf7ae81149241a7
 Homepage: http://twitter.com/ijulioverne
 Description: Better WiFi Preferences
+Tag: cydia::commercial
 Name: GoodWiFi
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
@@ -7853,13 +7856,14 @@ Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Roothide/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e.deb
-Size: 52402
-MD5sum: 3bd6f32a238e6bb52436afd860315175
-SHA1: b9cace1244e31e3c67100588bc3c08092d969356
-SHA256: da4f70fddb40d7734454c0c4b3b84144808610f8188c91c8da0008cc7a8f3006
-SHA512: a6070a28696c2277f0979e50d25504e25329cce7c0a5ca444b5fc40edb97f2a17cfb267f75cfa0e61d4b8a95d953f755d454de1082140c618a5e2becf69cab0e
+Size: 42660
+MD5sum: 35d0fc47c6fe726122d15305a92d1557
+SHA1: 3ac18c4fc9f17c06f70ea7832506c642a2d5a70f
+SHA256: e29efd5f086bda1dcba3fa01263bef2699058e9f38fd8ccb8a264367fb63f0f6
+SHA512: 4d1d6b067da4d7210b7ebdab6ce4f94327161ff094491c394862ca26fc20a871cd97c12a1709c9f11a1b0c78a0bbddee54b675dfa8b0fd1a3bbea556b8cea31e
 Homepage: https://twitter.com/ijulioverne
 Description: Better WiFi Preferences
+Tag: cydia::commercial
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
@@ -15307,12 +15311,13 @@ Maintainer: ifilipis
 Installed-Size: 108
 Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootless/com.ifilipis.fckzck_1.0-2+debug_iphoneos-arm64.deb
-Size: 8252
-MD5sum: 386ae8f636d85e1e1a1028bfbf2d4369
-SHA1: 6c3def597d11735426a3e10071d6bd5d4d1efc55
-SHA256: 622510420da7dad630fea71dcc669262bf43c3ffbb33959edefeede6d50dcc05
-SHA512: 04aad954ff8213ff87239020713b02f27672303ea1af4b4bfbad270e7590cb972ed791ea4cc353f88fe1d028cfac56ac2e0d27be528916e77b8226983a176866
+Size: 8272
+MD5sum: 2eb3ecd50d2b53999613b750bb99436c
+SHA1: 9887405c645d02822fae4906647046cad3612aa5
+SHA256: 3502e96ea7f700a4d44e7e0e27323a46da9df5c4a6ef83ae77ae8cc6cde5ecb5
+SHA512: 5eb494e45cb36ae719d692ef4f2b993ea55dc7826d5a49817b0564a130d14f5abcc3bb2886bd6ce0af23530f6c4e23d0d45517f74a626c218110738797aa6faf
 Description: A tweak that kills forced updates from WhatsApp completely
+Tag: cydia::commercial
 Name: FckZck
 Author: ifilipis
 
