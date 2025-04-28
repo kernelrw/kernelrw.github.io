@@ -4930,6 +4930,23 @@ Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
 
+Package: jp.uzra.zebranorespring
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Depends: mobilesubstrate, xyz.willy.zebra
+Filename: ./debians/Rootful/jp.uzra.zebranorespring_1.0_iphoneos-arm.deb
+Size: 2816
+MD5sum: 2bf584668b31fcb692314eb5e422357e
+SHA1: aae6640b9d8c77149cef1591367bedff4e68be3d
+SHA256: a8a7ff4a7d07e8d7d83a2df4cce82ff2a2cb330f76acec52efee23899e8ee450
+SHA512: 680638ec7b74cf64ce3c985f73c2839cd4cd2952c00f285e5d86ec87d66e8d7051953384137c80ed2e12353d1a4acb78e9cd38103f2900820ff7e926e5bc6178
+Description: Prevent Zebra respring after installing
+Name: ZebraNoRespring
+Author: uz.ra
+
 Package: lol.sep.turdusmerula
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -5114,6 +5131,29 @@ Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
 SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+
+Package: me.tale.panic
+Architecture: iphoneos-arm
+Version: 1.1.2
+Built-Using: Tale APT/2.0 (Aphrodite)
+Section: Tweaks
+Maintainer: Aarnav Tale <aarnav@tale.me>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Conflicts: me.renai.panic
+Filename: ./debians/Rootful/me.tale.panic_1.1.2_iphoneos-arm.deb
+Size: 134364
+MD5sum: a539c7bb5a0299962067263bfa472546
+SHA1: 985aee55ed1b078aade2361c656fb779e3cf262b
+SHA256: 36eb0c9dec191e5e37c22eab5fe27daea5d7e2640da0918b636b256d199ec077
+SHA512: 11c12735b1922e9e586168148e2ecdb61d701f524863592529e8ee2599b901e3963765c7752cc40e6b973918af8388ecb161260b0a7c17389b26779d604a67b6
+Description: Stop! Don't panic, you can still fix this...
+Name: Panic!
+Depiction: https://apt.tale.me/me.tale.panic
+SileoDepiction: https://apt.tale.me/me.tale.panic.json
+Native-Depiction: https://apt.tale.me/me.tale.panic.json
+Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
+Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
+Author: Aarnav Tale <aarnav@tale.me>
 
 Package: net.myxxdev.mybloxx14
 Architecture: iphoneos-arm
@@ -6345,24 +6385,6 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 Depiction: https://chariz.com/get/veza
-
-Package: com.atwiiks.betterccxi
-Architecture: iphoneos-arm64e
-Version: 1.6.0
-Section: Tweaks
-Maintainer: ATWiiks
-Installed-Size: 640
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/Roothide/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64e.deb
-Size: 84220
-MD5sum: 3aa0eadacd7813047242d5f9d1abecb3
-SHA1: b8c3749e3cbef321824b1759f78f053072d245e9
-SHA256: 9760cf39f5511ab62e2fb00e42e122da94c8436bef9a74a2e043b29d85fc19c4
-SHA512: 516814257c11fadcca72ed72d120ea3fd0626c2416039b69f3d8caadbbbcb421eacdebc5c8065cd7bb693a5e2d002f1b81f5a1f78fedd5636c23732b8db0f4b7
-Description: Enhance your control center on iOS 11 and iOS 12
-Name: BetterCCXI
-Author: ATWiiks
 
 Package: com.atwiiks.betterccxii
 Architecture: iphoneos-arm64e
@@ -7781,24 +7803,6 @@ Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodw
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi
 
-Package: com.kernelrw.a-font
-Architecture: iphoneos-arm64e
-Version: 1.10.1
-Section: Tweaks
-Maintainer: Baw Appie <pp121324@gmail.com>
-Installed-Size: 2476
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/Roothide/com.kernelrw.a-font_1.10.1_iphoneos-arm64e.deb
-Size: 495324
-MD5sum: c37339f8b8555412ecf32877bdce726e
-SHA1: 2d0af972768b243a73b621105367edaef2dafac9
-SHA256: 462c90dbe8def9bdbc47e524cff6af674985ba2c19a978be4c4423f873c6e03e
-SHA512: 4f173a9a8320764e92a7baabe20a25ed179718defb47b06c203ecf31da9e3bd06858a638dfb6ea92445a8b395ad4c259d4bca0e102c8f2c5e96fbfe695beec0c
-Description: Change your font easily . Supports iOS12~iOS16.7.7 !
-Name: A-Font
-Author: Baw Appie <pp121324@gmail.com>
-
 Package: com.kernelrw.autotooth
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -9000,14 +9004,14 @@ Version: 0.0.1
 Section: Tweaks
 Maintainer: noone
 Installed-Size: 88
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Roothide/com.nolimit.telegram_0.0.1_iphoneos-arm64e.deb
-Size: 3752
-MD5sum: 4ecd2a8e04af9d24f4ca414f58699de4
-SHA1: 0c6e6f841efc4a1228b91943eac01d231bf0b49a
-SHA256: cae01e0f519c00484cb30619083825ef6c19d7a1414e7f0bc62296ea184ea75c
-SHA512: 55a450262239c1a6e45b7f1910d3296e64152fad3db92024f143a7d4bdf08a49e98b998ac48f624e8f3bd35e2b06baedcf0ce5bfb36f9ab6abb67bac7e9e00a1
+Size: 3656
+MD5sum: 3896cda6ec7b9294b3237f3aca853317
+SHA1: 1e4e9a41135b2592c34eb9208daa948350328853
+SHA256: 547a419cebc126b8d664dbc715c22b479dd775ecfc545800ad0e4587da7c64eb
+SHA512: 9ea2bb786d6cb9c725d112f21b6dac8817483d413c56f78648b78f68f6c2a5b8d5d5da15e33848db05688845101c29f7d51911365aaaf5c40ebf0d397f84b8f4
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
@@ -10017,6 +10021,24 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.rpgfarm.a-font
+Architecture: iphoneos-arm64e
+Version: 1.10.1
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.rpgfarm.a-font_1.10.1_iphoneos-arm64e.deb
+Size: 1334450
+MD5sum: a22d1e39c3ca97852d441a9c4130dfd4
+SHA1: cae9cf5a2ebe609ec584e2363c69149e16ccf50a
+SHA256: d24ef0fa7848618f523a41af9c29af88499b06ac8ebade4a14847fa5c191a29b
+SHA512: 4149d29887459b9759fc56229b8ed620c9d374e1f7acbb093bbfad98523efaf44a4c8ef9e08a1f34fe2a67fd464498f9b8bd6919e2b10335fd89dde8451d5bab
+Description: Change your font!
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+
 Package: com.rullinoiz.ipa2deb
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -10802,6 +10824,24 @@ Description: Allows Wifi to stay connected when the device is locked , Supports 
 Name: Persistent WiFi
 Author: Tony Kraft <iostonykraft@gmail.com>
 
+Package: com.tr1fecta.autotooth
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Tr1fecta
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.tr1fecta.autotooth_1.0_iphoneos-arm64e.deb
+Size: 14740
+MD5sum: 868720af4b4faa039debda0332b03bc8
+SHA1: 1cb158f43f1b0e43325476101d9f0edbb82f69b7
+SHA256: f81c42464916ec8af820191ab4119db9afea660c814871c4c61e058c9aa78430
+SHA512: 63dfd65ef0015b056c5d346ac333d8d06fe5c5ecb8d896357bbee59962ab0e7014015fe4ceb134d1e1d1e3bd94d913804b89d95d52998056682dc7b6a02f1c47
+Description: Control your BlueTooth & WiFi .
+Name: AutoTooth
+Author: Tr1fecta
+Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
+
 Package: com.udevs.debhoarder
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -11190,26 +11230,6 @@ SileoDepiction: https://paisseon.github.io/depictions/Erika.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
 Icon: https://paisseon.github.io/icons/Erika.png
 
-Package: emt.paisseon.xinamine
-Architecture: iphoneos-arm64e
-Version: 0.0.5-1
-Section: System
-Maintainer: Sudo + Paisseon
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: ellekit, oldabi
-Filename: ./debians/Roothide/emt.paisseon.xinamine_0.0.5-1_iphoneos-arm64e.deb
-Size: 71848
-MD5sum: 4236f767c681425c72499a4abd57df65
-SHA1: aac51b62b1afed5c0e4e0ed7be31b56f93b15db6
-SHA256: cad3ab995901b521c528a4b27d6263acc54e0c3d7f4ebbac6bc2638acd1d04aa
-SHA512: 334ccc7e5522ca829ed4979450cfe48e2420260a6a1f012ced89b42fad1a2fb9f6e0cc6dd21a9104a534ea60e916324c97041c9c9b7717025b1057299b89df7e
-Description: Add Xina tweak compatibility to Dopamine
-Name: Xinamine
-Author: Sudo + Paisseon
-SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
-
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -11229,20 +11249,20 @@ Description: The better and highly customizable volume hud. For iOS 13.
 Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
 
-Package: ios.kernelrw.ccwifijoin
+Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Maintainer: nqt1195
 Installed-Size: 136
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debians/Roothide/ios.kernelrw.ccwifijoin_1.0_iphoneos-arm64e.deb
-Size: 9760
-MD5sum: 3588581ce891ef12690772c6f3b609ab
-SHA1: 8c39efde38678f99b05c4276cba77f10e1e52fd9
-SHA256: 181a536ba81aeabe333e6c01993bcd6a180a2aa3b3ccc2f04dd926a57e6f946c
-SHA512: 8c5682c97b54246e9f861f8a5d8b82f7a29320696959c39c991ab3924e39a578745f836c8cf76b096a7bac1d4f2739b71aba1c9015c966dd85491e7094d42aca
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm64e.deb
+Size: 11764
+MD5sum: 815b2c68b30cd5add3fff242f1d8a8e1
+SHA1: d94fcabcac18b05b560937bbfd607ac485d7d76d
+SHA256: d6c48617d7fb670742525e11d8cedbd64c869d9bb3f293fd83d916c30011fd76
+SHA512: 56fb05c1093fc8d58ebf326ad2c1eb3d93f4a24b370a1cffd2cf5df30b2f2ffad66c0830dfac91e9a236ac5b63cf5dba56de9f99a0aafefbe667b2ece4682a94
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
 Name: CCWiFiJoin
 Author: nqt1195
@@ -11323,6 +11343,24 @@ Description: Mute notification sound while playing music
 Name: MutePlay
 Author: uz.ra
 Icon: https://uz-ra.github.io/icons/MutePlay.png
+
+Package: jp.uzra.zebranorespring
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, xyz.willy.zebra
+Filename: ./debians/Roothide/jp.uzra.zebranorespring_1.0_iphoneos-arm64e.deb
+Size: 4152
+MD5sum: 21fd599b00a3a6fe03e12dfd02a555fe
+SHA1: 0f669c282bf7d5bf1574f52bd1fe26e9ff64e721
+SHA256: fdc91526081059e668e9300f56f5d859ca5ebd966be60a1dadf3ed8325e241cc
+SHA512: 36f6bbfe01fdf10e00b7d7efb67d5ed01f5f0f5cea4b822ea0e6268899b3e6f03bd0c310868e963ceb66a5a7eb68ae287efa512d56bba8943f18b0adeb3e7418
+Description: Prevent Zebra respring after installing
+Name: ZebraNoRespring
+Author: uz.ra
 
 Package: lilliana.apphider
 Architecture: iphoneos-arm64e
@@ -11580,6 +11618,30 @@ Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
 SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+
+Package: me.tale.panic
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Built-Using: Tale APT/2.0 (Aphrodite)
+Section: Tweaks
+Maintainer: Aarnav Tale <aarnav@tale.me>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Conflicts: me.renai.panic
+Filename: ./debians/Roothide/me.tale.panic_1.1.2_iphoneos-arm64e.deb
+Size: 141578
+MD5sum: 6b378a720a36046664bf599f4461c74e
+SHA1: 3f3c009981384c499b9b0fec6390f9998974e84e
+SHA256: f6e24626423bbe679b8e75e9b202f180ab70bba3f11a20ba6f77f46e603cef78
+SHA512: 4cb1a901fad89bd93370012a0099ee165ab61c720bfe164b972f7c61896935e3a199fba0bd80d5aeeb09f8dfd3efe16d1bba58a0fcf25d9f0e6db43809533c34
+Description: Stop! Don't panic, you can still fix this...
+Name: Panic!
+Depiction: https://apt.tale.me/me.tale.panic
+SileoDepiction: https://apt.tale.me/me.tale.panic.json
+Native-Depiction: https://apt.tale.me/me.tale.panic.json
+Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
+Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
+Author: Aarnav Tale <aarnav@tale.me>
 
 Package: net.kernelrw.simpleactivationactions-rootless
 Architecture: iphoneos-arm64e
@@ -12102,27 +12164,6 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Depiction: https://chariz.com/get/newterm-beta
 Support: https://hashbang.productions/support/
-
-Package: xinamine
-Architecture: iphoneos-arm64e
-Version: 1.0.6
-Section: System
-Maintainer: SingleKeycap
-Provides: emt.paisseon.xinamine (= 1.0.6)
-Pre-Depends: rootless-compat(>= 0.9)
-Conflicts: emt.paisseon.xinamine, xyz.cypwn.xinam1ne
-Replaces: emt.paisseon.xinamine, xyz.cypwn.xinam1ne
-Filename: ./debians/Roothide/xinamine_1.0.6_iphoneos-arm64e.deb
-Size: 1356
-MD5sum: dd637618a857e0cb0dd8b69b4afc401d
-SHA1: ad7f0098bdccbfdce4d33b91d66aa957ad26c54d
-SHA256: f5ae715668431de49b0f44178568fd918b2f4d7bf3e05c23e181eafad053ae90
-SHA512: ad64bd58571026a194cde9dd9d043e3978add536b487632a14ad9a42c40c26324f39c404db937f6700b43e712388c73122292fa133d6797fa57e30105585232c
-Description: Dummy package for Xinam1ne. Allows Xinamine patched tweaks to install.
-Name: Xinamine
-Author: SingleKeycap
-SileoDepiction: https://repo.keycap.one/depictions/xinamine.json
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://repo.keycap.one/depictions/Xinamine.json&name=Xinamine&dev=SingleKeycap
 
 Package: xyz.cypwn.speedtestvpn
 Architecture: iphoneos-arm64e
@@ -16595,13 +16636,13 @@ Version: 0.0.1
 Section: Tweaks
 Maintainer: noone
 Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootless/com.nolimit.telegram_0.0.1_iphoneos-arm64.deb
-Size: 2956
-MD5sum: 0ab7d185938a553e4c31a79d397ddfbd
-SHA1: 38fa41cb0a7fe1c838de167d7e51a2311eb3818c
-SHA256: 7450e9c0d788f0240ac84053062a204612676632f16c1bc97398b0ac694c7b62
-SHA512: 94c8c169a8b9d9a1babb7e1b1417a0311897c4b314909f9c87316f6793804295fe91fb2b8104e1f3eabe34fbb5775c2f34eeb7db1e140313a704b8099a8ff119
+Size: 3068
+MD5sum: 7dd58802c50c93cf402eddb79815fd76
+SHA1: bdf0f5e5575bf8ce74210320f1b58dc035754313
+SHA256: a759001e74c46026c42414648b3d0d823da262e6239dc01ab3351938adb7e7fb
+SHA512: 60a727e4dd902a89a7c2c79f1253ad59c4b38e245371f3a1c0a47c8607a7e48cee842e85823e51a0f2229bc3da81044bfab6b6514e3543372b30384bd58785c4
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
@@ -17905,13 +17946,13 @@ Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: Tr1fecta
-Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.tr1fecta.autotooth_1.0_iphoneos-arm64.deb
-Size: 12108
-MD5sum: 16a7189ae1a6dc001f739233b31d2d7b
-SHA1: 173588243a36423eaa34b45fbdeba1d1bd6e4b89
-SHA256: cad20f0d1390909d07ff21af9f6f788dada989153b726a84e43c523ed8cbff29
-SHA512: f54d23420642dbd56920ef0fa14b716447a80d132d572abd4fdaf81045b0f170203179ac3abfc681864581c022338398c384a75211e595a0c4ab4bc09f784ef9
+Size: 11996
+MD5sum: dec66c52c3c5cd4923c433db252be0b5
+SHA1: 0122fd25eb806f486f9ce7756998a00bf4783eb3
+SHA256: 40992e2e1ce628dd2479aca32807b1b66d2e1d9c2550368c497e4929cd6e780c
+SHA512: 7819b36d21e3477d736bebface6250d3164bc204d26f3949e2fc1df9b3c21f775751c1d98a2698c0b7cd49b95c8e25a8b5c100a23ab986ffd34b032d01f5dcb3
 Description: Control your BlueTooth & WiFi .
 Name: AutoTooth
 Author: Tr1fecta
@@ -18711,13 +18752,13 @@ Version: 1.0
 Section: Tweaks
 Maintainer: nqt1195
 Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm64.deb
-Size: 8856
-MD5sum: 446bd258375f6b3ed88ab94cf922e1a0
-SHA1: 3ef90e4ae0c6b527805b862964e90afd455ce3ef
-SHA256: 9ff28d755c98e9c67b3157f0b7dc8eee5e315eff388d7c36120c3e8b726b5033
-SHA512: 71a308a23c62a0ff736520785ae644a624e0e8d1d813c47b91128a754ce41d96ae48d2b1de50737961c702b2b90836ded72a27ac1138c202ab2345b53dc697e6
+Size: 9016
+MD5sum: 04a1baacf66d17b723a11603d871f9d6
+SHA1: 662d8ef8349f979edb419f213861438cc4067b2d
+SHA256: decc01d5b7fae58298d353c01e1cbd5bba621a2af2a7248a4bc53bc9c72b609e
+SHA512: fb0e960eb5f052eeeaab6bd641485641411c655efa4932d48dcd7f6c165a38bcc35e2deeafcb566c3b7074fb5b046a55d6eacd9a20abd6a3c8f5378d6ba6d7d7
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
 Name: CCWiFiJoin
 Author: nqt1195
@@ -18739,6 +18780,23 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
+
+Package: jp.uzra.zebranorespring
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Depends: mobilesubstrate, xyz.willy.zebra
+Filename: ./debians/Rootless/jp.uzra.zebranorespring_1.0_iphoneos-arm64.deb
+Size: 2912
+MD5sum: 0df89638563a0dff2a566c8b6b3a2c94
+SHA1: ddfec1b06acaa4f3633d22b6f171aa25b3317ba4
+SHA256: 461d2107cd9885eb7047c785cb8251cffb14d9dadde69373a85c050be01950e0
+SHA512: d72745f06aa03b732cab28f0db62f17aab313863511ca15c4870a15b789bf6ee4177faf91e547769159357058a6e7d6203e291e2b55ed697e3f2a758aea8a3d6
+Description: Prevent Zebra respring after installing
+Name: ZebraNoRespring
+Author: uz.ra
 
 Package: lol.sep.turdusmerula
 Architecture: iphoneos-arm64
@@ -18945,6 +19003,29 @@ Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
 SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+
+Package: me.tale.panic
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Built-Using: Tale APT/2.0 (Aphrodite)
+Section: Tweaks
+Maintainer: Aarnav Tale <aarnav@tale.me>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Conflicts: me.renai.panic
+Filename: ./debians/Rootless/me.tale.panic_1.1.2_iphoneos-arm64.deb
+Size: 133672
+MD5sum: 9ade427bf11654782c3147f3e1bab518
+SHA1: 123ff847094ff6fea68f12e0a950f770bb969c9a
+SHA256: f71656b7a02956ea3a7b2a07eff21f786d63fa33dcf26b2853f9ad8fd53e4ff5
+SHA512: fcf384264b252fb595bd6a3751e3fc539b3a51c9cab23ab99e3b0346bb8c2e5bb4d0c45ca8ee9724c5b36ba4e5332c3ee37b8e4306ea355fafa77eaa111aec8b
+Description: Stop! Don't panic, you can still fix this...
+Name: Panic!
+Depiction: https://apt.tale.me/me.tale.panic
+SileoDepiction: https://apt.tale.me/me.tale.panic.json
+Native-Depiction: https://apt.tale.me/me.tale.panic.json
+Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
+Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
+Author: Aarnav Tale <aarnav@tale.me>
 
 Package: net.limneos.audiorecorderxs-rootless
 Architecture: iphoneos-arm64
