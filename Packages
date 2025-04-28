@@ -733,12 +733,13 @@ Section: Tweaks
 Maintainer: Brandon Plank
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
 Filename: ./debians/Rootful/com.brandonplank.haptic17_0.8_iphoneos-arm.deb
-Size: 12380
-MD5sum: c2b29048c5be5985c2d911f7dd5c02cd
-SHA1: 6cf656e4b4061f7f899fc6ec3d90e5555ec09d9f
-SHA256: a89f293c815bb68c1faeb104b0630d36c66fdaed9c12308e7434527cd2431e02
-SHA512: a34c0985bc7294a9795de81204836c4d97bcd604dbd52277473edd4c02cb4ef959871564bd8c7154b599fda9f7ca3a1345c1a0d8f6315ffcc9e84ff1daa78516
+Size: 12408
+MD5sum: cfb58ca81d99715aac781ff6a7e1a581
+SHA1: f32e534d9138422f03540a2d3675407c1888ec0f
+SHA256: 5820b265277c3a4a82890e9f6194c7447d6af98eed6b22357bc75fe3dbfeb220
+SHA512: 02f28927894ea9f234a2c14c3ab732a8cf2f7624092d42d15de9bbc56086e9563eab2c5c5dfd01875299c614cd6ad97658b66c6bc1734f6144364d4d31a61e12
 Description: Puts haptics in places apple should have!
+Tag: cydia::commercial
 Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
@@ -750,12 +751,13 @@ Section: Tweaks
 Maintainer: Castyte
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.castyte.iamchinese_1.0.0_iphoneos-arm.deb
-Size: 3536
-MD5sum: 8d5906224c3f191529849a9d0074f1dc
-SHA1: 47922f284dbe3909a05ae968845110f7723858bc
-SHA256: a887815acbfc839de1d1e3d37c5c16455c85d97a083e03ed8ef79602f27c885c
-SHA512: c4c6baa60bd7f905cf87ccec4a59c1d8603d06fdee7b5f56aac102c268d6a758c817bd5db2f597425cb4879dd55c212e86724afb43b033716358eb03e246cde8
+Size: 3540
+MD5sum: ca1aa65846c231be2ba8cb2d3a838c36
+SHA1: 6cb9fb2691866eb92b30182c92588ee55e97461e
+SHA256: 0a13803219c936b5611f0b8251ffed700497822b494674e7c7b1f05652508714
+SHA512: 2b54b3ec7dfdc887646d534562b6caec21aa1cb9e8321838e55e7583cf3e848dd361f12f2bc1f29fc621bdadbc3edb76832d1bfc56a9dd27e5b2f043030ba1fd
 Description: Enables options to disable wifi in apps usually only available in China.
+Tag: cydia::commercial
 Name: I Am Chinese
 Author: Castyte
 
@@ -2588,66 +2590,20 @@ Icon: file:///var/jb/Library/Themes/Cartoon Color.theme/Bundles/com.apple.Teleph
 
 Package: com.kernelrw.deepclear
 Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.kernelrw.deepclear_1.0.1_iphoneos-arm.deb
-Size: 4456
-MD5sum: 802624a145aa8ff74b7c98a7e0cc6c69
-SHA1: c8745e5172b67ce339c75c5e00efe59efe874bf1
-SHA256: c145b91f0ad0dfe4101782bff0b170dbf7630426a467f622a89c0b76dc9e9ee6
-SHA512: 6922496c7d72a795f98b467122f57afbc29107240e1a8f80f6880b8a450ad552e2f76196c3ebafc8b3c8c59fdff416a81559478e135d85b7086c0d739f49305e
-Description: Test Package , Do Not Install .
-Name: Deep Clear
-Author: Kernelrw
-
-Package: com.kernelrw.deepclear
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.kernelrw.deepclear_1.0.2_iphoneos-arm.deb
-Size: 1582452
-MD5sum: 8074d9a7391297422a559158890d5d4f
-SHA1: 03c6fb9bfb582e2cc0da009e21ecce6e6cb856ca
-SHA256: 8f6b3423978a048fdc7d6dbc1fbad95e6d651af826f9c52a8c5e899339104a71
-SHA512: 505f756bb6e99d9282cd0b73bd25a96d9724b0ab5f52dce0426988bfc08949e8c58088b17f0e127da09b0dd5fb828079903a0e3cc44992fdcd4e6eadc0edd9be
-Description: Test Package , Do Not Install .
-Name: Deep Clear
-Author: Kernelrw
-
-Package: com.kernelrw.deepclear
-Architecture: iphoneos-arm
 Version: 1.0.3
 Section: Tweaks
 Maintainer: Kernelrw
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.kernelrw.deepclear_1.0.3_iphoneos-arm.deb
-Size: 1590332
-MD5sum: a8ad6c56c2d0e5b8207ce8cd9df4afcd
-SHA1: 5f0bdbda0b324a88a91cd39aba4a6e9c8bc9f9dd
-SHA256: d1e65a068dbe75404f106ca91fdf646f21376037dc01e65a7b60875127bd34df
-SHA512: 434c840d583308118fd138ec07f76d9af3eea02314ab01e7475f4daa7a334117d4bababb34d9fec59c3c3d41a2b66028ed092c666c492a962e79c4fb75ba0ba2
+Size: 1594284
+MD5sum: 01656f4cb5290d24f0f34b88aee254d4
+SHA1: a4681b0a9746b99f87b31a7f1fed0f28bc0ac36d
+SHA256: e813cb4957a4bacd8846c246b709f1f90421c499e480442d783d380d8b04d1ba
+SHA512: ea08e09e285363beffe8b15de6a53a8d795965194007f8670ffd29c1c5098eb41765549c0f471f42af85a38269cf6775161ad8e5aca51e3e38427c48ce939477
 Description: Test Package , Do Not Install .
+Tag: cydia::commercial
 Name: Deep Clear
 Author: Kernelrw
-
-Package: com.kernelrw.hapticwake
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: iDebCreator
-Filename: ./debians/Rootful/com.kernelrw.hapticwake_1.1_iphoneos-arm.deb
-Size: 4656
-MD5sum: 065d928df4e537c8de8b87d02963953f
-SHA1: df3bf58b9a06774c97d53f8e37d81a146226f3c8
-SHA256: 69ac1c4fbc356de5f83680c1cee7fa7b3bba831361bcdaba62fbcc0334bf55b0
-SHA512: 07ca9f8d44f96d39f14ed568665eb7ef651956c417d0ea9dbddd652e19727c0375360810bb06d35429c5e49a83d7f4ab6ff9fcf89b27db0102e124f21a947c04
-Description: Play Haptic On Device Wake . Supports iOS11 - 16.7.10 , Rootless support too .
-Name: Haptic Wake
-Author: iDebCreator
 
 Package: com.kernelrw.iamchinese
 Architecture: iphoneos-arm
@@ -6471,12 +6427,13 @@ Maintainer: Brandon Plank
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8) , cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.brandonplank.haptic17_0.8_iphoneos-arm64e.deb
-Size: 17390
-MD5sum: 887cbe4a8b8c6184250c456dfa0f2ab6
-SHA1: dcedf86c53bcc334369e43bb2ccccc3cec291886
-SHA256: 711b0eee4402acde374c34e10b3b2ab8a71352ee3c78b66d0c48d74caccc2e02
-SHA512: 635c8c2593935dc0932a6d4061dcf90d5b2438e74cc6cb51b4c61613cb286bccfa90bd7710fd1b890d8775e2267214629a7bd34d7de42de145d98a2492f5d604
+Size: 14432
+MD5sum: 2bf2b3cdb317b88bab8cdcd06be4b156
+SHA1: 12bab10b0270fbc7b572c54fb58567d343ed71c7
+SHA256: c8d21cd79d611b89e5df8411a99ea429c633607cd430b12f4c868a46d1823935
+SHA512: 349f6a85ef8368b6bdacf06e46cc7ce5719af3ed0a6fc862cc06fb64dcd62421a19e0e6bda4f35c076cad97138598e148d50f75d079868a1a79004804f4a63d0
 Description: Puts haptics in places apple should have!
+Tag: cydia::commercial
 Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
@@ -6947,12 +6904,13 @@ Maintainer: Devvix
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/com.devvix.nocshare_1.1.4_iphoneos-arm64e.deb
-Size: 7552
-MD5sum: a0fa0109b7928c0f0a75933ced38f20c
-SHA1: 9c4b75cc74295108c6b9369c7850237c238fb8ee
-SHA256: ad1f4f61f5247afbbfe877182bfa8ecb3b28e6abe78a93512febd982d12f753c
-SHA512: 0eddb9c78443aff9a6db9a20e4648ede31bd382481ce1b45a74149f9a00693940165f77d230903fd0a84c761d8807e76137ece9b33c32f5bc311086be5fa8b69
+Size: 7592
+MD5sum: f4a2ec302d50ea4f99f017be315d1ea9
+SHA1: b4b3d58fb225ee76f12d427fc42a69395f82332c
+SHA256: 5954e3d867d5e0d0daf3df4bf6ed48dbea6b2676c043f1a873ed8cc44c7e803a
+SHA512: b6eee651614d7ea07f84aa9fa10cda2b88cd0af9b9420137db8718d00f1089e5c049a4490db786c18f04fc7182c02dea2a796de88a485c5e330d5b0064bb1394
 Description: Hide contacts from the share menu .
+Tag: cydia::commercial
 Name: NoCShare
 Author: Devvix
 
@@ -13044,14 +13002,14 @@ Installed-Size: 443
 Depends: firmware (>= 11.0), firmware (<< 17.0.1), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg.batterypercent12, com.dpkg.arkrome, ca.ndoizo.perxent, com.asterix.modernbatteryx, com.asterix.digitalbattery13, com.laughingquoll.cowbell, com.peterdev.half
 Filename: ./debians/Rootless/com.asterix.digitalnotchedbattery_1.2.0_iphoneos-arm64.deb
-Size: 36376
-MD5sum: 0bfbe67e3c4e7c4af1fb0752b9e347a0
-SHA1: e08fce0d0c248fec5a6d53fa661377855df76e6c
-SHA256: d62bc006b0e9144d3bebf94ce2e148658c1b431bbd4e21d67daa3627629e12d5
-SHA512: a66aad33d964bd218068e3c2233fc3c95c975e797eacca97520d6e4ca7ddd0c506fd5c70bbd15d80186bc2c47a7464cde6ffd24b6c999591c903a187c4796363
+Size: 36384
+MD5sum: a6b84ac597e9aa21cc3826ba09497df1
+SHA1: f586a0a5824bed8d2ceea6d1116bd9370a563d2c
+SHA256: 0dd1c9af08d9010d066964fc04126c843edff8c3c8943618214ad4cb703f6075
+SHA512: 5d4955846162338d570109ecc250572f97ab27e9097f1b6780d2432b491331c709fc583b1f4f4905d3b49143c3edffb80392bbeb89647d430ee150e1fca54be3
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalnotchedbatteryDp
 Description: Digital battery in statusbar (iOS 11-16)
-Tag: purpose::extension, compatible::ios11, compatible::ios12
+Tag: purpose::extension, compatible::ios11, compatible::ios12, cydia::commercial
 Author: Asterix <asterix_gaul@outlook.com>
 Name: DigitalNotchedBattery (iOS 11/16)
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalnotchedbatteryDp
@@ -13153,12 +13111,13 @@ Section: Tweaks
 Maintainer: Brandon Plank
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8) , cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.brandonplank.haptic17_0.8_iphoneos-arm64.deb
-Size: 13124
-MD5sum: 397159a29e2b4f7c7c475560452088f5
-SHA1: d3c6a922c47dde4b8b0b6d79afe039f1cb942c50
-SHA256: d1c2decba33138ad123bdf40c4032469f78be28ed87aae08dc03c94b13792128
-SHA512: b3d6662cb37bde27e1fac202b4d97945c98075df1e447f99dd71e189b7a707c1ebe33a41302c7b28dc0b1b716125c81fc43a83077cbe7ba516c474a37db8e134
+Size: 13144
+MD5sum: 2b65f20553289a2df982cd058b2164c3
+SHA1: 7b7fd6906264e92b5443daff50a971684fb67524
+SHA256: 17e1feaf7a9e844684dead8b6ba485f5f6932fb21de86a6e70e2da02add7fe66
+SHA512: 70757f814ee4aba9e15983461457abefbefa6f9eb5ae7746fef9a1134d5988b4917d49e7e0643fd2142c2dd1a350a92bb68df74cb2dc0527e364afffc496c7ed
 Description: Puts haptics in places apple should have!
+Tag: cydia::commercial
 Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
@@ -13978,12 +13937,13 @@ Section: Tweaks
 Maintainer: Devvix
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.devvix.nocshare_1.1.4_iphoneos-arm64.deb
-Size: 7028
-MD5sum: 0308c00867c6e223da254f5805fe8ad8
-SHA1: fddf3f71aed1d58c6fe8d900fb9d3b6f90cfcb25
-SHA256: 08948fdf1a491c64315432f3e8a8b44773bf82370cf50f245738a1a2c3eae165
-SHA512: d03d06eb2db2b35a96e04be87408a4de82975117c2b8ebf2db6e39dadc625fa9fe0e992b3aec1f0cebde559a49dfde6a34320a720ca71c5a689107ca3e84b3c4
+Size: 7048
+MD5sum: e00f83a7f99929874b7a1741db243f4e
+SHA1: 60982fec74344747f31be4a9093a24c81e4138ae
+SHA256: 7fe67dee684dcf7d841750f1229b358dbbfa24271424e125e686f75c2f62c672
+SHA512: 00a8963fad0e043cbe27ad2196a6f12e7d3d93d6af5a2270d3c05238bf54a3bcf456a3287444a063a1168f14fb97ffcbbbe127766df608cc333bd47d2080f22b
 Description: Hide contacts from the share menu .
+Tag: cydia::commercial
 Name: NoCShare
 Author: Devvix
 
@@ -15428,46 +15388,15 @@ Section: Tweaks
 Maintainer: Kernelrw
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.kernelrw.120Hz_1.0_iphoneos-arm64.deb
-Size: 5192
-MD5sum: 0b475d362dfe2f6944fe407b438e6483
-SHA1: 2a33dbc70d5fbfcf6c9e1a93d027913527805eb3
-SHA256: d02bdcca7f407b578b9c0a6b80a5dfa674644580ddd0e8292eb3c2f5e1b9e0e8
-SHA512: 951a880bd2c15c070032e8a47498ed21f0db9dbd6f6072e4994bd482ae204f7965c0be32fa8476e10c62067bbc3225fab70fb5e310b977ebbccc53fd367d2c34
+Size: 5200
+MD5sum: 9aa63fca853db6fabd7eaa7501fc736b
+SHA1: be36cd41c69e6160cade7ee45da9cf05568ba09a
+SHA256: 39a8252b4fcde96b3a961cd6998bd741f63a3cc28330c2459880c8c3271f5c11
+SHA512: bbc53c767ea098c05bb2f1ba1ba4bc9c55c1aad6402f00266c20ad58d2a60a15cb1ac9f8b7071eda6d253e3cbbfce87f42d7efbca5f57b525877d1df39c1ea32
 Description: Break 80Hz to full 120Hz
+Tag: cydia::commercial
 Author: Kernelrw
 Name: 120Hz
-
-Package: com.kernelrw.deepclear
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.kernelrw.deepclear_1.0.1_iphoneos-arm64.deb
-Size: 4376
-MD5sum: 91f9b8e658936d2a6950992b70d5e5b2
-SHA1: e5f19bc2281b3de0e240c3c5303d6ddef01f58a3
-SHA256: eb2a438315febc376e5115d284514c3d19302cf005ff612b41f86b65b22ec850
-SHA512: 4cddffc60d69213afe07ddd3bae5865e77245f270093c9f258af1b5d656922322c82b37545e14f3c08b90f65256897ac8003681f0c9f97de7302fc5b4f604a05
-Description: Test Package , Do Not Install .
-Name: Deep Clear
-Author: Kernelrw
-
-Package: com.kernelrw.deepclear
-Architecture: iphoneos-arm64
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.kernelrw.deepclear_1.0.2_iphoneos-arm64.deb
-Size: 1587976
-MD5sum: affcb7be80b9dadc453e0b4fd53964ac
-SHA1: 159a05ffc474ec7c915e4317a13e1effd34e5db3
-SHA256: 8c531b779a6d09aecaa2cb5a6aa5b634a13d13f79e5970b40c1fc886ac59f1c3
-SHA512: 3172fb580c28ef95b4ebac8852b0bdb1196c4b1aed669c7a3e61802365f845ba98a3383a0cf0630f16ca5f157078a0297b9f633d552e69f7e67a4ca6f0316bfc
-Description: Test Package , Do Not Install .
-Name: Deep Clear
-Author: Kernelrw
 
 Package: com.kernelrw.deepclear
 Architecture: iphoneos-arm64
@@ -15476,12 +15405,13 @@ Section: Tweaks
 Maintainer: Kernelrw
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.kernelrw.deepclear_1.0.3_iphoneos-arm64.deb
-Size: 1589156
-MD5sum: 39a69c0f4717ed40df24a5511116e955
-SHA1: 3bc89058cceff988c12b7a307694c77d97938b45
-SHA256: 8088bc571ad943dc45deadcc7c591217826f4fc6f7c17800b6d026ac3a1e19ce
-SHA512: d48841421bb5d789cc25c9cf38fd4c2f09fbb51e6469f8cf962cbefe8c4402d84c0c50314a7f3c198eff3287367b05833339ca4950e4bf9a41d6edfb641eb86e
+Size: 1581560
+MD5sum: e795b6eb5d8b3f2b82ebf23de76bc2f9
+SHA1: 4f5ab80c4182f15cc88a05b9dd360654abf32639
+SHA256: a9e440d921b9c5ade0be2cffced9b3cb2a1537da9dc7ff8df0e80a27099c917f
+SHA512: 4f507821355865f69b9d2a068be8eaaf9550de37caaa9724c2e355952ed2cde6bdc3b7a184c9c4e0a901ac8a33de637465819e074b9ebab620493403cb2c17d3
 Description: Test Package , Do Not Install .
+Tag: cydia::commercial
 Name: Deep Clear
 Author: Kernelrw
 
