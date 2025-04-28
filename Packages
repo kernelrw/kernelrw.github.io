@@ -726,6 +726,26 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.blakeboxberger.bazzi2
+Architecture: iphoneos-arm
+Version: 2.0.8
+Section: Tweaks
+Maintainer: Blakeboxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/Rootful/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm.deb
+Size: 64632
+MD5sum: 62ae0cb106ae4fe63afca92d3c93574e
+SHA1: 95b652a8e22d2775e4db3ddd35349f018d5f9cf7
+SHA256: 7107cbd0a7808481cd9db0d72e4206a6a130a915dacbf0f7378d0e6777548f71
+SHA512: 55c1fda175635f081d7e0c247d9ec7eb05f308aa38443a00ac7e92cb4e1f74a763ee16910ecae9456a2c07b3cbca4032cc8fc17845154574050aae509fd4116c
+Description: Battery in your Notch
+Tag: cydia::commercial
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
+
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm
 Version: 0.8
@@ -6418,6 +6438,27 @@ SHA512: 277854710038f1e189ddd8eb8ee87120f6b9b2a7c5dcccb674d80ed7bdbf4fbe4ff4100c
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
+
+Package: com.blakeboxberger.bazzi2
+Architecture: iphoneos-arm64e
+Version: 2.0.8
+Section: Tweaks
+Maintainer: Blakeboxberger
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/Roothide/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm64e.deb
+Size: 66804
+MD5sum: fe980cf5d7cbb454e338d862ab7ec239
+SHA1: 18f1d2e261c46f2a951f8c213b471a38c6d5290a
+SHA256: a0d6db82ac597117d2184b420fa2c6ffa1710bfe3d55e29a4cf21e73ae08bf7d
+SHA512: ff064d762af9308798082534a8eaee2108c395555e4e6a6585578a0577699a00abe551821b371d5eb22bfd050aec28e650835c8bed28c15a4b9673a73d2aac0e
+Description: Battery in your Notch
+Tag: cydia::commercial
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm64e
@@ -13103,6 +13144,26 @@ SHA512: 32a49d5b7679bb42491ecfa72e9964bd315c519374d702041e87541f85b02a8291cc5159
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
+
+Package: com.blakeboxberger.bazzi2
+Architecture: iphoneos-arm64
+Version: 2.0.8
+Section: Tweaks
+Maintainer: Blakeboxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debians/Rootless/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm64.deb
+Size: 65440
+MD5sum: b8b8197f2e08a27289336d191bb46d3f
+SHA1: 8d34071ac04e8a0ab1b6799dd0974923afccafe7
+SHA256: 8742398104b1f7c94f97568f98e9d95312b1ed7fcdb26a6c19d6cc03887e7e73
+SHA512: 974872a7199b0ca9bbc2f0b43050e347e7f03f1d6c6b5209a158da8acf5bcee00683d161d5ec125938604fb083d09b3782aa7e30c4313b4db91409370de37ad6
+Description: Battery in your Notch
+Tag: cydia::commercial
+Name: Bazzi 2
+Author: Blake Boxberger
+Icon: file:///var/jb/Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm64
