@@ -7322,6 +7322,36 @@ Description: Free & Open Source Tweak for Facebook
 Name: Facebook No Ads
 Author: Hao Nguyen
 
+Package: com.haoict.gmailnoads
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 452
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.haoict.gmailnoads_1.1.0_iphoneos-arm64e.deb
+Size: 141018
+MD5sum: 1df92e83f85152a8c6d99a1f42df5339
+SHA1: 5fd1177d69621b0faa2c6b2efd6034fade83cc35
+SHA256: 74cf53a96bcd1810d7ce2468e3e00476c4d02f4fa77b60985916346d0ceeaf58
+SHA512: 4d4581d7a0fcab1703aa4bd6d3f490d5b44109bc0d9c4fca4fde68d7cede9d9f6af912c00179c462db9125c2c8a8f5a5b2be98c066bbf316e62184c023c76961
+Description: Free & Open Source Tweak for Gmail
+ Free & Open Source Tweak for Gmail
+ Change log: https://github.com/haoict/gmail-no-ads/releases
+ . 
+ Features:
+ - Remove Ads (in inbox list)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Gmail version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Gmail No Ads
+Author: Hao Nguyen
+
 Package: com.haoict.libhdev
 Architecture: iphoneos-arm64e
 Version: 4.8.1
@@ -7349,6 +7379,36 @@ Description: This is a developer library for better preferences and useful utili
 Tag: role::developer
 Name: libhdev
 Author: Hao Nguyen <hao.ict56@gmail.com>
+
+Package: com.haoict.redditnoads
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 508
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.haoict.redditnoads_1.4.0_iphoneos-arm64e.deb
+Size: 220950
+MD5sum: b70f58e8870e0ec8e7db4cac7fe0ca76
+SHA1: ff3c5658876666b5c9c0ebff53af574e24ec895c
+SHA256: fee6a4e60dffcf40c12f64bef7843f5ed0304e3d5c468bd1dad8dc207c701262
+SHA512: 796a401cc969a4c0ed15b826cb16bbb9c8500692cc9c538bb5b4cea6a3054114bca11476a4d278bc7f6706dfc612d128a2150a68d48d01151464cbf070c47d91
+Description: Free & Open Source Tweak for Reddit
+ Free & Open Source Tweak for Reddit
+ Change log: https://github.com/haoict/redditnoads/releases
+ . 
+ Features:
+ - Remove Ads (posts and comments)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Reddit version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Reddit No Ads
+Author: Hao Nguyen
 
 Package: com.hitori.pressspring
 Architecture: iphoneos-arm64e
@@ -8183,6 +8243,25 @@ Name: BetterCCBrightness
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
 Author: level3tjg
 
+Package: com.level3tjg.redditfilter
+Architecture: iphoneos-arm64e
+Version: 1.1.7
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 124
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.level3tjg.redditfilter_1.1.7_iphoneos-arm64e.deb
+Size: 25260
+MD5sum: 2a67c50684f5deb9502d31c8c9d5cd93
+SHA1: f2c935e6128af47bdbc978279170150be33ee437
+SHA256: 96f02b55b4aa41dcf7f4dc18e51f05f17ef7a1b6b6027329ff3f59702b52d3b5
+SHA512: 85e97a808906097f457457778768fd90c8ee958304fafb27a3168dd8b00c8bf463b0f80ad45b75b55fdec16e14bffe5e3adc06fcfb3bf247158c5b8a45779b62
+Description: Filter out unwanted content from your Reddit feed
+Name: RedditFilter
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.redditfilter
+Author: level3tjg
+
 Package: com.lnx.showtouch
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -9007,11 +9086,11 @@ Installed-Size: 88
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Roothide/com.nolimit.telegram_0.0.1_iphoneos-arm64e.deb
-Size: 3656
-MD5sum: 3896cda6ec7b9294b3237f3aca853317
-SHA1: 1e4e9a41135b2592c34eb9208daa948350328853
-SHA256: 547a419cebc126b8d664dbc715c22b479dd775ecfc545800ad0e4587da7c64eb
-SHA512: 9ea2bb786d6cb9c725d112f21b6dac8817483d413c56f78648b78f68f6c2a5b8d5d5da15e33848db05688845101c29f7d51911365aaaf5c40ebf0d397f84b8f4
+Size: 3962
+MD5sum: f85c454ada051d851c07b9171a870a95
+SHA1: 4d8a96cf4db0589e81d3fe24630fecb6352b9df2
+SHA256: dfc1d13e96b5bcdb74bb3c7f7db90248bab5026acac4ecc8c9702393020f5803
+SHA512: 6eed5273a91397f3dad8db1761fe486f1e1cd5e983da121cefe096a1fcb0e48e1d81ff654a8baae277aa4af89f6025184f4f57058cff13d773d894065a0611ef
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
