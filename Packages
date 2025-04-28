@@ -4971,12 +4971,13 @@ Section: Tweaks
 Maintainer: Litten
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debians/Rootful/love.litten.rose_1.0.9_iphoneos-arm.deb
-Size: 432944
-MD5sum: 5a90b31ccaa6e6e998f205748cf1d694
-SHA1: 08df7d1d938bcfe62a4bd2ea72459485e6f53104
-SHA256: 17888bace968c0f7c5cf07295d3711808f35d1985eaa9ea7c9e0ce161e2cc4b0
-SHA512: ddd968d68da9d39bd579961d6c3732ba858ffbef9d587db121ff2da139a3837a4aab32570b04f3c661d36e347d5baf5e44eae4dd5750ddd4adbb6d96bea348b6
+Size: 432692
+MD5sum: 265cdbd13d33751bbd902d76d6019ad0
+SHA1: 8452b1a632c9c758b176f3d9d6e8c2aff5a7f0dc
+SHA256: f8dce5080fb574ccf8c7c67f73f6cce4cd1a068b0be8ed1bfe85d4e1cdc45fdf
+SHA512: 1d39c20f20a2f7ac36f634353cfbb887fc12d36bc4ced101c8c7899cca1649a52aed8017f6a17dd1d5093f037270752ba288a9a83a1104443f3fdbc5ea379f26
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Tag: cydia::commercial
 Name: Rose 🌹
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Rose/index.html
@@ -4991,12 +4992,13 @@ Maintainer: Litten
 Installed-Size: 2868
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
 Filename: ./debians/Rootful/love.litten.rose_1.1.0_iphoneos-arm.deb
-Size: 425828
-MD5sum: a8c7c92d3acf85b7387d6236de9f7679
-SHA1: b2f0bcfe5ede6123bc9269d382181771324e59ad
-SHA256: 01fd13a0cfe9f69ae14c025fe1e96d47b0ce4bc636fa0c6ff9e86130fe79f7b8
-SHA512: c042bc1d469fc0c2b15d344122e92889690495ce46d0c9efbdb6d83c2c6f7c712759ab47d018bf4f570c4432c004c411bc59fb6df229a4d1dfdef41730cfeaea
+Size: 425876
+MD5sum: 3c30524589a6256712ab7afd553f27af
+SHA1: 84cf831abb8bcae5be8e0657feb2ec5e6dc4e1ac
+SHA256: 35be6c91207e9990817eada0fc92de97b9ffda3f866a32539bc61a5c7a55eaab
+SHA512: 49413d1b125c6a70cc700e955f47ca7326c18159e79bcee35e0922be45b4fee3a5487a7847e131d76c0d025cef8b685daf03779695fec0ec5079c90f628ac450
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Tag: cydia::commercial
 Name: Rose 🌹
 Author: Litten
 
@@ -5123,12 +5125,13 @@ Maintainer: Aarnav Tale <aarnav@tale.me>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Filename: ./debians/Rootful/me.tale.panic_1.1.2_iphoneos-arm.deb
-Size: 134364
-MD5sum: a539c7bb5a0299962067263bfa472546
-SHA1: 985aee55ed1b078aade2361c656fb779e3cf262b
-SHA256: 36eb0c9dec191e5e37c22eab5fe27daea5d7e2640da0918b636b256d199ec077
-SHA512: 11c12735b1922e9e586168148e2ecdb61d701f524863592529e8ee2599b901e3963765c7752cc40e6b973918af8388ecb161260b0a7c17389b26779d604a67b6
+Size: 134372
+MD5sum: dd0e2292962106f01c376aadd8054f06
+SHA1: 0ec52a320504c2ab017a9911c19cc931ffe780c1
+SHA256: d61aab04afbd70196057a5d100cf488b080b25c851de11faea8ca1f6dfb77ad3
+SHA512: 7e6839332e2ff307c97058a99f7964f136ef9ca02de28dea5476260f983a8aedabe4f62b556c1256199ee1bca23f2c7af8169c7c0920e7ca5e7e1da3f6665009
 Description: Stop! Don't panic, you can still fix this...
+Tag: cydia::commercial
 Name: Panic!
 Depiction: https://apt.tale.me/me.tale.panic
 SileoDepiction: https://apt.tale.me/me.tale.panic.json
@@ -5507,12 +5510,13 @@ Installed-Size: 412
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
 Conflicts: net.tateu.strongerfi
 Filename: ./debians/Rootful/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm.deb
-Size: 56072
-MD5sum: 6e5c76b8c9b9e8c13866bf79f4b3d753
-SHA1: e9ac4a561d0be67716e3a47928d03d77b014f3a2
-SHA256: beb65e0a507eb79754bc2c641f4211c1dec29237400007751d0b6294f03e1e94
-SHA512: ad2b31880da9344559f832ab8db6e06b92bd19ea506ad668665e52095831271b90a805155f17109512dbe66e3077777939d95ab7a2abff0496c46ce22e9d4a99
+Size: 53464
+MD5sum: eeb5c5105bf5b2416810a411bc578207
+SHA1: 35775c167db2c8a81c4849c9fe74d0493126ed93
+SHA256: d9c86f05dfe9091e8356c6c406f6796f60f1f7c3671079aa09f79557b4c5bee3
+SHA512: 13b73cf15a90fed82a529140bf29efcbf1600403c720ed9b2a0684c4d1a9f8153231e5897ba7a01ddc88e1ec2faf3a962abedd971119de7308df5c116a06ee74
 Description: Auto switch to the strongest WiFi Network.
+Tag: cydia::commercial
 Name: StrongerFi12
 Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
 Author: tateu (Josh Harris) <tateu@tateu.net>
@@ -5696,12 +5700,13 @@ Section: Tweaks
 Maintainer: ARX8x
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm.deb
-Size: 427472
-MD5sum: 586f07abca9dfe032ee3e28edf810ccd
-SHA1: 9d689ce1b82025c2d1255870fcdb3bb0e2b21e87
-SHA256: aa1ab3c30a9f53b949b3ce2907ea09cd1e00909077ce9fe9ed041d7303118e78
-SHA512: d0c057f65a5f99ffb6688d1d61ababac99e7555f5f17abe037eb4e84ad07c5aa1de7fcbc29870fbb44889f7fbfece8bdc4ddd493f6ab6b02cbe1a1dc6efdaf3a
+Size: 264608
+MD5sum: cca81f22bacd5a32d5a45541dad23fc7
+SHA1: 63e570d7947a1e27fc204037750d88ccf46fcc0d
+SHA256: a52db773ff47df2164a7aa977ac98d89a0a41f0f5332316159c29b5b459b9cb7
+SHA512: 4f3276347b1f973edd9e131420bdccdbef27db5f36aa15b15eccc934ce64a128f7fb6d915c85bfeeb1937ecb4cd625a5ba073f01c6eb25bdbfde06996c799103
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Tag: cydia::commercial
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
@@ -11512,24 +11517,23 @@ Author: Litten
 
 Package: love.litten.rose
 Architecture: iphoneos-arm64e
-Version: 1.1
+Version: 1.1.0
 Section: Tweaks
-Maintainer: zSaaiq
-Installed-Size: 1104
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), dev.traurige.libkitten (>= 1.3.3)
-Filename: ./debians/Roothide/love.litten.rose_1.1_iphoneos-arm64e.deb
-Size: 382340
-MD5sum: 84fcd7246bd5d7f300cb80d986d84b32
-SHA1: 4e6edc16cc610471b9d41b48177629f0a984b5aa
-SHA256: 9a11f7e9c8e5f15c5642b8ba6d01585f6cc0e1289966456b16f049a99e2f0a3d
-SHA512: 896506306c533bc22f024413ecc6c9a028d01a46fe022ca9da7ae45630632d7448c3aa103bf56cee190b1d474eaf3515c2887e5623ad9ac7830c158aeac76c72
-Description: The most advanced and feature rich system wide haptic feedback tweak
+Maintainer: Litten
+Installed-Size: 2832
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debians/Roothide/love.litten.rose_1.1.0_iphoneos-arm64e.deb
+Size: 926500
+MD5sum: dde2c30b356fde60c0da56f11177b75c
+SHA1: 7f40bc6f937fca11ededb87f1324a75cb0f18047
+SHA256: 4af56ee3c8484927b687cfac101703db514aebb5599bbf21311d1369f248a05c
+SHA512: e746d47080abb9841b3e58f38bfe736f320a17df3811c0e0bb014efbfd6b2b6f852057dec6ba68c57e5305176acf30bfda240a69f2743ad301e14375a1cbb8e7
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Tag: cydia::commercial
 Name: Rose 🌹
 Author: Litten
-Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/rose.html
-SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/rose.json
-Icon: https://zsaaiq.github.io/jailbreakrepo/images/Rose.png
+Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
 
 Package: me.jjolano.alertdismiss
 Architecture: iphoneos-arm64e
@@ -11717,12 +11721,13 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Filename: ./debians/Roothide/me.tale.panic_1.1.2_iphoneos-arm64e.deb
-Size: 141578
-MD5sum: 6b378a720a36046664bf599f4461c74e
-SHA1: 3f3c009981384c499b9b0fec6390f9998974e84e
-SHA256: f6e24626423bbe679b8e75e9b202f180ab70bba3f11a20ba6f77f46e603cef78
-SHA512: 4cb1a901fad89bd93370012a0099ee165ab61c720bfe164b972f7c61896935e3a199fba0bd80d5aeeb09f8dfd3efe16d1bba58a0fcf25d9f0e6db43809533c34
+Size: 134652
+MD5sum: 0e2f662e95426be17868ff79a99766b4
+SHA1: 923b8f7d87fb326fe86a5a3605889661bef94164
+SHA256: db8103320abe043cbd9de11e1facc2b1b1686a09dbdafe0c9f2d276f945e29fe
+SHA512: f0b00d1a9de976974e5da2e316afcfe4f9a8ad56a8ffa30afdb82d345d4393fe365d88ef9562b1a3d559d37dd5ca9a352e58d905d7223696cf4eae7122e758de
 Description: Stop! Don't panic, you can still fix this...
+Tag: cydia::commercial
 Name: Panic!
 Depiction: https://apt.tale.me/me.tale.panic
 SileoDepiction: https://apt.tale.me/me.tale.panic.json
@@ -11812,12 +11817,13 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: net.tateu.strongerfi
 Filename: ./debians/Roothide/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm64e.deb
-Size: 68788
-MD5sum: b20bafc1ed9ab10618cf9d20e3bd5766
-SHA1: 91aa4160a4abcfb47900ae212d199a237b860b00
-SHA256: 5b1d7219db7a5377f45021e5e64efda29a323d006095a5cd155aeb085b0d97dc
-SHA512: 641f08d3f4065a4bf8c9d0d5460e1f68aef18adb139ef8510a42c63ff1f7a339e2ce07ddbc5950eedaf8fd315b41777ae1b576b4a7f974989c619acbff2bfdf3
+Size: 55744
+MD5sum: f5360f1b82f22d1de51ada544668eb32
+SHA1: 11f8f2f401674f8d50e0f9c63d42f6e37e69704b
+SHA256: 3f59193e2012fca1e6476bc2a822edfff14ed64bee60bfafbcf475d01be14934
+SHA512: 8aeda99d93ed02f978d9dbcdbd30111151cd82388d43a09830bf845b6554a2683c7407f6405dda72094bd7f20b3116027f22cf9ff5c013e29bcd3fb230e226e6
 Description: Auto switch to the strongest WiFi Network.
+Tag: cydia::commercial
 Name: StrongerFi12
 Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
 Author: tateu (Josh Harris) <tateu@tateu.net>
@@ -12345,12 +12351,13 @@ Maintainer: ARX8x
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64e.deb
-Size: 270052
-MD5sum: ff765f8030fcb4a4019471f310e65d4b
-SHA1: 2603b7c25035463a84f861df93e39e78773463c8
-SHA256: 678309732401f74730746ae48d1f2fff88739a8d37a7b87d3c6aae5b000915d2
-SHA512: 73d3766179b0e4213806dea7d16b7bf9326d26a2e962e6b46dfe33d973ee118b81e2353211f7121ca4ef415eb7ff10aa9f7ea1736b9375e3157e3ede035dd221
+Size: 270168
+MD5sum: 8bdbbf80ce680c7d8bc16bdf41e3b25d
+SHA1: 36a1be9a4f1c4b9d7faa061e04da124f9f043bd6
+SHA256: 7c743e0607bb047207ac8b5ed58b921bcf794e325c6612bb80292286ccc0a5c8
+SHA512: 5c8914042a8c52eda46c51d7798c56f693181f2f6e9f5a2284820bd39613d7fc93ed97670db7a371d0ac0d9476d778b9f2a58894e33704c75e90747baff65ace
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Tag: cydia::commercial
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
@@ -18920,12 +18927,13 @@ Maintainer: Litten
 Installed-Size: 2832
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
 Filename: ./debians/Rootless/love.litten.rose_1.1.0_iphoneos-arm64.deb
-Size: 424200
-MD5sum: 4665fc906ecf1ab4d0e0eec660527ab0
-SHA1: 45a699a1155c91c71d50edbdf2793054f623e1ca
-SHA256: 732a58781e4201bae4d896f930704e2a208014891eb4dcce5adc41b79173e514
-SHA512: f7a1c3151b8f14f16ea8a15e961cfad00c9dba6b74637f9639b66a03549eb48852b7770b075012ddfa8abf754ff5e70b100373470fdf1e6da9c3c662b132fe60
+Size: 424412
+MD5sum: 039d812713e188367b5a5b7a99ff8cba
+SHA1: 1841e62ebd32cbd0d5ab3682281f9a11aec23287
+SHA256: 6c34fd5a07f70020e40d1a94e899db5747949e28bc7655a92f768eedeebe2a40
+SHA512: cd90954df8e47138729832ba3111ef1807ebb7ef903d599052805eeec0f33ce5de25c2d6d473faf16a88dbcd661e2603155135e1badc9a5f6bc867bd2f0069cd
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Tag: cydia::commercial
 Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
@@ -19074,12 +19082,13 @@ Maintainer: Aarnav Tale <aarnav@tale.me>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Filename: ./debians/Rootless/me.tale.panic_1.1.2_iphoneos-arm64.deb
-Size: 133672
-MD5sum: 9ade427bf11654782c3147f3e1bab518
-SHA1: 123ff847094ff6fea68f12e0a950f770bb969c9a
-SHA256: f71656b7a02956ea3a7b2a07eff21f786d63fa33dcf26b2853f9ad8fd53e4ff5
-SHA512: fcf384264b252fb595bd6a3751e3fc539b3a51c9cab23ab99e3b0346bb8c2e5bb4d0c45ca8ee9724c5b36ba4e5332c3ee37b8e4306ea355fafa77eaa111aec8b
+Size: 133636
+MD5sum: e0fdac68b65f9f8cb1d78341d8cdb9d1
+SHA1: 66853daaf37d193630019e10fe0c6b13e01a5fa4
+SHA256: 009562a6349791fc674eb5f4d484a8c73439337177804978b877809f898f3e1b
+SHA512: 6a8d3d4ac29750ca29feb55c5145ebb02735af17b99e1c88dfea986907a73766146f994e1976143fad207900d34c16888c0136ef189a7f6bb04d2c422205fbfa
 Description: Stop! Don't panic, you can still fix this...
+Tag: cydia::commercial
 Name: Panic!
 Depiction: https://apt.tale.me/me.tale.panic
 SileoDepiction: https://apt.tale.me/me.tale.panic.json
@@ -19221,12 +19230,13 @@ Installed-Size: 412
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: net.tateu.strongerfi
 Filename: ./debians/Rootless/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm64.deb
-Size: 54420
-MD5sum: e791eaeb29b24581d045b6c3c6c29c4d
-SHA1: 255cec54074edfd997ca1f3e9fc6444f4fae633f
-SHA256: fe21896f8d4b62c0cb81f863e5088f36e8d51e2777a1b234bcec965d0ed0db4a
-SHA512: 86138f1ca496f022c9d93762e183163c66cc4a83d867613d2c20ccff44e07f16044c2dffca57323fe703fc230fb132c6e9c0f8f0fe7d712b0703e8afbaf6027a
+Size: 54524
+MD5sum: 7190e4082cc95eeb5b0884e55a5adce7
+SHA1: bfc20e578a403c8b4803a10e02cc36e184c001f1
+SHA256: e2a3516dda42734de1067b32b8d00411c4d1b50e824f3cdb6ff0f30c6bcaff4c
+SHA512: 382d57f378bd966f13bedb9742e3c1162f3b29ef60f8e0765d403c24fba839e2707d16da466cf7b5abcbfe407defdb4cabb47c27abf8045ea5ebcde3832a29d0
 Description: Auto switch to the strongest WiFi Network.
+Tag: cydia::commercial
 Name: StrongerFi12
 Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
 Author: tateu (Josh Harris) <tateu@tateu.net>
@@ -19522,12 +19532,13 @@ Section: Tweaks
 Maintainer: ARX8x
 Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
-Size: 145896
-MD5sum: d6c935aa369eba59b960c4fb63084cb7
-SHA1: 03c4d1f95d5b93b01d6fe4bf50445f5596c19ea2
-SHA256: 6a73450fa13d598315733c2eb96e532b3413ad401d661bc8ac79605227fe15a4
-SHA512: 1fe2fb35e2eb2586eda8a0e71be8629f61bd6a9f3edfc8cbdbe183dcfb462cf286eb9f4c2fb6aef80e5d190cef29cf48514a043f7b3f3d8cfe366fc327ec358a
+Size: 146004
+MD5sum: 0f8130b25950107029cec6fca803e79f
+SHA1: 77343954d5f66634555a2b2491541bccec15882d
+SHA256: eb5f1f8fbaa1aef5fbd09449fe5ae2ca2b6b3aaa87837713358dc53b776daf5c
+SHA512: 044e158fa57f41f6e1f236312c539a2a35d6efe3a2947e00bffee026e1dad73f782d6f995f8b590af96270c40ec17f25b26303892e80f9d81ca3fe19cac1eeb9
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Tag: cydia::commercial
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
