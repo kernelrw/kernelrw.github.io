@@ -598,13 +598,13 @@ Maintainer: ApexTweaks <support@apextweaks.com>
 Installed-Size: 5036
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
 Filename: ./debians/Rootful/com.apextweaks.veza_1.2.0_iphoneos-arm.deb
-Size: 3207236
-MD5sum: 9f54f3100a86b8bb0cde2d8adca08a54
-SHA1: e7d4436da31538fd5dfb64847a1bc691287b4f53
-SHA256: 0bacf4e16830ff87887b01fe56c2a7bd1d6a2f44771e183cd467d7307b7d37ad
-SHA512: ff729996a2046a9e57bd40e28d9405cfb5503904e6aa0f13266146540dc42c2b2efc6cf2ecd848c4ddab4663737cdfae37a583d301d0aaae0c2f74d1409f14e8
+Size: 3206812
+MD5sum: bcc498964a1a4c3918095458cd627c94
+SHA1: b4f81ff1e78c81434854d309c5cf8ff26959b722
+SHA256: 189527366b2361935a02d2656cf6c17755b1b6a582c09b769d5d4b13ecfbb57e
+SHA512: e319653494d646e8ee5fadc24d6f7c410262e7b6259032917075e21870821f21c8892bcb9898218463f0a49476f99b5fc063c47edff63cfbb9fc73fd057f7628
 Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
-Tag: compatible_min::ios11.0
+Tag: compatible_min::ios11.0, cydia::commercial
 Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: file:///Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
@@ -3868,14 +3868,14 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 176
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Rootful/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
-Size: 14044
-MD5sum: 769c2559a33798d15addbf89a2fce8b2
-SHA1: 0701fb21ebefbf77f8750968d205d3b9356d479a
-SHA256: 0f8636cd428a48c6108fa6281dd58d58565246671bb0a2c0c19ca22fc24bfb02
-SHA512: f1671bddd0395a16769f1e2c7dcb7581f6bbc13d6b1f47c42d02bfb53c92bed43521e53e8deb70c7ca5d97fc2eed674a552539b3a412ab15aadbf896ff9eb018
+Size: 14056
+MD5sum: 5f91df54986a99f7e60ed694ae805649
+SHA1: 5f2212befc7b87749387a6e5abb5c3a8d610bb01
+SHA256: 461ef40363d7c91eb75339d771aa14730cd47017bcb24943f9fb379468651985
+SHA512: 29ab27ac39dff90adaac3d804f69c5f6e312a2166fd8d5066b83e24431bc56896f6bbb68d56e21a043c3d6c32158ff41c0cac27ceb3908d58ee4d356777301f0
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
-Tag: purpose::extension
+Tag: purpose::extension, cydia::commercial
 Name: Powercuff
 Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -6377,13 +6377,13 @@ Maintainer: ApexTweaks <support@apextweaks.com>
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.apextweaks.veza_1.2.0_iphoneos-arm64e.deb
-Size: 3213780
-MD5sum: a2be3fb23db954bc11549c8e56e3fc0e
-SHA1: c5d9fc096bf274a09590ef6627e0872db6c02b9f
-SHA256: 9a1dadce83bcc4c86d0ba55005ddae88220ffea4141fe5f448f206fd1974acf2
-SHA512: a10505836a6ada61663813279440b9c3355438ba89ccfe1a653d26fe36a292788f17dfc7819a77fd56c693c2254c3ec342456eb6f2c47e0d88a8537de90e07e5
+Size: 3213812
+MD5sum: 966d39f715800a372d315672002fb527
+SHA1: c9a28bd93e1ee2b7cd155db9a15c10e3ebae94d8
+SHA256: 9eacb9eaeebe24e5e7b074005ae35e4ee4fc48089787da722fd8b9ab0d5d490f
+SHA512: 80e894f6a0ae2942a081f0557ea8748bb6291c55b1b4b145da1cea5e6043ca538f302097f3e4e8cfb289bbc1c3775118008ddc32ee1c92c0f68e392ce50a03e5
 Description: Quick Controls right at your disposal!
-Tag: compatible_min::ios11.0
+Tag: compatible_min::ios11.0, cydia::commercial
 Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
@@ -10044,14 +10044,14 @@ Installed-Size: 176
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Roothide/com.rpetrich.powercuff_0.1_iphoneos-arm64e.deb
-Size: 17090
-MD5sum: b7a73d36c834f75426961f9efa37c4cf
-SHA1: d4c7a1735d24ed938582f101eb6781235d099a25
-SHA256: ada26db15032535adfe44beacc316a36a9789050830780122b4322974fe00a5f
-SHA512: 1c253f45bad245f148f84c671e2048be1d69a1dcc821bfd579bbb4f2541efc24ff5d5dab54bb317d182ce2590a7cb9b9353f577fee24b5834b29ffca09f1fe31
+Size: 15828
+MD5sum: db2acf9465c3c811b8fe2e5415c1fc62
+SHA1: 4d7330d3318446ef284355969b03b53cc75999fa
+SHA256: 73d679b388b753b29b4e6e4d6942bc7c94690f2427fd763109598137d2abe6f6
+SHA512: 75dde8687c5a61dc3d70bf9ca2334d2f14fce2e1b020c49d199dd0bfa150f1cec19b0e4e3076ffd9f64ced55828fbc78d763fe2000ebf56befb3305e90930e3e
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
-Tag: purpose::extension
+Tag: purpose::extension, cydia::commercial
 Name: Powercuff
 Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -12999,13 +12999,13 @@ Maintainer: ApexTweaks <support@apextweaks.com>
 Installed-Size: 5036
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.apextweaks.veza_1.2.0_iphoneos-arm64.deb
-Size: 3207908
-MD5sum: 7e6f2abd0d3c25f083cb6c293333037a
-SHA1: 451b58fd4231aab415487bf1a9dd5996735ea01e
-SHA256: 1833fcfa970293aec916edf82d44ab07acb85ac227ca8dd6cd5f9d4801a2dc94
-SHA512: dfd77d78a40808395ccdb28249654b2cbf2d2da7ea4f8ba1f44a763a3e85f8a9acf0f1129b58317753f182593753cf06100ffdc4dfb78274ccf4c9367d20238d
+Size: 3208376
+MD5sum: 4d6cb015337234be35e267e74247f193
+SHA1: d9f02028450f7ff22508e41420bf4c74340ef523
+SHA256: ed831fdd937f1be9d60cc28b3f6d2792692cdbf76cbcc44b39247b8344a0371e
+SHA512: 6dbce69c2f36fb055ef956aef1ecd54c88ea0f5784d6b6932157997912b38f3b7c9942c34ad1ad27d97f63f8c1d2f7feaf8b4dbd1448cec29e4ff251434015e3
 Description: Quick Controls right at your disposal!
-Tag: compatible_min::ios11.0
+Tag: compatible_min::ios11.0, cydia::commercial
 Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
@@ -17298,42 +17298,19 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 176
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Rootless/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
-Size: 14032
-MD5sum: 1c9683a472e1d5370ee3e8544b6fb696
-SHA1: db9ca587c16e1b420f83fd52dd0d44bf1170f349
-SHA256: a8f89348b7dd10bdcbb10a5b56f679e74be54d7304e4b7d481764f3863dcb888
-SHA512: b5bcd4c386736dc06d82cbe7d6fb768f0dfacfb3bb87736fc9871ccf22f50fc2a78bfb30e98504e49827b57799575e75f5d985c15d6975e20d52a576a50ed777
+Size: 14128
+MD5sum: 4e22b2dc715ddb242b661eb19a59e250
+SHA1: e5e5cea3c8abfb82477eaf54c5e50dd11cd862a6
+SHA256: 1967577622f181bc60f23689b66d01d4ff06920dacde8d5c7c808e3a85c0ac65
+SHA512: faf6d7a29912d68309bc04b97bbe75f9afedfe7ef0279df470eadece3fc32272a17de31208c97f2c232ecea9e30a03b3abbee2ac504518d5fb63cf7f1d83cab2
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
-Tag: purpose::extension
+Tag: purpose::extension, cydia::commercial
 Name: Powercuff
 Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-
-Package: com.rpetrich.powercuff
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/Rootless/com.rpetrich.powercuff_1.1_iphoneos-arm64.deb
-Size: 14112
-MD5sum: 23395601d97d58b7b35a5f0a79972f84
-SHA1: c80748446b1c76eb0eb41d093c4c613a51fc7d47
-SHA256: 87082d5063de55dd4ae3788eed7161f1407c181fd46d6c41ae493fc0ae9771bd
-SHA512: ffb43c3fa8faefe5410faa77cca782814d507f8db65a274c837339863141baba37da7e1f5f1128344d1d7acc88849ff033803750aa898d278c1c033ba5b6f6cc
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Icon: file:///var/jb/Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64
