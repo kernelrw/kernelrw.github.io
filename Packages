@@ -615,13 +615,13 @@ Maintainer: ApexTweaks <support@apextweaks.com>
 Installed-Size: 5036
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
 Filename: ./debians/Rootful/com.apextweaks.veza_1.2.0_iphoneos-arm.deb
-Size: 3206812
-MD5sum: bcc498964a1a4c3918095458cd627c94
-SHA1: b4f81ff1e78c81434854d309c5cf8ff26959b722
-SHA256: 189527366b2361935a02d2656cf6c17755b1b6a582c09b769d5d4b13ecfbb57e
-SHA512: e319653494d646e8ee5fadc24d6f7c410262e7b6259032917075e21870821f21c8892bcb9898218463f0a49476f99b5fc063c47edff63cfbb9fc73fd057f7628
+Size: 3206756
+MD5sum: 11c6f844a3b4b4ebbf69ffee118e265d
+SHA1: 657ed54f50800bbcfef67a867251f0b8e2dc6c45
+SHA256: 507b4d41d0577f14d7f4a64f1b3dbe0857720778898339a6daed8fa8f3e98422
+SHA512: 0b36e01226fb585423ce844fb6b2447d76d642aa45a5affc6fb60ee89c2b5bcabcaafcf332337780bd4bc413922e5e183f67c43d3ae832e84a899caea03dd349
 Description: Quick Controls right at your disposal! Supports Dopamine 2 on iOS15.0 ~ iOS16.5 .
-Tag: compatible_min::ios11.0, cydia::commercial
+Tag: compatible_min::ios11.0
 Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: file:///Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
@@ -776,13 +776,12 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/Rootful/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm.deb
-Size: 64632
-MD5sum: 62ae0cb106ae4fe63afca92d3c93574e
-SHA1: 95b652a8e22d2775e4db3ddd35349f018d5f9cf7
-SHA256: 7107cbd0a7808481cd9db0d72e4206a6a130a915dacbf0f7378d0e6777548f71
-SHA512: 55c1fda175635f081d7e0c247d9ec7eb05f308aa38443a00ac7e92cb4e1f74a763ee16910ecae9456a2c07b3cbca4032cc8fc17845154574050aae509fd4116c
+Size: 64716
+MD5sum: 63b8ba309af7a449879b2d06b9db04cc
+SHA1: dcd9e2d04f85bcaa087a8d3bbd57db419547bcc3
+SHA256: ed925d8cbc25b25fffcabc8a51ae51c0acf09b39a1ee8f980e5b683ce02deb20
+SHA512: c638495f5bb8d76df505e00422b3980f5ad0a82e56f9e69f47fd19ff7b26be8c5f91c1c748c37028217001f83fc4158a58a1d718eb55aa1eebd7dc0d67683ae5
 Description: Battery in your Notch
-Tag: cydia::commercial
 Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
@@ -794,13 +793,12 @@ Section: Tweaks
 Maintainer: Brandon Plank
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
 Filename: ./debians/Rootful/com.brandonplank.haptic17_0.8_iphoneos-arm.deb
-Size: 12408
-MD5sum: cfb58ca81d99715aac781ff6a7e1a581
-SHA1: f32e534d9138422f03540a2d3675407c1888ec0f
-SHA256: 5820b265277c3a4a82890e9f6194c7447d6af98eed6b22357bc75fe3dbfeb220
-SHA512: 02f28927894ea9f234a2c14c3ab732a8cf2f7624092d42d15de9bbc56086e9563eab2c5c5dfd01875299c614cd6ad97658b66c6bc1734f6144364d4d31a61e12
+Size: 12384
+MD5sum: e1b9bab71379feec208e0c5407d6ec10
+SHA1: afe3f490b49872875814cb6f66924f9d81229fef
+SHA256: 53487e7643b6b7c29858544bd8f531b947216c99dc6288e6269cdc0be1860572
+SHA512: 4c0d9752aa09d8ca8aa1df7ce4f5e3fd9d39b82a5bd48b970d807cf27455a2c95c444687663ab012f9fa473956b2f9cf3a065b5351f493f6179a9ef2c5eda964
 Description: Puts haptics in places apple should have!
-Tag: cydia::commercial
 Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
@@ -6437,13 +6435,13 @@ Maintainer: ApexTweaks <support@apextweaks.com>
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.apextweaks.veza_1.2.0_iphoneos-arm64e.deb
-Size: 3213812
-MD5sum: 966d39f715800a372d315672002fb527
-SHA1: c9a28bd93e1ee2b7cd155db9a15c10e3ebae94d8
-SHA256: 9eacb9eaeebe24e5e7b074005ae35e4ee4fc48089787da722fd8b9ab0d5d490f
-SHA512: 80e894f6a0ae2942a081f0557ea8748bb6291c55b1b4b145da1cea5e6043ca538f302097f3e4e8cfb289bbc1c3775118008ddc32ee1c92c0f68e392ce50a03e5
+Size: 3213460
+MD5sum: 1ddc2920030e91616b9697871a4a95c1
+SHA1: 0c9020a15de0eee8376d5392e64edf79bfc5baae
+SHA256: 67866c8e556888008cb02f607145e9a2f508355b7c6a2a9b64223bd28343fd6d
+SHA512: ac7f51e532beb78d6a7e71e13edb9cd8fe8c37a89c0d148f0e6e53dad34500e0f625152f59704957645f36586bfb309a3019c5da5a79b34171602502395ae7c0
 Description: Quick Controls right at your disposal!
-Tag: compatible_min::ios11.0, cydia::commercial
+Tag: compatible_min::ios11.0
 Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
@@ -6533,13 +6531,12 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common, cy+cpu.arm64v8 | ol
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/Roothide/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm64e.deb
-Size: 66804
-MD5sum: fe980cf5d7cbb454e338d862ab7ec239
-SHA1: 18f1d2e261c46f2a951f8c213b471a38c6d5290a
-SHA256: a0d6db82ac597117d2184b420fa2c6ffa1710bfe3d55e29a4cf21e73ae08bf7d
-SHA512: ff064d762af9308798082534a8eaee2108c395555e4e6a6585578a0577699a00abe551821b371d5eb22bfd050aec28e650835c8bed28c15a4b9673a73d2aac0e
+Size: 66888
+MD5sum: 906faf5c42a742c253afbdf8666a3897
+SHA1: 985eace2b721f66105b1ed552e12f3ad952259f4
+SHA256: 29f663c4bd06d74fcf564c02ab28f2b081cef8385b126731ff57639675a13731
+SHA512: 6cafde216fc5468229c7a3905c4611714e3a5db06d4deab5821c47f66a0197a505bcb24a23b07778828db385b6386d05e7f2752da983ad7925a7e3d9336e38a4
 Description: Battery in your Notch
-Tag: cydia::commercial
 Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
@@ -6552,13 +6549,12 @@ Maintainer: Brandon Plank
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8) , cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.brandonplank.haptic17_0.8_iphoneos-arm64e.deb
-Size: 14432
-MD5sum: 2bf2b3cdb317b88bab8cdcd06be4b156
-SHA1: 12bab10b0270fbc7b572c54fb58567d343ed71c7
-SHA256: c8d21cd79d611b89e5df8411a99ea429c633607cd430b12f4c868a46d1823935
-SHA512: 349f6a85ef8368b6bdacf06e46cc7ce5719af3ed0a6fc862cc06fb64dcd62421a19e0e6bda4f35c076cad97138598e148d50f75d079868a1a79004804f4a63d0
+Size: 14408
+MD5sum: 756c2409710321166b62cbb58803d83c
+SHA1: c48a74c235b6395a08776ddf5be74ea26dc37f2f
+SHA256: 032fbf6d6582836003b6785c1343b15c8efd7074e3fe9234d9a433b314c6c73f
+SHA512: 6b7ef514163e04d5f703c692fb8b94bf0f2bcf6a4a69e62b564e6c0ea58cf8f588b8f4da883ca5cc4983dfc9d25a3f0a83f0c232f8e6ad47f1a4af3690f2a7ae
 Description: Puts haptics in places apple should have!
-Tag: cydia::commercial
 Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
@@ -13176,13 +13172,13 @@ Maintainer: ApexTweaks <support@apextweaks.com>
 Installed-Size: 5036
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.apextweaks.veza_1.2.0_iphoneos-arm64.deb
-Size: 3208376
-MD5sum: 4d6cb015337234be35e267e74247f193
-SHA1: d9f02028450f7ff22508e41420bf4c74340ef523
-SHA256: ed831fdd937f1be9d60cc28b3f6d2792692cdbf76cbcc44b39247b8344a0371e
-SHA512: 6dbce69c2f36fb055ef956aef1ecd54c88ea0f5784d6b6932157997912b38f3b7c9942c34ad1ad27d97f63f8c1d2f7feaf8b4dbd1448cec29e4ff251434015e3
+Size: 3208600
+MD5sum: 63fcac3d3f4acc027a98c676021c33df
+SHA1: 0bfc137d03eb02a75b59245da2e7277921d2287c
+SHA256: 883034f8eaedfbf2fd2224ac0e70026bbf9915d6ef38b8574a14834fbcaaeb0e
+SHA512: f4365695c6d55e91164ee5518757d239b6778bc2839f39a5ffce658972e2efe081156fbd896766e2b44d2ada4c063ccd4bfd60af24461bff89de91741f51eea4
 Description: Quick Controls right at your disposal!
-Tag: compatible_min::ios11.0, cydia::commercial
+Tag: compatible_min::ios11.0
 Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
@@ -13221,14 +13217,14 @@ Installed-Size: 443
 Depends: firmware (>= 11.0), firmware (<< 17.0.1), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg.batterypercent12, com.dpkg.arkrome, ca.ndoizo.perxent, com.asterix.modernbatteryx, com.asterix.digitalbattery13, com.laughingquoll.cowbell, com.peterdev.half
 Filename: ./debians/Rootless/com.asterix.digitalnotchedbattery_1.2.0_iphoneos-arm64.deb
-Size: 36384
-MD5sum: a6b84ac597e9aa21cc3826ba09497df1
-SHA1: f586a0a5824bed8d2ceea6d1116bd9370a563d2c
-SHA256: 0dd1c9af08d9010d066964fc04126c843edff8c3c8943618214ad4cb703f6075
-SHA512: 5d4955846162338d570109ecc250572f97ab27e9097f1b6780d2432b491331c709fc583b1f4f4905d3b49143c3edffb80392bbeb89647d430ee150e1fca54be3
+Size: 36404
+MD5sum: 0df09b1d0794ded04b4698d9ca8cb838
+SHA1: 26adea7960d77e3f7a4b2ee591e5fb611bd85129
+SHA256: 25d831e6a8c4f914a118ae9ce2bf38619da19585d9217fdd4b7eaf6341c6d843
+SHA512: 1511106a74b3c119f835de5b250c4fe21c0c33652f3a4bbe8d548ee9758adaae0469f62bd88f879cf6c084c30fec4dd5abdb21efc5f29765086191f849eea151
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalnotchedbatteryDp
 Description: Digital battery in statusbar (iOS 11-16)
-Tag: purpose::extension, compatible::ios11, compatible::ios12, cydia::commercial
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Author: Asterix <asterix_gaul@outlook.com>
 Name: DigitalNotchedBattery (iOS 11/16)
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalnotchedbatteryDp
@@ -13356,13 +13352,12 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common, cy+cpu.arm64v8 | ol
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/Rootless/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm64.deb
-Size: 65440
-MD5sum: b8b8197f2e08a27289336d191bb46d3f
-SHA1: 8d34071ac04e8a0ab1b6799dd0974923afccafe7
-SHA256: 8742398104b1f7c94f97568f98e9d95312b1ed7fcdb26a6c19d6cc03887e7e73
-SHA512: 974872a7199b0ca9bbc2f0b43050e347e7f03f1d6c6b5209a158da8acf5bcee00683d161d5ec125938604fb083d09b3782aa7e30c4313b4db91409370de37ad6
+Size: 65520
+MD5sum: a1cfc80786ff7ee616aa85c9dd9f4989
+SHA1: 0ecf3d8e27ebe6d54792080537c6d6fffd087d81
+SHA256: 4622b97d125ba366e8959e06866fe7927efb4cc043c2c9ea20a0cc3483fc6f68
+SHA512: 970ca2e804fa6791e74027b6b42163752621956ce5ab5e1359a0a6fd7cbb958a72df8afccf0b6172a286c1f64e507a9bdacf7001e63d1916cd8782569f20966d
 Description: Battery in your Notch
-Tag: cydia::commercial
 Name: Bazzi 2
 Author: Blake Boxberger
 Icon: file:///var/jb/Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
@@ -13374,13 +13369,12 @@ Section: Tweaks
 Maintainer: Brandon Plank
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8) , cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.brandonplank.haptic17_0.8_iphoneos-arm64.deb
-Size: 13144
-MD5sum: 2b65f20553289a2df982cd058b2164c3
-SHA1: 7b7fd6906264e92b5443daff50a971684fb67524
-SHA256: 17e1feaf7a9e844684dead8b6ba485f5f6932fb21de86a6e70e2da02add7fe66
-SHA512: 70757f814ee4aba9e15983461457abefbefa6f9eb5ae7746fef9a1134d5988b4917d49e7e0643fd2142c2dd1a350a92bb68df74cb2dc0527e364afffc496c7ed
+Size: 13132
+MD5sum: 8f9ebc7b6dac4adb271bfe608ea32ec1
+SHA1: 56406b8e2530c8ff5c6a20bc0693704da660c907
+SHA256: 35acf971007e65f1d69eb5e2fe49ea554532e2b63b756dbe474ed616abe44e0d
+SHA512: b70565cf895a7348b77ffd9ea71b004586d0a432157bb1295020c65761d7c0c625864f4ce88087fbc12eb9baffe325fe50895b89204eb1318ba7d8457d25414c
 Description: Puts haptics in places apple should have!
-Tag: cydia::commercial
 Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
