@@ -4397,6 +4397,26 @@ Description: Workaround for Preferences crashing when opening Comet Preferencebu
 Name: CometCrashFix
 Author: Uckermark
 
+Package: com.uncore.dig3st
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: uncore
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/Rootful/com.uncore.dig3st_1.0.0_iphoneos-arm.deb
+Size: 102784
+MD5sum: 2d41ee80ecd7dfd6c6bc95dbffd3b062
+SHA1: 1e945c1bdcb7b2622ee320a12318cc37a7b67f08
+SHA256: ccc47965c418fae189828a793e8adb56fe4e2d93c0fb58f0b69c102f4bb2d07b
+SHA512: 2b214da7371c1fb9e80cfc154187120c20daaea05e411dc8247f3677422b65e02ad975e1e31fe9e2a9faf9925607664a49232278b07bc2b94f6b0f04adb44daf
+Description: Free tweak to summarize your notifications using any Openai endpoint, fully customizable.
+Name: dig3st
+Author: uncore
+Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
+SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
+Header: https:/uncore.me/api/media/file/banner.jpg
+
 Package: com.yourepo.itweakios.ccpatch10
 Architecture: iphoneos-arm
 Version: 4.0.1
@@ -10968,11 +10988,11 @@ Installed-Size: 580
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debians/Roothide/com.uncore.dig3st_1.0.0_iphoneos-arm64e.deb
-Size: 127548
-MD5sum: 01c621e9ea48f8d26a433fd59de2b51a
-SHA1: e87d31e094b51f24635ff8bb3f71fcff691904bb
-SHA256: 98641156ab4b7459f3081bc591bbf5f8634568aa190c4968bd4810237ef5c214
-SHA512: 532923b028518e83c1b0358c73e71a0094585e65a47ce66c69f713c81ddd7cbf0ebf0287692f7e0c7b9fac440c18d07455af0108de17b2afd74ab9ecbefbfe2a
+Size: 127544
+MD5sum: 242b27ba927fb6fe7f72710d3aca70ce
+SHA1: 66aaaafbdeb3109edb422b19d9514245e8247cc2
+SHA256: dbbf2349d148500d16f24c6ceb87bce86a3208d9edd26e39291446a1e430158b
+SHA512: 998f9e054436c079ad112c396968ddb0e35a086e3e20a74ab6cc1c19798bf1b7fd131c51848a2a73794897cc0b27c7cd091350c7e5e4bc5625a8b42e96507269
 Description: Free tweak to summarize your notifications using any Openai endpoint, fully customizable.
 Name: dig3st
 Author: uncore
