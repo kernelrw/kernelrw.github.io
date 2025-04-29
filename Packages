@@ -11305,6 +11305,25 @@ Description: Another Network Speed View!
 Name: SpeedView
 Author: Dell
 
+Package: con.merdok.battivator
+Architecture: iphoneos-arm64e
+Version: 1.3.11
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1020
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debians/Roothide/con.merdok.battivator_1.3.11_iphoneos-arm64e.deb
+Size: 305932
+MD5sum: 3527b67e36d656e3183e8faeef0b79db
+SHA1: e88ae51f9257a2bdb0898f580ad42ae4a8155386
+SHA256: 19df7b9b4e16c7846f688751d775970d1200557b75dbc66066009dc87871ebf4
+SHA512: f4161f3f81b11778366ea565bb11640a57c41d58b7a08047b4aefe626ea1e2b787fd2994c97d36c49f1d6ab7d461df273da40ab98353c3044ea92094a7896fa7
+Description: low power mode & battery level profiles
+Author: merdok <merdok87@o2.pl>
+Name: Battivator
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.battivator.png&s=180x180&f=webp
+
 Package: dev.kernelrw.ccshutdown
 Architecture: iphoneos-arm64e
 Version: 0.0.1
