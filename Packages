@@ -693,6 +693,30 @@ Name: Omakase
 Author: Skitty & b4db1r3
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.b4db1r3r3p0.omakase.png&s=180x180&f=webp
 
+Package: com.backgroundsettings.sniper
+Architecture: iphoneos-arm
+Version: 1.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 367
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/Rootful/com.backgroundsettings.sniper_1.2_iphoneos-arm.deb
+Size: 46100
+MD5sum: 34555ace9165701c60a55622456dc1b9
+SHA1: f580510f83d4b45f47e74fa9da74118565f08768
+SHA256: 9abf38b5eb8182eb72e6b3964057ae5645832b71f79c9255ea85aa94ce8f12cf
+SHA512: 6c9d2b980f0aa20105fde75c2f2135806e2e8988c60315d8ea0c801899790363d1f57080ba0d80ef57cce430a660f8e3171970de3a0a7b839a31487926559ac0
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backgroundsettingsDp
+Description: customize the look of the Settings app,
+Tag: purpose::extension
+Name: BackgroundSettings
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backgroundsettingsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Sniper @DNS_Sys <aeeo@hotmail.com>
+dev: sniper
+Icon: file:///Library/PreferenceBundles/backgroundsettings.bundle/icon@2x.png
+
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm
 Version: 1.0
@@ -13164,6 +13188,30 @@ Description: Now playing card, with expandable when clicked!
 Name: Omakase
 Author: Skitty & b4db1r3
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcdn-static.yourepo.com%2Fimages%2Fdebs%2Fcom.yourepo.b4db1r3r3p0.omakase.png&s=180x180&f=webp
+
+Package: com.backgroundsettings.sniper
+Architecture: iphoneos-arm64
+Version: 1.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 367
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/Rootless/com.backgroundsettings.sniper_1.2_iphoneos-arm64.deb
+Size: 46516
+MD5sum: 9e1ec0dbfcaf95f37d7d24bff169fae6
+SHA1: 6c8e6be30e503f1f5751404e79bfd9d12cf550eb
+SHA256: a0f73eacd093932186164ea2bf55522f91515ab61b01cad1d3a6ccf025cc9ff3
+SHA512: 706f60451e28f8b06a549b72ddebbf65d0f16d3d179f551a890742cec22d218cc0e3860224e995b5d699806cc7e4826df5193f55e0b1e71d007e150898b43050
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backgroundsettingsDp
+Description: customize the look of the Settings app,
+Tag: purpose::extension
+Name: BackgroundSettings
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backgroundsettingsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Sniper @DNS_Sys <aeeo@hotmail.com>
+dev: sniper
+Icon: file:///Library/PreferenceBundles/backgroundsettings.bundle/icon@2x.png
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64
