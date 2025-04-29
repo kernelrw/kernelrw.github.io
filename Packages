@@ -329,6 +329,23 @@ Description: Replace the snoozing title for your alarms with your actual alarm l
 Name: SnoozeLabels
 Author: 0xkuj
 
+Package: com.34306.faced
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.34306.faced_2.0_iphoneos-arm.deb
+Size: 4688
+MD5sum: 6e4cf0b193367f85d7e78d74f668c4fd
+SHA1: 97436bb97e62b86efe3d9443c41934e18ffea098
+SHA256: 9e705c4b3b2c73b2ead7b2d4597148d71a3c9d977308e75e766526b2227e3e1b
+SHA512: 67904aba3c46134e9811bc4ce8c378ef42679598cb97c76a69ce87f4bbc11dec17bafe160729db3c4be0dc694e67a2403f183b8bb663cd39157029e7352e89b1
+Description: A simple tweak that disable ads on facebook.
+Name: Faced
+Author: 34306
+
 Package: com.34306.messedd
 Architecture: iphoneos-arm
 Version: 3.1
@@ -12810,6 +12827,23 @@ SHA512: 66b51f8189c3b00fcec47c7195d789d9286e5105f2b2ce6915f12930a1a74c089d786736
 Description: Replace the snoozing title for your alarms with your actual alarm label
 Name: SnoozeLabels
 Author: 0xkuj
+
+Package: com.34306.faced
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.34306.faced_2.0_iphoneos-arm64.deb
+Size: 4880
+MD5sum: b7a096e8d121925f29a4642fd114c96c
+SHA1: ce3733970e068e2532975cc369a909f5fa5f3fce
+SHA256: d53188d556e46e61458bad8ad987b642b7b70dcf4fa60d34fff92f7b462aff49
+SHA512: 1f14bc9dbcbba4f98e692ff5fc55106f986a7749ead51838692b65a6598877e91b6a6c22ee11e243adafd715f11e37ef182183bc07d062b5fca83d449abd9bb1
+Description: A simple tweak that disable ads on facebook.
+Name: Faced
+Author: 34306
 
 Package: com.34306.messed
 Architecture: iphoneos-arm64
