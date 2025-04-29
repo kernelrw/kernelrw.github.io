@@ -1732,15 +1732,14 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootful/com.dvnttm.silentnotifs_0.0.2_iphoneos-arm.deb
-Size: 3804
-MD5sum: 34b27a236ba3cc74a9069e7933fe4964
-SHA1: 5ce97220adba60a2f3bf3ec75c671240fb008241
-SHA256: e4e694988cf8eb4820fe25ae4f1c2987cb131756789f6a3a44133f410f80a7ab
-SHA512: 24b57d2d477d66c415d776058ba912f5b33fc91f1e24b51d4acfd19f3aa7358f19451bf58787f78227c3fd2cf743f42a50ef81bd6846a8cdad3890c7e9ab654c
+Size: 3784
+MD5sum: dc81fdc5a43806ecbe71ffb161d0efe4
+SHA1: 1e6e5e29d34aac9f6666a7e4bf80a6aa664c345f
+SHA256: 254b8c71b62a1f41679e6366e93274de4fa50029552939eaa0215c99168f5c25
+SHA512: 64b3bc7bbcfa2a1672f1b67afae0d5b4eade04f79d0a756de6d8547e7c5fb2c8f3eaeb9e930ea9ce8542922ed1417d1c53d35179d48987a8d6b97d6633402a53
 Description: 
  * Keep notifications silent while media is playing.
  * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
-Tag: cydia::commercial
 Name: SilentNotifs
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
@@ -2554,14 +2553,13 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Rootful/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm.deb
-Size: 82184
-MD5sum: 4d3a3b7494954235101b9147a7b3199f
-SHA1: aab31562958df52b7b64a407ca9633931724cbe0
-SHA256: b5ba2d61dca52800306b4deb84bf6d0fd78d8c83ef5c6c94b3919ebcdcebd812
-SHA512: 3ae08beae79a681fa3e562e05388fb9ded0293e998131a0491e3485fdf1c4b68e0e16f09d97038471242bfa754e0766579a48ca0428a56764cf7ae81149241a7
+Size: 82064
+MD5sum: 802bc4336bd056d6cb4cf5cdb8f104ba
+SHA1: b28e8755bb7d979e4140699f484cbf8a8a42151b
+SHA256: d908d769e5e892895f7f898f150c18d1eff77ffecac1b8d7cd8c0e61f41981e9
+SHA512: 8a168535cd73aa4fc9978db3e6e354889e75b72858e6ab4fdcf7957593b2e55fd4e0e2eef2b9622b5cc8d810fda7e6317687bc934b5059bd7cd952aa2ffb3a94
 Homepage: http://twitter.com/ijulioverne
 Description: Better WiFi Preferences
-Tag: cydia::commercial
 Name: GoodWiFi
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
@@ -3758,13 +3756,12 @@ Maintainer: pxcex
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.pxcex.autoscroll_1.0.0_iphoneos-arm.deb
-Size: 25272
-MD5sum: 4be7a03e6eeb8bd2ef1b27a663f900ec
-SHA1: d198db748287dccaa2408616e3a0100452b99b4e
-SHA256: fa1f54294646c2c13dc9dacb6a25ee97d20f449e4824e12420d70bc795fc2bad
-SHA512: cf1511aa23d60d0df1de38ca513b0b4f1570446cd801112ea8abef7f367a363e5b1040114bf0f621b70cb93ef033585ef682c985b6d447a0f9f21fbdb5722090
+Size: 25248
+MD5sum: 46d33fd289e50c648d5472e9a6d41208
+SHA1: 09c2f0c2e96ed804e9a25f285b9f191791dd0741
+SHA256: fab2bc075d31450cda9481b32d874dd9843e1c5ae5c2755d6c494f26fdbfb4bf
+SHA512: 57ff358bad8f74464faa962315042196616d842c62735b19af1a7e73da0854f8b3b8d257eee19f820ea2794e02d60dccbe27354b5353d5764da20b07f21d8fd9
 Description: Smart Auto Scroll & Faster Scrolling on all apps .
-Tag: cydia::commercial
 Name: AutoScroll
 Author: pxcex
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xRd7K0RfX_B1KlS7ypYY0xRtNazHw2jWbIMy3ey7Bg&s
@@ -3895,14 +3892,14 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 176
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Rootful/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
-Size: 14056
-MD5sum: 5f91df54986a99f7e60ed694ae805649
-SHA1: 5f2212befc7b87749387a6e5abb5c3a8d610bb01
-SHA256: 461ef40363d7c91eb75339d771aa14730cd47017bcb24943f9fb379468651985
-SHA512: 29ab27ac39dff90adaac3d804f69c5f6e312a2166fd8d5066b83e24431bc56896f6bbb68d56e21a043c3d6c32158ff41c0cac27ceb3908d58ee4d356777301f0
+Size: 14040
+MD5sum: 326471a75d4556db83a2ce69cff743f5
+SHA1: fd1e9bff89d46d7d56ad6d2d8599d61c96a2b501
+SHA256: 57ce9a79364e4d15f4f10411e1c7d756130e2f74a3b035f348d74c7986c79690
+SHA512: e4eb22f7544441d698bdbebdb14b89fb12b33376730b85fcd3172d15e360d8045d776feb8bf715e541f8bab5536118666722787627a3af94b1f2cb464ab296f0
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
-Tag: purpose::extension, cydia::commercial
+Tag: purpose::extension
 Name: Powercuff
 Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -4049,13 +4046,12 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm.deb
-Size: 50000
-MD5sum: 2ed311b6ce5a62300c9a24bfd0b87540
-SHA1: 94a2978735da6e9da867517bc460d4df3f28fc0e
-SHA256: e2b4becb9644cea27d91382540ecb48d6f4f13dc65968a0f9a75dd16b04b8f66
-SHA512: 12104f0145a0209b0b2b0afae7f645c9c98b3ed648c346aa766622a73748cc8fcb876a757717518a16c39e102e94a355194fde3bbb708284c459f8b381c1f2b3
+Size: 50096
+MD5sum: 6033e2167a40522cd1752f9a83bec481
+SHA1: 2cbb7be3525bcf556ca903a26cd4527cf804e56b
+SHA256: 2dc7dc211b6e221d1722522e3d176cb09ba6b08bc7cc81d69df76e5d058a524b
+SHA512: 24628027200a958d2ad3041a0da2d9b7b41203ba92a6b67e4ee91353482fa1d2151d2aab38fcc1f27c5817d26845a24910ab6866c61c1c74f92752ec384ca34b
 Description: Automate alert actions.
-Tag: cydia::commercial
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
@@ -4400,13 +4396,12 @@ Section: Tweaks
 Maintainer: Tr1fecta
 Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debians/Rootful/com.tr1fecta.autotooth_1.0_iphoneos-arm.deb
-Size: 12100
-MD5sum: 2ab39a98cee3c12a03fab48db227f2a1
-SHA1: 816eae814a25738c7dc8a66a5df07a52ff75caaf
-SHA256: 4d06eb612ff8343aeb1313e83388d7b34ee583fa0350c48d13b21a71c8eae86d
-SHA512: bfd45921d1eefdcde25ff215ea5ebbe1582ac3dfe93173c002626e65df9b798ac6510889874226514b286945672e6101ee3e65f9df9033dde1ec7938dd69d056
+Size: 12088
+MD5sum: 3f067945716f41554ff46623a4017e17
+SHA1: 69a4003078d185e406c8095709a595e85e7161cd
+SHA256: ca8867cc6017c0e8414ea857557f9010c9ac89f7337782cd6b00ba7aa9b6636a
+SHA512: 73a1f05423313b1c477c21249227f4a05c28aa9a8cd12abb2613669a365073e3b0df813f497a7f5fc7c238da479eed0092a30334c016cd376eefa88a48088b8c
 Description: Control your BlueTooth & WiFi .
-Tag: cydia::commercial
 Name: AutoTooth
 Author: Tr1fecta
 Icon: file:///Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
@@ -4953,13 +4948,12 @@ Maintainer: nqt1195
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debians/Rootful/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm.deb
-Size: 8800
-MD5sum: 5146685d5588470d16a5a24e816b10cb
-SHA1: 99ef43c6e3a6a5162db4470f5165347d4ba17693
-SHA256: 2daf5d27a07be38524147af3d1367f006f42634ba86acc662f773f03658ca5e4
-SHA512: c78757ae559363ff0c57bd768dbab5710ef837ac93c055e8136c2b844caa92a79ad02ce3b6f71f6bdd44563f647645f699b3e63f2646bacac974b27e4ed4632a
+Size: 8772
+MD5sum: 06f2e711b4e35e9772a6ae881a6d6078
+SHA1: ade4a86ea661062b2c79436f9e09d164f4c9a0fd
+SHA256: b1b254ec1bafd6d4b19c0601032d0eb690d2ed4df00b8abba21abfe35492af94
+SHA512: b950cba9a228e551cd2aadae1c264be702fb511c15abb0eaac61f5040c8f36e0df6319b812bab5f4fc277e32f41f0762cf34e800db802ed4a610459b18b90afd
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
-Tag: cydia::commercial
 Name: CCWiFiJoin
 Author: nqt1195
 
@@ -5040,13 +5034,12 @@ Section: Tweaks
 Maintainer: Litten
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debians/Rootful/love.litten.rose_1.0.9_iphoneos-arm.deb
-Size: 432692
-MD5sum: 265cdbd13d33751bbd902d76d6019ad0
-SHA1: 8452b1a632c9c758b176f3d9d6e8c2aff5a7f0dc
-SHA256: f8dce5080fb574ccf8c7c67f73f6cce4cd1a068b0be8ed1bfe85d4e1cdc45fdf
-SHA512: 1d39c20f20a2f7ac36f634353cfbb887fc12d36bc4ced101c8c7899cca1649a52aed8017f6a17dd1d5093f037270752ba288a9a83a1104443f3fdbc5ea379f26
+Size: 432888
+MD5sum: 0a04ce15544fdb194e3febb6e21f2101
+SHA1: 312964e6cb57aba6542286e9c637a29acc8a12b7
+SHA256: d88aaa23f51d9bb95379cb66964113840559c9cb4c08ec2e788e6c553f294446
+SHA512: 7837e15bb7c1d0efc2750368db22ac7af383060ab04265aeba6c4ec4b31a2cf0374a1dad7967a89b65b9ee9a653d179613d71bfcef15e205592e402d6464cde6
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
-Tag: cydia::commercial
 Name: Rose 🌹
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Rose/index.html
@@ -5061,13 +5054,12 @@ Maintainer: Litten
 Installed-Size: 2868
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
 Filename: ./debians/Rootful/love.litten.rose_1.1.0_iphoneos-arm.deb
-Size: 425876
-MD5sum: 3c30524589a6256712ab7afd553f27af
-SHA1: 84cf831abb8bcae5be8e0657feb2ec5e6dc4e1ac
-SHA256: 35be6c91207e9990817eada0fc92de97b9ffda3f866a32539bc61a5c7a55eaab
-SHA512: 49413d1b125c6a70cc700e955f47ca7326c18159e79bcee35e0922be45b4fee3a5487a7847e131d76c0d025cef8b685daf03779695fec0ec5079c90f628ac450
+Size: 425504
+MD5sum: 20989f85b73c61649240a097fbbb096b
+SHA1: 23bcd5ca2e4a1a1360e21614c924f2e053d93a40
+SHA256: 778db50ad8c52465e0385da698d1d3bdb305bda908e4d7bdfec36db6381a59cc
+SHA512: 1a30ee9da82e697bb7c00fb3dfd4979b2cc55d1418fbf499340edf61b6da26f57e1039b1735514a318eac71a2bbaa0838c77bd39e5e545b3964c13b9fd02540c
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
-Tag: cydia::commercial
 Name: Rose 🌹
 Author: Litten
 
@@ -5194,13 +5186,12 @@ Maintainer: Aarnav Tale <aarnav@tale.me>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Filename: ./debians/Rootful/me.tale.panic_1.1.2_iphoneos-arm.deb
-Size: 134372
-MD5sum: dd0e2292962106f01c376aadd8054f06
-SHA1: 0ec52a320504c2ab017a9911c19cc931ffe780c1
-SHA256: d61aab04afbd70196057a5d100cf488b080b25c851de11faea8ca1f6dfb77ad3
-SHA512: 7e6839332e2ff307c97058a99f7964f136ef9ca02de28dea5476260f983a8aedabe4f62b556c1256199ee1bca23f2c7af8169c7c0920e7ca5e7e1da3f6665009
+Size: 134360
+MD5sum: 6ad4f90ec5da75c027721c1c551bdd5a
+SHA1: c7c105df899965f546159c32db4df6180390f7ed
+SHA256: 74c7f56ab4e33f9077ff4750bbb80d5aa769eaccfa674b2fbb68745ab00248e3
+SHA512: 22ff2839369e8a89a28d649b9dc850f52448d2442b9c55d6914d25e2cb6bc438897975b044d37d8c50b5ff01c4f33c9cde87f4a460f5eab3ae58c141f21091ba
 Description: Stop! Don't panic, you can still fix this...
-Tag: cydia::commercial
 Name: Panic!
 Depiction: https://apt.tale.me/me.tale.panic
 SileoDepiction: https://apt.tale.me/me.tale.panic.json
@@ -5579,13 +5570,12 @@ Installed-Size: 412
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
 Conflicts: net.tateu.strongerfi
 Filename: ./debians/Rootful/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm.deb
-Size: 53464
-MD5sum: eeb5c5105bf5b2416810a411bc578207
-SHA1: 35775c167db2c8a81c4849c9fe74d0493126ed93
-SHA256: d9c86f05dfe9091e8356c6c406f6796f60f1f7c3671079aa09f79557b4c5bee3
-SHA512: 13b73cf15a90fed82a529140bf29efcbf1600403c720ed9b2a0684c4d1a9f8153231e5897ba7a01ddc88e1ec2faf3a962abedd971119de7308df5c116a06ee74
+Size: 53492
+MD5sum: a24d1b5c80b700ef7bea9edfc0b31011
+SHA1: 196ea2afa2417ebc729bfc7251d23d69d13ec673
+SHA256: 48d7a8308d995107e57baafa66ba53a849c9afd03cda71110d274daa7aada652
+SHA512: 9e3e1c8b83b36c66eaeadd5b1aabcbe16241bba3e904febe404aadc20e1b56b366f4322874f22de9a62c96adb978cd1b77128717b8929e69632423c7c9f8e70b
 Description: Auto switch to the strongest WiFi Network.
-Tag: cydia::commercial
 Name: StrongerFi12
 Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
 Author: tateu (Josh Harris) <tateu@tateu.net>
@@ -7116,15 +7106,14 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Roothide/com.dvnttm.silentnotifs_0.0.2_iphoneos-arm64e.deb
-Size: 3856
-MD5sum: bc1204ffb57cc751a2944e4ee0e08a7b
-SHA1: 0dba01039d5ecf12cc09ee02bf3e7fde002dacda
-SHA256: e4cd9ca467c72f1cdc4a1ad5b9e960700521931f1c52966285c4ec596c2d3943
-SHA512: bc1aef452589bddf971cb1f039116fcc9775a24edb91158e8e486ee3e0f6fc343408b2d70f7db3ec88a28926771cce934b605f30c7f56a34b5384460472c5b67
+Size: 3848
+MD5sum: 86eec88a01aecc1d0f789525be617073
+SHA1: 92adb2967371c5ec6a8f8c4e634de12c57db0b17
+SHA256: f1fd6125ed21332ad867d038e4a44d51d7946b8661acc51650e408c04b253842
+SHA512: dc48a6f7024a6e27d3ec04c91ad053a245cda48fa68e334a5cc957046a6cf35c0cf3876355812dcc36b431046e94a260a296bd90b8a746a6c18fa83d1b38096b
 Description: 
  * Keep notifications silent while media is playing.
  * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
-Tag: cydia::commercial
 Name: SilentNotifs
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
@@ -7953,14 +7942,13 @@ Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Roothide/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e.deb
-Size: 42660
-MD5sum: 35d0fc47c6fe726122d15305a92d1557
-SHA1: 3ac18c4fc9f17c06f70ea7832506c642a2d5a70f
-SHA256: e29efd5f086bda1dcba3fa01263bef2699058e9f38fd8ccb8a264367fb63f0f6
-SHA512: 4d1d6b067da4d7210b7ebdab6ce4f94327161ff094491c394862ca26fc20a871cd97c12a1709c9f11a1b0c78a0bbddee54b675dfa8b0fd1a3bbea556b8cea31e
+Size: 42592
+MD5sum: 8df3a88289f62204e34b6105304eaa4c
+SHA1: f4ff9e76fab8895900e9fc70d636645f8a67bf3a
+SHA256: c3151b5d347f21c857f66e1515982c34c2594f39540f47ae4581bcea0e37b1a5
+SHA512: e66e1082927a69d0cf2902080175ea48766924ab9dd265c43c106af97095e1ec24e5e056f966a2e380e15e8760abdf99ae6b90fa524da3d33621a5e7f8edb48d
 Homepage: https://twitter.com/ijulioverne
 Description: Better WiFi Preferences
-Tag: cydia::commercial
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
@@ -9894,13 +9882,12 @@ Maintainer: pxcex
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/com.pxcex.autoscroll_1.0.0_iphoneos-arm64e.deb
-Size: 4140
-MD5sum: d0102d771d59e8363019ffb29cef57e9
-SHA1: 6af008c99439939c0b3ebbbb2cfb648d9df56518
-SHA256: 58abb11db5ba0e91c443492d36e3e41ce0e6540fbe961ffdcd88495211270a65
-SHA512: 4d7556fc391d10ee0497a92d883b609b27b66348629bcf26f7398001b1d430b7e399cfb763127df11d09f660b53dc0ad655ffeb6f5c4b73b18bc30fdfd57bc26
+Size: 4120
+MD5sum: 76ad086abc0938af2346f536bc5e413e
+SHA1: fbfb49a1e8900ec8c1abee6b5f1d45900e1c1282
+SHA256: 144c4cb60a6edd1d28f2859d37477b2215bdbd75ac9482564524a143930dff0c
+SHA512: f5a04a8dae31a92392ff7c595e673853dcca367d2106362507689db0f9c8e8c6ffe12b164139f4760c19422ad5a5312e5324a376b9ca6291b59cc5e885fb3ccd
 Description: Smart Auto Scroll & Faster Scrolling on all apps .
-Tag: cydia::commercial
 Name: AutoScroll
 Author: pxcex
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xRd7K0RfX_B1KlS7ypYY0xRtNazHw2jWbIMy3ey7Bg&s
@@ -10146,14 +10133,14 @@ Installed-Size: 176
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Roothide/com.rpetrich.powercuff_0.1_iphoneos-arm64e.deb
-Size: 15828
-MD5sum: db2acf9465c3c811b8fe2e5415c1fc62
-SHA1: 4d7330d3318446ef284355969b03b53cc75999fa
-SHA256: 73d679b388b753b29b4e6e4d6942bc7c94690f2427fd763109598137d2abe6f6
-SHA512: 75dde8687c5a61dc3d70bf9ca2334d2f14fce2e1b020c49d199dd0bfa150f1cec19b0e4e3076ffd9f64ced55828fbc78d763fe2000ebf56befb3305e90930e3e
+Size: 15820
+MD5sum: 2550f4baa1d1bd58f0e1970c5554ab16
+SHA1: f356ecd7b2c57c7b65e28480b1cdd40460f00fb6
+SHA256: 430062fe6fd513c619706f60e50da7ef350c7c3c9f7fb3eabc78f19bda097cc5
+SHA512: 371d962f993c6c851f0e9ffd29cceb92d5713aee57795e7fb7ecbcbf57b82fcaf249225c0dd82e2b588c84531ccb7ff946de7819c8e46c63f85250c9312bd7f2
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
-Tag: purpose::extension, cydia::commercial
+Tag: purpose::extension
 Name: Powercuff
 Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -10331,13 +10318,12 @@ Maintainer: shiftcmdk
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm64e.deb
-Size: 54948
-MD5sum: 338b678c4c1f0e847bab63c1cdffcb49
-SHA1: 2368cc891c55f84632bbf4473ec0af409336110e
-SHA256: 38d6203cea6c387ff5becacd65b60f27adef7ebd69359ada49bcd805c12e3f2b
-SHA512: a8528027732beab6f22a1182a8878adcc5abcce0fcc4132ae25d8c8c9453d2b1fd9805339332e830bbe9c56afd7c25593e7dd72200ed6823435e3e6824f9cce5
+Size: 55012
+MD5sum: 07d5af9de941154fd7918d267b1e1d4a
+SHA1: e7d44691de4dab47ceb4942a66f511f78cef3946
+SHA256: 8eeb935a2809bdbd31720ca75204424e9a07959626d877280a49e9f27249796b
+SHA512: 66a72b63ba39dd83a1ed147670c6a5acbab897951fe9495c60a771414893a2a37dc9d3c6ba89e708ce2469227689532e780df03cfd7f077158c0fd3af38cb86c
 Description: Automate alert actions.
-Tag: cydia::commercial
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
@@ -11018,13 +11004,12 @@ Maintainer: Tr1fecta
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.tr1fecta.autotooth_1.0_iphoneos-arm64e.deb
-Size: 12964
-MD5sum: 480f7d8312b0606241d5d6663a8e0a58
-SHA1: d0bdd27bf4bd1940106e33100646820cdf6894eb
-SHA256: ef3e8d240a2c0c580e85b1f64375649716971475970c595765abef4c4e43f46b
-SHA512: bc615462bdc47fcd0ac5180ef9ba59d79e53403146a8bca3eb58624997740a50446b2e57c9d56d51ce984b2d330b97e6512538bfcda09a22a02b604b66753cdf
+Size: 12952
+MD5sum: abd06bddc4d0ea8c080ce1f1607e1e0d
+SHA1: 9aa50196a7bb35f3f872a27dc26f67a615ec1622
+SHA256: fe1bd985fa45acd6ca796685f8be8d517ecf22513ffd6a30c5532fa2eb94d725
+SHA512: 90e5aa975526f4c11222f50030b7ac3584ca036101663a855dbbbddff616591713bc348fdab30e090f3163929ec78b6b9ca77b8250863bb0d5b32e2426626c9b
 Description: Control your BlueTooth & WiFi .
-Tag: cydia::commercial
 Name: AutoTooth
 Author: Tr1fecta
 Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
@@ -11445,13 +11430,12 @@ Installed-Size: 136
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm64e.deb
-Size: 9788
-MD5sum: 800727425880df9f2f91fb0efafec95e
-SHA1: 2c31dfafaf6a5548a36692dab73abc1480a4afd8
-SHA256: 594d28b80955d59e884e3b76f44a4f2ae2e0da6b5bda1f937e2e7f23af05763c
-SHA512: 44d741a9e0e027880466679212b4bdaebe62dc49a65541a73426c8b0c6fe7d1be2a29bd18bd9d2795fe6b3551becd981cedce4d2d3ef6390d741766a98a5d4a8
+Size: 9768
+MD5sum: a11cef571595fc79dd0c7ba22587500c
+SHA1: 305d09efd5212d9bdbe618c12d75d3d3fc63519a
+SHA256: 2dc91112f35fa9813490b01985bc8f7a7a5e47733dafed1882ffd205a0b9feb8
+SHA512: b4ae3884662de99c2ac1fe53b7d2754aca06d63ca2c0ac5cdd3a4881352863d5e332609c534aad0d2a6c1f805b6e4b0bfb94bce6ac5382c1e26f9fd5e9fdae45
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
-Tag: cydia::commercial
 Name: CCWiFiJoin
 Author: nqt1195
 
@@ -11619,13 +11603,12 @@ Installed-Size: 2832
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
 Filename: ./debians/Roothide/love.litten.rose_1.1.0_iphoneos-arm64e.deb
-Size: 926500
-MD5sum: dde2c30b356fde60c0da56f11177b75c
-SHA1: 7f40bc6f937fca11ededb87f1324a75cb0f18047
-SHA256: 4af56ee3c8484927b687cfac101703db514aebb5599bbf21311d1369f248a05c
-SHA512: e746d47080abb9841b3e58f38bfe736f320a17df3811c0e0bb014efbfd6b2b6f852057dec6ba68c57e5305176acf30bfda240a69f2743ad301e14375a1cbb8e7
+Size: 432584
+MD5sum: b6e9bff942345c2d2980eb7b4e1dc311
+SHA1: 4fc7f31c31ad9c2edc4d10e7469810d7318cf3e7
+SHA256: 888a1726900c0a3c332356caf08eb5f600bb1a121e1c688bffe391f5626c9874
+SHA512: ca00933de742f4581703adc111f770c2c829b5d06a0b5cb7326a3293e026fd18269ae7991925b1d5bf7cb06ec74161410985a22773cd106b3d3156a9e3f7d122
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
-Tag: cydia::commercial
 Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
@@ -11816,13 +11799,12 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Filename: ./debians/Roothide/me.tale.panic_1.1.2_iphoneos-arm64e.deb
-Size: 134652
-MD5sum: 0e2f662e95426be17868ff79a99766b4
-SHA1: 923b8f7d87fb326fe86a5a3605889661bef94164
-SHA256: db8103320abe043cbd9de11e1facc2b1b1686a09dbdafe0c9f2d276f945e29fe
-SHA512: f0b00d1a9de976974e5da2e316afcfe4f9a8ad56a8ffa30afdb82d345d4393fe365d88ef9562b1a3d559d37dd5ca9a352e58d905d7223696cf4eae7122e758de
+Size: 134880
+MD5sum: 4781d82c3578fbbb05082ef02d468416
+SHA1: 846aae837a5570a303fce91dc6c9d57ca91f5644
+SHA256: 32e0b89e9e90a67aed64a7ebe1ebfff3ddec2a57d3f6cec130acadf489210f75
+SHA512: bd8e131a4fb8d223d8ac006c510529ca834d6848296eafb64030437e8a16af2aedd2149bf1705bab3e044d6686336d2e82d57ab49d59e5ce03800a8be344c2e3
 Description: Stop! Don't panic, you can still fix this...
-Tag: cydia::commercial
 Name: Panic!
 Depiction: https://apt.tale.me/me.tale.panic
 SileoDepiction: https://apt.tale.me/me.tale.panic.json
@@ -11912,13 +11894,12 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: net.tateu.strongerfi
 Filename: ./debians/Roothide/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm64e.deb
-Size: 55744
-MD5sum: f5360f1b82f22d1de51ada544668eb32
-SHA1: 11f8f2f401674f8d50e0f9c63d42f6e37e69704b
-SHA256: 3f59193e2012fca1e6476bc2a822edfff14ed64bee60bfafbcf475d01be14934
-SHA512: 8aeda99d93ed02f978d9dbcdbd30111151cd82388d43a09830bf845b6554a2683c7407f6405dda72094bd7f20b3116027f22cf9ff5c013e29bcd3fb230e226e6
+Size: 55576
+MD5sum: 909e2da1200b7c4407bcaaeecd6ce863
+SHA1: 0d37335d4491ce4d408713b877284df33b77dd89
+SHA256: c13410ce702353a1ef0f95b0856338ef3f8ceee469614c16f125349b45680634
+SHA512: 9963f3f1351bb4de8054cce4b668b59bbe4e4af17356c800b445e6d4aeba0fa57cdc9de859dfc307d37d254ed0deaf9cbd196b75005e088e00c67666faa0cc18
 Description: Auto switch to the strongest WiFi Network.
-Tag: cydia::commercial
 Name: StrongerFi12
 Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
 Author: tateu (Josh Harris) <tateu@tateu.net>
@@ -14475,15 +14456,14 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootless/com.dvnttm.silentnotifs_0.0.2_iphoneos-arm64.deb
-Size: 3884
-MD5sum: 40e784b5c8b4b68605a7c75741aab208
-SHA1: e3be6edc9a0c5097d75eb40f620416c21aaa3f5b
-SHA256: bbedc5f4a6ff9030d396d4fac1579b3896507fd25ee11216630620fc21664309
-SHA512: 5645d74819f901af9b27e7f5441edc000d7c77a07fa4ad0e3d9b16a16548f12c83a5867a48d5879fbea2c0e376b2c89b8459508f40618ef91d6c5c1095ecccd1
+Size: 3872
+MD5sum: 1cc392ff24e07eaeb5e8900824cdf74e
+SHA1: bee810a85cea3a938ad19653416739e5acce133a
+SHA256: b6fa7811b794b00ee89fcc071a53bbaeb643bb78cb9381d1c348ee93a553c289
+SHA512: 54ff54f10e602a3b4cb70b9edf6b02224b319bc612673eb787e2e5e73c5b1aaec5596a494a62a40ae4833718ea11343df21e7b2d5cb67207a3527fd45136ebbb
 Description: 
  * Keep notifications silent while media is playing.
  * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
-Tag: cydia::commercial
 Name: SilentNotifs
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
@@ -17300,13 +17280,12 @@ Maintainer: pxcex
 Installed-Size: 152
 Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootless/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
-Size: 26404
-MD5sum: 9a7f45977a45575a46f1cf540a891671
-SHA1: bd43d922cd07872a14e6e2f96e31ddadad6d043a
-SHA256: db5e7289621c467c8d502f18c4da0974ba1fc178e1ebed5948d3f408d76d2a05
-SHA512: 325e4c610b890af6ecb0021e5a5fa1e8fe08db1e8b82f56d6c3de18ff8355399766e314d0b4b527a69a4d3c9088be14f72721d82e3bd5939b6a6f1e9f95321d9
+Size: 26368
+MD5sum: cb466d4196f4cc562ba4976d319e7f79
+SHA1: 77d82bbbd3521a63c07f79390adeb2139d5f599c
+SHA256: 1ac7eb74e9ee225a5dddb8f707344b20ab8636f33d709e8da5f3fc91ee75d345
+SHA512: 069b5853f64705be2caae5964dd3776e16dbe8d235b2b989f275f8997e07b560994a9ea88d451da43e23eb7e34a58bda41305db7adfecc0d2b5d478a7734fe0b
 Description: Smart Auto Scroll & Faster Scrolling on all apps .
-Tag: cydia::commercial
 Name: AutoScroll
 Author: pxcex
 Depiction: https://d.plutorepo.com/posts/AutoScroll
@@ -17444,14 +17423,14 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 176
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Rootless/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
-Size: 14128
-MD5sum: 4e22b2dc715ddb242b661eb19a59e250
-SHA1: e5e5cea3c8abfb82477eaf54c5e50dd11cd862a6
-SHA256: 1967577622f181bc60f23689b66d01d4ff06920dacde8d5c7c808e3a85c0ac65
-SHA512: faf6d7a29912d68309bc04b97bbe75f9afedfe7ef0279df470eadece3fc32272a17de31208c97f2c232ecea9e30a03b3abbee2ac504518d5fb63cf7f1d83cab2
+Size: 14116
+MD5sum: d947bdaef5279d5aeaef0092b57eaeec
+SHA1: 6f6144dc4a34d1e305ac3dcdd9a9548b73328519
+SHA256: a4de5b15e6231d28a2232540d8420f48741de455ef2df2f14c625a1523d68cfa
+SHA512: 0b18c75ccf719509a811e573684bf6b634b36acc4d78c577d23622b397189ee24a759a874c8e7bcb333a2df0f7e1a2ab8833f5c746e64c4bdca83b03f3b72ebe
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
-Tag: purpose::extension, cydia::commercial
+Tag: purpose::extension
 Name: Powercuff
 Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -17637,13 +17616,12 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm64.deb
-Size: 53440
-MD5sum: b6c3d2f770975a49ad4a7dfceab92ae5
-SHA1: e8285d463d4175e16d1c8533e47cfe4198fb2dcd
-SHA256: 1c48f23e3e0a54ef2bf9841f556e9ea7bdd7ea92f859267e027d9d049d51258b
-SHA512: a3870f1f3fa361e2055dcf8f818676c139ace8a86eadf6eb30ba820404122285b9ef2d7b6244ae431035549d3d58f32d5c7bcdd580937de50ede981e6752a2c0
+Size: 53488
+MD5sum: bb5da2f24c9a413a0b5ec095d1bd30e6
+SHA1: 1c995ee7e942d7e192ecef5c1c3d413ce4f35252
+SHA256: 6f221b19842bd0f2005f1d3a2e61874c065f0dc5fd1aa8fc845f428346d7ad68
+SHA512: 29911e8962b5e355c43aa0a6aa60a52a6b514e8fa425a1dc50cd78743001f4ee69372097d76b3bc98ffd351f533f4399decdf37e4d6bf4ddf16c9f9e4c115e4b
 Description: Automate alert actions.
-Tag: cydia::commercial
 Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
@@ -18158,13 +18136,12 @@ Section: Tweaks
 Maintainer: Tr1fecta
 Depends: firmware (>= 11.0), firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.tr1fecta.autotooth_1.0_iphoneos-arm64.deb
-Size: 12016
-MD5sum: 9e76c7a995e2b9652611de877f008d66
-SHA1: b92af8c5d155b0a2bf425cb42f5b5d7e14c4bce5
-SHA256: 2f198a38b5b956a97794b30eda7fe0d15ba65fcbdd570b9c6027c993cf5387b0
-SHA512: fee0e71a7a1ae04f26f34e211131dd162c2f4992a2ca0584dea690279e5f6a14c9af012e5883a68404d95c02e6549223c3496fad991d2208fd0983255db32426
+Size: 12000
+MD5sum: 624c17a3b8596c9e8599f071af01cba1
+SHA1: 532b359cb683d3cf4cd210a32c6c4170773a7c15
+SHA256: da22de767e2fbbe32866d50261694dbc2bb35d177dab59586206454620db2181
+SHA512: 538342369ba797a7bab4cd4887ad313a152f7f5f8955ff369d067af47daf1fc66e8b20294158ca0fec023f98635aae4874e861274ae7e9007f0fb56b7372d041
 Description: Control your BlueTooth & WiFi .
-Tag: cydia::commercial
 Name: AutoTooth
 Author: Tr1fecta
 Icon: file:///var/jb/Library/PreferenceBundles/AutoToothPrefs.bundle/icon@2x.png
@@ -18965,13 +18942,12 @@ Maintainer: nqt1195
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/ios.nqt1195.ccwifijoin_1.0_iphoneos-arm64.deb
-Size: 9060
-MD5sum: a7b7e02965e1b610b912260d0e771a70
-SHA1: 840b1a05c8309c95064c8d4b9702a1dbad051819
-SHA256: 23d2b5d856d4ba4670a3effd4318442a333894f551246a4d5a7a460ce58566ca
-SHA512: 1a97fddf1ea77bcef9ab640f89a5df8551f2506a2388717597aa5b2b09f3773d8c795dbaaa1e9e5decc2a52d25a36e8140b92fe2c85bedda493ed924defdf371
+Size: 9024
+MD5sum: e5fb5c4784f54bc3d2218adc39e80d25
+SHA1: 93bc081a42323ad5071c87bd154d9d06faf5e5ed
+SHA256: c38843a83c6c4b154cd0e01d69abdd6bfdd655a805c26bac2feb5d293c562364
+SHA512: 4792401c1a2c74061470c5c108dc5ede4374343c43e1aa5d4e97c9d34347e9b95d09042d9160efbc67a135e76a143caaccef84eb2bae9613a4e455086e7c1445
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
-Tag: cydia::commercial
 Name: CCWiFiJoin
 Author: nqt1195
 
@@ -19071,13 +19047,12 @@ Maintainer: Litten
 Installed-Size: 2832
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
 Filename: ./debians/Rootless/love.litten.rose_1.1.0_iphoneos-arm64.deb
-Size: 424412
-MD5sum: 039d812713e188367b5a5b7a99ff8cba
-SHA1: 1841e62ebd32cbd0d5ab3682281f9a11aec23287
-SHA256: 6c34fd5a07f70020e40d1a94e899db5747949e28bc7655a92f768eedeebe2a40
-SHA512: cd90954df8e47138729832ba3111ef1807ebb7ef903d599052805eeec0f33ce5de25c2d6d473faf16a88dbcd661e2603155135e1badc9a5f6bc867bd2f0069cd
+Size: 424432
+MD5sum: e76d4dbc22e603a2814639b9d72c5db6
+SHA1: a0b212a50c26aad9b72c59955a16dfe78920f75f
+SHA256: 57156fc719717444a123f91215f36b5ea359b1b018ba26421d093861d334a642
+SHA512: bdcf46913196c79a41494392e771bc10987345f601d5e15072fee6c83f07d86a1b329e1f2f779188a94a6a9ee086ebd3582edac2a8e25bb5b760d66a00f54bf3
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
-Tag: cydia::commercial
 Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
@@ -19226,13 +19201,12 @@ Maintainer: Aarnav Tale <aarnav@tale.me>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Filename: ./debians/Rootless/me.tale.panic_1.1.2_iphoneos-arm64.deb
-Size: 133636
-MD5sum: e0fdac68b65f9f8cb1d78341d8cdb9d1
-SHA1: 66853daaf37d193630019e10fe0c6b13e01a5fa4
-SHA256: 009562a6349791fc674eb5f4d484a8c73439337177804978b877809f898f3e1b
-SHA512: 6a8d3d4ac29750ca29feb55c5145ebb02735af17b99e1c88dfea986907a73766146f994e1976143fad207900d34c16888c0136ef189a7f6bb04d2c422205fbfa
+Size: 133456
+MD5sum: 57ada2c8bced67f24468ccf2f8bf315e
+SHA1: 0fd6554fe66ee3aba3cad6a0c6dc7b4ef6de7f8d
+SHA256: 2ffd9eeffcd67fb738cb4973a8541f84c9f8fc41c6969d4b899b2df33c8e9688
+SHA512: 70a4820172887e7d3fad3612ca40cc7745df9a036b70a941b6e06f15ef350768c13a0cf55e18f481cdb7443e723dc8afc07e62f1053118ee9cdff33900202182
 Description: Stop! Don't panic, you can still fix this...
-Tag: cydia::commercial
 Name: Panic!
 Depiction: https://apt.tale.me/me.tale.panic
 SileoDepiction: https://apt.tale.me/me.tale.panic.json
@@ -19374,13 +19348,12 @@ Installed-Size: 412
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Conflicts: net.tateu.strongerfi
 Filename: ./debians/Rootless/net.tateu.strongerfi12_1.0.0~beta5_iphoneos-arm64.deb
-Size: 54524
-MD5sum: 7190e4082cc95eeb5b0884e55a5adce7
-SHA1: bfc20e578a403c8b4803a10e02cc36e184c001f1
-SHA256: e2a3516dda42734de1067b32b8d00411c4d1b50e824f3cdb6ff0f30c6bcaff4c
-SHA512: 382d57f378bd966f13bedb9742e3c1162f3b29ef60f8e0765d403c24fba839e2707d16da466cf7b5abcbfe407defdb4cabb47c27abf8045ea5ebcde3832a29d0
+Size: 54676
+MD5sum: f153e90ff8aa8d2a09944f790273a7f5
+SHA1: 4b1d4d6827b5defd02e7a08e6f56e3fb7632a6ca
+SHA256: bfb27895465a306cd829c2022ad431de6d6c66432b840a033b1c81d55fed7985
+SHA512: b414694efc4aa03c9809be685d3933d9d897ae792a4e0a793affe4339b0438e6ca81e29a21fa9eb9f221edd450c4f6c0fa52790cd892e870fca18ea4e91f67fc
 Description: Auto switch to the strongest WiFi Network.
-Tag: cydia::commercial
 Name: StrongerFi12
 Depiction: http://www.tateu.net/repo/html/?p=strongerfi12
 Author: tateu (Josh Harris) <tateu@tateu.net>
