@@ -577,13 +577,12 @@ Maintainer: Amy While
 Installed-Size: 360
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware(>=14.0)
 Filename: ./debians/Rootful/com.amywhile.macspoof_0.2.1_iphoneos-arm.deb
-Size: 22176
-MD5sum: fe7c3cec010ee970797e9f7da4f3d823
-SHA1: 08ad73cf9144abdb20fb405d17249ba64e68882c
-SHA256: c45f625dfdd309fd4affc8a502a7f11863e72a34eb4ddabba91e39dcff68e61a
-SHA512: 2d355207fa85e63e9cbccbc80687235a035012d49f9f3d48457a91b486b0ac5638d0ae521ecddd4829a5ff9b4ff79e534cd6edcbc0ff0a0538d89e12015ef278
+Size: 22144
+MD5sum: c028a108de43ccad5b8f6953b0451cb3
+SHA1: 8a4f640e28fca149329bfb235ae7f637e209fccf
+SHA256: 9616c5f67aa8f6a535d5be21e977e5d68a8dc7392b50695e882e95b6f9560298
+SHA512: 794aadd06c012f64c9664208ebcb343c43b474d6c0409e2794f5dfd5772a51348c7b0d2012811a0212612a4ff8825a27be0808c676107d9a20c09808a00c32d0
 Description: Spoof Mac Address on iOS
-Tag: cydia::commercial
 Name: MacSpoof
 Author: Amy While
 
@@ -6356,13 +6355,12 @@ Installed-Size: 376
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware(>=14.0)
 Filename: ./debians/Roothide/com.amywhile.macspoof_0.2.1_iphoneos-arm64e.deb
-Size: 23132
-MD5sum: 9b28b1283e50bfb45f0e0146a374974f
-SHA1: d3a3bf5eec51de463fc1599e5b9077b11dcd923d
-SHA256: 11b09ba2e4150bfdba09b213843bbc7f72562078517b6ae24b78744014aac420
-SHA512: 3ee4c5f4abb98d895c8555702cc6bb2ff39388cf4d8bba9107e0c76bf40c077fcb79fdfb2e8f71aa8646d0c76b5fb009d409e44a832bace0be8b02eccb094b48
+Size: 23092
+MD5sum: fb4ce62709988a93ad28095e8dd2716c
+SHA1: d6f4925f0d27df4c13ad13f8ac870ee40c2372a8
+SHA256: f352c63c0e878ff9db6fba119bdcccabf199830cae4948c56dd67f90c342795e
+SHA512: 2d490721de9f15c28f98f1946cf4e7a21f25808c88d6579509e5df7c9f5460f9257bb7192daffde63e612f8ca8f70de7da6d7b31f9b3a1a453d26cfecdae6aec
 Description: Spoof Mac Address on iOS
-Tag: cydia::commercial
 Name: MacSpoof
 Author: Amy While
 
@@ -9797,6 +9795,44 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/smoothkb.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/smoothkb.json
 
+Package: com.ps.youmute
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.0.0)
+Filename: ./debians/Roothide/com.ps.youmute_1.3.1_iphoneos-arm64e.deb
+Size: 5248
+MD5sum: 61817f4a935475487323020c1e01ef41
+SHA1: 9a9675a79d0f99329102bbcbfb4bfb5d32d7387a
+SHA256: 09999a69ddc5e3b92e5e074d7f5470e9cf3740e9be092697defd4f485521bc36
+SHA512: d707d26b928c0042744577a714f6b0c5fb3daba4c577f349f0c37f6db22c0fb1b8618eb9779caa99c10fa37e7ae520cf15f95e22a2df3d574ca2da8950b7a07c
+Description: Mute/unmute videos in YouTube directly.
+Name: YouMute
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/youmute.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youmute.json
+
+Package: com.ps.youquality
+Architecture: iphoneos-arm64e
+Version: 1.3.5
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.1.1)
+Filename: ./debians/Roothide/com.ps.youquality_1.3.5_iphoneos-arm64e.deb
+Size: 6044
+MD5sum: 475910b045c92c22a3bccc92e5535672
+SHA1: 58fb743e24e615f769b21274c7e13ada7cbf4262
+SHA256: 3c342d0cf6712fe4d4018aaf48fb5b8cf01843a8feed2efe045abe284a45fc90
+SHA512: 20f939dca4ea67f0f5112ebd8254bd82a63c91d0607daaa44da84f881e364cb3b0d324c8e334bb45a09f6e4de0734da57fd3d509039b61185d15bf74e6ab0d64
+Description: View/change video quality in iOS YouTube app faster.
+Name: YouQuality
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
+
 Package: com.ps.ytlegacy
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -9856,6 +9892,25 @@ Name: YTUHD
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+
+Package: com.ps.ytvideooverlay
+Architecture: iphoneos-arm64e
+Version: 2.2.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/Roothide/com.ps.ytvideooverlay_2.2.0_iphoneos-arm64e.deb
+Size: 13430
+MD5sum: 72f32eb1dcd2ad0d68dd5d18b0b444f5
+SHA1: 28e1086b9253bc918c73ead7c156d8e7cf99a5b0
+SHA256: 9d318f018c1075aa00fba07d016ffe09056207c83372ebd49db72065ef8ac9e3
+SHA512: e8d80ae4df8a69a9305c28eb9d1a2c2f3f2dd1d6a2f87002f8d87bea9cba9185a4ca52c15eb7c91fd1b58ece1fcdd929ed8889a52c6fd0e481644de0040bf45d
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
 
 Package: com.pwnd2e.filzascriptdev
 Architecture: iphoneos-arm64e
@@ -13043,13 +13098,12 @@ Maintainer: Amy While
 Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware(>=14.0)
 Filename: ./debians/Rootless/com.amywhile.macspoof_0.2.1_iphoneos-arm64.deb
-Size: 21400
-MD5sum: acc18cb60f5bccde5ba485a7f93d1f14
-SHA1: 383158a0c64fdedbd6f97cb05d64c8e88b3acbfa
-SHA256: 0eca61253569f38839fb2a4d066b407f075bd2df79f1061cfd0fd89903dffd5c
-SHA512: 47ee7dae5f3342ccd397915e98c23090e106315884d3d58b5409acba4d7acf7e2740d9a351c41e2a262f4efe14a0461602468a7829d0fac055d6cedaf1d0ca13
+Size: 21380
+MD5sum: 405dc7d2917d7f7224e328409aa30b2e
+SHA1: fcb66d521f3ef3130cb78576bb947c19a48ccbbd
+SHA256: e9a86fdcaefeb9cddea9cf87f6cd351eeaae41777e78c09214c872a5327d4cbe
+SHA512: a2d64c1458f9b493212fac29fe82badfc31b69aa509b5396257a8d6b7a68ddbe9520903d2446c55be23f1607644507d14070a1e306440459b92aaec7a6149289
 Description: Spoof Mac Address on iOS
-Tag: cydia::commercial
 Name: MacSpoof
 Author: Amy While
 
