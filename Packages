@@ -1629,40 +1629,6 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
-Package: com.dvntm.silentnotifs
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.dvntm.silentnotifs_0.0.1_iphoneos-arm.deb
-Size: 3398
-MD5sum: f41aba98e56ea032bb55f8c9ce4bfe06
-SHA1: ce2f99292da86fe182cfcf7bf028344fc1ab831a
-SHA256: 72a8e50b92d161c12b01b85738ca58ad211b536e1021c7e21044d2beba7f4236
-SHA512: 0e6f44a9df417bf5cbf24cf12a50ae1d3627eb8ce2d619bdbf7932dc1592e5104f40a1c47ba2e44871f924101fd12e3cf0c2d02f5b6e3bf0feefba85c288a708
-Description: Keep notifications silent while media is playing
-Name: SilentNotifs
-Author: dvntm
-
-Package: com.dvntm.silentnotifs
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.dvntm.silentnotifs_0.0.2_iphoneos-arm.deb
-Size: 3572
-MD5sum: ca7db84453f1ec76b3663d6965e0ade0
-SHA1: 23787af0d3b0aad6ec8435609bb0c4651a9f724a
-SHA256: eda0a189a4baa47d8ca327d25660d81b2995e763b565b5691c378a7ee454fc90
-SHA512: f251ca5284b13c6a162dc552531819bc2031fa7ce47fad3129f4a2a47e24f48b6a66335624c67d8982e74a2cd2abbaede76cbe2bd484141986b73d07e3e8c84a
-Description: Keep notifications silent while media is playing
-Name: SilentNotifs
-Author: dvntm
-
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.1
@@ -1757,6 +1723,27 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.dvnttm.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvnttm.silentnotifs_0.0.2_iphoneos-arm.deb
+Size: 3804
+MD5sum: 34b27a236ba3cc74a9069e7933fe4964
+SHA1: 5ce97220adba60a2f3bf3ec75c671240fb008241
+SHA256: e4e694988cf8eb4820fe25ae4f1c2987cb131756789f6a3a44133f410f80a7ab
+SHA512: 24b57d2d477d66c415d776058ba912f5b33fc91f1e24b51d4acfd19f3aa7358f19451bf58787f78227c3fd2cf743f42a50ef81bd6846a8cdad3890c7e9ab654c
+Description: 
+ * Keep notifications silent while media is playing.
+ * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
+Tag: cydia::commercial
+Name: SilentNotifs
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
 
 Package: com.eamontracey.secretshot
 Architecture: iphoneos-arm
@@ -3022,6 +3009,25 @@ Description: Fancy battery popups
 Name: Sanjeh
 Author: Mysteryexe
 Icon: https://mysteryexe.xyz/repo/sanjehIcon.png
+
+Package: com.nahtedetihw.listening
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.listening, eu.ivanhrabcak.listening
+Replaces: com.nahtedetihw.listening
+Filename: ./debians/Rootful/com.nahtedetihw.listening_1.2.3_iphoneos-arm.deb
+Size: 83560
+MD5sum: 7dc34848fef8d89dc69a50ca9abb982d
+SHA1: b4c29d2b771694e1f9a2fb346557b1e4be307a91
+SHA256: 5da880f8d89a9203c78226c10a6794ca2b943d9028b0b03e8aa6dc34bad3e07f
+SHA512: 64978ebbb00c01ed5f2bcf9febcd910853bd3cc75c94eca726a00faa91de6167996a103f0bdc83f4f20d3054ea4387ab62e1dacd67970a89beb922ab9eeaeb5f
+Description: Toggle Transparency when paused and when playing!
+Name: Listening
+Author: Ethan Whited, ichitaso
 
 Package: com.nahtedetihw.loopvideoss
 Architecture: iphoneos-arm
@@ -7064,23 +7070,6 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 
-Package: com.dvntm.silentnotifs
-Architecture: iphoneos-arm64e
-Version: 0.0.2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Roothide/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
-Size: 3728
-MD5sum: 9ef473ff92347f3c24afe6ad0a13a7f4
-SHA1: 8ba22254edd8f4a9b61a52862a50b47f74d65aa4
-SHA256: 543a651238c2b92d2d8c47e4aa097e5657b1691d07202e0dc18ff97d4159c8f2
-SHA512: 630ed624895b891859311e5381c7ae68e235d53d12d8add51ab1f11cdbb601c0b9345c3da53ec2e1962984385d2d579185c312fa7b069a24348589965c8c9f97
-Description: Keep notifications silent while media is playing
-Name: SilentNotifs
-Author: dvntm
-
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64e
 Version: 5.1
@@ -7118,6 +7107,27 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.dvnttm.silentnotifs
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvnttm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Size: 3856
+MD5sum: bc1204ffb57cc751a2944e4ee0e08a7b
+SHA1: 0dba01039d5ecf12cc09ee02bf3e7fde002dacda
+SHA256: e4cd9ca467c72f1cdc4a1ad5b9e960700521931f1c52966285c4ec596c2d3943
+SHA512: bc1aef452589bddf971cb1f039116fcc9775a24edb91158e8e486ee3e0f6fc343408b2d70f7db3ec88a28926771cce934b605f30c7f56a34b5384460472c5b67
+Description: 
+ * Keep notifications silent while media is playing.
+ * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
+Tag: cydia::commercial
+Name: SilentNotifs
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
@@ -8588,6 +8598,25 @@ SHA512: 3309e0ee6c903727d04bcc43f645e4f9ebda81e2b96ff39316af224216370d97dda443f0
 Description: Make the Apple Music app look like iOS 17!
 Name: ArtFull
 Author: Ethan Whited
+
+Package: com.nahtedetihw.listening
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 708
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.listening, eu.ivanhrabcak.listening
+Replaces: com.nahtedetihw.listening
+Filename: ./debians/Roothide/com.nahtedetihw.listening_1.2.3_iphoneos-arm64e.deb
+Size: 77840
+MD5sum: 5e82ab4442df67b53ab0becacb6e0a4d
+SHA1: 9c6e5ce5dd642854390379e83bdf6a7c80972039
+SHA256: 76ccab79aa8de61d92cbf921a43f79aa1c9d7b95ce0caf1a8a81befcb66e5e19
+SHA512: 29e8dc72e272cc8b48060eb1be19d5a3510ffd1269b83e41b777c03810f4cfdb7c3fca6d6fa517b5047779157b14ba97708c76bfe3637ec670baf903325cae2e
+Description: Toggle Transparency when paused and when playing!
+Name: Listening
+Author: Ethan Whited, ichitaso
 
 Package: com.nahtedetihw.nowplayingiconxvi
 Architecture: iphoneos-arm64e
@@ -14343,40 +14372,6 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
-Package: com.dvntm.silentnotifs
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootless/com.dvntm.silentnotifs_0.0.1_iphoneos-arm64.deb
-Size: 3478
-MD5sum: 4da4fa572e8ffaf09ec04457b69e7227
-SHA1: a2236c59566d978dc3a0d07579083cc867119136
-SHA256: 3db9f3ea66aa8cd6f616a57f089dbb0f6444ad7c75898ceba0fca3647395dcd3
-SHA512: ca49fdb963cad02c497ae5898637b5dd2a39631b0b786e0b3d8d9beb86cb62cff0504cfc2c3a34dda23c17e4b92253287074c4222dcc3731a09de5ee85b9fab8
-Description: Keep notifications silent while media is playing
-Name: SilentNotifs
-Author: dvntm
-
-Package: com.dvntm.silentnotifs
-Architecture: iphoneos-arm64
-Version: 0.0.2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootless/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64.deb
-Size: 3662
-MD5sum: 38ad559e9ac9740ef30214da4eaa7a00
-SHA1: 002eb290de9e0aa601009580bc0f867bdcd9088f
-SHA256: 99196a6cb4129d2ebaff2580d6bd019628318f82a7d8c78b1e4ae3c24ef31a8a
-SHA512: f0265105e37861a75409321b73d280e48ac1c3eca3772421e3e172b824802d399ce14268c40eda6db657abb3811e7a392eb432fdb3db237ec96e05cde12468b5
-Description: Keep notifications silent while media is playing
-Name: SilentNotifs
-Author: dvntm
-
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
 Version: 5.0.1
@@ -14471,6 +14466,27 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.dvnttm.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvnttm.silentnotifs_0.0.2_iphoneos-arm64.deb
+Size: 3884
+MD5sum: 40e784b5c8b4b68605a7c75741aab208
+SHA1: e3be6edc9a0c5097d75eb40f620416c21aaa3f5b
+SHA256: bbedc5f4a6ff9030d396d4fac1579b3896507fd25ee11216630620fc21664309
+SHA512: 5645d74819f901af9b27e7f5441edc000d7c77a07fa4ad0e3d9b16a16548f12c83a5867a48d5879fbea2c0e376b2c89b8459508f40618ef91d6c5c1095ecccd1
+Description: 
+ * Keep notifications silent while media is playing.
+ * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
+Tag: cydia::commercial
+Name: SilentNotifs
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
 
 Package: com.eamontracey.secretshot
 Architecture: iphoneos-arm64
@@ -15988,6 +16004,25 @@ Description: Fancy battery popups
 Name: Sanjeh
 Author: Mysteryexe
 Icon: https://mysteryexe.xyz/repo/sanjehIcon.png
+
+Package: com.nahtedetihw.listening
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.listening, eu.ivanhrabcak.listening
+Replaces: com.nahtedetihw.listening
+Filename: ./debians/Rootless/com.nahtedetihw.listening_1.2.3_iphoneos-arm64.deb
+Size: 80430
+MD5sum: e2d7d34a997045f4503dfc50db6c0689
+SHA1: 600f8327cec07059082f207d8a1f41ee7b74c206
+SHA256: f260886568a9136b3eb3bf8fcb94ae6a926dd1a996cc573588abd8a80772361a
+SHA512: 8962774402498c9d4e4318bfc46e1fd4c7b79479d87a0a5a3b746f2b7434334ee2320be189d69e06fbdd23c46888170cfb864ca3bfe48c171c76980d5d85b0e4
+Description: Toggle Transparency when paused and when playing!
+Name: Listening
+Author: Ethan Whited, ichitaso
 
 Package: com.nahtedetihw.loopvideos
 Architecture: iphoneos-arm64

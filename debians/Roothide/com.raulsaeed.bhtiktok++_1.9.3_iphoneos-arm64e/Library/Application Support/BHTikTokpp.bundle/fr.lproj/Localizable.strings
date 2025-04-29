@@ -1,0 +1,197 @@
+/* Localizable.strings */
+  
+// Titres principaux
+"BHTikTok, Hi" = "BHTikTok, Salut";
+"BHTikTok++ settings" = "Paramètres de BHTikTok++";
+  
+// Actions courantes
+"Yes" = "Oui";
+"No" = "Non";
+"ON" = "Activé";
+"OFF" = "Désactivé";
+"Downloading" = "Téléchargement";
+"Backgrounding ✌️" = "En arrière-plan ✌️";
+"Are you sure?" = "Êtes-vous sûr ?";
+  
+// Options de téléchargement
+"Download Video" = "Télécharger la vidéo";
+"Download HD Video" = "Télécharger la vidéo HD";
+"Download Music" = "Télécharger la musique";
+"Download Photo" = "Télécharger la photo";
+"Download All Photos" = "Télécharger toutes les photos";
+  
+// Options de copie
+"Copy Music link" = "Copier le lien de la musique";
+"Copy Video link" = "Copier le lien de la vidéo";
+"Copy Decription" = "Copier la description";
+"Copy bio" = "Copier la biographie";
+  
+// Messages d'erreur
+"Could Not Copy Music" = "Impossible de copier la musique";
+"The video dosen't have music to download" = "Cette vidéo n'a pas de musique à télécharger";
+  
+// Étiquettes du menu
+"Downloads Menu" = "Menu des téléchargements";
+"Copy Menu" = "Menu de copie";
+"Download Photos Menu" = "Menu de téléchargement des photos";
+  
+// En-têtes de section
+"Feed" = "Fil d'actualité";
+"Profile" = "Profil";
+"Confirm" = "Confirmer";
+"Other" = "Autre";
+"Region" = "Région";
+"Live Button Function" = "Fonction du bouton Live";
+"Playback Speed" = "Vitesse de lecture";
+"Developer" = "Développeur";
+  
+// Fonctionnalités du flux
+"Hide Ads" = "Masquer les publicités";
+"Download Button" = "Bouton de téléchargement";
+"Share Sheet" = "Partager le media";
+"Remove Watermark" = "Supprimer le filigrane";
+"Show/Hide UI Button" = "Afficher/Masquer le bouton UI";
+"Stop Playback" = "Arrêter la lecture";
+"Auto Play Next Video" = "Lecture automatique de la vidéo suivante";
+"Show Progress Bar" = "Afficher la barre de progression";
+"Transparent Comments" = "Commentaires transparents";
+"Show Usernames" = "Afficher les noms d'utilisateur";
+"Disable Sensitive Content" = "Désactiver le contenu sensible";
+"Disable Warnings" = "Désactiver les avertissements";
+"Disable Live Streaming" = "Désactiver les diffusions en direct";
+"Skip Recommendations" = "Ignorer les recommandations";
+"Upload Region" = "Région de téléchargement";
+"Hide Top Feed items" = "Masquer les éléments en haut du flux";
+"Anonymous Seen" = "Vue anonyme";
+  
+// Fonctionnalités du profil
+"Profile Save" = "Enregistrer le profil";
+"Profile Copy" = "Copier le profil";
+"Video Like Count" = "Nombre de mentions J'aime sur la vidéo";
+"Video Upload Date" = "Date de publication de la vidéo";
+  
+// Fonctionnalités de confirmation
+"Like Confirmation" = "Confirmation de mention J'aime";
+"Like Comment Confirmation" = "Confirmation de mention J'aime pour un commentaire";
+"Dislike Comment Confirmation" = "Confirmation de désapprobation d'un commentaire";
+"Follow Confirmation" = "Confirmation de suivi";
+  
+// Autres fonctionnalités
+"Auto Clear History" = "Effacement automatique de l'historique";
+"Enable Fake Changes" = "Activer les modifications factices";
+"Follower" = "Abonnés";
+"Following" = "Abonnements";
+"Fake Verified" = "Fausse vérification";
+"Extended Bio" = "Biographie étendue";
+"Extended Comments" = "Commentaires étendus";
+"Upload HD" = "Télécharger en HD";
+"App Lock" = "Verrouillage de l'application";
+"Enable Flex" = "Activer Flex";
+"Enable Oled Keyboard" = "Activer le clavier OLED";
+  
+// Descriptions des fonctionnalités
+"FEATURE_HIDE_ADS" = "Masque les publicités du flux";
+"FEATURE_DOWNLOAD_BUTTON" = "Active le bouton de téléchargement pour les publications et stories";
+"FEATURE_SHARE_SHEET" = "Ouvre le menu de partage après le téléchargement des médias";
+"FEATURE_REMOVE_WATERMARK" = "Supprime le filigrane (logo TikTok animé et nom d'utilisateur) des médias téléchargés";
+"FEATURE_UI_BUTTON" = "Affiche ou masque le bouton UI";
+"FEATURE_STOP_PLAYBACK" = "Arrête la lecture de la vidéo à la fin";
+"FEATURE_AUTO_PLAY" = "Active le défilement automatique des vidéos";
+"FEATURE_PROGRESS_BAR" = "Affiche une barre de durée sous chaque vidéo";
+"FEATURE_TRANSPARENT_COMMENTS" = "Rend la section des commentaires transparente";
+"FEATURE_SHOW_USERNAMES" = "Remplace les pseudonymes par les tags";
+"FEATURE_DISABLE_SENSITIVE" = "Masque les avertissements de contenu inapproprié";
+"FEATURE_DISABLE_WARNINGS" = "Masque les avertissements de TikTok";
+"FEATURE_DISABLE_LIVE" = "Masque les diffusions en direct dans le flux";
+"FEATURE_SKIP_RECOMMENDED" = "Supprime les recommandations d'amis, etc.";
+"FEATURE_UPLOAD_REGION" = "Affiche le drapeau de la région de téléchargement à côté du nom d'utilisateur";
+"FEATURE_HIDE_TOP_ITEMS" = "Masque le bouton de recherche, LIVE et autres (Pour Vous, Abonnements, Boutique, etc...)";
+"FEATURE_ANONYMOUS_SEEN" = "Active le blocage des accusés de réception de lecture";
+"FEATURE_PROFILE_SAVE" = "Enregistre les informations de profil dans le presse-papiers";
+"FEATURE_PROFILE_COPY" = "Copie les informations du profil";
+"FEATURE_LIKE_COUNT" = "Affiche le nombre de mentions J'aime sur les messages";
+"FEATURE_UPLOAD_DATE" = "Affiche la date de publication";
+"FEATURE_CONFIRM_LIKE" = "Affiche une confirmation pour aimer une vidéo";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Affiche une confirmation pour aimer un commentaire";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Affiche une confirmation pour désapprouver un commentaire";
+"FEATURE_CONFIRM_FOLLOW" = "Affiche une confirmation pour suivre un utilisateur";
+"FEATURE_AUTO_CLEAR" = "Efface automatiquement l'historique de recherche toutes les 60 secondes";
+"FEATURE_FAKE_CHANGES" = "Active le spoofing des données du profil";
+"FEATURE_FOLLOWER_COUNT" = "Entrez un nombre factice d'abonnés";
+"FEATURE_FOLLOWING_COUNT" = "Entrez un nombre factice d'abonnements";
+"FEATURE_FAKE_VERIFIED" = "Affiche un badge de vérification factice";
+"FEATURE_EXTENDED_BIO" = "Étend la limite de caractères de la biographie";
+"FEATURE_EXTENDED_COMMENTS" = "Étend la limite de caractères des commentaires";
+"FEATURE_UPLOAD_HD" = "Active les téléchargements HD";
+"FEATURE_APP_LOCK" = "Ajoute la possibilité de verrouiller TikTok avec un mot de passe";
+"FEATURE_ENABLE_FLEX" = "Réservé aux développeurs, NE PAS TOUCHER si vous ne savez pas ce que cela fait";
+"FEATURE_OLED_KEYBOARD" = "Fonctionne uniquement avec le thème sombre";
+  
+// Section développeur
+"DEVELOPER_TELEGRAM" = "Rejoignez le canal Telegram pour les dernières mises à jour";
+"DEVELOPER_SUPPORT" = "Soutenez BHTTPP et accédez au groupe de test bêta";
+  
+// Fonctionnalités des commentaires
+"Disable Comment Tooltip" = "Désactiver l'info-bulle des commentaires";
+"Add Comment as Post" = "Ajouter un commentaire comme publication";
+"Add Comment as Story" = "Ajouter un commentaire comme story";
+"Mass Unfold Comment Replies" = "Déplier massivement les réponses aux commentaires";
+"Auto Unfold Comment Texts" = "Déplier automatiquement les textes des commentaires";
+"Multi Emoji Comment Bar" = "Barre de commentaires Multi Emoji";
+"Hide Emoji-Bar" = "Masquer la barre Emoji";
+"Comment Cell Redesign" = "Refonte de la cellule de commentaire";
+  
+// Descriptions des fonctionnalités des commentaires
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Désactive l'info-bulle emoji lors du maintien du bouton de commentaire";
+"FEATURE_ADD_COMMENT_POST" = "Active la possibilité de commenter comme publication";
+"FEATURE_ADD_COMMENT_STORY" = "Active la possibilité de commenter comme story";
+"FEATURE_MASS_UNFOLD" = "Déplie toutes les réponses aux commentaires en une seule fois";
+"FEATURE_AUTO_UNFOLD" = "Déplie les textes dans les longs commentaires";
+"FEATURE_MULTI_EMOJI" = "Active un panneau d'emoji étendu dans les commentaires";
+"FEATURE_HIDE_EMOJI" = "Masque le panneau d'emoji dans les commentaires";
+"FEATURE_COMMENT_REDESIGN" = "Permet de sélectionner un design pour la cellule de commentaire";
+  
+// Paramètres des commentaires et du design
+"Comment Settings" = "Paramètres des commentaires";
+"Design Options" = "Options de design";
+"Comment Features" = "Fonctionnalités des commentaires";
+"Comment Design" = "Design des commentaires";
+"Select Design" = "Sélectionner le design";
+  
+// Options de design
+"Default" = "Par défaut";
+"Modern" = "Moderne";
+"Compact" = "Compact";
+  
+// Options d'action
+"Cancel" = "Annuler";
+"Regions" = "Régions";
+"Live Button Actions" = "Actions du bouton Live";
+"Actions" = "Actions";
+"Live Actions" = "Actions en direct";
+  
+// Paramètres de lecture
+"BHTikTok++ Settings" = "Paramètres de BHTikTok++";
+"Playback Speed" = "Vitesse de lecture";
+"Select Speed" = "Sélectionner la vitesse";
+  
+// Section région
+"Enable Region Changing Functionality" = "Activer le changement de région";
+  
+// Section Fonction du bouton Live
+"Change Action of Live Button" = "Changer l'action du bouton Live";
+  
+// Section Vitesse de lecture
+"Enable Persistent Playback Speed." = "Activer la vitesse de lecture persistante";
+  
+// Section Paramètres des commentaires
+"Configure Advanced Comment Settings" = "Configurer les paramètres avancés des commentaires";
+  
+// Section Langue
+"Select App Language" = "Sélectionner la langue";
+  
+"Enable Region Changing" = "Activer le changement de région";
+"Live Button Action" = "Action du bouton Live";
+  
+"Language 🌎" = "Langue 🌎";
+"Speeds" = "Vitesses";

@@ -1,0 +1,181 @@
+/* Localizable.strings */
+
+// Main Titles
+"BHTikTok, Hi" = "嗨，BHTikTok！";
+"BHTikTok++ Settings" = "BHTikTok++ 设置";
+
+// Common Actions
+"Yes" = "是";
+"No" = "不";
+"ON" = "开";
+"OFF" = "关";
+"Downloading" = "下载中";
+"Backgrounding ✌️" = "后台执行中 ✌️";
+"Are you sure?" = "你确定吗？";
+"Cancel" = "取消";
+
+// Download Options
+"Download Video" = "下载视频";
+"Download HD Video" = "下载高清视频";
+"Download Music" = "下载音乐";
+"Download Photo" = "下载图片";
+"Download All Photos" = "下载所有图片";
+"Downloads Menu" = "下载菜单";
+"Download Photos Menu" = "图片下载菜单";
+
+// Copy Options
+"Copy Music link" = "复制音乐链接";
+"Copy Video link" = "复制视频链接";
+"Copy Description" = "复制描述文案";
+"Copy bio" = "复制资料";
+"Copy Menu" = "复制菜单";
+
+// Error Messages
+"Could Not Copy Music" = "无法复制音频";
+"The video doesn't have music to download" = "该视频没有可供下载的音频";
+
+// Section Headers
+"Feed" = "常规";
+"Profile" = "个人";
+"Confirm" = "确认";
+"Other" = "其他";
+"Region" = "区域";
+"Actions" = "操作";
+
+// Feed Features
+"Hide Ads" = "隐藏广告";
+"Download Button" = "下载按钮";
+"Share Sheet" = "共享面板";
+"Remove Watermark" = "移除水印";
+"Show/Hide UI Button" = "清屏按钮";
+"Stop Playback" = "停止播放";
+"Auto Play Next Video" = "自动播放";
+"Show Progress Bar" = "显进度条";
+"Transparent Comments" = "评论透明";
+"Show Usernames" = "显用户名";
+"Disable Sensitive Content" = "禁用敏感";
+"Disable Warnings" = "禁止警告";
+"Disable Live Streaming" = "禁用直播";
+"Skip Recommendations" = "跳过推荐";
+"Upload Region" = "区域标志";
+"Hide Top Feed items" = "顶部隐藏";
+"Anonymous Seen" = "匿名查看";
+
+// Profile Features
+"Profile Save" = "保存个人头像";
+"Profile Copy" = "资料个人复制";
+"Video Like Count" = "视频点赞计数";
+"Video Upload Date" = "视频上传日期";
+
+// Confirm Features
+"Like Confirmation" = "点赞确认";
+"Like Comment Confirmation" = "好评确认";
+"Dislike Comment Confirmation" = "差评确认";
+"Follow Confirmation" = "关注确认";
+
+// Other Features
+"Auto Clear History" = "自动清除历史";
+"Enable Fake Changes" = "启用伪造";
+"Follower" = "粉丝数";
+"Following" = "关注数";
+"Fake Verified" = "伪造认证";
+"Extended Bio" = "扩展简介";
+"Extended Comments" = "扩展评论";
+"Upload HD" = "高清上传";
+"App Lock" = "应用锁定";
+"Enable Flex" = "启用 Flex";
+"Enable Oled Keyboard" = "OLED 键盘";
+
+// Comment Features
+"Disable Comment Tooltip" = "禁用评论工具提示";
+"Add Comment as Post" = "将评论作为帖子";
+"Add Comment as Story" = "将评论作为动态";
+"Mass Unfold Comment Replies" = "批量展开评论回复";
+"Auto Unfold Comment Texts" = "自动展开评论文本";
+"Multi Emoji Comment Bar" = "多表情符号评论栏";
+"Hide Emoji-Bar" = "隐藏表情符号栏";
+"Comment Cell Redesign" = "评论单元格重新设计";
+"Comment Settings" = "评论设置";
+"Comment Features" = "评论功能";
+"Comment Design" = "评论风格";
+"Configure Advanced Comment Settings" = "配置高级评论设置";
+
+// Design Options
+"Design Options" = "风格选项";
+"Select Design" = "选择风格";
+"Default" = "默认";
+"Modern" = "现代";
+"Compact" = "简洁";
+
+// Live Button Settings
+"Live Button Function" = "直播按钮功能";
+"Live Button Actions" = "直播按钮动作";
+"Live Actions" = "按钮功能";
+"Change Action of Live Button" = "更改左上角直播按钮的默认功能操作";
+"Live Button Action" = "直播按钮功能";
+
+// Region Settings
+"Regions" = "Regions";
+"Enable Region Changing" = "启用区域更改";
+"Enable Region Changing Functionality" = "启用区域更改功能";
+
+// Playback Settings
+"Playback Speed" = "播放速度";
+"Select Speed" = "播放速度";
+"Speeds" = "速度";
+"Enable Persistent Playback Speed" = "启用播放速度控制";
+
+// Language Settings
+"Language 🌎" = "语言 🌎";
+"Select App Language" = "选择应用语言";
+
+// Feature Descriptions
+"FEATURE_HIDE_ADS" = "禁用 TikTok 内的所有广告";
+"FEATURE_DOWNLOAD_BUTTON" = "启用视频和图片的下载按钮";
+"FEATURE_SHARE_SHEET" = "下载完成后弹出共享面板";
+"FEATURE_REMOVE_WATERMARK" = "移除 TikTok 视频水印";
+"FEATURE_UI_BUTTON" = "显示或隐藏界面元素的按钮（一键清屏）";
+"FEATURE_STOP_PLAYBACK" = "自动停止视频播放";
+"FEATURE_AUTO_PLAY" = "视频播放完成后自动播放下个视频";
+"FEATURE_PROGRESS_BAR" = "视频下方显示播放进度条";
+"FEATURE_TRANSPARENT_COMMENTS" = "让评论区透明";
+"FEATURE_SHOW_USERNAMES" = "视频流中的昵称替换成用户名";
+"FEATURE_DISABLE_SENSITIVE" = "隐藏“敏感内容”警告";
+"FEATURE_DISABLE_WARNINGS" = "隐藏 TikTok 警告";
+"FEATURE_DISABLE_LIVE" = "禁止在视频流出现直播";
+"FEATURE_SKIP_RECOMMENDED" = "跳过推荐的视频";
+"FEATURE_UPLOAD_REGION" = "在用户名旁边显示视频上传区域标志";
+"FEATURE_HIDE_TOP_ITEMS" = "隐藏顶部的搜索和直播按钮以及关注、商店等...";
+"FEATURE_ANONYMOUS_SEEN" = "匿名查看消息（BETA 功能！）";
+"FEATURE_PROFILE_SAVE" = "长按将个人头像保存";
+"FEATURE_PROFILE_COPY" = "长按复制个人资料信息";
+"FEATURE_LIKE_COUNT" = "显示主页视频的点赞数";
+"FEATURE_UPLOAD_DATE" = "显示主页视频上传日期";
+"FEATURE_CONFIRM_LIKE" = "点赞视频需确认";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "点赞评论需确认";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "评论差评需确认";
+"FEATURE_CONFIRM_FOLLOW" = "关注用户需确认";
+"FEATURE_AUTO_CLEAR" = "每 60 秒自动清除搜索历史记录";
+"FEATURE_FAKE_CHANGES" = "启用伪造虚假个人资料";
+"FEATURE_FOLLOWER_COUNT" = "输入伪造的粉丝数";
+"FEATURE_FOLLOWING_COUNT" = "输入伪造的关注数";
+"FEATURE_FAKE_VERIFIED" = "帐户显示蓝V认证";
+"FEATURE_EXTENDED_BIO" = "扩展个人资料字符限制";
+"FEATURE_EXTENDED_COMMENTS" = "扩展评论字符限制";
+"FEATURE_UPLOAD_HD" = "视频始终以高清质量上传";
+"FEATURE_APP_LOCK" = "使用密码锁定 TikTok";
+"FEATURE_ENABLE_FLEX" = "仅限开发人员，如果不知道自己在做什么，请不要启用它。";
+"FEATURE_OLED_KEYBOARD" = "仅在深色模式下有效";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "按住评论按钮时禁用快速表情符号工具提示";
+"FEATURE_ADD_COMMENT_POST" = "允许以常规帖子形式发布评论";
+"FEATURE_ADD_COMMENT_STORY" = "允许以动态形式发布评论";
+"FEATURE_MASS_UNFOLD" = "一次性展开所有评论回复";
+"FEATURE_AUTO_UNFOLD" = "自动展开长评论中的文字";
+"FEATURE_MULTI_EMOJI" = "在评论中启用扩展表情符号栏";
+"FEATURE_HIDE_EMOJI" = "隐藏评论中的初始表情符号栏";
+"FEATURE_COMMENT_REDESIGN" = "选择评论单元格设计样式";
+
+// Developer Section
+"Developer" = "开发者";
+"DEVELOPER_TELEGRAM" = "加入电报频道获取最新更新";
+"DEVELOPER_SUPPORT" = "您的支持可以让插件保持持续更新并获得加入Beta测试人员组的权限";

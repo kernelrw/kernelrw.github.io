@@ -1,0 +1,181 @@
+/* Localizable.strings */
+
+// Main Titles
+"BHTikTok, Hi" = "BHTikTok, Γεια";
+"BHTikTok++ Settings" = "Ρυθμίσεις BHTikTok++";
+
+// Common Actions
+"Yes" = "Ναι";
+"No" = "Όχι";
+"ON" = "ΑΝΟΙΧΤΟ";
+"OFF" = "ΚΛΕΙΣΤΟ";
+"Downloading" = "Λήψη";
+"Backgrounding ✌️" = "Παρασκήνιο ✌️";
+"Are you sure?" = "Είστε σίγουρος;";
+"Cancel" = "Ακύρωση";
+
+// Download Options
+"Download Video" = "Λήψη Βίντεο";
+"Download HD Video" = "Λήψη HD Βίντεο";
+"Download Music" = "Λήψη Μουσικής";
+"Download Photo" = "Λήψη Εικόνας";
+"Download All Photos" = "Λήψη όλων των εικόνων";
+"Downloads Menu" = "Μενού Λήψεων";
+"Download Photos Menu" = "Μενού Λήψεων εικόνων";
+
+// Copy Options
+"Copy Music link" = "Αντιγραφή Συνδέσμου Μουσικής";
+"Copy Video link" = "Αντιγραφή Συνδέσμου Βίντεο";
+"Copy Description" = "Αντιγραφή Περιγραφής";
+"Copy bio" = "Αντιγραφή ΒΙΟ";
+"Copy Menu" = "Αντιγραφή Μενού";
+
+// Error Messages
+"Could Not Copy Music" = "Αδύνατη η αντιγραφή μουσικής";
+"The video doesn't have music to download" = "Το βίντεο δεν περιέχει μουσική για λήψη";
+
+// Section Headers
+"Feed" = "Ροή";
+"Profile" = "Προφίλ";
+"Confirm" = "Επιβεβαίωση";
+"Other" = "Άλλο";
+"Region" = "Περιοχή";
+"Actions" = "Ενέργειες";
+
+// Feed Features
+"Hide Ads" = "Απόκρυψη διαφημίσεων";
+"Download Button" = "Κουμπί λήψης";
+"Share Sheet" = "Διάλογος κοινοποίησης";
+"Remove Watermark" = "Αφαίρεση logo";
+"Show/Hide UI Button" = "Εμφάνιση/Απόκρυψη κουμπιού διεπαφής";
+"Stop Playback" = "Διακοπή αναπαραγωγής";
+"Auto Play Next Video" = "Αυτόματη αναπαραγωγή επομένου";
+"Show Progress Bar" = "Εμφάνιση μπάρας προόδου";
+"Transparent Comments" = "Διαφανή Σχόλια";
+"Show Usernames" = "Εμφάνιση ονομάτων χρήστη";
+"Disable Sensitive Content" = "Απενεργοποίηση Ευαίσθητου Περιεχομένου";
+"Disable Warnings" = "Απενεργοποίηση Προειδοποιήσεων";
+"Disable Live Streaming" = "Απενεργοποίηση Ζωντανής Μετάδοσης";
+"Skip Recommendations" = "Παράκαμψη Προτεινώμενων";
+"Upload Region" = "Περιοχή μεταφόρτωσης";
+"Hide Top Feed items" = "Απόκρυψη Εικονιδίων Ροής";
+"Anonymous Seen" = "Ανώνυμη προβολή";
+
+// Profile Features
+"Profile Save" = "Αποθήκευση προφίλ";
+"Profile Copy" = "Αντιγραφή προφίλ";
+"Video Like Count" = "Πλήθος μου αρέσει βίντεο";
+"Video Upload Date" = "Ημ/νια μεταφόρτωσης βίντεο";
+
+// Confirm Features
+"Like Confirmation" = "Επιβεβαίωση Μου Αρέσει";
+"Like Comment Confirmation" = "Επιβεβαίωση σχόλια";
+"Dislike Comment Confirmation" = "Επιβεβαίωση Δεν-Μου-Αρέσει";
+"Follow Confirmation" = "Επιβεβαίωση Ακολούθησης";
+
+// Other Features
+"Auto Clear History" = "Αυτόματος καθαρισμός ιστορικού";
+"Enable Fake Changes" = "Ενεργοποίηση πλαστών αλλαγών";
+"Follower" = "Ακόλουθος";
+"Following" = "Ακολουθεί";
+"Fake Verified" = "Πλαστή επιβεβαίωση";
+"Extended Bio" = "Μεγαλύτερο ΒΙΟ";
+"Extended Comments" = "Ανάπτυξη σχολίων";
+"Upload HD" = "Μεταφόρτωση Υψηλής Ευκρίνειας";
+"App Lock" = "Κλείδωμα εφαρμογής";
+"Enable Flex" = "Ενεργοποίηση Flex";
+"Enable Oled Keyboard" = "Ενεργοποίηση OLED πληκτρολογίου";
+
+// Comment Features
+"Disable Comment Tooltip" = "Απενεργοποίηση εργαλίων σχολίων";
+"Add Comment as Post" = "Προσθήκη σχολίων ως Δημοσίευσης";
+"Add Comment as Story" = "Προσθήκη σχολίων ως Ιστορίας";
+"Mass Unfold Comment Replies" = "Μαζική ανάπτυξη απαντήσεων σχολίων";
+"Auto Unfold Comment Texts" = "Αυτόματη ανάπτυξη κειμένου σχολίων";
+"Multi Emoji Comment Bar" = "Πολλαπλή Emoji Μπαρα Σχολίου";
+"Hide Emoji-Bar" = "Απόκρυψη Emoji-Bar";
+"Comment Cell Redesign" = "Επανασχεδιασμός κελιού σχολίων";
+"Comment Settings" = "Ρυθμίσεις σχολίων";
+"Comment Features" = "Δυνατότητες σχολίου";
+"Comment Design" = "Σχέδιο Σχολίου";
+"Configure Advanced Comment Settings" = "Ρυθμίσεις Σχολίων για Προχωρημένους";
+
+// Design Options
+"Design Options" = "Επιλογές σχεδιασμού";
+"Select Design" = "Επιλογή σχεδίασης";
+"Default" = "Προεπιλογή";
+"Modern" = "Μοντέρνα";
+"Compact" = "Συμβατικό";
+
+// Live Button Settings
+"Live Button Function" = "Λειτουργία κουμπιού ζωντανής μετάδοσης";
+"Live Button Actions" = "Ενέργειες κουμπιού ζωντανής μετάδοσης";
+"Live Actions" = "Ενέργειες ζωντανής μετάδοσης";
+"Change Action of Live Button" = "Αλλαγή ενέργειας κουμπιού ζωντανής μετάδοσης";
+"Live Button Action" = "Ενέργεια κουμπιού ζωντανής μετάδοσης";
+
+// Region Settings
+"Regions" = "Περιοχές";
+"Enable Region Changing" = "Ενεργοποίηση αλλαγής περιοχής";
+"Enable Region Changing Functionality" = "Ενεργοποίηση λειτοργίας αλλαγής περιοχής";
+
+// Playback Settings
+"Playback Speed" = "Ταχύτητα αναπαραγωγής";
+"Select Speed" = "Επιλογή ταχύτητας";
+"Speeds" = "Ταχύτητες";
+"Enable Persistent Playback Speed" = "Ενεργοποίηση μόνιμης ταχύτητας αναπαραγωγής";
+
+// Language Settings
+"Language 🌎" = "Γλώσσα 🌎";
+"Select App Language" = "Επιλέξτε Γλώσσα Εφαρμογής";
+
+// Feature Descriptions
+"FEATURE_HIDE_ADS" = "Κρύψτε όλες τις διαφημίσεις στο ΤικΤοκ";
+"FEATURE_DOWNLOAD_BUTTON" = "Ενεργοποίηση του κουμπιού λήψης για αναρτήσεις και ιστορίες";
+"FEATURE_SHARE_SHEET" = "Άνοιγμα διαλόγου κοινής χρήσης μετά τη λήψη πολυμέσων";
+"FEATURE_REMOVE_WATERMARK" = "Κατάργηση logo TikTok από πολυμέσα";
+"FEATURE_UI_BUTTON" = "Εμφάνιση ή Απόκρυψη κουμπιού διεπαφής χρήστη";
+"FEATURE_STOP_PLAYBACK" = "Απενεργοποίηση αυτόματης κύλισης μετά την ολοκλήρωση της αναπαραγωγής";
+"FEATURE_AUTO_PLAY" = "Αυτόματη κύλιση στην επόμενη ανάρτηση μετά την ολοκλήρωση της αναπαραγωγής";
+"FEATURE_PROGRESS_BAR" = "Εμφάνιση γραμμής προόδου κάτω από το βίντεο";
+"FEATURE_TRANSPARENT_COMMENTS" = "Κάντε την ενότητα σχολίων διαφανή";
+"FEATURE_SHOW_USERNAMES" = "Αντικαταστήστε τα ψευδώνυμα με ονόματα χρηστών στις αναρτήσεις";
+"FEATURE_DISABLE_SENSITIVE" = "Απόκρυψη προειδοποίησης 'Ευαίσθητου περιεχομένου'";
+"FEATURE_DISABLE_WARNINGS" = "Απόκρυψη προειδοποιήσεων TikTok";
+"FEATURE_DISABLE_LIVE" = "Απενεργοποίηση ζωντανών ροών από το FYP";
+"FEATURE_SKIP_RECOMMENDED" = "Παράλειψη προτεινόμενων βίντεο";
+"FEATURE_UPLOAD_REGION" = "Εμφάνιση επισήμανσης περιοχής μεταφόρτωσης εκτός από το όνομα χρήστη";
+"FEATURE_HIDE_TOP_ITEMS" = "Απόκρυψη των κουμπιών αναζήτησης και live και των (FYP, Following, Shop, κ.λπ...)";
+"FEATURE_ANONYMOUS_SEEN" = "Παρακολουθήστε τα μηνύματα ανώνυμα (BETA Προσοχή!)";
+"FEATURE_PROFILE_SAVE" = "Αποθήκευση λεπτομερειών προφίλ στο πρόχειρο";
+"FEATURE_PROFILE_COPY" = "Αντιγραφή πληροφοριών προφίλ";
+"FEATURE_LIKE_COUNT" = "Εμφάνιση μέτρησης "Μου αρέσει στις αναρτήσεις";
+"FEATURE_UPLOAD_DATE" = "Εμφάνιση ημερομηνίας αποστολής ανάρτησης";
+"FEATURE_CONFIRM_LIKE" = "Επιβεβαίωση αναρτήσεων με "Μου αρέσει";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Επιβεβαίωση σχολίων "Μου αρέσει";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Επιβεβαίωση σχολίων που δεν μου αρέσουν";
+"FEATURE_CONFIRM_FOLLOW" = "Επιβεβαίωση παρακολούθησης χρήστη";
+"FEATURE_AUTO_CLEAR" = "Αυτόματη διαγραφή ιστορικού αναζήτησης κάθε 60 δευτερόλεπτα";
+"FEATURE_FAKE_CHANGES" = "Ενεργοποίηση πλαστών προφίλ";
+"FEATURE_FOLLOWER_COUNT" = "Εισαγάγετε τον αριθμό πλαστών ακολούθων";
+"FEATURE_FOLLOWING_COUNT" = "Εισαγάγετε τον αριθμό των πλαστών επακόλουθων";
+"FEATURE_FAKE_VERIFIED" = "Κάντε τον λογαριασμό σας να εμφανίζεται επαληθευμένος";
+"FEATURE_EXTENDED_BIO" = "Επέκταση αριθμού χαρακτήρων βιογραφικού προφίλ";
+"FEATURE_EXTENDED_COMMENTS" = "Επέκταση αριθμού χαρακτήρων σχολίου";
+"FEATURE_UPLOAD_HD" = "Να ανεβαίνει πάντα το βίντεο σε HD";
+"FEATURE_APP_LOCK" = "Κλείδωμα του TikTok με έναν κωδικό πρόσβασης";
+"FEATURE_ENABLE_FLEX" = "Μόνο για προγραμματιστές, ΜΗΝ ΑΓΓΙΖΕΤΕ εάν δεν ξέρετε τι κάνετε";
+"FEATURE_OLED_KEYBOARD" = "Λειτουργία μόνο Dark-Mode";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Απενεργοποίηση της συμβουλής εργαλείου Quick-Emoji όταν κρατάτε πατημένο το κουμπί σχολίων";
+"FEATURE_ADD_COMMENT_POST" = "Ενεργοποίηση δημοσίευσης σχολίων ως κανονικές αναρτήσεις";
+"FEATURE_ADD_COMMENT_STORY" = "Ενεργοποίηση δημοσίευσης σχολίων ως ιστορίες";
+"FEATURE_MASS_UNFOLD" = "Ανοίξτε όλες τις απαντήσεις σχολίων ταυτόχρονα";
+"FEATURE_AUTO_UNFOLD" = "Αυτόματη ανάπτυξη κειμένου σε μεγάλα σχόλια";
+"FEATURE_MULTI_EMOJI" = "Ενεργοποίηση πρόσθετης γραμμής emoji στα σχόλια";
+"FEATURE_HIDE_EMOJI" = "Απόκρυψη αρχικής γραμμής emoji στα σχόλια";
+"FEATURE_COMMENT_REDESIGN" = "Επιλέξτε στυλ σχεδίασης κελιών σχολίου";
+
+// Developer Section
+"Developer" = "Προγραμματιστής";
+"DEVELOPER_TELEGRAM" = "Μπείτε στο Τέλεγκραμ κανάλι για τις τελευταίες ενημερώσεις";
+"DEVELOPER_SUPPORT" = "Υποστηρίξτε για να κρατήσετε το BHTT++ ενημερωνμένο και λάβετε πρόσβαση στο κανάλι των ΒΕΤΑ δοκιμών";

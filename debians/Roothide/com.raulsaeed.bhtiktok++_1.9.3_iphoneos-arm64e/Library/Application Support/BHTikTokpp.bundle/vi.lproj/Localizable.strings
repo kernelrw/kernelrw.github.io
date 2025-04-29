@@ -1,0 +1,197 @@
+/* Localizable.strings */
+
+// Main Titles
+"BHTikTok, Hi" = "BHTikTok, Xin chào";
+"BHTikTok++ settings" = "Cấu hình BHTikTok++";
+
+// Common Actions
+"Yes" = "Có";
+"No" = "Không";
+"ON" = "BẬT";
+"OFF" = "TẮT";
+"Downloading" = "Đang tải xuống";
+"Backgrounding ✌️" = "Đang chạy nền ✌️";
+"Are you sure?" = "Bạn có chắc không?";
+
+// Download Options
+"Download Video" = "Tải xuống video";
+"Download HD Video" = "Tải xuống video HD";
+"Download Music" = "Tải xuống nhạc";
+"Download Photo" = "Tải xuống ảnh";
+"Download All Photos" = "Tải xuống tất cả ảnh";
+
+// Copy Options
+"Copy Music link" = "Sao chép liên kết nhạc";
+"Copy Video link" = "Sao chép liên kết video";
+"Copy Decription" = "Sao chép mô tả";
+"Copy bio" = "Sao chép tiểu sử";
+
+// Error Messages
+"Could Not Copy Music" = "Không thể sao chép nhạc";
+"The video dosen't have music to download" = "Video này không có nhạc để tải xuống";
+
+// Menu Labels
+"Downloads Menu" = "Menu tải xuống";
+"Copy Menu" = "Menu sao chép";
+"Download Photos Menu" = "Menu tải ảnh";
+
+// Section Headers
+"Feed" = "Bảng tin";
+"Profile" = "Hồ sơ";
+"Confirm" = "Xác nhận";
+"Other" = "Khác";
+"Region" = "Khu vực";
+"Live Button Function" = "Chức năng nút trực tiếp";
+"Playback Speed" = "Tốc độ phát lại";
+"Developer" = "Nhà phát triển";
+
+// Feed Features
+"Hide Ads" = "Ẩn quảng cáo";
+"Download Button" = "Nút tải xuống";
+"Share Sheet" = "Bảng chia sẻ";
+"Remove Watermark" = "Xóa watermark";
+"Show/Hide UI Button" = "Hiển thị/Ẩn nút UI";
+"Stop Playback" = "Dừng phát lại";
+"Auto Play Next Video" = "Tự động phát video tiếp theo";
+"Show Progress Bar" = "Hiển thị thanh tiến trình";
+"Transparent Comments" = "Bình luận trong suốt";
+"Show Usernames" = "Hiển thị tên người dùng";
+"Disable Sensitive Content" = "Tắt nội dung nhạy cảm";
+"Disable Warnings" = "Tắt cảnh báo";
+"Disable Live Streaming" = "Tắt phát trực tiếp";
+"Skip Recommendations" = "Bỏ qua gợi ý";
+"Upload Region" = "Khu vực tải lên";
+"Hide Top Feed items" = "Ẩn mục trên cùng của bảng tin";
+"Anonymous Seen" = "Xem ẩn danh";
+
+// Profile Features
+"Profile Save" = "Lưu hồ sơ";
+"Profile Copy" = "Sao chép hồ sơ";
+"Video Like Count" = "Số lượt thích video";
+"Video Upload Date" = "Ngày tải lên video";
+
+// Confirm Features
+"Like Confirmation" = "Xác nhận thích";
+"Like Comment Confirmation" = "Xác nhận thích bình luận";
+"Dislike Comment Confirmation" = "Xác nhận không thích bình luận";
+"Follow Confirmation" = "Xác nhận theo dõi";
+
+// Other Features
+"Auto Clear History" = "Tự động xóa lịch sử";
+"Enable Fake Changes" = "Bật thay đổi giả";
+"Follower" = "Người theo dõi";
+"Following" = "Đang theo dõi";
+"Fake Verified" = "Xác minh giả";
+"Extended Bio" = "Tiểu sử mở rộng";
+"Extended Comments" = "Bình luận mở rộng";
+"Upload HD" = "Tải lên HD";
+"App Lock" = "Khóa ứng dụng";
+"Enable Flex" = "Bật Flex";
+"Enable Oled Keyboard" = "Bật bàn phím OLED";
+
+// Feature Descriptions
+"FEATURE_HIDE_ADS" = "Tắt tất cả quảng cáo trên TikTok";
+"FEATURE_DOWNLOAD_BUTTON" = "Bật nút tải xuống cho bài viết và câu chuyện";
+"FEATURE_SHARE_SHEET" = "Mở bảng chia sẻ sau khi tải phương tiện";
+"FEATURE_REMOVE_WATERMARK" = "Xóa watermark khỏi phương tiện TikTok";
+"FEATURE_UI_BUTTON" = "Hiển thị hoặc ẩn nút UI";
+"FEATURE_STOP_PLAYBACK" = "Tắt tự động cuộn sau khi phát xong";
+"FEATURE_AUTO_PLAY" = "Tự động chuyển sang bài đăng tiếp theo sau khi phát xong";
+"FEATURE_PROGRESS_BAR" = "Hiển thị thanh tiến trình dưới video";
+"FEATURE_TRANSPARENT_COMMENTS" = "Làm trong suốt phần bình luận";
+"FEATURE_SHOW_USERNAMES" = "Thay thế biệt danh bằng tên người dùng trên bài đăng";
+"FEATURE_DISABLE_SENSITIVE" = "Ẩn cảnh báo 'Nội dung nhạy cảm'";
+"FEATURE_DISABLE_WARNINGS" = "Ẩn cảnh báo của TikTok";
+"FEATURE_DISABLE_LIVE" = "Tắt phát trực tiếp trên FYP";
+"FEATURE_SKIP_RECOMMENDED" = "Bỏ qua video được đề xuất";
+"FEATURE_UPLOAD_REGION" = "Hiển thị cờ khu vực tải lên bên cạnh tên người dùng";
+"FEATURE_HIDE_TOP_ITEMS" = "Ẩn các nút tìm kiếm, trực tiếp (FYP, Theo dõi, Cửa hàng, v.v...)";
+"FEATURE_ANONYMOUS_SEEN" = "Xem tin nhắn ẩn danh (BETA, Cẩn thận!)";
+"FEATURE_PROFILE_SAVE" = "Lưu chi tiết hồ sơ";
+"FEATURE_PROFILE_COPY" = "Sao chép thông tin hồ sơ";
+"FEATURE_LIKE_COUNT" = "Hiển thị số lượt thích trên bài đăng";
+"FEATURE_UPLOAD_DATE" = "Hiển thị ngày tải lên bài đăng";
+"FEATURE_CONFIRM_LIKE" = "Xác nhận thích bài đăng";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Xác nhận thích bình luận";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Xác nhận không thích bình luận";
+"FEATURE_CONFIRM_FOLLOW" = "Xác nhận theo dõi người dùng";
+"FEATURE_AUTO_CLEAR" = "Tự động xóa lịch sử tìm kiếm sau mỗi 60 giây";
+"FEATURE_FAKE_CHANGES" = "Cho phép làm giả hồ sơ";
+"FEATURE_FOLLOWER_COUNT" = "Nhập số lượng người theo dõi giả";
+"FEATURE_FOLLOWING_COUNT" = "Nhập số lượng người theo dõi giả";
+"FEATURE_FAKE_VERIFIED" = "Biến tài khoản của bạn trông như đã xác minh";
+"FEATURE_EXTENDED_BIO" = "Mở rộng số ký tự trong tiểu sử";
+"FEATURE_EXTENDED_COMMENTS" = "Mở rộng số ký tự trong bình luận";
+"FEATURE_UPLOAD_HD" = "Luôn tải lên video ở chất lượng HD";
+"FEATURE_APP_LOCK" = "Bảo vệ TikTok bằng mật khẩu";
+"FEATURE_ENABLE_FLEX" = "Chỉ dành cho nhà phát triển, KHÔNG CHẠM nếu bạn không biết cách sử dụng";
+"FEATURE_OLED_KEYBOARD" = "Chỉ hoạt động ở chế độ tối";
+
+// Developer Section
+"DEVELOPER_TELEGRAM" = "Tham gia kênh Telegram để nhận các cập nhật mới nhất";
+"DEVELOPER_SUPPORT" = "Hỗ trợ để giữ BHTTPP được cập nhật và truy cập nhóm thử nghiệm beta";
+
+// Comment Features
+"Disable Comment Tooltip" = "Tắt Tooltip Bình Luận";
+"Add Comment as Post" = "Thêm Bình Luận Dưới Dạng Bài Đăng";
+"Add Comment as Story" = "Thêm Bình Luận Dưới Dạng Tin";
+"Mass Unfold Comment Replies" = "Mở Toàn Bộ Phản Hồi Bình Luận";
+"Auto Unfold Comment Texts" = "Tự Động Mở Nội Dung Bình Luận Dài";
+"Multi Emoji Comment Bar" = "Thanh Emoji Đa Dạng Trong Bình Luận";
+"Hide Emoji-Bar" = "Ẩn Thanh Emoji";
+"Comment Cell Redesign" = "Thiết Kế Lại Giao Diện Bình Luận";
+
+// Feature Descriptions
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Tắt Tooltip Emoji Nhanh Khi Nhấn Giữ Nút Bình Luận";
+"FEATURE_ADD_COMMENT_POST" = "Cho phép đăng bình luận dưới dạng bài viết thông thường";
+"FEATURE_ADD_COMMENT_STORY" = "Cho phép đăng bình luận dưới dạng tin";
+"FEATURE_MASS_UNFOLD" = "Mở toàn bộ các phản hồi bình luận cùng lúc";
+"FEATURE_AUTO_UNFOLD" = "Tự động mở nội dung cho các bình luận dài";
+"FEATURE_MULTI_EMOJI" = "Kích hoạt thanh emoji mở rộng trong bình luận";
+"FEATURE_HIDE_EMOJI" = "Ẩn thanh emoji ban đầu trong bình luận";
+"FEATURE_COMMENT_REDESIGN" = "Chọn phong cách thiết kế giao diện bình luận";
+
+// Comment and Design Settings
+"Comment Settings" = "Cài Đặt Bình Luận";
+"Design Options" = "Tùy Chọn Giao Diện";
+"Comment Features" = "Tính Năng Bình Luận";
+"Comment Design" = "Giao Diện Bình Luận";
+"Select Design" = "Chọn Giao Diện";
+
+// Design Options
+"Default" = "Mặc Định";
+"Modern" = "Hiện Đại";
+"Compact" = "Gọn Gàng";
+
+// Action Options
+"Cancel" = "Hủy";
+"Regions" = "Khu Vực";
+"Live Button Actions" = "Hành Động Nút Live";
+"Actions" = "Hành Động";
+"Live Actions" = "Hành Động Trực Tiếp";
+
+// Playback Settings
+"BHTikTok++ Settings" = "Cài Đặt BHTikTok++";
+"Playback Speed" = "Tốc Độ Phát";
+"Select Speed" = "Chọn Tốc Độ";
+
+// Region Section  
+"Enable Region Changing Functionality" = "Kích Hoạt Tính Năng Thay Đổi Khu Vực";
+
+// Live Button Function Section
+"Change Action of Live Button" = "Thay Đổi Hành Động Của Nút Live";
+
+// Playback Speed Section
+"Enable Persistent Playback Speed." = "Bật Tốc Độ Phát Cố Định";
+
+// Comment Settings Section
+"Configure Advanced Comment Settings" = "Cấu Hình Cài Đặt Bình Luận Nâng Cao";
+
+// Language Section
+"Select App Language" = "Chọn Ngôn Ngữ Ứng Dụng";
+
+"Enable Region Changing" = "Kích Hoạt Thay Đổi Khu Vực";
+"Live Button Action" = "Hành Động Nút Live";
+
+"Language 🌎" = "Ngôn Ngữ 🌎";
+"Speeds" = "Tốc Độ";
