@@ -569,6 +569,24 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.amywhile.macspoof
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Amy While
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware(>=14.0)
+Filename: ./debians/Rootful/com.amywhile.macspoof_0.2.1_iphoneos-arm.deb
+Size: 22176
+MD5sum: fe7c3cec010ee970797e9f7da4f3d823
+SHA1: 08ad73cf9144abdb20fb405d17249ba64e68882c
+SHA256: c45f625dfdd309fd4affc8a502a7f11863e72a34eb4ddabba91e39dcff68e61a
+SHA512: 2d355207fa85e63e9cbccbc80687235a035012d49f9f3d48457a91b486b0ac5638d0ae521ecddd4829a5ff9b4ff79e534cd6edcbc0ff0a0538d89e12015ef278
+Description: Spoof Mac Address on iOS
+Tag: cydia::commercial
+Name: MacSpoof
+Author: Amy While
+
 Package: com.anthopak.addtofolder
 Architecture: iphoneos-arm
 Version: 1.4
@@ -6308,6 +6326,25 @@ Author: TweaksDev22<tweaksdev22@gmail.com>
 Depiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
 Icon: https://alexpng.github.io/depictions/com.alexpng.tapme/DebIcon.png
 SileoDepiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+
+Package: com.amywhile.macspoof
+Architecture: iphoneos-arm64e
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Amy While
+Installed-Size: 376
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware(>=14.0)
+Filename: ./debians/Roothide/com.amywhile.macspoof_0.2.1_iphoneos-arm64e.deb
+Size: 23132
+MD5sum: 9b28b1283e50bfb45f0e0146a374974f
+SHA1: d3a3bf5eec51de463fc1599e5b9077b11dcd923d
+SHA256: 11b09ba2e4150bfdba09b213843bbc7f72562078517b6ae24b78744014aac420
+SHA512: 3ee4c5f4abb98d895c8555702cc6bb2ff39388cf4d8bba9107e0c76bf40c077fcb79fdfb2e8f71aa8646d0c76b5fb009d409e44a832bace0be8b02eccb094b48
+Description: Spoof Mac Address on iOS
+Tag: cydia::commercial
+Name: MacSpoof
+Author: Amy While
 
 Package: com.anthopak.addtofolder-rootless
 Architecture: iphoneos-arm64e
@@ -12963,6 +13000,24 @@ Author: TweaksDev22<tweaksdev22@gmail.com>
 Depiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
 Icon: https://alexpng.github.io/depictions/com.alexpng.tapme/DebIcon.png
 SileoDepiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+
+Package: com.amywhile.macspoof
+Architecture: iphoneos-arm64
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Amy While
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware(>=14.0)
+Filename: ./debians/Rootless/com.amywhile.macspoof_0.2.1_iphoneos-arm64.deb
+Size: 21400
+MD5sum: acc18cb60f5bccde5ba485a7f93d1f14
+SHA1: 383158a0c64fdedbd6f97cb05d64c8e88b3acbfa
+SHA256: 0eca61253569f38839fb2a4d066b407f075bd2df79f1061cfd0fd89903dffd5c
+SHA512: 47ee7dae5f3342ccd397915e98c23090e106315884d3d58b5409acba4d7acf7e2740d9a351c41e2a262f4efe14a0461602468a7829d0fac055d6cedaf1d0ca13
+Description: Spoof Mac Address on iOS
+Tag: cydia::commercial
+Name: MacSpoof
+Author: Amy While
 
 Package: com.anthopak.addtofolder-rootless
 Architecture: iphoneos-arm64
