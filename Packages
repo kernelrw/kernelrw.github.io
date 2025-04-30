@@ -3743,6 +3743,23 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Name: MobileMeadow Reborn
 Author: pkgFiles
 
+Package: com.pookjw.cauxo
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 240
+Depends: firmware (>= 16.0)
+Filename: ./debians/Rootful/com.pookjw.cauxo_1.1_iphoneos-arm.deb
+Size: 23084
+MD5sum: b074c82afc0e9642b60b708ff2fee1dc
+SHA1: 42ba0f554b71d48613add923617fce421789132d
+SHA256: 38b5f9f2ed90fa37f7840bb70a83dec3e4e103698811f6c1d7af7f173b772bad
+SHA512: 23c1cdbf5fceed807cba8cbf2d937a6330f3abea83515f6af90109b1591a6e98153ad78b930ac1fe1f2f59d45bf36c05bc0668ddf85a016d9aaa0d1ead53d875
+Description: Hello World!
+Name: Cauxo
+Author: pookjw
+
 Package: com.pookjw.dynamicalerttweak
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -3759,6 +3776,23 @@ SHA512: a9071d63395ea65e919d47cad093b7720b4236f02678c2b858085be232a326cd1e8746df
 Description: An awesome MobileSubstrate tweak!
 Name: DynamicAlertTweak
 Author: pookjw
+
+Package: com.pookjw.saeenabler
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Jinwoo Kim
+Installed-Size: 312
+Depends: firmware (>= 18.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.pookjw.saeenabler_1.1_iphoneos-arm.deb
+Size: 7348
+MD5sum: 9e2a6c1bc31091dbfbba891dce19d285
+SHA1: fc3a3970ce3cc824967300f927194b3170a96df0
+SHA256: f860e23cf86e753b7b6b3cccb0e370a1fe4a47cec6be8c4b73bcd81df2c5e1cc
+SHA512: 044b66895354e995ca78e9e460a9c2d71e137276189c31c31b9fabbe0bde558cd6cbe1a9525cd1204bce1ff398b6b47388a67dea0a307f65b010edaea72f5570
+Description: An awesome MobileSubstrate tweak!
+Name: SAEEnabler
+Author: Jinwoo Kim
 
 Package: com.prophecykitten.tweaktool
 Architecture: iphoneos-arm
@@ -9916,6 +9950,24 @@ SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemsh
 Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
 Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
 
+Package: com.pookjw.cauxo
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 16.0)
+Filename: ./debians/Roothide/com.pookjw.cauxo_1.1_iphoneos-arm64e.deb
+Size: 31122
+MD5sum: e6fdbcd0f5ea4b35457c8407809d540b
+SHA1: 8257f1ce5e87cfd140f45f2fa94ecb08a7233c06
+SHA256: 7280b82487306976cbce1a2e9b7d0f9536de83172092b7e6b352b4a553fa216a
+SHA512: d6bb3a800a79ff5e67fcf6e92e1b4309c1af7b61a0874bb1a76e00215498d60d7f3a1516ff256d0e384d30681031b1387362931c88f6aa3a9ddd2096dc3ac856
+Description: Hello World!
+Name: Cauxo
+Author: pookjw
+
 Package: com.pookjw.dynamicalerttweak
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -9951,6 +10003,24 @@ SHA512: 89986094b717fcdca021d80640c1272243d70499bcdc684a5e83a0a1049cbbf5fe92d321
 Description: Hello World!
 Name: MagicBackgroundKeyboard
 Author: pookjw
+
+Package: com.pookjw.saeenabler
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Jinwoo Kim
+Installed-Size: 312
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 18.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.pookjw.saeenabler_1.1_iphoneos-arm64e.deb
+Size: 11302
+MD5sum: 983e80aa0cae085adc0bf13acf4565d6
+SHA1: 7a9ff2cdc224b033322c3582d1b66d4282adf124
+SHA256: 00915151e1f379c583527cb2d632124966fd9700fb0c7581e03c3b3358e38deb
+SHA512: ee994ec62f915b7a53649389071b744fc32c5a447817d82148be401a02f1c90b62f7609e1636a9cbe0bcbe936be6fcacbc74207dcfb275dce3907e66b3a4a925
+Description: An awesome MobileSubstrate tweak!
+Name: SAEEnabler
+Author: Jinwoo Kim
 
 Package: com.prophecykitten.tweaktool
 Architecture: iphoneos-arm64e
@@ -17479,6 +17549,23 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Name: MobileMeadow Reborn
 Author: pkgFiles
 
+Package: com.pookjw.cauxo
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 240
+Depends: firmware (>= 16.0)
+Filename: ./debians/Rootless/com.pookjw.cauxo_1.1_iphoneos-arm64.deb
+Size: 23728
+MD5sum: bb7c8a5bd2eb13a945197f5ac0b30e7f
+SHA1: 0917a7267f4ee7ca0c5b0660b64085fd46a2c46c
+SHA256: c99d12355b31ee9bd79a2ce087009c0998d9fc450bebc4434e2db601dbc65d61
+SHA512: e4afa3d17a2e3cde8a807dc3085935997a918104974c0b728c517a2241a682bf6fdca51bc7445e98851e54c3caa17f0fb4df03c94ec68077c964d14096f0facd
+Description: Hello World!
+Name: Cauxo
+Author: pookjw
+
 Package: com.pookjw.dynamicalerttweak
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -17512,6 +17599,23 @@ SHA512: d7df3a135353cc2832a624998d49a41bb501cccf9703d1ade233e2b28a5ed6217fe3e421
 Description: Hello World!
 Name: MagicBackgroundKeyboard
 Author: pookjw
+
+Package: com.pookjw.saeenabler
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Jinwoo Kim
+Installed-Size: 312
+Depends: firmware (>= 18.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.pookjw.saeenabler_1.1_iphoneos-arm64.deb
+Size: 8006
+MD5sum: e2ff6ce4dfc082ec40652da494a718b8
+SHA1: b2dd1d05e2d682371f117ac8f1cf0b6eb9f28ca0
+SHA256: 14eb24167d2096eefdd569341cafc35c45398e89c88d486ca1adea0a25f6fa09
+SHA512: 1e4246f609a710df42868dc97ea3bd3061562868767d8d820def4d3ca16be3b477214ada0e5fc47cde949719834c723a4bbf0f22ab5301bf942361feb63bb561
+Description: An awesome MobileSubstrate tweak!
+Name: SAEEnabler
+Author: Jinwoo Kim
 
 Package: com.prophecykitten.tweaktool
 Architecture: iphoneos-arm64
