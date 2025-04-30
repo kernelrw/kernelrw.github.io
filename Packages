@@ -5340,6 +5340,23 @@ Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
+Package: me.foxster.donteatmycontent
+Architecture: iphoneos-arm
+Version: 1.1.10
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Rootful/me.foxster.donteatmycontent_1.1.10_iphoneos-arm.deb
+Size: 18156
+MD5sum: 57ec22d16a3c21bf96665e0842a0eff7
+SHA1: 8a59f82919aca560616f4533415e80cffe4d07c7
+SHA256: 3f25b87ba5c7bffcd23a5107394230e500dae196fc0a5d1a670f76fc0953ab71
+SHA512: 5281d1414e008454eaf008ad4819581e8c1226fc84a449650ae3dd47f4e4858a45fa6df8774851f99c221b20e23ddc76ebb314e0491413989094be6d9a4126b8
+Description: Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube
+Name: DontEatMyContent
+Author: Foxster
+
 Package: me.foxster.ytsideloadsigninfix
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -12224,6 +12241,24 @@ Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
+Package: me.foxster.donteatmycontent
+Architecture: iphoneos-arm64e
+Version: 1.1.10
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Roothide/me.foxster.donteatmycontent_1.1.10_iphoneos-arm64e.deb
+Size: 23514
+MD5sum: 4eb4faff3b55d8ca5de574eaa4693bd6
+SHA1: 5d216ac28f6ffe1afc3dcc12fe24cb8bb73e8fa1
+SHA256: e3b78f29013f8d99aeb78134a6d1adafde1baa9203021081ed2a3f746cf8b685
+SHA512: a672811bc9c1d5feb61eb03104ca630e147770afa7469648d9ab1a0f1b949e3ddf9bd3acd751883d804a4fe1d071aa9a957756b52b6927302149e2041dbfedd9
+Description: Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube
+Name: DontEatMyContent
+Author: Foxster
+
 Package: me.foxster.ytsideloadsigninfix
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -14011,23 +14046,6 @@ Description: Telegram Enhancement Tweak
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
-
-Package: com.chris.donteatmycontent
-Architecture: iphoneos-arm64
-Version: 01.01
-Section: Tweaks
-Maintainer: Chris
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.chris.donteatmycontent_01.01_iphoneos-arm64.deb
-Size: 42640
-MD5sum: 8965284de7b2b1ecd5d2d7dac5500f2d
-SHA1: dbfd474a9c798111eb135ce45267c1ab3e127e6d
-SHA256: 4d77c1535caeb3596c565deea5c68c9cd7306e3c2321490863dea52ec614ae72
-SHA512: b4aad5a2f0818385876a591d86e6a26bb212223d023066a7de0b57c0c2686b565b01a6aad64e70b9704aa348e0857250c157ea9018f807a5f6cc257be1a1846c
-Description: More customiziation for YouTube app
-Name: Don't Eat My Content
-Author: Chris
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F6fe4d54c0931aad9f522d9f6fea3a7b9.png_120.png&s=180x180&f=webp
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
@@ -19903,6 +19921,23 @@ Description: Seamlessly block screenshot and screen recording detection in iOS a
 Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
+
+Package: me.foxster.donteatmycontent
+Architecture: iphoneos-arm64
+Version: 1.1.10
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Rootless/me.foxster.donteatmycontent_1.1.10_iphoneos-arm64.deb
+Size: 18172
+MD5sum: 52cd6185bc17bd2bbfd1a941ac3d52ff
+SHA1: dd91bb55a07207142655cbd1ef96bdbfe206cadd
+SHA256: 665b99593a82bfbe3b57ab4275dee25ef8560d1be9ce857105c4564d3be0d010
+SHA512: 6f64713044256703d88ede2f87d0355f2f02ce02bc6733d39aab62dcfd4db266c7c4d5ab1dbeae33fd9cb0f43e4dd8db59dfe9d33af80482d8043380ebae67df
+Description: Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube
+Name: DontEatMyContent
+Author: Foxster
 
 Package: me.foxster.ytsideloadsigninfix
 Architecture: iphoneos-arm64
