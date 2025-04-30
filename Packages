@@ -882,6 +882,24 @@ Name: Telegram TGExtra
 Author: choco
 Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 
+Package: com.comex.attachanddetach
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: System
+Maintainer: Misty
+Installed-Size: 592
+Depends:
+Filename: ./debians/Rootful/com.comex.attachanddetach_0.0.3_iphoneos-arm.deb
+Size: 12416
+MD5sum: b373906ff542c8899b4a2227cf6794b3
+SHA1: 85c07fa57b823b5f651e6b0772215e730c901765
+SHA256: a1d64840d154b3b9fa16edf9e1ef815faceaef8b5229c1ee79acabab0f6a87dc
+SHA512: 25807c3b901b9cb3d7ba3a5d4c80474b0dd8cb2267bdacf646ac806b8f3887411849d3e121628fad73242071050c8ac82d751427d3d3762f38b1bc43a573c01d
+Description: use .dmgs on iOS
+Tag: role::hacker
+Name: attach-and-detach
+Author: comex, danzatt, Misty
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -2634,6 +2652,42 @@ SHA512: 00cdf2d96e147b8de65573b69de13592200c640ba51d99b85f030e9c6414ca3d80a2480e
 Description: Save your lockscreen wallpaper simply like never before
 Name: Mita
 Author: Artem Kasper
+
+Package: com.kdt.caperfhudmodule
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Control Center (Modules)
+Maintainer: khanhduytran0
+Installed-Size: 260
+Depends: com.opa334.ccsupport, firmware (>= 13.0)
+Filename: ./debians/Rootful/com.kdt.caperfhudmodule_1.0.0_iphoneos-arm.deb
+Size: 20394
+MD5sum: f25996a569e0ccb521789350e3a545ee
+SHA1: 02477fdb675d8224eaec2c903672a78a26f2068b
+SHA256: 7d07e4b6fa8dfa4db980b42828970b52f1591507f2790c16c819184a0d6445ab
+SHA512: 8e58b600c924de8c7a2b83d4612aa8b9875cab79d50e0d73131550711d3a40e65b3f67bfa554ad1283574edf4b742396d4bdd1fe2c98daef43be990d7b43c7e5
+Description: Enable system-wide performance HUD from the control center.
+Name: CAPerfHUDModule
+Author: khanhduytran0
+
+Package: com.kdt.trollpad
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debians/Rootful/com.kdt.trollpad_1.3_iphoneos-arm.deb
+Size: 28720
+MD5sum: 7f6252983f96365f5891be3c0e4a96fb
+SHA1: 97c7480bc9fceb6e13b81d35105b15f13ac59baf
+SHA256: 14641d4f9df3833b1d3bf8e5dcc62c22b76066e6beaaaaf6335ca786e92880cd
+SHA512: 2397f49578ab84e7f36919dfd06a5000768d287fef5c39467ced8971e46b9f641e23b1d797c7df9cc223824bedb038750e2bb68441e4c1391a3a51a3e80150a0
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Name: TrollPad
+Author: khanhduytran0
+Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
+SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
 Package: com.kernelrw.cartooncolor
 Architecture: iphoneos-arm
@@ -4970,6 +5024,24 @@ SHA512: b950cba9a228e551cd2aadae1c264be702fb511c15abb0eaac61f5040c8f36e0df6319b8
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
 Name: CCWiFiJoin
 Author: nqt1195
+
+Package: jp.akusio.kernbypass
+Architecture: iphoneos-arm
+Version: 0.0.3-10+debug
+Section: System
+Maintainer: akusio, Misty
+Installed-Size: 336
+Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
+Filename: ./debians/Rootful/jp.akusio.kernbypass_0.0.3-10+debug_iphoneos-arm.deb
+Size: 145942
+MD5sum: 679a3f196e8d83535b3c5db1290cb2d3
+SHA1: fdc311c807e4f4dbe0255d3e772fae45b5e9f151
+SHA256: 98f9a828687c64a49f4253dc7c943cfd9bb560ce695da76cda27697a75a24839
+SHA512: 831768a46a376e10e23fffb07a8eecc0007bd5ce1bf3326ace8b70c662dec7fe871bb48ae35407cdf50b89c31c3906bac9c8f7556ceba403884c57f91abf25e3
+Description: kernel level jailbreak detection bypass.
+Name: KernBypass
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Author: akusio, Misty
 
 Package: jp.soh.freepip
 Architecture: iphoneos-arm
@@ -7964,6 +8036,44 @@ Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi
+
+Package: com.kdt.caperfhudmodule
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Control Center (Modules)
+Maintainer: khanhduytran0
+Installed-Size: 260
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport, firmware (>= 13.0)
+Filename: ./debians/Roothide/com.kdt.caperfhudmodule_1.0.0_iphoneos-arm64e.deb
+Size: 24430
+MD5sum: b22b14dbe14e10a88e50ccc00ed0273a
+SHA1: 1b24542d9154f67f9e5bb3e08f57e7afe10b182b
+SHA256: ee463906cb7dbcc963540c70ede6b216ac96e8d1fa1c08d037b2deec657dcc8c
+SHA512: 19142903b47885cab841cc09fe8b0421a2dfd6275e1c916122176c906c8ca6e8a313fec5128d6aad5c5db1ba046ccea3297fa50949b709510951beee5e7768b2
+Description: Enable system-wide performance HUD from the control center.
+Name: CAPerfHUDModule
+Author: khanhduytran0
+
+Package: com.kdt.trollpad
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debians/Roothide/com.kdt.trollpad_1.3_iphoneos-arm64e.deb
+Size: 36276
+MD5sum: 427844e76d49673e76d99783fb55b0e7
+SHA1: affc3fbf3055d410a648d07acec78b42a05cebe6
+SHA256: b5b66b6cac394560d6080f40063c01a938f0098dade8e64befee9893bf1f1b1c
+SHA512: df9c8faf4cbadea099027a554475dcaf6cc3c568fb2efd1a7969091bba3962e2ecdf946e79ca81e876e4d609045d5d38237f6cbf86fe0f253192efb67c0ec138
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Name: TrollPad
+Author: khanhduytran0
+Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
+SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
 Package: com.kernelrw.axon
 Architecture: iphoneos-arm64e
@@ -15658,6 +15768,42 @@ SHA512: f953babaa24b7612f6a5b173860038b2d4ee87c55076c1cd67c5aef05f866ad495e21981
 Description: Save your lockscreen wallpaper simply like never before
 Name: Mita
 Author: Artem Kasper
+
+Package: com.kdt.caperfhudmodule
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Control Center (Modules)
+Maintainer: khanhduytran0
+Installed-Size: 260
+Depends: com.opa334.ccsupport, firmware (>= 13.0)
+Filename: ./debians/Rootless/com.kdt.caperfhudmodule_1.0.0_iphoneos-arm64.deb
+Size: 20376
+MD5sum: d49276195399bceb4636816ca6e08311
+SHA1: bc341afd8f21a13ed72619b9e39746a778738025
+SHA256: d552e1d4b7c75bba022bf373ac0478784403c3e5c70568af056cfffb4cb3d24a
+SHA512: 647f04aa9fb70475e2ac28c97515cf86886a86c43703fe7cd42e713bf8d0a9ae0d78510088fa9081544aff6e1f0802e2b97478142968c410d4de894b53266ba0
+Description: Enable system-wide performance HUD from the control center.
+Name: CAPerfHUDModule
+Author: khanhduytran0
+
+Package: com.kdt.trollpad
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debians/Rootless/com.kdt.trollpad_1.3_iphoneos-arm64.deb
+Size: 28710
+MD5sum: efae35a2879d140279dfbf6c2cc7ea46
+SHA1: 8d7267da91e7bf4858d61d3a082ef916209d1379
+SHA256: 6525a6b0ace53b959b949315b51f0e9a6675daff82d71ce116cb49d2122af02f
+SHA512: 5e3a6eb9db08ed812b6da730b7a640dd477585d97946c69fe43a54523d89241d98b7685789f9fd8ca8c8fa2759c363117305bcde1b121d4d40e1c48a539e4abb
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Name: TrollPad
+Author: khanhduytran0
+Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
+SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
 Package: com.kernelrw.120Hz
 Architecture: iphoneos-arm64
