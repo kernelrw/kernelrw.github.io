@@ -917,6 +917,26 @@ Tag: role::hacker
 Name: attach-and-detach
 Author: comex, danzatt, Misty
 
+Package: com.cpdigitaldarkroom.barmoji
+Architecture: iphoneos-arm
+Version: 2023.3
+Section: Tweaks
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.cpdigitaldarkroom.barmoji_2023.3_iphoneos-arm.deb
+Size: 45644
+MD5sum: 54d5ef0b0932e0ca9a6b8a8402011caa
+SHA1: d2865ebedb62325cd45818385673dd3abaad16f8
+SHA256: 274c0d6c6d0b9fa824f38431ca348268975e1b2c7556e82fde99b708538cb6b9
+SHA512: 60c7eb4d9fea9344f34fd8366dc0179bdb2971d76c7f97abe2828310376e4e04b3b8f4349775a874ca9074a79c273faf9d0b2486f2fc367db9dc9959e205feb0
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios17.0
+Name: Barmoji
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+
 Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -2115,6 +2135,42 @@ Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
+Package: com.giorgioiavicoli.passby
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Giorgio Iavicoli
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.giorgioiavicoli.passby_1.9.1_iphoneos-arm.deb
+Size: 52628
+MD5sum: 8761ea4909f21ea1ca5b7029a7551996
+SHA1: 7d314555bc33d386aaf24965bb42e4f8678d4356
+SHA256: 212f10e223b41916063dada9b96eba3f2d6ae475528b681158f9245f038944fe
+SHA512: 0c97fb751b10fd213d181bbf61124046e01c263e5ebe1945b685bfef864011d0fa5a83a47c7d0bdfa749308a5ed136c80767fbbdb27d2fd31552b5bc60973911
+Description: Bypass passcode in many ways
+Name: PassBy
+Author: Giorgio Iavicoli
+Icon: https://axs66.github.io/repo/icon/passby.png
+
+Package: com.golddavid.manila
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 200
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debians/Rootful/com.golddavid.manila_1.2.0_iphoneos-arm.deb
+Size: 19900
+MD5sum: 859e3c3a96e2ade36899808a370315ec
+SHA1: b86ebd9356974484a905599e0d974fbb8d76ad49
+SHA256: a138344954a9c69ec1d25323263b9e8a1baa50f29b9149cbd9427b880d28d043
+SHA512: 25f71c0f875335d0687c3c15193c12d6344bd4aa964b91758a39929b98944acc0fceae1c6f74182a7ae2a9d9dca0f5940a55c4959621d7a48957baee2b304e65
+Description: 3D Touch on Folders to launch apps
+Name: Manila
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/Manila.html
+
 Package: com.halliehax.waggletunes
 Architecture: iphoneos-arm
 Version: 1.3.1
@@ -2495,13 +2551,12 @@ Maintainer: ifilipis
 Installed-Size: 112
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.ifilipis.fckzck_1.0-1+debug_iphoneos-arm.deb
-Size: 10664
-MD5sum: 6056cd4c4119c6b94cf802c78ea77c3d
-SHA1: 30338abdb3d88c68c10327b399cc8f3c30ef4baa
-SHA256: f70329383554a785f031fd343502635357ca5bdbf87f92bae06459df39e18cc3
-SHA512: 39aefed9b61911de6ce6ce77cada3aea070ed45d910051493ae94034f59326585d2d6e988e6bc55298aa176c62ac96ac644a15e4d89cdf66b3e9064e1c107ae2
+Size: 15840
+MD5sum: fa4c9e7e65c5728d36e01036a35f34fe
+SHA1: 50c64ab4358b16078734844bf2034675939a6ea9
+SHA256: 55d6f528d6cecf891a4a7299300e3eb4203736f96366b33b91ad939947ba8bb9
+SHA512: 376d7d199e2693fb239985ecc177fb497e543035a8bc44fa8c74c9dc62a1165fb01fa6151a1c53c996d012a23ce50977df52c9ef07715d52817c4970b5478999
 Description: A tweak that kills forced updates from WhatsApp completely
-Tag: cydia::commercial
 Name: FckZck
 Author: ifilipis
 
@@ -2513,13 +2568,12 @@ Maintainer: ifilipis
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.ifilipis.fckzck_1.0-2+debug_iphoneos-arm.deb
-Size: 7608
-MD5sum: 51b4e7745fd615b5bad52a2a5fb07346
-SHA1: 7ac5133acf9f74eaffdf8e8de10f3e998f2235e7
-SHA256: 1f94f65ad7dd94ba8d2fbbfbfa994f16adc8fa2cd8bd8a7ca6bea50af1a309d5
-SHA512: 240c5729919e25ed6a2571897f59cf77132558e071e2ea1b6535398cc865c08f7c6373a7e87487dd77f5ff942bcd6e56ff56dd5931c43fd984cfc3f1ad578f68
+Size: 10836
+MD5sum: df764187bbc27056bbdae9461f61b208
+SHA1: e467f0cde7ccd2ca43269ab7948f9d1fc7e3d34e
+SHA256: ae7f5cb79f4c98faf10c5433c5cae7cb355a3d6c26adbb7fdfcee12704fa7160
+SHA512: c824f6de0d0366a88370bfdce33fb6129235ea3a2761fb95ad329c26c236bf5cd4e5b22174a4587b9907c8b655daa68ce5e5a547e4e87e617d69fd9e70a4cfdc
 Description: A tweak that kills forced updates from WhatsApp completely
-Tag: cydia::commercial
 Name: FckZck
 Author: ifilipis
 
@@ -2530,13 +2584,13 @@ Section: Tweaks
 Maintainer: initWithFrame <initwithframe@protonmail.com>
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker
 Filename: ./debians/Rootful/com.initwithframe.velvet_1.5.1_iphoneos-arm.deb
-Size: 182472
-MD5sum: 130ec1330bcd65a4109d90d535cd6e90
-SHA1: 5c103d0aad427e754cbd41d278f1e1d2388e8209
-SHA256: d8d8ca67d843acab9e590fae9db2367d5b6a88eea6147e1ba5104c2342c2b537
-SHA512: bb0a41ce5285156da7c78485149a739e7f97564714da696a721cf9606c192e97a52996f5bcbda136273803f8bc1df4db69af9faf0a88cc5c1edf490830552765
+Size: 255328
+MD5sum: ca586b7344b38afa5a06330b34283b9f
+SHA1: b53a3c0fe9489e854b316bf2bf5b18d74205b735
+SHA256: f8705219bfabfc747662deffb14f6e40ef0dd7880c06962aee7233417468df52
+SHA512: 8dc0f260a312f99d8ba7e53da74e4b5d8c879b3180c71ae1ffc060d77b1a15e6bbc05da12ff84b8783046554e45a12707f66e08ebed4a8141d7445d1981a8244
 Description: A new way to customize your notifications!
-Tag: cydia::commercial, compatible_min::ios13.0
+Tag: compatible_min::ios13.0
 Name: Velvet
 Author: initWithFrame <initwithframe@protonmail.com>
 Icon: https://chariz.com/cdn/icon/velvet/icon@3x.png
@@ -2565,11 +2619,11 @@ Maintainer: JacobCXDev <jacobcxdev@gmail.com>
 Installed-Size: 820
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0)
 Filename: ./debians/Rootful/com.jacobcxdev.fbspnosor_1.2.9_iphoneos-arm.deb
-Size: 554650
-MD5sum: 04f46c67579c3243b55591265fed5d52
-SHA1: c7b16f40773d3f700835e75be7f60c3826656112
-SHA256: c4d9d2f9f8d20b471d05e555a61a518bdfb95356d419a62fdac5db0b44363fa2
-SHA512: 57b1accae6efb8cebefd4d3d9e93bba88ca3812dd561ed1d60f40cdeae4efc2c63cfd79ee96c26215fceedc770b6110d769df17ac3e3ff639dc1a1bb9bb68230
+Size: 548924
+MD5sum: 37740cb2b25bfed694b226024b63d292
+SHA1: d8e8065941be5670c58f1113a1b763842ee1e66a
+SHA256: c274f99644edcdbefc94becbd10b50375ab9b4338d067c0cfaa79639ad7f5d67
+SHA512: cb76d3e6311f1831763db2b5deba0e548ba79fa1cd105f6986cd9d7c4e1b728fcc0a4dccbd9cb822886a2cd0149af8f000c40bee602deab862b0c35dd647965b
 Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
 Name: FBSpNOsor
 Author: JacobCXDev <jacobcxdev@gmail.com>
@@ -2747,13 +2801,12 @@ Section: Tweaks
 Maintainer: Kernelrw
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.kernelrw.deepclear_1.0.3_iphoneos-arm.deb
-Size: 1594284
-MD5sum: 01656f4cb5290d24f0f34b88aee254d4
-SHA1: a4681b0a9746b99f87b31a7f1fed0f28bc0ac36d
-SHA256: e813cb4957a4bacd8846c246b709f1f90421c499e480442d783d380d8b04d1ba
-SHA512: ea08e09e285363beffe8b15de6a53a8d795965194007f8670ffd29c1c5098eb41765549c0f471f42af85a38269cf6775161ad8e5aca51e3e38427c48ce939477
+Size: 2920498
+MD5sum: 1d93a12bc51c25e447639e96f902c28a
+SHA1: 50195f2e0ae97c71931174170640354f12767bee
+SHA256: 29901f259f47087af0f58199d076ef2780b10b1eaafca4043d43efd204a69578
+SHA512: f295432f67dd626c3744366b317bfae651a1a5ce0a7060576653e39dd85de3b3ea4c37f027b9e21840302c05a5eebd4eed48215ab1c7af6bbcfa9d0204664070
 Description: Test Package , Do Not Install .
-Tag: cydia::commercial
 Name: Deep Clear
 Author: Kernelrw
 
@@ -3519,13 +3572,13 @@ Maintainer: NoisyFlake <support@noisyflake.com>
 Installed-Size: 748
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Filename: ./debians/Rootful/com.noisyflake.betteralarm_1.4.1_iphoneos-arm.deb
-Size: 295932
-MD5sum: 3e52df4d1d7242613da3fb9a4148abb7
-SHA1: 1121747b3232806c688a65f4c70edbb11d2723df
-SHA256: 07b849f0864ed74d41c8eb00cc56654800d08af6d58ccd1a941ab82ceb881caa
-SHA512: 1bfc037a25584fc290f7c1b05476e95ecc62a9fe5c6ae87ec0330308cdb64e3ab17732df091cbec22c1d702f82a92114e292e8817dc7471eace849616a979885
+Size: 333450
+MD5sum: 75513828013e75e69712e3538c56dfd0
+SHA1: 98f35c6af36e06615fce0a28ce867d9da2af371b
+SHA256: 8cdc1128eeb52d63f5a9761f8f8d9057817ef3f0b0c2adcbcda1fcbc9f55a04b
+SHA512: 2670157342ecabed6bc4a22a000cccc18280bccd8215472f47839574d3446d4768f36a02065c6549fbd0b71d1297bb5cd84ce7c847e8277c1445d201da613c16
 Description: A beautiful timer and alarm screen
-Tag: cydia::commercial, compatible_min::ios14.0
+Tag: compatible_min::ios14.0
 Author: NoisyFlake <support@noisyflake.com>
 Name: betterAlarm
 Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
@@ -3558,11 +3611,11 @@ Installed-Size: 629
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet
 Filename: ./debians/Rootful/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm.deb
-Size: 95920
-MD5sum: 04b17711b412d65d58993581f2169e4f
-SHA1: 573cd967334dff18b815801a0eedecb2e2ab7d0a
-SHA256: b439715212763eaed100eb38852451767fcaae2e62f051945bbc91be6851723b
-SHA512: 478a834aead64a115184e3e7f9f45ab7919004cae412f0763d79178e500e23f2f85e695a4ff76ecdbadc39c43c837808e7c2bb91d711a1471358ccba6d5184ae
+Size: 158074
+MD5sum: f3fd2c768683b178f5a92be2e2cd2020
+SHA1: a781c213b96eb2b6dfc38f67d87e203bbb073a12
+SHA256: efc155bbcf911d54372685b95211c54e244459254b20872828c524c366c56e2b
+SHA512: 7ed60f462299225e706db20b0d7a939ea5025eaf511547f79160a14da920ded8c24c2f5900e200159b140e400e51ccd77528c1331266a00a2adf93de9f00e1c9
 Description: A fully customizable notification experience
 Tag: compatible_min::ios15.0
 Author: NoisyFlake <support@noisyflake.com>
@@ -3854,13 +3907,13 @@ Version: 1.0.1
 Section: Tweaks
 Maintainer: pookjw
 Installed-Size: 384
-Depends: firmware (>= 16.0)
+Depends: firmware (>= 14.0)
 Filename: ./debians/Rootful/com.pookjw.dynamicalerttweak_1.0.1_iphoneos-arm.deb
-Size: 21276
-MD5sum: c6bf986e5c1d62464790304b25cb686b
-SHA1: 2fb94f41bc99a97b2e1ffb80c7cf23d2afb188d2
-SHA256: 01cd42d45dff6c23a439545711d78344558c927af929a8f8dd8871211a213547
-SHA512: a9071d63395ea65e919d47cad093b7720b4236f02678c2b858085be232a326cd1e8746df4a0bb45cf7c14baa9dbc8be4ba33437cc07bd842b4a99442e6a89cc7
+Size: 21300
+MD5sum: 051eac29cad5497f6ded003d4ad4b984
+SHA1: 6355e90d0398a3b44c6c1e28619e23d3a9dd5fa2
+SHA256: 4ce1a9cc14f8f8a96dabe0911c1065a5cbc706301220bd20f9ecddd2205513b9
+SHA512: 92e61f694ef20817d73d061d7f7f9e0903854bf6fba8ef53010f0004ac40b54107d056e64ae5ed847a7b1cab465f8bea91ec48fe547d65a2460d05e20b097c0d
 Description: An awesome MobileSubstrate tweak!
 Name: DynamicAlertTweak
 Author: pookjw
@@ -3997,11 +4050,11 @@ Maintainer: pxcex
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.pxcex.autoscroll_1.0.0_iphoneos-arm.deb
-Size: 25248
-MD5sum: 46d33fd289e50c648d5472e9a6d41208
-SHA1: 09c2f0c2e96ed804e9a25f285b9f191791dd0741
-SHA256: fab2bc075d31450cda9481b32d874dd9843e1c5ae5c2755d6c494f26fdbfb4bf
-SHA512: 57ff358bad8f74464faa962315042196616d842c62735b19af1a7e73da0854f8b3b8d257eee19f820ea2794e02d60dccbe27354b5353d5764da20b07f21d8fd9
+Size: 25268
+MD5sum: d949850888e0ed2d02288ba3d9bc8b6d
+SHA1: 60fc02b135decc7968082025d2b303fe30b5e961
+SHA256: 65c4c57eb8bc59362372f6f3db940e3008b318d395171031b7b45aa0031fc4e2
+SHA512: b6660ea7714a6a39b9951e96bdac96df39016f76fbae8bef43b1fc32607cd63ca4e5c73a2f4bb3f9bb9905af4a8133c578a36c73252025dae5f7a24296ff83ff
 Description: Smart Auto Scroll & Faster Scrolling on all apps .
 Name: AutoScroll
 Author: pxcex
@@ -6052,13 +6105,12 @@ Section: Tweaks
 Maintainer: ARX8x
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm.deb
-Size: 264608
-MD5sum: cca81f22bacd5a32d5a45541dad23fc7
-SHA1: 63e570d7947a1e27fc204037750d88ccf46fcc0d
-SHA256: a52db773ff47df2164a7aa977ac98d89a0a41f0f5332316159c29b5b459b9cb7
-SHA512: 4f3276347b1f973edd9e131420bdccdbef27db5f36aa15b15eccc934ce64a128f7fb6d915c85bfeeb1937ecb4cd625a5ba073f01c6eb25bdbfde06996c799103
+Size: 441684
+MD5sum: d76442b3d1533ccad1a0353673294bbf
+SHA1: fee14168c5f7631941d464fe0d41cce9eb18806c
+SHA256: 33450073bbce182bb00af08f0e73d59ca26cbcfff2c2e920259e8f7138d1fd87
+SHA512: 4b1acfb8607fda24abd43e935e05f8038df1afb5f55ab813f31d9fa5f1b63344548c4a30f9b1c9ad8aa70e6b7a37c0f21eb1bef5710956c1a5a0960a4aeacec7
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
-Tag: cydia::commercial
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
@@ -7020,6 +7072,27 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
 
+Package: com.cpdigitaldarkroom.barmoji
+Architecture: iphoneos-arm64e
+Version: 2023.3
+Section: Tweaks
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.cpdigitaldarkroom.barmoji_2023.3_iphoneos-arm64e.deb
+Size: 60772
+MD5sum: 6f1aceafea4a9405dcb61b61681e2922
+SHA1: f0cb90f990c12191850f232b9a2bbee7f71b2660
+SHA256: e50b3a2c15bba16792f306a8f64274409a3eec5c0d064c2be93dc6d5703cb452
+SHA512: dde221201f7df1eea6babea7c378aec9786539626399fb1bc901e6ce3286c9c914866792e1267863c8655a5b31a1e6e37138c32a6d5c195c62b781cc3077113c
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios17.0
+Name: Barmoji
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm64e
 Version: 1.5.8
@@ -7709,6 +7782,44 @@ Description: A SwiftUI Prefs Framework
 Name: Comet
 Author: Ginsu
 
+Package: com.giorgioiavicoli.passby
+Architecture: iphoneos-arm64e
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Giorgio Iavicoli
+Installed-Size: 456
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.giorgioiavicoli.passby_1.9.1_iphoneos-arm64e.deb
+Size: 68250
+MD5sum: a1b6413158451a2043d2e53eff842b58
+SHA1: f032817fed38f1ea7860cc80f073f7244ed5fff9
+SHA256: 61c2b0ce612432574eaa1f4e44ee459b150d3794b2886e129dafba19f395c1e9
+SHA512: caab98bb291eafd1735f0f3a8413e3701a7e27f66c0639456b0683549747a9b0c0c9b9f30cb51cef33f8968ec46fb12adc3b8462351e7c798472b6d52161a843
+Description: Bypass passcode in many ways
+Name: PassBy
+Author: Giorgio Iavicoli
+Icon: https://axs66.github.io/repo/icon/passby.png
+
+Package: com.golddavid.manila
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.golddavid.manila_1.2.0_iphoneos-arm64e.deb
+Size: 18396
+MD5sum: 11ba7a25b5214400eff7ee39baf73211
+SHA1: fcc7b9e2cea7d69663037d6b2f206032eb57bb65
+SHA256: 8b7ed80eaa3ee974231bafbfba8cc8a1cd79b07f14711ee33061b8df05945845
+SHA512: eec16f6c2012156bd164f2042c663c1409abccfe7f6f08e888a6d40a7e2f177b32f7c2525884d2424f2e136078d05c58f22ce25eb206b0e963cd21dd279d1812
+Description: 3D Touch on Folders to launch apps
+Name: Manila
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/Manila.html
+
 Package: com.halliehax.waggletunes
 Architecture: iphoneos-arm64e
 Version: 1.3.1
@@ -8224,6 +8335,24 @@ SHA512: 7e38ae7633bff41a6ec5c1c81ef3380bac2861043fb211a37fcf72fd084d444391d67b10
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.jacobcxdev.fbspnosor
+Architecture: iphoneos-arm64e
+Version: 1.2.9
+Section: Tweaks
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Installed-Size: 820
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.jacobcxdev.fbspnosor_1.2.9_iphoneos-arm64e.deb
+Size: 552996
+MD5sum: 94a211c4cab7dcfd617932c873fc276f
+SHA1: 8c019a93242be627dae2ad28c8162bee846c3f81
+SHA256: e5a3aab26ee0c399f27e6848bdcc7bd576bb3dce14ac354ca66d9e5ef5e1f97f
+SHA512: 1fc7bd12c02c91ad1d5d7d5df919407c74529f63461e519896d07319817bf5f3e3114feebdf7a8f9685c7ade1b302a015aa9a2d457715dde2bbb95ecefa66b4b
+Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
+Name: FBSpNOsor
+Author: JacobCXDev <jacobcxdev@gmail.com>
 
 Package: com.jacobcxdev.libjcx
 Architecture: iphoneos-arm64e
@@ -9543,13 +9672,13 @@ Installed-Size: 748
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Filename: ./debians/Roothide/com.noisyflake.betteralarm_1.4.1_iphoneos-arm64e.deb
-Size: 314870
-MD5sum: 5d68c523db080e8d4958861e8005065e
-SHA1: 4e5842803ae47d19906d382aebf26af394249155
-SHA256: 07d508b7ee6760203094d9735cbdd089f0d1b58aae293ab3c2e441fcf58547cd
-SHA512: cc7e4fa2f7083b93d6fb4c62ae5e8b139a319d8773cdb78fa49c2c34582109a6acd3bc64b4b2a3e50d72d0edfe9d0b35cdf440a06f11443005d4ddf5c4d5af58
+Size: 666690
+MD5sum: b279e35c1e6165970a5e960a84c8b640
+SHA1: 083b79ad169261e96f86b7929e5245f3984f73c1
+SHA256: 56116a20a48118992daeb36afe987952d89490a7eb92b2f975574e7b7d07af8c
+SHA512: 5eeb024e885ad31541b4a22cef326f30b69c0dff11245957bfe4182058f8335c4760882f7e76b62bd2dd8157fa67f15a53d54754dc8813fbe1123ca85e1a81b4
 Description: A beautiful timer and alarm screen
-Tag: cydia::commercial, compatible_min::ios14.0
+Tag: compatible_min::ios14.0
 Author: NoisyFlake <support@noisyflake.com>
 Name: betterAlarm
 Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
@@ -9565,13 +9694,13 @@ Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet
 Filename: ./debians/Roothide/com.noisyflake.velvet2_2.1.1_iphoneos-arm64e.deb
-Size: 99648
-MD5sum: 8976ba053f8b88f6d4e2cc6b51cb581f
-SHA1: 1dbf9fdb482d5c5334fbdc2e0fa94a28424b8d84
-SHA256: 3326e10140c17c07917e25ce66e29d39a45e508708cd5eca344adb2b8293701f
-SHA512: 4adfa094e84a90b911dd78e9cbb306e05916da51b7f8050e8e6a6faa9ce6482d3853569c221b2ca3b6914455e64cfb198dbb0fcfdfa1f2c1acbcc37a3c6f2e4d
+Size: 315076
+MD5sum: 361cbf0540b1288b692eaf11cd1d440d
+SHA1: c17d4deab6688cdcf12fe3a84e5aadfa83d4e4de
+SHA256: d17e9698aa4b0e1efd7bf76161813f2d51b7e1c6d9e8d4e73c8edc976a26234d
+SHA512: 4c3f0652850816a12e4e9eb2e86e10f9e3bd9214869d20533ef7d30afba1cce4e2c8dd27e146883dae4288120ee89c4eb73c78fa2bbf6f210c4d8a5dbc7ce98d
 Description: A fully customizable notification experience
-Tag: cydia::commercial, compatible_min::ios15.0
+Tag: compatible_min::ios15.0
 Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
@@ -13091,13 +13220,12 @@ Maintainer: ARX8x
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64e.deb
-Size: 270168
-MD5sum: 8bdbbf80ce680c7d8bc16bdf41e3b25d
-SHA1: 36a1be9a4f1c4b9d7faa061e04da124f9f043bd6
-SHA256: 7c743e0607bb047207ac8b5ed58b921bcf794e325c6612bb80292286ccc0a5c8
-SHA512: 5c8914042a8c52eda46c51d7798c56f693181f2f6e9f5a2284820bd39613d7fc93ed97670db7a371d0ac0d9476d778b9f2a58894e33704c75e90747baff65ace
+Size: 894562
+MD5sum: f333604c54f23160e5e020527db0b6fc
+SHA1: 894465129b6b87bef251a5ba127525430ff42884
+SHA256: 92e140f5353192aaf687322a14315b3e46b449a36b9a5c7cb33d338d54ce19e6
+SHA512: 3d56e80b67b1bc4c9f32582e9c60df393cf522f3ee04d549afc9f3c0ec54e2cc6bfdb2c01efa57dfbfeb687d7aca465afb2daf5ac2582bc53b33c07695dfbced
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
-Tag: cydia::commercial
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
@@ -14070,6 +14198,26 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
 
+Package: com.cpdigitaldarkroom.barmoji
+Architecture: iphoneos-arm64
+Version: 2023.3
+Section: Tweaks
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.cpdigitaldarkroom.barmoji_2023.3_iphoneos-arm64.deb
+Size: 114482
+MD5sum: 12def1363bb56933f692137d408a62e2
+SHA1: 782fb509dc94123be9a45f683ff1e24d4a443707
+SHA256: dca3a49d5d7627d5d3691b3b0bd2f672b776026bbdd9da7104dd3bcafb75bbd0
+SHA512: 971313175258c274da387114db044bdfc7de854dd7c6e059ab772a11881d2407fbc37a3a9fb1a0b76f22059388e50f7878328970504088531b4baf08819875ec
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios17.0
+Name: Barmoji
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+
 Package: com.cpdigitaldarkroom.taptapflip
 Architecture: iphoneos-arm64
 Version: 1.6-1
@@ -14783,13 +14931,12 @@ Section: Tweaks
 Maintainer: Devvix
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.devvix.nocshare_1.1.4_iphoneos-arm64.deb
-Size: 7048
-MD5sum: e00f83a7f99929874b7a1741db243f4e
-SHA1: 60982fec74344747f31be4a9093a24c81e4138ae
-SHA256: 7fe67dee684dcf7d841750f1229b358dbbfa24271424e125e686f75c2f62c672
-SHA512: 00a8963fad0e043cbe27ad2196a6f12e7d3d93d6af5a2270d3c05238bf54a3bcf456a3287444a063a1168f14fb97ffcbbbe127766df608cc333bd47d2080f22b
+Size: 11132
+MD5sum: 31fa3f9aeae054ede03615dfbfdd7f7f
+SHA1: c7cba4807057e1f6ba4041268b52d3324ff133fe
+SHA256: 2bec52e7f002c09c41d6842be80a3ff2cc5a731f8e0c61e3264f5664c65cdc2f
+SHA512: 3e68c88e76a0fcf00ceb1cc4e7b445dfb139bee8088e569174f3870dc276a9a25f98d0cb31c172f8d585035fe04a57f2420d082f7f671808fac29df6392d061b
 Description: Hide contacts from the share menu .
-Tag: cydia::commercial
 Name: NoCShare
 Author: Devvix
 
@@ -15675,6 +15822,42 @@ Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
+Package: com.giorgioiavicoli.passby
+Architecture: iphoneos-arm64
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Giorgio Iavicoli
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.giorgioiavicoli.passby_1.9.1_iphoneos-arm64.deb
+Size: 54916
+MD5sum: 065ffe8622480f2d411cb1ee6e6edd0a
+SHA1: e02bb14c9573456f01c663540bb3a7f78c3e7479
+SHA256: 6f685d82f605a8a3a581aa56c6d8b6dd7a87afc477dd3dd573340cc15ccd85e5
+SHA512: ecaceaeef2ed6256a9001ff03f1c05b835aa85c02cc8a72b22a6dd581e0885258910a30c1f1a868b0c16820e84b0df203c6b76076141c66a0a44afb5bc3268b2
+Description: Bypass passcode in many ways
+Name: PassBy
+Author: Giorgio Iavicoli
+Icon: https://axs66.github.io/repo/icon/passby.png
+
+Package: com.golddavid.manila
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 200
+Depends: firmware (>= 9.0), mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.golddavid.manila_1.2.0_iphoneos-arm64.deb
+Size: 14264
+MD5sum: 62c67cf2e6a05a12908c6f8d3a8d2d48
+SHA1: a6259dc1a273a11721b76d80ed5d9f9dce7f3685
+SHA256: 5481c41657d0ac4c54e0687c640f607604f9ac2df3d53b4103a384b2b25645a0
+SHA512: 707345b55a36902668c4b6ba641a065fe5e93ab67800796364d9789163924b12ee3e7565ce499f0c2c4629bb3af66e0ff43df216fe2297c77dc4ee0b7aab19a2
+Description: 3D Touch on Folders to launch apps
+Name: Manila
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/Manila.html
+
 Package: com.halliehax.waggletunes
 Architecture: iphoneos-arm64
 Version: 1.3.1
@@ -16095,13 +16278,12 @@ Maintainer: ifilipis
 Installed-Size: 108
 Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
 Filename: ./debians/Rootless/com.ifilipis.fckzck_1.0-2+debug_iphoneos-arm64.deb
-Size: 8272
-MD5sum: 2eb3ecd50d2b53999613b750bb99436c
-SHA1: 9887405c645d02822fae4906647046cad3612aa5
-SHA256: 3502e96ea7f700a4d44e7e0e27323a46da9df5c4a6ef83ae77ae8cc6cde5ecb5
-SHA512: 5eb494e45cb36ae719d692ef4f2b993ea55dc7826d5a49817b0564a130d14f5abcc3bb2886bd6ce0af23530f6c4e23d0d45517f74a626c218110738797aa6faf
+Size: 11658
+MD5sum: c3e2d899d4314afb115d3c97732150b6
+SHA1: 03c440665bf547ed5849abdc7c6e20f95fd4bc38
+SHA256: b48f93d0ce0e5ae3060b1ad436dcb9ef7880e2dc6e0fc1de87be250b85f8f188
+SHA512: 2d359f85b2ffeaebbb72779b1c405d98ff11c89d7dfa8939c5d10061a093696c3264fa1e38ba9ad76dc63c53d10929b702bbc957efad4d7b7528f28f2cab679f
 Description: A tweak that kills forced updates from WhatsApp completely
-Tag: cydia::commercial
 Name: FckZck
 Author: ifilipis
 
@@ -16130,11 +16312,11 @@ Maintainer: JacobCXDev <jacobcxdev@gmail.com>
 Installed-Size: 820
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.jacobcxdev.fbspnosor_1.2.9_iphoneos-arm64.deb
-Size: 548572
-MD5sum: d5260e318fc0c39fe23cd334e7425708
-SHA1: e208370447431b8a2785d06e4639ee2a61a9c24f
-SHA256: 56c9f71c26f74a47b35ee4936b1c8788527f9ed53bf0a2a87f6317ef4eb8bde5
-SHA512: 7f60c8359712a7f206c4820f70adadfafde0335d724581ef03da5affb948513258a5bced9b39a5d83dbf1323ad22392254e1964ff8d49311102faaee79031681
+Size: 548544
+MD5sum: ec72795dee9b148e4d02924eeacd7bef
+SHA1: 6ceb248d272e747b39baddd45411192b04c8600c
+SHA256: ca5293c087c7b18c887b91c8d8843e56dddb03a086557f575f2ed2521d3d4c24
+SHA512: e9951d48742cc9ba5fe7a3b66d48ba80b20aaafe9f4fe6c372250d40b7a9af9d0a36bacf7e94a005e99f13020720b7c9352a2712995eb75197b53ac8341fa3e6
 Description: Remove sponsored and suggested posts, videos, etc. from Facebook.
 Name: FBSpNOsor
 Author: JacobCXDev <jacobcxdev@gmail.com>
@@ -16267,23 +16449,6 @@ Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
-Package: com.kernelrw.120Hz
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: Kernelrw
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.kernelrw.120Hz_1.0_iphoneos-arm64.deb
-Size: 5200
-MD5sum: 9aa63fca853db6fabd7eaa7501fc736b
-SHA1: be36cd41c69e6160cade7ee45da9cf05568ba09a
-SHA256: 39a8252b4fcde96b3a961cd6998bd741f63a3cc28330c2459880c8c3271f5c11
-SHA512: bbc53c767ea098c05bb2f1ba1ba4bc9c55c1aad6402f00266c20ad58d2a60a15cb1ac9f8b7071eda6d253e3cbbfce87f42d7efbca5f57b525877d1df39c1ea32
-Description: Break 80Hz to full 120Hz
-Tag: cydia::commercial
-Author: Kernelrw
-Name: 120Hz
-
 Package: com.kernelrw.deepclear
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -16291,13 +16456,12 @@ Section: Tweaks
 Maintainer: Kernelrw
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.kernelrw.deepclear_1.0.3_iphoneos-arm64.deb
-Size: 1581560
-MD5sum: e795b6eb5d8b3f2b82ebf23de76bc2f9
-SHA1: 4f5ab80c4182f15cc88a05b9dd360654abf32639
-SHA256: a9e440d921b9c5ade0be2cffced9b3cb2a1537da9dc7ff8df0e80a27099c917f
-SHA512: 4f507821355865f69b9d2a068be8eaaf9550de37caaa9724c2e355952ed2cde6bdc3b7a184c9c4e0a901ac8a33de637465819e074b9ebab620493403cb2c17d3
+Size: 2920332
+MD5sum: 825b2193bf091f4eb967847499687c28
+SHA1: 9faef76f35ac4322f4deba8c70da3f14fda47a37
+SHA256: 5a1e9248dd62a80b56dacf799b190ee81973cd39ab1be00261cee0a370f73619
+SHA512: 47c9b52af3d049e66bce2c3528b1b8184e5c788eddc8ff609cf25165f9c8314532be380c58f90110dd771388934af526b8ed33db6a1debec5ece025f11ad6ded
 Description: Test Package , Do Not Install .
-Tag: cydia::commercial
 Name: Deep Clear
 Author: Kernelrw
 
@@ -17911,13 +18075,13 @@ Version: 1.0.1
 Section: Tweaks
 Maintainer: pookjw
 Installed-Size: 384
-Depends: firmware (>= 16.0)
+Depends: firmware (>= 14.0)
 Filename: ./debians/Rootless/com.pookjw.dynamicalerttweak_1.0.1_iphoneos-arm64.deb
-Size: 21962
-MD5sum: c35a5f1e13a35765a68665bfad03026b
-SHA1: 78d1537cb2d66395d6a8fb392e64338695f3769f
-SHA256: cf4b8a00c70ab10cb6c44631a7d19f01be50b69cf73dc30a15831db52b080a6f
-SHA512: c75f02eb4d812d3dda62195bffde211ff7cbcf8aae4735d0fce3fe1ac2862d7cd6b13ec74022dd67c821d403e6adeffa0c61c43892df7ee9e18712f2ef6736ea
+Size: 21360
+MD5sum: aec2249532da2500615efbcac2fa7514
+SHA1: 019b8c156ae2fe5f99dc3cc1684be69822976c6e
+SHA256: d77d8e669761bad539c36a8359cdcd0cdc001c408c298f5e34c470f225212128
+SHA512: f54440313a2c4d90358ea5944aeb8adf507ffa557e47a0830a2b7b32659ea5b741a0dd6e1b631c13e55fc52ab834035decb78c58ed9b9c48c0a6745a0036f95b
 Description: An awesome MobileSubstrate tweak!
 Name: DynamicAlertTweak
 Author: pookjw
@@ -18125,17 +18289,16 @@ Version: 1.0.0
 Section: Tweaks
 Maintainer: pxcex
 Installed-Size: 152
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
-Size: 26368
-MD5sum: cb466d4196f4cc562ba4976d319e7f79
-SHA1: 77d82bbbd3521a63c07f79390adeb2139d5f599c
-SHA256: 1ac7eb74e9ee225a5dddb8f707344b20ab8636f33d709e8da5f3fc91ee75d345
-SHA512: 069b5853f64705be2caae5964dd3776e16dbe8d235b2b989f275f8997e07b560994a9ea88d451da43e23eb7e34a58bda41305db7adfecc0d2b5d478a7734fe0b
+Size: 22876
+MD5sum: bf3d42067a5773cf937e5da0cd2e173c
+SHA1: 17d2fa9856b9ff9885dcb8d4e225d9eeb0a68dfc
+SHA256: 914cbf00d6a953ff55ebc5d5e2f04cd15314fd8383f5c930dce403490b08a67a
+SHA512: e57699a8d5142416f4d431037e6a8dc2f69d1539c06648673b6489ceb1672afed118862a60e146cc4dc57bb3c3b53759b240475e4a09e3ef53f2ecb723662084
 Description: Smart Auto Scroll & Faster Scrolling on all apps .
 Name: AutoScroll
 Author: pxcex
-Depiction: https://d.plutorepo.com/posts/AutoScroll
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xRd7K0RfX_B1KlS7ypYY0xRtNazHw2jWbIMy3ey7Bg&s
 
 Package: com.pxcex.facebooknoads
@@ -20530,13 +20693,12 @@ Section: Tweaks
 Maintainer: ARX8x
 Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
-Size: 146004
-MD5sum: 0f8130b25950107029cec6fca803e79f
-SHA1: 77343954d5f66634555a2b2491541bccec15882d
-SHA256: eb5f1f8fbaa1aef5fbd09449fe5ae2ca2b6b3aaa87837713358dc53b776daf5c
-SHA512: 044e158fa57f41f6e1f236312c539a2a35d6efe3a2947e00bffee026e1dad73f782d6f995f8b590af96270c40ec17f25b26303892e80f9d81ca3fe19cac1eeb9
+Size: 419992
+MD5sum: b1d2875ed026b5f43f0a3673347c334e
+SHA1: 40b483f1a5e80b331bf88e22a5b82938ff381750
+SHA256: 7b478d61a1651d2d3619c3f96441fbb6aece2b66058f0a07fab501c31f4e8493
+SHA512: 7192626e1986907f0aa7f7904f9adbd592a3a76ee06cf60f48c413b93c5ff00b0591ee241c7c2b87040add5e865931d00a233f44a2aa8610cb9ec36c37b9d2cc
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
-Tag: cydia::commercial
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
