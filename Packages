@@ -3152,6 +3152,24 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
+Package: com.netskao.appdata
+Architecture: iphoneos-arm
+Version: 1.4.5
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.netskao.appdata_1.4.5_iphoneos-arm.deb
+Size: 5070080
+MD5sum: a71a68a9fe1fa36d2fae98fd5a43a0ae
+SHA1: a371878f6703637167d953b02b30bb4cc96ef642
+SHA256: 0ece71989cdc6b3915278e4269f6f56987caecf429577286ce8f4c6d21e3af94
+SHA512: 88640553c071527160012e388468ca0f082c4fd5b390a00fc0d55dbdb5aa3d99b72b79d950fb809f50adcfcefd948343c882cd202da0025542ec604d696476d1
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+Icon: https://avatars.githubusercontent.com/u/6962327?v=4
+
 Package: com.netskao.batterypercentx
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -9182,22 +9200,22 @@ Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
 
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64e
-Version: 1.4.4
-Section: Netskao-Tweaks
-Maintainer: Nets
-Installed-Size: 13548
-Pre-Depends: rootless-compat (>= 0.9)
+Version: 1.4.5
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 23032
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Roothide/com.netskao.appdata_1.4.4_iphoneos-arm64e.deb
-Size: 10002388
-MD5sum: b4c1577f57ab4d912bea0fc2b54e34e0
-SHA1: 5077a0e0642458ac06f725a63dea565b263ea652
-SHA256: b4a20ea550a199102b99f3d9449667adcff345d352305c4a60be07834d827e4d
-SHA512: afb3c14a2894043ef70d76d900c5c3dcdab38e61f094de184ed3a9b80a83b7f89eef4f1d98fab53d1ff25d09b79efeb05bc81c78a86c7c57063d5685f4bf7401
+Filename: ./debians/Roothide/com.netskao.appdata_1.4.5_iphoneos-arm64e.deb
+Size: 10123952
+MD5sum: d1db06bdcb75eb042d6a97c62e0f0989
+SHA1: a4ee0ed71179c6ed38ef0a94d61d8ace768cdf68
+SHA256: a8b6911326b38675d4cfe934fd3b37986879fe56b50d468533d1913c781f2d59
+SHA512: 24f04c89ed7311f7ffb60dd4104b3a36b1c1fa57b8c9eaf953395325c7fece2b8aff2078623a222dedd6a022c6f83ef7f672c383346784e9316adeaaf6a49ab9
 Description: View & Manage Applications Data from your Home Screen
 Name: AppData
 Author: Fouad Raheb
-SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+Icon: https://avatars.githubusercontent.com/u/6962327?v=4
 
 Package: com.netskao.cclifttowake
 Architecture: iphoneos-arm64e
@@ -16936,17 +16954,17 @@ Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2
 
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64
-Version: 1.4.1
+Version: 1.4.5
 Section: Tweaks
 Maintainer: Netskoa
 Installed-Size: 23032
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Rootless/com.netskao.appdata_1.4.1_iphoneos-arm64.deb
-Size: 5069824
-MD5sum: fde04df0a730b2e411b1abaa31d79679
-SHA1: 9eeb45e021bd8d36e441deb080d4018dd1e1b846
-SHA256: 3a2550e8b82b744dfef8f8236c40abd8b9c60c37c2130136e8b05f43519b929d
-SHA512: 7a97155b790644f0b40df49a93647aad55e05712e1bcb50630a6fb5b59a1f6b3c54e67c648c4f1bd8b6f291751c4aed2ca6c170c30365786646b6efcac2c0319
+Filename: ./debians/Rootless/com.netskao.appdata_1.4.5_iphoneos-arm64.deb
+Size: 5068292
+MD5sum: c7b1eb6eb4d41e7bf81301338219462c
+SHA1: 2d543e8efef323aea41c55560f6a361c1aa59131
+SHA256: a240e247e37aeafdd8687c3ab3d91ce9b8b43a63dcc5418e338b89f699e3f6b2
+SHA512: e283300cfb949135d2b0be50027dd03031c5ecd0487bc5f259c9f61cd97eb8884f2a74374d7d20902dc6047c83e8bdab1874620057fc762bdd20c6c382fab5b4
 Description: View & Manage Applications Data from your Home Screen
 Name: AppData
 Author: Fouad Raheb
