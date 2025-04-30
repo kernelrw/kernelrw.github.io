@@ -346,6 +346,23 @@ Description: A simple tweak that disable ads on facebook.
 Name: Faced
 Author: 34306
 
+Package: com.34306.hoyops
+Architecture: iphoneos-arm
+Version: 1.0-16+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.34306.hoyops_1.0_iphoneos-arm.deb
+Size: 12162
+MD5sum: 3c3609706281b10c62e1785a763efddc
+SHA1: a20c8d7d8df522fb056a8f1883fc6f651068628f
+SHA256: 9b201e0e0155185a611930b7bb66f457c5c5bd9488a281339399085f16c5b787
+SHA512: 36237526b2bb5f624d9b55b460ab93551cf44fb84ac57ba017cadda69257bd7e15c99aade97239576320638527fb8fd3e2190e4947952753b56125c687475db9
+Description: Connect to private servers for a certain anime game.
+Name: HoYoPS (GI HSR)
+Author: 34306
+
 Package: com.34306.messedd
 Architecture: iphoneos-arm
 Version: 3.1
@@ -3726,6 +3743,23 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Name: MobileMeadow Reborn
 Author: pkgFiles
 
+Package: com.pookjw.dynamicalerttweak
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 384
+Depends: firmware (>= 16.0)
+Filename: ./debians/Rootful/com.pookjw.dynamicalerttweak_1.0.1_iphoneos-arm.deb
+Size: 21276
+MD5sum: c6bf986e5c1d62464790304b25cb686b
+SHA1: 2fb94f41bc99a97b2e1ffb80c7cf23d2afb188d2
+SHA256: 01cd42d45dff6c23a439545711d78344558c927af929a8f8dd8871211a213547
+SHA512: a9071d63395ea65e919d47cad093b7720b4236f02678c2b858085be232a326cd1e8746df4a0bb45cf7c14baa9dbc8be4ba33437cc07bd842b4a99442e6a89cc7
+Description: An awesome MobileSubstrate tweak!
+Name: DynamicAlertTweak
+Author: pookjw
+
 Package: com.prophecykitten.tweaktool
 Architecture: iphoneos-arm
 Version: 2.0.0-beta
@@ -6236,6 +6270,24 @@ SHA256: ea7a76954082e6297286a3732d35129dfc7c9429c05c49000022321ed1f66e0e
 SHA512: 9ffee95d393662ff4108230377c63fb2ccb85cd7e5fa211a7e45f9a568fd4d95a94ca9871a04b847d142dd61f2e4b06b198ba6ef83dd614d5fda89a0d456b03a
 Description: A simple tweak that disable ads on facebook.
 Name: Faced
+Author: 34306
+
+Package: com.34306.hoyops
+Architecture: iphoneos-arm64e
+Version: 1.0-15+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.34306.hoyops_1.0_iphoneos-arm64e.deb
+Size: 15534
+MD5sum: 2250b6507d6d0fed7db9da5af00fd6cb
+SHA1: 334decbb7f25c93ccda527b0487d40ff1094f6de
+SHA256: b1541eeddc39ec096fb3007c05103d9574861888aa3ba13042e1f0ffb627184e
+SHA512: f031fd2d916fdb70a5b4c57ea03e5d6db01c7b0177b5e8c5e7cede14a959586d39a117c501e5279b18aebcdb99af1a0c426da1b1503e0c8b887fee2e68d264c9
+Description: Connect to private servers for a certain anime game.
+Name: HoYoPS (GI HSR)
 Author: 34306
 
 Package: com.34306.messed
@@ -9864,6 +9916,42 @@ SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemsh
 Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
 Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
 
+Package: com.pookjw.dynamicalerttweak
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 16.0)
+Filename: ./debians/Roothide/com.pookjw.dynamicalerttweak_1.0.1_iphoneos-arm64e.deb
+Size: 29062
+MD5sum: 8c7ec7a7b9b2d64cc104ced07284b43f
+SHA1: 4814e95a403bc7a06e8de21af2e09860a1b355a4
+SHA256: 8090db5bb8086bf3eaa879bb26d8c1b25f7ed7f53829d7cb0e905d4476e63e8a
+SHA512: 4d5bf54a13e1d34c346e8c02bfadd5f1f66b6ccbf6c888f4c8d8b7df1c378a1062ae2d843b2ef9068787ff7322fdf26afee39b8688d72c983db8836ff09a06ef
+Description: An awesome MobileSubstrate tweak!
+Name: DynamicAlertTweak
+Author: pookjw
+
+Package: com.pookjw.magicbackgroundkeyboard
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 18.0)
+Filename: ./debians/Roothide/com.pookjw.magicbackgroundkeyboard_1.0.1_iphoneos-arm64e.deb
+Size: 4508
+MD5sum: 540f11f96d3d5e338d08bed1987e0ac9
+SHA1: fb3ee6d3273b3476c3d92c7b08fee881d9d3dd3b
+SHA256: 9431efc8b8bc99be173b2c13f8a64d938615a4f5b17280670c13c6b2f87ddb03
+SHA512: 89986094b717fcdca021d80640c1272243d70499bcdc684a5e83a0a1049cbbf5fe92d3210a0983dc2fee7d121558914dc2cef17914f1030728cd8b8c3936adfb
+Description: Hello World!
+Name: MagicBackgroundKeyboard
+Author: pookjw
+
 Package: com.prophecykitten.tweaktool
 Architecture: iphoneos-arm64e
 Version: 2.0.0-beta
@@ -12976,6 +13064,23 @@ SHA256: d53188d556e46e61458bad8ad987b642b7b70dcf4fa60d34fff92f7b462aff49
 SHA512: 1f14bc9dbcbba4f98e692ff5fc55106f986a7749ead51838692b65a6598877e91b6a6c22ee11e243adafd715f11e37ef182183bc07d062b5fca83d449abd9bb1
 Description: A simple tweak that disable ads on facebook.
 Name: Faced
+Author: 34306
+
+Package: com.34306.hoyops
+Architecture: iphoneos-arm64
+Version: 1.0-15+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.34306.hoyops_1.0_iphoneos-arm64.deb
+Size: 12210
+MD5sum: e24b73ff44ed8497104463266b17ec69
+SHA1: 7ba4770378ac715ab22fb2277df3082bcbfa247b
+SHA256: aec3ddbac1edd72fec72df9342b3a284b89b766dfb2f390317790f8fca24141d
+SHA512: 2aa882d0ad8cfd404d028a1b5d0c272bbe844e49d77183e1b69681199a3999d6da0ccbc51a163f77b34b1abde249562b49d73d44c3bbc87d9c736e5f010d3aa1
+Description: Connect to private servers for a certain anime game.
+Name: HoYoPS (GI HSR)
 Author: 34306
 
 Package: com.34306.messed
@@ -17373,6 +17478,40 @@ SHA512: 9e2cdcc09b958e53d70f19e9e68a2dc107d7c5bc9b1767c93a797000f4109678e2d16ff2
 Description: Turn your phone into a meadow. Add flowers to your apps. Let birds fly on your screen.
 Name: MobileMeadow Reborn
 Author: pkgFiles
+
+Package: com.pookjw.dynamicalerttweak
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 384
+Depends: firmware (>= 16.0)
+Filename: ./debians/Rootless/com.pookjw.dynamicalerttweak_1.0.1_iphoneos-arm64.deb
+Size: 21962
+MD5sum: c35a5f1e13a35765a68665bfad03026b
+SHA1: 78d1537cb2d66395d6a8fb392e64338695f3769f
+SHA256: cf4b8a00c70ab10cb6c44631a7d19f01be50b69cf73dc30a15831db52b080a6f
+SHA512: c75f02eb4d812d3dda62195bffde211ff7cbcf8aae4735d0fce3fe1ac2862d7cd6b13ec74022dd67c821d403e6adeffa0c61c43892df7ee9e18712f2ef6736ea
+Description: An awesome MobileSubstrate tweak!
+Name: DynamicAlertTweak
+Author: pookjw
+
+Package: com.pookjw.magicbackgroundkeyboard
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 136
+Depends: firmware (>= 18.0)
+Filename: ./debians/Rootless/com.pookjw.magicbackgroundkeyboard_1.0.1_iphoneos-arm64.deb
+Size: 3180
+MD5sum: 32f4e609e9d7cf271868d9a52655d9f2
+SHA1: eb1561024121524fbabfe53ffa008b65f4b0732f
+SHA256: e879be214b4b1e5bdf0caebf0dade4d1ef0fdb336e7c41cdd4cc126d65bf1cde
+SHA512: d7df3a135353cc2832a624998d49a41bb501cccf9703d1ade233e2b28a5ed6217fe3e4212a05c24001338cedcdd7f10418a655bee8088ccec6e45a16f986c5d0
+Description: Hello World!
+Name: MagicBackgroundKeyboard
+Author: pookjw
 
 Package: com.prophecykitten.tweaktool
 Architecture: iphoneos-arm64
