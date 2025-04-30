@@ -810,11 +810,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/Rootful/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm.deb
-Size: 64716
-MD5sum: 63b8ba309af7a449879b2d06b9db04cc
-SHA1: dcd9e2d04f85bcaa087a8d3bbd57db419547bcc3
-SHA256: ed925d8cbc25b25fffcabc8a51ae51c0acf09b39a1ee8f980e5b683ce02deb20
-SHA512: c638495f5bb8d76df505e00422b3980f5ad0a82e56f9e69f47fd19ff7b26be8c5f91c1c748c37028217001f83fc4158a58a1d718eb55aa1eebd7dc0d67683ae5
+Size: 63912
+MD5sum: 8928e782d495f5665c79b2d97cc090a8
+SHA1: a7e36095ae89882344be95d0bfffc1c6e5bde885
+SHA256: 76795bd990c73bac4281a22f1d62a22f9d8bd05d830a663706dad8f9f9952e6d
+SHA512: a19660b850075340c907b884b001a916b37dfc002bb278196786767f65225734ef2edb82b7a3b49f262494dca17af34657fd679bcb7914b43fd509563529012e
 Description: Battery in your Notch
 Name: Bazzi 2
 Author: Blake Boxberger
@@ -6897,11 +6897,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common, cy+cpu.arm64v8 | ol
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/Roothide/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm64e.deb
-Size: 66888
-MD5sum: 906faf5c42a742c253afbdf8666a3897
-SHA1: 985eace2b721f66105b1ed552e12f3ad952259f4
-SHA256: 29f663c4bd06d74fcf564c02ab28f2b081cef8385b126731ff57639675a13731
-SHA512: 6cafde216fc5468229c7a3905c4611714e3a5db06d4deab5821c47f66a0197a505bcb24a23b07778828db385b6386d05e7f2752da983ad7925a7e3d9336e38a4
+Size: 66860
+MD5sum: 8948fc5513da467964b138a9ff9ba9b6
+SHA1: e2d4cc9a7145fe3fe2a1bbc321181eb6a19d944d
+SHA256: be305a753d86c2bf5d704314a02cbaf94251f50367c7f4dd04b444849564bacf
+SHA512: 9cca0edfb886de5ee39bfffc643b46aaf33b444403b612f030dbcf53f2d68d92c8a47cb09032c2baea6d65a4f164c06dc664bcb4c6a86ccde91de4fb97fa0cbd
 Description: Battery in your Notch
 Name: Bazzi 2
 Author: Blake Boxberger
@@ -7071,27 +7071,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotific
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
-
-Package: com.cpdigitaldarkroom.barmoji
-Architecture: iphoneos-arm64e
-Version: 2023.3
-Section: Tweaks
-Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-Installed-Size: 444
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/Roothide/com.cpdigitaldarkroom.barmoji_2023.3_iphoneos-arm64e.deb
-Size: 60772
-MD5sum: 6f1aceafea4a9405dcb61b61681e2922
-SHA1: f0cb90f990c12191850f232b9a2bbee7f71b2660
-SHA256: e50b3a2c15bba16792f306a8f64274409a3eec5c0d064c2be93dc6d5703cb452
-SHA512: dde221201f7df1eea6babea7c378aec9786539626399fb1bc901e6ce3286c9c914866792e1267863c8655a5b31a1e6e37138c32a6d5c195c62b781cc3077113c
-Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
-Description: Quick Emoji Access Bar
-Tag: purpose::extension, compatible_min::ios10, compatible_max::ios17.0
-Name: Barmoji
-Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
-Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm64e
@@ -14108,11 +14087,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common, cy+cpu.arm64v8 | ol
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/Rootless/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm64.deb
-Size: 65520
-MD5sum: a1cfc80786ff7ee616aa85c9dd9f4989
-SHA1: 0ecf3d8e27ebe6d54792080537c6d6fffd087d81
-SHA256: 4622b97d125ba366e8959e06866fe7927efb4cc043c2c9ea20a0cc3483fc6f68
-SHA512: 970ca2e804fa6791e74027b6b42163752621956ce5ab5e1359a0a6fd7cbb958a72df8afccf0b6172a286c1f64e507a9bdacf7001e63d1916cd8782569f20966d
+Size: 64640
+MD5sum: 7fca4a052561d4a951899602e05b94cb
+SHA1: 14985714554764240ee30a511c68925d092d101e
+SHA256: ab729036fdca97ca3c3a4c395875fd9f0bc327a9bf9362dd7ea760a4349d059d
+SHA512: 31ae6c88be35ded0efb8c1239fc09057e0b8d8431afaaf414f51fe20bcd5d70257335ba9c93aca2d3985b5a8d4eda67797968b5a2f982526d136d7d3b96300f0
 Description: Battery in your Notch
 Name: Bazzi 2
 Author: Blake Boxberger
@@ -14197,26 +14176,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotific
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
-
-Package: com.cpdigitaldarkroom.barmoji
-Architecture: iphoneos-arm64
-Version: 2023.3
-Section: Tweaks
-Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-Installed-Size: 444
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/Rootless/com.cpdigitaldarkroom.barmoji_2023.3_iphoneos-arm64.deb
-Size: 114482
-MD5sum: 12def1363bb56933f692137d408a62e2
-SHA1: 782fb509dc94123be9a45f683ff1e24d4a443707
-SHA256: dca3a49d5d7627d5d3691b3b0bd2f672b776026bbdd9da7104dd3bcafb75bbd0
-SHA512: 971313175258c274da387114db044bdfc7de854dd7c6e059ab772a11881d2407fbc37a3a9fb1a0b76f22059388e50f7878328970504088531b4baf08819875ec
-Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
-Description: Quick Emoji Access Bar
-Tag: purpose::extension, compatible_min::ios10, compatible_max::ios17.0
-Name: Barmoji
-Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
-Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 
 Package: com.cpdigitaldarkroom.taptapflip
 Architecture: iphoneos-arm64
