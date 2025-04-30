@@ -3743,6 +3743,23 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Name: MobileMeadow Reborn
 Author: pkgFiles
 
+Package: com.pookjw.actionbuttonenabler
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 4168
+Depends: firmware (>= 17.0)
+Filename: ./debians/Rootful/com.pookjw.actionbuttonenabler_1.1_iphoneos-arm.deb
+Size: 3626100
+MD5sum: 47fc52e14b73cc94d00964c5fc778503
+SHA1: bda492654bdf41b34229370dc5bb8d89ebeb469a
+SHA256: 911b044155ec2af17f177c664512ea2dc78bc625f0144d77c10bd3cfa61ad161
+SHA512: b39fc0e918bc687dff1b6a11b0b44332bd5e0e87447fcf2d2c23b460f84c51d0abbe7d6e5e831f291e533b89f6df581f3427f33df3abd68373598a52a6ce45f4
+Description: Hello World!
+Name: ActionButtonEnabler
+Author: pookjw
+
 Package: com.pookjw.cauxo
 Architecture: iphoneos-arm
 Version: 1.1
@@ -9949,6 +9966,24 @@ Author: pkgFiles
 SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemshakereborn/depiction.json
 Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
 Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
+
+Package: com.pookjw.actionbuttonenabler
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 4168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 17.0)
+Filename: ./debians/Roothide/com.pookjw.actionbuttonenabler_1.1_iphoneos-arm64e.deb
+Size: 7522938
+MD5sum: 262b91c832bf37c05448f87111dc887c
+SHA1: ee4c5a3a4583cb8b7487633ddec5ef214772f78f
+SHA256: a487fbd104779706e5fcaf2bffa4f43402e5a8168a0416b18506ce9bb004830e
+SHA512: 86b09e11609ac4dfe9d3b62fe9a034c64e397f07e00c0ec424a15d190cc85c59e2bcda5686d383d52f7458b6a9396882f7c09ad134e631eef7db38dd52c18100
+Description: Hello World!
+Name: ActionButtonEnabler
+Author: pookjw
 
 Package: com.pookjw.cauxo
 Architecture: iphoneos-arm64e
@@ -17548,6 +17583,23 @@ SHA512: 9e2cdcc09b958e53d70f19e9e68a2dc107d7c5bc9b1767c93a797000f4109678e2d16ff2
 Description: Turn your phone into a meadow. Add flowers to your apps. Let birds fly on your screen.
 Name: MobileMeadow Reborn
 Author: pkgFiles
+
+Package: com.pookjw.actionbuttonenabler
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: pookjw
+Installed-Size: 4168
+Depends: firmware (>= 17.0)
+Filename: ./debians/Rootless/com.pookjw.actionbuttonenabler_1.1_iphoneos-arm64.deb
+Size: 3648644
+MD5sum: cae6f784ece2bda327abd75f7661dbef
+SHA1: 63bb458c624e4d9c4b8f11b48eb0116e2cd40396
+SHA256: e26e7fb6caa4581a47529060a599595632b90bc67ba330b0001d1c6f2eeb3026
+SHA512: 74bb3ca7d78a66046e73300575d0db286e858b8b648e4a3c643c122bdfc689b46a95f8f70d120fe56fc63dce4fdfc7a947c416c48220fe4b92a2ba6b6232e435
+Description: Hello World!
+Name: ActionButtonEnabler
+Author: pookjw
 
 Package: com.pookjw.cauxo
 Architecture: iphoneos-arm64
