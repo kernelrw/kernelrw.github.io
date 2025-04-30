@@ -12349,24 +12349,6 @@ Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
-Package: me.foxster.donteatmycontent
-Architecture: iphoneos-arm64e
-Version: 1.1.10
-Section: Tweaks
-Maintainer: Foxster
-Installed-Size: 144
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debians/Roothide/me.foxster.donteatmycontent_1.1.10_iphoneos-arm64e.deb
-Size: 23514
-MD5sum: 4eb4faff3b55d8ca5de574eaa4693bd6
-SHA1: 5d216ac28f6ffe1afc3dcc12fe24cb8bb73e8fa1
-SHA256: e3b78f29013f8d99aeb78134a6d1adafde1baa9203021081ed2a3f746cf8b685
-SHA512: a672811bc9c1d5feb61eb03104ca630e147770afa7469648d9ab1a0f1b949e3ddf9bd3acd751883d804a4fe1d071aa9a957756b52b6927302149e2041dbfedd9
-Description: Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube
-Name: DontEatMyContent
-Author: Foxster
-
 Package: me.foxster.ytsideloadsigninfix
 Architecture: iphoneos-arm64e
 Version: 1.0.0
