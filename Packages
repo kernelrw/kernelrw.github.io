@@ -2115,6 +2115,23 @@ Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 
+Package: com.halliehax.waggletunes
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Maintainer: HallieHax
+Installed-Size: 540
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.16)
+Filename: ./debians/Rootful/com.halliehax.waggletunes_1.3.1_iphoneos-arm.deb
+Size: 59838
+MD5sum: d15f09c8eaba0328743596a0e80ed378
+SHA1: 1da2a049b8fbd2ea10c83ea3430566908bdec5df
+SHA256: e55a550ce45beff6e6ff3f961227c13ca4ce98497fbb10a610d274e2fc12d370
+SHA512: e94b29f2a8330fba50c4411d3076de01af265f70e07d7f4c022d38483662358ad5e5b0e44e9a6f63d3e66d0d1b89d67d6ce5f882d387c4538350792c08dcff6b
+Description: A customizable music controller for every setup!
+Name: WaggleTunes
+Author: HallieHax
+
 Package: com.hans32.extrude
 Architecture: iphoneos-arm
 Version: 1.0
@@ -5304,6 +5321,23 @@ Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
+Package: me.foxster.ytsideloadsigninfix
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/me.foxster.ytsideloadsigninfix_1.0.0_iphoneos-arm.deb
+Size: 7404
+MD5sum: 177017abe105a7b3b1ef40348e7c150b
+SHA1: b71893139ccdfe0a07b1f7f349985c039a7cd41f
+SHA256: 10e5a3fe91b39879c18ce0495ae63e12966bb3760eaebb91a388366832d22097
+SHA512: 7798eb486affbf8d4475aded5277a9a57b11112bb978fb6389d8faa5eb9cce3578872eaa1e25e1d3cc09e1350cce962ccc8734cea10bc55d4823ac0d798cd8e9
+Description: An awesome MobileSubstrate tweak!
+Name: YTSideloadSignInFix
+Author: Foxster
+
 Package: me.jjolano.alertdismiss
 Architecture: iphoneos-arm
 Version: 1.0.4
@@ -7638,6 +7672,24 @@ SHA512: 7517870fe857152dd8b4836146fa8ee60783154174b9bac396e2308dc71f00fdda3debe3
 Description: A SwiftUI Prefs Framework
 Name: Comet
 Author: Ginsu
+
+Package: com.halliehax.waggletunes
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: HallieHax
+Installed-Size: 540
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.16), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.halliehax.waggletunes_1.3.1_iphoneos-arm64e.deb
+Size: 83098
+MD5sum: 5e7ff4fcbb1d720b2a7bcc7404cc2485
+SHA1: 88f7879d7dd71d6117681d58ad8b69326998f881
+SHA256: 9ade6184eb6523208dc11899753f4c3f73f1a61839ebef17581d91a7517d600f
+SHA512: 01bbca6f6148dfc30fd22cad4cb42af9b9a2f3a6ff9fa7b56a3bc54eb3ef6f619200e33556660bbb1efbddc6390f2a2bef8cc55b71f25e638771ed1f76f16c36
+Description: A customizable music controller for every setup!
+Name: WaggleTunes
+Author: HallieHax
 
 Package: com.haoict.facebooknoads
 Architecture: iphoneos-arm64e
@@ -12133,6 +12185,24 @@ Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
 
+Package: me.foxster.ytsideloadsigninfix
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/me.foxster.ytsideloadsigninfix_1.0.0_iphoneos-arm64e.deb
+Size: 7344
+MD5sum: 2990efa1618e63dc8947d82bff278adc
+SHA1: 154f74332f7500bf4f4d74dcdd537e8ea818dd17
+SHA256: 4fad7ce33f19e04a1b7411b1d6f05652ba11ea6acdbf0429b4d4b2ad4db345a8
+SHA512: a25fa5b72ed26c8814a0ef22fa96b177392bd4ca01f2a873f70c773a449282c93ef919d77547fa24d9e77818caed923854133cd0e1934288c2cd959aa6eef4b8
+Description: An awesome MobileSubstrate tweak!
+Name: YTSideloadSignInFix
+Author: Foxster
+
 Package: me.jjolano.alertdismiss
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -15547,6 +15617,23 @@ Name: YTMusicUltimate
 Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+
+Package: com.halliehax.waggletunes
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: HallieHax
+Installed-Size: 540
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.16), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.halliehax.waggletunes_1.3.1_iphoneos-arm64.deb
+Size: 60148
+MD5sum: 7bf5b4a6b492361d77fe11ad8635cb4e
+SHA1: 4cf3ef5a48758f5fb918ddd5316c68e830bd98bc
+SHA256: 67eb0225c410a3ed2dd15b93aba27c342a9036fb7364366c1800f563174a292f
+SHA512: 1caa5cb4fa1a811f67ba9963cc38621d4e1ec6d424457f9cb76df380d41c4ff378d81ffdf9c924668b71610da70d39e3352f7ec245f2c7bf4682eb89ab1cfccc
+Description: A customizable music controller for every setup!
+Name: WaggleTunes
+Author: HallieHax
 
 Package: com.hans32.extrude
 Architecture: iphoneos-arm64
@@ -19758,6 +19845,23 @@ Description: Seamlessly block screenshot and screen recording detection in iOS a
 Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
+
+Package: me.foxster.ytsideloadsigninfix
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/me.foxster.ytsideloadsigninfix_1.0.0_iphoneos-arm64.deb
+Size: 5716
+MD5sum: 573721ecdec550cba075970aae69e565
+SHA1: fc0c0ad974130225b8ded455f8b49c3672799552
+SHA256: b648cca158ba1a4b94b09d57713eebe80a40a616c3c8bb9c10e9e8532f89ff3c
+SHA512: 988f6441834109d1b986995e6527fbc102a166ff71d4c3413a9bf4ff1b1f7d5b7f6c1b6703a9ba8350ce65e7466be7e7af34b4cc80cf325da4b6de85a2e91a5f
+Description: An awesome MobileSubstrate tweak!
+Name: YTSideloadSignInFix
+Author: Foxster
 
 Package: me.jjolano.alertdismiss
 Architecture: iphoneos-arm64
