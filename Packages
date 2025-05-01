@@ -5447,6 +5447,24 @@ Description: App icon color adaptive keyboard
 Name: Letter
 Author: alexandra
 
+Package: love.litten.lisa
+Architecture: iphoneos-arm
+Version: 1.8
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/Rootful/love.litten.lisa_1.8_iphoneos-arm.deb
+Size: 805828
+MD5sum: 3967aa9ac549bc6f60962302bd16418f
+SHA1: bb5ab46058490c4f3c0be66b31933c6aeb1398bb
+SHA256: cd3989f2b159b4f5c88af986a7248179677eb0573216435e0a69a80bf3be54e5
+SHA512: 5272ec81d92639511b2ef423058d1f14360b700b300858952d569ef00e6715159ce030663d3bd89f4a5a19a047b4b32bd85334299af24fa63d345c7428c83df0
+Description: Full incoming OLED notifications
+Name: Lisa 💅🏻
+Author: Litten & Esquilli
+Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+
 Package: love.litten.nita
 Architecture: iphoneos-arm
 Version: 1.7
@@ -12595,6 +12613,25 @@ SHA512: 3693df07d5c240d9344a7aa6d2b1c96c851522e413126e2da5d5d35d975f759845f97080
 Description: App icon color adaptive keyboard
 Name: Letter
 Author: alexandra
+
+Package: love.litten.lisa
+Architecture: iphoneos-arm64e
+Version: 1.8
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 1304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/Roothide/love.litten.lisa_1.8_iphoneos-arm64e.deb
+Size: 834004
+MD5sum: 7ee4e830163ed8b95ff1aace611b65fa
+SHA1: d0e1ec6477fa2d477f5d4ca8928ef4ca789cf4c0
+SHA256: 2365e6600093d50fc6922da1b387ecbd7d6ac0f307bc4c3c4c79ecd3eba8ca4c
+SHA512: d23fa7460455b5fcbf47cb7f4e9bf72deef12b6ef94dacfe42a57055d3109112c474f6bd18f0f6d7a1373cf8d7b43df46dec5837030b92e0556c945fc967bcd0
+Description: Full incoming OLED notifications
+Name: Lisa 💅🏻
+Author: Litten & Esquilli
+Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
 
 Package: love.litten.nita
 Architecture: iphoneos-arm64e
