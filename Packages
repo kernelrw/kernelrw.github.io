@@ -5455,11 +5455,11 @@ Maintainer: Litten
 Installed-Size: 1304
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debians/Rootful/love.litten.lisa_1.8_iphoneos-arm.deb
-Size: 805828
-MD5sum: 3967aa9ac549bc6f60962302bd16418f
-SHA1: bb5ab46058490c4f3c0be66b31933c6aeb1398bb
-SHA256: cd3989f2b159b4f5c88af986a7248179677eb0573216435e0a69a80bf3be54e5
-SHA512: 5272ec81d92639511b2ef423058d1f14360b700b300858952d569ef00e6715159ce030663d3bd89f4a5a19a047b4b32bd85334299af24fa63d345c7428c83df0
+Size: 805892
+MD5sum: b0014f77c1a2b7081c3df4a00d6b4569
+SHA1: 1bc59a3b5da708a99f91688e178e54a89760146a
+SHA256: bddcd64dae31c0280dd334b877b784c6eef362b29fc0ee53e201486ebdee82fd
+SHA512: 013c81d6d8b49fbdba2572c1f7dedfe699ee5c209ae959d07ca648c4ff963c223b27e04449e13b5db221172e2b70e479f96645cd5760ed3f611074c17a2035fb
 Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
@@ -12623,11 +12623,11 @@ Installed-Size: 1304
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debians/Roothide/love.litten.lisa_1.8_iphoneos-arm64e.deb
-Size: 834004
-MD5sum: 7ee4e830163ed8b95ff1aace611b65fa
-SHA1: d0e1ec6477fa2d477f5d4ca8928ef4ca789cf4c0
-SHA256: 2365e6600093d50fc6922da1b387ecbd7d6ac0f307bc4c3c4c79ecd3eba8ca4c
-SHA512: d23fa7460455b5fcbf47cb7f4e9bf72deef12b6ef94dacfe42a57055d3109112c474f6bd18f0f6d7a1373cf8d7b43df46dec5837030b92e0556c945fc967bcd0
+Size: 810120
+MD5sum: 375d039aafded4bb5814f3755dd2b084
+SHA1: 5cb384c8c63efa4abc9329d622ea5a257d65cceb
+SHA256: b76b5dd8b08c956cb9e74ccf5efe2f1d1bb3610cbf24aa7833a2a9c177deb340
+SHA512: 22ea5a5acdb0038b2786bca7829dd21bcc489d99b4f3598aad8477411afb3e89c6bc5b5ff0b7535d46b8524d3eb132fc350479f861f82b55b93a96206a9579c5
 Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
@@ -20478,11 +20478,11 @@ Maintainer: Litten
 Installed-Size: 1304
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debians/Rootless/love.litten.lisa_1.8_iphoneos-arm64.deb
-Size: 806904
-MD5sum: ef8b4effcd1324f30b4c1dd20fbae30b
-SHA1: 316efeb439dda2663736b755bbd8e81fd24856cd
-SHA256: c1c63cbaffae74a4cadf745d60c0f30cd973539c73c6b0c53d89fd5f10b96f21
-SHA512: 05c528aecc5277bd3cc1a491b8f65d1154e5af77d5c52932d8e3103305d7e74698c0e4a2eb922520036dd345a01b89317e7bc75840ad39da7be0b53dce111a35
+Size: 806832
+MD5sum: 3d47c49ed2be681aa187613f22de2d2f
+SHA1: 618f3a96bbeb2f96fa91e96dceeb5b601e23366b
+SHA256: 2d72e832cd7dae85f0363d87e39a44d7cc72f36fe1a87a893035172ee6c1ad9a
+SHA512: 07cb7eb37d3eae8128b2a71a59484c43131238704f26d2857cd00f4fa63d0c2eb1ded678d48565be445b0a483ccedf2b9be681b1ad2c217b379fe6ed5296e069
 Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
