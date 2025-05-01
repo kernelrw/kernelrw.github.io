@@ -916,6 +916,23 @@ Name: Telegram TGExtra
 Author: choco
 Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 
+Package: com.christopher.olympus
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 860
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0), com.opa334.altlist (>=1.0.9)
+Filename: ./debians/Rootful/com.christopher.olympus_1.0.0_iphoneos-arm.deb
+Size: 521130
+MD5sum: 6b0298be464a36d7b5b48c05f1d3494c
+SHA1: 3f74726b85fc1ea07b961e157af2034dc762c54f
+SHA256: 741f103f3a48f15937678c5c751b4fad6c2c5df51efd1703b3a81961208a930c
+SHA512: 96fd6cddf0f012ef0d3bcf827402351b835681cc04c97b780296728ed907f9d1eaf1ad037759e2c3fbd8ecbe5819e285f5ee875f188a13cbad22ec4eceb22e9d
+Description: Quick lockscreen app launcher
+Name: Olympus
+Author: Christopher Anderson
+
 Package: com.comex.attachanddetach
 Architecture: iphoneos-arm
 Version: 0.0.3
@@ -5251,6 +5268,23 @@ Description: The better and highly customizable volume hud. For iOS 13.
 Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
 
+Package: io.github.andrew6rant.verticalbatterydrain
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 212
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/Rootful/io.github.andrew6rant.verticalbatterydrain_1.0.0_iphoneos-arm.deb
+Size: 16344
+MD5sum: b66597421c74f4eb13c67c76023b8d01
+SHA1: cd7ccf500978d2758d6c8f91e0515d35582f1176
+SHA256: 47da7e2639f95a2ea80f40517a3ccdeaa7caa688ae0020c0d1423f055fe50e6e
+SHA512: 9acfc45ca49ac25837f3c982c3b7b8d9314f2848b7e52430e4945e775df615c42e182947364b0ece1efbb84813273b250f8b2d7d94dcd76499fcda65acbed36c
+Description: Changes the status bar battery to drain vertically instead of horizontally
+Name: VerticalBatteryDrain
+Author: Andrew6rant (Andrew Grant)
+
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm
 Version: 1.0
@@ -5343,17 +5377,68 @@ Architecture: iphoneos-arm
 Version: 1.2.3
 Section: Tweaks
 Maintainer: Litten
-Installed-Size: 4628
+Installed-Size: 5084
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures, com.joshuaseltzer.nextalarmsx
 Filename: ./debians/Rootful/love.litten.diary_1.2.3_iphoneos-arm.deb
-Size: 1901360
-MD5sum: 49491fd68bf2e611453e705e6cdbc57f
-SHA1: 4eb17b02512fd8c04ef08fd3459caf5fce186602
-SHA256: f49f1b00372428f3cb5afb3583c45f5ff3bbced856550a3ba19ba4c486802118
-SHA512: f8c42b977d83deed99e9a66dca508c566fa4050626313d7f95ea5824c969f4fafe1909ca111d9ecd6d767b79acd0b8977db8aa997b1480a59f476c29204ddfc9
+Size: 1951508
+MD5sum: a1fcee4afdedfd57746680bc8bd8f539
+SHA1: e82ba381c829256033371acaa79ed19c2bbcb323
+SHA256: b4d31eb4f1b6ea0cb202318a970080698d03a42f7769055afba30838fb0bdc08
+SHA512: 58ea2b26e776b58133f381eec5811655797d7661cee35dd0516bbb817c0d10e7191c599207d791b0b8a8557403b0e3168bf9cdbe98e28cb28d6c40930de0558c
 Description: Dear diary..
 Name: Diary 📖
+Author: Litten
+
+Package: love.litten.heartlines
+Architecture: iphoneos-arm
+Version: 1.5.4
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 1108
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debians/Rootful/love.litten.heartlines_1.5.4_iphoneos-arm.deb
+Size: 491402
+MD5sum: 4fc77e6430453ab8e5272c8306c5c843
+SHA1: c1f9f87f52f5ce65d49c09b8de85aa592bc5c107
+SHA256: a18727290973ad8a3d93c6b125c41e9231233cc152c766c89bfb455e2950ff40
+SHA512: 6bdc500e398b39896f731ae12e40615c581ec5b278ca21ff69a7a2cc1baa4e24bce14ca46f13cae2f2d03ac85345615662be95d38cbdbc7865d0c8a8a1aad2df
+Description: I know there's trembling in your heartlines
+Name: Heartlines 🌺
+Author: Litten
+
+Package: love.litten.letter
+Architecture: iphoneos-arm
+Version: 1.0
+Section: unreleased
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/Rootful/love.litten.letter_1.0_iphoneos-arm.deb
+Size: 8618
+MD5sum: dab0ccf706c5f5dedc5f9c0a3dd15567
+SHA1: 4df1217734694b91db764bad0b371edda9e83d65
+SHA256: 88fed4b186283c520177bda3b0e1b933a5d4d596e3ebc6bf96bbbc9e32be1736
+SHA512: ca00f989e756cfbd911a800111503d517ae3fe861aabbb36f3fe878c706b674391a3b7bd806469e614ac1addeb4f91a5f9f452db106ddf5c8ecdd39c7e5b5a16
+Description: App icon color adaptive keyboard
+Name: Letter
+Author: alexandra
+
+Package: love.litten.nita
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/Rootful/love.litten.nita_1.7_iphoneos-arm.deb
+Size: 206016
+MD5sum: 54b1ea6631d7bff1f46e167149019363
+SHA1: 6b19301c22f2ab8ea50cc4a7009b6849f3c30b8b
+SHA256: a9f168098d0d13d72939a4f544d8bf99e5328cb60b6c8183f741636a0705241a
+SHA512: 6db9ada88a3117d0c562013b81c6c151d3a3e42c6cc126a5977c9469f84077af683490ad9ab2079060c11bfb8cbaab0d0abfc928239a022f206d568d5174f8e8
+Description: Ensoleillé
+Name: Nita ☀️
 Author: Litten
 
 Package: love.litten.rose
@@ -5562,6 +5647,57 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: moe.waru.frame
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 348
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/moe.waru.frame_1.0_iphoneos-arm.deb
+Size: 9200
+MD5sum: 65e38841949973e88550406bfee4547d
+SHA1: 7e8aa58a98288ab24f11d03a17a092f0192d1a72
+SHA256: 160599f3978a50aae6973e2bc27f6ed996330c2b1ef967db3fff074f61b63399
+SHA512: 33d3de132d1e919a32b352d883dc68468852d658b0fdfe93a06d0c9df6fba982f6df640522c5c362c1fa342c245b204da38d263998d694c147ca74495f25eef9
+Description: Configure the frame of your status bar
+Name: Frame
+Author: waruhachi
+
+Package: moe.waru.norecents
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/moe.waru.norecents_1.0.0_iphoneos-arm.deb
+Size: 2990
+MD5sum: cdf57da237209421cf831b4bd5a452fd
+SHA1: ca1c18b5c36fdc7585a5e29b86f57752ff837746
+SHA256: 7b807e6737129bde5843e32f92b2e7591a42f17bd8c7b57b56614163ebe12c7a
+SHA512: fc39a5cbc8b7b8d710a7dee23b211df1293e6b901c94185888a8b8165502c2876a696892a571c6338d62aa3a068fcb1897550a721124429cd0fe54d23ff219e2
+Description: Removes the recents tab from the Phone app.
+Name: NoRecents
+Author: waruhachi
+
+Package: moe.waru.silence
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.silence_1.0_iphoneos-arm.deb
+Size: 3692
+MD5sum: 374170e34f567b4ec2b0da722d400dcf
+SHA1: 315e2d6d10d4a2214df5e8f6ed7ddc8d3b1e0c9c
+SHA256: d7ed416f5edeb1d2dfdbad33404689cb41f3c95ebaab7d8de4f3271f22f01ca2
+SHA512: 954ca6ee8d861cc1e0c6d240f4c526c6b2a4646fd19221d862ce0e693f9eb6284360808dac1e21bde511ac242f7c8abb90f50b1e429b92031e3958c9188356a9
+Description: Lower the volume to zero during phone calls
+Name: Silence
+Author: waruhachi
 
 Package: net.myxxdev.mybloxx14
 Architecture: iphoneos-arm
@@ -7082,6 +7218,23 @@ Description: Telegram Enhancement Tweak
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.christopher.olympus
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 860
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0), com.opa334.altlist (>=1.0.9)
+Filename: ./debians/Roothide/com.christopher.olympus_1.0.0_iphoneos-arm64e.deb
+Size: 520088
+MD5sum: 2b2ea5807281e72ca61a225f5584fe2e
+SHA1: e07f14ba08ab5de81b52c7cde4c3d63d4a69b230
+SHA256: 958f928438951c9f3810742a7f7d02940d03a7a7794ef182ca192c8b7f8ea3a0
+SHA512: 07ce4c0bb60b025964abd7b0abdf3480818b8ab99f5a7fed4c55a8c4e53012d0e80e225f27ce809a873caa64eba1fad129f9c3b9aca924a81ee96c527799a569
+Description: Quick lockscreen app launcher
+Name: Olympus
+Author: Christopher Anderson
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
@@ -12173,6 +12326,23 @@ Description: The better and highly customizable volume hud. For iOS 13.
 Name: Sonus13
 Author: ubik <cydia@ubikstyl.es>
 
+Package: io.github.andrew6rant.verticalbatterydrain
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 212
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/Roothide/io.github.andrew6rant.verticalbatterydrain_1.0.0_iphoneos-arm64e.deb
+Size: 16362
+MD5sum: 735d36856d141f6b1f61dc4100423460
+SHA1: 0bbea4d9290774dd498de9a94d5097cf4fb1c460
+SHA256: 23b47c03f0febbf30d331c73af108645dcdc4ce9cd241713be1abc6319abcc54
+SHA512: 86b8a73dc59d51c5950b5f2f01f846826151a4a64e7edf2b60242f26eadf6249fc8e9dd33343fbcf3e0f15c15933929510cfb2df94b28b2ec27c7baa5c3419d2
+Description: Changes the status bar battery to drain vertically instead of horizontally
+Name: VerticalBatteryDrain
+Author: Andrew6rant (Andrew Grant)
+
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -12333,17 +12503,68 @@ Architecture: iphoneos-arm64e
 Version: 1.2.3
 Section: Tweaks
 Maintainer: Litten
-Installed-Size: 4628
+Installed-Size: 5084
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures, com.joshuaseltzer.nextalarmsx
 Filename: ./debians/Roothide/love.litten.diary_1.2.3_iphoneos-arm64e.deb
-Size: 1899420
-MD5sum: f61b77b36f9d9039e054c27dd4d386be
-SHA1: eec920295c4172664bac8b59f0e75689116c985c
-SHA256: b7bb367881aa07f89fcf7870acb1c51e8d61dab451a6884a6142651c3d9eaada
-SHA512: ad3b4c7a922ea4b7fbf408cf7f272fd2c35f91b5a00fb9b28183321a80f54444df12adff9ccca91cfebfa48c51d16c42f1bceade4c258b401674144452ae25cd
+Size: 1947998
+MD5sum: 2309f3b04c17969cce55f0a3d7b48359
+SHA1: 4281f2880ad9b11f8cd6a54742345ef3909d4b72
+SHA256: ffcbe824b14da762f243290eb7332b2ade39fa46ed0e9d8d56065ed16dd24897
+SHA512: e9290eb96605fb6a10b5225ef0754a12044e1b836ae65199a3aecbf003995576841675d91471b9fa72c0be0e80c414cbd37ba60b8cf06ef9f9113c2c609f84d1
 Description: Dear diary..
 Name: Diary 📖
+Author: Litten
+
+Package: love.litten.heartlines
+Architecture: iphoneos-arm64e
+Version: 1.5.4
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 1108
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debians/Roothide/love.litten.heartlines_1.5.4_iphoneos-arm64e.deb
+Size: 488994
+MD5sum: bc6f304a5a178b94a9cc446d37bb3e05
+SHA1: 9e06d0323e13342d3b131c9bd37f18e051a522c6
+SHA256: c23d5ecb0c3d49465016417da5147a02bc0972fc443fae416608bc3f190d40f7
+SHA512: ffc3169b7b7045a7a6b86eda01e0314828b14759bc07e8ecddd142cbc8d665ddb9184fbe40feb82c2b313b0729717ded515981fe01584825f8036dc70870f0e8
+Description: I know there's trembling in your heartlines
+Name: Heartlines 🌺
+Author: Litten
+
+Package: love.litten.letter
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: unreleased
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/Roothide/love.litten.letter_1.0_iphoneos-arm64e.deb
+Size: 8622
+MD5sum: 86f8d8c31c5b3548a1c27dd3c90224ca
+SHA1: 06ad64e9b13261b7f0f497dd3ff72bcd78e3056d
+SHA256: e3614033a0cb37f94264db656110bfcb9df809128f87b410ee800cb0ff72ee4d
+SHA512: 3693df07d5c240d9344a7aa6d2b1c96c851522e413126e2da5d5d35d975f759845f97080f9426af25cb6e39cbe38c83f8b05316531276f42071a4fb3cf5cd46e
+Description: App icon color adaptive keyboard
+Name: Letter
+Author: alexandra
+
+Package: love.litten.nita
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/Roothide/love.litten.nita_1.7_iphoneos-arm64e.deb
+Size: 204816
+MD5sum: 775628af01aa040310d9dd60c9c2442e
+SHA1: 9fb18c5750a193933096ffd0a9f652a3988b3505
+SHA256: b7f0f1f7e65c230ab8bec97a48ad8c17cc6f4a13cdf7a12cc98baaec68393c32
+SHA512: bb2c4f198209d5d11902561346db95214ef354a6eac695895673bfae64c9a7a23bb67736530ad7fe3fab65dfa27be770e97b47473a9866f8766f4cf8e24ead89
+Description: Ensoleillé
+Name: Nita ☀️
 Author: Litten
 
 Package: love.litten.rose
@@ -12601,6 +12822,57 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: moe.waru.frame
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 348
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/moe.waru.frame_1.0_iphoneos-arm64e.deb
+Size: 8012
+MD5sum: b7d655c7388ca92a9f099338dbfcecfd
+SHA1: e0890492c6c166d1917a45eea04ad28ea273ad2b
+SHA256: 4c1e6a6994016ad4b6a4549239867e7a91efea33badea4a88d72d80d49194a0a
+SHA512: cb8347f354d8612cd41cf4e22554f5aba9ada794ad4cb4408e4ea6042371d2a0d17474aca647f9bef0be8e5ecc0b3e5cd91af1ba7baa68b6d9285470fae909fe
+Description: Configure the frame of your status bar
+Name: Frame
+Author: waruhachi
+
+Package: moe.waru.norecents
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/moe.waru.norecents_1.0.0_iphoneos-arm64e.deb
+Size: 3002
+MD5sum: 827ef7c4a013a2b23ebd770ffd89122d
+SHA1: 606d0f78933537c19eb6076e5931d1be43df98c8
+SHA256: 9d15c3d5945a92d7f5d47cd494c85f79c14d5f2859f1c09666f0d1d2024c8524
+SHA512: a027f68f7a785975303c842fa19c220a29bd1ae7c5dde6899fa7dc0cb85af13b09468550777f07bfd3de0a4f9e1f686b8452580611f3fe75c4e1fb04abe7f8cb
+Description: Removes the recents tab from the Phone app.
+Name: NoRecents
+Author: waruhachi
+
+Package: moe.waru.silence
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.silence_1.0_iphoneos-arm64e.deb
+Size: 3716
+MD5sum: 8e926e9d5d36cead6125c502cef468ad
+SHA1: de67b55d0b9d277b7f049313c59ceb0425113b9c
+SHA256: d7c8f9502e0a91b00207af65c8d4d9ff1af641db5acf7d8d8372a59bb820fb5b
+SHA512: d4af77174d3a06a577da84f9f7a8fe21aa2dc048ae5ef7cdfb8246b96ec31da40922e3024899ab29671a7e381ea8f13e1d893db54d2dd3c230363f18557aa2d7
+Description: Lower the volume to zero during phone calls
+Name: Silence
+Author: waruhachi
 
 Package: net.kernelrw.simpleactivationactions-rootless
 Architecture: iphoneos-arm64e
@@ -14187,6 +14459,23 @@ Description: Telegram Enhancement Tweak
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.christopher.olympus
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 860
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0), com.opa334.altlist (>=1.0.9)
+Filename: ./debians/Rootless/com.christopher.olympus_1.0.0_iphoneos-arm64.deb
+Size: 521072
+MD5sum: 66c003f83d6a1c00a8399a0a79e9dad9
+SHA1: 325990161a05ccb6f25a8884cb12595d6c9ea5b5
+SHA256: 24621ffa1aeddc162d61fc6fd9b311c96cd31040a946672b01d5a99ed84c5736
+SHA512: 72813f953dd29c769359102723d8fc994c0024f62d79bb6c9cf55faf85ddc66a5cceed6c0441d6e6e97e810d164eb16b8b9b41fab6abec11ecf3839ef3bf4110
+Description: Quick lockscreen app launcher
+Name: Olympus
+Author: Christopher Anderson
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
@@ -19937,6 +20226,23 @@ Author: mostafa89 <ella89sp@yahoo.com>
 dev: mostafa89
 Icon: file:///var/jb/Library/PreferenceBundles/Tapii.bundle/icon@2x.png
 
+Package: io.github.andrew6rant.verticalbatterydrain
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 212
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/Rootless/io.github.andrew6rant.verticalbatterydrain_1.0.0_iphoneos-arm64.deb
+Size: 16432
+MD5sum: 3b745161e6b61cedcd23609cd7908595
+SHA1: 32f6cf2b5343555051dd85432b2cfc3af386938c
+SHA256: 59fd399cd99b9dfcdc8a2a62e979e8be46adb4614d8c90b1d6d0e1e3f29d1002
+SHA512: 770e0ff5d32e0ea581eb5f6b263dc0fec023fc7a6b2ad23f741a82e56a0e94da7a3d490bdc41c7325dee06ede92890c6531f45d6f2b7f638d6c5115c5100af0e
+Description: Changes the status bar battery to drain vertically instead of horizontally
+Name: VerticalBatteryDrain
+Author: Andrew6rant (Andrew Grant)
+
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -20011,18 +20317,52 @@ Architecture: iphoneos-arm64
 Version: 1.2.3
 Section: Tweaks
 Maintainer: Litten
-Installed-Size: 4628
+Installed-Size: 5084
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures, com.joshuaseltzer.nextalarmsx
 Filename: ./debians/Rootless/love.litten.diary_1.2.3_iphoneos-arm64.deb
-Size: 1901044
-MD5sum: deb13a98504527e9f8289b74d2e784b6
-SHA1: 734f99305c068e1b0095b3a3b48f08e262e76a97
-SHA256: f2b91bf8b8302c445fad1b22839dc9d1691a14a2ab6a2132437aebb9966282fb
-SHA512: 0bc55bd6f45b69048f7b13dcc915900ce43199a16581a03e6b98a09575dbfc388f2bf17e286292bcb8e90728add9625a352c0f23ef56be1b3d441f80f5bbb904
+Size: 1951056
+MD5sum: 5feef2b39b1db6211dfb37cd299fd245
+SHA1: ea5a8669514590f3c485875ab6c5a7d745a081f5
+SHA256: a164f684d9c1f046203caa28bcfd61e464fd37a693705763c8ca08b29b61dce4
+SHA512: ea8744f209c1cbc3e48cbc1a05d9d7fce31df383ca04078151a053c2a0c61cf1cee12ade7bb6892eb4077c756b2303c28b52836025886a826f97143b6fecb52a
 Description: Dear diary..
 Name: Diary 📖
 Author: Litten
+
+Package: love.litten.heartlines
+Architecture: iphoneos-arm64
+Version: 1.5.4
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 1108
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debians/Rootless/love.litten.heartlines_1.5.4_iphoneos-arm64.deb
+Size: 491564
+MD5sum: 4067ed29822b0b6c44c8232f93914a07
+SHA1: 622afc40e895447f087153095732b0bda0ca9e3e
+SHA256: ae2f0039c1c0518465db5011963dd097144060f8720b3f10d7ef499f3f7a6ca4
+SHA512: 927d557af8ebbedcd2ca133f3fbedc406b331c8805d8595815dc0b97ff33bcb3371a5918c4c0c4e22652c027ce379cb1e295233c5085a32a9be23b637232bc84
+Description: I know there's trembling in your heartlines
+Name: Heartlines 🌺
+Author: Litten
+
+Package: love.litten.letter
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: unreleased
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/Rootless/love.litten.letter_1.0_iphoneos-arm64.deb
+Size: 8698
+MD5sum: 8ff27cb1f60ac00c4eaf816d01c7ba62
+SHA1: 6357c6171b85d0cfa62f816d66b02b5207921378
+SHA256: 2d3d4954d1234025bac643b81ed187bf2ec8eee074685edf3e00802f3f2803fc
+SHA512: eef1f4ac2afc5cc9983521310b16ebd10d561e03e7ee834126a9198d4054be3e9359bd099b12a244caaf619c90b1703367eaecff39b2f621ef694ea4d7ac94df
+Description: App icon color adaptive keyboard
+Name: Letter
+Author: alexandra
 
 Package: love.litten.lisa
 Architecture: iphoneos-arm64
@@ -20041,6 +20381,23 @@ Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
 Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+
+Package: love.litten.nita
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/Rootless/love.litten.nita_1.7_iphoneos-arm64.deb
+Size: 205898
+MD5sum: 5659f32f8999e3010de157b8b7c7b605
+SHA1: dcb551b996e0726cd30f70055566a40b35ac2d46
+SHA256: be10cfc1506fb8bb9beacee2678b17ac5e7f4c79a4ecaf93f16f2c4155a57197
+SHA512: cf33cb39e76dba8d00f37f441d7d43c8a0f8bfbb7e952fe23dcb73854b42a14b2614ff09faaaafc2d96b3968e9eff75f6ef76d193c4f50dd603e1cf436af124a
+Description: Ensoleillé
+Name: Nita ☀️
+Author: Litten
 
 Package: love.litten.rose
 Architecture: iphoneos-arm64
@@ -20251,6 +20608,57 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: moe.waru.frame
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 348
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/moe.waru.frame_1.0_iphoneos-arm64.deb
+Size: 9058
+MD5sum: 0247ae2b07bb4ba9ccd02adfe2a42f4c
+SHA1: b7677d29daab644981a82b872b0ab52c2b2acc58
+SHA256: 1e1c35149ec89feea772043829f667ebfcd232b84f12424c48148ac09a6cf97c
+SHA512: 20d7a0c609d3921c97db7b899c6f44622e6227625a034ecfc3614ee75e2107779f2fcb7e68ef4ff4c99d3791d298ed8b1edc704696fae4e7d337940a0eed89b5
+Description: Configure the frame of your status bar
+Name: Frame
+Author: waruhachi
+
+Package: moe.waru.norecents
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/moe.waru.norecents_1.0.0_iphoneos-arm64.deb
+Size: 3066
+MD5sum: 53f81cc06e64fbc4b648058a56596c8d
+SHA1: 82e6e1bffcb0bd5109791cdcff9431d714241ccf
+SHA256: 99b40ad205f4ac5577f5dd938b16b4926c5dad9d0149b871f76afd441bb3380b
+SHA512: 5e022e00eb52e8884bfe9ccc072278f5de1abccb9acede72a7227e5aefc88c3bbd71a085ce8d925da322cce231830560a96dc121394676b956c8f6e4b54091da
+Description: Removes the recents tab from the Phone app.
+Name: NoRecents
+Author: waruhachi
+
+Package: moe.waru.silence
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.silence_1.0_iphoneos-arm64.deb
+Size: 3780
+MD5sum: 83a87b98652400a89b6686d7502cd71c
+SHA1: 44795a8e5ae2bc0be2c48189c30a69a2032c2f23
+SHA256: ff7943759fe74f7dc7bba6a5433249fb44154d530dc52eb9d1c69811b4ffa27a
+SHA512: 17d922f3f569e8cb15ecd628a5300d40d4ac5b134f63fcd2a774f1ea9665b0d3b9ce9b5790d47aa79a55dd3edf574461bba6b5018fa08c340a609ad0826fc5bb
+Description: Lower the volume to zero during phone calls
+Name: Silence
+Author: waruhachi
 
 Package: net.limneos.audiorecorderxs-rootless
 Architecture: iphoneos-arm64
