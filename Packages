@@ -603,6 +603,26 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.alexpng.cacheclearerx
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Installed-Size: 1216
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/Rootful/com.alexpng.cacheclearerx_1.1_iphoneos-arm.deb
+Size: 1003404
+MD5sum: 3957230ff0ae35dcef5d2abf5e1bad61
+SHA1: ce63a35ee5881ab6e8ddec6ee100df1c9c8643ea
+SHA256: 23d6cdbb9eee400680323372d0658039d091eace7376c09dc4245c47aa193101
+SHA512: 9fbd97ef717b3977b7d11016c784ee045d290120956a4e5a2a70cf8bf8a9049bc188670e6d28ece0218d1458d8ab55080d762efda83f6d07cb09e0a88bac4f30
+Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Name: CacheClearerX
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
+Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
+
 Package: com.amywhile.macspoof
 Architecture: iphoneos-arm
 Version: 0.2.1
@@ -4830,6 +4850,23 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.xybp888.noapplemobilerepair
+Architecture: iphoneos-arm
+Version: 0.0.1-104
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.xybp888.noapplemobilerepair_0.0.1-104_iphoneos-arm.deb
+Size: 10680
+MD5sum: 785a1c251e1bf4044a356d25b57796eb
+SHA1: 083ea664250c8d0a794a9e9774baa30704d8f3b0
+SHA256: e10245a38e9545299bb6202e883b94074eee16c12c9b5e08b5691ea304709919
+SHA512: e50ea0280a2daed29eb1800aac76f97866f7e2dc651a0b0c0a856bd255646c746717be462a726d5baad225b1bedbf3549e69f479b0009e1677edd027f6e27bba
+Description: No Apple MobileRepair
+Name: No Apple MobileRepair
+Author: xybp888
 
 Package: com.yourepo.itweakios.ccpatch10
 Architecture: iphoneos-arm
@@ -12107,6 +12144,25 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
 
+Package: com.xybp888.noapplemobilerepair
+Architecture: iphoneos-arm64e
+Version: 0.0.1-104
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.xybp888.noapplemobilerepair_0.0.1-104_iphoneos-arm64e.deb
+Size: 11024
+MD5sum: ebd665199cdf76ddebe0092fe2e6b300
+SHA1: c32678f2f03a3b91a74dab9f5813cb99c01b6e25
+SHA256: e626d32305800f570b2c693d354fc6e8db605f2509c91050ef7ad566b138199c
+SHA512: 16681d0e2c2097377c42eba8cc0f6226b3fdc2d849452d2f58735ac03defceb902471fe138403eb45e8f59b5e0c2c49c60298e3d29a185df99e5a9a7a336289b
+Description: No Apple MobileRepair
+Name: No Apple MobileRepair(RootHide)
+Author: xybp888
+Depiction: https://apt.htv123.com/view/185
+SileoDepiction: https://apt.htv123.com/sileo/185
+
 Package: com.yourepo.0xash.fixrepairsystempower
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -14275,6 +14331,26 @@ SHA512: 4eff0e1e87e2294d2b70ea493ca3a92fb3256e32347f3fcc9e9060c3293c2c8479234f20
 Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
+
+Package: com.alexpng.cacheclearerx
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Installed-Size: 1216
+Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.alexpng.cacheclearerx_1.1_iphoneos-arm64.deb
+Size: 990564
+MD5sum: a1cc28c183476beb39c70a3f18097018
+SHA1: 1ee71a54c4136c425e02f335c44372255f1e2c10
+SHA256: aef2a9b1ada392985ecbea7d4de02545786eb7e5f12faf6cde81c459bcae5a5b
+SHA512: 9dccc068402c82a277ba512c13494659c7ce26ddb0efd52f62dff8134c2f5c9bc4504e21610c5d4199c452f21130a6aadad7caf5b974bda250e086198de3765a
+Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Name: CacheClearerX
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
+Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
 
 Package: com.alexpng.tapme
 Architecture: iphoneos-arm64
@@ -18939,6 +19015,29 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootless/com.rpetrich.powercuff_1.1_iphoneos-arm64.deb
+Size: 14112
+MD5sum: 23395601d97d58b7b35a5f0a79972f84
+SHA1: c80748446b1c76eb0eb41d093c4c613a51fc7d47
+SHA256: 87082d5063de55dd4ae3788eed7161f1407c181fd46d6c41ae493fc0ae9771bd
+SHA512: ffb43c3fa8faefe5410faa77cca782814d507f8db65a274c837339863141baba37da7e1f5f1128344d1d7acc88849ff033803750aa898d278c1c033ba5b6f6cc
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
+
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64
 Version: 1.0.10~beta4
@@ -19720,6 +19819,23 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.xybp888.noapplemobilerepair
+Architecture: iphoneos-arm64
+Version: 0.0.1-104
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.xybp888.noapplemobilerepair_0.0.1-104_iphoneos-arm64.deb
+Size: 10892
+MD5sum: ad78a1b4669692ccba18e8fd53b666eb
+SHA1: 880d1fb07a9d2a3b61454801a9de8e153e4bdba1
+SHA256: fd47decccea1b57faa7e9279e34b53e75422e5ee4cf8973271cee595483b5cf6
+SHA512: 59d6019969b25dbc3f681f93809597a0700f2535718a67536a54e39abd7b59d599adb8b44c4572e075c4ef5a5ea1285a261dd2c48a0f4ef4e2cac460f04b085b
+Description: No Apple MobileRepair
+Name: No Apple MobileRepair
+Author: xybp888
 
 Package: com.yourepo.cydiageek.batteryswipeup
 Architecture: iphoneos-arm64
