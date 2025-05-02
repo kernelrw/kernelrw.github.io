@@ -1559,6 +1559,23 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
 
+Package: com.dgh0st.defaultpage
+Architecture: iphoneos-arm
+Version: 0.0.23
+Section: Tweaks
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 444
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debians/Rootful/com.dgh0st.defaultpage_0.0.23_iphoneos-arm.deb
+Size: 22232
+MD5sum: 8355bfe65d4703f0850eaf228c095f2b
+SHA1: 9a96e73410db7277a4c61ef9d71094019e71dc90
+SHA256: 0a7c91ca59dd7d8e3428ae592fb998f430742489dec9a2c809848a9d058b50a3
+SHA512: 0a53a53e3550e202e375b60dc2c317e0709f0c31c853b7a88ef7d1a5fe0541f1e947870a1a82e8e4447d773a87c1576fca9a7a60fe61b17f3a09b77228a82fb1
+Description: Set the default homescreen page.
+Name: DefaultPage
+Author: DGh0st <deeppwnage@yahoo.com>
+
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -2743,6 +2760,28 @@ Tag: role::developer, compatible_min::ios11.0
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+
+Package: com.johnzaro.perfectsettings13
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debians/Rootful/com.johnzaro.perfectsettings13_1.7_iphoneos-arm.deb
+Size: 267556
+MD5sum: a690fff27dd9d516d99ab9f585597ccd
+SHA1: 8cea5f529a62c8b21365f2a4eb07f7360b907977
+SHA256: 700e15b0ad2992b72fd49ff5a67b8ac128d27bc53316657219cdba4faf684dc1
+SHA512: d75c18276509481c1e771ae05f1995ec2f6b53942c781d3b68465732d25a8c55a6b8e5620f7a5160b121d6ff40839136238a4823ef3cebfa7d62d762366615e3
+Description: Organize Main Settings Page To Categories, Show Extra Information On Main Page About IP Address, Used Cellular Data, Disk Space, Battery Health, Custom Title, Hide Cell Arrow Icon, Hide Cell Separators, Hide Update Badge, Circle Settings Icons, Hide Icons, Disable Edge To Edge Cells, Round Search Bar, Hide Search Bar
+Name: PerfectSettings
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectsettings13.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
@@ -4177,6 +4216,23 @@ Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
+Package: com.pxcex.hapticalert
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.pxcex.hapticalert_0.0.2_iphoneos-arm.deb
+Size: 3136
+MD5sum: c9ad4a7e627a4f9d449832d96caf81ac
+SHA1: 5725a8c4a877bd96d024e4260cf9a28fd37ea3c7
+SHA256: 3b59ccbec18a7bcea010f95558d86eb963b2531203271e035157d0867ec5ff0b
+SHA512: 4bb37fcad6b08cef96eeeffbea7500e4c8e818271c71a3f2ab079527727b13ea87e58f0ef762caec5ca7c413f9578c08d71311500fd23478815b53c87ab29ad5
+Description: Haptic Feedback your iPhone at Alert View.
+Name: Haptic Alert
+Author: pxcex
+
 Package: com.r0.relocatereborn
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -5329,6 +5385,25 @@ SHA512: df993ba3681b893d01f63a85f6018bed851411078844a96e8cc67fcc1b77173ad8fa1c56
 Description: Scramble the passcode view on your lockscreen!
 Name: Rode
 Author: rootfs
+
+Package: github.io.gfp.haptic13
+Architecture: iphoneos-arm
+Version: 0.8
+Section: Tweaks
+Maintainer: Brandon Plank
+Installed-Size: 252
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
+Filename: ./debians/Rootful/github.io.gfp.haptic13_0.8_iphoneos-arm.deb
+Size: 12620
+MD5sum: cfee33f5005cbaa3e344900c620414a8
+SHA1: 6d12a5974d91bfe786063c747d61dfdd59718692
+SHA256: 96b878ccf1b844c95fcb2776ab99fe6f8855e559a44be7b038a127cadcb84fb6
+SHA512: 4fd05a8b59c58a7feadb55960e2b636d932d30f702aaf7eb1e9f2501402730af982b505b6aff7ff55c4445f02d0ee45277786ca293ef53be0e241fbd4f504fd7
+Description: Puts haptics in places apple should have!
+Name: Haptic13
+Author: Brandon Plank
+Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.haptic13/
+Icon: https://banana-gfp.github.io/repo/DebIcon.png
 
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm
@@ -15488,6 +15563,23 @@ Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
 
+Package: com.dgh0st.defaultpage
+Architecture: iphoneos-arm64
+Version: 0.0.23
+Section: Tweaks
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 444
+Depends: mobilesubstrate, applist, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.dgh0st.defaultpage_0.0.23_iphoneos-arm64.deb
+Size: 16556
+MD5sum: 36b9b695dd07ff86a088a3ded58ec077
+SHA1: 1bca5d68a3141f3bad26187f2ee515870ad6e5d9
+SHA256: 19d42920f9ae95446c83fc5c645084c86e57ad4b992521e4ad20a7412caca454
+SHA512: 6dde98111808fd174a1d0af4fc57f2170e47c62dad7894c2bf63cf61654ed544f9937ed49f330bdac3b5a4d36e023c2045d9469f8ea770377d1ac843cd7e648d
+Description: Set the default homescreen page.
+Name: DefaultPage
+Author: DGh0st <deeppwnage@yahoo.com>
+
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -16907,6 +16999,28 @@ Tag: role::developer, compatible_min::ios11.0
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+
+Package: com.johnzaro.perfectsettings13
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.johnzaro.perfectsettings13_1.7_iphoneos-arm64.deb
+Size: 268452
+MD5sum: bca8a922bcc4a8f8be503fd4e3b3c728
+SHA1: 7c12a087b6d3df754d56dcbaab68ec23b211a47b
+SHA256: 2c1e1a4d1f256f98aad99dcef5a729c8c1f911d2427d14d083963c73196ad80f
+SHA512: 305565982cce247f88214ee6ce579689ff4a82609b5e42a34f649cd59805d8cfcd535b75cbe1f4c0e083dc86e931f92d4931f40b7f0f4f5563933bfb00e87520
+Description: Organize Main Settings Page To Categories, Show Extra Information On Main Page About IP Address, Used Cellular Data, Disk Space, Battery Health, Custom Title, Hide Cell Arrow Icon, Hide Cell Separators, Hide Update Badge, Circle Settings Icons, Hide Icons, Disable Edge To Edge Cells, Round Search Bar, Hide Search Bar
+Name: PerfectSettings
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectsettings13.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
@@ -18889,6 +19003,23 @@ Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
+Package: com.pxcex.hapticalert
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 200
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.pxcex.hapticalert_0.0.2_iphoneos-arm64.deb
+Size: 8070
+MD5sum: 8e78280661a33de80b1569714ea6e16f
+SHA1: 4f16681c983895a1f1d602239b7f5aeb871d305f
+SHA256: 5950b44da785f3e198d0626ba8a0f52300d78caf94e0977c72625226f6925c84
+SHA512: fe01c314a2bbc7c357f9fda4f522431b67b4d4d3265173c6644b9c7755f784dc562ff27a2e8834741307b240bac5c9ef15736f5348ae25d9ba958ebd93fe62e6
+Description: Haptic Feedback your iPhone at Alert View.
+Name: Haptic Alert
+Author: pxcex
+
 Package: com.qiop1379.swipeextenderx
 Architecture: iphoneos-arm64
 Version: 1.6.1~2
@@ -20509,6 +20640,25 @@ SHA512: c5ecfb4755ddc42f06cd2ebcd0743bfec6a721c75a0175873d6052fb06dd42a70edcf5d9
 Description: Scramble the passcode view on your lockscreen!
 Name: Rode
 Author: rootfs
+
+Package: github.io.gfp.haptic13
+Architecture: iphoneos-arm64
+Version: 0.8
+Section: Tweaks
+Maintainer: Brandon Plank
+Installed-Size: 252
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/github.io.gfp.haptic13_0.8_iphoneos-arm64.deb
+Size: 34284
+MD5sum: ef688fe9800956eb8abdeabd0e5aa960
+SHA1: 66f1198c703b240cd9e344d9ddec05f2afe23229
+SHA256: b71fc538affbd6a38538aeedb77e971f61ac5b7b79259259d311465ca18124f2
+SHA512: 3f6f4e0d1353e1129823bb1dec2d603ce5318ca4c5970e1cbee78f55dca4b6e095b553a77e158634cfda370b6189d9abee76a1634227779b8776d8122fe6a806
+Description: Puts haptics in places apple should have!
+Name: Haptic13
+Author: Brandon Plank
+Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.haptic13/
+Icon: https://banana-gfp.github.io/repo/DebIcon.png
 
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm64
