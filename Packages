@@ -2137,6 +2137,26 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm
+Version: 1.2.70
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6456
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.17)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Rootful/com.fouadraheb.watusi3_1.2.70_iphoneos-arm.deb
+Size: 1925548
+MD5sum: 0403f05d0fc6d9b8e39c0aa0641af9c6
+SHA1: b56556aa6202727c317f8701c6e81f3d0296e03f
+SHA256: 5cd3c8a6b18af4277a200e38dd8e4a71973f021a54e5a4a2262d6a760f375a24
+SHA512: 027edd5004db87176b0e219e843153deda93f77c5950e4cca7667f70286257a8cdee3d60cf69ff32f234e354a1ada84c87295711f2f96c009f6ad5dc7beccf5d
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
 Package: com.gilshahar7.pearlretry
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -5449,21 +5469,43 @@ Author: alexandra
 
 Package: love.litten.lisa
 Architecture: iphoneos-arm
-Version: 1.8
+Version: 1.7.1
 Section: Tweaks
-Maintainer: Litten
+Maintainer: zSaaiq
 Installed-Size: 1304
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debians/Rootful/love.litten.lisa_1.8_iphoneos-arm.deb
-Size: 805892
-MD5sum: b0014f77c1a2b7081c3df4a00d6b4569
-SHA1: 1bc59a3b5da708a99f91688e178e54a89760146a
-SHA256: bddcd64dae31c0280dd334b877b784c6eef362b29fc0ee53e201486ebdee82fd
-SHA512: 013c81d6d8b49fbdba2572c1f7dedfe699ee5c209ae959d07ca648c4ff963c223b27e04449e13b5db221172e2b70e479f96645cd5760ed3f611074c17a2035fb
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Filename: ./debians/Rootful/love.litten.lisa_1.7.1_iphoneos-arm.deb
+Size: 804620
+MD5sum: d764c30ab4e1a8e3dbda014472c94d18
+SHA1: e3cb4815d3491fa2f8b3cf3fdd5f91f3b6533fb1
+SHA256: 574c8d17755dc366c8ae7193228c9273c71ec9c4394aeddeb61611b26b2eae5b
+SHA512: 67a6bad527741b6841f28ca51a23752e5c6243dcda9edd6e2fbcd2f1f550ae1a57a902ca818c9f5faf537f9888a509d7c96d8e8d7e7fbac7444b52f37126a453
+Description: Full incoming OLED notifications
+Name: Lisa 💅🏻
+Author: Litten & Esquilli & zSaaiq
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/lisa.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/lisa.json
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Lisa.png
+
+Package: love.litten.lisa
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: zSaaiq
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Filename: ./debians/Rootful/love.litten.lisa_1.7_iphoneos-arm.deb
+Size: 804372
+MD5sum: e3454555759b6f68c608c441d14063dd
+SHA1: 5d7f7ee44eb0a9628a2d07c1ce1812fdd02b31e1
+SHA256: af1991774e8a6baa98846b411c1e32ab5cbdcb2049ad5c1d5bb9bbfa2424c3cf
+SHA512: 4ce019aa5b912b7e81001fe5686db555116411c9c00fb825c96d04980c84054f3925f5fd4102d165ca9e98fd7ff3af26a943cd276f23aae52b738ec4d7087cf2
 Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
-Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/lisa.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/lisa.json
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Lisa.png
 
 Package: love.litten.nita
 Architecture: iphoneos-arm
@@ -7979,6 +8021,27 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.70
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6456
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.17)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Roothide/com.fouadraheb.watusi3_1.2.70_iphoneos-arm64e.deb
+Size: 4694226
+MD5sum: dbe15bcdaa78a7409d1547fc0c619c02
+SHA1: efeb30bf969f0065e40c7d62278cea2f22f4a96e
+SHA256: 80fd5a125615e9f5389f80d151af51ddd4bfcfa9548ed76105762e9dd595053e
+SHA512: 57a7401e6f3e5bb0f7422a2d075b26c9e8aa55ce50a0cbabb59ff56992175074a129f2aeb5f1ca32c6673666b138d366bce962900682745d7f5a68c1fbdd8b7e
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
 Package: com.gilshahar7.pearlretry
 Architecture: iphoneos-arm64e
 Version: 1.2.1
@@ -10445,6 +10508,25 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
+Package: com.parrotgeek.globalize
+Architecture: iphoneos-arm64e
+Version: 0.3.2
+Section: Tweaks
+Maintainer: parrotgeek1
+Installed-Size: 440
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: ./debians/Roothide/com.parrotgeek.globalize_0.3.2_iphoneos-arm64e.deb
+Size: 8636
+MD5sum: 617743dc52ab5a1de17cdf88ab0ababc
+SHA1: b19acbb53543cfcc92a952ee6b97d8afb7690951
+SHA256: 64f547413c5006ed95d50ac46679553de27429947c4cb97e2ac7dcf4d90befd7
+SHA512: a069f9cfb653f31b0f58a0de687f0fcc3d907915f7a55ae2f88c3d4c4f7aa049de3f1f06c11f621c55c0f7deb4648170a6c612c94fac0ca326dea1700a317961
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Name: Globalize
+Author: parrotgeek1
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
+
 Package: com.pixelomer.tweakreviews-db
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -12616,22 +12698,24 @@ Author: alexandra
 
 Package: love.litten.lisa
 Architecture: iphoneos-arm64e
-Version: 1.8
+Version: 1.7.1
 Section: Tweaks
-Maintainer: Litten
+Maintainer: zSaaiq
 Installed-Size: 1304
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debians/Roothide/love.litten.lisa_1.8_iphoneos-arm64e.deb
-Size: 810120
-MD5sum: 375d039aafded4bb5814f3755dd2b084
-SHA1: 5cb384c8c63efa4abc9329d622ea5a257d65cceb
-SHA256: b76b5dd8b08c956cb9e74ccf5efe2f1d1bb3610cbf24aa7833a2a9c177deb340
-SHA512: 22ea5a5acdb0038b2786bca7829dd21bcc489d99b4f3598aad8477411afb3e89c6bc5b5ff0b7535d46b8524d3eb132fc350479f861f82b55b93a96206a9579c5
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Filename: ./debians/Roothide/love.litten.lisa_1.7.1_iphoneos-arm64e.deb
+Size: 834248
+MD5sum: 2c238d749c327163790fe5571b6dab24
+SHA1: 38fa51c2a9f70a08d442ea65c3feebd589b69178
+SHA256: 86d914630a33c406d27f60def0fb951ec6fa0c99c6326f967a321015032cf9b7
+SHA512: bb8fb4701f77fdb65ace4cd13e69bdd1b88e4656086ee6ad1f269e6d5c60bd49dbb77f1ff02a1eadf45aa402b06f833b6373f2c6ade1b96d57b9175e03e88646
 Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
-Author: Litten & Esquilli
-Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+Author: Litten & Esquilli & zSaaiq
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/lisa.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/lisa.json
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Lisa.png
 
 Package: love.litten.nita
 Architecture: iphoneos-arm64e
@@ -16148,6 +16232,26 @@ MD5sum: 202fe21e5158ff81370fe4142fc6d2c9
 SHA1: 02677db787faf43911043cde8c44f9da87157b39
 SHA256: 6262704282554063356c45917e95a11fcf9658ff30557a9ec8340393927f9771
 SHA512: 88bef82a60fa9feb5e23cf125888ff21daa37ca47d9e7ac6aa5866309a87ebcb2b68e3172121079fff285ba6c0941e69fca5b649c9a4f8ef4ca782c1bc857b13
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.70
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6456
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.17)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Rootless/com.fouadraheb.watusi3_1.2.70_iphoneos-arm64.deb
+Size: 1942212
+MD5sum: a118147f1ffc921a995e618d8ae8828d
+SHA1: 35bb7862b7d8d9ec5e3be4b213e329332287cb16
+SHA256: 82b42d6e5abc2b1af973ddca213adbfa0f5dad3327af356b826ddac28b70a784
+SHA512: 497054cdf9c73aeab835b53d982d5c9d419f79b80add5d2030b19e8c4c722b329f2293a2a7533dcb8f701b44855e6306577edb59fb1cf94252f56ec0a75fa812
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -20472,21 +20576,43 @@ Author: alexandra
 
 Package: love.litten.lisa
 Architecture: iphoneos-arm64
-Version: 1.8
+Version: 1.7.1
 Section: Tweaks
-Maintainer: Litten
+Maintainer: zSaaiq
 Installed-Size: 1304
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debians/Rootless/love.litten.lisa_1.8_iphoneos-arm64.deb
-Size: 806832
-MD5sum: 3d47c49ed2be681aa187613f22de2d2f
-SHA1: 618f3a96bbeb2f96fa91e96dceeb5b601e23366b
-SHA256: 2d72e832cd7dae85f0363d87e39a44d7cc72f36fe1a87a893035172ee6c1ad9a
-SHA512: 07cb7eb37d3eae8128b2a71a59484c43131238704f26d2857cd00f4fa63d0c2eb1ded678d48565be445b0a483ccedf2b9be681b1ad2c217b379fe6ed5296e069
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Filename: ./debians/Rootless/love.litten.lisa_1.7.1_iphoneos-arm64.deb
+Size: 807174
+MD5sum: b7bd3abe1dce48ab446146f1e62b0e9d
+SHA1: 26b4631a1ef6a481c7f9c64c33e5f3b7e4a5d07c
+SHA256: 79a23af01aaf1a4d5a543db02a5cfcff3a5ad802850f63ad661fbd0148ab1ccc
+SHA512: 83c9a32d51a1617c92073f439d6d1ca2e8e43595e182f1942665f9e18055e76aceaed76e0fc943d1363110b17ce925a3ba768bb03d82e50990651a2ff68e3ac7
+Description: Full incoming OLED notifications
+Name: Lisa 💅🏻
+Author: Litten & Esquilli & zSaaiq
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/lisa.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/lisa.json
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Lisa.png
+
+Package: love.litten.lisa
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: zSaaiq
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Filename: ./debians/Rootless/love.litten.lisa_1.7_iphoneos-arm64.deb
+Size: 807120
+MD5sum: c9258238fb285ce2acbd67e435ad3124
+SHA1: e7815c6ecf337cfc3d3cb295451cbf0e658772df
+SHA256: 4896ced05032f45dd32f644f53bcb17d7bedaa3b590a84bd48c6415e0dc2a6a6
+SHA512: 6b531660f6f60503845e53a893c5fe6043dc9bd823edefd83704593c237828560137de7ee14b1283e32bf8bdd11678b8a598200cb2187ea99a9851350f65e2d9
 Description: Full incoming OLED notifications
 Name: Lisa 💅🏻
 Author: Litten & Esquilli
-Icon: file:///var/jb/Library/PreferenceBundles/LisaPreferences.bundle/icon@2x.png
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/lisa.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/lisa.json
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Lisa.png
 
 Package: love.litten.nita
 Architecture: iphoneos-arm64
