@@ -3318,6 +3318,24 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
+Package: com.nef0pam.autoalerts
+Architecture: iphoneos-arm
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: und3fy
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.nef0pam.autoalerts_1.0.2-1_iphoneos-arm.deb
+Size: 45776
+MD5sum: 952372ca512b46046ed4af888e987895
+SHA1: 772d488f76f00b6f3f03d797406532ebd59c9a1c
+SHA256: e9aeeaa56154c35d0f5354db6b1ef078cb1c77c4ee8b2651024b8616b2d3b6b9
+SHA512: 30316a49946494e223efb698022828daf8ae24bed9017f213724c765d6e7eee8d5c07bd791a9df2454697541eebb8864f497609ab2ffa2df97605d3f9602c927
+Description: Automate alert actions , an updated version for arm64e devices ; it should now work on Dopamine and Dopamine-Roothide too .
+Name: AutoAlerts
+Author: shiftcmdk
+Icon: https://cdn-icons-png.flaticon.com/512/8682/8682464.png
+
 Package: com.nef0pam.cacheclearerx
 Architecture: iphoneos-arm
 Version: 1.1
@@ -3460,6 +3478,23 @@ Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/ico
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
 
+Package: com.nef0pam.selenium
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Lavie Gariv
+Installed-Size: 1400
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0)
+Filename: ./debians/Rootful/com.nef0pam.selenium_1.2.1_iphoneos-arm.deb
+Size: 559690
+MD5sum: 916d9fb7a644ad229c6275d777da4a99
+SHA1: 57ccd1aed7b6200f9648c0a093cff309231f7298
+SHA256: e2e4b5aae0dfc35dedd28b141c88b96ba3562f6283f603f540e3848e292f2e26
+SHA512: 983f8232b08e4ee46bb34cefc6a9e3ae0fcb36d6ef152d9950d108380b45f7eefe2d1de67df01f77ba7174f4e916af5fed06bedae278abf992209d44de5fd8a8
+Description: Snooze notifications. Focus on what matters⏱
+Name: Selenium
+Author: Lavie Gariv
+
 Package: com.nef0pam.spotcc
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3476,6 +3511,24 @@ SHA512: 57caf780470a421791de10739e9b9a90b287c4319139be9f4f9a04adfe64b8b5b2140a43
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.nef0pam.uranium
+Architecture: iphoneos-arm
+Version: 1.2.7
+Section: Tweaks
+Maintainer: FissionDev
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Filename: ./debians/Rootful/com.nef0pam.uranium_1.2.7_iphoneos-arm.deb
+Size: 62986
+MD5sum: 5f7c8ceefa91be63efc9ec8b05ced517
+SHA1: cde5cce67b37d44fe18c2e4d30a2fa83de30f858
+SHA256: 5856d466998e32bf4d7e86e25b135a0ace3d61cd38eb8997db3a89d64a7e0358
+SHA512: 2628f34afc48fcee7f2be835ed90524d80a16140c816df63375c56cc3474c9845a79f3f914d9b6d01d2472da06bdf00b4b6c07d86d12b31e223d36b47bd1d9eb
+Description: Lots Of Options To Enhance Your iOS Experience!
+Name: Uranium
+Author: FissionDev
+Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
 
 Package: com.nef0pam.visionkeysaurora
 Architecture: iphoneos-arm
@@ -17933,6 +17986,24 @@ Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
 
+Package: com.nef0pam.autoalerts
+Architecture: iphoneos-arm64
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: und3fy
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.nef0pam.autoalerts_1.0.2-1_iphoneos-arm64.deb
+Size: 92306
+MD5sum: 82e0f8daa7df98bb0d85b4797667a6b2
+SHA1: 0d1589f8717facb4c8f148a1e00cec795cbae5b8
+SHA256: d13d6c670440801db239137e15ae71cfcc9a8e64ae50031ba2cc508e49a52d0d
+SHA512: ac435c06d5048e0af64f1cc2dcf1e88c16affc35bee04fb1b5881e31b6cbad2417137e92393c0f89a7fb0af24e86a68c70f32eb5c61ee68648ed406e3096fd31
+Description: Automate alert actions , an updated version for arm64e devices ; it should now work on Dopamine and Dopamine-Roothide too .
+Name: AutoAlerts
+Author: shiftcmdk
+Icon: https://cdn-icons-png.flaticon.com/512/8682/8682464.png
+
 Package: com.nef0pam.cacheclearerx
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -18075,6 +18146,23 @@ Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/ico
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
 
+Package: com.nef0pam.selenium
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Lavie Gariv
+Installed-Size: 1400
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.selenium_1.2.1_iphoneos-arm64.deb
+Size: 369348
+MD5sum: d0012138d4f396a30517f4c31f01e8ec
+SHA1: 291a1e9f3b24211054c61404151d52c11f970d03
+SHA256: f0a77c24470184104d677951696174fc5a676dcfe21f3bb26d6e3e102627facf
+SHA512: 7f0c7faa899ca2d25e7156909a03d33b1fd0b42c64acbc709ffab441a5d50732360c36fb306d9cdd2872582a5f232d81fe271eb321cbdb0b79743ccf0c33eef3
+Description: Snooze notifications. Focus on what matters⏱
+Name: Selenium
+Author: Lavie Gariv
+
 Package: com.nef0pam.spotcc
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -18091,6 +18179,24 @@ SHA512: 347a46ac197e33002e122dd18e5e48766a9bd466b133b456a69ee37badf9eeec61f427bf
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.nef0pam.uranium
+Architecture: iphoneos-arm64
+Version: 1.2.7
+Section: Tweaks
+Maintainer: FissionDev
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Filename: ./debians/Rootless/com.nef0pam.uranium_1.2.7_iphoneos-arm64.deb
+Size: 63220
+MD5sum: 362641ae15893bf1d55a5d64c3aa3637
+SHA1: 681181cdfb6bdd6b4bcc95e1915586c9a9906ba0
+SHA256: a85147024fcdfd6ec4203f939cd4dd6f284aa50c8287c2b5d30e00ac6595daed
+SHA512: e2449b31e44a7789c1c0be8996104c4463780a7615d171dc0b2b01b4b79eda477e573a4d4442791a7d0fdb23f167d707593c2887dfaf93d01668527155bf0c27
+Description: Lots Of Options To Enhance Your iOS Experience!
+Name: Uranium
+Author: FissionDev
+Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
 
 Package: com.nef0pam.visionkeysaurora
 Architecture: iphoneos-arm64
