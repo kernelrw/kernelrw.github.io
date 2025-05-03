@@ -603,26 +603,6 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
-Package: com.alexpng.cacheclearerx
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: alex_png <alex.png.cc@gmail.com>
-Installed-Size: 1216
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debians/Rootful/com.alexpng.cacheclearerx_1.1_iphoneos-arm.deb
-Size: 1003404
-MD5sum: 3957230ff0ae35dcef5d2abf5e1bad61
-SHA1: ce63a35ee5881ab6e8ddec6ee100df1c9c8643ea
-SHA256: 23d6cdbb9eee400680323372d0658039d091eace7376c09dc4245c47aa193101
-SHA512: 9fbd97ef717b3977b7d11016c784ee045d290120956a4e5a2a70cf8bf8a9049bc188670e6d28ece0218d1458d8ab55080d762efda83f6d07cb09e0a88bac4f30
-Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
-Name: CacheClearerX
-Author: alex_png <alex.png.cc@gmail.com>
-Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
-Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
-SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
-
 Package: com.amywhile.macspoof
 Architecture: iphoneos-arm
 Version: 0.2.1
@@ -1558,23 +1538,6 @@ Author: DeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
-
-Package: com.dgh0st.defaultpage
-Architecture: iphoneos-arm
-Version: 0.0.23
-Section: Tweaks
-Maintainer: DGh0st <deeppwnage@yahoo.com>
-Installed-Size: 444
-Depends: mobilesubstrate, applist, preferenceloader
-Filename: ./debians/Rootful/com.dgh0st.defaultpage_0.0.23_iphoneos-arm.deb
-Size: 22232
-MD5sum: 8355bfe65d4703f0850eaf228c095f2b
-SHA1: 9a96e73410db7277a4c61ef9d71094019e71dc90
-SHA256: 0a7c91ca59dd7d8e3428ae592fb998f430742489dec9a2c809848a9d058b50a3
-SHA512: 0a53a53e3550e202e375b60dc2c317e0709f0c31c853b7a88ef7d1a5fe0541f1e947870a1a82e8e4447d773a87c1576fca9a7a60fe61b17f3a09b77228a82fb1
-Description: Set the default homescreen page.
-Name: DefaultPage
-Author: DGh0st <deeppwnage@yahoo.com>
 
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm
@@ -2761,28 +2724,6 @@ Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
 
-Package: com.johnzaro.perfectsettings13
-Architecture: iphoneos-arm
-Version: 1.7
-Section: Tweaks
-Maintainer: Johnzaro  <johnzrgnns@gmail.com>
-Installed-Size: 632
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
-Filename: ./debians/Rootful/com.johnzaro.perfectsettings13_1.7_iphoneos-arm.deb
-Size: 267556
-MD5sum: a690fff27dd9d516d99ab9f585597ccd
-SHA1: 8cea5f529a62c8b21365f2a4eb07f7360b907977
-SHA256: 700e15b0ad2992b72fd49ff5a67b8ac128d27bc53316657219cdba4faf684dc1
-SHA512: d75c18276509481c1e771ae05f1995ec2f6b53942c781d3b68465732d25a8c55a6b8e5620f7a5160b121d6ff40839136238a4823ef3cebfa7d62d762366615e3
-Description: Organize Main Settings Page To Categories, Show Extra Information On Main Page About IP Address, Used Cellular Data, Disk Space, Battery Health, Custom Title, Hide Cell Arrow Icon, Hide Cell Separators, Hide Update Badge, Circle Settings Icons, Hide Icons, Disable Edge To Edge Cells, Round Search Bar, Hide Search Bar
-Name: PerfectSettings
-Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectsettings13.html
-SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
-ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
-Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
-Tags: compatible_min::ios13.0, compatible_max::ios13.6
-Author: Johnzaro  <johnzrgnns@gmail.com>
-
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
@@ -3377,6 +3318,73 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
+Package: com.nef0pam.cacheclearerx
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Installed-Size: 1216
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/Rootful/com.nef0pam.cacheclearerx_1.1_iphoneos-arm.deb
+Size: 1003420
+MD5sum: cd9aaae329b84d416e00f084864171f2
+SHA1: 926776bb295196a606609652c7aee8ec3b5d5f0d
+SHA256: 2a6e608f4291d2d923fba7a03062cbfc7a79c2b78b8ca8c73f4fa68e86d0a090
+SHA512: 2f672fc07ba5809d5091698f8e7d2f9748349ca71125c331134c1f96e2d0ea3cc39dd09d71978537bf515c090d2b2b0163c61f10558850356b4569b7a194f875
+Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Name: CacheClearerX
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
+Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
+
+Package: com.nef0pam.checkm8respringanimation
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootful/com.nef0pam.checkm8respringanimation_0.0.1_iphoneos-arm.deb
+Size: 4548192
+MD5sum: becea5de2462e9f59bc85f772715d89e
+SHA1: ecb00d6c583b23cb5122881cd4b0a62195638560
+SHA256: 64394ea00e9137ece8ff717fad0de381002de53b3fa65837d5f0d6737b5166e5
+SHA512: 36f6b8c3a3875f1a5ed9ec44183f582112e1eb931debad712b7078c346a384ba3f76657d953507a56302b9f3d25c00230a7bb80683e1967713d1925b7bf5c0ce
+Description: A Checkm8 Respring For Fun ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkm8 Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.nef0pam.checkra1nrespring
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootful/com.nef0pam.checkra1nrespring_0.0.1_iphoneos-arm.deb
+Size: 171394
+MD5sum: 5c05a0981125ce3bc48ae1c2d0a76b8f
+SHA1: c688aafaddf8fdedb4392e91290f19e78198ed46
+SHA256: 3619240b1b618774275f253a8555d0eda23d68bcfbd57c62b37582f06d52633c
+SHA512: 98b01e3c636b302004002339b3ff61cc1c3248e0cfc21a8afdc6e685ee38088de524295d780762d4f0742d4b5b871a6838febed1cd81b0fe3731605b1e66a44a
+Description: Checkra1n Respring Logo ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkra1n Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.nef0pam.defaultpage
+Architecture: iphoneos-arm
+Version: 0.0.23
+Section: Tweaks
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 444
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debians/Rootful/com.nef0pam.defaultpage_0.0.23_iphoneos-arm.deb
+Size: 39382
+MD5sum: c47bc47b9fd2c5720264e60ca93ff4d0
+SHA1: 661e7a0ebb672b2e64588956ffd17cec1692d109
+SHA256: 233ed4baf64dc069c12493be8b6efe8ebc43ada8cd556b6b5bdead08533420d7
+SHA512: 1e291b40ead829ab04687795181827c8012c606bfb14494fe2705b065706ced72f62fe596ea3e9aabaa596244f4ddde6a647de5fa0c43749576cdf4d9b576a35
+Description: Set the default homescreen page.
+Name: DefaultPage
+Author: DGh0st <deeppwnage@yahoo.com>
+
 Package: com.nef0pam.gasolina
 Architecture: iphoneos-arm
 Version: 0.3.1
@@ -3395,6 +3403,62 @@ Name: Gasolina
 Author: Rango
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
 SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
+Package: com.nef0pam.hapticalert
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.nef0pam.hapticalert_0.0.2_iphoneos-arm.deb
+Size: 5018
+MD5sum: 6fa5ad387aef619fa0d25648a08d99cc
+SHA1: 4969cc465607fbe38ab7af5cf734cc0a0cd9e010
+SHA256: e2ff8af68d6672813bbc5f261f19ca51fd4fa23b54c15d06f266eb05f5adbc05
+SHA512: 6da1cf00718b4d3001a0a5f28761f93aed6d5e6048cb3ba4c7fd6291d654f42923819a01b0b49ddbd0825ace54d8a349f31c4cda80c16f9a77ba26390de02836
+Description: Haptic Feedback your iPhone at Alert View.
+Name: Haptic Alert
+Author: pxcex
+
+Package: com.nef0pam.noapplemobilerepair
+Architecture: iphoneos-arm
+Version: 0.0.1-104
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nef0pam.noapplemobilerepair_0.0.1-104_iphoneos-arm.deb
+Size: 17648
+MD5sum: 8ab70c3511c26f8055ddfd1ac9882231
+SHA1: 3829182d11b09064faaae6ef5483c302f573a05a
+SHA256: da05dcbc10e9e9030a9625f5ecf0963a6d50009d66502f4e69c5fa04642d4135
+SHA512: e3dc6c9ea5a2e4059844f08e949b2595580c435892cec9274c34305a86d35d912d3049575a97049c8c2a282b0f5fbb688a094686845881f658402caa9c626682
+Description: No Apple MobileRepair
+Name: No Apple MobileRepair
+Author: xybp888
+
+Package: com.nef0pam.perfectsettings13
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debians/Rootful/com.nef0pam.perfectsettings13_1.7_iphoneos-arm.deb
+Size: 299376
+MD5sum: ec409c4e2e5efc87158dadc6e5d02f0c
+SHA1: 182f32876d894a65fb311f437f9e92c594e942e5
+SHA256: 04f0d28fbb8e65effa5c0634f8127a79c55dd9adb445b5c64f1cad022b551bd4
+SHA512: ff71fed92ba91adbabc8e104c75c28456d14dd9322999938592baf08e493b41b6759b547aeb65f82f3b4a4aa40d495d0aab17a3bdef230f3b045f4e92515d2f8
+Description: Organize Main Settings Page To Categories, Show Extra Information On Main Page About IP Address, Used Cellular Data, Disk Space, Battery Health, Custom Title, Hide Cell Arrow Icon, Hide Cell Separators, Hide Update Badge, Circle Settings Icons, Hide Icons, Disable Edge To Edge Cells, Round Search Bar, Hide Search Bar
+Name: PerfectSettings
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectsettings13.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.nef0pam.spotcc
 Architecture: iphoneos-arm
@@ -4297,23 +4361,6 @@ Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
-Package: com.pxcex.hapticalert
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.pxcex.hapticalert_0.0.2_iphoneos-arm.deb
-Size: 3136
-MD5sum: c9ad4a7e627a4f9d449832d96caf81ac
-SHA1: 5725a8c4a877bd96d024e4260cf9a28fd37ea3c7
-SHA256: 3b59ccbec18a7bcea010f95558d86eb963b2531203271e035157d0867ec5ff0b
-SHA512: 4bb37fcad6b08cef96eeeffbea7500e4c8e818271c71a3f2ab079527727b13ea87e58f0ef762caec5ca7c413f9578c08d71311500fd23478815b53c87ab29ad5
-Description: Haptic Feedback your iPhone at Alert View.
-Name: Haptic Alert
-Author: pxcex
-
 Package: com.r0.relocatereborn
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -4940,23 +4987,6 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
 
-Package: com.xybp888.noapplemobilerepair
-Architecture: iphoneos-arm
-Version: 0.0.1-104
-Section: Tweaks
-Maintainer: xybp888
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.xybp888.noapplemobilerepair_0.0.1-104_iphoneos-arm.deb
-Size: 10680
-MD5sum: 785a1c251e1bf4044a356d25b57796eb
-SHA1: 083ea664250c8d0a794a9e9774baa30704d8f3b0
-SHA256: e10245a38e9545299bb6202e883b94074eee16c12c9b5e08b5691ea304709919
-SHA512: e50ea0280a2daed29eb1800aac76f97866f7e2dc651a0b0c0a856bd255646c746717be462a726d5baad225b1bedbf3549e69f479b0009e1677edd027f6e27bba
-Description: No Apple MobileRepair
-Name: No Apple MobileRepair
-Author: xybp888
-
 Package: com.yourepo.itweakios.ccpatch10
 Architecture: iphoneos-arm
 Version: 4.0.1
@@ -4972,36 +5002,6 @@ SHA512: 51a06c6c23cff48c3f5038499ac8af12c7f1e045fb5b08c67540832d2a60df6efb7e94c6
 Description: Carrier bundle verification bypass
 Name: CommCenter Patch
 Author: Pwn20wnd <itweakios@yahoo.com>
-
-Package: com.yourepo.peterpan.checkm8respringanimation
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Themes
-Maintainer: Peter Pan <mike130784@gmail.com>
-Filename: ./debians/Rootful/com.yourepo.peterpan.checkm8respringanimation_0.0.1_iphoneos-arm.deb
-Size: 4548204
-MD5sum: cca2a94111a68bc450d02c43c4f71c4f
-SHA1: 721a1d444b017cbee53c40a5981aac32f624f030
-SHA256: b2c7d0669c8372f34ea11ab0df76e1d6eb330b94c0a67434886d7613ae15d353
-SHA512: 7d463e20465d6648de76109f382acbd5ee8455c3708fe134a3d176109fb8f94a96c16d5abbbfaea2b0d63deed1bb30ec0a41b3ad0a52b29df7e691763d919334
-Description: A Checkm8 Respring For Fun ; supports iOS14.0 ~ iOS16.7.10 .
-Name: Checkm8 Respring Animation
-Author: Peter Pan <mike130784@gmail.com>
-
-Package: com.yourepo.peterpan.checkra1nrespring
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Themes
-Maintainer: Peter Pan <mike130784@gmail.com>
-Filename: ./debians/Rootful/com.yourepo.peterpan.checkra1nrespring_0.0.1_iphoneos-arm.deb
-Size: 171398
-MD5sum: 48890aea6a94f476d33903102c590b27
-SHA1: 655935e238fa675d97174abb0642b4185e18078e
-SHA256: c482b0e9d7c907503e2f456ee4163c876cea2d6600ffa1790ca3fa370b9b93fd
-SHA512: db035ef9104a46482d1b93c3423194cfc308c8ebd2d8470130b80b609cb9214225075dd4c1f711e63f33bd9bada228cd6dc411a30c7f4076dfdfd3eedb875dac
-Description: Checkra1n Respring Logo ; supports iOS14.0 ~ iOS16.7.10 .
-Name: Checkra1n Respring Animation
-Author: Peter Pan <mike130784@gmail.com>
 
 Package: con.dell.speedview
 Architecture: iphoneos-arm
@@ -5434,19 +5434,19 @@ Description: Scramble the passcode view on your lockscreen!
 Name: Rode
 Author: rootfs
 
-Package: github.io.gfp.haptic13
+Package: github.nef0pam.haptic13
 Architecture: iphoneos-arm
 Version: 0.8
 Section: Tweaks
 Maintainer: Brandon Plank
 Installed-Size: 252
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
-Filename: ./debians/Rootful/github.io.gfp.haptic13_0.8_iphoneos-arm.deb
-Size: 12620
-MD5sum: cfee33f5005cbaa3e344900c620414a8
-SHA1: 6d12a5974d91bfe786063c747d61dfdd59718692
-SHA256: 96b878ccf1b844c95fcb2776ab99fe6f8855e559a44be7b038a127cadcb84fb6
-SHA512: 4fd05a8b59c58a7feadb55960e2b636d932d30f702aaf7eb1e9f2501402730af982b505b6aff7ff55c4445f02d0ee45277786ca293ef53be0e241fbd4f504fd7
+Filename: ./debians/Rootful/github.nef0pam.haptic13_0.8_iphoneos-arm.deb
+Size: 21810
+MD5sum: a1013e6aa5346a09e8da37a24bff2f92
+SHA1: cca64dc4855cce7e6f3e365b43aab2b82f5e8d4f
+SHA256: 2e8a9e2577f666b19ce8137062717a7340d8400a9a70b08281072f8701048e61
+SHA512: af17639954785656bc01daba55089153afdab930258c7dbc03e899b99cb5b1630d15345047eac4e1bd8b733db4b57b9681e30436084d3530ddceaacf924997a3
 Description: Puts haptics in places apple should have!
 Name: Haptic13
 Author: Brandon Plank
@@ -14455,26 +14455,6 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
-Package: com.alexpng.cacheclearerx
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: alex_png <alex.png.cc@gmail.com>
-Installed-Size: 1216
-Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/com.alexpng.cacheclearerx_1.1_iphoneos-arm64.deb
-Size: 990564
-MD5sum: a1cc28c183476beb39c70a3f18097018
-SHA1: 1ee71a54c4136c425e02f335c44372255f1e2c10
-SHA256: aef2a9b1ada392985ecbea7d4de02545786eb7e5f12faf6cde81c459bcae5a5b
-SHA512: 9dccc068402c82a277ba512c13494659c7ce26ddb0efd52f62dff8134c2f5c9bc4504e21610c5d4199c452f21130a6aadad7caf5b974bda250e086198de3765a
-Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
-Name: CacheClearerX
-Author: alex_png <alex.png.cc@gmail.com>
-Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
-Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
-SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
-
 Package: com.alexpng.tapme
 Architecture: iphoneos-arm64
 Version: 1.3-6+debug
@@ -15610,23 +15590,6 @@ SHA512: 3e68c88e76a0fcf00ceb1cc4e7b445dfb139bee8088e569174f3870dc276a9a25f98d0cb
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
-
-Package: com.dgh0st.defaultpage
-Architecture: iphoneos-arm64
-Version: 0.0.23
-Section: Tweaks
-Maintainer: DGh0st <deeppwnage@yahoo.com>
-Installed-Size: 444
-Depends: mobilesubstrate, applist, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/com.dgh0st.defaultpage_0.0.23_iphoneos-arm64.deb
-Size: 16556
-MD5sum: 36b9b695dd07ff86a088a3ded58ec077
-SHA1: 1bca5d68a3141f3bad26187f2ee515870ad6e5d9
-SHA256: 19d42920f9ae95446c83fc5c645084c86e57ad4b992521e4ad20a7412caca454
-SHA512: 6dde98111808fd174a1d0af4fc57f2170e47c62dad7894c2bf63cf61654ed544f9937ed49f330bdac3b5a4d36e023c2045d9469f8ea770377d1ac843cd7e648d
-Description: Set the default homescreen page.
-Name: DefaultPage
-Author: DGh0st <deeppwnage@yahoo.com>
 
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm64
@@ -17031,28 +16994,6 @@ Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
 
-Package: com.johnzaro.perfectsettings13
-Architecture: iphoneos-arm64
-Version: 1.7
-Section: Tweaks
-Maintainer: Johnzaro  <johnzrgnns@gmail.com>
-Installed-Size: 632
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/com.johnzaro.perfectsettings13_1.7_iphoneos-arm64.deb
-Size: 268452
-MD5sum: bca8a922bcc4a8f8be503fd4e3b3c728
-SHA1: 7c12a087b6d3df754d56dcbaab68ec23b211a47b
-SHA256: 2c1e1a4d1f256f98aad99dcef5a729c8c1f911d2427d14d083963c73196ad80f
-SHA512: 305565982cce247f88214ee6ce579689ff4a82609b5e42a34f649cd59805d8cfcd535b75cbe1f4c0e083dc86e931f92d4931f40b7f0f4f5563933bfb00e87520
-Description: Organize Main Settings Page To Categories, Show Extra Information On Main Page About IP Address, Used Cellular Data, Disk Space, Battery Health, Custom Title, Hide Cell Arrow Icon, Hide Cell Separators, Hide Update Badge, Circle Settings Icons, Hide Icons, Disable Edge To Edge Cells, Round Search Bar, Hide Search Bar
-Name: PerfectSettings
-Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectsettings13.html
-SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
-ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
-Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
-Tags: compatible_min::ios13.0, compatible_max::ios13.6
-Author: Johnzaro  <johnzrgnns@gmail.com>
-
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
 Version: 0.0~beta2a
@@ -17992,6 +17933,73 @@ Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
 
+Package: com.nef0pam.cacheclearerx
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Installed-Size: 1216
+Depends: mobilesubstrate, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.cacheclearerx_1.1_iphoneos-arm64.deb
+Size: 990588
+MD5sum: f4d10024c001af8d3080474db0837a14
+SHA1: 4c73f01bbc285c2a8e6c5d757f40c78da9565df1
+SHA256: 37ef719efab9ba7324ce77941576ce19241f0565f153069f87be6b928abdf413
+SHA512: 215fe667a14176b7c5b143b42c79082ba7593d32fa921f36387cc3b0d4ff6ca71865e97dd14b7dc187136a2599a069b750ba93fcf3da05dc9be6a0af7c607b2a
+Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Name: CacheClearerX
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
+Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
+
+Package: com.nef0pam.checkm8respringanimation
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootless/com.nef0pam.checkm8respringanimation_0.0.1_iphoneos-arm64.deb
+Size: 2172712
+MD5sum: 86609867d7151e28e27a0bf68e36ddd6
+SHA1: 284f249cb8ac89a2884defe020b816ec3813ae86
+SHA256: 538be78e31337750441465637e84e865586fc61331f41c8fef46ddecc366f570
+SHA512: d8f8109548c3944da6ec219aa6f24dd1367dc294b28152244fbccabae315426d8b8a7fcc6416a8c48d5283255709c3a994199b621c37d5cb298744853cd4be22
+Description: A Checkm8 Respring For Fun ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkm8 Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.nef0pam.checkra1nrespring
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootless/com.nef0pam.checkra1nrespring_0.0.1_iphoneos-arm64.deb
+Size: 118016
+MD5sum: e7444f5246c198b8c06f021aa3251ebb
+SHA1: 5b92389fbab0c55505f91c1ff902d732fbc58708
+SHA256: 8f8bfa9fa5a8ff94a1fd39fba4b005659fcc643e0f79a7063ea945f3217ce700
+SHA512: 094208328412571439eee550883dfc1c1bf52490602c8c08641f5b4aa7815ed5fe4ecc55797a0ab32e14db867f6b360d1564b98af132221eaf220be797f4966e
+Description: Checkra1n Respring Logo ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkra1n Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.nef0pam.defaultpage
+Architecture: iphoneos-arm64
+Version: 0.0.23
+Section: Tweaks
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 444
+Depends: mobilesubstrate, applist, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.defaultpage_0.0.23_iphoneos-arm64.deb
+Size: 16544
+MD5sum: a3d5bb3cdc73787242699051ef940f43
+SHA1: f5c18bddb6aead18e0a83ad325aec2572c0e02e3
+SHA256: 638fb4a03475f80330cd742ac5f4593424fcd499a07df756450a7ea57bdbf547
+SHA512: f98e50314fb7488a2cbc3e5bfe0f7cc62f3e7f595c21e34168dd751b6c85885a4e46c24d87af8a461084362e089f0d133a86ed4213808acd0dd3dc3ddfec727e
+Description: Set the default homescreen page.
+Name: DefaultPage
+Author: DGh0st <deeppwnage@yahoo.com>
+
 Package: com.nef0pam.gasolina
 Architecture: iphoneos-arm64
 Version: 0.3.1
@@ -18010,6 +18018,62 @@ Name: Gasolina
 Author: Rango
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
 SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
+Package: com.nef0pam.hapticalert
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 200
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.hapticalert_0.0.2_iphoneos-arm64.deb
+Size: 3192
+MD5sum: c5278937abea9ffc77249f20c0709913
+SHA1: 4a41cb339c3cae1f3a0cae74f0c99da6dc1a8ef0
+SHA256: 827f04e3c0ea899edf10c3a18bdaa353a56c8a581df0bdc8f648cf7de1911d89
+SHA512: 710bd012d206074aba35a37f51d56b7e5a3df78a87da70dfc93839fa850b19c6aeccafe1b10d7de9eca279341591b7479705a690b24130535c50ed261dcc7120
+Description: Haptic Feedback your iPhone at Alert View.
+Name: Haptic Alert
+Author: pxcex
+
+Package: com.nef0pam.noapplemobilerepair
+Architecture: iphoneos-arm64
+Version: 0.0.1-104
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nef0pam.noapplemobilerepair_0.0.1-104_iphoneos-arm64.deb
+Size: 10924
+MD5sum: acd3f5098199784a7a108910b254772e
+SHA1: 657ab66abc215eea40ff441b6881115f43cc2ee9
+SHA256: 455d12b55c0ad933f831b25a0c1649e746bf432484dd73a80cf0e7da58052d28
+SHA512: 90315ca8dc6c8581475a84039441ccb5805e73884a2c90b71222098275e549aa6a11590d49a60472a423ca3a18183f43cc568db357c2e8e4f52cac862425204a
+Description: No Apple MobileRepair
+Name: No Apple MobileRepair
+Author: xybp888
+
+Package: com.nef0pam.perfectsettings13
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.perfectsettings13_1.7_iphoneos-arm64.deb
+Size: 268416
+MD5sum: 63432771a928673cffb17c1810452596
+SHA1: 072c830ecc1ab02e8612af3612e32530564006f9
+SHA256: b6b89861c48c01bad9da78bf594dba858b5404b32396f2c1112c7996b4d52e4a
+SHA512: 3d013fc6cde1e3132bdccee6ba63f49ee005955744806c894d83c8cb288ced3daad806ae4c2e966a5f44433a470bb20fe2cd4b95a41134e3a21ff379edabd180
+Description: Organize Main Settings Page To Categories, Show Extra Information On Main Page About IP Address, Used Cellular Data, Disk Space, Battery Health, Custom Title, Hide Cell Arrow Icon, Hide Cell Separators, Hide Update Badge, Circle Settings Icons, Hide Icons, Disable Edge To Edge Cells, Round Search Bar, Hide Search Bar
+Name: PerfectSettings
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectsettings13.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.nef0pam.spotcc
 Architecture: iphoneos-arm64
@@ -19115,23 +19179,6 @@ Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
 
-Package: com.pxcex.hapticalert
-Architecture: iphoneos-arm64
-Version: 0.0.2
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 200
-Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/com.pxcex.hapticalert_0.0.2_iphoneos-arm64.deb
-Size: 8070
-MD5sum: 8e78280661a33de80b1569714ea6e16f
-SHA1: 4f16681c983895a1f1d602239b7f5aeb871d305f
-SHA256: 5950b44da785f3e198d0626ba8a0f52300d78caf94e0977c72625226f6925c84
-SHA512: fe01c314a2bbc7c357f9fda4f522431b67b4d4d3265173c6644b9c7755f784dc562ff27a2e8834741307b240bac5c9ef15736f5348ae25d9ba958ebd93fe62e6
-Description: Haptic Feedback your iPhone at Alert View.
-Name: Haptic Alert
-Author: pxcex
-
 Package: com.qiop1379.swipeextenderx
 Architecture: iphoneos-arm64
 Version: 1.6.1~2
@@ -20012,23 +20059,6 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
 
-Package: com.xybp888.noapplemobilerepair
-Architecture: iphoneos-arm64
-Version: 0.0.1-104
-Section: Tweaks
-Maintainer: xybp888
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootless/com.xybp888.noapplemobilerepair_0.0.1-104_iphoneos-arm64.deb
-Size: 10892
-MD5sum: ad78a1b4669692ccba18e8fd53b666eb
-SHA1: 880d1fb07a9d2a3b61454801a9de8e153e4bdba1
-SHA256: fd47decccea1b57faa7e9279e34b53e75422e5ee4cf8973271cee595483b5cf6
-SHA512: 59d6019969b25dbc3f681f93809597a0700f2535718a67536a54e39abd7b59d599adb8b44c4572e075c4ef5a5ea1285a261dd2c48a0f4ef4e2cac460f04b085b
-Description: No Apple MobileRepair
-Name: No Apple MobileRepair
-Author: xybp888
-
 Package: com.yourepo.cydiageek.batteryswipeup
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -20126,36 +20156,6 @@ SHA512: 95319002f5bec0ffcaa512411f1c375979d7d9f7913881c2f0c39de6fe4e493a62f51c4e
 Description: Carrier bundle verification bypass
 Name: CommCenter Patch
 Author: Pwn20wnd <itweakios@yahoo.com>
-
-Package: com.yourepo.peterpan.checkm8respringanimation
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Themes
-Maintainer: Peter Pan <mike130784@gmail.com>
-Filename: ./debians/Rootless/com.yourepo.peterpan.checkm8respringanimation_0.0.1_iphoneos-arm64.deb
-Size: 2172732
-MD5sum: 7d73591d432ab291d34b0fcd72156d3c
-SHA1: 7a661d4343a788fbdee4708b1b0d3ee2dfe93e22
-SHA256: ae8b9fefeb712331467778574baae78dc0ffe70632f93591977b92ef83cbefb0
-SHA512: d70299e64435ff6a61c1e32818001a186a1d07260ba6aa18302983f87ab21cc0977d43d527b4df6c1f2a0509c910ac9f67f4a3bacab0963dea30a878197402a1
-Description: A Checkm8 Respring For Fun ; supports iOS14.0 ~ iOS16.7.10 .
-Name: Checkm8 Respring Animation
-Author: Peter Pan <mike130784@gmail.com>
-
-Package: com.yourepo.peterpan.checkra1nrespring
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Themes
-Maintainer: Peter Pan <mike130784@gmail.com>
-Filename: ./debians/Rootless/com.yourepo.peterpan.checkra1nrespring_0.0.1_iphoneos-arm64.deb
-Size: 118020
-MD5sum: 3eeb8d9b40a9767a2b2a25241a31656b
-SHA1: 9bc4fdd9d92e6293eb2f841a39537403c94b2456
-SHA256: 4a9f8304dd6ccee22dc01d6acf4687d0a79655f585b4e78232aeaca266ca87af
-SHA512: bafa4b3146c605ce431d7565681b7df4dd81ab4c87071a29798b932437e6d15a86c5f886bd31ea549aca17633c55ac9cd9d1a1b548572161bb79581e2e74bc81
-Description: Checkra1n Respring Logo ; supports iOS14.0 ~ iOS16.7.10 .
-Name: Checkra1n Respring Animation
-Author: Peter Pan <mike130784@gmail.com>
 
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64
@@ -20717,19 +20717,19 @@ Description: Scramble the passcode view on your lockscreen!
 Name: Rode
 Author: rootfs
 
-Package: github.io.gfp.haptic13
+Package: github.nef0pam.haptic13
 Architecture: iphoneos-arm64
 Version: 0.8
 Section: Tweaks
 Maintainer: Brandon Plank
 Installed-Size: 252
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/github.io.gfp.haptic13_0.8_iphoneos-arm64.deb
-Size: 34284
-MD5sum: ef688fe9800956eb8abdeabd0e5aa960
-SHA1: 66f1198c703b240cd9e344d9ddec05f2afe23229
-SHA256: b71fc538affbd6a38538aeedb77e971f61ac5b7b79259259d311465ca18124f2
-SHA512: 3f6f4e0d1353e1129823bb1dec2d603ce5318ca4c5970e1cbee78f55dca4b6e095b553a77e158634cfda370b6189d9abee76a1634227779b8776d8122fe6a806
+Filename: ./debians/Rootless/github.nef0pam.haptic13_0.8_iphoneos-arm64.deb
+Size: 12608
+MD5sum: 90b10b00dd46fc3729fee2c2cda26a8d
+SHA1: 7612e76f286ad4b6328483c222d243529c26a9f2
+SHA256: 783956aa710928e022deb5a3e60e8d95794d7e2359fdc6a203d1624fd9a09c9a
+SHA512: 6aeac4188ceadcde8c9e939947ed3f827cbef7c1461b9b379a358e9404d06879374a3d570d7cafa9190dc9e805eea71f81f372d1f408b4d8b553ffedba9b03f8
 Description: Puts haptics in places apple should have!
 Name: Haptic13
 Author: Brandon Plank
