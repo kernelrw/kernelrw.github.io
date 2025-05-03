@@ -4946,13 +4946,28 @@ Version: 0.0.1
 Section: Themes
 Maintainer: Peter Pan <mike130784@gmail.com>
 Filename: ./debians/Rootful/com.yourepo.peterpan.checkm8respringanimation_0.0.1_iphoneos-arm.deb
-Size: 2172524
-MD5sum: e41cd433b1a0584b464fbfc8a5332927
-SHA1: 7c625f9e47625bab58ca7396cdab3b38434a7f8e
-SHA256: 381b479a61094c53eb2fd1bded9b19ff31c38fe54bf0de50b53d256c129d8c7e
-SHA512: 0a8d0bf09211d670b69a26a53590f2a5d452130d379b17f16195f6ecb8a81b90851509235183745b594766d5b241dfc886f896a0fc88ee0d8a20cd1e5f1b41a6
-Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7.10 .
+Size: 4548204
+MD5sum: cca2a94111a68bc450d02c43c4f71c4f
+SHA1: 721a1d444b017cbee53c40a5981aac32f624f030
+SHA256: b2c7d0669c8372f34ea11ab0df76e1d6eb330b94c0a67434886d7613ae15d353
+SHA512: 7d463e20465d6648de76109f382acbd5ee8455c3708fe134a3d176109fb8f94a96c16d5abbbfaea2b0d63deed1bb30ec0a41b3ad0a52b29df7e691763d919334
+Description: A Checkm8 Respring For Fun ; supports iOS14.0 ~ iOS16.7.10 .
 Name: Checkm8 Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.yourepo.peterpan.checkra1nrespring
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootful/com.yourepo.peterpan.checkra1nrespring_0.0.1_iphoneos-arm.deb
+Size: 171398
+MD5sum: 48890aea6a94f476d33903102c590b27
+SHA1: 655935e238fa675d97174abb0642b4185e18078e
+SHA256: c482b0e9d7c907503e2f456ee4163c876cea2d6600ffa1790ca3fa370b9b93fd
+SHA512: db035ef9104a46482d1b93c3423194cfc308c8ebd2d8470130b80b609cb9214225075dd4c1f711e63f33bd9bada228cd6dc411a30c7f4076dfdfd3eedb875dac
+Description: Checkra1n Respring Logo ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkra1n Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
 
 Package: con.dell.speedview
@@ -20072,13 +20087,28 @@ Version: 0.0.1
 Section: Themes
 Maintainer: Peter Pan <mike130784@gmail.com>
 Filename: ./debians/Rootless/com.yourepo.peterpan.checkm8respringanimation_0.0.1_iphoneos-arm64.deb
-Size: 2172704
-MD5sum: dfc91c534a4f3c1d1518d6bf5139506a
-SHA1: e54bfed3444f25fff7b88cab6a879cafb93a6d28
-SHA256: af84db36cb752010c03b62800384c1dc4d6d869158658e72063b095b0fce4ef4
-SHA512: a92a1c2ac6abebafccf5a8322a98a18dfbcfa758b407c87284af3b6c609cdc988060643cede75bcdca9848c660d56f69ebd07ad4f89a13d13cedc7b5dc148e6d
-Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7.10 .
+Size: 2172732
+MD5sum: 7d73591d432ab291d34b0fcd72156d3c
+SHA1: 7a661d4343a788fbdee4708b1b0d3ee2dfe93e22
+SHA256: ae8b9fefeb712331467778574baae78dc0ffe70632f93591977b92ef83cbefb0
+SHA512: d70299e64435ff6a61c1e32818001a186a1d07260ba6aa18302983f87ab21cc0977d43d527b4df6c1f2a0509c910ac9f67f4a3bacab0963dea30a878197402a1
+Description: A Checkm8 Respring For Fun ; supports iOS14.0 ~ iOS16.7.10 .
 Name: Checkm8 Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.yourepo.peterpan.checkra1nrespring
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootless/com.yourepo.peterpan.checkra1nrespring_0.0.1_iphoneos-arm64.deb
+Size: 118020
+MD5sum: 3eeb8d9b40a9767a2b2a25241a31656b
+SHA1: 9bc4fdd9d92e6293eb2f841a39537403c94b2456
+SHA256: 4a9f8304dd6ccee22dc01d6acf4687d0a79655f585b4e78232aeaca266ca87af
+SHA512: bafa4b3146c605ce431d7565681b7df4dd81ab4c87071a29798b932437e6d15a86c5f886bd31ea549aca17633c55ac9cd9d1a1b548572161bb79581e2e74bc81
+Description: Checkra1n Respring Logo ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkra1n Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
 
 Package: com.zqbb.limitcharging
