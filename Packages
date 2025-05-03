@@ -3377,6 +3377,87 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
+Package: com.nef0pam.gasolina
+Architecture: iphoneos-arm
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Rango
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/Rootful/com.nef0pam.gasolina_0.3.1_iphoneos-arm.deb
+Size: 47020
+MD5sum: 82819636dd9160846ecb891b74998592
+SHA1: 63dc2411d14736bd73a768a2dd03b640dc8c1fe7
+SHA256: d6b8ef6a5a43b8434b2b981fe7eba4c498e4353de8ef7623627a5a7ed5e877cc
+SHA512: eafaa9fd0ec9091aa3e3202e2978a150372e423dda851ee609833a29663cc855c2d5155b56c8bcf5337ca8dec7793f84a894f8c3d74ad9a877ba074f9c6125b8
+Description: Saves you some battery!
+Name: Gasolina
+Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
+Package: com.nef0pam.spotcc
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.nef0pam.spotcc_1.0_iphoneos-arm.deb
+Size: 4398
+MD5sum: 6ca3f9a86bba0415bab3412b7f2d7f89
+SHA1: 15e3f4b6bba8681ecafa585ec0d834457fae80d9
+SHA256: fbd9b3460a2884abddd689e64c01bae50c9fbe30e962cbfc42b588b4f1f7edef
+SHA512: c2c49b55a9986a57a86993c0114828d8faacdb7cc5ce4379b12c60d64179ac7a1b177d07e859511b74c1751db4c6549fec0900cd16b7415eeeb7c71bd4d8d2f1
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Name: SpotCC
+Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.nef0pam.visionkeysaurora
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Filename: ./debians/Rootful/com.nef0pam.visionkeysaurora_1.0_iphoneos-arm.deb
+Size: 511140
+MD5sum: 39e13bc169d8439e165d6f93d0a60f64
+SHA1: de6df7c0c7488d27a7e145801f43e8f960469c4e
+SHA256: 74ba1d489cb5a77874dee992f18d72e247ac45ede813dfcca4880632ec087b1e
+SHA512: 127ed6c52ef22a6b9a202c91174eb705027c3b7402a23848b47f707fd84e3c964bba106b5fd80b09f68d92b36357e77b97cacb7927bc98b286202ae6c7b37c1f
+Description: A beautiful Dark Blue theme for Laetus
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.nef0pam.visionkeyscelestia
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Filename: ./debians/Rootful/com.nef0pam.visionkeyscelestia_1.0_iphoneos-arm.deb
+Size: 967892
+MD5sum: a2fe37ddcbabda9afbcc5e461f03ab3e
+SHA1: bc055e0d35f2079f02723d74902748544baab723
+SHA256: 69aa823ee6a1bed61c0291fa324cf640f3d12af3ae25beeb654028f74da5439a
+SHA512: e52a625c502f360b6e0944ad0a8a16b2584ddb75e5b4c9fb4c87d00d59f963fe2187408549b955a024e3f2cb8499a0bb93da55f8e57ae5fa659e28cba117ae12
+Description: A beautiful Light mode theme for Laetus
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.nef0pam.visionkeysobsidian
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: rahwan3d
+Filename: ./debians/Rootful/com.nef0pam.visionkeysobsidian_1.0_iphoneos-arm.deb
+Size: 291512
+MD5sum: 5474123bf02c2f55b8b3459c955166b4
+SHA1: 61a8b31b336ca728aa5750bf37e83d31192ca536
+SHA256: 51c83d73a2840d88e6da6278c88a3d3832ffedbf6187f7eebd5c600518bda357
+SHA512: 3396795488a00a3312b2d2b21d02950a76af26ea00f1f1167b47b0825b4c2bf90c8874a09ee27cd49970a8ed6c620e8c8c02239427f736f87ed5b5cd0c049c37
+Description: A beautiful Dark mode theme for Laetus
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
 Package: com.netskao.appdata
 Architecture: iphoneos-arm
 Version: 1.4.5
@@ -4265,54 +4346,6 @@ SHA512: 6d327d8de26fc9b3131c6c58abe5a56b4d3d9c1ad7790050464b075b281b0764fd2e3a30
 Description: System-wide parametric equalizer
 Name: EQE
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
-
-Package: com.rahwan3d.visionkeysaurora
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/Rootful/com.rahwan3d.visionkeysaurora_1.0_iphoneos-arm.deb
-Size: 511132
-MD5sum: b39f6e54a65f612c940bbe6232c74d99
-SHA1: 577affeef822e48e31f12e1d57790a3b5f939db5
-SHA256: 4fbd8db037eca44f3835dd1d1114261264c92e687e9850f4d393339ad53e139e
-SHA512: e9185328e69581e1e7382e363d351e38e240388b0032342b77ad638154a2a812f47816c9746735f9d6b3c8978c7de5bc3d6a77e1df31d0a632012ce63be34eb6
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
-Package: com.rahwan3d.visionkeyscelestia
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/Rootful/com.rahwan3d.visionkeyscelestia_1.0_iphoneos-arm.deb
-Size: 967896
-MD5sum: 39b6a46fd3d88ea5b3c0e7d686fa7518
-SHA1: a33624b616380504dccba21dd13ae68295f592c5
-SHA256: fd737c442b0f6396ef1e18427512bb40fb952863add22181366835e59b726bc7
-SHA512: 406779dbde9b242febaa556ee6015d2ec4250055518967f437e51f114f69ceef9bc9b275f85634d10a511a1ca9fbce5285cc682c0dc4e5542a97b6bc7f0eff84
-Description: A beautiful Light mode theme for Laetus .
-Name: VisionKeys Celestia
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
-
-Package: com.rahwan3d.visionkeysobsidian
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/Rootful/com.rahwan3d.visionkeysobsidian_1.0_iphoneos-arm.deb
-Size: 291504
-MD5sum: decaf169b67f4d0718e85e0676a1d180
-SHA1: f121f1f22c45184d997b9f6b3f6c5ba2654f7b1f
-SHA256: 4ae3c7e79b4a66528abbeb4919bc77784a8aedc4330731e0a4ed7f920e0af621
-SHA512: 6a79c9427d6425bccf32537f18c06803c2637686a5296b6beb783cfd3b16205e24299169a4d42d3b7f95228af7c72e8fc9fe3f3e5f37c710d2d751667afe4903
-Description: A beautiful Dark mode theme for Laetus .
-Name: VisionKeys Obsidian
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm
@@ -16962,23 +16995,6 @@ Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
 
-Package: com.imkpatil.spotcc
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.imkpatil.spotcc_1.0_iphoneos-arm64.deb
-Size: 3076
-MD5sum: 5f47807e5df0f7d754ae0302d4987895
-SHA1: 6e5a2b98318376857fbef36e894e0846f9c34b21
-SHA256: 175a9473369db4f376ad11c1dc350e4ea5eeebc943f06ee5e6cb432d2d589d4c
-SHA512: ccc12c58e3dae6bd786dfcd4925ec70342fbf1890995ef23b18f84c905cd4350e2ceeebedc11c9c6f182b691e6f9a6260a8f43c0d4cdc2e11f314d69f02d52eb
-Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
-Name: SpotCC
-Author: P2KDev <p2kdev@gmail.com>
-
 Package: com.jacobcxdev.fbspnosor
 Architecture: iphoneos-arm64
 Version: 1.2.9
@@ -17975,6 +17991,87 @@ SHA512: e05be6939a0d2a08996f0dda24655cdce6d2145af1cd3e8b0ac9d86fce4037aa064545b0
 Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
+
+Package: com.nef0pam.gasolina
+Architecture: iphoneos-arm64
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Rango
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.gasolina_0.3.1_iphoneos-arm64.deb
+Size: 39258
+MD5sum: a7b7538d2fe2f91707715a4c0bb3d8a3
+SHA1: cf708ff8d6d9e48e148dd8024cf49a4839435385
+SHA256: 0c79059fb3a8f397f664d9a69b22e19627dee7b92b13ac27f813e57afa0e2455
+SHA512: a3437a9248a8eb797f3b88256ffa39f07feb74385e497056f069f804b983f0c749c32428787800d5687baa99ceb2aa63152e991d86a59f0049b035cd48f8e4a5
+Description: Saves you some battery!
+Name: Gasolina
+Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
+Package: com.nef0pam.spotcc
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate , cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.spotcc_1.0_iphoneos-arm64.deb
+Size: 4480
+MD5sum: ed595c1d0ee592374437ae361f7356ca
+SHA1: 080582c088edaac339d5992c73d506fadb7fe1b7
+SHA256: 65571593d7aa0760fc1730e7692f694bd22f7d1d107ac8fde8850ab10be3d946
+SHA512: fab709b2b816f2abbcfce940fcae8e6bf950cccbb382b34b774e357a151ecbdcb2d32f4917dcf2a25316845f2d262a9e3bda4792efdad3382593ba7152b77c31
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Name: SpotCC
+Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.nef0pam.visionkeysaurora
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Filename: ./debians/Rootless/com.nef0pam.visionkeysaurora_1.0_iphoneos-arm64.deb
+Size: 511180
+MD5sum: f40ba2052fef32d3b6f7a96958432b2e
+SHA1: c0b278bb8be637d42d48fdc0a135ce02aa12e73e
+SHA256: e3e1f4c633d0dfd715e692dedc849868f819e56b18e2915945db06223b804773
+SHA512: 21d3e4156d4fa0883d9ad56defc95199bf624238a4f0dba970ed27fe4eb3b0600f44085edc537bb0e1e584b9f90a30d376be471ea3bc0ecd3d9de96bfdab97b6
+Description: A beautiful Dark Blue theme for Laetus
+Name: VisionKeys Aurora
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
+
+Package: com.nef0pam.visionkeyscelestia
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Filename: ./debians/Rootless/com.nef0pam.visionkeyscelestia_1.0_iphoneos-arm64.deb
+Size: 967956
+MD5sum: f64391f66e0c65c1f02b68b65ca4922d
+SHA1: e2c2cd374072bac59387666f0d0adccb08a9fa21
+SHA256: 959c9fbbe85a6c42a2549cf57aa425c62e1fef36383c55895a6668f8a4aaa407
+SHA512: 233f7e1a3e25b95e8295c3a478430bd7e08d67fe4ab5ec2216d6550aa3bd5b928b39f50f4bc7b970791182d3a865535a3cc21839fe7fcb5fac1c00915adb71b6
+Description: A beautiful Light mode theme for Laetus
+Name: VisionKeys Celestia
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
+
+Package: com.nef0pam.visionkeysobsidian
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: rahwan3d
+Filename: ./debians/Rootless/com.nef0pam.visionkeysobsidian_1.0_iphoneos-arm64.deb
+Size: 291556
+MD5sum: 2ad981456a7bc1685c6a5d46f49c967c
+SHA1: 8e51d6a17ec8fe444457dcffd9a0f240dd786b7f
+SHA256: aaa549d9d015114fcc9585b9a5415e636809d6448018c09f3136b5359b2fdefe
+SHA512: e684679d0f8afa30c83cf4032da6a4b2bbe85289d156a7376c4a81142895734b4fe2c955ac2031e698f3969062c1d31b8ea20a2d940f7c98db7c2127306e74af
+Description: A beautiful Dark mode theme for Laetus
+Name: VisionKeys Obsidian
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
 Package: com.nepeta.axon
 Architecture: iphoneos-arm64
@@ -19070,57 +19167,6 @@ SHA512: 28683630baa2c026d775e56d08b56036e8977ce025c7ca45ba3a4d0b2d63e125393ab11c
 Description: System-wide parametric equalizer
 Name: EQE
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
-
-Package: com.rahwan3d.visionkeysaurora
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/Rootless/com.rahwan3d.visionkeysaurora_1.0_iphoneos-arm64.deb
-Size: 511296
-MD5sum: dc2ba5239a030a826b55a5111ddcb101
-SHA1: 3eea17b266658a9605c555736d55e4773f3e546a
-SHA256: 9358ef3902bb3b2f0f81c34159428484417c9632c11df482e7688ab8e86a7741
-SHA512: 7281a513b937fdecdb3a7fb3fd529405d9e93718258ebba99bc5f0a16dc470cbb5769a4438574789f2b36581d8aa263041a6831971cd2326e635fc83ab677911
-Description: A beautiful Dark Blue theme for Laetus .
-Name: VisionKeys Aurora
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
-
-Package: com.rahwan3d.visionkeyscelestia
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/Rootless/com.rahwan3d.visionkeyscelestia_1.0_iphoneos-arm64.deb
-Size: 967976
-MD5sum: 0449bc144a0d52cf1e24e275e688c932
-SHA1: 0ec588752152c6f5243c5a6b534e5217abb5e469
-SHA256: b899bbcbdfc201c1933ec59ebc1be026895927547a633f1be0419ec8bf7cbf55
-SHA512: 2b98799e9604c6a1c6b77a8e0f38afa2406dde15b5a2bcdbffada8bf251ffe9b56aac3a4d3cda7e0af9aabdc9919c63d144096b74654b0b610eb4a0d1185482e
-Description: A beautiful Light mode theme for Laetus .
-Name: VisionKeys Celestia
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
-
-Package: com.rahwan3d.visionkeysobsidian
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Themes
-Maintainer: rahwan3d
-Depends: com.spark.laetus
-Filename: ./debians/Rootless/com.rahwan3d.visionkeysobsidian_1.0_iphoneos-arm64.deb
-Size: 291588
-MD5sum: 51932bb9b7276443af581b32ac04c670
-SHA1: ca862c445cf868b5ae2a6b75933105e1d3b78d0d
-SHA256: b3c1ad8ec353646e53b938539d16eb60b8b58f5fdc9c08c8e6277f6c08618b45
-SHA512: 11d28d9f30253c24195b7b34a71b8923a04530eea393ba69b6ffe2c91e64a440dacb3891c8cf12786176de435aff219858dfd1a953578737ba0541b967afb040
-Description: A beautiful Dark mode theme for Laetus .
-Name: VisionKeys Obsidian
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64
