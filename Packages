@@ -3377,6 +3377,42 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
+Package: com.nef0pam.gasolina
+Architecture: iphoneos-arm
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Rango
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/Rootful/com.nef0pam.gasolina_0.3.1_iphoneos-arm.deb
+Size: 36922
+MD5sum: fd8755f4ac025e10cbe4c703f1b23ecf
+SHA1: b7ea8c97066352bb07aa3106395e32a8264380f6
+SHA256: 188e7c53d9c8fab996140efc2a91eccd3d2b8fc323ae95977b8bc5e7f2f0be22
+SHA512: d9411abf0df62630ecd23c01bfad4a3534295202e0748a0eb58e2b4c1e8b9bdfdb71f29a2b6373758a6035875d84fa1dcea87c6969b286da3ff748b809990e08
+Description: Saves you some battery!
+Name: Gasolina
+Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
+Package: com.nef0pam.spotcc
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.nef0pam.spotcc_1.0_iphoneos-arm.deb
+Size: 3960
+MD5sum: 15fd4105401d82719b0bf597346d6765
+SHA1: 6afd541ce0854a9476cb0e5cdef9708ae2b283e2
+SHA256: bdcaeb6dce6a16346232e179f61b29927fb7eba4709ff7a5fb1ca483955673e7
+SHA512: 57caf780470a421791de10739e9b9a90b287c4319139be9f4f9a04adfe64b8b5b2140a43f7ab368a0694f5f6a2684ce7142707baf6b11da837e9cc64d39ea5b9
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Name: SpotCC
+Author: P2KDev <p2kdev@gmail.com>
+
 Package: com.nef0pam.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
@@ -17955,6 +17991,42 @@ SHA512: e05be6939a0d2a08996f0dda24655cdce6d2145af1cd3e8b0ac9d86fce4037aa064545b0
 Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
+
+Package: com.nef0pam.gasolina
+Architecture: iphoneos-arm64
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Rango
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.gasolina_0.3.1_iphoneos-arm64.deb
+Size: 26156
+MD5sum: 4ca11d6fef08c779b3f6c0423223f57b
+SHA1: 974b936d3ac648c67e68cc06b45147d3df5f88b7
+SHA256: 9c525a80eb939c257ef2aa9a26d04f47219c6be2bd4d22fd535c80f04cda16b3
+SHA512: 3173a3de60af6b265a21569f21d8a8beb8b8465cbc15f01be2f3f4267f1b20ecd4d5dd5a0a8de6408794740f4fcba79ce811fec046a6f7af392fd5bf3c2e1215
+Description: Saves you some battery!
+Name: Gasolina
+Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
+Package: com.nef0pam.spotcc
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.spotcc_1.0_iphoneos-arm64.deb
+Size: 3176
+MD5sum: 1135f186f02858a9bdf0ee00f55e49ef
+SHA1: 63c45ce5f5e577a6d69b3165d423a3a63389d3f6
+SHA256: 60bea3ad0d5f0f79aa28152357541120a6ef2f96d3371a615ee2765fb38e0b3b
+SHA512: 347a46ac197e33002e122dd18e5e48766a9bd466b133b456a69ee37badf9eeec61f427bfcf56449ba5c472f4d134a25a1e1f69e146db09453d731f258755e5eb
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Name: SpotCC
+Author: P2KDev <p2kdev@gmail.com>
 
 Package: com.nef0pam.visionkeysaurora
 Architecture: iphoneos-arm64
