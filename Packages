@@ -3318,24 +3318,6 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
-Package: com.nef0pam.autoalerts
-Architecture: iphoneos-arm
-Version: 1.0.2-1
-Section: Tweaks
-Maintainer: und3fy
-Installed-Size: 528
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.nef0pam.autoalerts_1.0.2-1_iphoneos-arm.deb
-Size: 45776
-MD5sum: 952372ca512b46046ed4af888e987895
-SHA1: 772d488f76f00b6f3f03d797406532ebd59c9a1c
-SHA256: e9aeeaa56154c35d0f5354db6b1ef078cb1c77c4ee8b2651024b8616b2d3b6b9
-SHA512: 30316a49946494e223efb698022828daf8ae24bed9017f213724c765d6e7eee8d5c07bd791a9df2454697541eebb8864f497609ab2ffa2df97605d3f9602c927
-Description: Automate alert actions , an updated version for arm64e devices ; it should now work on Dopamine and Dopamine-Roothide too .
-Name: AutoAlerts
-Author: shiftcmdk
-Icon: https://cdn-icons-png.flaticon.com/512/8682/8682464.png
-
 Package: com.nef0pam.cacheclearerx
 Architecture: iphoneos-arm
 Version: 1.1
@@ -4617,6 +4599,25 @@ SHA512: 25f48d695b11e7784a74299586b16de9eaaca61fc8c7ed988ec880aadc4e672bcab9486b
 Description: Additional Theme Pack for ReplyActions!
 Name: ReplyActions Theme Pack
 Author: sergy
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.2-1_iphoneos-arm.deb
+Size: 97118
+MD5sum: 57192c48221e641b698176d866e797ad
+SHA1: 694c1b97ed178a89496996f1ee4d5798bbd7838d
+SHA256: 3232688355a824baaa744ec35beca280888724d2648f78300a9616bc72f13fc7
+SHA512: 84a2c7e4ad31d6f32525b23bc7933c6474213141eec97f5096b7946113594a6f24e447d6dc026a1f3d675f86d5269c80f749b527e02e6d5db3ff05685de200ec
+Description: Automate alert actions.
+Name: AutoAlerts
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm
@@ -11557,6 +11558,25 @@ Author: shepgoba
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm64e
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: shiftcmdk
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.shiftcmdk.autoalerts_1.0.2-1_iphoneos-arm64e.deb
+Size: 307816
+MD5sum: 579d6fca5379aca9c28cbc0296b69ad6
+SHA1: d2eec3a7eb61508be95379564751010ede23d392
+SHA256: 48be943b26e907c3ffc4d5587a844c898920be35fcd4a6e9d214c6195bff9540
+SHA512: 13aeb7c1cca96da7aaec2b22d552ee0fd1a6174f62750a1c72507ddd1c8c11da13636c1c00c17619f9687b539b8850633f993152e902e7c30906444b9b56705f
+Description: Automate alert actions , it should now work perfectly on Dopamine and Dopamine-Roothide .
+Name: AutoAlerts
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm64e
 Version: 1.0.2
 Section: Tweaks
 Maintainer: shiftcmdk
@@ -17986,24 +18006,6 @@ Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
 
-Package: com.nef0pam.autoalerts
-Architecture: iphoneos-arm64
-Version: 1.0.2-1
-Section: Tweaks
-Maintainer: und3fy
-Installed-Size: 528
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/com.nef0pam.autoalerts_1.0.2-1_iphoneos-arm64.deb
-Size: 92306
-MD5sum: 82e0f8daa7df98bb0d85b4797667a6b2
-SHA1: 0d1589f8717facb4c8f148a1e00cec795cbae5b8
-SHA256: d13d6c670440801db239137e15ae71cfcc9a8e64ae50031ba2cc508e49a52d0d
-SHA512: ac435c06d5048e0af64f1cc2dcf1e88c16affc35bee04fb1b5881e31b6cbad2417137e92393c0f89a7fb0af24e86a68c70f32eb5c61ee68648ed406e3096fd31
-Description: Automate alert actions , an updated version for arm64e devices ; it should now work on Dopamine and Dopamine-Roothide too .
-Name: AutoAlerts
-Author: shiftcmdk
-Icon: https://cdn-icons-png.flaticon.com/512/8682/8682464.png
-
 Package: com.nef0pam.cacheclearerx
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -19553,6 +19555,25 @@ SHA512: 889664b666bd6d625fb10b5204b6f5154a462b40abf0e9bbf651478643bae4952e1cedfb
 Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm64
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.2-1_iphoneos-arm64.deb
+Size: 155444
+MD5sum: 5222da3be0ac588efad9f090871f702f
+SHA1: 54d3770b126ebccd8d47393357cc477f7986ad69
+SHA256: 6f03e5e083c1c39ea0125b02bd9d1dfda0512758f2dc269a736d190357e26ae0
+SHA512: 54c8a058d7a81f236690ee9b13cf1dd4871c3b4c7824759c9be5bd371bca89adf95c34dc258dcf2f2a38bdb73cab4770a2c590e635e21ae284b169f59a284d4e
+Description: Automate alert actions , it should now work perfectly on Dopamine and Dopamine-Roothide .
+Name: AutoAlerts
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm64
