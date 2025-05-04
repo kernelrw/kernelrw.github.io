@@ -3375,6 +3375,23 @@ Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScr
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
 
+Package: com.nef0pam.unc0verswitch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.nef0pam.unc0verswitch_1.0_iphoneos-arm.deb
+Size: 98948
+MD5sum: fd69108949339f1eade1b02ae19b55da
+SHA1: e6f240943eeb893e6a8afa20804e17b071a71db9
+SHA256: 5a265d45e8da8244bd97d4b29e5e34db0e486e91c2b8e28650aa268c6608f127
+SHA512: c735459f33c5bb3e47a587a484cefdbb9127a54d9f907410dcec014f438c88cfb6155c4ce49c92f23f9a9e8605b37b3d188eb8822ce7dcd7837e5e3075a6b792
+Description: Unc0ver Switch
+Name: Unc0ver Switch
+Author: Fadh1l
+Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
+
 Package: com.nef0pam.uranium
 Architecture: iphoneos-arm
 Version: 1.2.7
@@ -9882,6 +9899,24 @@ ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.
 Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.nef0pam.unc0verswitch
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Roothide/com.nef0pam.unc0verswitch_1.0_iphoneos-arm64e.deb
+Size: 99380
+MD5sum: da14dcfc9a519d1f8faa0a133b25a461
+SHA1: f4420a062a1949bd4ac4b5057306cc2d9b7ef67f
+SHA256: 51fb1ea2c4975ff41624910d46c2795c1d7e70093f4e2dc4c6869385a55d3a2a
+SHA512: 828be6235b509b14a820aea2fc299eb8d50a8cb1047a30c9493895c26c57345688994d2e3f298f9fbbe4c70dae5d5d598f26891070378df731e6c6d85142d263
+Description: Unc0ver Switch
+Name: Unc0ver Switch
+Author: Fadh1l
+Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
 
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64e
@@ -18002,6 +18037,23 @@ SHA512: 347a46ac197e33002e122dd18e5e48766a9bd466b133b456a69ee37badf9eeec61f427bf
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.nef0pam.unc0verswitch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.nef0pam.unc0verswitch_1.0_iphoneos-arm64.deb
+Size: 98964
+MD5sum: 488cf300570fbfb80feff8b9c0344a09
+SHA1: 55fe5f1a3e0e6a8792cbbf350c4a5efa62c0a9cb
+SHA256: 6e3503b8827432ad37b88b0fe3efc9e7c63289a5e0c5b05d83fc0d6e0d0e0bf7
+SHA512: 44242875814c9c5a12275e9fad81868fa610e472658259f51a7d6e41d7db2ebdc1283fc4297a230ed279ca58fa132e791cacedfc2e62a6f98ad72d9eae492081
+Description: Unc0ver Switch
+Name: Unc0ver Switch
+Author: Fadh1l
+Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
 
 Package: com.nef0pam.uranium
 Architecture: iphoneos-arm64
