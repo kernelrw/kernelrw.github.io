@@ -3402,6 +3402,23 @@ Description: Set the default homescreen page.
 Name: DefaultPage
 Author: DGh0st <deeppwnage@yahoo.com>
 
+Package: com.nef0pam.dopam1neswitches
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.nef0pam.dopam1neswitches_1.0_iphoneos-arm.deb
+Size: 279684
+MD5sum: 2d1829449b9c66c8d9b7b99cea7c37a4
+SHA1: 70acf390650a4c865609a391a20de8d931c112cf
+SHA256: 174568d0bba8e539bac98e9e26083ae1d80c1c0664ad14d882acd5cfe82494d1
+SHA512: 9e5b634fc23298710daf640e8126b5e422492bdb119810b38c7437ef32b8f3f143549cf0794075db4a3f0849d82b24d9bdacd1d6c4c95d52d4c8f70ee011cc2b
+Description: Dopam1ne Switches
+Name: Dopam1ne Switches
+Author: Fadh1l
+Icon: https://pbs.twimg.com/media/GGeTEdgXgAAjkwr.jpg
+
 Package: com.nef0pam.gasolina
 Architecture: iphoneos-arm
 Version: 0.3.1
@@ -9971,6 +9988,24 @@ SHA512: 758eba6f4c26aaaaa8f03cf4bc3c660aa4876f844d5416555d1079947dbb374aa2802eb8
 Description: Set the default homescreen page.
 Name: DefaultPage
 Author: DGh0st <deeppwnage@yahoo.com>
+
+Package: com.nef0pam.dopam1neswitches
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Roothide/com.nef0pam.dopam1neswitches_1.0_iphoneos-arm64e.deb
+Size: 280744
+MD5sum: 2e1b8457f4c436109aea70e3fe1c82e8
+SHA1: 712ef035e5574708ce7f8d0480c647d7e2757fc1
+SHA256: c5f77050fee446ca2d146307ab6ec242cfcd7f839d844960c4971d233be966fd
+SHA512: b241d5b74e1e30b32349ddd73653bd7a30dbe75010b9c8dc1f7e72936a21a97123a80dbee975bdcaaf88ea287c27e9cf2dc97451ffe8b769f9ec7e4772c4f26b
+Description: Dopam1ne Switches
+Name: Dopam1ne Switches
+Author: Fadh1l
+Icon: https://pbs.twimg.com/media/GGeTEdgXgAAjkwr.jpg
 
 Package: com.nef0pam.limitcharging
 Architecture: iphoneos-arm64e
@@ -18165,6 +18200,23 @@ SHA512: f98e50314fb7488a2cbc3e5bfe0f7cc62f3e7f595c21e34168dd751b6c85885a4e46c24d
 Description: Set the default homescreen page.
 Name: DefaultPage
 Author: DGh0st <deeppwnage@yahoo.com>
+
+Package: com.nef0pam.dopam1neswitches
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.nef0pam.dopam1neswitches_1.0_iphoneos-arm64.deb
+Size: 279704
+MD5sum: dbc34e724dfa76b6ca879a8f89f9d3f6
+SHA1: ce008455a6e3af6b3a4cef4595aa80dff0c61ef3
+SHA256: 90d6cd4f098ae9706ccfad595f233a298f15f8fcfada93bd706cfe7280b0f33e
+SHA512: 64a35febd941f6d83c974e12e5c6bb16df5c90540538617c2007fb476e2945d468534cd44e9380c50e37ef281daca261f9caf9605129e50c85ec712898c48a64
+Description: Dopam1ne Switches
+Name: Dopam1ne Switches
+Author: Fadh1l
+Icon: https://pbs.twimg.com/media/GGeTEdgXgAAjkwr.jpg
 
 Package: com.nef0pam.gasolina
 Architecture: iphoneos-arm64
