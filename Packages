@@ -3336,6 +3336,23 @@ Description: No Apple MobileRepair
 Name: No Apple MobileRepair
 Author: xybp888
 
+Package: com.nef0pam.odysseyswitch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Rootful/com.nef0pam.odysseyswitch_1.0_iphoneos-arm.deb
+Size: 92764
+MD5sum: 6c03673565f6885fd744e73a3fdab75d
+SHA1: 1475a9ce8964bad8d57d5f14a544a3ded0fbf8c6
+SHA256: 79a44168f7f9d185e293813d8a8a6684a901c860b0f69f28ebfae2b7ac2a801f
+SHA512: 050ac45475533f529dc2af4bb28f1f86b70bf1d1a9457aba9aa4b5c2b5bda9b6abe2e9c57c934b97c0dd044e1e212e2dddf205932668ecd1c0d0009022150333
+Description: Odyssey Switch
+Name: Odyssey Switch
+Author: Fadh1l
+Icon: https://app.ipalibrary.net/wp-content/uploads/Odyssey-Jailbreak.png
+
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm
 Version: 1.0
@@ -9928,6 +9945,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: zqbb <w2599z@gmail.com>
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
+
+Package: com.nef0pam.odysseyswitch
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Roothide/com.nef0pam.odysseyswitch_1.0_iphoneos-arm64e.deb
+Size: 92580
+MD5sum: f4eb546c173b588c80b4d1140c934bb8
+SHA1: ddca15790676d8220e6a337299e19d6e3a897ddb
+SHA256: 660eef38822100b7aa91545f8c5929e37dacbb3686948c27540827834102e285
+SHA512: 58afff5387846faea4b3e35941c0c4963bd1adcab7fe495a90e959a2946a998abde608a09f0890622f1cee020456e16ec9a217837bece36b294fedfdd47f2439
+Description: Odyssey Switch
+Name: Odyssey Switch
+Author: Fadh1l
+Icon: https://app.ipalibrary.net/wp-content/uploads/Odyssey-Jailbreak.png
 
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64e
@@ -18068,6 +18103,23 @@ SHA512: 90315ca8dc6c8581475a84039441ccb5805e73884a2c90b71222098275e549aa6a11590d
 Description: No Apple MobileRepair
 Name: No Apple MobileRepair
 Author: xybp888
+
+Package: com.nef0pam.odysseyswitch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Rootless/com.nef0pam.odysseyswitch_1.0_iphoneos-arm64.deb
+Size: 92748
+MD5sum: 39f15c4e9e3edd50d37b1e4e9c89a01c
+SHA1: 1ed230feb43bd899db179b576796fe4cbcdfd885
+SHA256: fbb2b2d24aa5a51294a67dd0f7396a5f66b54a857aef7a05ec65293b26b26ba5
+SHA512: 6f2786c2cd2b1a32c7093b07a4e0fac29aa216ffe6e310d93abc07d790fcd5c2c111a57540ea6b0de5b06e9a44c00104cb5ebcd053c9cb95db2576ebdf974e4e
+Description: Odyssey Switch
+Name: Odyssey Switch
+Author: Fadh1l
+Icon: https://app.ipalibrary.net/wp-content/uploads/Odyssey-Jailbreak.png
 
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64
