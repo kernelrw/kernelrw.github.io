@@ -3523,6 +3523,23 @@ Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
+Package: com.nef0pam.xinaa15switch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Rootful/com.nef0pam.xinaa15switch_1.0_iphoneos-arm.deb
+Size: 261560
+MD5sum: d8bfa134a4550e06706a525c7b75886b
+SHA1: 5c36392900446847b98b2826a9264e9a8ba6bd6b
+SHA256: ad376e1f0fdfe9d00786db325ebe10eb7da3de9aa3bea18cfc8fd5ef8910583d
+SHA512: 13869383d2f5d7e625b8ef0dc779f0e29cac54f52fb05b603f9231c322128d4609ebf271f758d367c49a51af287740c4ccc7cd61e141568437534dd72805496d
+Description: XinaA15 Switch
+Name: XinaA15 Switch
+Author: Fadh1l
+Icon: https://ipaomtk.com/wp-content/uploads/2024/06/photo_2024-06-07_15-21-53-300x300.jpg
+
 Package: com.netskao.appdata
 Architecture: iphoneos-arm
 Version: 1.4.5
@@ -10057,6 +10074,24 @@ Description: Unc0ver Switch
 Name: Unc0ver Switch
 Author: Fadh1l
 Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
+
+Package: com.nef0pam.xinaa15switch
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Roothide/com.nef0pam.xinaa15switch_1.0_iphoneos-arm64e.deb
+Size: 261422
+MD5sum: de96452c400a01408414df07ea153e8e
+SHA1: d16f9dfdcb9bf5980b26084e887bced26a690b52
+SHA256: f8240abefcdcce0e11cb24a8649850eb15684eaeaa27410a141b78acf3ffe041
+SHA512: 80c4a124e193772dc014b548d18d0573e79d9109dc61665588b87119e8fb53ec957c6f1c1d4f4eb36b2776565deda995bb47405c254f9022cf27d02a9eab261c
+Description: XinaA15 Switch
+Name: XinaA15 Switch
+Author: Fadh1l
+Icon: https://ipaomtk.com/wp-content/uploads/2024/06/photo_2024-06-07_15-21-53-300x300.jpg
 
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64e
@@ -18325,6 +18360,23 @@ Description: A beautiful Dark mode theme for Laetus
 Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
+Package: com.nef0pam.xinaa15switch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Rootless/com.nef0pam.xinaa15switch_1.0_iphoneos-arm64.deb
+Size: 261584
+MD5sum: 22e29def1191beb32b9452dccfb73555
+SHA1: d47c20d2f37cec4ef28f0d7c8fc9a1e4bee8d266
+SHA256: 0f9117f11c7350a8cef9971b7f377c49dbdf12429e85a9425d99bd78615f85f2
+SHA512: 666caf7fa7a714810ff3977c0534703e078547545e4e65b38855e2af79b65200d6ed7afbb7da19c83a9749dcb2cb42786ce267a3453eaeb52a203d91005c5b2c
+Description: XinaA15 Switch
+Name: XinaA15 Switch
+Author: Fadh1l
+Icon: https://ipaomtk.com/wp-content/uploads/2024/06/photo_2024-06-07_15-21-53-300x300.jpg
 
 Package: com.nepeta.axon
 Architecture: iphoneos-arm64
