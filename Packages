@@ -3266,6 +3266,23 @@ Name: Dopam1ne Switches
 Author: Fadh1l
 Icon: https://pbs.twimg.com/media/GGeTEdgXgAAjkwr.jpg
 
+Package: com.nef0pam.electra
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Rootful/com.nef0pam.electra_1.0_iphoneos-arm.deb
+Size: 108140
+MD5sum: 59746294ff1bf4d4fcf7e3afde6a9854
+SHA1: d0aaec092cd05f96e50c3c641117453f00447c79
+SHA256: c5b88c368037029713b55fea1be3593beb9bb9895dd775bbd3e7159b68aa7cb8
+SHA512: 4e6c379527890a0cb3bee01314fb8509f57a4a57b85cc4b9d999475145820cff571acd01f996d4baf2a5f4074ab2da1d393571bae3473ef0c91bd1e8526fb5ca
+Description: Electra Switch
+Name: Electra Switch
+Author: Fadh1l
+Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
+
 Package: com.nef0pam.gasolina
 Architecture: iphoneos-arm
 Version: 0.3.1
@@ -9869,6 +9886,24 @@ Description: Dopam1ne Switches
 Name: Dopam1ne Switches
 Author: Fadh1l
 Icon: https://pbs.twimg.com/media/GGeTEdgXgAAjkwr.jpg
+
+Package: com.nef0pam.electra
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Roothide/com.nef0pam.electra_1.0_iphoneos-arm64e.deb
+Size: 108076
+MD5sum: 2ad6951e911f4a58e2e5fd215f746abb
+SHA1: 8ce0537f625fc246e44cff042a6d33f3971f2f76
+SHA256: 0dfe9c652c9afd4c934672b444b4689e9a2eba6753bd4955df6b92d755c8cb97
+SHA512: 30456fefa542f9bad8214ff8214c18b6f59b9b11ff701c96680f3ffb21acd37c1e768024f2595e316b2c51fe2f95689b62078781f4a60d8a178fe50b65e16ea1
+Description: Electra Switch
+Name: Electra Switch
+Author: Fadh1l
+Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
 
 Package: com.nef0pam.limitcharging
 Architecture: iphoneos-arm64e
@@ -17963,6 +17998,23 @@ Description: Dopam1ne Switches
 Name: Dopam1ne Switches
 Author: Fadh1l
 Icon: https://pbs.twimg.com/media/GGeTEdgXgAAjkwr.jpg
+
+Package: com.nef0pam.electra
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Rootless/com.nef0pam.electra_1.0_iphoneos-arm64.deb
+Size: 108148
+MD5sum: ef8c6f498107854ad09409c609b883a9
+SHA1: e9bde6e81d4affa9885843c3e945c4c73f918f20
+SHA256: 09ec309d918dc5c0b009dc4353ecd0aae61a64ef0535ee20a51c8415085c266b
+SHA512: a595192c4e2889db168cd309f9db5b7eb6901e2f0b58e0445b645fea5b2248b237b5c31f9a020a3d5d9d918436a024ea7262b177f0e6e333c2b539204774cc5f
+Description: Electra Switch
+Name: Electra Switch
+Author: Fadh1l
+Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
 
 Package: com.nef0pam.gasolina
 Architecture: iphoneos-arm64
