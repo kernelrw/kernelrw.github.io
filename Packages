@@ -3319,6 +3319,23 @@ Description: No Apple MobileRepair
 Name: No Apple MobileRepair
 Author: xybp888
 
+Package: com.nef0pam.palera1nswitch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.nef0pam.palera1nswitch_1.0_iphoneos-arm.deb
+Size: 80584
+MD5sum: e7a72e134199190ef82c6efd7766f6aa
+SHA1: 9cee610276466e857f21e6e895990d5a471eca26
+SHA256: 8e979d640132ccd8b357ff3645214bfd3f33718e331f1e068a53acdf97a035be
+SHA512: 3c186539d2e4ca0f03c8a418f012c05f227370c802a4668cb73b252962e13e4c0c77ea3da736977b7f810d3aef7a55578f7e581faa95ea12d919ceb6a730dc67
+Description: Palera1n Switch
+Name: Palera1n Switch
+Author: Fadh1l
+Icon: https://idevicecentral.com/wp-content/uploads/2023/10/palera1n.png
+
 Package: com.nef0pam.perfectsettings13
 Architecture: iphoneos-arm
 Version: 1.7
@@ -9876,6 +9893,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: zqbb <w2599z@gmail.com>
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
+
+Package: com.nef0pam.palera1nswitch
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Roothide/com.nef0pam.palera1nswitch_1.0_iphoneos-arm64e.deb
+Size: 81714
+MD5sum: e8f63ff46d72cc5143012a10b2bdbb98
+SHA1: d30f876b9747e337be5ac5f5f66c605cf83dd1a7
+SHA256: 3ba1e8f7f7d749aaec8715eaf07cd634eb0edc79b00364fb76ebc81496cda353
+SHA512: f24e17bfabcdcde781c0f48a9a1daf6da09b79297da69515c42280ec4096fb4daae4e979ca6bf154d327e918ef3aa38c83ebf117b33e7c4822cb311252eaa226
+Description: Palera1n Switch
+Name: Palera1n Switch
+Author: Fadh1l
+Icon: https://idevicecentral.com/wp-content/uploads/2023/10/palera1n.png
 
 Package: com.nef0pam.perfectsettings13
 Architecture: iphoneos-arm64e
@@ -17981,6 +18016,23 @@ SHA512: 90315ca8dc6c8581475a84039441ccb5805e73884a2c90b71222098275e549aa6a11590d
 Description: No Apple MobileRepair
 Name: No Apple MobileRepair
 Author: xybp888
+
+Package: com.nef0pam.palera1nswitch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.nef0pam.palera1nswitch_1.0_iphoneos-arm64.deb
+Size: 80604
+MD5sum: e82f35dd10337c765a3c32c971e4105e
+SHA1: 4adb80f5fd9348218f7c4c7c6526f7e93691994e
+SHA256: f0bed77f27b58635303acb717d034f4e330fa61a40d6a74cd0ff7948f895a26e
+SHA512: 2b489396f9cad6fa33a12073480cca5b6f8f913f8a3dabe0eab524cde8cac42b1b867461a70c8a1e32a6f8433f9fd3f4ec3bbd319fdae2ad45d0efb27a6da70c
+Description: Palera1n Switch
+Name: Palera1n Switch
+Author: Fadh1l
+Icon: https://idevicecentral.com/wp-content/uploads/2023/10/palera1n.png
 
 Package: com.nef0pam.perfectsettings13
 Architecture: iphoneos-arm64
