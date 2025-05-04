@@ -3392,6 +3392,23 @@ Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/ico
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
 
+Package: com.nef0pam.roothideswitches
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Rootful/com.nef0pam.roothideswitches_1.0_iphoneos-arm.deb
+Size: 472444
+MD5sum: fb438a1ea681948879b88f11a48a9080
+SHA1: 7595625116454066ecdfc52464e93ac63fc803c4
+SHA256: 858ffa0cabe2ac85411a3603a88a0ee4e471cd0b0514ceb7249c0858fac9f182
+SHA512: c292114c2fe78fbd147219df65bc9fbe5d59ee85cb0ea7a1f95b7d4c3a1df4f3633fc36728223da57f1571c095d80bb9d700c14e2568d7b50401656754c4e69c
+Description: Roothide Switches
+Name: Roothide Switches
+Author: Fadh1l
+Icon: https://theapplewiki.com/images/applewiki/thumb/c/c6/Dopamine-roothide_Icon.png/800px-Dopamine-roothide_Icon.png
+
 Package: com.nef0pam.selenium
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -10004,6 +10021,24 @@ ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.
 Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.nef0pam.roothideswitches
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Roothide/com.nef0pam.roothideswitches_1.0_iphoneos-arm64e.deb
+Size: 472900
+MD5sum: 81b57b0cd767b329a41eb3685e019a66
+SHA1: 67a7418af40147b458f277ff25c116243fcdebfd
+SHA256: 5d5e70e7f8c5aede94f3c831252b21e15a1b925f7848d529b1ee4448dd0bac02
+SHA512: 15f73efcab2296f167f12363d6af23af00332df1586a00459107aa7d2fc7cac8edff73cb7110b3f0ea82e792518a1dc4b7a660e75a0ea695055403cfc42f35bf
+Description: Roothide Switches
+Name: Roothide Switches
+Author: Fadh1l
+Icon: https://theapplewiki.com/images/applewiki/thumb/c/c6/Dopamine-roothide_Icon.png/800px-Dopamine-roothide_Icon.png
 
 Package: com.nef0pam.unc0verswitch
 Architecture: iphoneos-arm64e
@@ -18159,6 +18194,23 @@ ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.
 Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.nef0pam.roothideswitches
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 11.0)
+Filename: ./debians/Rootless/com.nef0pam.roothideswitches_1.0_iphoneos-arm64.deb
+Size: 472476
+MD5sum: 7088f8afe301e6ee53aeadd2716dc884
+SHA1: 32065ffed6b65613cd4070157480c3942d33dc7b
+SHA256: e79ae5d737bec4d4f83683229ee1e154de0458a84b4cdf7f3adab711f959d4c5
+SHA512: ccb2ab07795d367871eafee98b87932eda3f57dce847b3c76f187674bd33a0fa0e47de310852c258a7e1398a0ca506bd19bed2f2780cd7d16583db76af4a803d
+Description: Roothide Switches
+Name: Roothide Switches
+Author: Fadh1l
+Icon: https://theapplewiki.com/images/applewiki/thumb/c/c6/Dopamine-roothide_Icon.png/800px-Dopamine-roothide_Icon.png
 
 Package: com.nef0pam.selenium
 Architecture: iphoneos-arm64
