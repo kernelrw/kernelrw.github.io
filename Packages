@@ -3368,6 +3368,23 @@ Description: Checkra1n Respring Logo ; supports iOS14.0 ~ iOS16.7.10 .
 Name: Checkra1n Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
 
+Package: com.nef0pam.checkra1nswitch
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Themes
+Maintainer: Peterpan
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.nef0pam.checkra1nswitch_1.1.1_iphoneos-arm.deb
+Size: 16540
+MD5sum: aaac5781c6473babd8f30f202a8139b7
+SHA1: 65cda672044d5c4b00c942453f0cfc91491e6167
+SHA256: ec6d0c2e2f9cf1a0c783148e61556b47f329612487e71b6715b4586033df82ad
+SHA512: 8a18b76cc4e7f0acd4cd817defcda87e852304b36fbae3ac1c3a4cc8843ff6cd73d0ac1d5a2828b6bc34bea0f511f63ba59fad5968c45abbac7b8c44cc387c87
+Description: Checkra1n Switch
+Name: Checkra1n Switch
+Author: Peterpan
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2F8ec19ac96a7222c0621842cac91deee2.jpeg&s=180x180&f=webp
+
 Package: com.nef0pam.defaultpage
 Architecture: iphoneos-arm
 Version: 0.0.23
@@ -9919,6 +9936,42 @@ Description: CC toggle to respring
 Name: RespringCC
 Author: Nathan
 
+Package: com.nef0pam.checkra1nswitch
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Themes
+Maintainer: Peterpan
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Roothide/com.nef0pam.checkra1nswitch_1.1.1_iphoneos-arm64e.deb
+Size: 17816
+MD5sum: 53cc43dccd4b755b278d8e163bc34d35
+SHA1: d17f568baf093813a3b8865c206a1d5655653cd3
+SHA256: f23747989140dcf64a4d1e6c6438f8ea267a588866d420c40d04eb258efef15a
+SHA512: 0f069342f049d8fd0d29fa58e53e69092a4372001393e545b396da265dc410792d05f7da0bac8cd86f3b5c027c8404fcfe0894da5870f71f0864c7c7a39dc1bb
+Description: Checkra1n Switch
+Name: Checkra1n Switch
+Author: Peterpan
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2F8ec19ac96a7222c0621842cac91deee2.jpeg&s=180x180&f=webp
+
+Package: com.nef0pam.defaultpage
+Architecture: iphoneos-arm64e
+Version: 0.0.23
+Section: Tweaks
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, applist, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.nef0pam.defaultpage_0.0.23_iphoneos-arm64e.deb
+Size: 21116
+MD5sum: d6338c306d754622643c986aab7a2cbe
+SHA1: 9724d46b41418bd21c47cbdc872f7950de5d99a6
+SHA256: a1a825387f9080639836dccbe4a966ae880e6f121ae4bc55c2bf9c0140faab94
+SHA512: 758eba6f4c26aaaaa8f03cf4bc3c660aa4876f844d5416555d1079947dbb374aa2802eb84c84568c18f8260e83b8c791036b780f1e18a622006b9db3f2223c7a
+Description: Set the default homescreen page.
+Name: DefaultPage
+Author: DGh0st <deeppwnage@yahoo.com>
+
 Package: com.nef0pam.limitcharging
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -9942,6 +9995,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: zqbb <w2599z@gmail.com>
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
+
+Package: com.nef0pam.perfectsettings13
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.nef0pam.perfectsettings13_1.7_iphoneos-arm64e.deb
+Size: 282984
+MD5sum: 52dd4f8c1c7134e811f420a31b449a57
+SHA1: 48c6abfb7253f7cebc7f7ec36a43619e7ff3ed84
+SHA256: b8b6ff633267d304cc8be4732836ba73125bc480653677da725cb51c837ee7e6
+SHA512: 0462cc42fe9700ed89432236910b9d5b4aceeb4d7ed7923b2bdc2b3536278ce857d449a2122916473c4d3089278635892487efacd1ccdd37a392efff54f086b9
+Description: Organize Main Settings Page To Categories, Show Extra Information On Main Page About IP Address, Used Cellular Data, Disk Space, Battery Health, Custom Title, Hide Cell Arrow Icon, Hide Cell Separators, Hide Update Badge, Circle Settings Icons, Hide Icons, Disable Edge To Edge Cells, Round Search Bar, Hide Search Bar
+Name: PerfectSettings
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectsettings13.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectsettings13.json
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64e
@@ -18055,6 +18131,23 @@ SHA512: 094208328412571439eee550883dfc1c1bf52490602c8c08641f5b4aa7815ed5fe4ecc55
 Description: Checkra1n Respring Logo ; supports iOS14.0 ~ iOS16.7.10 .
 Name: Checkra1n Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.nef0pam.checkra1nswitch
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Themes
+Maintainer: Peterpan
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.nef0pam.checkra1nswitch_1.1.1_iphoneos-arm64.deb
+Size: 16552
+MD5sum: e8e8285a29cf8d407ea0a18275db2400
+SHA1: bff855538635ed8d2be8874f8360ed579cf9448c
+SHA256: 8fdbd7b951ce0bbe3eff03f228a49ae54c526ae836b361b1c7ea723eb2120912
+SHA512: 9c18bfdc1f47b882797b9e2d0d3c701f59a3002ebd01c012afec008e378080d9dd673b19a5f7c17716be878cb7e4a3a9c2d41d58a867a8343bc664bc9f452308
+Description: Checkra1n Switch
+Name: Checkra1n Switch
+Author: Peterpan
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2F8ec19ac96a7222c0621842cac91deee2.jpeg&s=180x180&f=webp
 
 Package: com.nef0pam.defaultpage
 Architecture: iphoneos-arm64
