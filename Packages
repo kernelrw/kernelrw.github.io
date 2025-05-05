@@ -3400,11 +3400,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 272
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist
 Filename: ./debians/Rootful/com.nef0pam.powercuff_0.1~mario.18_iphoneos-arm.deb
-Size: 23508
-MD5sum: e1899d00db603454ef08ebbb0e85e036
-SHA1: e605ff9eff4f1c071e023bd3d9c1ea17e9fc264c
-SHA256: e262fb86b3878d94f3ceb7e15c4321760f6baf6db2fbdf802d9176a629b0bbbb
-SHA512: 4caea2fa6b5d3690a313cce4749c7dd65e8ac81cc1a87fc6524967fd7dfbe0e6eb8f547fcee6841d899b1fbf46ebab7ed566fd6413ff473a294e799c356d409a
+Size: 19324
+MD5sum: 3929c70824cfc83d49200e164c94a1b7
+SHA1: fbec9f4bd4403e1161d20c6458b11a3014570f01
+SHA256: 20398f69e2e6b538b3126d9565cc80d9d74f140935d78f6f56c84cd482a2dee3
+SHA512: e753500930766fab1c9f1b9d985617726111f38bb38b5016c78b8b79790563a5abf3cc2e22deda739b36e17aa73c4c4b712fce0b9680dd23a6a10576db7a1917
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
