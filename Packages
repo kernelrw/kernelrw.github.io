@@ -1685,25 +1685,6 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 
-Package: com.dvntm.rma
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 404
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.dvntm.rma_1.0_iphoneos-arm.deb
-Size: 25102
-MD5sum: a85f2f54b7f4b8af6d7edcbed57e8dc0
-SHA1: 82aa806fb7e6c6fc1277ae2c46abcf3fd519e7ab
-SHA256: 4acaace0433c7595333fc6a878209c3c6c140572a75a45ad62c786fce0d3f342
-SHA512: cb343f8c03f75a07ea9255477c5104ae3f6f52b9e4617d2badb5114217c73a684465cdb3f2d1b6d8226bdab261360686de2d4775eb8aaff08db1f31dadf16868
-Description: A Lightweight Reachability Manager
-Name: ReachMyAbility
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/main/Resources/depiction.json
-
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -3410,6 +3391,25 @@ ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.
 Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.nef0pam.rma
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 404
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nef0pam.rma_1.0_iphoneos-arm.deb
+Size: 25164
+MD5sum: 1a9726f0edb6c8086d1e9f5f50f9c269
+SHA1: 18f7844f3c7bfc098d47d6b554041dbde0480145
+SHA256: a07af5b3b95f2ca6967f6ec84f41393f46f33d12a7107c1cded4ae688dd6538f
+SHA512: 7d4f94f7cf48bb26fdb2c208aad334fa096d7b2c0d5b4f7f4b6ab32c3cf3b6e3bb156c275b67e0aae079ba317e46c1f9fea1b8777956b056b335c13f6295784c
+Description: A Lightweight Reachability Manager
+Name: ReachMyAbility
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/main/Resources/depiction.json
 
 Package: com.nef0pam.roothideswitches
 Architecture: iphoneos-arm
@@ -7953,25 +7953,6 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 
-Package: com.dvntm.rma
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 404
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Roothide/com.dvntm.rma_1.0_iphoneos-arm64e.deb
-Size: 24126
-MD5sum: 04a9ddd5ad2af6b93d95cdfd82f3cfc4
-SHA1: ad7581161f6a96fb181b1a1a9fe027a84b1dbe0c
-SHA256: a1ba248c6a216e41960dd5b717554c3b51c61f585a24a9a939e067a991cce829
-SHA512: 180042e01bbb875a83a01b65cc25e1ff847825d39290dee128981bed20d48ae3d266b6579dd42dff3728e2a2d7f3ed26a7cbf3acffb5b07c8b7fe7a03716282a
-Description: A Lightweight Reachability Manager
-Name: ReachMyAbility
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/main/Resources/depiction.json
-
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64e
 Version: 5.1
@@ -10076,6 +10057,25 @@ ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.
 Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.nef0pam.rma
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 404
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nef0pam.rma_1.0_iphoneos-arm64e.deb
+Size: 24236
+MD5sum: e7718f950d896853983efee38c06b863
+SHA1: ad264cedbbf2a268850ed5c6de9cc6a61b35d2f8
+SHA256: a431c17c7d8a27208689fef2e800acff722c21e52592df70a69327602ecdda28
+SHA512: 6d86558372137c212ada2bf8011206225293f3475b12828eb2156aa780e3e8aca386b8132e0410724d047325956cc315408a15cee78145646f6644bebd37592d
+Description: A Lightweight Reachability Manager
+Name: ReachMyAbility
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/main/Resources/depiction.json
 
 Package: com.nef0pam.roothideswitches
 Architecture: iphoneos-arm64e
@@ -16018,25 +16018,6 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 
-Package: com.dvntm.rma
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 404
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootless/com.dvntm.rma_1.0_iphoneos-arm64.deb
-Size: 25154
-MD5sum: 464c989f285e521cec3baa91d2b7098e
-SHA1: 354f146e3582297bb24489652abecd4cfacc2334
-SHA256: acf32711e773ab1a636e850e4e30a9b9a65d1cb98d49a7443df8742d88efe5fe
-SHA512: 3bb79ccf6422986027354a9989d8670967f0209045a380c3b69eb6ddf5af284d34a25cf6d33affc2896209091281156199f1b9b8b7a9e5fad19e9962f234d6d3
-Description: A Lightweight Reachability Manager
-Name: ReachMyAbility
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/main/Resources/depiction.json
-
 Package: com.dvntm.showmytouches
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -18306,6 +18287,25 @@ ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.
 Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/icon.png
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.nef0pam.rma
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 404
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nef0pam.rma_1.0_iphoneos-arm64.deb
+Size: 25284
+MD5sum: 87406465d9409ce2ea369263b37bfafb
+SHA1: ea867f10d401ea039924c3df9f9a212cee34809a
+SHA256: 85822e6abfe47ebb8479bac0b33a778156246f397323ae7b2eddd105db95b7a7
+SHA512: b5abab7dff37167a73e189d5ea4e0b0b6f3d6b207d4eec0e7ce5a73a1dfcd36b0321b33d5c59937b2664e4f62a46c03d689817f045c7c734ba7d1c7f8f0ded04
+Description: A Lightweight Reachability Manager
+Name: ReachMyAbility
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/main/Resources/depiction.json
 
 Package: com.nef0pam.roothideswitches
 Architecture: iphoneos-arm64
