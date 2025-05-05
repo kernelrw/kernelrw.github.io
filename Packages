@@ -3400,11 +3400,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 272
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist
 Filename: ./debians/Rootful/com.nef0pam.powercuff_0.1~mario.18_iphoneos-arm.deb
-Size: 19324
-MD5sum: 3929c70824cfc83d49200e164c94a1b7
-SHA1: fbec9f4bd4403e1161d20c6458b11a3014570f01
-SHA256: 20398f69e2e6b538b3126d9565cc80d9d74f140935d78f6f56c84cd482a2dee3
-SHA512: e753500930766fab1c9f1b9d985617726111f38bb38b5016c78b8b79790563a5abf3cc2e22deda739b36e17aa73c4c4b712fce0b9680dd23a6a10576db7a1917
+Size: 19376
+MD5sum: 2e6240aa86296452b9999f4d298da9bf
+SHA1: 5a09a1fad189534d95bea1434ffac66756478be6
+SHA256: 38e2ff1fa6ab85c35ff7bc3cf68c2a13161ab33f5e6a3639722537cf4582eee4
+SHA512: 836354382f715ad729a8a76dc835d4108cfcd957980ae234a1de1f1da42151bab6372dbd0496efcba3e6fbef0419bb406c42bef8dd69400a420a25a4831ffce5
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -3413,6 +3413,7 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+Icon: file::///Library/PreferenceBundles/PowercuffPref.bundle/Powercuff@2x.png
 
 Package: com.nef0pam.rma
 Architecture: iphoneos-arm
@@ -10089,11 +10090,11 @@ Installed-Size: 272
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.nef0pam.powercuff_0.1~mario.18_iphoneos-arm64e.deb
-Size: 20144
-MD5sum: b0e96cc1385dfecde0a85760dc253401
-SHA1: 668620797b7c1f157b0595b9cb4bbee73e226568
-SHA256: ceb3a86e8fb1033f1384f353fe6148a1ac57a4302ec815c225dfff77b312346c
-SHA512: 864454c6dd07fd9eb1cad19a49f38322b9624651d1dd4376d5b3c2a6ab45e52440c6492bfd82b90e20f33ed73f8ec67030dfdba1ba73ff28ba401280d60317dc
+Size: 20200
+MD5sum: 981737d2fd7682d5f9d712d938f31f76
+SHA1: 58a4882f5f3d09e80cbbaad538e84d06acf40968
+SHA256: ba588b0e6374e046cb06e3b6f543f96366942ce35af7a691f07d62908e346a2d
+SHA512: 1bfa64ebd0f691ea4d07179f04ea5b621de75d32e2aa6757aa3c8939ffeea71061a8b5558775f9dad5ac4740ae1c47930e26112e199691f629fc6c2f95140819
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -10102,6 +10103,7 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+Icon: file::///var/mobile/Library/pkgmirror/Library/PreferenceBundles/PowercuffPref.bundle/Powercuff@2x.png
 
 Package: com.nef0pam.rma
 Architecture: iphoneos-arm64e
