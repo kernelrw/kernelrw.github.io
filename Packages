@@ -3388,6 +3388,40 @@ Name: Odyssey Switch
 Author: Fadh1l
 Icon: https://app.ipalibrary.net/wp-content/uploads/Odyssey-Jailbreak.png
 
+Package: com.nef0pam.oldsettings
+Architecture: iphoneos-arm
+Version: 0.0.1-experimental
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nef0pam.oldsettings_0.0.1-experimental_iphoneos-arm.deb
+Size: 4492
+MD5sum: 14cf7680281673ed2565c4a39929afbf
+SHA1: 557f1d7964771bf310b416ada6a58f47cefcd025
+SHA256: 2c4ad074fce8022267b531045442a96ce1c4391a7962ba8499be6c6f1b21edbc
+SHA512: aacb06ece3155ea4615ea0a1d7477666bfd34d3a59475992cf2003757f8519fb33acb3a9a565c31e977a5d6e15bf42f77d5ede260bd2d279f986e3813630c1e9
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
+Package: com.nef0pam.oldsettings
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nef0pam.oldsettings_0.0.1_iphoneos-arm.deb
+Size: 3752
+MD5sum: 9e4b146692394d8671616ef01a5ac359
+SHA1: c0e9cd55465f69b4b33f2226e1978b372f06ac83
+SHA256: 0f5dd5854fb6a5b6144752b668994ebe6caa361c72b323b8441169f30aecb1e2
+SHA512: 9c8be395e0471450365408edc352c098242a366762e3221302791b43a117b3dc066b5831b3acb3d67eb567c822bf2691330b956c1efeca2a35ef0bdf66864d77
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3835,40 +3869,6 @@ Description: Colorize the music player on the lockscreen on iOS 16!
 Name: MusicPlayerColor
 Author: Nightwind
 Icon: https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon.png?raw=true
-
-Package: com.nightwind.oldsettings
-Architecture: iphoneos-arm
-Version: 0.0.1-experimental
-Section: Tweaks
-Maintainer: Nightwind
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.nightwind.oldsettings_0.0.1-experimental_iphoneos-arm.deb
-Size: 4236
-MD5sum: c7de9d2940a1115fe3f9b5de2f512d53
-SHA1: 285e8f5bbd26a1233fb6cb16f5d6b9cd6a2fee3d
-SHA256: a542f935f61750f9e0c17f960e42e8d21473529c206553c1d749f0e62b20147c
-SHA512: f10fa2f9777cc1ee48a53a5a35476d32a6ba98b2eeb51eee4130a9bc9d9808097cd6cabf9e42a1a09b01fe84aa7656463cef7f6447e4f058d7cfa137b89a84ca
-Description: Return your Settings app back to iOS 14!
-Name: OldSettings
-Author: Nightwind
-
-Package: com.nightwind.oldsettings
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Nightwind
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.nightwind.oldsettings_0.0.1_iphoneos-arm.deb
-Size: 3644
-MD5sum: 611ee323dde8679f430f0cbc07058f29
-SHA1: 35396c6d077a56f5efd94dde34a8d3bb77843353
-SHA256: e9cd79e61d4cde31fe9400ebd96773f26afcf66ace2736b0d43b574b27ba3c08
-SHA512: 5b5ec2e1ef92e0cf7c5637363e55d6421fb364cc2c074d6715b3f111859c578476829427893b0b71dd9d359e8e0c08004fad730293805826d0fc8e3a4d3b0ab4
-Description: Return your Settings app back to iOS 14!
-Name: OldSettings
-Author: Nightwind
 
 Package: com.nightwind.powersettings
 Architecture: iphoneos-arm
@@ -10110,6 +10110,24 @@ Description: Odyssey Switch
 Name: Odyssey Switch
 Author: Fadh1l
 Icon: https://app.ipalibrary.net/wp-content/uploads/Odyssey-Jailbreak.png
+
+Package: com.nef0pam.oldsettings
+Architecture: iphoneos-arm64e
+Version: 0.0.1-experimental
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nef0pam.oldsettings_0.0.1-experimental_iphoneos-arm64e.deb
+Size: 5284
+MD5sum: d6f5076554ba9be424d87c45ab8e2d18
+SHA1: dd3c410a159b741a5af286bbb468f45793e19457
+SHA256: 4be3e0cbb0e96de077ebff07e98b566992d84359a8e7e42be4e0e62f8792034c
+SHA512: 7c9c0e3db6b0da383c3ef29e3d3150714b0048270301a0b1a5668df3f70a6b30366e30a156a07c6b114754807734f7581ac89902f1ae973e625511febcc9e2f6
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
 
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64e
@@ -18418,6 +18436,40 @@ Name: Odyssey Switch
 Author: Fadh1l
 Icon: https://app.ipalibrary.net/wp-content/uploads/Odyssey-Jailbreak.png
 
+Package: com.nef0pam.oldsettings
+Architecture: iphoneos-arm64
+Version: 0.0.1-experimental
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nef0pam.oldsettings_0.0.1-experimental_iphoneos-arm64.deb
+Size: 4396
+MD5sum: d62b3d123d46555641d434ce9ac9700a
+SHA1: f3a74d7782b27c19530330bec708ae8fc8ebb172
+SHA256: bded6215d633405d75587e8ef5c2f5a1dfa1a6f4cddd8e80de522f41633830ba
+SHA512: 19700e8b0f015a8daf59bb13577112d5037ae1c7bad213f7e9e5c1b2ec73d4aeae0b21848a95bd6155cfbcecfff540c9b671d38f1161a9d359912686e9685d8b
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
+Package: com.nef0pam.oldsettings
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nef0pam.oldsettings_0.0.1_iphoneos-arm64.deb
+Size: 3804
+MD5sum: dc7ea808f345cfb8919da556929e3c8e
+SHA1: c4b6f57dd8d3c603ef8c9ac0d6622c9cc607d1c7
+SHA256: df186721aeb5a313584040450dd46919bc37cb2e8a5f8c290cd9bafe779bbcea
+SHA512: 328b6641d0b87009e91bd1de91e1739a1f80dfd94a918368cf2d425803ebd2f519495c406a598be7006c097392769702e13424ec788b1fd2954bc642abdaee30
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -18919,58 +18971,6 @@ Description: Colorize the music player on iOS 16!
 Name: MusicPlayerColor
 Author: Nightwind
 Icon: https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon.png?raw=true
-
-Package: com.nightwind.oldsettings
-Architecture: iphoneos-arm64
-Version: 0.0.1-experimental
-Section: Tweaks
-Maintainer: Nightwind
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootless/com.nightwind.oldsettings_0.0.1-experimental_iphoneos-arm64.deb
-Size: 4284
-MD5sum: a3db8326abae84940b1452dcb9128319
-SHA1: 6bc99adc4a49c10f5c5336026291cf1689ff0088
-SHA256: 085e1d73235931f5e56a3fd52f8420ef7e11ead2106b73d449ac19b4266421b5
-SHA512: b106a516bfeae4367197c3d89f67ddbae725bf8e3e53883758d40c0c60bde1d2636f731e6477919ab9acc94a67131d2baea7cede265347d3e4cbcfd8e54d1248
-Description: Return your Settings app back to iOS 14!
-Name: OldSettings
-Author: Nightwind
-
-Package: com.nightwind.oldsettings
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Nightwind
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootless/com.nightwind.oldsettings_0.0.1_iphoneos-arm64.deb
-Size: 3702
-MD5sum: 0899f32a5729ff4f071ac54ddcdb05c5
-SHA1: 09c4de90df65a374e998c5fe2c5d47dde24dd163
-SHA256: 14a48f4fd4a5dd21064aaa1344672cff1e4fa068e0dae2ec54107772dff3517c
-SHA512: f414693d5d279668e4fa02703e46fa3ac07ebb7dedb4301ec63e46e165a6448561f3a7d7fcbf13b90b819aa2dc974881a552f395f6ff458b0e06a27e391ce072
-Description: Return your Settings app back to iOS 14!
-Name: OldSettings
-Author: Nightwind
-
-Package: com.nightwind.powersettings
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Nightwind
-Installed-Size: 232
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
-Filename: ./debians/Rootless/com.nightwind.powersettings_0.0.1_iphoneos-arm64.deb
-Size: 26046
-MD5sum: 625d89c6bfe69ecb302db2680c506e31
-SHA1: d12c1c8bf9196373974da81829b311cd53d0ded7
-SHA256: ae19d8a1c180cb943df410b55ad7ca77f3bbb14cbf5a75d025829d8e389d9a82
-SHA512: a751bafa4310550d14c0a5228d97601f2246a042d8c33109d6bb292ef9ac03b08bea0e5f2de4f91c33938173da3ea17ca85bdbdbc496c45f7bb2cadc3be0fa81
-Description: A simple tweak to add power settings to the Settings app.
-Name: PowerSettings
-Author: Nightwind
-Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
 
 Package: com.nightwind.rootless-patcher
 Architecture: iphoneos-arm64
