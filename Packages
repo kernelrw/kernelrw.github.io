@@ -10129,6 +10129,24 @@ Description: Return your Settings app back to iOS 14!
 Name: OldSettings
 Author: Nightwind
 
+Package: com.nef0pam.oldsettings
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nef0pam.oldsettings_0.0.1_iphoneos-arm64e.deb
+Size: 5152
+MD5sum: 727e49ff9f274aebfba25eb935d35d42
+SHA1: 3a22b204ee4fac1eedafd92fa0be48a41adac2d6
+SHA256: 88ca92cfc15b73d0e8f7ba44cfce46f74e1893e72d6682b1203bfcafb640f7ff
+SHA512: 7b59a4b071e4695ba382eefb937161deb7dba3e1a9732807f1a3dbc6bd3e9e7a74aab8247695a24c76bcddd9cc9377e18c748772062465ceed31a0713e534ea6
+Description: Return your Settings app back to iOS 14!
+Name: OldSettings
+Author: Nightwind
+
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64e
 Version: 1.0
