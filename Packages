@@ -708,6 +708,41 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: asterix
 Icon: file:///Library/PreferenceBundles/DigitalNotchedBatteryPrefs.bundle/icon@2x.png
 
+Package: com.atwiiks.betterccxi
+Architecture: iphoneos-arm
+Version: 1.6.0
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debians/Rootful/com.atwiiks.betterccxi_1.6.0_iphoneos-arm.deb
+Size: 79296
+MD5sum: f7fdcf2c951f4b8bd2e3c2453d86cab5
+SHA1: 92a96eb560f85a512e8a301e85695fe7d648546f
+SHA256: dfadefa0ce06af11adb9a0f58a237f2d98c8fa10496f3ce674da6d4e855d911b
+SHA512: a01b2f9a785737142841093eec280b2e088bf19c7b0ed647d712de16122e791d79a4c668395f1d1ca61880cc5d745e88ccc27ca92643549c1b04eb3b8ed79ca5
+Description: Enhance your control center on iOS 11 and iOS 12
+Name: BetterCCXI
+Author: ATWiiks
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fcom.atwiiks.betterccxi%2Ficon.png&s=180x180&f=webp
+
+Package: com.atwiiks.betterccxiweather
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 172
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.atwiiks.betterccxi
+Filename: ./debians/Rootful/com.atwiiks.betterccxiweather_1.0.3_iphoneos-arm.deb
+Size: 15150
+MD5sum: 80317fb050044293504711515c9e2290
+SHA1: 38872b54a876383c32f3c9ba82a00c1adf47b0f6
+SHA256: ed809073ba40ff2f5097ccf68939030c81ae65c798d4560fde7c3ed5dafe642e
+SHA512: d012326cbd9190e07a3d8a595639f93b48009feb6b315e20c154516265fd1f98e854e28ef837ad064095654eac71ff208b8cc6cbec57a82d65170bbe590ba524
+Description: Weather Module for BetterCCXI
+Name: BetterCCXI (Weather Addon)
+Author: ATWiiks
+
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm
 Version: 1.0
@@ -7288,24 +7323,42 @@ Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 Depiction: https://chariz.com/get/veza
 
-Package: com.atwiiks.betterccxii
+Package: com.atwiiks.betterccxi
 Architecture: iphoneos-arm64e
 Version: 1.6.0
 Section: Tweaks
 Maintainer: ATWiiks
 Installed-Size: 640
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Filename: ./debians/Roothide/com.atwiiks.betterccxii_1.6.0_iphoneos-arm64e.deb
-Size: 106232
-MD5sum: 8fa843f4638579a379b5a30c7d7d59e5
-SHA1: 477e9b5db977f7db3996de0c3ce4747cad649432
-SHA256: b4e1f52f8aec9855b99683cf3946d79c4b1eae47642b03d5a8ddebb2eece771f
-SHA512: 3ad4c9e9cdff91120e040a853c61e4b5379726a9cbbcbf8ee7f0e27a93828d306a5a2753c90db0bb67d26b30dfeb583e4563f94a21e630178cd65be45fb65210
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64e.deb
+Size: 83632
+MD5sum: f98145659e713381eca5ffce1ade323c
+SHA1: ad6bfe31d9e3e110b5c586f0904d41f7d8ad3424
+SHA256: d31859d172e5812150b0e40fa36fe50b0f67e04a37cfe71e4d407f9da944d121
+SHA512: f9d49e56e0c0c8fb8296e6569fe8163e0c9e1b604d7a286386aae1eb6412cbb7a0524b1892b9407738662d7618ce5242e56dcaf249ae1aa32837d3a7976093e1
 Description: Enhance your control center on iOS 11 and iOS 12
 Name: BetterCCXI
 Author: ATWiiks
-Icon: file:///var/jb/Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fcom.atwiiks.betterccxi%2Ficon.png&s=180x180&f=webp
+
+Package: com.atwiiks.betterccxiweather
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.atwiiks.betterccxi, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.atwiiks.betterccxiweather_1.0.3_iphoneos-arm64e.deb
+Size: 21468
+MD5sum: 2237a3ae1b7c23ea1374fe1a3d7a7bbd
+SHA1: 44cedbc0c643eaa0a3d00a97001482bc593bea6c
+SHA256: 3140bb4f3e1282739f6409552772c3304471bfa7d20b592fffcc4477aa544b5d
+SHA512: e22cde618085bcc9d5604e9b1dcb965a5a0fb1ececb48cb06d94d2763fec06a32a106b0e88a54add36180a9dad7cb899e57ba02c4da5ade203c5dc2cf50a5ea5
+Description: Weather Module for BetterCCXI
+Name: BetterCCXI (Weather Addon)
+Author: ATWiiks
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64e
@@ -14965,23 +15018,40 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: asterix
 Icon: file:///var/jb/Library/PreferenceBundles/DigitalNotchedBatteryPrefs.bundle/icon@2x.png
 
-Package: com.atwiiks.betterccxii
+Package: com.atwiiks.betterccxi
 Architecture: iphoneos-arm64
 Version: 1.6.0
 Section: Tweaks
 Maintainer: ATWiiks
 Installed-Size: 640
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Filename: ./debians/Rootless/com.atwiiks.betterccxii_1.6.0_iphoneos-arm64.deb
-Size: 82632
-MD5sum: 6503036240f9f92a0c50e706d6d51d77
-SHA1: cfdc513e9e02df5917041c6cb25898ff923fdbf5
-SHA256: ad66db44b7debf1f1e72a48b9d48d9916b2a414c44ba17870841aa649b4998f9
-SHA512: 08b9200aa8e1ead2110aa08503a29c6eac22a1a873ccc2d0d4ce4c046ea04c5ebed2fc92d3738fb067dac20449c5f5239efd6483d0643857ef1da25fc3d29e21
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64.deb
+Size: 82708
+MD5sum: d3a2cc269704097681d7d746abae4985
+SHA1: 77e9a347b2fb819a11399239560d1636f1a68f66
+SHA256: 999069f0a04f7c5633db7a113998433f30f7bff5d31b051818e3ef9434b73672
+SHA512: ebad3a91f8c9f4d4f27077129e830ed965b738b3d37787cf753ffecc7a220edcb92617070e82abdeddb675a012125554b9fc52df840593c4db0907cfdb551890
 Description: Enhance your control center on iOS 11 and iOS 12
 Name: BetterCCXI
 Author: ATWiiks
-Icon: file:///var/jb/Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fcom.atwiiks.betterccxi%2Ficon.png&s=180x180&f=webp
+
+Package: com.atwiiks.betterccxiweather
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: ATWiiks
+Installed-Size: 172
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.atwiiks.betterccxi, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.atwiiks.betterccxiweather_1.0.3_iphoneos-arm64.deb
+Size: 16376
+MD5sum: 30294c7299cf2420a5546d3a8baa049a
+SHA1: a396774be36d0d202c85005390539902b9683a79
+SHA256: 08cfa119e9346ef591c45fd70499ebaa8479e0c151ce0b1889a2ef30615b2b15
+SHA512: a19291a730b10ba748a2ea3bf8dae721024a9d5efd9775e77c2f83c015ef570d6b0d56293b21961bb651d19a20a9e1947d4892c2ea494e34d770514a8cbe6297
+Description: Weather Module for BetterCCXI
+Name: BetterCCXI (Weather Addon)
+Author: ATWiiks
 
 Package: com.b4db1r3.omakase
 Architecture: iphoneos-arm64
