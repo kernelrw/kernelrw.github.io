@@ -2485,6 +2485,23 @@ Author: ifilipis
 
 Package: com.ifilipis.fckzck
 Architecture: iphoneos-arm
+Version: 1.0-17+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.ifilipis.fckzck_1.0-17+debug_iphoneos-arm.deb
+Size: 10134
+MD5sum: 17cd472653a3f913a27da6f566169e74
+SHA1: 42fcb7d712b8c54945d9b6aecb92d671a6a02abf
+SHA256: d1edf2ebad935958df5ea6650281abb5e2b0d63de9124771261ad1e0dad4c772
+SHA512: 0f2277cc58cef601ae333e30cc51969b7f102b01406ea69ad11d32f2badc31f0c02adb067576ec2d5b50122574717c6db457fa74e5ce47d4637bed8326306633
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
+
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm
 Version: 1.0-2+debug
 Section: Tweaks
 Maintainer: ifilipis
@@ -8797,6 +8814,24 @@ SHA512: 26abb84986e0149dada19acaeea761048243c866e7fc99829e8ecf2a7a48e49009b246c1
 Description: Automatically switch away from "everyone" AirDrop visibility after a set amount of time
 Name: TempDrop
 Author: iCraze
+
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm64e
+Version: 1.0-17+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.ifilipis.fckzck_1.0-17+debug_iphoneos-arm64e.deb
+Size: 9582
+MD5sum: 97a7ef5c905a808bd2bd8ddf38e08052
+SHA1: b0052e5df759c22372bc40d1e02c74f6b088c624
+SHA256: 05e3cc46bd9374583041678ec5056c700064cf889fdfafd7d423b7e2d9502134
+SHA512: afee8229dc490ba87678aea7f867df092bdc240fcc1feb335469b956234d08d38aa6ea272142b8d0a583dd8a5076edfe59e90306225d914d41035b800137b5cf
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
 
 Package: com.imkpatil.ezswipe
 Architecture: iphoneos-arm64e
@@ -17115,6 +17150,23 @@ SHA512: 335f780419f8bb9e082a55862433a06e11f9ffc59f28308fca0c676a16edce827c94f7cb
 Description: iPhone X gestures and iPad status bar for all devices
 Name: Gestures15
 Author: iCraze
+
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm64
+Version: 1.0-17+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 156
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.ifilipis.fckzck_1.0-17+debug_iphoneos-arm64.deb
+Size: 7560
+MD5sum: fa88eaff0a2ab765170d8c641171bd86
+SHA1: d966b507f1fd9e043ccf498d81cbb10fc865dbab
+SHA256: 68d7d5c616dc40599b3f37d55146a3c22a9ce26fb7ccff860714e4cd291deb67
+SHA512: a183e99e733c1e07a62a41800156435ad4dddcb42ffbc5030d4664b1a29d47f3f74d0d2f51e5102260045c3e82cc21adc884d9ad0bc0c6696b52bb6cb51db288
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
 
 Package: com.ifilipis.fckzck
 Architecture: iphoneos-arm64
