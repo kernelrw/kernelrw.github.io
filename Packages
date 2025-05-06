@@ -861,13 +861,12 @@ Section: Tweaks
 Maintainer: Castyte
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.castyte.iamchinese_1.0.0_iphoneos-arm.deb
-Size: 3540
-MD5sum: ca1aa65846c231be2ba8cb2d3a838c36
-SHA1: 6cb9fb2691866eb92b30182c92588ee55e97461e
-SHA256: 0a13803219c936b5611f0b8251ffed700497822b494674e7c7b1f05652508714
-SHA512: 2b54b3ec7dfdc887646d534562b6caec21aa1cb9e8321838e55e7583cf3e848dd361f12f2bc1f29fc621bdadbc3edb76832d1bfc56a9dd27e5b2f043030ba1fd
+Size: 3516
+MD5sum: e75ef10812704075dfb30d530e98b0a4
+SHA1: d96e82519bb06a423839207e1281145b9a28cb42
+SHA256: 8cb62d3c2039690f63af47715edde0beaf050c5ea8fd7d836a05d827f7a4681b
+SHA512: f609fa926502477e6e017bd4f8b7a5e51f0393fe9e505e37def933bd7e19ea33b2b808d1cb2558dcb784308f1c916bf11715b05499591386c010cf62b88d2027
 Description: Enables options to disable wifi in apps usually only available in China.
-Tag: cydia::commercial
 Name: I Am Chinese
 Author: Castyte
 
@@ -2733,22 +2732,6 @@ SHA512: f295432f67dd626c3744366b317bfae651a1a5ce0a7060576653e39dd85de3b3ea4c37f0
 Description: Test Package , Do Not Install .
 Name: Deep Clear
 Author: Kernelrw
-
-Package: com.kernelrw.iamchinese
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Castyte
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.kernelrw.iamchinese_1.0.0_iphoneos-arm.deb
-Size: 5502
-MD5sum: e539cdfcaa36c0947fc28b0578dd2511
-SHA1: aea6c60f7b77000d3c704f9957428a80b7fbf433
-SHA256: fa670d086aef3102d124802153901a0fec1b0e53465ce4f729c101d24cbcb93f
-SHA512: 2acc95b741c71c2a6b8e5281ad32f0fb9427e16dcdd96cf7886b2b2c93ec713e3e309acb2a6ef301c245c1d6cfb9f98eb39e101c879aab727305bd47383f79a7
-Description: Enables options to disable wifi in apps usually only available in China.
-Name: I Am Chinese
-Author: Castyte
 
 Package: com.kernelrw.magsafe
 Architecture: iphoneos-arm
@@ -13014,6 +12997,23 @@ Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
 Name: CCWiFiJoin
 Author: nqt1195
 
+Package: jetsamctl
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: System
+Maintainer: Nick Chan <towinchenmi@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 7.0)
+Conflicts: com.doregon.overb0ard-dev, com.kramerapps.jetsamctl, com.doregon.overb0ard
+Replaces: com.kramerapps.jetsamctl
+Filename: ./debians/Roothide/jetsamctl_iphoneos-arm64e.deb
+Size: 9138
+MD5sum: 3f13e82b7dfe96b9667b881223326683
+SHA1: 75172d1b6555a2f9aed03ec6aaed5da9ef810fef
+SHA256: 0d69f25e375b7fc9f4af433c50ef3049be7363163fc6df2c2386afd63c69b80f
+SHA512: 14384af88bd9f0ea3ab96bd9a4beeb2929554208a624e222b4c50e1f198080a2ffbcfc15f91cc929fa614bb02f5711dfa5f087ac36290b5ee8ddd266c66d3fc3
+Description: Take control of your device's memory.
+
 Package: jp.akusio.backgrounderaction15
 Architecture: iphoneos-arm64e
 Version: 0.1.0
@@ -21195,6 +21195,22 @@ SHA512: 4792401c1a2c74061470c5c108dc5ede4374343c43e1aa5d4e97c9d34347e9b95d09042d
 Description: Show Mac Address, WiFi RSSI & Join Network From ControlCenter!
 Name: CCWiFiJoin
 Author: nqt1195
+
+Package: jetsamctl
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: System
+Maintainer: Nick Chan <towinchenmi@gmail.com>
+Depends: firmware (>= 7.0)
+Conflicts: com.doregon.overb0ard-dev, com.kramerapps.jetsamctl, com.doregon.overb0ard
+Replaces: com.kramerapps.jetsamctl
+Filename: ./debians/Rootless/jetsamctl_iphoneos-arm64.deb
+Size: 7100
+MD5sum: eee3ea15ad7915c2d44c7877fd235941
+SHA1: cf11cb3cb817367084d509f3a4a11cf05a7de056
+SHA256: 376173f165752416294dda585f12452d6b07e5e644a51eb55e5a3ce93e3f77f2
+SHA512: a541578f151acbdda7cdba1383229507443eca95d17f938fd81b898a999bf5f6924e31c1216b95f7bd57ab60d560ecfc7ee589950f70456a85763b91ffcd6c44
+Description: Take control of your device's memory.
 
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
