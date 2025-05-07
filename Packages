@@ -3200,6 +3200,24 @@ Description: Weather Module for BetterCCXI
 Name: BetterCCXI (Weather Addon)
 Author: ATWiiks
 
+Package: com.nef0pam.blurify
+Architecture: iphoneos-arm
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nef0pam.blurify_1.0-8+debug_iphoneos-arm.deb
+Size: 10080
+MD5sum: ec2b09f5b19f0e2e3ead0d7339a17f8c
+SHA1: 50cf0a11bf876f7615ce44ac23f2075be44ad55e
+SHA256: 5e4bf07ed92b9732176d7f52a81590569926e2a06e84044970d0ec12c63b8b15
+SHA512: 96a7c08afbf1a2b3af4c8d401df5e09178cbd29d84f9c85f629a24aa4a7032e423599ee49b47a6bd5edc0130b4589df244c1c214dc9c2e67ab106df9a0d2f9e1
+Description: Hide private photos in your library. Unlock with Face ID, Touch ID, or passcode
+Name: Blurify
+Author: MrDeNsor
+Icon: https://www.shutterstock.com/image-vector/18-blur-censored-vector-background-260nw-1846563532.jpg
+
 Package: com.nef0pam.cacheclearerx
 Architecture: iphoneos-arm
 Version: 1.1
@@ -10030,6 +10048,25 @@ SHA512: b045e88f8262bdb23fe767f004eb74848caded42ca8483a7e6fe056edd7c13b803270633
 Description: Weather Module for BetterCCXI
 Name: BetterCCXI (Weather Addon)
 Author: ATWiiks
+
+Package: com.nef0pam.blurify
+Architecture: iphoneos-arm64e
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nef0pam.blurify_1.0-8+debug_iphoneos-arm64e.deb
+Size: 14016
+MD5sum: 87d3581be79f8fd28f6b641381beb37f
+SHA1: 87239ee423c4991dc23d227deb6a7343d3060830
+SHA256: 17e140f9b9838171ec9c146fd5d362f1cbf70b6bade861d5e689d81838c79e66
+SHA512: 276d9ddee500e08a2dd00a3f98cfa4ee728f8069bb820ccbd352f60e042eaa4002e86f0b2dabc856c85c3e61a32a670e49e3cdd3613580c3034864b58071711a
+Description: Hide private photos in your library. Unlock with Face ID, Touch ID, or passcode
+Name: Blurify
+Author: MrDeNsor
+Icon: https://www.shutterstock.com/image-vector/18-blur-censored-vector-background-260nw-1846563532.jpg
 
 Package: com.nef0pam.checkra1nswitch
 Architecture: iphoneos-arm64e
@@ -18335,6 +18372,24 @@ SHA512: 209064df0a9ab2c2a59895f98afa1fbcda5847bbac099f50c70a54081bd615622f8eba91
 Description: Weather Module for BetterCCXI
 Name: BetterCCXI (Weather Addon)
 Author: ATWiiks
+
+Package: com.nef0pam.blurify
+Architecture: iphoneos-arm64
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nef0pam.blurify_1.0-8+debug_iphoneos-arm64.deb
+Size: 10444
+MD5sum: 82f69abaacf58f8fbeea83202ca61fc6
+SHA1: 281261ed5d3b5e99462714dfdeacb02d28910155
+SHA256: 55d47bc71940abb8fdbdf48eddd8b16ce1463a104ddfffa3bcd95674578eea81
+SHA512: c5c748973e6aae73580414f2d4fcd999b93ce3dcfe1780e55e96d3fdc507b9937cbb69b226d8fc67c066d4ad520ab44514500e45e97b466d0ff924ccf6c8f5ad
+Description: Hide private photos in your library. Unlock with Face ID, Touch ID, or passcode
+Name: Blurify
+Author: MrDeNsor
+Icon: https://www.shutterstock.com/image-vector/18-blur-censored-vector-background-260nw-1846563532.jpg
 
 Package: com.nef0pam.cacheclearerx
 Architecture: iphoneos-arm64
