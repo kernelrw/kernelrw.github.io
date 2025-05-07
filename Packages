@@ -3318,6 +3318,40 @@ Name: Electra Switch
 Author: Fadh1l
 Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
 
+Package: com.nef0pam.firstlook
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debians/Rootful/com.nef0pam.firstlook_0.0.1_iphoneos-arm.deb
+Size: 5300
+MD5sum: 73f9410e59efb687c0bdc15ce9a8ad38
+SHA1: 4f3cabfb1168627dc50ee2ace0f3aa89cb8d3895
+SHA256: f1e6991b598fc4acb49436690578fd23dd88e22412929988be8603c5a5871b49
+SHA512: 213bef2156fb2330e8b3221d4784a73805000087d297b59efb2cece3c3929fa5792044dda91a0f3e452a302fdb10b5bcdbef83f0442ada219ab25cb097a5945a
+Description: First look for last look tweak
+Name: FirstLook
+Author: dvntm
+
+Package: com.nef0pam.firstlook
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debians/Rootful/com.nef0pam.firstlook_0.0.2_iphoneos-arm.deb
+Size: 6628
+MD5sum: c34bfc6172b0e3a33205bbdde3d31ff6
+SHA1: 2969e4a3d24b0c4ff89edf51f8d16cc99af8e508
+SHA256: 800370e0cec3dff095adb88b6919398be8d4018c9faed6a8e0c118db7e7c99b7
+SHA512: 1cf4eb732a4aca6e92a83682c5b8a78cf8920e354f685bc8c1febeea47ccd1eafe4e489e6675bbb8e173d13e499aca727d1ee4a5e035eee30c93ecc6e6b0d32d
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
+
 Package: com.nef0pam.gasolina
 Architecture: iphoneos-arm
 Version: 0.3.1
@@ -10068,6 +10102,42 @@ Description: Electra Switch
 Name: Electra Switch
 Author: Fadh1l
 Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
+
+Package: com.nef0pam.firstlook
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debians/Roothide/com.nef0pam.firstlook_0.0.1_iphoneos-arm64e.deb
+Size: 6276
+MD5sum: 12300f45dfbbb81589297261b3db1e85
+SHA1: 6f10d25bc18f3c67b78f2e1db1fbafcd9043a869
+SHA256: 9bf556f5dec84cb4a67b5be9a4f690177d1a984f622c490615564987b09b31a0
+SHA512: 0db9407ea7d075ceeb7559ae1b15b141333979cbabd7aa2d83eafbbabe4199a3f6aa0f13fc148bd1fe0d3d3c8ec2a6117684befb3163e1fd9f65a23af3143cfa
+Description: First look for last look tweak
+Name: FirstLook
+Author: dvntm
+
+Package: com.nef0pam.firstlook
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debians/Roothide/com.nef0pam.firstlook_0.0.2_iphoneos-arm64e.deb
+Size: 7628
+MD5sum: d19a88bad6ad9d73c8e8ca8935ebdb27
+SHA1: c39a530c430a2d69ea055d5fce1aaa960eef23ce
+SHA256: 608a470c27d0fb9c0cc3b2c636d6d8cbc653226c8cc9caf904713705f01cbc43
+SHA512: 488d412027fd8709bbb669b52835b65f492aaf9f933629ba52ef6e82ba74efede1a792ea565669ada7208562db745bd9ee08c413b6d02b398ae342d60ff4c427
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
 
 Package: com.nef0pam.limitcharging
 Architecture: iphoneos-arm64e
@@ -18383,6 +18453,40 @@ Description: Electra Switch
 Name: Electra Switch
 Author: Fadh1l
 Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
+
+Package: com.nef0pam.firstlook
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debians/Rootless/com.nef0pam.firstlook_0.0.1_iphoneos-arm64.deb
+Size: 5372
+MD5sum: 5f47d26b23ccf5177f3173902006caa6
+SHA1: ff68697b00d1233b29fe045b98c46d6b27906b14
+SHA256: e758052654bf1622a9a9440c280b4c9f8c959ad119538b0f8e2ad8ffa4f368fb
+SHA512: e51f46b790b378acee49051ba9148ce6633f0433e262a5d50efaf4f7ef91e47bfc3babe754e2a03444fa6a3cf63a16c4e25f6606037df2511cf6144c61845ac0
+Description: First look for last look tweak
+Name: FirstLook
+Author: dvntm
+
+Package: com.nef0pam.firstlook
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debians/Rootless/com.nef0pam.firstlook_0.0.2_iphoneos-arm64.deb
+Size: 6700
+MD5sum: c9911897b5f6c42ea7108674a8049995
+SHA1: ea05dc7fff27ecbe06e8007603617f3d3bebcc92
+SHA256: 466650104f3efb491370f685ea8c3508f1f600e32a5c461f8109af416147160e
+SHA512: a334c9628556cc8744c1bea92d359e295e24efe67b7f12fdfad48b2c7860b019e53fed92ed22b53d9e1c3e30393c19483b27d95d7bc99cfde5e92957203b7f68
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
 
 Package: com.nef0pam.gasolina
 Architecture: iphoneos-arm64
