@@ -10325,6 +10325,25 @@ Description: Return your Settings app back to iOS 14!
 Name: OldSettings
 Author: Nightwind
 
+Package: com.nef0pam.paibloxx
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Paisseon
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), com.bingner.plutil | plutil, ws.hbang.common (>= 1.17)
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: ./debians/Roothide/com.nef0pam.paibloxx_1.1.2_iphoneos-arm64e.deb
+Size: 93296
+MD5sum: 742e6067ec156b726625832ca09f3e1c
+SHA1: e01b030f08beecfc661e09568a7e2a5b26785ca8
+SHA256: 95f9f16a88f756fb5feb1e03502901c78916664dc35934a36c3ee9a63d22a467
+SHA512: ef2dc0c4afd54d071007ecb71503ff71cfca9b24453ba1f8de5569bf01b5e5c5a0a0107a5bb4e8d8a78a5799d5d2e8461887f1e0becd03e51bdfe1086ac38bcd
+Description: A safe CLI ad-blocker for iOS. Enter `pbx` in terminal to get started.
+Name: PaiBloxx
+Author: Paisseon
+Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
+
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -18806,6 +18825,24 @@ SHA512: 328b6641d0b87009e91bd1de91e1739a1f80dfd94a918368cf2d425803ebd2f519495c40
 Description: Return your Settings app back to iOS 14!
 Name: OldSettings
 Author: Nightwind
+
+Package: com.nef0pam.paibloxx
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Paisseon
+Depends: firmware (>= 12.0), com.bingner.plutil | plutil, ws.hbang.common (>= 1.17)
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: ./debians/Rootless/com.nef0pam.paibloxx_1.1.2_iphoneos-arm64.deb
+Size: 91276
+MD5sum: a9609ac907f819656e97196bee095e3f
+SHA1: 53426b841dfd5b569357239385166f1949a9f3dd
+SHA256: 3c07a61c2c064ab81f1fdf3c90d09e077b40385e640e3d0bcab2b9c269edb9d8
+SHA512: c16791c623643cd9ba8b5b14cf392a421d80656dfdf4110f11b5697e9dbb1b0b967d1747861f7b9744add211b169482a5da808840f6fc285ab3aa20d63efe514
+Description: A safe CLI ad-blocker for iOS. Enter `pbx` in terminal to get started.
+Name: PaiBloxx
+Author: Paisseon
+Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
 
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64
