@@ -3686,6 +3686,60 @@ Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
 
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nef0pam.walegacy_0.0.1_iphoneos-arm.deb
+Size: 4636
+MD5sum: cb56e51090c420470d5fd2eee75c2963
+SHA1: b85a4c1dbade8a2290bd33b481fadb3a3c083244
+SHA256: 85e8409ffc0532b8bd78f218ac51f1c04891396c6b8f795925ca729ac00ce519
+SHA512: 02114fd3983979e6b83112b24562a8896d0c7dd4c1b494e44e64f134450b04a5410a13c702bcf961faf16af4bedfa545b63623e3d3535ae8c2cf7a3bcd88826d
+Description: WALegacy , make WhatsApp on < iOS15.0 great again .
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
+
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nef0pam.walegacy_0.0.2_iphoneos-arm.deb
+Size: 4644
+MD5sum: 788ecd9e16f021efa7a17990609de3e2
+SHA1: bea6004b925b51bd59c2ac053a16388013f52314
+SHA256: e7dbcbac175da49c18c51511e79e8027e6158f477a409eb2b14ea19e9127d3f6
+SHA512: 509b09c7f7fcf5fc6d42aaed8efa910094d04616122171d7152af5aa59cca17c04d1b6e6df94962add56908b0185a8a8d34b04eb669356b93c5c7dcddec39c67
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
+
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nef0pam.walegacy_0.0.3_iphoneos-arm.deb
+Size: 4652
+MD5sum: d9b81ab34ee8233e2411bee6681f5bf2
+SHA1: 9cee162da097e418021b7096b9f135e8f3e1d8df
+SHA256: 31424790318bb741aa59e6b5b8ca2f6b55ffeb090ea8cfa0663b2b76b8fd6178
+SHA512: ea6cbe906383ff6d8ce246f8bcd04bf8915d6021366daa63dbc9fd541cfc6e12cbfa2f6f8685f5a2cc9aeca7906b33c1e207765c2a2c6a4da57271cc4e407fd8
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
+
 Package: com.nef0pam.xinaa15switch
 Architecture: iphoneos-arm
 Version: 1.0
@@ -10373,6 +10427,60 @@ Description: Unc0ver Switch
 Name: Unc0ver Switch
 Author: Fadh1l
 Icon: https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg
+
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nef0pam.walegacy_0.0.1_iphoneos-arm64e.deb
+Size: 4660
+MD5sum: bac9e0c41f2de27d7cc5f9f8c584d668
+SHA1: 99c5450bbcc24ecda92a9a5d765127743c40fdaa
+SHA256: 8589c85722a40f8156e5e2fd13df74d8a2c0645f4b22682893fac5a1a9672ce1
+SHA512: 6c2f7cf0c4332f935a178d72148d0e295481632de6402488069891cf7d44ca0e7cf7b57eb9f92587389dc67c85e8e10b113c5b1b04d0e86eb6ed734dfc240002
+Description: WALegacy , make WhatsApp on < iOS15.0 great again .
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
+
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nef0pam.walegacy_0.0.2_iphoneos-arm64e.deb
+Size: 4656
+MD5sum: 5247672099e80f84a9d7cb3013ef7c3f
+SHA1: 9314f72c38a6a0e267200dc037ad1f686b093679
+SHA256: f6c2ca7e5ff265c7a897debcd3b5f8258baf7eb3113b2f4045494096375192ac
+SHA512: a932d2d67d6d3139c7f9e2dccafb1242b0bed87f84352bd0804d381922d2a137f228c9651ce24b0e835f86584143270705a4eb51fd002c30efb541533179d2ec
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
+
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nef0pam.walegacy_0.0.3_iphoneos-arm64e.deb
+Size: 4668
+MD5sum: 5e26a3e7d4e94106674847a48601cd4a
+SHA1: 6fcfe8deb3110e2173317042f5f3bb6c2723f528
+SHA256: 869338cfa0a142120b36292c7c32aac75f95b3736a32370175aa6561c0bd9be3
+SHA512: 7e106fe34f5bad96de2656d169df9a9f135508d72fd1e35964165e7f07ea37df7ff2db7d145e0eab6e04917d6a091871a02275c51968b2dc7dcfcdde1e60e455
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
 
 Package: com.nef0pam.xinaa15switch
 Architecture: iphoneos-arm64e
@@ -18858,6 +18966,60 @@ Description: A beautiful Dark mode theme for Laetus
 Name: VisionKeys Obsidian
 Author: rahwan3d
 Icon: https://drive.google.com/uc?id=15wREwcrYsL1SgtFXzd0r6bXdGlaH5Nci
+
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nef0pam.walegacy_0.0.1_iphoneos-arm64.deb
+Size: 4712
+MD5sum: 3c52c68b6936e52ce2766dd120ad120d
+SHA1: 53c5786e5cf3dfae4d9213bf6bca0260b241f174
+SHA256: 209ed4b8562ada390b91e83d885a4093adb8f25578720e365aba41d72d46abde
+SHA512: 6fca54936739961fb8575733b120b18685b20dbc65e45ec8d17dc1d810b78bb866c19ae7fbc80ceda6d17022ce4d9abcf1c4e1587d87e7ea52186e362ba02619
+Description: WALegacy , make WhatsApp on < iOS15.0 great again .
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
+
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nef0pam.walegacy_0.0.2_iphoneos-arm64.deb
+Size: 4724
+MD5sum: 4e5a942f45b4ffa6d0aef305a02fcd4a
+SHA1: d26d09f6c7eaaa1cb194cb0ecf318ebdfd67b822
+SHA256: b9537e3a99142e0e4e57bff2d8913d48cf0e74896dedb4e16bfdeabed85badfc
+SHA512: 7de5b5d725bdb9a2a34a8d18098f1b7345367a261b39d390a580d1d746fa4707d3bbf4cea3c4f9d1cf38cfef1d95289ac9bf2c8f0668c9b48cd09096dc3cfc11
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
+
+Package: com.nef0pam.walegacy
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nef0pam.walegacy_0.0.3_iphoneos-arm64.deb
+Size: 4732
+MD5sum: f233dcfc137fba9e7413f06b53d227d0
+SHA1: 95c1c1e628cc918fa46ee6a3d7462be589e09d88
+SHA256: 95b010f9126b54cb15cf88f09baace70468d509baa54075f82ebaad20b36fe59
+SHA512: 464d97009e33a6587b19349f59af1028e49b17c09febb18f78b336c1505450db1be22f08c1938deaa41f3ba92d25ad548c22d973bdf36bec27e7f74f8d386daf
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
+Name: WALegacy
+Author: dvntm
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ulKJl8weaCGiz618j2drFjUxiGRGSX4spA&s
 
 Package: com.nef0pam.xinaa15switch
 Architecture: iphoneos-arm64
