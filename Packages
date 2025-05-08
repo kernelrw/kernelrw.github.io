@@ -6563,6 +6563,23 @@ Tag: purpose::extension
 Depiction: http://repo.tetherme.net/licensed/net.tetherme.tetherme8.html
 Name: TetherMe for iOS8+
 
+Package: online.nef0pam.glow
+Architecture: iphoneos-arm
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Kota & Snoolie & Mineek
+Installed-Size: 1208
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: ./debians/Rootful/online.nef0pam.glow_1.3.4_iphoneos-arm.deb
+Size: 907572
+MD5sum: a440c8d4ce13479bf4938537d78ccad1
+SHA1: 2a4891c64ffbc22b1a20053775de707e4a37e1dd
+SHA256: 285209e08b7405c3022fa6470c2222f2c508869aa256d5d33c871fd10f2db3e3
+SHA512: 87da258e0af57d627ea48e5884877ce55cad698debc75b3394236a111afc944505c8586e51a45bf61604177e520612ad76d60aba40fb5b8311dca68c3c87051d
+Description: Change your iOS label colors with Glowie!
+Name: Glowie
+Author: Kota & Snoolie & Mineek
+
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm
 Version: 3.0.6
@@ -14066,6 +14083,24 @@ SHA512: b09c64ce3e1b9e9595493b5d97cd6209a3b1e235c863b5fc4b7437e64cca71a0b3083b69
 Description: 隐藏X系列的所有地方的黑条，且没有任何影响（例如横屏游戏时依旧需要上滑两次退出）
 Name: HideAllBar-Rootless
 Author: Netskao
+
+Package: online.nef0pam.glow
+Architecture: iphoneos-arm64e
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Kota & Snoolie & Mineek
+Installed-Size: 1208
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: ./debians/Roothide/online.nef0pam.glow_1.3.4_iphoneos-arm64e.deb
+Size: 911400
+MD5sum: 5ddd39f83c03bb18c62065ed0be2b1da
+SHA1: 157f99ec0519d984a82e1380748b99f905b194cc
+SHA256: bcdd6b7ab033e514408b7eff4834329ce5539d44aca3984f4a6f2557ef26cb39
+SHA512: ebf0e4af2d64557fcae3fa128dce81b60b8303d8a532761f0aa4d9c9b55725fba34fba2637043c8bf19186d39e4cb8d58eedd2f703353934ad0c54777a1ade18
+Description: Change your iOS label colors with Glowie!
+Name: Glowie
+Author: Kota & Snoolie & Mineek
 
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm64e
@@ -22290,6 +22325,23 @@ Description: Click to wake up and double-click to wake up .
 Author: Netskao <netskao@gmail.com>
 Name: DoubleClickWake-rootless
 dev: netskao
+
+Package: online.nef0pam.glow
+Architecture: iphoneos-arm64
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Kota & Snoolie & Mineek
+Installed-Size: 1208
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: ./debians/Rootless/online.nef0pam.glow_1.3.4_iphoneos-arm64.deb
+Size: 907592
+MD5sum: a51be950a4718f9fb9e42a4c04d43092
+SHA1: b1bacbd68dbffa0982e5246f65ce52db015c07bd
+SHA256: 6efdd8521375ee723f6dc333b1220981f80c82de8b67340cc5ec7a4564915bb5
+SHA512: 69741179eb5791a54dd856e1048d8d7ba0ccf5549ac501590659f34d5d69c8a3ccb2f4d708228ac77b4f8b3ef6cc334af186b179e94944ab51ffde67661ae1ea
+Description: Change your iOS label colors with Glowie!
+Name: Glowie
+Author: Kota & Snoolie & Mineek
 
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm64
