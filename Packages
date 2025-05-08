@@ -10326,6 +10326,23 @@ Name: Palera1n Switch
 Author: Fadh1l
 Icon: https://idevicecentral.com/wp-content/uploads/2023/10/palera1n.png
 
+Package: com.nef0pam.perfectdynamicisland
+Architecture: iphoneos-arm64e
+Version: 1.0-00
+Priority: optional
+Section: System
+Maintainer: xybp888
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debians/Roothide/com.nef0pam.perfectdynamicisland_1.0-00_iphoneos-arm64e.deb
+Size: 405872
+MD5sum: a80c871eaf8ca49aad9db2f504b7c9f7
+SHA1: a0a37fc8c217bdf246c55795c378c4fe1f861a66
+SHA256: fb133cf4b1fae74ea78ac5dd47d58ed9bb6ffa7c0620b6dbe8edff0b7aede827
+SHA512: 836fbf15d272ca9b73016a57f4486c312bba71ceb9a0fbaa11146874717e036c9b9b44be48b2a4331f9b3d9f010114cd4f209820a9bacacd7c6adfe005be40a8
+Description: Perfect Dynamic Island
+Name: Perfect Dynamic Island
+Author: xybp888
+
 Package: com.nef0pam.perfectsettings13
 Architecture: iphoneos-arm64e
 Version: 1.7
