@@ -5621,6 +5621,25 @@ Name: BatteryPercent
 Icon: https://repo.ploosh.dev/assets/batterypercent.png
 SileoDepiction: https://repo.ploosh.dev/meta/batterypercent.json
 
+Package: dev.ry7yy.jedbo
+Architecture: iphoneos-arm
+Version: 1.0.0-15+debug
+Section: Tweaks
+Maintainer: RY7YY
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Rootful/dev.ry7yy.jedbo_1.0.0-15+debug_iphoneos-arm.deb
+Size: 138664
+MD5sum: d2c723a5c974bdd33e3169e2a2c56298
+SHA1: d2e29889e86bfb9a6b01dcf19409a18a233062d2
+SHA256: 56a8c26dd3e61a5b42378bf63588797f92fcbb24eaf06b8360b37e99d61013ef
+SHA512: f96385c8f2852d5297f637327bbe88b45d745c3047f15e9dde510c723318e373a94f2f3023aa47ad6a8997008c61982ea3ab6eddf9361ff2d619785ae09448be
+Homepage: RY7YY
+Description: Customizing the Jodel app
+Name: JedBo
+Depiction: RY7YY
+Author: RY7YY
+
 Package: dev.traurige.batterybuddy
 Architecture: iphoneos-arm
 Version: 1.3.5
@@ -8142,13 +8161,12 @@ Maintainer: Devvix
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/com.devvix.nocshare_1.1.4_iphoneos-arm64e.deb
-Size: 7592
-MD5sum: f4a2ec302d50ea4f99f017be315d1ea9
-SHA1: b4b3d58fb225ee76f12d427fc42a69395f82332c
-SHA256: 5954e3d867d5e0d0daf3df4bf6ed48dbea6b2676c043f1a873ed8cc44c7e803a
-SHA512: b6eee651614d7ea07f84aa9fa10cda2b88cd0af9b9420137db8718d00f1089e5c049a4490db786c18f04fc7182c02dea2a796de88a485c5e330d5b0064bb1394
+Size: 7560
+MD5sum: 1419ee52ee31e3dadc5c3582499ef396
+SHA1: cbdc63e44acaac091d4470143ca3493ad02a8584
+SHA256: 2c1f4763fa848540ded209b51af72fdcb081f18620e20ecc008b0c20cd62c1d7
+SHA512: 0de765581d2b096c48ae131393110832494bfc3f3d7cb42341dc05576642692d1390fc696ffd8664200e63331626f1e41965ef0b4b819a018e85a4d919fee838
 Description: Hide contacts from the share menu .
-Tag: cydia::commercial
 Name: NoCShare
 Author: Devvix
 
@@ -13311,6 +13329,26 @@ Description: Modified version of mineeks tweak that lets you specify the minimum
 Name: appstoretroller
 Author: Mineek
 
+Package: dev.ry7yy.jedbo
+Architecture: iphoneos-arm64e
+Version: 1.0.0-15+debug
+Section: Tweaks
+Maintainer: RY7YY
+Installed-Size: 484
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), oldabi
+Filename: ./debians/Roothide/dev.ry7yy.jedbo_1.0.0-15+debug_iphoneos-arm64e.deb
+Size: 110352
+MD5sum: 05599e2e65ad7b940acce09ea88c60fe
+SHA1: a7bef395ad1130c4e0f60cf382409fb1e01bb93b
+SHA256: 114e6dfd5713ce7332827f001aecda091afe2a14600fbe8f4c55cdb6ca29c176
+SHA512: d43a1198a54a1b976179012e70a1113ff6c6a03c012f7b83e5690fdbad2f3b8ff56819f53412b99d106a0fdc48778a581898876a40e18e4a94b894abb28138e7
+Homepage: RY7YY
+Description: Customizing the Jodel app
+Name: JedBo
+Depiction: RY7YY
+Author: RY7YY
+
 Package: dev.theos.orion14
 Architecture: iphoneos-arm64e
 Version: 1.0.1-3+debug
@@ -14048,6 +14086,29 @@ SHA512: 76b158f6e779f7d6924feb83eb793168c9e0fed015551c7113a4acca3bb25f6aff230f90
 Description: Randomly Flipping Your HomeScreen Icons . Supports iOS4+ .
 Name: Random Icon Flip
 Author: Elias Limneos
+
+Package: net.limneos.voicechangerxs-rootless
+Architecture: iphoneos-arm64e
+Version: 2.4-136
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1476
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debians/Roothide/net.limneos.voicechangerxs-rootless_2.4-136_iphoneos-arm64e.deb
+Size: 237320
+MD5sum: 5a339956aa5ba7f1b56784826791450d
+SHA1: 78912f28209b7a0c08a58f9ad2bbd5e96a88e423
+SHA256: a64b60083f5a2627adea3b17411b3e5a73f71ae873fed1fc09d0d61ac943691b
+SHA512: 36bf50e5290ceb639e254ee2f0d32298a4b018072b19a2e69111e4c0894f29f6c0cd00d803aac06ca4d97b5d1b03d60799d392ca7ba250caaee542da28083aff
+Description: Change your voice during a call!
+Name: VoiceChanger XS (iOS 11 to 18)
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.voicechangerx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 673e3d50e6fa61e9a22d888b9013b537
 
 Package: net.p0358.allemande
 Architecture: iphoneos-arm64e
@@ -21690,6 +21751,25 @@ Author: Ploosh
 Name: BatteryPercent
 Icon: https://repo.ploosh.dev/assets/batterypercent.png
 SileoDepiction: https://repo.ploosh.dev/meta/batterypercent.json
+
+Package: dev.ry7yy.jedbo
+Architecture: iphoneos-arm64
+Version: 1.0.0-15+debug
+Section: Tweaks
+Maintainer: RY7YY
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), oldabi
+Filename: ./debians/Rootless/dev.ry7yy.jedbo_1.0.0-15+debug_iphoneos-arm64.deb
+Size: 82632
+MD5sum: c42b0f7e428a194c6d8e76365a83f902
+SHA1: a0989fe592300bffe4d0492c5346a22910379344
+SHA256: 87bbd4544092e221be78383482596ec7670ed777cbff89a741cd942d147a81ee
+SHA512: d9152432ce2b52f7f7990901011e40fb0bc1d95e434076c76b201f5e95c3c2e8760f926fefa46d68047b0e6c438781ba6618122c30e8b6870f640126caff0467
+Homepage: RY7YY
+Description: Customizing the Jodel app
+Name: JedBo
+Depiction: RY7YY
+Author: RY7YY
 
 Package: dev.traurige.batterybuddy
 Architecture: iphoneos-arm64
