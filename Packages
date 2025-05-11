@@ -3532,17 +3532,17 @@ Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.nef0pam.powercuff
 Architecture: iphoneos-arm
-Version: 0.1~mario.18
+Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 272
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist
-Filename: ./debians/Rootful/com.nef0pam.powercuff_0.1~mario.18_iphoneos-arm.deb
-Size: 19420
-MD5sum: d8ae648106196f2256ec4597dc92dbd2
-SHA1: 4ac1d822a1fc816309dc64993b98a22c2193dcf0
-SHA256: b2e5a825b74c0e8cf917848f1c3835bfb7fa3e6555dc182700f4900b1357f7b0
-SHA512: 1e47a7a45fbfa7c37543d479c08f7287b1e290da714bb741c5bec49abb7999460f75921b5c72e29dd122a95a6a14c8af94cae2907afc3af6dfcd7a943295d19f
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootful/com.nef0pam.powercuff_0.1_iphoneos-arm.deb
+Size: 14056
+MD5sum: 46840eecf5cd7764fb71bbf3102897c9
+SHA1: b232d7153a7829e929e074e4b1c7cf9a72246210
+SHA256: 6564bf8ff261509031d8c60bfb01ecab0cd04896b1e96e68391b52b9b0100696
+SHA512: 51db40ba83822e029ec7c998cb2eff6b98cfd56ec383530e3d248fb65400cc96531b38f07eabdab0d832d3e09aa3220f6504c41285ad1328152f0232ac4582cd
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -3551,7 +3551,6 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.nef0pam.rma
 Architecture: iphoneos-arm
@@ -4650,28 +4649,6 @@ SHA512: bdde5daf693aadd74974ce6df103e6b1266570b131723836f2a3a9f0f68eaed60a43a820
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
-
-Package: com.rpetrich.powercuff
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/Rootful/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
-Size: 14040
-MD5sum: 326471a75d4556db83a2ce69cff743f5
-SHA1: fd1e9bff89d46d7d56ad6d2d8599d61c96a2b501
-SHA256: 57ce9a79364e4d15f4f10411e1c7d756130e2f74a3b035f348d74c7986c79690
-SHA512: e4eb22f7544441d698bdbebdb14b89fb12b33376730b85fcd3172d15e360d8045d776feb8bf715e541f8bab5536118666722787627a3af94b1f2cb464ab296f0
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
@@ -10478,18 +10455,18 @@ Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.nef0pam.powercuff
 Architecture: iphoneos-arm64e
-Version: 0.1~mario.18
+Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 272
+Installed-Size: 176
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Roothide/com.nef0pam.powercuff_0.1~mario.18_iphoneos-arm64e.deb
-Size: 20220
-MD5sum: d975e239de398292f01e73ceca2209aa
-SHA1: e0ab290cf6fd93742204f0461e5295726c8cdf35
-SHA256: ae7bdc3e95ceb5587ad20a13b2d3c122ea33df8d81bcb74f63d519eee53929db
-SHA512: 1f203032df9a0c617fb21ab021090b72e65a656b589bdc6549924430d8ec6422ce2603395b04e727f5c7b82a8e4cfd45bb3e93effa9aa0a67cefaf3d8e60ce22
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Roothide/com.nef0pam.powercuff_0.1_iphoneos-arm64e.deb
+Size: 15824
+MD5sum: 770df12cfaede809bcdc727e17be1d35
+SHA1: 9d2b76e61487aa2ffcda2001c438d229463315a5
+SHA256: d62993689f3056ff22e92e125155d40f9256f04557677d7efd6db6da77215f47
+SHA512: b023785bbad283901fb8d6d16d560f26cde4d151265d662111468c4865724734b15d9d415e8a3b84d0b5d9d98ea55cbb8c999dabb6d0e7dcaa43789166b74de5
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -10498,7 +10475,6 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.nef0pam.rma
 Architecture: iphoneos-arm64e
@@ -12073,29 +12049,6 @@ Description: RootHide Dynamic Patches Loader
 Tag: role::developer
 Name: PatchLoader
 Author: roothide
-
-Package: com.rpetrich.powercuff
-Architecture: iphoneos-arm64e
-Version: 0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/Roothide/com.rpetrich.powercuff_0.1_iphoneos-arm64e.deb
-Size: 15820
-MD5sum: 2550f4baa1d1bd58f0e1970c5554ab16
-SHA1: f356ecd7b2c57c7b65e28480b1cdd40460f00fb6
-SHA256: 430062fe6fd513c619706f60e50da7ef350c7c3c9f7fb3eabc78f19bda097cc5
-SHA512: 371d962f993c6c851f0e9ffd29cceb92d5713aee57795e7fb7ecbcbf57b82fcaf249225c0dd82e2b588c84531ccb7ff946de7819c8e46c63f85250c9312bd7f2
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64e
@@ -19019,17 +18972,17 @@ Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.nef0pam.powercuff
 Architecture: iphoneos-arm64
-Version: 0.1~mario.18
+Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 272
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/com.nef0pam.powercuff_0.1~mario.18_iphoneos-arm64.deb
-Size: 18760
-MD5sum: 02fbaf403927adfa49d2daa37784fe0f
-SHA1: 2c5092d56ab460ae2443a6e3ec3917c278cf2de2
-SHA256: 82dd6dc0302ccb7f51fce38f034f7c648c5e753f6395f110d132d976fe58379a
-SHA512: 9a01df326152b53d7de9afcad2cee4a32c5107ed1862dee03a4a96eaa33cc44f9721c7cade28d22a414b17f8f7e370480a3b93c3a44a953c14a87ec946051293
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootless/com.nef0pam.powercuff_0.1_iphoneos-arm64.deb
+Size: 14120
+MD5sum: 8c0da50ac5638b5a8f756de506c0fc56
+SHA1: bac95f47f9847d8ee992cb429c7dc3fa08e0576c
+SHA256: a853c52084ea31f3576a228eb687bdcbb1993108ac89aa35500a9260b8a031a2
+SHA512: 456b3e185dac5d086e6e4debaf0da897d59a5133da0a87408c0f6bbbef17533da6158858ac13fadeb1bb80266c02aa9eb0a40d8171fde63a13c5de60100df040
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -19038,7 +18991,6 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.nef0pam.rma
 Architecture: iphoneos-arm64
@@ -20325,28 +20277,6 @@ SHA512: d76382adb939200f9ba3957072e97e26bf60c1e3238a9e95dba41c42e6793a81677823d1
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
-
-Package: com.rpetrich.powercuff
-Architecture: iphoneos-arm64
-Version: 0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/Rootless/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
-Size: 14116
-MD5sum: d947bdaef5279d5aeaef0092b57eaeec
-SHA1: 6f6144dc4a34d1e305ac3dcdd9a9548b73328519
-SHA256: a4de5b15e6231d28a2232540d8420f48741de455ef2df2f14c625a1523d68cfa
-SHA512: 0b18c75ccf719509a811e573684bf6b634b36acc4d78c577d23622b397189ee24a759a874c8e7bcb333a2df0f7e1a2ab8833f5c746e64c4bdca83b03f3b72ebe
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64
