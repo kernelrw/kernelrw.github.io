@@ -2642,25 +2642,6 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 
-Package: com.julioverne.mimport
-Architecture: iphoneos-arm
-Version: 0.0~beta40
-Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate, unzip, unrar
-Filename: ./debians/Rootful/com.julioverne.mimport_0.0~beta40_iphoneos-arm.deb
-Size: 1495760
-MD5sum: 577986fe71b6fb188b31a0e4ceb257ed
-SHA1: 38af4bac2f9829c274b1d9dd9385b17752cd46b7
-SHA256: 34133d611240b7ccbc757a47740bd225a5a5746cd6ac342d9ccd8eb55e62292d
-SHA512: 97291ca151235e6b1b9422d288d20a780258249885edd8a2589e578f39e89e270b54c51ad7481489b817e289bebcdea36c91215fb621f6cb4d2cb10f1f641fcc
-Homepage: https://twitter.com/ijulioverne
-Description: Media Importer Directly From Music App
-Name: MImport
-Author: julioverne <julioverne@me.com>
-Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mimport
-
 Package: com.julioverne.screendump13
 Architecture: iphoneos-arm
 Version: 0.0.3d-2
@@ -3422,6 +3403,25 @@ SHA512: 6da1cf00718b4d3001a0a5f28761f93aed6d5e6048cb3ba4c7fd6291d654f42923819a01
 Description: Haptic Feedback your iPhone at Alert View.
 Name: Haptic Alert
 Author: pxcex
+
+Package: com.nef0pam.mimport
+Architecture: iphoneos-arm
+Version: 0.0~beta40
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, unzip, unrar
+Filename: ./debians/Rootful/com.nef0pam.mimport_0.0~beta40_iphoneos-arm.deb
+Size: 882716
+MD5sum: 2ccb97d5c93a1bfa3c55b8d303c134aa
+SHA1: f5b4e9347f0b7e90f5b9642712e9767bc930a331
+SHA256: 113852d9580ef5e8709152cb45180ff1e14894af38b1ff685832a7d319a8d5c8
+SHA512: dc8c9979e8070abb09a1c302f5956a60de5e0a32b21231b7a1e63958d3a6e5ad682485e6071277eb488f6d50e287a78064d89b82683ef5f2387f4e369d520274
+Homepage: https://twitter.com/ijulioverne
+Description: Media Importer Directly From Music App , only importing songs & videos to music app working ; importing from within Music app is broken .
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Mimport.png?raw=true
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mimport
 
 Package: com.nef0pam.noapplemobilerepair
 Architecture: iphoneos-arm
@@ -10322,6 +10322,26 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: zqbb <w2599z@gmail.com>
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
+
+Package: com.nef0pam.mimport
+Architecture: iphoneos-arm64e
+Version: 0.0~beta40
+Section: Tweaks
+Maintainer: Julio
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, unzip, unrar, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.nef0pam.mimport_0.0~beta40_iphoneos-arm64e.deb
+Size: 432028
+MD5sum: 51a4eb1e9f471681b0059cdebe0284c8
+SHA1: 39c8e485fe03b88905fce91ea6b3de9ba715498e
+SHA256: 07a91d612682d304f70943932d48630e992edbd6115a83dce8affe82a3211970
+SHA512: aa0feb299338ae7e2529554ac85fcf4ad440ff49724c818972b84aa1f19f252f3addbc51dc3759968497c8f50a5dc6742aad4a85a5738c383e085b16fbb28897
+Homepage: https://twitter.com/ijulioverne
+Description: Media Importer Directly From Music App , only importing songs & videos to music app working ; importing from within Music app is broken .
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Mimport.png?raw=true
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mimport
 
 Package: com.nef0pam.odysseyswitch
 Architecture: iphoneos-arm64e
@@ -18846,6 +18866,25 @@ SHA512: 710bd012d206074aba35a37f51d56b7e5a3df78a87da70dfc93839fa850b19c6aeccafe1
 Description: Haptic Feedback your iPhone at Alert View.
 Name: Haptic Alert
 Author: pxcex
+
+Package: com.nef0pam.mimport
+Architecture: iphoneos-arm64
+Version: 0.0~beta40
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, unzip, unrar, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nef0pam.mimport_0.0~beta40_iphoneos-arm64.deb
+Size: 429008
+MD5sum: 1b09f8a6cd6f963a9f5a56e61651ae14
+SHA1: e6af029ff096fdb68c5c35fe966821619186196a
+SHA256: 7fda5ae8aac6bf9437b4921b853824d7f1c1d68a0c6359241b8ecca7e891183a
+SHA512: a26336e1250e3318bd6c9ab438aa5c727738ae6e6881ea29a56b7161032b8f7551e0581b0810a915bca346e338a2b81a0ae949c597089f00514629e1135775ef
+Homepage: https://twitter.com/ijulioverne
+Description: Media Importer Directly From Music App , only importing songs & videos to music app working ; importing from within Music app is broken .
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Mimport.png?raw=true
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mimport
 
 Package: com.nef0pam.noapplemobilerepair
 Architecture: iphoneos-arm64
