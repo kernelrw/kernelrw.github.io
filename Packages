@@ -6146,6 +6146,23 @@ Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
 
+Package: moe.nef0pam.fastdelete
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.nef0pam.fastdelete_1.0_iphoneos-arm.deb
+Size: 4372
+MD5sum: 5f2efe906651b05df3a30a68b1c2b543
+SHA1: e094cf4885e33452c6dbc035bb5ce13421065bcb
+SHA256: 04a0a06f1ae854eeb640654ac9d9eb5cfc65bbc27431bac124122aca63456d82
+SHA512: 237b9e9f9a2f2de85fa6b173203e11f05ee9506e7a3b8226117101f06e7d097df438a61fd8cafbbdc64d137403604e4088e74fe849100e20b21d54684f322999
+Description: Skip the delete confirmation for apps
+Name: FastDelete
+Author: waruhachi
+
 Package: moe.nef0pam.silence
 Architecture: iphoneos-arm
 Version: 1.0
@@ -13956,6 +13973,23 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: moe.nef0pam.fastdelete
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.nef0pam.fastdelete_1.0_iphoneos-arm64e.deb
+Size: 4384
+MD5sum: cdf6908c288953f622aa0c3a59c4f020
+SHA1: 8258446afa6b7beca7e8bb547b20377ae4c851e7
+SHA256: e2f013591019b5a8598f42e1a449af64db280d14b93bb338cd20ba78de11d940
+SHA512: eefc66df0bb1b43702efaeaf5595f3fcdf1ac6f54a761f4e9529afd411d7fedb0fc8130d50219a34c82765fa7e1ce142e608e4583974ab47cd6fc47e58cff33e
+Description: Skip the delete confirmation for apps
+Name: FastDelete
+Author: waruhachi
 
 Package: moe.nef0pam.silence
 Architecture: iphoneos-arm64e
@@ -22278,6 +22312,23 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: moe.nef0pam.fastdelete
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.nef0pam.fastdelete_1.0_iphoneos-arm64.deb
+Size: 4440
+MD5sum: c6998d30c911fa982864f4404ad94eb6
+SHA1: 8e6fc3cb898bb4ae5713c07aa0bb17e41ca8d254
+SHA256: 86b4caf420a4919820a0b9afd0a622ef79e86fea579a2a40a52c8ee3b9b06216
+SHA512: 5396e1e4629ea9f366aba072dcd26d6c34cc5dbc26d4415af54323f401460ef381f238a216187edb6515aa911a341ed979f83676ba923d612eefec501916837e
+Description: Skip the delete confirmation for apps
+Name: FastDelete
+Author: waruhachi
 
 Package: moe.nef0pam.silence
 Architecture: iphoneos-arm64
