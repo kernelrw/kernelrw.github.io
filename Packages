@@ -6146,6 +6146,24 @@ Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
 
+Package: moe.nef0pam.silence
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.nef0pam.silence_1.0_iphoneos-arm.deb
+Size: 3888
+MD5sum: c9a28b4710269cc7cdbc5a73a6164fac
+SHA1: 427f157a054caf87b9e1a87ed490b8775316ff3c
+SHA256: 52e03e88791a2f0171fae040efa4dfb55b67ca9d5121b0a2d63ba62b4104c850
+SHA512: f8af9bdf929ecbc094d7d452fc17c5305f3646db7d2a3e57c53113eaf83a807224dbb14a1f4b512fa28bb514c9184cef9e639feda98231ad9539cfa97e4ad86c
+Description: Lower the volume to zero during phone calls
+Name: Silence
+Author: waruhachi
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
+
 Package: moe.waru.frame
 Architecture: iphoneos-arm
 Version: 1.0
@@ -6178,23 +6196,6 @@ SHA256: 7b807e6737129bde5843e32f92b2e7591a42f17bd8c7b57b56614163ebe12c7a
 SHA512: fc39a5cbc8b7b8d710a7dee23b211df1293e6b901c94185888a8b8165502c2876a696892a571c6338d62aa3a068fcb1897550a721124429cd0fe54d23ff219e2
 Description: Removes the recents tab from the Phone app.
 Name: NoRecents
-Author: waruhachi
-
-Package: moe.waru.silence
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/moe.waru.silence_1.0_iphoneos-arm.deb
-Size: 3692
-MD5sum: 374170e34f567b4ec2b0da722d400dcf
-SHA1: 315e2d6d10d4a2214df5e8f6ed7ddc8d3b1e0c9c
-SHA256: d7ed416f5edeb1d2dfdbad33404689cb41f3c95ebaab7d8de4f3271f22f01ca2
-SHA512: 954ca6ee8d861cc1e0c6d240f4c526c6b2a4646fd19221d862ce0e693f9eb6284360808dac1e21bde511ac242f7c8abb90f50b1e429b92031e3958c9188356a9
-Description: Lower the volume to zero during phone calls
-Name: Silence
 Author: waruhachi
 
 Package: net.myxxdev.mybloxx14
@@ -13936,6 +13937,24 @@ Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
 
+Package: moe.nef0pam.silence
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.nef0pam.silence_1.0_iphoneos-arm64e.deb
+Size: 3896
+MD5sum: 1e7a09e5ad03512b53a11769c90d8881
+SHA1: 3dbd1fd9094fb3d96c4a60ecebd218ebac369689
+SHA256: 9b1269b2e9c65f2af3271ed18e2e0072047ec9b0239fcfdb015c7eccfa4f4bf2
+SHA512: 6be94d65ef5d3bf66e8a6b19e1667ac5e44d24180b469428121f214f17cf08bec2c939783869143938a213b251026eb6bef56cffbb3b4e1e81d740d4a18fa25f
+Description: Lower the volume to zero during phone calls
+Name: Silence
+Author: waruhachi
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
+
 Package: moe.waru.frame
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -13968,23 +13987,6 @@ SHA256: 9d15c3d5945a92d7f5d47cd494c85f79c14d5f2859f1c09666f0d1d2024c8524
 SHA512: a027f68f7a785975303c842fa19c220a29bd1ae7c5dde6899fa7dc0cb85af13b09468550777f07bfd3de0a4f9e1f686b8452580611f3fe75c4e1fb04abe7f8cb
 Description: Removes the recents tab from the Phone app.
 Name: NoRecents
-Author: waruhachi
-
-Package: moe.waru.silence
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/moe.waru.silence_1.0_iphoneos-arm64e.deb
-Size: 3716
-MD5sum: 8e926e9d5d36cead6125c502cef468ad
-SHA1: de67b55d0b9d277b7f049313c59ceb0425113b9c
-SHA256: d7c8f9502e0a91b00207af65c8d4d9ff1af641db5acf7d8d8372a59bb820fb5b
-SHA512: d4af77174d3a06a577da84f9f7a8fe21aa2dc048ae5ef7cdfb8246b96ec31da40922e3024899ab29671a7e381ea8f13e1d893db54d2dd3c230363f18557aa2d7
-Description: Lower the volume to zero during phone calls
-Name: Silence
 Author: waruhachi
 
 Package: net.kernelrw.simpleactivationactions-rootless
@@ -22238,6 +22240,24 @@ Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
 
+Package: moe.nef0pam.silence
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.nef0pam.silence_1.0_iphoneos-arm64.deb
+Size: 3952
+MD5sum: 8d64f0005d02ea9384484022658581c7
+SHA1: f23f169eb02d8a4aa6ae2b44263153a15e190021
+SHA256: e6e400ea75678ca88cbb986f505a21733c1b5bd0bb2c012b169612809a5a461e
+SHA512: 0e690717a60ef190e42f69a62a83797b0bf343c0c51689aa6a80c184dce09a6f7344ae74401e613b132792ec01a6afd91cb1a9ebf3f385d116c59c4698fb1909
+Description: Lower the volume to zero during phone calls
+Name: Silence
+Author: waruhachi
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
+
 Package: moe.waru.frame
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -22270,23 +22290,6 @@ SHA256: 99b40ad205f4ac5577f5dd938b16b4926c5dad9d0149b871f76afd441bb3380b
 SHA512: 5e022e00eb52e8884bfe9ccc072278f5de1abccb9acede72a7227e5aefc88c3bbd71a085ce8d925da322cce231830560a96dc121394676b956c8f6e4b54091da
 Description: Removes the recents tab from the Phone app.
 Name: NoRecents
-Author: waruhachi
-
-Package: moe.waru.silence
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/moe.waru.silence_1.0_iphoneos-arm64.deb
-Size: 3780
-MD5sum: 83a87b98652400a89b6686d7502cd71c
-SHA1: 44795a8e5ae2bc0be2c48189c30a69a2032c2f23
-SHA256: ff7943759fe74f7dc7bba6a5433249fb44154d530dc52eb9d1c69811b4ffa27a
-SHA512: 17d922f3f569e8cb15ecd628a5300d40d4ac5b134f63fcd2a774f1ea9665b0d3b9ce9b5790d47aa79a55dd3edf574461bba6b5018fa08c340a609ad0826fc5bb
-Description: Lower the volume to zero during phone calls
-Name: Silence
 Author: waruhachi
 
 Package: net.limneos.audiorecorderxs-rootless
