@@ -1528,6 +1528,23 @@ Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
+Package: com.dvntm.grox
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.grox_0.0.1_iphoneos-arm.deb
+Size: 6416
+MD5sum: 2f5252ad77e26dca6e1886e81c448817
+SHA1: 2a5c2e61ba10ef29150aa57ff97b8c3cb0640c25
+SHA256: cd7726a3f8a01c90700def764c3a9eb0678f09fdeb8d6f42972e01fe12b4ce1e
+SHA512: 085a4a03d2bd709ad74717de0a3eeddd3693f915404a36682056641a0f3075d2e0fa9b048fd271109a280e353a0d38b4b49e7b842cdeb364f6c0ddaddc260a05
+Description: An awesome MobileSubstrate tweak!
+Name: GroX
+Author: dvntm
+
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm
 Version: 1.3.0
@@ -1603,6 +1620,23 @@ Name: Infuse Plus
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.lsnoswipe
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/Rootful/com.dvntm.lsnoswipe_0.0.1_iphoneos-arm.deb
+Size: 3852
+MD5sum: 8ea64f2988e701de520dc4d0232ebbc4
+SHA1: cb38ed3b4abb155a1c4270681316b5a7b7b7ac64
+SHA256: cc3d5a45366903c3893104d396d7165f10b6e7691ccb9f8d51fde3b6efac1fdc
+SHA512: 5454a9a040350bf045ffb78ded54211b5d837aa4b1a29a566fca813e1d4abcdb5a95cda7b02c17282d8691d3a418cd0c66507bdedc1497502e121ad59e463069
+Description: Disables swipe to open cam on the lock screen
+Name: LSNoSwipe
+Author: dvntm
 
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm
@@ -1762,6 +1796,23 @@ SHA256: 1f608eec2fcbb360c5e55e94db7d3b1bdc2c2eb0ca9fdae2b0017492df816374
 SHA512: 13ff0d8c49a1a8fc5d709009708a42346743474226ba355f401f6c1618e5bce72e9feaab218b09c29110d1d0de1db408204acdaf1a26b092e4976e294fdad01f
 Description: Displays your touch interactions!
 Name: ShowMyTouches
+Author: dvntm
+
+Package: com.dvntm.uyoufix
+Architecture: iphoneos-arm
+Version: 3.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.uyoufix_3.0.3_iphoneos-arm.deb
+Size: 2980
+MD5sum: 6c83f50653de460f6587158c33d36239
+SHA1: 5a9c239a4cc3d48c23d9fdbd41f5a1cd1bc09d73
+SHA256: 117dddd5e5c17bfb382ed081b9f8d8b4169b624d02228fc6a7ac157d47d0eb97
+SHA512: 18e39e00f6921b7fc1d48c0c5a43b1b8ee52972bb6d28a489c7f58f0ca2b9645d55244e2030ddb793bdb3878b24a1d16fafac540616a45bb8fbeff665bc3a6e8
+Description: Fixes uYou crash when trying to play video
+Name: uYouFix
 Author: dvntm
 
 Package: com.dvntm.ytlite
@@ -8157,6 +8208,23 @@ Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
 
+Package: com.dvntm.grox
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.grox_0.0.1_iphoneos-arm64e.deb
+Size: 6434
+MD5sum: cbf4dcb62f81ebe2f812c2df3cdcd597
+SHA1: 3983c6e5b3a71398797fd42573788ab147d542f9
+SHA256: ef9564a45ec4db9d592b4ce9c2b2148bc79ea86b8b888d173f65668aca91291e
+SHA512: d908938bc76ff1c403915fc2bdeae023ede5e9c3f99c9f2948f414ed4fddcf57468a8b10b9ab8cca87af9877ebb0d1e4098bf264e2c0af815399996ee514afff
+Description: An awesome MobileSubstrate tweak!
+Name: GroX
+Author: dvntm
+
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm64e
 Version: 2.1
@@ -8175,6 +8243,24 @@ Name: Infuse Plus
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.lsnoswipe
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/Roothide/com.dvntm.lsnoswipe_0.0.1_iphoneos-arm64e.deb
+Size: 5408
+MD5sum: 782c9674afbf7092d531ef00a1853843
+SHA1: 8aa9b819ee9f25d79eba7c0f09d5c797eea536be
+SHA256: dc5eb7c75a02efc055f2bc9283dd8ce2f59984bd4dd20558c38abfdc581a4428
+SHA512: f2dbd06c6c8384733521fe4227d93556a29678144e9951a4173c23b269cbcb1e30a07629bf714b6d8788326cfb292925d0bd2e29ad112be1109219ab67a5be0e
+Description: Disables swipe to open cam on the lock screen
+Name: LSNoSwipe
+Author: dvntm
 
 Package: com.dvntm.ovk
 Architecture: iphoneos-arm64e
@@ -8213,6 +8299,24 @@ Name: RateBeGone
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
+Package: com.dvntm.uyoufix
+Architecture: iphoneos-arm64e
+Version: 3.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.uyoufix_3.0.3_iphoneos-arm64e.deb
+Size: 4274
+MD5sum: c7142093cdce4471970400ba8e7e1b5d
+SHA1: 4c72ec17419fbd2f60a269027c3f505996e970af
+SHA256: da1230fd405945b483f842a14e7edf095593bd1eee75250941383c90d18773a6
+SHA512: 17238793c23650768e7540bd4509257bfdceeb28add9b1df33b8e964f1cfb8b945e1d18af016af370bf401a79f0d7c140dff018655828d904a82762fe8e60ae8
+Description: Fixes uYou crash when trying to play video
+Name: uYouFix
+Author: dvntm
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64e
@@ -16542,6 +16646,23 @@ Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
+Package: com.dvntm.grox
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.grox_0.0.1_iphoneos-arm64.deb
+Size: 6510
+MD5sum: 4dfab86263b1e26a2878d5476168f51d
+SHA1: 4e0dcaa478ce943eaf70f3ee906d05e8a01fe0d8
+SHA256: 275bee817ba6c3d5cf89f0bee788101993c351bd0ba1a5809733c8590f079817
+SHA512: 34d9bf5e25ccfabd4a6d1e115666fc670a07f8b45fa94aecee7d81bb106d037b0df29c129822c727afd9668c4bf87171fb22b6c0f7c4a0ebc42a98fada8d1b0b
+Description: An awesome MobileSubstrate tweak!
+Name: GroX
+Author: dvntm
+
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm64
 Version: 1.3.0
@@ -16617,6 +16738,23 @@ Name: Infuse Plus
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.lsnoswipe
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/Rootless/com.dvntm.lsnoswipe_0.0.1_iphoneos-arm64.deb
+Size: 3940
+MD5sum: 5ea6534aaaea37ebd686c6a8114ef4ba
+SHA1: 256a62a910c33017b8179d71901256673ed5ba60
+SHA256: cfca3c6eb79103e248a278d5cf839ddebbff5923de17e7126af501408221f820
+SHA512: 5511ada2c28d8d82a20a940c24db192c09698dabccc8691a5224bd55c8c59f281affdbe1e53e5933dcaddf601d091923d7db567943e24d0ff1f4134d463c5742
+Description: Disables swipe to open cam on the lock screen
+Name: LSNoSwipe
+Author: dvntm
 
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64
@@ -16776,6 +16914,23 @@ SHA256: 41bde783e16200f3867f3bf727d5f516427117f0b4666e1e59e2440ef0095b41
 SHA512: e64a2764d56ecba62378907181d874942f4fce0fb6841c209855c1bc607c21ce9e9753457beed9e498fbab359eef1e2b4dbb73d9c575c5c71c37dc4bba673f5d
 Description: Displays your touch interactions!
 Name: ShowMyTouches
+Author: dvntm
+
+Package: com.dvntm.uyoufix
+Architecture: iphoneos-arm64
+Version: 3.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.uyoufix_3.0.3_iphoneos-arm64.deb
+Size: 3058
+MD5sum: 20b8d986904348b86b98131ef7966f2a
+SHA1: 888aad84cad03579bfc085515bef79806e1b9d85
+SHA256: 6165d9bc13507e04fac0c8568e918e8da2fdb13a9ed7c105fab5ba497e074544
+SHA512: 6e0020c9e80b5fc9c72deb482dc431d2c577bb7e89189c1e1ca7b2b948a8a71885bbe6725012401c0a27c18e37a001e50c9d0a83929cf980a4862c29d5d153e8
+Description: Fixes uYou crash when trying to play video
+Name: uYouFix
 Author: dvntm
 
 Package: com.dvntm.ytlite
