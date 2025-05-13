@@ -5844,6 +5844,30 @@ Name: KernBypass
 Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
 Author: akusio, Misty
 
+Package: jp.r-plus.deletecut
+Architecture: iphoneos-arm
+Version: 0.6
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 515
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Conflicts: jp.r-plus.shiftdelword
+Replaces: jp.r-plus.shiftdelword
+Filename: ./debians/Rootful/jp.r-plus.deletecut_0.6_iphoneos-arm.deb
+Size: 80012
+MD5sum: b318626a6139ff5971703447b3fdc4ab
+SHA1: 9be259dad33581a122c921b8e5814d047f17ae13
+SHA256: 284d2c21a1c9fdb2356add6e1b160c5ca58c780eca8057a6d00684adc8214c9a
+SHA512: 3255b97a9446cc964c14cfbe25adee5b5f5cd7c845169abf7c62053b6791542c956408e9a16452dcdecb9e5e8fc03d33a8a4aebc3df146f43dbfc8be78d06e58
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deletecutDp
+Description: Delete word mode while holding shift.
+Tag: purpose::extension
+Name: DeleteCut
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deletecutDp
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fjp.r-plus.deletecut.png&s=180x180&f=webp
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm
 Version: 0.0.3-1
@@ -13704,6 +13728,31 @@ Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
 Name: BackgrounderAction15 CCSupport
 Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
 Author: @akusio_RR
+
+Package: jp.r-plus.deletecut
+Architecture: iphoneos-arm64e
+Version: 0.6
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 515
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: jp.r-plus.shiftdelword
+Replaces: jp.r-plus.shiftdelword
+Filename: ./debians/Roothide/jp.r-plus.deletecut_0.6_iphoneos-arm64e.deb
+Size: 69156
+MD5sum: ff741b0f1c45cd0b1fc43530dba77b4f
+SHA1: e8cdea25e3693844363e72d807c3afa5ccecdafc
+SHA256: a78f783d899f2b7e7b28b67f5986641c5073f29df33780e35aa68538fd84b093
+SHA512: 1a27b9a25d2fd4e0b86aa84595dd7268ea624a361b006472c968e39a4d541ab41901d7b2a3428b4311d4262c2ed0c82b97bd6e69347efc5bb64380403d6cf74e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deletecutDp
+Description: Delete word mode while holding shift.
+Tag: purpose::extension
+Name: DeleteCut
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deletecutDp
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fjp.r-plus.deletecut.png&s=180x180&f=webp
 
 Package: jp.r-plus.doublecut
 Architecture: iphoneos-arm64e
@@ -22264,6 +22313,30 @@ SHA1: cf11cb3cb817367084d509f3a4a11cf05a7de056
 SHA256: 376173f165752416294dda585f12452d6b07e5e644a51eb55e5a3ce93e3f77f2
 SHA512: a541578f151acbdda7cdba1383229507443eca95d17f938fd81b898a999bf5f6924e31c1216b95f7bd57ab60d560ecfc7ee589950f70456a85763b91ffcd6c44
 Description: Take control of your device's memory.
+
+Package: jp.r-plus.deletecut
+Architecture: iphoneos-arm64
+Version: 0.6
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 515
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: jp.r-plus.shiftdelword
+Replaces: jp.r-plus.shiftdelword
+Filename: ./debians/Rootless/jp.r-plus.deletecut_0.6_iphoneos-arm64.deb
+Size: 51460
+MD5sum: 35421526c84c5d0a87529fcefee8132a
+SHA1: 7868ccc8316e732bb57f5906b3833b28dd2703ce
+SHA256: 2729b2653d10d8c5ce62f0c7b43fce1a609799293a07057a438b546e9a135ff9
+SHA512: eb61842f91c430beeaf2382ee046f8b441200f3ca577593be8c28c9ae54181c533a04012dc65bfa47a9853cc7c09520dd00e9efec9097c1776e246d08a708dea
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deletecutDp
+Description: Delete word mode while holding shift.
+Tag: purpose::extension
+Name: DeleteCut
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deletecutDp
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fjp.r-plus.deletecut.png&s=180x180&f=webp
 
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
