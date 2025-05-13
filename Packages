@@ -1131,6 +1131,30 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/CustomLPM.bundle/CustomLPM@2x.png
 
+Package: com.cydiageek.fastdeletekey
+Architecture: iphoneos-arm
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 638
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debians/Rootful/com.cydiageek.fastdeletekey_1.0.4_iphoneos-arm.deb
+Size: 73992
+MD5sum: 2207098afaa2bd5c355d8c0f0d383a03
+SHA1: b05c5d3df24b6258ebb4b55fdf00625cb3dcf54b
+SHA256: cd3a36c53afed387c24e4273f246e511ee2dc3528b6e8f3edde91fd196bcdb54
+SHA512: d4fa7765681ba5c44e8bdb0f60953cc39312730bfbcb10dc1fe79f72120b3852670d96f24bb81f9193073826b79a465e11584a8412f360037eedfd65a2e282c0
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Description: Custom Characters Deletion Fast Speed on Keyboard!
+Tag: purpose::extension
+Name: FastDeleteKey
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.fastdeletekey.png&s=180x180&f=webp
+
 Package: com.cydiageek.gyration
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -2647,6 +2671,94 @@ Tag: role::developer, compatible_min::ios11.0
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+
+Package: com.johnzaro.perfectmessenger
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 588
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debians/Rootful/com.johnzaro.perfectmessenger_1.2_iphoneos-arm.deb
+Size: 252476
+MD5sum: 844d22e0381336d3e10da17107a893e3
+SHA1: 532596a51b31321235206f00aef5f0c48ac9e75b
+SHA256: 708be11e0122b13ce7b10f5546cc4ec087b730da4c6f39379316692cfce04b44
+SHA512: d65c4ede28bb0c454a31d5d434d7438a7f4b0fb7fa5722b6930a5830c004e71ee30aa1539ebb877ef6a8366981b045179f9b9a1ef88725f8da6a21b323b44c70
+Description: Hide Ads on Messenger app, Hides Stories, Hides Tab Bar
+Name: PerfectMessenger
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectmessenger.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectmessenger.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectmessenger.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectmessenger%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfectreddit
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debians/Rootful/com.johnzaro.perfectreddit_1.7_iphoneos-arm.deb
+Size: 267608
+MD5sum: 14e497e01cf2322414efdcf6ab2ca534
+SHA1: 10f6c558e224b41000c84d472210ac74d092fa24
+SHA256: ee3e32bc9ef31d8f7a6d5bc25776b3f18f2064bff0edc480a07f8e8f13781ca1
+SHA512: 69ea019c6c4f86ce0b3e355b329f49de57f85119ad3e6a02a6248731253e3fb4e2105425c5026af9b39137c13285128a57ef595bf9522999c0b60d0be44e363e
+Description: Remove Promoted Posts, Remove All Suggestions And Edit Theme Colors
+Name: PerfectReddit
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectreddit.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectreddit.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectreddit.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectreddit%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfecttwitter
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debians/Rootful/com.johnzaro.perfecttwitter_1.3_iphoneos-arm.deb
+Size: 296048
+MD5sum: e5ea8594db55398f8855fcbb157fe424
+SHA1: b5d2d74f00f25d341601283c42943b5aa091e062
+SHA256: 67faa72ec606488c3cb3dd0c0bf3c136c3bf9c7a98f6c8dd6196e966c6cd4970
+SHA512: 9a2faeea570af797d82642bf8599cf24226ccc36120440b049212d26b63052f8c692a079a8a1918f10a477a904d522a27bb57004a1a4994c7c10fdd6adf1cabf
+Description: Always latest timeline & remove all promotion posts
+Name: PerfectTwitter
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfecttwitter.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfecttwitter.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfecttwitter.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfecttwitter%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfectyoutube
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 644
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debians/Rootful/com.johnzaro.perfectyoutube_1.5_iphoneos-arm.deb
+Size: 273052
+MD5sum: 0baf5da0d2ecf539dacf45148ceeab99
+SHA1: 8c6bc7f9e0734f0fc5edc4d29a0e9b632d8e04b0
+SHA256: 2fcbf56ef0b6c846b68964ecf0632693bd4e6d20d15cdbeea653163b97a2a724
+SHA512: 74b457fb14f6cd6244c2a3742f6399ac95aaafa80ea27632edfbc1642a300f7b854ae0e443fb175fbf860076481add8f6dd0f189627bcbf3b940cc3edf986a3c
+Description: Various enhancements to the YouTube app
+Name: PerfectYoutube
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectyoutube.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectyoutube.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectyoutube.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectyoutube%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
@@ -7973,6 +8085,31 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
 
+Package: com.cydiageek.fastdeletekey
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 638
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debians/Roothide/com.cydiageek.fastdeletekey_1.0.4_iphoneos-arm64e.deb
+Size: 71746
+MD5sum: e2fbf00dc22bfefc91e4314c9e825f8d
+SHA1: 188716ed1f2b287fae463006e14a6e0ed8700a70
+SHA256: 739d5d22dfc6ab9f2072c39affd40283c7c01b3d3bef876612ec52b8ed88bcb9
+SHA512: 4e598b67fb4990cae7e71ff7366afd0b5249bc924463301338f3b1006abfe1abca32af6a2b4aff9278b303b46779cb58a7005145d5068488b352404ca7d2d866
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Description: Custom Characters Deletion Fast Speed on Keyboard!
+Tag: purpose::extension
+Name: FastDeleteKey
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.fastdeletekey.png&s=180x180&f=webp
+
 Package: com.cydiageek.igimagesave
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -9311,6 +9448,98 @@ Tag: role::developer, compatible_min::ios11.0
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+
+Package: com.johnzaro.perfectmessenger
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.johnzaro.perfectmessenger_1.2_iphoneos-arm64e.deb
+Size: 260054
+MD5sum: b922221f2fd0e680626b0711674b6326
+SHA1: 0779f5083e37ccb653defb5e6b4ac05102c16075
+SHA256: 1ec63f7dec532c64cb58e440138ff470074b64f756c0cfd4602cb729b4304409
+SHA512: 0bf22102d7a1f188707bdab730cb54a49780523acdc5adf324b6c8a903e81e150acf7cb73b8f3f0cfc5e1a4fdc895487dc80d2e2c88d5697e4e88a1dac9024e5
+Description: Hide Ads on Messenger app, Hides Stories, Hides Tab Bar
+Name: PerfectMessenger
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectmessenger.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectmessenger.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectmessenger.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectmessenger%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfectreddit
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.johnzaro.perfectreddit_1.7_iphoneos-arm64e.deb
+Size: 277302
+MD5sum: 9a8e0b8c0dccb023fc50c046f7a941a4
+SHA1: 40036c05ee5eaefb3ca193fe0d6c684cd37dac29
+SHA256: 00fecf7f1cdf7fc7978191163c14299048d80caa45439d8e934ecffed6ae7600
+SHA512: 237ad0a35dcc936ad5a47848bf79165ee11f95cff2d7a887d3a7e248d2da20092f9ec79e7053eaf44860ebb3ce3bb24db094535747698bba2d50cada81f12cf9
+Description: Remove Promoted Posts, Remove All Suggestions And Edit Theme Colors
+Name: PerfectReddit
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectreddit.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectreddit.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectreddit.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectreddit%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfecttwitter
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.johnzaro.perfecttwitter_1.3_iphoneos-arm64e.deb
+Size: 304858
+MD5sum: 9af658f1cc7cb313df449e59b42fbad2
+SHA1: 79c78e67b4bbebfabf85d45c735255ed2b071a31
+SHA256: 75b6db18f035fe236be3befb985f732da25b7816cebfa3543ad5dd4a96cbe7f2
+SHA512: 3e2e740e6c9938742960122c66ea66629e7377bda211f567ff26fa2082b4a865fa4fcb203caf2163cc8799fcc09c9668f7fa50bb1f816f551c7ceca3ba80699c
+Description: Always latest timeline & remove all promotion posts
+Name: PerfectTwitter
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfecttwitter.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfecttwitter.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfecttwitter.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfecttwitter%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfectyoutube
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 644
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.johnzaro.perfectyoutube_1.5_iphoneos-arm64e.deb
+Size: 283732
+MD5sum: 2ddc7ee1195c6ba273789af7c03f5113
+SHA1: 7beadd5677f1a5d757ba5473137c0888af79fc9b
+SHA256: 90cb0f4dcd12f210658b16248ae0f40f2e95e86e3e9bb75d162357c985c5307f
+SHA512: 92c3df829decdc3b4e70b7168617aa9d870432cf1cc79433b15bb41d8e52e9534e20f2efb786bd668a63af84c3d1af95c565c0b8157ac149561054395844b144
+Description: Various enhancements to the YouTube app
+Name: PerfectYoutube
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectyoutube.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectyoutube.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectyoutube.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectyoutube%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.jschiefner.advancedbrightnessslider
 Architecture: iphoneos-arm64e
@@ -16219,6 +16448,30 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
 
+Package: com.cydiageek.fastdeletekey
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 638
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.fastdeletekey_1.0.4_iphoneos-arm64.deb
+Size: 63936
+MD5sum: aaea437233509f0d36f8ac80830ddd4f
+SHA1: 6b5aef1d8b8fd3b60fcfb89d10e2192cd0f88ec2
+SHA256: 1567db3ef5a6b3db42136f02443aefbc8a131dd1365978a35fa176265c0afe38
+SHA512: c2f08da898e94525c0acbb58318e16bcc6928fe2529dd9c7cf82511d94ae69d5f3dec6f769411232c7d847dbe3c098d6d76720c2e7a804ab62990fc870f0be16
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Description: Custom Characters Deletion Fast Speed on Keyboard!
+Tag: purpose::extension
+Name: FastDeleteKey
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.fastdeletekey.png&s=180x180&f=webp
+
 Package: com.cydiageek.gyration
 Architecture: iphoneos-arm64
 Version: 1.1.5
@@ -18070,6 +18323,94 @@ Tag: role::developer, compatible_min::ios11.0
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+
+Package: com.johnzaro.perfectmessenger
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 588
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.johnzaro.perfectmessenger_1.2_iphoneos-arm64.deb
+Size: 253032
+MD5sum: 92bed73137d512d65031adbb13061652
+SHA1: 02ca5dffc305d81e69df650b6410cb0f6cf1541a
+SHA256: e16ac9f1333eb905fbaabbc03534e157f67dc2aa10d6efd7f0171f0a674f4173
+SHA512: 9c2942a17801d4a565689f8960aa0cd93b043d122707e02e695e363faf4007a444ec95d7b85155728741d8d12c87066b41411a4473411efa1639fd15736c6963
+Description: Hide Ads on Messenger app, Hides Stories, Hides Tab Bar
+Name: PerfectMessenger
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectmessenger.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectmessenger.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectmessenger.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectmessenger%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfectreddit
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.johnzaro.perfectreddit_1.7_iphoneos-arm64.deb
+Size: 268536
+MD5sum: 18b22d101d0d8aab8819951b01cd5a3e
+SHA1: 26392bcab3445aed98c4cd40b07f23dab59d1803
+SHA256: 4f2ec2f451b9b07ceaeefbc8dde8919956c4c9abf682095a1d2bbc1e996d0ecb
+SHA512: ac1af61980823ead50b159d96d192611812b27d0c8ac6c2cbafa3581a4e679045c9c28afd0aaa2e1bdf605e5755ee5b237582a5bd278c3fab7c9f68cbb5e672d
+Description: Remove Promoted Posts, Remove All Suggestions And Edit Theme Colors
+Name: PerfectReddit
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectreddit.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectreddit.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectreddit.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectreddit%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfecttwitter
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 632
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.johnzaro.perfecttwitter_1.3_iphoneos-arm64.deb
+Size: 296576
+MD5sum: 2c85e3476394888f569c2dcbded9f4de
+SHA1: 3a9c63fdd849201181f590a6dd31a86dbe779ed4
+SHA256: c0592e178fa60934712582d5046d7c63881beff228d8f5928f700f4dbcc88932
+SHA512: 5ba1fff366c05c255eba1b92d2e7b02ecd484288d3fa1d8d900ce1f662530b0aad25670c0d2431f5d1bdef39bb83ed70babceeb9e5d090e3e81c953afa6e0abb
+Description: Always latest timeline & remove all promotion posts
+Name: PerfectTwitter
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfecttwitter.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfecttwitter.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfecttwitter.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfecttwitter%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.perfectyoutube
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 644
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.johnzaro.perfectyoutube_1.5_iphoneos-arm64.deb
+Size: 273760
+MD5sum: 3a290d9258f765cb8bcfc42861869167
+SHA1: fd8f73cdb996cec779b00812304f8e74e1125221
+SHA256: b482688d4a53cc0700f0c326a80a2d7e32aff6267743d6dda502fa117e8a51f1
+SHA512: 56586ed39ad6fc3b9a9e72c0ddefb5a50293162159da8bb77f293cd6995912cfc06414c4f1a62767a56021afda1f6eedfa4ffbef7858f43aa57f35beee72f27f
+Description: Various enhancements to the YouTube app
+Name: PerfectYoutube
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectyoutube.html
+SileoDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectyoutube.json
+ModernDepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectyoutube.json
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fjohnzaro.github.io%2Fcydia%2Fassets%2Fcom.johnzaro.perfectyoutube%2Ficon.png&s=180x180&f=webp
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: Johnzaro  <johnzrgnns@gmail.com>
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
