@@ -822,15 +822,15 @@ Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm
 Version: 4.4-1+debug
 Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 23828
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debians/Rootful/com.bandarhl.bhtwitter_4.4-1+debug_iphoneos-arm.deb
-Size: 8694292
-MD5sum: bf354eccb5f82d5b452e6a422a6c40b3
-SHA1: 4017bca2f70c97676d66120e90a2a4a022c284d9
-SHA256: faca34a07c14795130b4f538c8d1655d36cef605793c45a43311857615d238d0
-SHA512: 5bfad3493cf40dd040bbf809e7a8701ad25f3399145f2eca78a74994b5ebfab149a6086c910f917fd27d4d5440c26339a89784f08c2afea29d908161f92118f0
+Size: 7336848
+MD5sum: 8f32f5d85357af6cbf60bc74257592a0
+SHA1: 802b6a538ea85ef4074103a08e62cfa35f81b4f9
+SHA256: f144ca94b79467fca5a895498c07212fbc108832caac8d6da2af31cd03566e20
+SHA512: 45a52f4dcc7264081dcb6c69e4ae6b9707f7d28101b10db79947a934da2b1cb91a23ac93a8fbbabfe188e578d5f8c7e77f3dd17dd077293f5adcd28b954d5d23
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
@@ -7622,16 +7622,16 @@ Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64e
 Version: 4.4-1+debug
 Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 23828
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debians/Roothide/com.bandarhl.bhtwitter_4.4-1+debug_iphoneos-arm64e.deb
-Size: 21405226
-MD5sum: ee4ff78b6f3259a71bfeecaf86c61e85
-SHA1: ebf00d27f05e608865a1aabc326ac25d6f51e1e0
-SHA256: 54221798a631f73eb2b270bdb8c6f7131f4b18308ae4d844d9310518be8f466b
-SHA512: ba0742c8a85eeca02ce2b96337a14e5e9272ada8a83c1c22f0b9d70d84c13c26f5de2cdc3b8c4e71bee804141deb06bcc4c06a72d50a575f4549ddfea8a50530
+Size: 18105366
+MD5sum: 5c1068d2de372003f4cdc0143b0d6cd0
+SHA1: 348aaeb50f145f3acbaadc15f160df79e40d76ac
+SHA256: 140179ef3cb89fd80ab454cbb491fb0354727ae49eedb5dce8115527f87a79be
+SHA512: f66af8d3009cafa29cde4dc15572ad4bc42debabef3a6a25dea9caeb617a32548a158b1623cf95818057f88ef035235fcbbd7e9daef1f47775a335eef717a57e
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
@@ -15777,15 +15777,15 @@ Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.4-1+debug
 Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 23828
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debians/Rootless/com.bandarhl.bhtwitter_4.4-1+debug_iphoneos-arm64.deb
-Size: 8694502
-MD5sum: d2e1553fe6678ba4d262ba0f6ba850a1
-SHA1: 6f5a9957ad4cd13398825fe36ad105ce6540b896
-SHA256: 0945a728be5ce8f62cf17e219cc21b7e07c9f47b105a5664ff93c41b01baed7b
-SHA512: 2eb04929cf5fe411d9fc2e9a248bea844e3ad48f52b495a5774448ea35e5055d06d94950f11b0209a84edfd67f751dfffabb7d1c3e1f8f3a35dfa27ac5b57b29
+Size: 7336826
+MD5sum: e88fb9afcd5b5670457af330bd4a0891
+SHA1: 7553fbe5665571351da924d9b64b747b18876bdb
+SHA256: 4060410fd9244a5a91a9ab852f828ada7ea55552a59c645a0f30fa41668ada76
+SHA512: fb16f5f66c7b9ebe97a4f6cff4ceb935eb11ec0fbf2a21d26c00c503a7835540e56ac6585378d643c834aab4bbaef61fd3f6252f16d7d439e1b92b6748eddff5
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
