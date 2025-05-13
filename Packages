@@ -1585,6 +1585,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.infuseplus_2.1_iphoneos-arm.deb
+Size: 400146
+MD5sum: 1c7dc95dc0700143d1397c6c5326e20e
+SHA1: e9e5343ee99dd8c1b84aef6d1e64c711db64be89
+SHA256: 88ebf97d9598e85bbfd8e30a598eceb8f9856c793304761468e6fd380764ca90
+SHA512: 39e1880686b92138c09f4023f531febe9d513c4faef56031eb2d1e0a873d526e563dacec8e28ef4e3a482278c9ba9f25653a8f4d8d4b000377ec2001587a974e
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -1636,6 +1655,25 @@ Description: OLED Dark Mode for iOS System Keyboard
 Name: OledKeyboard
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+
+Package: com.dvntm.ovk
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 28200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.ovk_1.1.3_iphoneos-arm.deb
+Size: 10140416
+MD5sum: eb50b60fda7cd9dd6c0d17b3c994973e
+SHA1: cd9ad1ebfa7b2eb99155d89a2fc0ec69615743e6
+SHA256: 7a70234931cb0a1975d990d0073be8a5cfe8a7174b65282ff04d6ecaab0a8bed
+SHA512: 3cdbce69d29015f5fe3da323d8a82503b13ba8527c38f42c63bbcc6c3392b3b63be7538351bff7fcb6912486bbcda015780b248da9cc5dedff2f9cd752114d6b
+Description: A subtle shift from the familiar
+Name: OrwellVK
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
 
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm
@@ -2770,6 +2808,28 @@ Description: Show hidden apps on the homescreen
 Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
+
+Package: com.lheap.whatspad
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.lheap.whatspad_2.0_iphoneos-arm.deb
+Size: 7450
+MD5sum: 8df6b0714ea0fe31cf00a27ea50cc494
+SHA1: d8e3c68e0680ca2ffb094bf2d3b34090c4821278
+SHA256: 65d3a1957400007c33642c30ba062fdd6f9ead043e29e50b9aed77cf83354e0b
+SHA512: 5e2bfaffebce6d30017f81f925c729732f37afbbabdf162d7dcdf8b97ede999ce5ecb633b2fce5099c97d28eb767234079d721b13e5945f63031d533fe3d6f4d
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Description: Enables WhatsApp Messenger on iPad
+Tag: purpose::extension
+Name: WhatsPad
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Author: Lee Heap <lee.heap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lheap
 
 Package: com.macthemes.axolotl
 Architecture: iphoneos-arm
@@ -8097,6 +8157,44 @@ Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.infuseplus_2.1_iphoneos-arm64e.deb
+Size: 399290
+MD5sum: f428aeacdf173a3dc2e2c563cf8afa53
+SHA1: 38f63789363118680d4573439cdedc8345e55857
+SHA256: 423ec528dba78a34f8375465df2d2e14749fc4aeaff1682c3c80b11987033d54
+SHA512: 6456a2d4cb5216dd568ca341316f91ead7a6cf08860f3e38c88b7b6456dc463eae55c22c93e24e6e8a7ed2054cfc65b3f47acbd16cbc88fa6fbd0edeac8cacda
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.ovk
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 28184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.ovk_1.1.3_iphoneos-arm64e.deb
+Size: 10151074
+MD5sum: 2a576270a40813b7135bdd46b2b1f0b3
+SHA1: faff4033dcccccf7ba6f83fe25c5795eb48036c8
+SHA256: de56dd9ca16ade01d84c2d144929d2d60927374669b4c1f4b4104ae0d9b60677
+SHA512: ebb71d520099d7107ebc4984461def3159ff3d53b1a7cf9c792ed06d62913962ab571c4679dc1eb7e390ed302349d3318668b14b92b722b8a7da6d282bef5c1d
+Description: A subtle shift from the familiar
+Name: OrwellVK
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
+
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -9543,6 +9641,29 @@ Description: Filter out unwanted content from your Reddit feed
 Name: RedditFilter
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.redditfilter
 Author: level3tjg
+
+Package: com.lheap.whatspad
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 114
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.lheap.whatspad_2.0_iphoneos-arm64e.deb
+Size: 4284
+MD5sum: bef2026a2e0d917dd7691b33741b4fd0
+SHA1: 08a0981347404b4035c73a26c212a61ac36c771e
+SHA256: 4bbaf38d903bc8d3b426147823bdda66b4e2248a6eef7f7f9aa538eb1295822d
+SHA512: ed5ac20efafbd7ccfa73942fa34f03c099eed854c40bfb1adc1077846cf429438789d9ff35460d7b63b3d7f8553f51de7b1bef179431885d1fe38c0967920a5b
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Description: Enables WhatsApp Messenger on iPad
+Tag: purpose::extension
+Name: WhatsPad
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Author: Lee Heap <lee.heap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lheap
 
 Package: com.lnx.showtouch
 Architecture: iphoneos-arm64e
@@ -16457,6 +16578,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.infuseplus_2.1_iphoneos-arm64.deb
+Size: 399984
+MD5sum: 6f06d224a7689b48a209ee5b52af0122
+SHA1: 726e588ddf0e635e9c6f8fb165283fa0bbdf963d
+SHA256: 4fdd3743d750db9c8a6cccbe76463ef07b891a98ba8882ce817033c91ee71c31
+SHA512: 40b5989059620305e53f10c2d1639d333b4c81b0ee078a45f1da830863c3428822242c6a7c17c48f6bfcd9a7535ca9b28634e7e0ff35269ad77c2cb9803c3b70
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -16508,6 +16648,25 @@ Description: OLED Dark Mode for iOS System Keyboard
 Name: OledKeyboard
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+
+Package: com.dvntm.ovk
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 28200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.ovk_1.1.3_iphoneos-arm64.deb
+Size: 10149276
+MD5sum: c59e0b9adc27f35e252142d9759a2dd8
+SHA1: 5d9d12e25e873cd371abc61c82e8ef23740b9c2e
+SHA256: 4c4d9bfa84d5515cae62074104e522613e4d87f83354dc66995e75a5289456a5
+SHA512: e0a19fb0c201852282401dcb87085a6661c7a60b00e3bb473ba0db97a2cb18fad378e32976ccaf8d6e509d4586b929a64b440c2570b16c5cf37cf8fa9d0a372c
+Description: A subtle shift from the familiar
+Name: OrwellVK
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
 
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm64
@@ -17934,6 +18093,28 @@ Description: Show hidden apps on the homescreen
 Name: VisibleApps
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
 Author: level3tjg
+
+Package: com.lheap.whatspad
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.lheap.whatspad_2.0_iphoneos-arm64.deb
+Size: 3332
+MD5sum: 794b5f08fe4c6335de293f6e05fcc2e4
+SHA1: 8e47998fb7e65d77bc30b96d2271622aac8d36bb
+SHA256: f49df14d0db318f81fed408e80ea3820e01a76ab983e309c53d4636ac34511e0
+SHA512: afa6977022947c2c1d1708c44743403985e5d6b218d4ed8a0af1be7a9ebb577c37bb212c05ec53d98926ace7e4ec64e8b7fd2cd8708addcdb34dd78bcc97afb7
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Description: Enables WhatsApp Messenger on iPad
+Tag: purpose::extension
+Name: WhatsPad
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Author: Lee Heap <lee.heap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lheap
 
 Package: com.lizynz.folderxx
 Architecture: iphoneos-arm64
