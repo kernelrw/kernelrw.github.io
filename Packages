@@ -1638,6 +1638,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.infuseplus_2.2_iphoneos-arm.deb
+Size: 406180
+MD5sum: 036247ace1807ebf3b562eceb2165e90
+SHA1: 8af9ae8ea15cc0783b37e59a9faf270719c8b350
+SHA256: 56e8ef02c0fe6032fd8fd6ac315add69ff1be63463560ebee4363d739dcfc86c
+SHA512: a65ac1aa5b391f92461f3c34c019467658b8ded1ddfb3d8bd145e070a4faa3fc5a3d3d99eeabb3cc10f208cf5e5affbf1529241ed17762820ed2c8dbefb59c31
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.lsnoswipe
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -8346,6 +8365,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.infuseplus_2.2_iphoneos-arm64e.deb
+Size: 405142
+MD5sum: 57a609f56321d15bd837b4810d23c2ce
+SHA1: 859acacaa3b45ac03a005f15fb4d1e290a74155c
+SHA256: ce35fe119940100a2c252356895b6d5b0d71784c152a87c8ed02f641f1a7dcec
+SHA512: a5033a0318c2993d7340f5b2ef471815f4f97dd9d18d74dea418ffd448ac4439daf30b030ff5837c40f8c071c2f9421eb0ad60598130638202e8962b20deb1d2
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.lsnoswipe
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -13439,6 +13477,23 @@ Description: CPU Battery Saver Battery Connected State Not Change Remove Monitor
 Name: Fix Repair System Power
 Author: ash <krylov0@outlook.com>
 
+Package: com.yourepo.0xash.fuckthermal
+Architecture: iphoneos-arm64e
+Version: 1.2-38
+Section: System
+Maintainer: Shadow- <krylov0@outlook.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader (>= 2.2.3)
+Filename: ./debians/Roothide/com.yourepo.0xash.fuckthermal_1.2-38_iphoneos-arm64e.deb
+Size: 279700
+MD5sum: 5d7bad5ad2834dc816e7637dc6d953ad
+SHA1: d3db3a0db96749dc56745f843b9aa20ffb70a9ec
+SHA256: 9fb98ca2fcd725b612e45023a94045079bbd703b12dab2f8e86ddba1abd1afb8
+SHA512: f7665a55ed3ee102d9c80ad13ba17af7e1d5a0e33335877c47b93bf69d612e910d54832f020cae3a063fbffef69a8728c95c896cfe9b61a90207bd72d8c825d4
+Description: An awesome MobileSubstrate tweak!
+Name: fuckthermal
+Author: Shadow- <krylov0@outlook.com>
+
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode
 Architecture: iphoneos-arm64e
 Version: 0.5.1-11
@@ -16921,6 +16976,25 @@ MD5sum: 6f06d224a7689b48a209ee5b52af0122
 SHA1: 726e588ddf0e635e9c6f8fb165283fa0bbdf963d
 SHA256: 4fdd3743d750db9c8a6cccbe76463ef07b891a98ba8882ce817033c91ee71c31
 SHA512: 40b5989059620305e53f10c2d1639d333b4c81b0ee078a45f1da830863c3428822242c6a7c17c48f6bfcd9a7535ca9b28634e7e0ff35269ad77c2cb9803c3b70
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.infuseplus_2.2_iphoneos-arm64.deb
+Size: 405960
+MD5sum: ffe1aa91502cfdac7a7d210bb02b7874
+SHA1: 8e90feedc7e8bc7e28122d84480f9495a94a158f
+SHA256: 548262ed5cc6c77cabbd7c6503f1b100b2b6d2b606c78ee93aaf0822dd65bf0f
+SHA512: 099054f476a97a8efaa0a9a34681dd4649acf8b49fb852a4a6119c86fe0b7f49baed2b9ae269bb4bc35e33bd9a48fdb6f0d5d37a28369962cbe5b9a7cd44aa48
 Description: Enhancer for Infuse app
 Name: Infuse Plus
 Author: dvntm
