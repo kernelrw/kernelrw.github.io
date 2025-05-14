@@ -1131,30 +1131,6 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/CustomLPM.bundle/CustomLPM@2x.png
 
-Package: com.cydiageek.fastdeletekey
-Architecture: iphoneos-arm
-Version: 1.0.4
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 638
-Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
-Filename: ./debians/Rootful/com.cydiageek.fastdeletekey_1.0.4_iphoneos-arm.deb
-Size: 73996
-MD5sum: 03010b82d728bc07cba1c76e7c897759
-SHA1: 8868dfff0b2a28d9736cdd163ce919e1deb79ad7
-SHA256: 882439f60cd406bf2a95bccd9052d949cbe67a72b552a412690313ffa616cf1b
-SHA512: e6b73af6f66faf6cc85af3ffd0aaf915b0927b263743290706358c3a6510e6eb47fcf4ddc9ead0c1e183c66f0a54bb77da8e29571c0dd5ff591d0567c13d3730
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
-Description: Custom Characters Deletion Fast Speed on Keyboard!
-Tag: purpose::extension
-Name: FastDeleteKey
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.fastdeletekey.png&s=180x180&f=webp
-
 Package: com.cydiageek.gyration
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -3511,6 +3487,30 @@ Description: Electra Switch
 Name: Electra Switch
 Author: Fadh1l
 Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
+
+Package: com.nef0pam.fastdeletekey
+Architecture: iphoneos-arm
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 638
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debians/Rootful/com.nef0pam.fastdeletekey_1.0.4_iphoneos-arm.deb
+Size: 73996
+MD5sum: a6e5feef011c93e609415b54197c39f3
+SHA1: 8dc821971ad8060d1e6925b80ee643331b23e59b
+SHA256: c5ab59f9ae1197814021d9e650365aaaf1e3c22805bdb9573c11fcb5db3d1471
+SHA512: 2903bfffe08f47def37972cb992199d6c24e7681a9c739920c332dfd5925dad53bd6eee991625a06e26e12b4e9739a91a164801b7531670a87471f531e9aca75
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Description: Custom Characters Deletion Fast Speed on Keyboard!
+Tag: purpose::extension
+Name: FastDeleteKey
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.fastdeletekey.png&s=180x180&f=webp
 
 Package: com.nef0pam.firstlook
 Architecture: iphoneos-arm
@@ -8061,31 +8061,6 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
 
-Package: com.cydiageek.fastdeletekey
-Architecture: iphoneos-arm64e
-Version: 1.0.4
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 637
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
-Filename: ./debians/Roothide/com.cydiageek.fastdeletekey_1.0.4_iphoneos-arm64e.deb
-Size: 86806
-MD5sum: 80fd3618c4dfd30d5fbb5558798aa3e3
-SHA1: a56b07e41ad24f694fe4379c5e2804aac682e819
-SHA256: dba3d017ee0d676f03d6c5bc2029419ee1a5078cb2aec7df3d92dd49dfc012c1
-SHA512: 7ce912557d42a5cb1fe9a5d3575585c8d0a0a995c8113ec2c8b9303d0c57119e300ae17a7065f2214acb706cf4be6bfd6a3f292cbb9141c3b924cc765f8d9781
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
-Description: Custom Characters Deletion Fast Speed on Keyboard!
-Tag: purpose::extension
-Name: FastDeleteKey
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/FastDeleteKey.bundle/FastDeleteKey@2x.png
-
 Package: com.cydiageek.igimagesave
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -10705,6 +10680,31 @@ Description: Electra Switch
 Name: Electra Switch
 Author: Fadh1l
 Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
+
+Package: com.nef0pam.fastdeletekey
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 637
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debians/Roothide/com.nef0pam.fastdeletekey_1.0.4_iphoneos-arm64e.deb
+Size: 76236
+MD5sum: 5fac34c9791c12ece40719304af32f3c
+SHA1: 59dc9f956bc8d7b19b37edc457160f01f234bc7b
+SHA256: 1bcd9a4329c7f853abea709bc50f11fd37c823ccd443582e7b14d9829b05929c
+SHA512: 229a6f056d1d3d8822d987d162121a45666fefa682363fb38be1e50aea16a057e6f4864c81920a6b9a5ae5dcea23b9c30276cd3b2eccd9dc7d7a3ef19ad68ab6
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Description: Custom Characters Deletion Fast Speed on Keyboard!
+Tag: purpose::extension
+Name: FastDeleteKey
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.fastdeletekey.png&s=180x180&f=webp
 
 Package: com.nef0pam.firstlook
 Architecture: iphoneos-arm64e
@@ -16399,30 +16399,6 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
 
-Package: com.cydiageek.fastdeletekey
-Architecture: iphoneos-arm64
-Version: 1.0.4
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 637
-Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
-Filename: ./debians/Rootless/com.cydiageek.fastdeletekey_1.0.4_iphoneos-arm64.deb
-Size: 73834
-MD5sum: ea0b243fd50f12c261fe558a7658a96c
-SHA1: 1c0bfcb456943b9e37fd378284cc9654f768aedb
-SHA256: d8506a35d6f508b416a9842e0bd661df3643f91cdfe820f214457c45b6e74e77
-SHA512: 233ed32934b3e7e1b440677ca314bffa0230cc54a75c9338e6fc36c956c7e697ad1dce4655a48e2c5565e27a28974c651d16e7c56d45828bef19b4ae15591d62
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
-Description: Custom Characters Deletion Fast Speed on Keyboard!
-Tag: purpose::extension
-Name: FastDeleteKey
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/FastDeleteKey.bundle/FastDeleteKey@2x.png
-
 Package: com.cydiageek.gyration
 Architecture: iphoneos-arm64
 Version: 1.1.5
@@ -19494,6 +19470,30 @@ Description: Electra Switch
 Name: Electra Switch
 Author: Fadh1l
 Icon: https://theapplewiki.com/images/applewiki/thumb/a/a6/Electra_Logo.png/800px-Electra_Logo.png
+
+Package: com.nef0pam.fastdeletekey
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 637
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debians/Rootless/com.nef0pam.fastdeletekey_1.0.4_iphoneos-arm64.deb
+Size: 74032
+MD5sum: 9f01630b798f0ffd63f212fc4de9259f
+SHA1: 8c42cc1fafcbaa2250fd6aa2f6615e439833dacb
+SHA256: aacc75eb30b8fa8d7d247fb812b1978ec078b000fdcb806f94b5dbc3c8faa551
+SHA512: 845e807035a4f4645a1c869e1c23b274f380d1034bf034cb3ca8e97f0fcc9516b851cd02d9771215635b3add05db6ccd166a2f04be7178b07e7b0beae795b8f1
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Description: Custom Characters Deletion Fast Speed on Keyboard!
+Tag: purpose::extension
+Name: FastDeleteKey
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastdeletekeyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.fastdeletekey.png&s=180x180&f=webp
 
 Package: com.nef0pam.firstlook
 Architecture: iphoneos-arm64
