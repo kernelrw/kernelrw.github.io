@@ -2684,6 +2684,26 @@ Author: julioverne
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
 
+Package: com.julioverne.fiona
+Architecture: iphoneos-arm
+Version: 0.1-1+debug
+Section: Tweaks
+Maintainer: Julio
+Installed-Size: 224
+Depends: preferenceloader
+Filename: ./debians/Rootful/com.julioverne.fiona_0.1-1+debug_iphoneos-arm.deb
+Size: 11740
+MD5sum: 34bdde632356ca7c9daa4c8cfd904576
+SHA1: 93ad731605156bc28f9d2f23e5618dace29ab9f7
+SHA256: 99fb90b5dbc0575b0bcdb7b23b750552cbbc42b65685903390a0996562fa6702
+SHA512: b4f482b2d82254c152bd2350fa20a3f89b31b068e9f28fd4a3c35df0fcbb4c06f32b8b67e5d2c35899d0763cce6aaf88804b33ed2279230354cd9e1165ab1fdc
+Homepage: https://twitter.com/ijulioverne
+Description: Keep WiFi Always Connected
+Name: Fiona
+Author: julioverne
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Fiona.png?raw=true
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm
 Version: 0.0~beta6
@@ -4756,6 +4776,29 @@ SHA512: bdde5daf693aadd74974ce6df103e6b1266570b131723836f2a3a9f0f68eaed60a43a820
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.rpetrich.powercuff_0.2_iphoneos-arm.deb
+Size: 12748
+MD5sum: 62b57e42607468ac862fb627f8ff260b
+SHA1: 5a829455341c3b0aada790722fb9136b764ac80a
+SHA256: 3c2ce55067737c2711954e269bccc7dcecca1d5ea3c8434f64ee6caa64a51d01
+SHA512: c38b5fe25ce12ee99bdeac01e44f61c0799db16ac5b7643d79f91aed27c95e40bd3d70b823f4be83f835fa4d96a3caa492a688463e00589775e990310ec3695c
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
@@ -9385,6 +9428,27 @@ Author: julioverne
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fjulioverne-s-repo.png&s=180x180&f=webp
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
 
+Package: com.julioverne.fiona
+Architecture: iphoneos-arm64e
+Version: 0.1-1+debug
+Section: Tweaks
+Maintainer: Julio
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: preferenceloader
+Filename: ./debians/Roothide/com.julioverne.fiona_0.1-1+debug_iphoneos-arm64e.deb
+Size: 12872
+MD5sum: 3f17214b39188a24ac7682c66b915f72
+SHA1: 22fb3b82f6f55821eaf0a2853190187e91a5be4d
+SHA256: 479da5046d0fd348a446a5779b2e1ef9a73bf3d75d95b79a4db59b54da89f352
+SHA512: 9f0c3e935987582d83c1c777e32110ae14cca74b9cf26235acedbb2fd05444681487cc72430dbce0e107054414fcd8565e1e71ac493fd57b87018a15b8f2a205
+Homepage: https://twitter.com/ijulioverne
+Description: Keep WiFi Always Connected
+Name: Fiona
+Author: julioverne
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Fiona.png?raw=true
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64e
 Version: 0.0~beta6
@@ -12368,6 +12432,29 @@ Description: RootHide Dynamic Patches Loader
 Tag: role::developer
 Name: PatchLoader
 Author: roothide
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64e
+Version: 0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.rpetrich.powercuff_0.2_iphoneos-arm64e.deb
+Size: 12760
+MD5sum: d1233884f5bd6edba2fdbea77eb8a1b3
+SHA1: b68cd14daa78730699482c823f8b5707f44aba1e
+SHA256: 7008955edbd68a149d5ae848d70f8355d4ecaceb6682ed384ad8b8df4b5c9da7
+SHA512: 8fe06918678777772dbabfb9f596936a830ae664709015ce7df8479382e3f94c36c05a4bb3831554739031eb1a324a2f94d5b4a92d2f549631b8d7f79b3fd49d
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64e
@@ -18140,6 +18227,26 @@ Name: AutoLockX
 Author: julioverne
 Icon: file:///var/jb/Library/PreferenceBundles/AutoLockXSettings.bundle/icon@2x.png
 
+Package: com.julioverne.fiona
+Architecture: iphoneos-arm64
+Version: 0.1-1+debug
+Section: Tweaks
+Maintainer: Julio
+Installed-Size: 224
+Depends: preferenceloader
+Filename: ./debians/Rootless/com.julioverne.fiona_0.1-1+debug_iphoneos-arm64.deb
+Size: 11840
+MD5sum: cd9e1b36f35aea297f3233769b4d3fca
+SHA1: 1be1386b6b4251629bea3047b647dbff0f7b6636
+SHA256: 7d433a1ac052b27c08707f152574100e474302b7317de9ce0ff6a83be7fe5bc8
+SHA512: 3876193fa1e487cbef52b61429945fef3ed1364929fc88d70760a473c8684a47ded6ad80dbf1b13faa8c6a07a27700eeb33fa992d98a4d1e54357415c13c8851
+Homepage: https://twitter.com/ijulioverne
+Description: Keep WiFi Always Connected
+Name: Fiona
+Author: julioverne
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Fiona.png?raw=true
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
 Version: 0.0~beta6
@@ -20800,6 +20907,29 @@ SHA512: d76382adb939200f9ba3957072e97e26bf60c1e3238a9e95dba41c42e6793a81677823d1
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64
+Version: 0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.rpetrich.powercuff_0.2_iphoneos-arm64.deb
+Size: 12840
+MD5sum: 0e6dd83d75f9acfa94fb83628a0ebe66
+SHA1: 7190d54d601a24abf716850bbdec713c26add7fb
+SHA256: 38568cdb32cc9f981a133eec78af828d8b8f3f1de7d733b0a03fa7cd7c161b17
+SHA512: 77b3bc2f08feeb087cd9f0c9d9173a9407d2a063a0ec253d384cff7fae8a43bd3b7d3372c738634209fc95eb63e3f78a649211e71213c4a9b8fb1f3286cc8a94
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64
