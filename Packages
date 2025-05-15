@@ -20572,6 +20572,26 @@ Name: ModernSettings
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Ftwickd.com%2Fimages%2Ff8cb38eac4198b7c0812d7e075313c08.jpeg&s=180x180&f=webp
 
+Package: com.p2kdev.twitternoads
+Architecture: iphoneos-arm64
+Version: 1.2.6
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.twitternoads_1.2.6_iphoneos-arm64.deb
+Size: 8228
+MD5sum: d76711985fcd880967ba42f6fc29c3d5
+SHA1: 524d7320a541e18c8a210a73b570412530ed761f
+SHA256: 221ed62a492a9afcdc2f75a1cf867261e392c0fe62ff35b346881684008d7562
+SHA512: e73587202d6f7d57c0703a7b1b9b4015cc0ff0abc0da12b2fcea955669251768d180c1b82868551b8b30d7b0527c086b6bf887422fe9e35cb6bed4728703ec0e
+Description: No Ads in the Twitter App!
+Name: TwitterNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
 Package: com.p2kdev.underdockk
 Architecture: iphoneos-arm64
 Version: 1.3
