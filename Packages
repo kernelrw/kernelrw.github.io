@@ -14580,6 +14580,28 @@ Tag: role::hacker
 Name: allemande
 Author: p0358
 
+Package: net.tateu.moorebarx15
+Architecture: iphoneos-arm64e
+Version: 1.0.0~beta1.0.4
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 968
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: net.tateu.moorebarx13, net.tateu.moorebarx16
+Filename: ./debians/Roothide/net.tateu.moorebarx15_1.0.0~beta1.0.4_iphoneos-arm64e.deb
+Size: 212762
+MD5sum: 80bb1686929d06ab9baebdde100bdc4c
+SHA1: 3637476d0809759aefb4f0de0ae097466f570b95
+SHA256: d3238f2f84452aeab2f0854266b6d69c8118e121952b05c9affabc0b8c423995
+SHA512: ec71262e393cd494f328f46a215046b6103647b8b7c2e4a207f78278fbfbfb44fe14c12965708e0aee49a6a408ccf5cff9edfdf8c429652a9b8d7fb858e17dd6
+Description: More StatusBar icons.
+Name: MooreBarX15
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=moorebarx15
+Sileodepiction: https://www.tateu.net/repo/html/MooreBarX15.json
+Header: https://www.tateu.net/repo/CydiaIcon.png
+
 Package: net.tateu.strongerfi12
 Architecture: iphoneos-arm64e
 Version: 1.0.0~beta5
@@ -23197,6 +23219,27 @@ Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechang
 SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.voicechangerx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 673e3d50e6fa61e9a22d888b9013b537
+
+Package: net.tateu.moorebarx15
+Architecture: iphoneos-arm64
+Version: 1.0.0~beta1.0.4
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 968
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: net.tateu.moorebarx13, net.tateu.moorebarx16
+Filename: ./debians/Rootless/net.tateu.moorebarx15_1.0.0~beta1.0.4_iphoneos-arm64.deb
+Size: 149796
+MD5sum: adb48f9337bf6dc6ba366e35b173cba9
+SHA1: dfb3fff665fd535b2cb5165f49023e73166a46de
+SHA256: b26e9ea56bb716030b78f4f9ad3a2278d011f78e6600b1991ba52a6cff1363e0
+SHA512: 089d85c060e7a0dc000bdaf4e5bdd2c1a359b33b6901b4eb3ff8470487b717a73c66395e0f9e33682f0e74ed81d49e2c2ec45cb2e7dafa81b6ee6a1f1664e605
+Description: More StatusBar icons.
+Name: MooreBarX15
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=moorebarx15
+Sileodepiction: https://www.tateu.net/repo/html/MooreBarX15.json
+Header: https://www.tateu.net/repo/CydiaIcon.png
 
 Package: net.tateu.strongerfi12
 Architecture: iphoneos-arm64
