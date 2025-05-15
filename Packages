@@ -3557,11 +3557,11 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, unzip, unrar
 Filename: ./debians/Rootful/com.nef0pam.mimport_0.0~beta40_iphoneos-arm.deb
-Size: 882716
-MD5sum: 2ccb97d5c93a1bfa3c55b8d303c134aa
-SHA1: f5b4e9347f0b7e90f5b9642712e9767bc930a331
-SHA256: 113852d9580ef5e8709152cb45180ff1e14894af38b1ff685832a7d319a8d5c8
-SHA512: dc8c9979e8070abb09a1c302f5956a60de5e0a32b21231b7a1e63958d3a6e5ad682485e6071277eb488f6d50e287a78064d89b82683ef5f2387f4e369d520274
+Size: 881680
+MD5sum: 5503be3d1f919463e9ed8cff44ea12cb
+SHA1: 89b529b0e3ab9db842ee7063e583915bc39d94d3
+SHA256: 1ffbc914b5ad2b72ff033129aecf59d8cc58b720da1766adbc11cae2fea6aceb
+SHA512: 20fd0faa6812155e312e0336bce8c7c2396c7b5c2796d64d3dd4565e0835ee7fba10d57ece54f71d1dd3ad91c14d6caae1a99db2f174615e1793bca289a74f50
 Homepage: https://twitter.com/ijulioverne
 Description: Media Importer Directly From Music App , only importing songs & videos to music app working ; importing from within Music app is broken .
 Name: MImport
