@@ -14578,6 +14578,28 @@ Description: Simple Activation Actions
 Name: SimpleActivationActions (rootless)
 Author: Elias Limneos <limneoselias@gmail.com>
 
+Package: net.limneos.aquaboardx-rootless
+Architecture: iphoneos-arm64e
+Version: 2.0-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 768
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize
+Filename: ./debians/Roothide/net.limneos.aquaboardx-rootless_2.0-3_iphoneos-arm64e.deb
+Size: 125540
+MD5sum: 5f72bab6fa7162f4306f6f55421cb2aa
+SHA1: e1f9bfdad5f50a9e276126748ca6ce02e08b84fb
+SHA256: 3189d051807148a50374fec6ab79f8eb573f80e619d34d8e139b57afc30bd573
+SHA512: 602e94dacd1c224f83798fa7efa72d377e0fba399799669a9ff9ce9878644dc0c18c1a7519b55046cd9ca53a8688ca67428ec0bd2cbace6d0f3c3cb51d985571
+Description: Amazing Water Effects On SpringBoard
+Name: AquaBoard XS (rootless) (iOS 11 to 16)
+Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.aquaboardx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 50d1adbd223be7e6e59494e2e3e8fca2
+
 Package: net.limneos.libbulletin
 Architecture: iphoneos-arm64e
 Version: 0.1-178
@@ -23227,6 +23249,28 @@ SHA512: 5e022e00eb52e8884bfe9ccc072278f5de1abccb9acede72a7227e5aefc88c3bbd71a085
 Description: Removes the recents tab from the Phone app.
 Name: NoRecents
 Author: waruhachi
+
+Package: net.limneos.aquaboardx-rootless
+Architecture: iphoneos-arm64
+Version: 2.0-3
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 768
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize
+Filename: ./debians/Rootless/net.limneos.aquaboardx-rootless_2.0-3_iphoneos-arm64.deb
+Size: 133280
+MD5sum: 97711d32ba7dbf69041b830c7aac21dd
+SHA1: 39aa4776da3ad23486e2402130808f0a6a11ce6d
+SHA256: c1312ecc2ca8b70a2930629fc88af8b398598770e91ab10034b7559007b81b7d
+SHA512: 10cd552d9773ab7cb8811495d600d5608a921a6282fb3574cb5177204dc6de5ec3bd5d4c034c4970fe4947ce2620c7b841dc5a79f44cc326e7da59442da6c117
+Description: Amazing Water Effects On SpringBoard
+Name: AquaBoard XS (rootless) (iOS 11 to 16)
+Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.aquaboardx
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 50d1adbd223be7e6e59494e2e3e8fca2
 
 Package: net.limneos.audiorecorderxs-rootless
 Architecture: iphoneos-arm64
