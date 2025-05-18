@@ -3768,6 +3768,42 @@ Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScr
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
 
+Package: com.nef0pam.switchtheme1
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Axs
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.nef0pam.switchtheme1_1.0.0_iphoneos-arm.deb
+Size: 43580
+MD5sum: cd8c49db5b23b969c2f087007d4ae234
+SHA1: 9baa5535293bcf30cae52af579bfacf4086cdfc7
+SHA256: e66bb5464ce5a044923bf95879e76c37f7d4de85d03175d7421ac035e3c4590b
+SHA512: 1771ee177e10246741fbdd3e962f404017cc6d986bf273effb557dc0c3b01e0165c9b6d70b84e0e046d89bf682f4ad46fe8660d48b4182194af9cbe8250ba2eb
+Description: This new switch theme features a core design of three hooked eyes drawn in a semi-translucent style, with the hooks slowly rotating when turned on for the ultimate silky smooth experience.
+Name: SwitchThem1
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/switchtheme1.png
+
+Package: com.nef0pam.switchtheme2
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Axs
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.nef0pam.switchtheme2_1.0.0_iphoneos-arm.deb
+Size: 43516
+MD5sum: 458555df6437cf37ac32102c00f7b724
+SHA1: 3ec1c50b9550f027c95e0188091db0fa762f0321
+SHA256: feca48ade2058b5a9a73e1c51a6c5a1e592d8016904888d65bbc5a0014158e69
+SHA512: df192b7ffde826ca08a35f086ee4b473866a3e1a820449a75caf600548c6951810d844286411cbccb162f48573757655dc18c8b5310e62bda1e5361f68a4b574
+Description: This new switch theme features a core design of three hooked eyes drawn in a semi-translucent style, with the hooks slowly rotating when turned on for the ultimate silky smooth experience.
+Name: SwitchTheme2
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/switchtheme2.png
+
 Package: com.nef0pam.unc0verswitch
 Architecture: iphoneos-arm
 Version: 1.0
@@ -10933,6 +10969,44 @@ Description: Roothide Switches
 Name: Roothide Switches
 Author: Fadh1l
 Icon: https://theapplewiki.com/images/applewiki/thumb/c/c6/Dopamine-roothide_Icon.png/800px-Dopamine-roothide_Icon.png
+
+Package: com.nef0pam.switchtheme1
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Themes
+Maintainer: Axs
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.nef0pam.switchtheme1_1.0.0_iphoneos-arm64e.deb
+Size: 60484
+MD5sum: db9c6fae830f072f6748b533e51f1e2b
+SHA1: a9b2e37b5e90a2d51aba23f8347a44c16a058147
+SHA256: 1dd7f87ffe07aae4e3f8a24c21662a2c90629cece84f17a7ca11dbdc4c4a6d6d
+SHA512: e3659bbc226e7735d2b3908c42174b04645a365ce1c10327ab672a8af080dabe390e4ec93dd0ada09d124577716e369c7eb20624d0c2b40be54b020d42bed26f
+Description: This new switch theme features a core design of three hooked eyes drawn in a semi-translucent style, with the hooks slowly rotating when turned on for the ultimate silky smooth experience.
+Name: SwitchThem1
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/switchtheme1.png
+
+Package: com.nef0pam.switchtheme2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Themes
+Maintainer: Axs
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.nef0pam.switchtheme2_1.0.0_iphoneos-arm64e.deb
+Size: 60230
+MD5sum: c1d27309d901f4c86ec610cdffe7d82e
+SHA1: 897cde0d7ff871e0789b44d38069d55ee4ac7a84
+SHA256: ad7439822176a97ecd27921bb8b77c175dc8613fbc3c585070206246632ae67e
+SHA512: 6a69a30989ab2f9ab396fb0e4a59d1fc2e800ee161621b7bfe1db01393bc4863f8e570edfcfd23856e0525a9ef4004433c0f475f33a6a3218e108763a873bfbf
+Description: This new switch theme features a core design of three hooked eyes drawn in a semi-translucent style, with the hooks slowly rotating when turned on for the ultimate silky smooth experience.
+Name: SwitchTheme2
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/switchtheme2.png
 
 Package: com.nef0pam.unc0verswitch
 Architecture: iphoneos-arm64e
@@ -19829,6 +19903,42 @@ SHA512: 347a46ac197e33002e122dd18e5e48766a9bd466b133b456a69ee37badf9eeec61f427bf
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.nef0pam.switchtheme1
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Themes
+Maintainer: Axs
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.nef0pam.switchtheme1_1.0.0_iphoneos-arm64.deb
+Size: 43660
+MD5sum: 754b443a45251522fb14624748c2bcfe
+SHA1: aacc506e0da1d672e95d8eceffe65cd581f4bc8d
+SHA256: a69df008bf8a8b02d8723bfe8596435c442c099d903d8789451449c4a270d50d
+SHA512: ffb3ba6d6b61353c28df73670a3e8fc9fb4bd5117b677b9d8331fecfd184eb9786472ad37044b2499213dff68b5e13da329fd8dc4f8ff88c1238df121f4cf365
+Description: This new switch theme features a core design of three hooked eyes drawn in a semi-translucent style, with the hooks slowly rotating when turned on for the ultimate silky smooth experience.
+Name: SwitchThem1
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/switchtheme1.png
+
+Package: com.nef0pam.switchtheme2
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Themes
+Maintainer: Axs
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.nef0pam.switchtheme2_1.0.0_iphoneos-arm64.deb
+Size: 43436
+MD5sum: 5341d5e1a19132ebbe0752a5974da423
+SHA1: 7afe7a958b02afdf2bedbfcb3cec36dae0d4804b
+SHA256: 8fd4b8cf0def0fff007e14fd7eb54a9a5489252c91ea09e4249d2080a1bb8aea
+SHA512: 6627fe2b2a586776927a46762d00fcf01036e121d1fcd28ca10778e1c266bd39c615c6a268815f12461b2b26ef03210f5617a5945b47dec1b25209e0a22f0873
+Description: This new switch theme features a core design of three hooked eyes drawn in a semi-translucent style, with the hooks slowly rotating when turned on for the ultimate silky smooth experience.
+Name: SwitchTheme2
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/switchtheme2.png
 
 Package: com.nef0pam.unc0verswitch
 Architecture: iphoneos-arm64
