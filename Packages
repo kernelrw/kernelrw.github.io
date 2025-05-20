@@ -1545,6 +1545,23 @@ Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 
+Package: com.dvntm.fbo
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.fbo_0.0.1_iphoneos-arm.deb
+Size: 3098
+MD5sum: 0fc2d580d3e6a28d9a6a11923537a34d
+SHA1: 21ca34e0ebf7eaea74463a5a00bf0eb60db3b1a4
+SHA256: 8ab6d5eeb0eccd164bd931af5c96e122636ca3419e0cb69b02debccea034d53a
+SHA512: a556e2895352bde078343a26f5bf13817f0da50565e5789a04feca8d1119aea885ebf4255076f07544f983f0c4178fbf77de15264f2244d41916ba65cd9c154b
+Description: Displays only the Browse tab and hides the tab bar
+Name: FilesBrowsingOnly
+Author: dvntm
+
 Package: com.dvntm.grox
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -6001,6 +6018,23 @@ Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
 
+Package: jp.uzra.lineconfirmcall
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/jp.uzra.lineconfirmcall_1.0_iphoneos-arm.deb
+Size: 8980
+MD5sum: f18f485ea922022b8c8a464548198441
+SHA1: 9a0f4ff5daf0d25780afae2d818119e0081ba07e
+SHA256: 4eb9dd4d003dfd48a16394a260a6ea832e80cac7ab4d8639f4c214cbfb1e8d9f
+SHA512: d749136d6a007c53435d9a6a7de617f6f1bb49d26364b31979a676b0c80c959dc0c48b420f1a82a42222b1e9b79b0d827ba91f81586835e0457dd0fb54481e9c
+Description: Shows confirm prompt on pressing call button on LINE
+Name: LINEConfirmCall
+Author: uz.ra
+
 Package: jp.uzra.zebranorespring
 Architecture: iphoneos-arm
 Version: 1.0
@@ -8364,6 +8398,23 @@ SHA512: 0de765581d2b096c48ae131393110832494bfc3f3d7cb42341dc05576642692d1390fc69
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
+
+Package: com.dvntm.fbo
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.fbo_0.0.1_iphoneos-arm64e.deb
+Size: 3110
+MD5sum: 4dc4f7ca521eebbc9f8b0dac36c3f3fa
+SHA1: dadeacc7205397deb032cbdee706ffcea0a65811
+SHA256: c3d56859f35f784a64999c1459e34560a79eaa0b80d94dd530b966616e59108c
+SHA512: b04e54966a99fbc973292e75b4e34a9025724f205a76b390d5f2725f701952cf3d328b65de08eb53c7eb76f7e9a46d883c9817afbeac3dd461a6ffad472018f1
+Description: Displays only the Browse tab and hides the tab bar
+Name: FilesBrowsingOnly
+Author: dvntm
 
 Package: com.dvntm.grox
 Architecture: iphoneos-arm64e
@@ -14106,6 +14157,24 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 
+Package: jp.uzra.lineconfirmcall
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/jp.uzra.lineconfirmcall_1.0_iphoneos-arm64e.deb
+Size: 12016
+MD5sum: b554c3eeeb233d3ac7422dab622216c5
+SHA1: 21fdf739bb4d72f39f9da4628d64b2b098b0b249
+SHA256: 7622e5a46646a0fb9e0598d16c193ad6fdda9b2b308aba3c3002525b6ca2ab9a
+SHA512: 66640537f4feb9d0efadf8b32bb17f2568f2871448037879b31630e75884db48966bf133f94680126bf5f00fdfb37da9a11951e49535552e5e8f83b396ad1a50
+Description: Shows confirm prompt on pressing call button on LINE
+Name: LINEConfirmCall
+Author: uz.ra
+
 Package: jp.uzra.muteplay
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -17088,6 +17157,23 @@ Description: Round CC modules replication, like in iOS 18
 Name: CC18
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+
+Package: com.dvntm.fbo
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.fbo_0.0.1_iphoneos-arm64.deb
+Size: 3174
+MD5sum: bc4717d8d9e580b7cdc2e2da3897112d
+SHA1: a73a9e979dc61d5a94094ecea083e95336f2bb3c
+SHA256: eeebc46d62a059e0a2eacef4411d692f04d0bd3ccaa490bfc70dea4a0cd23b79
+SHA512: 681c103fe76bc5e5a2cae53bff14d92fdfa211616ba7480cec37ba7b5acadaf8fa2dfe36051abdc5e0cf1482b889777abd563de2a1410322a92386e01feb72a2
+Description: Displays only the Browse tab and hides the tab bar
+Name: FilesBrowsingOnly
+Author: dvntm
 
 Package: com.dvntm.grox
 Architecture: iphoneos-arm64
@@ -22905,6 +22991,23 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
+
+Package: jp.uzra.lineconfirmcall
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/jp.uzra.lineconfirmcall_1.0_iphoneos-arm64.deb
+Size: 9080
+MD5sum: 6ebf7db204c963eea4a859f61797db46
+SHA1: 78f072947d6acc50180b21dfeda561d3254ad7f0
+SHA256: fd3c14d46814e4f5f34a2bbbaf757ef9f07ddbca8e6202d036d6ee9ab33f1200
+SHA512: 9ce0a989b807f2b745ddcc5c4501c5f6614495d11a3f36f3c9c36c6624e664f9233b2feaad1bd83c7f9a0a9e4680fb04e2ff78d1b11c1088065ce5cb56d4f8fa
+Description: Shows confirm prompt on pressing call button on LINE
+Name: LINEConfirmCall
+Author: uz.ra
 
 Package: jp.uzra.zebranorespring
 Architecture: iphoneos-arm64
