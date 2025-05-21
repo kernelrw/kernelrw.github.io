@@ -1195,6 +1195,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 179
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debians/Rootful/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm.deb
+Size: 4500
+MD5sum: ccf6cb906fb6daf4a9719585944c8e95
+SHA1: 7beac3d9a046ed7ff4473d084e2ed1ee4b52c8e6
+SHA256: 00311a2ab0bbb6c0c4794bf9beeb60da3a0d94c957da0438f0da7dee81102ad5
+SHA512: 32104b045fad3c72fd000ffd1e52d6abc8fc56afce59d1e147eb505c8c718ced6e05e2b01ec5468f0273755afa3c3e40548cd2d7e762e5415602ce38514f1d4f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Description: Increase the Lines for the Notifications!
+Tag: purpose::extension
+Name: MoreLinesNotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
 Package: com.cydiageek.myswitches
 Architecture: iphoneos-arm
 Version: 1.0.7
@@ -4704,6 +4727,25 @@ Description: Hide *-arm64(e) packages from Cydia.
 Name: cyarchfix
 Author: PoomSmart
 
+Package: com.ps.noytpremium
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/Rootful/com.ps.noytpremium_1.0.6_iphoneos-arm.deb
+Size: 2908
+MD5sum: dbf78360bdb7b6bea59a414c1c42831f
+SHA1: 6fd48d2ac0ff0b88c9ae82a8549ceaa14f9471fd
+SHA256: 77fb9def46189170be4b48df88e2d2891e4e3c033d34153aee620c0d5d8d38b8
+SHA512: 249124829e67cacd8ed721141163eac35286cb0a2c21775d9345f6527b8368f1ed733330bdb24f5d6134e50de33ce423a3c6aca97bdfc0446a038e90704b0349
+Description: Removes YouTube Premium upsells.
+Name: NoYTPremium
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/noytpremium.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/noytpremium.json
+
 Package: com.ps.ytlegacy
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -8160,6 +8202,30 @@ Description: Save Instagram Feed/Stories Pictures!
 Tag: purpose::extension
 Name: IGImageSave
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igimagesaveDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 179
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debians/Roothide/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64e.deb
+Size: 6272
+MD5sum: 0f87f55a296c27cff74a20c6567ecd0c
+SHA1: 1f8ac5393a655a744f001d8c3de3e95e17bbd45e
+SHA256: 0dc40e8b3527871c31cb3d2f9931fac87bdf12d000f526084e88a3da9fa21bfa
+SHA512: bfd0ac9994c633537d58a05b0e977f0fba1bcfcf376b37564dc91357a913c8e06b52e0ce6574bbd89840de086c694df7d9e1acd01fd9aa73b60d9b8f10b9271b
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Description: Increase the Lines for the Notifications!
+Tag: purpose::extension
+Name: MoreLinesNotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
@@ -12211,6 +12277,26 @@ Name: CC On & Off
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
+
+Package: com.ps.noytpremium
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/Roothide/com.ps.noytpremium_1.0.6_iphoneos-arm64e.deb
+Size: 4116
+MD5sum: ca4de15f9700be39a8d7f5a31db3ce79
+SHA1: 6c64d60b33525fc6f60f93f711dc8e44fb5914b9
+SHA256: 99779f39a09b0964ab5079eb8720e0e2d1207353a686b1c44c6cabd8f33bdc82
+SHA512: 4feb2acd68f3681848126d86839872bc94ad04acfdf1a0e1b96c611ebe73b6161bb0c030cd170b277f80e39805b29c842340bc8eaa4476cf79a0867aeb49459c
+Description: Removes YouTube Premium upsells.
+Name: NoYTPremium
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/noytpremium.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/noytpremium.json
 
 Package: com.ps.smoothcursorios13
 Architecture: iphoneos-arm64e
@@ -16729,6 +16815,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 179
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debians/Rootless/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64.deb
+Size: 4762
+MD5sum: 170b03fa6c5c53a2476e88919687ffc4
+SHA1: de2072948e50736d44df404a4e849395a464e749
+SHA256: 555490eceed4541d6c4c6cc7a4059a6ea317f9008c565895da5771a9cce00564
+SHA512: 4277535255dceed47c2ccecb3cf23dbf9885d87ecb80482d81fe6118cb0b7b37aa98fe03d290d33e1f6312bbc6e5c987608ea8080adeb78acb8cabc845025122
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Description: Increase the Lines for the Notifications!
+Tag: purpose::extension
+Name: MoreLinesNotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
 Package: com.cydiageek.myswitches
 Architecture: iphoneos-arm64
 Version: 1.0.7
@@ -21156,6 +21265,25 @@ SHA512: b7484320e92c5645b23f731c72592cef7468fb7de7273a004ba065327a85e8f699406a4c
 Description: Back up & Restore your tweaks , Supports iOS15-iOS16 . After installing run the included script .sh as a terminal command and follow the options ; backups output directory is var/mobile .
 Name: Tweak Tool
 Author: Prophecy Kitten
+
+Package: com.ps.noytpremium
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/Rootless/com.ps.noytpremium_1.0.6_iphoneos-arm64.deb
+Size: 2892
+MD5sum: 4ee1ae1b5e04c6b13279e89e223eaf4c
+SHA1: 9a9cf25954512851cee3a26a586cfd633a7d8ccc
+SHA256: a77c970848f561129e3b7c7d3f9e3cb0cba230162fd993107b958af4407ff6ee
+SHA512: 10582b69425397090188b83c07e326ad26649327dc19fef5270ba85239ea2fa064260c70638768359644d1dc7dfdb94fa1edf7644a2b4467c3fd87cc0bc5f515
+Description: Removes YouTube Premium upsells.
+Name: NoYTPremium
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/noytpremium.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/noytpremium.json
 
 Package: com.ps.ytlegacy
 Architecture: iphoneos-arm64
