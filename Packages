@@ -1336,6 +1336,29 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
 
+Package: com.cydiageek.wanometacircle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 173
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootful/com.cydiageek.wanometacircle_1.0.0_iphoneos-arm.deb
+Size: 3388
+MD5sum: 10163b67d79b16f515c1e62a81087951
+SHA1: 742d736e946171f5e5ce2de341f04e2a150c8091
+SHA256: b10fa5f01e0a8694e39c8a07a5d8635b90c1d5ed3169db400a29c0063f46644f
+SHA512: 232414447a128a1de140754c09e1c24a35dc600e56ec5c2b4ba4c2e862edaacc7472272bb0d524f2c5965f96bf5da9dba2367ec209c753ece74bda198e03cb19
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wanometacircleDp
+Description: Remove Meta AI Circle Button!
+Tag: purpose::extension
+Name: WANoMetaCircle
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wanometacircleDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
 Package: com.darwindev.alternative-springboardservices
 Architecture: iphoneos-arm
 Version: 0.1-2
@@ -8361,6 +8384,30 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/PlayMusicOnRecord.bundle/PlayMusicOnRecord@2x.png
+
+Package: com.cydiageek.wanometacircle
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 173
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Roothide/com.cydiageek.wanometacircle_1.0.0_iphoneos-arm64e.deb
+Size: 4914
+MD5sum: e9c3b0b1613ade0c2d5b382d5423a988
+SHA1: bb4a9a29298518114cd74dedf48e8c81bd9287b7
+SHA256: e31f661dc6e11f3f8d5038930b66d63c9fc44c899dd71610fa3757e378026f0c
+SHA512: bf668a1b0aeab1b1bc99442c7e3c9cc1a4d827ea1e342197b04b3dc4998d4113c233514248799ffc04a486397a5c970ad4ff35db5754db1364eff01b03608411
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wanometacircleDp
+Description: Remove Meta AI Circle Button!
+Tag: purpose::extension
+Name: WANoMetaCircle
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wanometacircleDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
 
 Package: com.daodao.sugarcane
 Architecture: iphoneos-arm64e
@@ -17071,6 +17118,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
+
+Package: com.cydiageek.wanometacircle
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 173
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootless/com.cydiageek.wanometacircle_1.0.0_iphoneos-arm64.deb
+Size: 3458
+MD5sum: 2ddb0d15baa4f8991f43af50f334f95d
+SHA1: 6a3144d0bf54ca9883e0dce084f66e8dd0fb67a5
+SHA256: 4d8ef72dd747bf1a55e86430237ba61bb0760552b4ce414ca1d274135c43271c
+SHA512: ea70de61198e0f2b81e5514c9c0949790146b4ca2285f52f6d264eea984786fad6a55fe028f1021bf7666912583aefcb0b13239dee72de562d9aa75feb546607
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wanometacircleDp
+Description: Remove Meta AI Circle Button!
+Tag: purpose::extension
+Name: WANoMetaCircle
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wanometacircleDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
 
 Package: com.darwindev.alternative-springboardservices
 Architecture: iphoneos-arm64
