@@ -2978,6 +2978,40 @@ Author: Lee Heap <lee.heap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: lheap
 
+Package: com.lns.pogr
+Architecture: iphoneos-arm
+Version: 0.5.0
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 648
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.lns.pogr_0.5.0_iphoneos-arm.deb
+Size: 80194
+MD5sum: ebb981b3fcfc99182f56d3a6a69951b2
+SHA1: c5b42a2a92ea696f1d6ec0f2527ee60a985b6c20
+SHA256: 1b5d7f5e10ee7fc9238a7827e32e865859c4a7c3d1915bb32c460f2824a8200b
+SHA512: 2a2b86752d33b817fafd7c9a1ac833e54daff6b93b92c0f366873d35b86ef693cf5aa343b34b826e325e8bdf897965c5e92added80891f0f97b3698a482248d2
+Description: Tweak for better AirPods compatibility on old devices
+Name: PodsGrant
+Author: Ruphane
+
+Package: com.lns.pogr
+Architecture: iphoneos-arm
+Version: 0.5.1
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 648
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.lns.pogr_0.5.1_iphoneos-arm.deb
+Size: 80654
+MD5sum: 7a6429d425ada14934eb0c45c127d2c8
+SHA1: 67067e0bfc9c60e58610a1673e910470a8a2f78e
+SHA256: 19719eb0b0cc1f4252ac0238323ef2dead42c7c7ffdee66d40640733acf10b73
+SHA512: 509203a0d5e9a281ea02fad463fdedc48ffb4f17f92d572b7a337a040b18e8b7b7f1b594f70732715e8dac3f7a87d314c6a5ebc3148d828d3c3271510c86bcd8
+Description: Tweak for better AirPods compatibility on old devices
+Name: PodsGrant
+Author: Ruphane
+
 Package: com.macthemes.axolotl
 Architecture: iphoneos-arm
 Version: 2503.02
@@ -10143,6 +10177,42 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadDa
 Author: Lee Heap <lee.heap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: lheap
+
+Package: com.lns.pogr
+Architecture: iphoneos-arm64e
+Version: 0.5.0
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.lns.pogr_0.5.0_iphoneos-arm64e.deb
+Size: 86742
+MD5sum: ed8f0fd73f6887038002a0ed942872da
+SHA1: 6308ec6877ac62a371632eeba1611c420dc76f75
+SHA256: 3b3fe05b2f7fad0a1c69f15088c65b6f0a29950cb20c72839c89ac5ba4f254c3
+SHA512: 37c4dc839fa71c14f1ee240228dba6eee019e89255e85ab587744e2b608d20e283f97afa6d9127f17bff813cc2635c69a68ecf2097db6bb03c67e3be4e844d7b
+Description: Tweak for better AirPods compatibility on old devices
+Name: PodsGrant
+Author: Ruphane
+
+Package: com.lns.pogr
+Architecture: iphoneos-arm64e
+Version: 0.5.1
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.lns.pogr_0.5.1_iphoneos-arm64e.deb
+Size: 86740
+MD5sum: 287b4df55056aba51115eb3095f07671
+SHA1: 2da98467717a2a5a957ea45fb382f056eb22e7de
+SHA256: b97d76db6ea84127d29c6824de1de62e1129b606c523e3d8fc4dde06995fdb49
+SHA512: dafbaf20f03035337aea2b7daf7aea02b1d73a7d6f19b3c803d5f94bb1282fc7cc4a713239871d850579007a9904fa79ee51cc4bbe6da0cc26ed075382258f63
+Description: Tweak for better AirPods compatibility on old devices
+Name: PodsGrant
+Author: Ruphane
 
 Package: com.lnx.showtouch
 Architecture: iphoneos-arm64e
@@ -19045,6 +19115,40 @@ Description: Allows you to configure folders
 Name: FolderX
 SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 Author: Lizynz <lizynz@ya.ru>
+
+Package: com.lns.pogr
+Architecture: iphoneos-arm64
+Version: 0.5.0
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.lns.pogr_0.5.0_iphoneos-arm64.deb
+Size: 74998
+MD5sum: b99f8f40e9bafdd2618d0569018d058e
+SHA1: 3158c9c2f63b6afe5d5871dcd36798815904c44b
+SHA256: d5bf36979c0603d56dea40c7394ce9a68f282260dc5c3baf8fc467216fb898e8
+SHA512: 25f43e83ea99df00a7f5f75ea8fb29f508c7bfbcd847ea2fa15108d84cb17f748b2e4136ee54d9b4e3a5d064434039d95a0bbf639c0e4ecb82aa538150b8bbd6
+Description: Tweak for better AirPods compatibility on old devices
+Name: PodsGrant
+Author: Ruphane
+
+Package: com.lns.pogr
+Architecture: iphoneos-arm64
+Version: 0.5.1
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.lns.pogr_0.5.1_iphoneos-arm64.deb
+Size: 75006
+MD5sum: 833593910291ba75933bcb327260328b
+SHA1: eb29b302eaf561d1343245d9b3fb688adbb77d22
+SHA256: 550e7850568fe44b403406adc3063af76705a7b010d1960799161e309c9af11b
+SHA512: e0615c12a28d33659975b36e59d2676596415eff2a4d3e0a70fc2f05d70d429dada53863eb5fd5411c5000f9ad7c32c7edfe09a4b75926f15e137d50a7233982
+Description: Tweak for better AirPods compatibility on old devices
+Name: PodsGrant
+Author: Ruphane
 
 Package: com.m1337.varclean
 Architecture: iphoneos-arm64
