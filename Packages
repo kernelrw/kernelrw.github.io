@@ -5111,11 +5111,11 @@ Maintainer: shiftcmdk
 Installed-Size: 424
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.2-1_iphoneos-arm.deb
-Size: 97118
-MD5sum: 57192c48221e641b698176d866e797ad
-SHA1: 694c1b97ed178a89496996f1ee4d5798bbd7838d
-SHA256: 3232688355a824baaa744ec35beca280888724d2648f78300a9616bc72f13fc7
-SHA512: 84a2c7e4ad31d6f32525b23bc7933c6474213141eec97f5096b7946113594a6f24e447d6dc026a1f3d675f86d5269c80f749b527e02e6d5db3ff05685de200ec
+Size: 50068
+MD5sum: c0d64e76dbdff2900a4860d33d752f8a
+SHA1: 911ba2b665297f8041b8dd35b19f95e6188668ee
+SHA256: d2362b8bbc88912e6f0087dc0748e062a42d4d7c6531df3fb7b6e1c5f7c8b60a
+SHA512: 66202df9e379e769bcb5fe67a5cd5cb89e9d59ab63081d810dc397e6da5e2643d6efa5233baf5493eb34b19d3c06d819add9dab3009a4358e02430d5689cfea1
 Description: Automate alert actions.
 Name: AutoAlerts
 Author: shiftcmdk
