@@ -2747,6 +2747,23 @@ Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
 
+Package: com.johnnywaity.continuity
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 364
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debians/Rootful/com.johnnywaity.continuity_1.0_iphoneos-arm.deb
+Size: 23486
+MD5sum: 9117d99a639744afc5125426b24dc3e4
+SHA1: 45cc8347af4fafe1596036aed9aa244ded8c02c8
+SHA256: 68818211d4cdebfcd226a024ecd34c25cce070fde527f08b1d53d91f7d8092c0
+SHA512: 29cbdd7f071d9027620390c66f02b32e966fdc4a429db84538ea3a0d4ed5e83eff45bf618e8f44490f667eee58d919020bd4bb6f0967340703d695de32538397
+Description: Scrollable Wallpapers
+Name: Continuity
+Author: Johnny Waity
+
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm
 Version: 0.0~beta2a
@@ -6553,6 +6570,40 @@ Description: Removes the recents tab from the Phone app.
 Name: NoRecents
 Author: waruhachi
 
+Package: moe.waru.shisha
+Architecture: iphoneos-arm
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/moe.waru.shisha_1.0.0_iphoneos-arm.deb
+Size: 11174
+MD5sum: f20631dd89c6623772ab294472c709d3
+SHA1: 69a541aa6bcab2c00b0e0bde169fc91da544b2e0
+SHA256: 71985ee690aeb4076f3c4d5da146959ad5238f70d4631c7b17cf6c35e630a91f
+SHA512: 3b1ee838c372139e3f0d99246cf8b44d079dca5b9dd408fd1c6d9d136435d63143650d3f1b2d0e0ee9b370c455ff3b70ab4667b52ec44c94838995f22522e9b6
+Description: Add scrolling and parallax effects to your wallpaper
+Name: Shisha
+Author: waruhachi
+
+Package: moe.waru.trollopen
+Architecture: iphoneos-arm
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.trollopen_1.0.0_iphoneos-arm.deb
+Size: 5886
+MD5sum: 59a4a33a6cd7529afa2b51fbb018e4b0
+SHA1: 36f4a49d7477f308a22ab7e81d4918ac4379cf27
+SHA256: 2ba1c6f7d6f3a3ee23a6315239f21dd927ae314b469c7de3f645525dbe3ff99d
+SHA512: 44530eec8076f17bb64f37455580d5c1d09179752eec5a8f351834c27dc3cca4bca2669cd0c51ccc7d3de3e84baf1b3e0ec5165de4cb0a135deabb79ab59804d
+Description: Removes the enable button in the TrollOpen app
+Name: TrollOpen
+Author: waruhachi
+
 Package: net.myxxdev.mybloxx14
 Architecture: iphoneos-arm
 Version: 4.020822-14
@@ -9701,6 +9752,23 @@ Tag: role::developer, compatible_min::ios11.0
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+
+Package: com.johnnywaity.continuity
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 364
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debians/Roothide/com.johnnywaity.continuity_1.0_iphoneos-arm64e.deb
+Size: 22242
+MD5sum: 6cbae59a6bd56b4ed59ec6cd4ed95e5b
+SHA1: 41374497ffb477db0094ae4b7ba1ab7223b5526a
+SHA256: fdedc543dd29612f83f10435a7d2fac7ef13238649216dd5f754fc168e59e2c5
+SHA512: c4c1fcb5244dad3634ce1ad0139a22d7477c92ebc01c66dfed6da1c3e943e605b6ef92fcfb42900ff5eb6133b161b326363acfb0d377b815037dcaa54c662436
+Description: Scrollable Wallpapers
+Name: Continuity
+Author: Johnny Waity
 
 Package: com.jschiefner.advancedbrightnessslider
 Architecture: iphoneos-arm64e
@@ -14872,6 +14940,40 @@ Description: Removes the recents tab from the Phone app.
 Name: NoRecents
 Author: waruhachi
 
+Package: moe.waru.shisha
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/moe.waru.shisha_1.0.0_iphoneos-arm64e.deb
+Size: 11186
+MD5sum: c2c906e3d54efb50233618ab16bbcde5
+SHA1: 8ce9f5babfd4b0682b3063e9f7bf1b2dd5f6aaca
+SHA256: c5672c4383921f48177f89fbbc51b33ab203603e44ec1145b0523bbd4d714f27
+SHA512: e2916f733eee64a15fe25c67c676bd33570a07cc811caa3957ab1f73222e4adf3a1436110428d483afdfdc632c6d553c8410a9afe1c0c5f75036c82286b99529
+Description: Add scrolling and parallax effects to your wallpaper
+Name: Shisha
+Author: waruhachi
+
+Package: moe.waru.trollopen
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.trollopen_1.0.0_iphoneos-arm64e.deb
+Size: 5910
+MD5sum: 09e5261085beca3adc29165134a0582a
+SHA1: dffdcb7e8f85c2af27d555cc34affa7dcebaca32
+SHA256: 2c3a49be76325b1f233ed358198f3cd4ed432c4a308607e4af66be877a38463d
+SHA512: fcdc95f17034e6d5ee6a00a2da30f80e6dc8acf48c6d042a020ac536a9cc68c98e99f1e8daddbac1e1369658c157569aac1d7c96d7330c4e79060e365698a36c
+Description: Removes the enable button in the TrollOpen app
+Name: TrollOpen
+Author: waruhachi
+
 Package: net.kernelrw.simpleactivationactions-rootless
 Architecture: iphoneos-arm64e
 Version: 0.1-3
@@ -18856,6 +18958,23 @@ Tag: role::developer, compatible_min::ios11.0
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+
+Package: com.johnnywaity.continuity
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 364
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debians/Rootless/com.johnnywaity.continuity_1.0_iphoneos-arm64.deb
+Size: 23336
+MD5sum: 9df05cd8150802fd0b71f7c925e4ddc3
+SHA1: 15116103e814e88dee0a83c5bddabe2191b229a0
+SHA256: e812337bb58c0f761722c00edaa3208af21e1522867a4bbd7a6df40386e8b569
+SHA512: 0bd962e492621afef10596fd8d1da9abd93bcbad52b567dbe8f51fb986221ea5a276f556a68a53956c57562630eafaf2c3700a41e8d497e0f42254236b22ce25
+Description: Scrollable Wallpapers
+Name: Continuity
+Author: Johnny Waity
 
 Package: com.julioverne.autolockx
 Architecture: iphoneos-arm64
@@ -23731,6 +23850,40 @@ SHA256: 99b40ad205f4ac5577f5dd938b16b4926c5dad9d0149b871f76afd441bb3380b
 SHA512: 5e022e00eb52e8884bfe9ccc072278f5de1abccb9acede72a7227e5aefc88c3bbd71a085ce8d925da322cce231830560a96dc121394676b956c8f6e4b54091da
 Description: Removes the recents tab from the Phone app.
 Name: NoRecents
+Author: waruhachi
+
+Package: moe.waru.shisha
+Architecture: iphoneos-arm64
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/moe.waru.shisha_1.0.0_iphoneos-arm64.deb
+Size: 11244
+MD5sum: ce759cde7623b0607d7415546c515c0b
+SHA1: 9deeb870489f8b8f86e822b46b3e9cda397803b1
+SHA256: 1963623072a30dcb4a885cf124a792c0c141f4ca11c1ad1ecc5a9d54fa97260a
+SHA512: 1471795862ca4151ec17193a73b5804f31829642de546e6475a6b9ecc0239d0ee44b8e86703dc93c4a7fb833b59ce9f4c056693d23ab10a0abde4f51cb7abd2b
+Description: Add scrolling and parallax effects to your wallpaper
+Name: Shisha
+Author: waruhachi
+
+Package: moe.waru.trollopen
+Architecture: iphoneos-arm64
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.trollopen_1.0.0_iphoneos-arm64.deb
+Size: 5980
+MD5sum: dcd657113926e941db109456146208a1
+SHA1: 10d77f46cce97f5674b55a759e3bcf279614196b
+SHA256: 0bc4d82c3f1fa4ac4a6208e24634d4debdef1b52fc4e2f9e4eefefc71749b1d3
+SHA512: 79dd8cd96269502a27af1c41f02129169cad261abc77cb4ca57d5bedd01d8828b30d8ce728ba750e1fcf2be6e85f399df7b72174cc193c0cd2c8a2363de93e7f
+Description: Removes the enable button in the TrollOpen app
+Name: TrollOpen
 Author: waruhachi
 
 Package: net.limneos.aquaboardx-rootless
