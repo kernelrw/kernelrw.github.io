@@ -861,11 +861,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debians/Rootful/com.blakeboxberger.bazzi2_2.0.8_iphoneos-arm.deb
-Size: 63912
-MD5sum: 8928e782d495f5665c79b2d97cc090a8
-SHA1: a7e36095ae89882344be95d0bfffc1c6e5bde885
-SHA256: 76795bd990c73bac4281a22f1d62a22f9d8bd05d830a663706dad8f9f9952e6d
-SHA512: a19660b850075340c907b884b001a916b37dfc002bb278196786767f65225734ef2edb82b7a3b49f262494dca17af34657fd679bcb7914b43fd509563529012e
+Size: 86872
+MD5sum: 539bea82242e38bf2225c69a16067690
+SHA1: 8d1f1ae3af2ba0b20e0f33af18bda13d012d674b
+SHA256: 5c3644774558a846f09a226588b544f84bcea81043540e835ba6070a6cf637dc
+SHA512: f08cca6f7e5d50f84cc0ff3ebc8cf838126e6da389c21d5606a9f18a5bb92dfe4240667867a22c763fb10cbdcd474e1a4732b008e14eaf881507f6fdbcf3f972
 Description: Battery in your Notch
 Name: Bazzi 2
 Author: Blake Boxberger
