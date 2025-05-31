@@ -20261,13 +20261,13 @@ Architecture: iphoneos-arm64
 Version: 0.0~beta40
 Section: Tweaks
 Maintainer: Julio
-Depends: mobilesubstrate, unzip, unrar, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Depends: mobilesubstrate, unzip, unrar, cy+cpu.arm64v8 | oldabi-xina | oldabi, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.nef0pam.mimport_0.0~beta40_iphoneos-arm64.deb
-Size: 429008
-MD5sum: 1b09f8a6cd6f963a9f5a56e61651ae14
-SHA1: e6af029ff096fdb68c5c35fe966821619186196a
-SHA256: 7fda5ae8aac6bf9437b4921b853824d7f1c1d68a0c6359241b8ecca7e891183a
-SHA512: a26336e1250e3318bd6c9ab438aa5c727738ae6e6881ea29a56b7161032b8f7551e0581b0810a915bca346e338a2b81a0ae949c597089f00514629e1135775ef
+Size: 653446
+MD5sum: 7b5ece2fef44716724e2413d3970eed2
+SHA1: 265c05d03ba3ab7e3edf1d80ce42a78be67a8196
+SHA256: a4399da2ce2e66c737cae7144abe7667b7fc6e06ed038b8ec45969a079edefd1
+SHA512: ff289e3358edfd1cecf4a048ea81042eab47dcb07877573c290eecd13c73e76ced5359be6ef62a2154f4f5da018f6d16ec08622fecc9d31c27df445a29a0b64a
 Homepage: https://twitter.com/ijulioverne
 Description: Media Importer Directly From Music App , only importing songs & videos to music app working ; importing from within Music app is broken .
 Name: MImport
