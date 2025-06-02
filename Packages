@@ -4965,6 +4965,26 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
 
+Package: com.redenticdev.twistop
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: RedenticDev <redenticdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.redenticdev.twistop_1.0.0_iphoneos-arm.deb
+Size: 5232
+MD5sum: 9b8ace43cf108c81cc704069f78f6afd
+SHA1: ce8cd1a738d1c10fbc79c1bd52b49c44ede3dca8
+SHA256: 3af2aa484fbf42578e8c69ec0bb16784623de754de86cd4d9915185a5f022626
+SHA512: 22e849ba5c28f6a7822b0381e9f1822e68e41cd1030da33033be7effbabf32eefc4a3d73c99157ac8e611af0c41e3dde9137a777c32a21b1fda9427e063646fc
+Description: Close Twitter app on pull-to-refresh
+Name: TwiStop
+Icon: https://redentic.dev/depictions/com.redenticdev.twistop/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
+Author: RedenticDev <redenticdev@gmail.com>
+
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm
 Version: 0.2
@@ -21782,6 +21802,26 @@ SHA512: d76382adb939200f9ba3957072e97e26bf60c1e3238a9e95dba41c42e6793a81677823d1
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
+
+Package: com.redenticdev.twistop
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: RedenticDev <redenticdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.redenticdev.twistop_1.0.0_iphoneos-arm64.deb
+Size: 5250
+MD5sum: d285883c1a99ac2facb05537d01adae9
+SHA1: 7a568c0a3ce533b26d5b75d74ee020e3d1898162
+SHA256: be55bbedf3c7b1f66f3664b4babc2fe04857cb14e6932c4f02c5a3350bad0d57
+SHA512: 592e7690ddef3acbcae4016a857e62b3ce15694a54f9c512567f74b561e8032f0e462aef626b7356b354d1c93e6a95dc77f599d9d20e5777e279f85fba19fe3c
+Description: Close Twitter app on pull-to-refresh
+Name: TwiStop
+Icon: https://redentic.dev/depictions/com.redenticdev.twistop/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
+Author: RedenticDev <redenticdev@gmail.com>
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
