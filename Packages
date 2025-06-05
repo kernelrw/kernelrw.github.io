@@ -4279,6 +4279,26 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Rootful/com.nguyenasang.snmessenger_1.1.0_iphoneos-arm.deb
+Size: 681496
+MD5sum: 4c1385e4a4665a51fdc0e383e0b36d54
+SHA1: 12b6a535dd3079a85523cab3185bd6745794e315
+SHA256: 0a5da3a5fdd94b8e45460cd7bd6636a3e7f226f453e6e45d254b1a7e67342c4f
+SHA512: c1e7be73c8fee1be72a622c3999bbdad3102343222ed93fc13df84aa9bb83fe2859fee578aa0d7b24825f361dcde15d3a4b14f05aa610f3bf97e3b02559f0dee
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -20942,6 +20962,26 @@ MD5sum: e925f59c89d4652d39c501ce8e3f7484
 SHA1: 62687bfac32e0630f5faadf8746aa522b6222242
 SHA256: 63f888503de71b432f3fa40bd0286762d970cd071ff0f03839d3a7e84932f6bc
 SHA512: c625cf5ab86349bd1785302a6470726fe90c14c306db6e979d151278a4a3f89ce63fff296eb26b1bc59c9c29fa5f3d0a38fb1fcda612b7b4d6b39e52e0787bdc
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Rootless/com.nguyenasang.snmessenger_1.1.0_iphoneos-arm64.deb
+Size: 716074
+MD5sum: 174a85c53d67c7039352c3b0d03aca80
+SHA1: 207d611dbe87893f177df04178fa75f31b1f168e
+SHA256: a97a067a842ef960cd00b789544bd20fb7b1d64c1eb75fa53e16167ca74e60bd
+SHA512: 72560a7cd5f76cf68d37e6a130bfc70638a10804eb54ec87095ad9d055cd021421566726d332ff5aaebd417d9d627cbfbdefd8b25643b1fda420474af60efa06
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
