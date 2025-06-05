@@ -2046,6 +2046,28 @@ Description: Block Snapchat screenshot and screen recording detection
 Name: SecretShot
 Author: Eamon Tracey
 
+Package: com.ethxnn88.visibleisland
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debians/Rootful/com.ethxnn88.visibleisland_2.0_iphoneos-arm.deb
+Size: 43230
+MD5sum: 468b7326373a6d09706f4b762e5c71dc
+SHA1: 4daea52b2c81e4976a4ec88b898338135b71716d
+SHA256: a00b37d8c6181fa0b62d8e48928fc81502b85966ca93a9dc56f777d2416ca186
+SHA512: 4d225e01df49db26340d6108c85519186f1156f71593454f5f5b9cc9be1b9be3f7949834a0ce1c7719aa0293c9eeaa5d6869586c5f297985f86e51e45976b11f
+Homepage: https://shuga.co/
+Description: Enable, fix, and customize the Dynamic Island on older devices.
+Name: VisibleIsland
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland-arm64e.html
+SileoDepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland-arm64e.json
+ModernDepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland-arm64e.json
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland-arm64e/icon.png
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Author: ethxnn88 <ethxnn88@gmail.com>
+
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm
 Version: 2.4.49
