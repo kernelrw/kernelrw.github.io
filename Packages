@@ -2613,6 +2613,23 @@ Author: Hitori <mikasa-san@outlook.jp>
 Name: PassText
 Icon: file:///Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
 
+Package: com.hoangdus.lowpowersleep
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Hoangdus
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/Rootful/com.hoangdus.lowpowersleep_0.0.1-1_iphoneos-arm.deb
+Size: 17376
+MD5sum: 86374acdc1687eebe4c012b6e50118b5
+SHA1: 88aa63c942b4289678e0f8923769aae383ab25e9
+SHA256: 96bc7e70c67b2d385b22ea7af95b944ec8657cb9cadfe967d3302f61e0fe8ee2
+SHA512: ea56b0acb2de844a0bf6370c44d869ca12dd7a939a1ff86e336b8dd0e162b63772a59edab3e7113f47925a6f7dd1173574f40e37e779cbb890523e3fb9f4ecb2
+Description: Automatically turn on low battery mode on lock screen .
+Name: LowPowerSleep
+Author: Hoangdus
+
 Package: com.hw.ostrichvpn
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -4990,6 +5007,25 @@ Description: System-wide parametric equalizer
 Name: EQE
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
 
+Package: com.rango.gasolina
+Architecture: iphoneos-arm
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Rango
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/Rootful/com.rango.gasolina_0.3.1_iphoneos-arm.deb
+Size: 27820
+MD5sum: a795180d7b59547d97e471e351be4edd
+SHA1: fd01974d9f9dca3ba1d855542cccfd1e882b75d6
+SHA256: 801ec898f22d3a966ffa17f332c78ef3d61a9ab855653af513330ce14a927c64
+SHA512: 9b76b958a526f03d8ea1629627f4215747cfbc8bf57317d13e197ccdce35d48dfe0ff6be15ad62f6e13be102cad235358032dcb5db55ee24f3e0ae48502a5140
+Description: Saves you some battery!
+Name: Gasolina
+Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm
 Version: 1.9.3
@@ -5929,6 +5965,23 @@ Name: Gonerino
 Author: Adrian Castro
 Depiction: https://repo.adriancastro.dev/depictions/web/?p=dev.adrian.gonerino
 SileoDepiction: https://repo.adriancastro.dev/depictions/native/dev.adrian.gonerino/depiction.json
+
+Package: dev.eskimo.codescrambler12
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Installed-Size: 760
+Depends: mobilesubstrate,firmware(>= 7.0)
+Filename: ./debians/Rootful/dev.eskimo.codescrambler12_1.2.2_iphoneos-arm.deb
+Size: 320212
+MD5sum: 04dd2bc6dc36932384ef84944268201c
+SHA1: a2df08fd1fcf403ce46bf00ecefa0a51a5d21d56
+SHA256: 814d969c96040216f409cbb88fc720791cf535a4c252cbf00b8c91d426a5d56c
+SHA512: a3879d8371efa4ac9782f0e6d320f1ed68f1a71b55044a6c86d77d4934b944a4bf63c01fa7e5baa1a3e33e1d4cb69b96ef2ad13be0ac417443d35eec96e84cde
+Description: Random ordered passcode buttons
+Name: CodeScrambler (7-14)
+Author: Jordan Koch <me@jordanko.ch>
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm
@@ -14189,6 +14242,24 @@ Author: merdok <merdok87@o2.pl>
 Name: Battivator
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.battivator.png&s=180x180&f=webp
 
+Package: dev.eskimo.codescrambler12
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Installed-Size: 760
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware(>= 7.0)
+Filename: ./debians/Roothide/dev.eskimo.codescrambler12_1.2.2_iphoneos-arm64e.deb
+Size: 318598
+MD5sum: d8b06ca2d96fd397fc128c6a8e4194ea
+SHA1: cec2118044a7877956fe79593b59facf947eb2ec
+SHA256: 2b0a3469a4c27fa429fb2a240b2d4c67f75650141024c669c6e2eb77b0d77bac
+SHA512: bb83fe08158f33a40ed91af1fc8d0c2143d7d47f6724a41e00750c52dd1819af033a1e798ebaaa8d59d0d0b0e369aac389f357bbb876b5e08d5fc7b2163b55fa
+Description: Random ordered passcode buttons
+Name: CodeScrambler (7-14)
+Author: Jordan Koch <me@jordanko.ch>
+
 Package: dev.kernelrw.ccshutdown
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -18875,6 +18946,23 @@ Author: Hitori <mikasa-san@outlook.jp>
 Name: PassText
 Icon: file:///var/jb/Library/PreferenceBundles/PassTextPrefs.bundle/icon@3x.png
 
+Package: com.hoangdus.lowpowersleep
+Architecture: iphoneos-arm64
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Hoangdus
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/Rootless/com.hoangdus.lowpowersleep_0.0.1-1_iphoneos-arm64.deb
+Size: 17616
+MD5sum: 667aebc3369f4da405b59b73f806a23e
+SHA1: 12f0e0e6c2f07d04b99d8a35171ae1bb2266af96
+SHA256: 13c9aaa033ada9ea89c846e1f97e855f87f219efbe58c4a95289bb1224f32ba1
+SHA512: 7ab184fc1b9448d61fb247307d6f667a778f9b49750c9713b3f1e64127d0b0ee40b7207a3b4b9110c6258a9f0411a4578803c9299de577093c679c9ed9062c1b
+Description: Automatically turn on low battery mode on lock screen .
+Name: LowPowerSleep
+Author: Hoangdus
+
 Package: com.iamdega.uiscroller
 Architecture: iphoneos-arm64
 Version: 1.0.5
@@ -21848,6 +21936,25 @@ Description: System-wide parametric equalizer
 Name: EQE
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
 
+Package: com.rango.gasolina
+Architecture: iphoneos-arm64
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Rango
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.rango.gasolina_0.3.1_iphoneos-arm64.deb
+Size: 26148
+MD5sum: f3ac11bfdb77e5e9f03b716f699923d9
+SHA1: 76afbd0233dc3db19c250c5b5a51b285d6a98498
+SHA256: 93b8e7795e7d49306baf437bd2dcb282a979c3d81c1b058ad9c88ca7be191ada
+SHA512: 2fd7d4d940d24b0615b5c6476ac339cbd6b0656b8f0bb83c657dc14eb890b0c8841d03dd386ee6eaa644d6ffc48a10f21f805cf3affbc83911292dc229df9460
+Description: Saves you some battery!
+Name: Gasolina
+Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64
 Version: 1.9.3
@@ -23191,6 +23298,23 @@ Description: Utilities for my tweaks.
 Tag: role::developer
 Name: libdundas
 Author: Ayden Panhuyzen
+
+Package: dev.eskimo.codescrambler12
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Installed-Size: 760
+Depends: mobilesubstrate,firmware(>= 7.0)
+Filename: ./debians/Rootless/dev.eskimo.codescrambler12_1.2.2_iphoneos-arm64.deb
+Size: 311856
+MD5sum: 17c72720d3f9b94c5c8eb1ff85a899d8
+SHA1: ef63ff3c9a8c7f32ebd52cf664eeb9061a7d3bad
+SHA256: 811c9bdc4a415d6caaa70fdff7b360123b3dce549c2b62e3da6ba36c9b8099cc
+SHA512: cd2b982db074fdaefdcdf64caed6be779c6d3b3578dad900654a1e03e9e60fa0fa58b7a29a13eb08d297ce6cffe3b2c71672cad4981b4b482cebba67fc60997c
+Description: Random ordered passcode buttons
+Name: CodeScrambler (7-14)
+Author: Jordan Koch <me@jordanko.ch>
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64
