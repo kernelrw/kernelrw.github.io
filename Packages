@@ -59,6 +59,27 @@ Author: chaoge <571652571@qq.com>
 dev: chaoge
 Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
 
+Package: cn.zqbb.stopautolaunchapps
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.stopautolaunchapps
+Filename: ./debians/Rootful/cn.zqbb.stopautolaunchapps_1.1_iphoneos-arm.deb
+Size: 26600
+MD5sum: d2cde6dec219ede7cff5f322e144c135
+SHA1: 1a7d4d76e11a1a806369957b3cde5788d9f6952a
+SHA256: 3c5d1a116798415c4f4339bc0765dcf37efc35dca011a68f9ecc0e895ad14317
+SHA512: 05bade0eb4782f5df2c9c9791eae801be4f82ef21d13334d2719e46b4a5965dbb4ef59e8bb682828abc59b3df97a0bb016309db9a62ade60e88caf8b465d59f6
+Description: 禁用ios热启动神经网络引擎,别在后台热加载app咯! 
+ - 优点:节约内存,少杀后台. 
+ - 玄学:减少重启概率
+Author: zqbb
+Name: Hello 3Q
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
+
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm
 Version: 2.2
@@ -7484,6 +7505,27 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
 
+Package: cn.zqbb.stopautolaunchapps
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.stopautolaunchapps
+Filename: ./debians/Roothide/cn.zqbb.stopautolaunchapps_1.1_iphoneos-arm64e.deb
+Size: 26504
+MD5sum: 39e5898a054ffe614005486a04f93f54
+SHA1: 6ed877f0c5330350c74fdf91cd192e73dc9b4531
+SHA256: 6b9729596683758e067f6ea41cc24893d57018cc944d92d0b27e94085e13fbbd
+SHA512: 9d720f4af647f012d0f266371cf2d8090f5d5d98948a2d445f90ddf5ab648ddfe18111f0d482c140cdb1568823624d41692460acce64364e4feab8a62c373756
+Description: 禁用ios热启动神经网络引擎,别在后台热加载app咯! 
+ - 优点:节约内存,少杀后台. 
+ - 玄学:减少重启概率
+Author: zqbb
+Name: Hello 3Q
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
+
 Package: co.dynastic.ios.tweak.compactor
 Architecture: iphoneos-arm64e
 Version: 1.1.1
@@ -8379,6 +8421,31 @@ Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
+
+Package: com.cydiageek.customlpmm
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 612
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debians/Roothide/com.cydiageek.customlpmm_1.0.3_iphoneos-arm64e.deb
+Size: 79120
+MD5sum: 5b6d3a7d36ba2701303eb8b3f69a236a
+SHA1: a7c9757b8d6692f0b327fc446ae1bbef2d817196
+SHA256: 769763240100f0064998a9af5e51570288fb08b8670958f6196fbf317fd3876c
+SHA512: bb10fafd3592d8d9fa079770b5743c468454dc334b4802581681e8aa7b3fd872821457a88092d32d08a8042d78b5474671ac5e3717c5aa6976d78101c8665acf
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Description: Customization for the Low Power Mode.
+Tag: purpose::extension
+Name: CustomLPM
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlpmDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/CustomLPM.bundle/CustomLPM@2x.png
 
 Package: com.cydiageek.ermete
 Architecture: iphoneos-arm64e
@@ -15983,6 +16050,27 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: chaoge <571652571@qq.com>
 dev: chaoge
 Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
+
+Package: cn.zqbb.stopautolaunchapps
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.stopautolaunchapps
+Filename: ./debians/Rootless/cn.zqbb.stopautolaunchapps_1.1_iphoneos-arm64.deb
+Size: 26716
+MD5sum: 524d437d7dfea92ab24e71e8b18315dd
+SHA1: e17550aa27e167cbd87bb5a1e90542bb2c3bd000
+SHA256: 474e019730481d055f9f9cc25d85a2469424b28cb0b9938fd6a37f39da102a2e
+SHA512: 8b6fa400aebe37f0c4aef81d1e0a8e729810229bc141389904d83ec7fbc53ad17fe175c2f894f905777b5355095928e93deefa63fca232b5ba3e1f35c01d80fb
+Description: 禁用ios热启动神经网络引擎,别在后台热加载app咯! 
+ - 优点:节约内存,少杀后台. 
+ - 玄学:减少重启概率
+Author: zqbb
+Name: Hello 3Q
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64
