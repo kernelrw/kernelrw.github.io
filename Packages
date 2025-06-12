@@ -1629,6 +1629,44 @@ Description: Displays only the Browse tab and hides the tab bar
 Name: FilesBrowsingOnly
 Author: dvntm
 
+Package: com.dvntm.flow
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.flow_1.0_iphoneos-arm.deb
+Size: 228538
+MD5sum: 72962d7f19ddff4e60814a54490c1d86
+SHA1: b398f1be3cb22c81e5e325b2e40e2aa07c640924
+SHA256: c80a1a540cc9382636da60014babe7087bb47a6a435f94f7b9d714109e8c2bab
+SHA512: 8b3897c67aad05b40212250153e7c6cd30384e3ad041c12967b87cde2db4d8b4a5aa6d35a9b50565022c6fab6ea460674fa42c07c0107363dd280f2e1b6a46a8
+Description: A lightweight Messenger enhancer
+Name: Flow for Messenger
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Flow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Flow/main/Sileo/depiction.json
+
+Package: com.dvntm.glow
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 1248
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.glow_1.0.1_iphoneos-arm.deb
+Size: 685226
+MD5sum: 45f20b2eb2b5d3cc188a07ba3ced707a
+SHA1: bdf35c20a5ddae26a2db310d3b324d06ce4e5f34
+SHA256: 66bb2abc96caea6208cb9edd9330991f815f8e93fbd7ebebbbf59085c87ac70e
+SHA512: c135e6c1d332ae7080da1e4c99a8d061b5f38c37dd10a1cde28bb2a69270f0738241f9d437cf6fb12edeb2f7d73f6bf41a579ec77884e2a496f35ae5cc15273d
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
 Package: com.dvntm.grox
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -8795,6 +8833,44 @@ SHA512: b04e54966a99fbc973292e75b4e34a9025724f205a76b390d5f2725f701952cf3d328b65
 Description: Displays only the Browse tab and hides the tab bar
 Name: FilesBrowsingOnly
 Author: dvntm
+
+Package: com.dvntm.flow
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.flow_1.0_iphoneos-arm64e.deb
+Size: 228062
+MD5sum: c249a6b9be75ca83dde644867ccd1272
+SHA1: 51dfeb6f1b8c0f3a6469a641a44244ff6e839fb6
+SHA256: 53b3afbd891ecd26a835279dad665d5b481c66183c3244aec97daa7a07d3120e
+SHA512: defed975f5c8da84128fe8b9946fa57a1da216227041e1691a5db750e3fa7f8135d1365165ced2636d2b0f8ba47ec5868a465d765a9c467606fd7443ac00e80a
+Description: A lightweight Messenger enhancer
+Name: Flow for Messenger
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Flow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Flow/main/Sileo/depiction.json
+
+Package: com.dvntm.glow
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 1248
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.glow_1.0.1_iphoneos-arm64e.deb
+Size: 685238
+MD5sum: 730ec13b29f69592af02557e84413990
+SHA1: 6177a62a324f2e3d7ee388933c64c688808bab24
+SHA256: ac065eab5083cb21dd05675a634348186da5e0aa3298d3a9bf4cac9c73c71d59
+SHA512: 1cb39bac67da947ab273b4921f0e39de78e754cfb0b6576fb89db269c7fd12c193b1c5ce072538929eb1ee6dfde1a741600709a71e0e1bc404cdb8e0a1050b4f
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
 
 Package: com.dvntm.grox
 Architecture: iphoneos-arm64e
@@ -17746,6 +17822,44 @@ SHA512: 681c103fe76bc5e5a2cae53bff14d92fdfa211616ba7480cec37ba7b5acadaf8fa2dfe36
 Description: Displays only the Browse tab and hides the tab bar
 Name: FilesBrowsingOnly
 Author: dvntm
+
+Package: com.dvntm.flow
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.flow_1.0_iphoneos-arm64.deb
+Size: 228568
+MD5sum: 244193e84937b8f34d08aef785d088e5
+SHA1: f843c1c4f73d303a936c471b7ec27acf0198ed3a
+SHA256: c85718f1b8d78683e577a5b4b2b1ae36d6fd4362f0d7b9d8512781be55e7da97
+SHA512: e1e3279067780aca72200c0d12868d5020909e32ba0f5c149906df79a1984aa3cedd785e3c70712899f21a200240811ddb9fe55e156e484c6c48c72e149388eb
+Description: A lightweight Messenger enhancer
+Name: Flow for Messenger
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Flow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Flow/main/Sileo/depiction.json
+
+Package: com.dvntm.glow
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 1248
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.glow_1.0.1_iphoneos-arm64.deb
+Size: 686320
+MD5sum: 48cf07537952acc197a4b3494905f54e
+SHA1: b43c39beba7252d6238ba267b7c12893d1308f62
+SHA256: c6ef617e55076f0f77255eb0f24517dfeefb696294e6b67f4a1cdcd9240f81cf
+SHA512: 5ccbd8abaf89ebab824f0ddf0c548cb325331dd8570f3f3ae023f2fa6db043ee48c15050ba32e0a85df4c5da4f83dd51eb98a0d3b9744c2d545209e16f0de427
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
 
 Package: com.dvntm.grox
 Architecture: iphoneos-arm64
