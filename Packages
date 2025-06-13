@@ -486,6 +486,23 @@ Description: Pair your iPhone on any version with your WatchOS .
 Name: watched
 Author: 34306
 
+Package: com.3h6-1.imread
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: noname
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Filename: ./debians/Rootful/com.3h6-1.imread_1.0.2_iphoneos-arm.deb
+Size: 5200
+MD5sum: 4df8550a22b4949f1f40e5192ab5870c
+SHA1: 0a167cce35a60ba443b309db4e7b39f284d9cb10
+SHA256: 0759edc11582915fe1a7281738176be73aaa301f657ecd58f2281e5c2afeb699
+SHA512: 9ea58466db15a5470e70bc243b7b05b30d666e00fff0a02c8776c1c8c0ddca07c7863e51d40a0639b665e9ca49c2bae0c0adb4ccd9f78cf0a0725217d060c4b0
+Description: Automatically marks messages as read after clearing their notification
+Name: IMRead
+Author: noname
+
 Package: com.82flex.artworkspinner
 Architecture: iphoneos-arm
 Version: 1.3
@@ -502,23 +519,6 @@ SHA512: ca36c0478c0a09eed5d2dd52aa8524b87d5ead4e066e43b2fbc94f81131277c87df288dd
 Description: Rotate the album artwork!
 Name: ArtworkSpinner
 Author: Lessica
-
-Package: com.82flex.iconrestore
-Architecture: iphoneos-arm
-Version: 1.7
-Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 412
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debians/Rootful/com.82flex.iconrestore_1.7_iphoneos-arm.deb
-Size: 29654
-MD5sum: e440c120dc45a046b19fa61a02ab751d
-SHA1: f95a6d995cafdcb482af3b765c220e287104d8e3
-SHA256: 5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5
-SHA512: e6ebe065087bbc25b26a53ffbabaf2ca735ac2dac0e765f5c6b165534b83b643d7c69d831c77a64946c92e8980a28af1e048bad2f94da31b655e5b0d027b78a4
-Description: Save and restore the layout of your icons.
-Name: Icon Restore
-Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.libsandyxpc
 Architecture: iphoneos-arm
@@ -3761,6 +3761,24 @@ SHA512: 6da1cf00718b4d3001a0a5f28761f93aed6d5e6048cb3ba4c7fd6291d654f42923819a01
 Description: Haptic Feedback your iPhone at Alert View.
 Name: Haptic Alert
 Author: pxcex
+
+Package: com.nef0pam.iconrestore
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootful/com.nef0pam.iconrestore_1.7_iphoneos-arm.deb
+Size: 30568
+MD5sum: 5fdbd2f24d9c674e56d15a941db31900
+SHA1: e9a35777f974f99f0eb48c4c6b99a2a455b4be99
+SHA256: a8ab1bb1c0ea8e4dc21ceebf2d13b88236d6d342926c998fda7ec7454ff1dfcb
+SHA512: 6f22b4f80f88b49dbfd42fb4904056dbc3427a40f21762a60b703540cad98f7adec14a585485e2fd70833ead13ad44ffc62ac6b11016d13d4dfe4b1085cf8899
+Description: Save and restore the layout of your icons.
+Name: Icon Restore
+Author: Lessica <82flex@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66e1ea16c8dd969b8bcbac5b&s=180x180&f=webp
 
 Package: com.nef0pam.mimport
 Architecture: iphoneos-arm
@@ -7869,6 +7887,23 @@ Description: You'll never seen Ads in Never gonna give you up anymore!
 Name: Youtubed rootless
 Author: 34306
 
+Package: com.3h6-1.imread
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: noname
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Filename: ./debians/Roothide/com.3h6-1.imread_1.0.2_iphoneos-arm64e.deb
+Size: 5812
+MD5sum: 75c20b147b7e97901aa624747726968a
+SHA1: 27902ca0caa4972fb0cac0c8c66880445a1c9a12
+SHA256: ee6c256e762c69926a9a08d3b9a19d5b1f10fc82175cb0fb083a0903602603b2
+SHA512: 9c4ce9953803289d0ba43391c533704b75c770309b15e7f49f1aa39f169c83fb0511aa40720c1c12bc153a39504688380740b2fe9012a33393069b978087586f
+Description: Automatically marks messages as read after clearing their notification
+Name: IMRead
+Author: noname
+
 Package: com.4nni3.coolcc
 Architecture: iphoneos-arm64e
 Version: 1:4.0
@@ -7886,24 +7921,6 @@ SHA512: e757482753ae9d8b3f18fb9a30ae732ed7e1dffc881771d1cb3aa0418910b79a8a29b741
 Description: Makes ControlCenter cool.
 Name: CoolCC
 Author: 4nni3 <4nni3.14@gmail.com>
-
-Package: com.82flex.iconrestoree
-Architecture: iphoneos-arm64e
-Version: 1.7
-Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 444
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debians/Roothide/com.82flex.iconrestoree_1.7_iphoneos-arm64e.deb
-Size: 33892
-MD5sum: d2552c7b0828b2075f409b7778c2c3ad
-SHA1: b7222d9444051f8321d91b43b297a346d704c13a
-SHA256: 5b1be6ee4f534d2ba967eeab747216468fe32d310aa75d381b03161e163c2b77
-SHA512: 093486dc79a9eb95f7c838e27e4b5524a12561910137fe56c54d64f7ec1285056a6c7ae89df6b5b887dfdc5c0a7820c9d57ef9334b6ddf852df288d335de70ed
-Description: Save and restore the layout of your icons.
-Name: Icon Restore
-Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.libsandyxpc
 Architecture: iphoneos-arm64e
@@ -11334,6 +11351,24 @@ SHA512: 488d412027fd8709bbb669b52835b65f492aaf9f933629ba52ef6e82ba74efede1a792ea
 Description: First look for the LastLook tweak
 Name: FirstLook
 Author: dvntm
+
+Package: com.nef0pam.iconrestore
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Roothide/com.nef0pam.iconrestore_1.7_iphoneos-arm64e.deb
+Size: 30600
+MD5sum: 956af8541f83e6b1b477161aaa56d274
+SHA1: 3cd2751bcae1b86423e0dd9841e38991918608a2
+SHA256: dfc8860067efca44d191887555117659fc2d685fe039c6f036cd488781ddcaff
+SHA512: 94e7b288ef4cbb98f9dd8d1f434da4dca8a2359650cfb35e91a12538c08bb2aa4334d53852c64fe57c2a6882bdb3cf2dd75d3cd9753d0023d21c8c349719d29b
+Description: Save and restore the layout of your icons.
+Name: Icon Restore
+Author: Lessica <82flex@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66e1ea16c8dd969b8bcbac5b&s=180x180&f=webp
 
 Package: com.nef0pam.limitcharging
 Architecture: iphoneos-arm64e
@@ -16423,6 +16458,23 @@ Description: Pair your iPhone on any version with your WatchOS .
 Name: watched
 Author: 34306
 
+Package: com.3h6-1.imread
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: noname
+Installed-Size: 168
+Depends: firmware (>= 16.0)
+Filename: ./debians/Rootless/com.3h6-1.imread_1.0.2_iphoneos-arm64.deb
+Size: 5292
+MD5sum: dd9e9e4ae3d6fc9595206c749a7b2890
+SHA1: a2ecff6b49313bb4a56e7c1c22acc0c1e09b2d8d
+SHA256: ea97d46e903eb6562208055bc3aa4189a29fbb704af05d8d73fd5cf3399c4069
+SHA512: 2f6841689adf77e92f6a1d6d30a4a1d04c1ef3d0cd6e2506cb6a5c3b5d1776bac9c4f3215be1cac4f6ddb19479db70fe1b2b2f7f5983049e1e1a2b715e5aecc4
+Description: Automatically marks messages as read after clearing their notification
+Name: IMRead
+Author: noname
+
 Package: com.4nni3.coolcc
 Architecture: iphoneos-arm64
 Version: 1:4.0
@@ -16456,40 +16508,6 @@ SHA512: eb25deafda3705d11f7a663230862efe075bfb020bca835e071e2b474fc562d253e513e4
 Description: Rotate the album artwork!
 Name: ArtworkSpinner
 Author: Lessica
-
-Package: com.82flex.iconrestore
-Architecture: iphoneos-arm64
-Version: 1.7
-Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 412
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debians/Rootless/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
-Size: 29712
-MD5sum: 0f3a9a50a14aee76115dccb654741f93
-SHA1: 2c3f40152e7625e3c659011620fab28f98b4fb9f
-SHA256: 9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e
-SHA512: 653e69a6b3ab9f0f65967374baa6aaec259736b5625243d2bd9c932582ebe44dfd3edd337c2f08e049553b2ec410b4d683747b6daf5a942dd66063b93d598e79
-Description: Save and restore the layout of your icons.
-Name: Icon Restore
-Author: Lessica <82flex@gmail.com>
-
-Package: com.82flex.iconrestoree
-Architecture: iphoneos-arm64
-Version: 1.7
-Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 444
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debians/Rootless/com.82flex.iconrestoree_1.7_iphoneos-arm64.deb
-Size: 31988
-MD5sum: d98ca0bb008340df33a2d21db444b96d
-SHA1: a6ab9e4a8939b5698577ec1081dc9bb3a2990d1c
-SHA256: 9b5b59cc72cf32f1fbfc0f18fd3470682baba9ba999a668c022048e6d0fb7ec8
-SHA512: ff00121aaf41662b0081f78992f918af2867bc3dca62c35c3599b6c79735ccf75814431fb6bc96ee085e80d17eee16f65b3573912ddeae5c2fa7c76bc6077373
-Description: Save and restore the layout of your icons.
-Name: Icon Restore
-Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.libsandyxpc
 Architecture: iphoneos-arm64
@@ -20607,6 +20625,24 @@ SHA512: 710bd012d206074aba35a37f51d56b7e5a3df78a87da70dfc93839fa850b19c6aeccafe1
 Description: Haptic Feedback your iPhone at Alert View.
 Name: Haptic Alert
 Author: pxcex
+
+Package: com.nef0pam.iconrestore
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootless/com.nef0pam.iconrestore_1.7_iphoneos-arm64.deb
+Size: 30640
+MD5sum: e197bd830a13356a7233ad2c9c67a976
+SHA1: a54345e1b85f3a0924ab19a779585228d76f0442
+SHA256: cae49aaf31a42f7618e216439d0bfcdb20a15e91c32608114ddd0ec0039ebcee
+SHA512: 0460cd5b3f0b9cccc6c59b7ff5f436ca78501361e65e2ea4d6762c32e2abd1de9f17852f420f4ddf3fb2d687478992eb93d3b6ba418552d82add885b11ea1238
+Description: Save and restore the layout of your icons.
+Name: Icon Restore
+Author: Lessica <82flex@gmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F66e1ea16c8dd969b8bcbac5b&s=180x180&f=webp
 
 Package: com.nef0pam.mimport
 Architecture: iphoneos-arm64
