@@ -5648,6 +5648,24 @@ Description: Live Lyrics for music
 Name: Lyrication
 Author: Marcel Braun
 
+Package: com.theraspiguy.trickfi
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: TheRasPiGuy
+Installed-Size: 125
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.theraspiguy.trickfi_1.1_iphoneos-arm.deb
+Size: 3488
+MD5sum: 8793b9e1e56cd802d687fd4834ae0993
+SHA1: 92ce138ba09cfa26bf5b4e4f2138fcb136763218
+SHA256: f6ce12b8d16092b3a4532de284abedadd5bd16989bf112bed5294671627dc7dd
+SHA512: 5c1ff3fef78e762deb2ffd94cf9e79e2cd82848c9e9a410b00652affc6f4fa5d37adf1f5b5d2843714c6b5058c1584e506cb7a1c2331d28f4edc13f352b5592a
+Description: Trick your device into thinking it's connected to WiFi
+Name: TrickFi
+Author: TheRasPiGuy
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgithub.com%2FMTACS%2FSettingsIP%2Fraw%2Fmaster%2Fsipprefs%2FResources%2Ficon%25403x.png&s=180x180&f=webp
+
 Package: com.tonykraft.persistentwifi
 Architecture: iphoneos-arm
 Version: 1.2.4
@@ -5751,6 +5769,24 @@ SHA512: 51a06c6c23cff48c3f5038499ac8af12c7f1e045fb5b08c67540832d2a60df6efb7e94c6
 Description: Carrier bundle verification bypass
 Name: CommCenter Patch
 Author: Pwn20wnd <itweakios@yahoo.com>
+
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.zeroxjf.spoofgpt_1.0.0_iphoneos-arm.deb
+Size: 15404
+MD5sum: 12168fe2a693bde1b88406961ffafa4e
+SHA1: 9441d9a891060c336167c5007f906ef3a36060e1
+SHA256: b254c045c87ceea51fd03e32554dfda4575f1bfba791a3155f7c451f0a2344e4
+SHA512: 1ce5e2863567e9339f53dec15b185507edbceb0449392b92dfeba8c0e070e809a70dd3e5ea866e507ef79e178141fc38984494795681e4a25c78c3f557362a94
+Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple tweak to run ChatGPT version 1.2024.200. Configuration via Settings for easy download of that version. Tested on iOS 16; compatibility with iOS 14 and 15 unconfirmed. Submit feedback or crash reports in Settings. Contact me on X (https://twitter.com/zeroxjf). Buy me a coffee: https://paypal.me/JohnFranks224
+Name: SpoofGPT
+Author: zeroxjf
+Icon:  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
 
 Package: con.dell.speedview
 Architecture: iphoneos-arm
@@ -14001,6 +14037,25 @@ Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
 
+Package: com.theraspiguy.trickfi
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: TheRasPiGuy
+Installed-Size: 125
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.theraspiguy.trickfi_1.1_iphoneos-arm64e.deb
+Size: 4134
+MD5sum: c6c9d597f7297748039b19520f52f57d
+SHA1: 58995a4ccb02b2b3ad12901d18a27e1c764e652a
+SHA256: 9a10fbcb06ea7d5e5115faa5697f6102b9bbb54b4ec3f109e4a772aa61b2440a
+SHA512: 48a26de82d0e2f14d120d7ffc65b168947a285f0c619a57dc8621c924202753e92a06b4354476b1cdf136cbb5a9c17304e3819feeb8457ca9c86e99d43f60428
+Description: Trick your device into thinking it's connected to WiFi
+Name: TrickFi
+Author: TheRasPiGuy
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgithub.com%2FMTACS%2FSettingsIP%2Fraw%2Fmaster%2Fsipprefs%2FResources%2Ficon%25403x.png&s=180x180&f=webp
+
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64e
 Version: 4.0.1-4~roothide
@@ -14362,6 +14417,25 @@ SHA512: 3fefdf9c6af2a7c4b8c8f0960f6f354f4bf6040d638077a62d1bd7830a520bef66c3ed7e
 Description: 自定义系统全局开关颜色・Customize System-wide Switch Colors
 Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
+
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 352
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.zeroxjf.spoofgpt_1.0.0_iphoneos-arm64e.deb
+Size: 17988
+MD5sum: 0d73ea2a0e85f9c9d579a37be518b313
+SHA1: 1a5e839344d5b0b58ba10e414e2e08fdf1f72dfa
+SHA256: 5e0783c7c47c2552c468983b02c129159ac0e25fe3a061f14d63070646c56a30
+SHA512: 9bdc25f80be025e7aabcea4a1180b900affc4c037c1cbc75df49f402fd254a1a0f38b027f7f52ca94e12fb95731f83addc6ee80c4b1a62a5a666ba3a74226457
+Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple tweak to run ChatGPT version 1.2024.200. Configuration via Settings for easy download of that version. Tested on iOS 16; compatibility with iOS 14 and 15 unconfirmed. Submit feedback or crash reports in Settings. Contact me on X (https://twitter.com/zeroxjf). Buy me a coffee: https://paypal.me/JohnFranks224
+Name: SpoofGPT
+Author: zeroxjf
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
 
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64e
@@ -22902,6 +22976,24 @@ Description: Live Lyrics for music
 Name: Lyrication
 Author: Marcel Braun
 
+Package: com.theraspiguy.trickfi
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: TheRasPiGuy
+Installed-Size: 125
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.theraspiguy.trickfi_1.1_iphoneos-arm64.deb
+Size: 3168
+MD5sum: 74856a3c16bec9ebd349345f96c0e899
+SHA1: 6b91b8c9085bb19e2e942d8305ff97918cef3991
+SHA256: db38a6a8b3ee72463a4f167e354979b636629bf225ca0dfbd08f51a11fb075a7
+SHA512: 916d726e319cfd6bfb1733a85028b6dfa699c7e22477f98caddc6c0855384cfababd95d2b6977da68b0540aa3ed50557cc7121287dd0b3ccb6713abaf2a03790
+Description: Trick your device into thinking it's connected to WiFi
+Name: TrickFi
+Author: TheRasPiGuy
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgithub.com%2FMTACS%2FSettingsIP%2Fraw%2Fmaster%2Fsipprefs%2FResources%2Ficon%25403x.png&s=180x180&f=webp
+
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64
 Version: 4.0.1-4
@@ -23151,6 +23243,24 @@ SHA512: 95319002f5bec0ffcaa512411f1c375979d7d9f7913881c2f0c39de6fe4e493a62f51c4e
 Description: Carrier bundle verification bypass
 Name: CommCenter Patch
 Author: Pwn20wnd <itweakios@yahoo.com>
+
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.zeroxjf.spoofgpt_1.0.0_iphoneos-arm64.deb
+Size: 16096
+MD5sum: 14d9f64e01e4bcd323f35d2bafa495b6
+SHA1: 708dec49998d84e7274a970b3c76645bb85e9009
+SHA256: 483793a897894bcec2c1cb6c68705b0afe03b7148b6bfd9cf4df30aeb43ec451
+SHA512: bc139fa40ec21c107af6da6e1f3d2ace678c40c5e6fb52dec0990d52fa649b7b27abfa96031d779ce87e46cd31794d767b441a79b6174cefac05374afb5347e0
+Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple tweak to run ChatGPT version 1.2024.200. Configuration via Settings for easy download of that version. Tested on iOS 16; compatibility with iOS 14 and 15 unconfirmed. Submit feedback or crash reports in Settings. Contact me on X (https://twitter.com/zeroxjf). Buy me a coffee: https://paypal.me/JohnFranks224
+Name: SpoofGPT
+Author: zeroxjf
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
 
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64
