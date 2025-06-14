@@ -5788,6 +5788,24 @@ Name: SpoofGPT
 Author: zeroxjf
 Icon:  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
 
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 508
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.zeroxjf.spoofgpt_1.0.1_iphoneos-arm.deb
+Size: 153376
+MD5sum: b70f7444b2f6305135c22fae2a736d03
+SHA1: ea9442da715d04d00cf6d6fc457fdd918d7c3b8f
+SHA256: ea259fd356721a12c300b1c0c858c59c792466aa5a704c1581f100ba89001b7e
+SHA512: 18b1ee623a6f34695f0ffa949112f55ce1026c1bdbe9c724edce10535c87bf90e0218a1c3c6fbab659904631469170667c488b6f05ebd555c385b1bb6116abfe
+Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple tweak to run ChatGPT version 1.2024.200. Configuration via Settings for easy download of that version. Tested on iOS 16; compatibility with iOS 14 and 15 unconfirmed. Submit feedback or crash reports in Settings. Contact me on X (https://twitter.com/zeroxjf). Buy me a coffee: https://paypal.me/JohnFranks224
+Name: SpoofGPT
+Author: zeroxjf
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
+
 Package: con.dell.speedview
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -14432,6 +14450,25 @@ MD5sum: 0d73ea2a0e85f9c9d579a37be518b313
 SHA1: 1a5e839344d5b0b58ba10e414e2e08fdf1f72dfa
 SHA256: 5e0783c7c47c2552c468983b02c129159ac0e25fe3a061f14d63070646c56a30
 SHA512: 9bdc25f80be025e7aabcea4a1180b900affc4c037c1cbc75df49f402fd254a1a0f38b027f7f52ca94e12fb95731f83addc6ee80c4b1a62a5a666ba3a74226457
+Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple tweak to run ChatGPT version 1.2024.200. Configuration via Settings for easy download of that version. Tested on iOS 16; compatibility with iOS 14 and 15 unconfirmed. Submit feedback or crash reports in Settings. Contact me on X (https://twitter.com/zeroxjf). Buy me a coffee: https://paypal.me/JohnFranks224
+Name: SpoofGPT
+Author: zeroxjf
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
+
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 508
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.zeroxjf.spoofgpt_1.0.1_iphoneos-arm64e.deb
+Size: 155888
+MD5sum: 99b355d9eca1de4a5df7289818e9fd19
+SHA1: 0f649d41fbb9cd11c54eaf71f8ccacec2c4fbc74
+SHA256: bdd45626c26fb95f50f1c7d557ad6cc30dc1f9267a180d8ae31ecc9f8114e96f
+SHA512: 7b89386839f5ce9fbf3ddd154e6794c0c91e723f5a18ba4096fe348b4b3d91d4fc17748e1d77972f6a293c86b71c1aacf13775d8a553dffceb7a2191fd0393b8
 Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple tweak to run ChatGPT version 1.2024.200. Configuration via Settings for easy download of that version. Tested on iOS 16; compatibility with iOS 14 and 15 unconfirmed. Submit feedback or crash reports in Settings. Contact me on X (https://twitter.com/zeroxjf). Buy me a coffee: https://paypal.me/JohnFranks224
 Name: SpoofGPT
 Author: zeroxjf
@@ -23257,6 +23294,24 @@ MD5sum: 14d9f64e01e4bcd323f35d2bafa495b6
 SHA1: 708dec49998d84e7274a970b3c76645bb85e9009
 SHA256: 483793a897894bcec2c1cb6c68705b0afe03b7148b6bfd9cf4df30aeb43ec451
 SHA512: bc139fa40ec21c107af6da6e1f3d2ace678c40c5e6fb52dec0990d52fa649b7b27abfa96031d779ce87e46cd31794d767b441a79b6174cefac05374afb5347e0
+Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple tweak to run ChatGPT version 1.2024.200. Configuration via Settings for easy download of that version. Tested on iOS 16; compatibility with iOS 14 and 15 unconfirmed. Submit feedback or crash reports in Settings. Contact me on X (https://twitter.com/zeroxjf). Buy me a coffee: https://paypal.me/JohnFranks224
+Name: SpoofGPT
+Author: zeroxjf
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
+
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 508
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.zeroxjf.spoofgpt_1.0.1_iphoneos-arm64.deb
+Size: 154028
+MD5sum: 7186ad99bd1b50cd4aab07cc71b362f4
+SHA1: 8a5993d57815a9fe4a2bd2f6dd8e3ff76b1eb53f
+SHA256: 7e4e0c554b01b63d250f62e8e1c21a7cc658c149d94d2b615bf7ee78d6de7f60
+SHA512: f5bda4f7bb49e866c943602d00bcf49a17b2e08d85e34b6f5218c3610baa1851ec329e0448c76659a1e31d59abcfaed39a0cb0fba4bf94f8e06463c224eb60f6
 Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple tweak to run ChatGPT version 1.2024.200. Configuration via Settings for easy download of that version. Tested on iOS 16; compatibility with iOS 14 and 15 unconfirmed. Submit feedback or crash reports in Settings. Contact me on X (https://twitter.com/zeroxjf). Buy me a coffee: https://paypal.me/JohnFranks224
 Name: SpoofGPT
 Author: zeroxjf
