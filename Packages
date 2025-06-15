@@ -2105,6 +2105,22 @@ Description: Block Snapchat screenshot and screen recording detection
 Name: SecretShot
 Author: Eamon Tracey
 
+Package: com.edog813.shitos
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Themes
+Maintainer: 3h6_1
+Depends: ellekit, com.spark.snowboard |  com.anemonetheming.anemone
+Filename: ./debians/Rootful/com.edog813.shitos_2.0_iphoneos-arm.deb
+Size: 2370172
+MD5sum: 6d830e902b944f81702b49906fe4288a
+SHA1: 03050dc24302b56a6a2845f4419c8c26202adbd7
+SHA256: 4ce41b3243dc663785a2d3c6c066ee6a5e0b59e056e337c9e7c80a67e23f1f4a
+SHA512: cc802826dec34a031dbdafb3447806b5c4f35030efb4c4eeacd45cd7ecb61e879152baaeee47a6ccafcf1d52dd37088c5985f1ab60dd6d432c5fb70df69e09af
+Description: The best ios theme ever made
+Name: ShitOS
+Author: Edog813, 3h6_1
+
 Package: com.ethxnn88.visibleisland
 Architecture: iphoneos-arm
 Version: 2.0
@@ -9129,6 +9145,23 @@ Description:
 Name: SilentNotifs
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
+
+Package: com.edog813.shitos
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Themes
+Maintainer: 3h6_1
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: ellekit, com.spark.snowboard |  com.anemonetheming.anemone
+Filename: ./debians/Roothide/com.edog813.shitos_2.0_iphoneos-arm64e.deb
+Size: 7833458
+MD5sum: 7d6970b20fb3b33e8b17ed91d05bd269
+SHA1: 45be8d12c1452c64869160ee2cae5bef4b0e638e
+SHA256: a0797a0b706c9f3be91aba82f89ae2eacf264acf70c7425a2267a578d217618a
+SHA512: 3a6c5ef4b0080cc6f0540abe45593a28b2eb20812e7a179ad5683f3b7298312b51a2b73141e56519e99f8bf6e9780e2490ca8e85172705ff759f846a1953e24a
+Description: The best ios theme ever made
+Name: ShitOS
+Author: Edog813, 3h6_1
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
@@ -18427,6 +18460,22 @@ SHA512: 5f5c5c6c916ed650a71aa9aaf708e0176dca2680fbd139ec17bca843258658c57a345994
 Description: Block Snapchat screenshot and screen recording detection
 Name: SecretShot
 Author: Eamon Tracey
+
+Package: com.edog813.shitos
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Themes
+Maintainer: 3h6_1
+Depends: ellekit, com.spark.snowboard |  com.anemonetheming.anemone
+Filename: ./debians/Rootless/com.edog813.shitos_2.0_iphoneos-arm64.deb
+Size: 3903712
+MD5sum: 33b3d5c886a8d817c6719a8ff9eb1a0d
+SHA1: 1d973de6bd824031cc6cebe1ef398f0f8f9b81ff
+SHA256: 639bfe112d47f1aff4c3fe3c99914a7535646a76ead08c0d1f2f2d37f39464ef
+SHA512: e6436a370ff3441b84ea5067f9432b71fa51d965a33a42d5655a3342dfc2bc9112d0e0dda07cff697a95d1666fb4a2dc484143892e00a817363801f2913ac5ae
+Description: The best ios theme ever made
+Name: ShitOS
+Author: Edog813, 3h6_1
 
 Package: com.eevee.youtubefix
 Architecture: iphoneos-arm64
