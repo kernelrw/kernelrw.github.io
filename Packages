@@ -6702,6 +6702,23 @@ Description: Prevent the notch/Dynamic Island from munching on 2:1 video content
 Name: DontEatMyContent
 Author: Foxster
 
+Package: me.foxster.donteatmycontent
+Architecture: iphoneos-arm
+Version: 1.1.11
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Rootful/me.foxster.donteatmycontent_1.1.11_iphoneos-arm.deb
+Size: 18230
+MD5sum: 0fb79088489777278e3682d761f34e65
+SHA1: 1aef348e8bc6d6c312444e8d18f6b451f97d5bd3
+SHA256: eaea7596b09a25d056cf6db8bef08362640d597f5bef313a4b00440f28c1655b
+SHA512: 98328a7c90b45ff9197140386c60234dd0c1e0e97804d1ce803db7a39eb1b783a653dd2a17aea93a73ff0a3d0533698fa6e48b2a5989407dee031e7b4c0bb3dd
+Description: Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube
+Name: DontEatMyContent
+Author: Foxster
+
 Package: me.foxster.ytsideloadsigninfix
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -15240,6 +15257,24 @@ Description: Seamlessly block screenshot and screen recording detection in iOS a
 Name: Phantom
 Author: eternal
 Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
+
+Package: me.foxster.donteatmycontent
+Architecture: iphoneos-arm64e
+Version: 1.1.11
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Roothide/me.foxster.donteatmycontent_1.1.11_iphoneos-arm64e.deb
+Size: 23564
+MD5sum: cc9c021e73af5bae2045bdbacddb710f
+SHA1: 4c7876a7070909d0a43e7e0e4184fb89360674a1
+SHA256: e9529e50853c1f194d5541672bd536d64c4964da2e455d5b34b1f35663f06746
+SHA512: 482d24e9e4d613ab16423e7a9d463afd05963d00228e5e04780be111695a2aa7fda168e1a3838d853153d06afe7bf334824c22e4e81d833b0dc81914dea2726a
+Description: Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube
+Name: DontEatMyContent
+Author: Foxster
 
 Package: me.foxster.ytsideloadsigninfix
 Architecture: iphoneos-arm64e
@@ -24602,6 +24637,23 @@ MD5sum: 52cd6185bc17bd2bbfd1a941ac3d52ff
 SHA1: dd91bb55a07207142655cbd1ef96bdbfe206cadd
 SHA256: 665b99593a82bfbe3b57ab4275dee25ef8560d1be9ce857105c4564d3be0d010
 SHA512: 6f64713044256703d88ede2f87d0355f2f02ce02bc6733d39aab62dcfd4db266c7c4d5ab1dbeae33fd9cb0f43e4dd8db59dfe9d33af80482d8043380ebae67df
+Description: Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube
+Name: DontEatMyContent
+Author: Foxster
+
+Package: me.foxster.donteatmycontent
+Architecture: iphoneos-arm64
+Version: 1.1.11
+Section: Tweaks
+Maintainer: Foxster
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Rootless/me.foxster.donteatmycontent_1.1.11_iphoneos-arm64.deb
+Size: 18186
+MD5sum: e80bec67e5168dba2eb5c6537281b137
+SHA1: ebd60a3eba02e170d59162469e724799e618c36a
+SHA256: 8b934f41f284c8d6e6daef0317523b77ea6b707c015af7bfd7bab3b664d24384
+SHA512: 567abafab02f77f7d037c1f6c4e42b0ab688182c172867f8e68c8838cfd55e594dcb006bfed3eba2117851cbc990333f0c2e1f7322cb320d1a20c342ade21139
 Description: Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube
 Name: DontEatMyContent
 Author: Foxster
