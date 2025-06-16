@@ -59,6 +59,25 @@ Author: chaoge <571652571@qq.com>
 dev: chaoge
 Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
 
+Package: cn.zqbb.hellojoker
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 624
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Filename: ./debians/Rootful/cn.zqbb.hellojoker_1.0.3_iphoneos-arm.deb
+Size: 96876
+MD5sum: c2a6de880f970a262ce95d4519970902
+SHA1: a760ea18e4c23540ae0a987673f90e51d92d86ff
+SHA256: e69e0ef55db89446d7d16467f0ada2e6d0d67afb5f1b2689a684aa7fb33ff857
+SHA512: b3b4d05b1388c0ed054a709f0371c7e181046688f14e3aef5283b8e0469fa9550bb2bcb441d1f02c2459c7c5b15dbacaff6f125a28054195802e207b20e01f16
+Description: 禁止检测越狱App
+Author: zqbb
+Name: Hello Joker
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellojoker
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hellojoker
+
 Package: cn.zqbb.stopautolaunchapps
 Architecture: iphoneos-arm
 Version: 1.1
@@ -4409,6 +4428,42 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nightwind.floatingsafari
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/Rootful/com.nightwind.floatingsafari_0.0.1_iphoneos-arm.deb
+Size: 8708
+MD5sum: 3cae1389a2067879c420d5836700be7c
+SHA1: 140cb14a320375c7526110d65112ea4d03c1be63
+SHA256: 8545fb3926076198320acd7c5ef0f0695fce071f524075b9a67462a8d7221890
+SHA512: cd4d620d595023ea5d0a117310d937b176ce5dc729184b2b2f7095728daca4a32d5ab169658bb1d9bb5afa2241b1b10fd76686d5b2787d73d710866fe75088cb
+Description: Bring the iOS 15 beta Safari experience to newer iOS
+Name: FloatingSafari
+Author: Nightwind
+Icon: https://github.com/NightwindDev/FloatingSafari/blob/main/Images/Icon.png?raw=true
+
+Package: com.nightwind.horizontalsliders
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/Rootful/com.nightwind.horizontalsliders_0.0.1_iphoneos-arm.deb
+Size: 10392
+MD5sum: 682c0722047596fa9d08d0dd9868e4cd
+SHA1: d86526a6c7e65d42afc93e2b2ecb065993ea1c7b
+SHA256: 61e8fa2ec973c06f6f5eecfc113d30e95ec62aaee9656b0eef141c816030c1c0
+SHA512: ccb1e0846f7d9b3c0cddeb92b827bd4bbf17bc74a7f6327ea21481fd3ba74774a5f1216988464236c0a85a0097d03e89e67741d0a1d4ec8d9677c4c64537707f
+Description: Make the Control Center brightness and volume sliders horizontal.
+Name: HorizontalSliders
+Author: Nightwind
+Icon: https://github.com/NightwindDev/HorizontalSliders/blob/main/Images/Icon.png?raw=true
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -4743,6 +4798,26 @@ Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.1
 Name: AppLock
 Author: P2Kdev
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+
+Package: com.p2kdev.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.p2kdev.facebooknoads_1.3_iphoneos-arm.deb
+Size: 5284
+MD5sum: b5527e30b2cb49a8a22320267ac00bbf
+SHA1: 5db5c179a56dd0869fb097b71d3bfd35c28d720d
+SHA256: b23c74b1f5271b4527bd560b8212463219f221c891caf1ca59eb9865ab03689c
+SHA512: f99e6371128d5ea4577944221ad07da240a33f394640234f6578b8a51044c72c584d7e5c847516d427f825adc4e40238bbcef49f6cd7fc8cfd6727e579640a4e
+Description: No Ads in the Facebook App!
+Name: FacebookNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm
@@ -7610,6 +7685,26 @@ Author: bswbw
 Name: FixSet RootHide
 icon: https://TrollStoreX.Github.io/sileodepiction/FixSet/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/FixSet/js.json
+
+Package: cn.zqbb.hellojoker
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Filename: ./debians/Roothide/cn.zqbb.hellojoker_1.0.3_iphoneos-arm64e.deb
+Size: 130226
+MD5sum: 2856e4e4ce7fcf43380f71d97a3a9641
+SHA1: 4ef1114e5e7f553e30ff49ac5046b152b2196cf1
+SHA256: 6dafa632ef524a1d50206cb7bc4917f208730c50e485a15aa501b393e593a636
+SHA512: db1be721ab65faf50752321ad889c79ebf5fc034e8472c7d85f93c1305a8be5d1a4641d5cfd16a53f2d522e2679addc90a633ef16bd8fe35f426bc1101b9b757
+Description: 禁止检测越狱App
+Author: zqbb
+Name: Hello Joker
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellojoker
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hellojoker
 
 Package: cn.zqbb.orzfolder
 Architecture: iphoneos-arm64e
@@ -11973,6 +12068,44 @@ Description: Fixes an incompatibility with new versions of Cephei that certain p
 Name: Cephei-compat
 Author: Nightwind
 
+Package: com.nightwind.floatingsafari
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/Roothide/com.nightwind.floatingsafari_0.0.1_iphoneos-arm64e.deb
+Size: 11706
+MD5sum: 99462c78e6def03548aea8a08bc9cc91
+SHA1: a5cd81f6b8a8b8a5c471f792bd18517772e44658
+SHA256: bdba409b8f9c7c1cbe20731ab517c3d5a048df833c62022cc85610c6ba37309f
+SHA512: c8023a1fe06077647c9165dae3048532be0b0ab53d976b67ceb7f29e24393ff3c61c2a70576ae2722dc3c622739c601c000ba4db0081db8908249c7ca2ec146c
+Description: Bring the iOS 15 beta Safari experience to newer iOS
+Name: FloatingSafari
+Author: Nightwind
+Icon: https://github.com/NightwindDev/FloatingSafari/blob/main/Images/Icon.png?raw=true
+
+Package: com.nightwind.horizontalsliders
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/Roothide/com.nightwind.horizontalsliders_0.0.1_iphoneos-arm64e.deb
+Size: 13892
+MD5sum: c5843855c8a8103ca6018ec2ec5f63e0
+SHA1: a7954ef86a954594f69d72d89e8da91938b51084
+SHA256: fc54c365bff2479288b7f51f1cc753414054ac612bddfc82f6798901fd2d2c89
+SHA512: d732818c5e142e718d4c91728d20eef5c3cc2fdc1cef6eb75ea07c3c6493aab7cf597972c9462002d3a7cf69e400f038b91120b089a5bf831486cbca834fe1fc
+Description: Make the Control Center brightness and volume sliders horizontal.
+Name: HorizontalSliders
+Author: Nightwind
+Icon: https://github.com/NightwindDev/HorizontalSliders/blob/main/Images/Icon.png?raw=true
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -16305,6 +16438,25 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: chaoge <571652571@qq.com>
 dev: chaoge
 Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
+
+Package: cn.zqbb.hellojoker
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 624
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Filename: ./debians/Rootless/cn.zqbb.hellojoker_1.0.3_iphoneos-arm64.deb
+Size: 96740
+MD5sum: f690260441174d8809ef13a8fedf1fd6
+SHA1: f3cca6d2a9ae767974f4ca9e17323e86b7ef1f85
+SHA256: 07f438644798b3f0a7c74999fc32ebd922d2c5ff5a61c248837fd42dcb580d75
+SHA512: 094cb0be5b6cde6f793cc2920bc453d0c5d03a045abc7358f4f48ee16b81c51c939cc7f8fd4a40ca6046753202793ea57a9e28eed848c785bfad596b256a5831
+Description: 禁止检测越狱App
+Author: zqbb
+Name: Hello Joker
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellojoker
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hellojoker
 
 Package: cn.zqbb.stopautolaunchapps
 Architecture: iphoneos-arm64
@@ -21489,6 +21641,42 @@ Description: Fixes an incompatibility with new versions of Cephei that certain p
 Name: Cephei-compat
 Author: Nightwind
 
+Package: com.nightwind.floatingsafari
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/Rootless/com.nightwind.floatingsafari_0.0.1_iphoneos-arm64.deb
+Size: 8800
+MD5sum: 4295d63588378533f9b6d6b78ddcce36
+SHA1: cef828b526bb53e2ba20db1f30e746d3b47b2f63
+SHA256: 8aee189076aae38f45ac4bf3cea8a3bdc9da00af105301427cc6c9fcf1b6481b
+SHA512: 10281aa1d0197f8a38a6ab330e635196707d6b8cc417949786e55f0e125add283ccc762f131b6b22f2dafc2aeb85aee40c2162504875249bef525b0d063e7650
+Description: Bring the iOS 15 beta Safari experience to newer iOS
+Name: FloatingSafari
+Author: Nightwind
+Icon: https://github.com/NightwindDev/FloatingSafari/blob/main/Images/Icon.png?raw=true
+
+Package: com.nightwind.horizontalsliders
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/Rootless/com.nightwind.horizontalsliders_0.0.1_iphoneos-arm64.deb
+Size: 10468
+MD5sum: 51fc47323bfe3e55309ba2fc8d7293bb
+SHA1: 132f0ce87906229581a0a2b42c767ec545777e4e
+SHA256: 7ca9baedcfda7919200117942c3f249d249ad3ca70a1c6f7b6891bf56f4c19be
+SHA512: 893356ef3f56e8a729df29f1e0edc822218f52b1c84332460b925963c29ac9ad573b604ee5cae0becd93ddcd54166945e07adbfbf241f32a8f56992e001c8409
+Description: Make the Control Center brightness and volume sliders horizontal.
+Name: HorizontalSliders
+Author: Nightwind
+Icon: https://github.com/NightwindDev/HorizontalSliders/blob/main/Images/Icon.png?raw=true
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -21843,6 +22031,26 @@ Description: Lock your apps , with Touch ID Or Face ID , Supports iOS14 ~ 16.7.1
 Name: AppLock
 Author: P2Kdev
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+
+Package: com.p2kdev.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.facebooknoads_1.3_iphoneos-arm64.deb
+Size: 5472
+MD5sum: 3e7dcd1101f593766d8d33a4a4b97b3e
+SHA1: 41ede37b52b577cd668a521369d86759fea0169f
+SHA256: 07fd920dd7a9b723822ff78c2035d4826b00151d8aae88010718a40d83ad04b9
+SHA512: c43c6efb12b16b0f7b9eb4ae3ab374c7b3163abc8219d95a5e40ba29d1c1606851e835bd657ce91b5eede8886c965636dfb982450801bec12b3f2d24faf896cd
+Description: No Ads in the Facebook App!
+Name: FacebookNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm64
