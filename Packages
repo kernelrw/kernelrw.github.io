@@ -12067,6 +12067,27 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 844
+Provides: com.haoict.messengernoads
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Roothide/com.nguyenasang.snmessenger_1.1.0_iphoneos-arm64e.deb
+Size: 713752
+MD5sum: 0a77e4551749dbb4845c9fbd0470b884
+SHA1: 16ec577576cc2e44bb1c3d447305fc054c5896a9
+SHA256: cfbd663bc8de63b4f9ff677d08d8b6e93535940c7717492172888e0a8cc40e3d
+SHA512: 661f7d190feeef5f986ca7414c52e22fe965c45c88d2360f6d13ace23aba67b8926e5cf1ad2589cf9b4c2f77db2a09bfb13e8acfa2af8412db15c3bf3ad7747f
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
 Package: com.nightwind.cephei-compat
 Architecture: iphoneos-arm64e
 Version: 0.0.1
