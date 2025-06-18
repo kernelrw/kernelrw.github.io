@@ -1686,6 +1686,25 @@ Author: dvntm, nowesr1
 Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
 
+Package: com.dvntm.glow
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 20028
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.glow_1.1_iphoneos-arm.deb
+Size: 7803030
+MD5sum: 49216692e408186fc484b9a2c399a58d
+SHA1: 8d27e9df11a7282fb0919b8c2f59600408f90dae
+SHA256: ef1dbe99915e0207982bb3901f81ca1f149bb0b34e031fe2ff6038624dced7df
+SHA512: dac8c05df39d228572b7ea710602f7deb6c1f0316e6c1410d908153d8b79f63ad6f4b351d77bed6805878b8676c36182ca2bafb15619f643ee292c7f096b7ba9
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
 Package: com.dvntm.grox
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -5590,6 +5609,25 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
+Package: com.sttt.modifyiipa
+Architecture: iphoneos-arm
+Version: 0.0.1-11+debug
+Section: Terminal_Support
+Maintainer: sttt
+Installed-Size: 216
+Filename: ./debians/Rootful/com.sttt.modifyiipa_0.0.1-11+debug_iphoneos-arm.deb
+Size: 8734
+MD5sum: 4610aa665461ba938126f9e0e2e6bb5c
+SHA1: e1f43f333a1504f8b1275c3c1148651a50d4432b
+SHA256: 91b0f651016b6faf11fafd907f5da28eefe7e651257538c0e46f137c77aee8ba
+SHA512: ece6b9ad60f5e8c52505b1bc58ca927c4180f6d98dc6250aeda346db32fc5284546a50391baf4bf0c1575576d438214f584ea96702f19369b38201190e37ae33
+Description: modifyiipa
+Tag: role::hacker
+Name: modifyiipa
+Author: sttt
+SileoDepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
+icon: https://Mieing.Github.io/repo/file/sttt.png
+
 Package: com.sudo.debra
 Architecture: iphoneos-arm
 Version: 2.9.9
@@ -5896,6 +5934,26 @@ Description: Enable last compatible ChatGPT on iOS <17.0. Provides a simple twea
 Name: SpoofGPT
 Author: zeroxjf
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
+
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 17.0)
+Filename: ./debians/Rootful/com.zeroxjf.spoofgpt_1.0.6_iphoneos-arm.deb
+Size: 26608
+MD5sum: dd417ee9dc2ee02cb62f658b678d797c
+SHA1: 171078ea3f24174fc8557a48b3639355e57af468
+SHA256: b37588c5709f69af627816377c76bd4a54be1a3e08cea45d3540e88dcdfb8d2b
+SHA512: b3bbe741eafe36bbbf020d6b262164db34d71e00b1daf6dc36740adc18c69eb950d09d134d74359ccfc200daf01d2d58ac9f46a26c8b3ae33725ec8211afb7b6
+Description: Use ChatGPT app on unsupported iOS 16 versions
+Name: SpoofGPT
+Author: zeroxjf
+SileoDepiction: https://zeroxjf.github.io/depictions/SpoofGPT.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeroxjf.github.io/depictions/SpoofGPT.json&name=SpoofGPT&dev=zeroxjf
+Icon: https://zeroxjf.github.io/icons/SpoofGPT.png
 
 Package: con.dell.speedview
 Architecture: iphoneos-arm
@@ -6226,17 +6284,17 @@ Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm
 Version: 0.1.1
 Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 524
-Depends: mobilesubstrate, preferenceloader
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootful/dev.mineek.appstoretroller_0.1.1_iphoneos-arm.deb
-Size: 24596
-MD5sum: 83ebcafa19bb0d16ccdff457d5e14e67
-SHA1: 265e5c20fbf0a17f2e6260d68ea173cbc819e4b2
-SHA256: 7bdc74b42c87940c571b04bb0e22387924dbca0f2e0118f204f74d94c3948c34
-SHA512: 95bfc3d6b42cc439649e6f7b40d8bc41ba32d7248dd07045cb0fdf854413227625ad0296b35ae5e03ab62c5f80bdab829bd0e20614918b683e11ba336a15b646
-Description: Bypass iOS version check for apps in the AppStore
-Name: AppStoreTroller
+Size: 16844
+MD5sum: aa10eef9bc517410ee9f09ac10be719a
+SHA1: 873b3effd81789586307afbc21ff40258bd4c96a
+SHA256: 43c0458ccdaeecbf2a4bb49bf77f26b5be01570d03f151fb842e39c887a25cd1
+SHA512: e12bb70b344f36c7d2bc0fd5cb5615862d0a9f9955f98102937002233005f55f77944cd5592d4b944ef80bcabe5c2c84801efb8fec034f8ebaf6a78bbec98977
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
 Author: Mineek
 
 Package: dev.mineek.appstoretroller
@@ -6922,6 +6980,23 @@ SHA256: 160599f3978a50aae6973e2bc27f6ed996330c2b1ef967db3fff074f61b63399
 SHA512: 33d3de132d1e919a32b352d883dc68468852d658b0fdfe93a06d0c9df6fba982f6df640522c5c362c1fa342c245b204da38d263998d694c147ca74495f25eef9
 Description: Configure the frame of your status bar
 Name: Frame
+Author: waruhachi
+
+Package: moe.waru.jikan
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/moe.waru.jikan_1.0_iphoneos-arm.deb
+Size: 20366
+MD5sum: e1ae1cb008e46d34833ba7e7121fbedb
+SHA1: d969f244fc4a52684007fbc6b7b2d81168eb304d
+SHA256: ab80f0b958d5a5c3fcaf41102c49e9dca4a7dfb0af80bf3a8baf0c1f4880bed6
+SHA512: 16642d3422f718a6a2831897cfedf47f57c4da80d5ac1452e72f22ccf0f94e84cfdaffe80f4fa78d73ed6e9a4612a2cf5ec4683a2a3f8198383bafd2da2c8828
+Description: Show estimate time left to full charge on your lock screen
+Name: Jikan
 Author: waruhachi
 
 Package: moe.waru.norecents
@@ -9088,6 +9163,25 @@ Author: dvntm, nowesr1
 Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
 
+Package: com.dvntm.glow
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 20028
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.glow_1.1_iphoneos-arm64e.deb
+Size: 7804746
+MD5sum: 606f5498fa07ed8aef2d86c40c17e585
+SHA1: cf01a5e2a1b0ae8baa0f0da2f5578950c798974c
+SHA256: cca38835ccee758d8735c5f04e57b3f96ab0524799342eec6fb3fc240d3359a0
+SHA512: c6588b566b05b16ec434eaedd2b270228865ac8adc8f9938843b916e992122557e2d3cb677edd6f90dca4434221b3645d450523e334c2202e02ea6b4a405b0ca
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
 Package: com.dvntm.grox
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -9867,6 +9961,29 @@ SHA512: 2eb2563119d1918b7c102f34eac98a5ffb705071630633215fa1b3f1d6a7edf2b033c03e
 Description: Ostrich VPN Premium For Free .
 Name: Ostrich VPN Premium
 Author: HW
+
+Package: com.hydra.projectx
+Architecture: iphoneos-arm64e
+Version: 2.5.1-1329+debug
+Section: System
+Maintainer: HYDRA
+Installed-Size: 7636
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), ellekit (>= 0.5)
+Conflicts: com.hydra.projectx (<= 2.5.1)
+Replaces: com.hydra.projectx (<= 2.5)
+Filename: ./debians/Roothide/com.hydra.projectx_2.5.1-1329+debug_iphoneos-arm64e.deb
+Size: 4735334
+MD5sum: 1a58697ffd24adf5bd7a9ac83d9981ed
+SHA1: 0112c79bec98d3d41b2401507a54b968a07f2b7a
+SHA256: ac61d5b74c722bc64bd17f666b6291feeb7dbe0a26d30b0fb5ed35d4b1ab5151
+SHA512: ebf10bd35e5e7453fc888abc40a781d4e399b1106821c436c2f1b157ff3f167a8565e9429b55bf2041a6767d424f1a99fa849b1f329672ac39f1b7c6787f56ab
+Description: Spoof device identifiers and bypass security. For rootless jailbreak iOS 15+ devices.
+Tag: role::enduser, purpose::extension
+Name: Project X
+Author: HYDRA
+Icon: file:///var/jb/Applications/ProjectX.app/Icon.png
+Rootless: true
 
 Package: com.iamdega.uiscroller
 Architecture: iphoneos-arm64e
@@ -14212,6 +14329,26 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
+Package: com.sttt.modifyiipa
+Architecture: iphoneos-arm64e
+Version: 0.0.1-10+debug
+Section: Terminal_Support
+Maintainer: sttt
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/com.sttt.modifyiipa_0.0.1-10+debug_iphoneos-arm64e.deb
+Size: 11448
+MD5sum: 5cfb6b26cb5a49bb1748e3906bb0dcc2
+SHA1: 1af15dcd4ed9d87c5b6df57315a6c1aa40ffc015
+SHA256: 3ea7e99d8237927f49c66766c5ad3f341a6d06dc2c0ba31be1cab7b0591c1c32
+SHA512: 3b9698bce78963b9d5929e5c1c4039a803e1bcf1e1d1a3854d9157cc3c4e354fcb8267a9ff749252ada707bc3900dff5ad041ba50793aa62ccd3a20348d0fcd3
+Description: modifyiipa
+Tag: role::hacker
+Name: modifyiipa
+Author: sttt
+SileoDepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
+icon: https://Mieing.Github.io/repo/file/sttt.png
+
 Package: com.sugiuta.lpmnotification
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -14695,6 +14832,27 @@ Name: SpoofGPT
 Author: zeroxjf
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
 
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 17.0)
+Filename: ./debians/Roothide/com.zeroxjf.spoofgpt_1.0.6_iphoneos-arm64e.deb
+Size: 34146
+MD5sum: 2dc04fd6c602f6d7057657490fc60395
+SHA1: fec8838afd24e82208f854acdf4cb662c4ce8322
+SHA256: e678ccb35d6a602aef4337a03a5ecad1755d1d074e19f067db0871dddbd460e5
+SHA512: fdda50a8d9a4ee4f60f590650159cc6ebaa979fca1c46c490078aef579eed1541eb4a5b0c605b96a4fd42caaf67fa09490921b26ce5208b3d2c84e74c1353a2d
+Description: Use ChatGPT app on unsupported iOS 16 versions
+Name: SpoofGPT
+Author: zeroxjf
+SileoDepiction: https://zeroxjf.github.io/depictions/SpoofGPT.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeroxjf.github.io/depictions/SpoofGPT.json&name=SpoofGPT&dev=zeroxjf
+Icon: https://zeroxjf.github.io/icons/SpoofGPT.png
+
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64e
 Version: 1.0.8
@@ -14828,17 +14986,18 @@ Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
 Version: 0.1.1
 Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 524
-Depends: mobilesubstrate, preferenceloader
+Maintainer: Mineek
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Roothide/dev.mineek.appstoretroller_0.1.1_iphoneos-arm64e.deb
-Size: 22668
-MD5sum: c0004546020e56e60b3d4253859a90e6
-SHA1: 0f92f5f6a99adb3822c697ef08648d0c053f608b
-SHA256: abea8353750c41cf3c1b07bceda9c6284fed8188fb0334505760575bf860edbc
-SHA512: 8eb6bcf7a15be4adc7f19d40777bb7039a2117992add738a9779a7b67a263beab7ec049014186e15434e7c9fee8a0f643b41d0463759b41af5ae85f805ebd788
-Description: Bypass iOS version check for apps in the AppStore
-Name: AppStoreTroller
+Size: 23722
+MD5sum: 3500713e00d76ca872c3a15996400c40
+SHA1: bdbeb63c40310eb0579e6ce32f9c89a9cb3b84d0
+SHA256: 4eb58cf7fd2114ba0ce029d71056870e243b7ec98567db837758e9793d5aeec8
+SHA512: 162f641eaf4de1020a363a91aa8e29c16ab854f8a76ab819dfb29d7a4964e875bd78d0c9b90ecef9ef639711166e805718023532d5342d9a53a4b27362613db9
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
 Author: Mineek
 
 Package: dev.mineek.appstoretroller
@@ -15599,6 +15758,23 @@ SHA256: 4c1e6a6994016ad4b6a4549239867e7a91efea33badea4a88d72d80d49194a0a
 SHA512: cb8347f354d8612cd41cf4e22554f5aba9ada794ad4cb4408e4ea6042371d2a0d17474aca647f9bef0be8e5ecc0b3e5cd91af1ba7baa68b6d9285470fae909fe
 Description: Configure the frame of your status bar
 Name: Frame
+Author: waruhachi
+
+Package: moe.waru.jikan
+Architecture: iphoneos-arm64e
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/moe.waru.jikan_1.0_iphoneos-arm64e.deb
+Size: 20382
+MD5sum: 39454423ce73ef82fad00c33062d8159
+SHA1: 98bbc8217dd46c924e5da8cf63b9d67fb7efe2ff
+SHA256: 13b6a44cec64a6e449263f1350f27fbba70dfb00900fdea11ec183f449e9859e
+SHA512: 491a2bbdceffe2bb582ac0fbdb621839fc0adbcf21c5ec7213e0f205e304fac01540b4078031af447472c46e26008d001ac448c494e254c1758aba4afe5730f5
+Description: Show estimate time left to full charge on your lock screen
+Name: Jikan
 Author: waruhachi
 
 Package: moe.waru.norecents
@@ -18265,6 +18441,25 @@ Author: dvntm, nowesr1
 Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
 
+Package: com.dvntm.glow
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 20028
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.glow_1.1_iphoneos-arm64.deb
+Size: 7798976
+MD5sum: e206e5e474b36f57c3b0212736c99e29
+SHA1: ba8d81b9ea99d545b72889fe1f0d7ecb0da3bd77
+SHA256: 65eef5bd3a5ab191c24683bf8b8e941ad7b839aadb721429299eca9a6e596bc6
+SHA512: 510ccba426928faa3e822d22d0bbc1be723d954a307ef48dc925a8759b931f28edac8e06f77df44ae62a8c101cb7298a5d928aefca1dee4aea7f9fb0e70a359b
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
 Package: com.dvntm.grox
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -19584,6 +19779,28 @@ SHA512: 7ab184fc1b9448d61fb247307d6f667a778f9b49750c9713b3f1e64127d0b0ee40b7207a
 Description: Automatically turn on low battery mode on lock screen .
 Name: LowPowerSleep
 Author: Hoangdus
+
+Package: com.hydra.projectx
+Architecture: iphoneos-arm64
+Version: 2.5.1-1329+debug
+Section: System
+Maintainer: HYDRA
+Installed-Size: 7636
+Depends: firmware (>= 12.0), ellekit (>= 0.5)
+Conflicts: com.hydra.projectx (<= 2.5.1)
+Replaces: com.hydra.projectx (<= 2.5)
+Filename: ./debians/Rootless/com.hydra.projectx_2.5.1-1329+debug_iphoneos-arm64.deb
+Size: 1880730
+MD5sum: cf8062758859bb52507635bdd3c98f0e
+SHA1: 43101ee414c23d07c74d8faa91de5496f03d85d7
+SHA256: d5c59291f7fa1579818b045d644fed48bcc11be13781b7dfc6e886d8200f1bd2
+SHA512: 7598cdfb20da50ea27dc0d7c3d8e7616224bb47fcfd550bbba621615ddbf13899a316d07f620cc1eb6d01076452f0b790219243333b71b72224f88a5f52eafe6
+Description: Spoof device identifiers and bypass security. For rootless jailbreak iOS 15+ devices.
+Tag: role::enduser, purpose::extension
+Name: Project X
+Author: HYDRA
+Icon: file:///var/jb/Applications/ProjectX.app/Icon.png
+Rootless: true
 
 Package: com.iamdega.uiscroller
 Architecture: iphoneos-arm64
@@ -23195,6 +23412,25 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
+Package: com.sttt.modifyiipa
+Architecture: iphoneos-arm64
+Version: 0.0.1-10+debug
+Section: Terminal_Support
+Maintainer: sttt
+Installed-Size: 216
+Filename: ./debians/Rootless/com.sttt.modifyiipa_0.0.1-10+debug_iphoneos-arm64.deb
+Size: 8834
+MD5sum: fb4a00c1c1f462bc26c65b853b0e6380
+SHA1: 96b7f74896907697bfac3d4476d3725c10280eb5
+SHA256: a66b15e93a9cce6d2569939dbbad218d86dabf309e6a3cb1b0d322d117b1cfe7
+SHA512: e55d906ccb8bdd14c6bdd084597029caa28325d9879eb9e78637763f1f6e07d4e96725a4d1ef7efbeea3695a0cbd7193117f57c5d4e2e8a879b931e80705730e
+Description: modifyiipa
+Tag: role::hacker
+Name: modifyiipa
+Author: sttt
+SileoDepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
+icon: https://Mieing.Github.io/repo/file/sttt.png
+
 Package: com.sudo.debra
 Architecture: iphoneos-arm64
 Version: 2.9.9
@@ -23664,6 +23900,26 @@ Name: SpoofGPT
 Author: zeroxjf
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s
 
+Package: com.zeroxjf.spoofgpt
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: zeroxjf <zeroxjf@repo>
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 17.0)
+Filename: ./debians/Rootless/com.zeroxjf.spoofgpt_1.0.6_iphoneos-arm64.deb
+Size: 27262
+MD5sum: 9a8956c62c3636f5bc1d99f495c94a75
+SHA1: 91f50fc5cedd131ede2bc29134ba289b479adfde
+SHA256: 9ad824228eb30477d26cdb9d79bf887ca522623569f71b1ca33e8da81cbd50bd
+SHA512: 420f18ae9e22b152e5336b954918c9143621fe624f08a22e129e53ca97ad832288b6e1ef55454edb595247a74443906e431d690bc4b264dda51e65eadf53f76d
+Description: Use ChatGPT app on unsupported iOS 16 versions
+Name: SpoofGPT
+Author: zeroxjf
+SileoDepiction: https://zeroxjf.github.io/depictions/SpoofGPT.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeroxjf.github.io/depictions/SpoofGPT.json&name=SpoofGPT&dev=zeroxjf
+Icon: https://zeroxjf.github.io/icons/SpoofGPT.png
+
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64
 Version: 1.0.8
@@ -24122,17 +24378,17 @@ Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64
 Version: 0.1.1
 Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 524
-Depends: mobilesubstrate, preferenceloader
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootless/dev.mineek.appstoretroller_0.1.1_iphoneos-arm64.deb
-Size: 24438
-MD5sum: 9b23c71d1c989c7fa5991c7066543790
-SHA1: a24a73e81af2f386fb3e75dad8142eed160dfd7e
-SHA256: 14ec9d6cf23e2cddf9b5fe5543515d39de4616ccac1edc70c47a62e35cb2dff6
-SHA512: f29e8cc00b83b2ff6772a8f6a44b5f0ee99570971d28ab3199735d54949569cf6d80ee13761bd0b31fd771c4a71f25827fbc0a4c3566f64ace02922abba68821
-Description: Bypass iOS version check for apps in the AppStore
-Name: AppStoreTroller
+Size: 16958
+MD5sum: d6ae49b8bbe96785cc1059d53588f819
+SHA1: b53008a07d13f00561fb4a63a786624131221b1f
+SHA256: c76025bb90c2b643a71add13538981c61c58391575f47fd31441c641a1d90788
+SHA512: 94c14881d027ed801930d2ac378e78d193844f850d82e829310f98cb01a661c66ef52f79f69d0a5cdd01f785782627d1d831fe1af9f4117c62c7a868a7d60b7b
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
 Author: Mineek
 
 Package: dev.mineek.appstoretroller
@@ -24920,6 +25176,23 @@ SHA256: 1e1c35149ec89feea772043829f667ebfcd232b84f12424c48148ac09a6cf97c
 SHA512: 20d7a0c609d3921c97db7b899c6f44622e6227625a034ecfc3614ee75e2107779f2fcb7e68ef4ff4c99d3791d298ed8b1edc704696fae4e7d337940a0eed89b5
 Description: Configure the frame of your status bar
 Name: Frame
+Author: waruhachi
+
+Package: moe.waru.jikan
+Architecture: iphoneos-arm64
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/moe.waru.jikan_1.0_iphoneos-arm64.deb
+Size: 20444
+MD5sum: 1563cc17a24ccf255ad9ad6d0ee71ff6
+SHA1: 47afcf2acb3a69cefb7f618feca328ea2e56174c
+SHA256: 7dbd21d8b382a1ecef0f1d37e06d291eb64f487614190ae01810f98dc79bb6a0
+SHA512: 95c64786d7fb86ccb2f1bbb510f5e9c824bc79894fd320b2121c94aafd16091f5abbccae73705d391d68d47093e90575b79378e333fd17769e55621be702a094
+Description: Show estimate time left to full charge on your lock screen
+Name: Jikan
 Author: waruhachi
 
 Package: moe.waru.norecents
