@@ -9962,29 +9962,6 @@ Description: Ostrich VPN Premium For Free .
 Name: Ostrich VPN Premium
 Author: HW
 
-Package: com.hydra.projectx
-Architecture: iphoneos-arm64e
-Version: 2.5.1-1329+debug
-Section: System
-Maintainer: HYDRA
-Installed-Size: 7636
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), ellekit (>= 0.5)
-Conflicts: com.hydra.projectx (<= 2.5.1)
-Replaces: com.hydra.projectx (<= 2.5)
-Filename: ./debians/Roothide/com.hydra.projectx_2.5.1-1329+debug_iphoneos-arm64e.deb
-Size: 4735334
-MD5sum: 1a58697ffd24adf5bd7a9ac83d9981ed
-SHA1: 0112c79bec98d3d41b2401507a54b968a07f2b7a
-SHA256: ac61d5b74c722bc64bd17f666b6291feeb7dbe0a26d30b0fb5ed35d4b1ab5151
-SHA512: ebf10bd35e5e7453fc888abc40a781d4e399b1106821c436c2f1b157ff3f167a8565e9429b55bf2041a6767d424f1a99fa849b1f329672ac39f1b7c6787f56ab
-Description: Spoof device identifiers and bypass security. For rootless jailbreak iOS 15+ devices.
-Tag: role::enduser, purpose::extension
-Name: Project X
-Author: HYDRA
-Icon: file:///var/jb/Applications/ProjectX.app/Icon.png
-Rootless: true
-
 Package: com.iamdega.uiscroller
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -19779,28 +19756,6 @@ SHA512: 7ab184fc1b9448d61fb247307d6f667a778f9b49750c9713b3f1e64127d0b0ee40b7207a
 Description: Automatically turn on low battery mode on lock screen .
 Name: LowPowerSleep
 Author: Hoangdus
-
-Package: com.hydra.projectx
-Architecture: iphoneos-arm64
-Version: 2.5.1-1329+debug
-Section: System
-Maintainer: HYDRA
-Installed-Size: 7636
-Depends: firmware (>= 12.0), ellekit (>= 0.5)
-Conflicts: com.hydra.projectx (<= 2.5.1)
-Replaces: com.hydra.projectx (<= 2.5)
-Filename: ./debians/Rootless/com.hydra.projectx_2.5.1-1329+debug_iphoneos-arm64.deb
-Size: 1880730
-MD5sum: cf8062758859bb52507635bdd3c98f0e
-SHA1: 43101ee414c23d07c74d8faa91de5496f03d85d7
-SHA256: d5c59291f7fa1579818b045d644fed48bcc11be13781b7dfc6e886d8200f1bd2
-SHA512: 7598cdfb20da50ea27dc0d7c3d8e7616224bb47fcfd550bbba621615ddbf13899a316d07f620cc1eb6d01076452f0b790219243333b71b72224f88a5f52eafe6
-Description: Spoof device identifiers and bypass security. For rootless jailbreak iOS 15+ devices.
-Tag: role::enduser, purpose::extension
-Name: Project X
-Author: HYDRA
-Icon: file:///var/jb/Applications/ProjectX.app/Icon.png
-Rootless: true
 
 Package: com.iamdega.uiscroller
 Architecture: iphoneos-arm64
