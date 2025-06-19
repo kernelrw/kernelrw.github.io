@@ -1705,6 +1705,25 @@ Author: dvntm, nowesr1
 Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
 
+Package: com.dvntm.glow
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 16888
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.glow_1.2_iphoneos-arm.deb
+Size: 6869286
+MD5sum: 74d504136d05c32685ca301875aa6e5b
+SHA1: 9703c3d13265f13b8c48c7d00af819cbdd0015dc
+SHA256: fc3ce488f9fd94775e015eec4e38f75d21bc21d72d85c940c8a0ceea90aa7bbd
+SHA512: c6bb8521aa54ffea74e45942ec57c5450b1b44887ab63142645ac818ff349c9ba5caedab6d93d1ff1833c6b77e3190cf2c2728edcfb3319116f55bf4fe351dee
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
 Package: com.dvntm.grox
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -4838,6 +4857,26 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
+Package: com.p2kdev.instagramnoads
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.p2kdev.instagramnoads_1.0_iphoneos-arm.deb
+Size: 5596
+MD5sum: c3018fed3f941abe44374398577bae2d
+SHA1: 2d6a3f8e8a50b54639fafd2c0f59560b36378e7a
+SHA256: 18de490a44d14acccb1d610d4ad6644e187fa06849830d09859bba19234635f7
+SHA512: 202a0be3048235011fd1f3ae33b3624e50a9959fc7c9087b7d702071ec7bd0684a8aa399213019ff7a7c0cf22798ac7a14dd8392083db7cbde7c66329f257d04
+Description: No Ads in the Instagram App!
+Name: InstagramNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm
 Version: 1.1
@@ -5442,6 +5481,23 @@ Name: AutoAlerts
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
+Package: com.simon.switch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Simon <qiaozhani000@163.com>
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.simon.switch_1.0_iphoneos-arm.deb
+Size: 15668
+MD5sum: b54329cc3ca704827584b143f3d89875
+SHA1: 3b0b7f9de5fb5e1e1f2b6f342b393c32663dea14
+SHA256: 1b9c75651a453e2b044850793668558d8766a76c96eb506b1c8fea2f761f0690
+SHA512: 44f7207b153cc05cfcae5c06c2c17638bf5bfe7d4fe6b459623cbf6989dfddb6d9a9861efbcc2df5312f3f426415128f5cd793ff7ed6a0b8fd87926715678c4f
+Description: Sticker Switches
+Name: Sticker Switches
+Author: Simon <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/llswitch.png
 
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm
@@ -9176,6 +9232,25 @@ MD5sum: 606f5498fa07ed8aef2d86c40c17e585
 SHA1: cf01a5e2a1b0ae8baa0f0da2f5578950c798974c
 SHA256: cca38835ccee758d8735c5f04e57b3f96ab0524799342eec6fb3fc240d3359a0
 SHA512: c6588b566b05b16ec434eaedd2b270228865ac8adc8f9938843b916e992122557e2d3cb677edd6f90dca4434221b3645d450523e334c2202e02ea6b4a405b0ca
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
+Package: com.dvntm.glow
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 16888
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.glow_1.2_iphoneos-arm64e.deb
+Size: 6875506
+MD5sum: e31e84844901c65492a6603e0d1baeca
+SHA1: 8405b4a6939931f5f56e1554facf85099f996280
+SHA256: b0efa52d367e41395358e314ab80d7c86d7b5398e784a58ec33f5781293d82f3
+SHA512: d23d8b58db36190a6339017b2a857c4a3783211cd404ac013e34363b6292bf65ff89ced1ac47757c860957ae87fc1e6378da45ff46b5317a9aafc6c0fda163b1
 Description: Cleaner. Smarter. Yours.
 Name: Glow for Facebook
 Author: dvntm, nowesr1
@@ -13813,6 +13888,24 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
+Package: com.simon.switch
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Simon <qiaozhani000@163.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.simon.switch_1.0_iphoneos-arm64e.deb
+Size: 21648
+MD5sum: 628088ac0a3e54169c655922c602c9f7
+SHA1: 8c2481cac9dad874ab75413feab9a9b5a75cfbc6
+SHA256: 4677a94806e1012679d36d76c10c0fd25404c630c5252cf071d40e4f72446c2c
+SHA512: 6a4148b5229e471292a6df0c07b0fe482c00e716690686ef5a439dd5b178c1ce17e016d64cbf1d2c74951b5d184b12642fc12ef22645e4a4179b57e603778c7b
+Description: Sticker Switches
+Name: Sticker Switches
+Author: Simon <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/llswitch.png
+
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm64e
 Version: 0.0.2
@@ -18437,6 +18530,25 @@ Author: dvntm, nowesr1
 Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
 
+Package: com.dvntm.glow
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 16888
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.glow_1.2_iphoneos-arm64.deb
+Size: 6865466
+MD5sum: d7d3f701a2ade2dab24f4047cc47ca0b
+SHA1: 21ab58c543b82249b704fd09545227778d288f4a
+SHA256: 48f7b23012b47ee0320eca0980279c8ddef5488d01fab55639ada0a85ee7a10a
+SHA512: aa09ebf13e735404ea9606c7a3ce3fc26a87a8b6ebfb6548779f7e244d22fa31e1ed3fc0c69334ca2cacf9b7614b8c66bdb18cacc276ea2fb9bb2cc881009679
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
 Package: com.dvntm.grox
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -20291,11 +20403,11 @@ Maintainer: m1337
 Installed-Size: 876
 Depends: firmware (>= 15.0)
 Filename: ./debians/Rootless/com.m1337.varclean_1.1_iphoneos-arm64.deb
-Size: 723746
-MD5sum: 9f9b9047e6ee69e6f3177fc8a9a4c83d
-SHA1: 7a6273af57b995667a58fff28ed6a07594cb4bb1
-SHA256: 321de6f031eaec605f7cad11dceb23b76bcf676c0569d769e36c3fd54835e44c
-SHA512: 0ffb453e8a8a3dde60ad2b9fa87cfa0df0f79d4a73ef10467feb5fd84d2c01643a83a6d62d8f694078935f87538157eeb50736fe07286700cc355b3dd9a1e1a9
+Size: 721216
+MD5sum: 7faf3d7f96f11bbaf81e8bbbc088fef2
+SHA1: 11cd1f6b90a7b34482c24b16d81dffedcf881dd0
+SHA256: 0a86735923d122cb855f09e17b32525c45fdd1a4f1c71bdf7a4e51af6414f020
+SHA512: b0ac67ca61bbe7e7365198326d01948cc2c185a5d0e10aa10b548b7823ebddc5bd225ec206e5fcbcea6cc38d77b86f9d3c9022d836268b5ed85e13d270814dab
 Description: varClean for Rootless
 Name: varClean
 Author: m1337
@@ -22314,6 +22426,26 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
+Package: com.p2kdev.instagramnoads
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.instagramnoads_1.0_iphoneos-arm64.deb
+Size: 5764
+MD5sum: 2d866418ef3c51a61bb99107845b9406
+SHA1: 2b37719301d502935bf88007ac7d079fcb92cbd5
+SHA256: 0b964b54aac6b980b8ce0a13e47643e84994bc049292c76f443194f4136093d6
+SHA512: d21a479b6515da971bbc12a12a84e700ead18c72b5992faf6251a99935f96efee61cbd21272558d6eca39ddb1d749365a33674014db616031a0e5083f412a5a3
+Description: No Ads in the Instagram App!
+Name: InstagramNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -23092,6 +23224,23 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
+Package: com.simon.switch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Simon <qiaozhani000@163.com>
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.simon.switch_1.0_iphoneos-arm64.deb
+Size: 16244
+MD5sum: ebabc84ad1e3a8d6a90a8e2af6dc09f9
+SHA1: 16c1c0411b4cc24966a733682b276df698505fa9
+SHA256: 0dd9389059a247aab7af40ecab10dbd81baa6bc0c4fd9dbe26250211db52c903
+SHA512: 6108c47286e7e13ed489a4c7d82e3e70c4db3e50dd1fbcfc6c7b1b05d3a52407391e56a88b3743e102e20a51b84e7181d98e4dc4f123854dddc56d47334cba0c
+Description: Sticker Switches
+Name: Sticker Switches
+Author: Simon <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/llswitch.png
+
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -23753,6 +23902,22 @@ Description: Bye Bye Facebook ADS!
 Name: ByeSponsorFB
 Author: CydiaGeek <lucaluca86@aol.com>
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fcom.jacobcxdev.fbspnosor%2Ficon.png&s=180x180&f=webp
+
+Package: com.yourepo.cydiageek.byesponsorinsta
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.yourepo.cydiageek.byesponsorinsta_1.0.3_iphoneos-arm64.deb
+Size: 6340
+MD5sum: beb3d535b06143cd19126a341532620a
+SHA1: 45a36fe6e04b4d581e778c4d7e182cdb1947c672
+SHA256: 62e4b344a3aedae8535875c00de9339f595d56699efa450c3b6b3e3b0bd28375
+SHA512: 84ef489c6e9252619ad67b04b802238ff98ae86a47e5fc5e2f3e8ad9534ce437efd1b0c699ef7415880774581b95cb7505f09c32924a63ac1fbb86dbc32a51d1
+Description: Bye bye annoying Sponsored Posts into the Instagram Application! Tip by koosnat.
+Name: ByeSponsorInsta
+Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.yourepo.cydiageek.wanomessageticks
 Architecture: iphoneos-arm64
