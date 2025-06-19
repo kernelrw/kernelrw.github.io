@@ -1724,6 +1724,25 @@ Author: dvntm, nowesr1
 Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
 
+Package: com.dvntm.glow
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 16996
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.glow_1.3_iphoneos-arm.deb
+Size: 6900216
+MD5sum: 14854601b552b4e325f4421cab400348
+SHA1: 0f484a7c03e8ef94bf153da814143ea958cac0f6
+SHA256: c9180a11ee97101e1c0810755973b9440f3690c1405e8c5a6acc889095afda49
+SHA512: 0f7818019b90fa195628c3cb0321e42c8442fe8f4bc6948ad51e94f3978270b8999fd9e3955ee600f3635af479e0ea4e76ddc6c25f7f87a6e758b982c1db8312
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
 Package: com.dvntm.grox
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -9251,6 +9270,25 @@ MD5sum: e31e84844901c65492a6603e0d1baeca
 SHA1: 8405b4a6939931f5f56e1554facf85099f996280
 SHA256: b0efa52d367e41395358e314ab80d7c86d7b5398e784a58ec33f5781293d82f3
 SHA512: d23d8b58db36190a6339017b2a857c4a3783211cd404ac013e34363b6292bf65ff89ced1ac47757c860957ae87fc1e6378da45ff46b5317a9aafc6c0fda163b1
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
+Package: com.dvntm.glow
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 16996
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.glow_1.3_iphoneos-arm64e.deb
+Size: 6901330
+MD5sum: 611ee6b70d6e864dfc0572ab153912e4
+SHA1: eb4766eb6dfbd92ce512765bda42af380c9894b9
+SHA256: 306ffb929112144c10fc4de3c16e427379f13734752550f6c655fa5b5f75cf5f
+SHA512: 739dde66745db390ac78e0af74e9b0b0739707facd6b706ac153dacf8bcfe3a4a02d653625a7239d6b3e4c31b44f7c33d83fff1de58a551bdede56d3183de5dd
 Description: Cleaner. Smarter. Yours.
 Name: Glow for Facebook
 Author: dvntm, nowesr1
@@ -18543,6 +18581,25 @@ MD5sum: d7d3f701a2ade2dab24f4047cc47ca0b
 SHA1: 21ab58c543b82249b704fd09545227778d288f4a
 SHA256: 48f7b23012b47ee0320eca0980279c8ddef5488d01fab55639ada0a85ee7a10a
 SHA512: aa09ebf13e735404ea9606c7a3ce3fc26a87a8b6ebfb6548779f7e244d22fa31e1ed3fc0c69334ca2cacf9b7614b8c66bdb18cacc276ea2fb9bb2cc881009679
+Description: Cleaner. Smarter. Yours.
+Name: Glow for Facebook
+Author: dvntm, nowesr1
+Icon: https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/Glow/main/Sileo/depiction.json
+
+Package: com.dvntm.glow
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: dvntm, nowesr1
+Installed-Size: 16996
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.glow_1.3_iphoneos-arm64.deb
+Size: 6899842
+MD5sum: b18de61c585fe8dd69ff6a2e581e510c
+SHA1: 0256bd958e3977e8190422b6dbece8ee692879de
+SHA256: 59a1069d7d369d9eb1de3d04909c19793c8cf87b3d2dbad26bacf5b156ca76a9
+SHA512: ad78267e4afaca3b3296f38dcd51ef25db77ca59eecd1039473b5822263a9a7b470f3426184fc50f516a579aaa9591d41e3729287b462faf527a7a315bec6a46
 Description: Cleaner. Smarter. Yours.
 Name: Glow for Facebook
 Author: dvntm, nowesr1
