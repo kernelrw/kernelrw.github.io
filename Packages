@@ -3512,6 +3512,26 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
+Package: com.mtac.launchlogo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 432
+Depends: firmware (>=14.0)
+Filename: ./debians/Rootful/com.mtac.launchlogo_1.0_iphoneos-arm.deb
+Size: 32700
+MD5sum: 9c5b2e0ce2a8b609cfe3fa9e491fe73a
+SHA1: 497a1030f4a9d85f488581522330a1ac7bf673f4
+SHA256: b8352035cc2d5d4ada3519d707c846b6b9b7c94d731e2d636a245f756d08278e
+SHA512: 7e845fe269a51446a4989f3801135c23b1b40ea90c29a57f478285e88e73fd7b15f2ebea72aaf3adc748ffb1ec849f8957cc6af100878bde98f8b4bb68f65fe0
+Description: Show the Apple logo during respring
+Tag: purpose::extension, role::developer
+Name: LaunchLogo
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.launchlogo/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.launchlogo.json
+
 Package: com.mystery.sanjeh
 Architecture: iphoneos-arm
 Version: 1.0
@@ -11287,6 +11307,27 @@ Name: CCPowerMenu
 Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
+Package: com.mtac.launchlogo
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0)
+Filename: ./debians/Roothide/com.mtac.launchlogo_1.0_iphoneos-arm64e.deb
+Size: 44098
+MD5sum: 2300fc696ab37c7e7dd4477b366ac1b0
+SHA1: 97fba578ff136b3785b984d47974272ce7c269b7
+SHA256: 768d5e319fe1fdab076d390c0a29b9af7e2ca7a295a2d8d0e37612b7e645ddf2
+SHA512: 5ef56c9fa440e2d6c0dec6fe258d9f78c9e20e94e4399317bebaaf38373b547b977f263bae3a1722de81dfb7b817a0ab7a5df9a70e7c6b2d6fe996407f083f56
+Description: Show the Apple logo during respring
+Tag: purpose::extension, role::developer
+Name: LaunchLogo
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.launchlogo/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.launchlogo.json
 
 Package: com.mtac.uptime
 Architecture: iphoneos-arm64e
@@ -20761,6 +20802,26 @@ Name: FrendaCC
 Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
 Author: sugiuta
 Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
+
+Package: com.mtac.launchlogo
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 432
+Depends: firmware (>=14.0)
+Filename: ./debians/Rootless/com.mtac.launchlogo_1.0_iphoneos-arm64.deb
+Size: 32658
+MD5sum: 7eb760790d9cbcb1a86ca262e77ceafd
+SHA1: 60adcf201f185c46bc595f5d145217e2e805b528
+SHA256: 431326a7fd7c7f918de089fe41a0fa5cdced5c943b681a08b5462f11834229fa
+SHA512: 3543cfa2cf2ece8eef4226e710e5a2eb82b274d64f955a0665b7bf79edfd9a38a1c46ec4d73f6038cfecdf56fd75585c85152119a7342673623995e3b07d68ce
+Description: Show the Apple logo during respring
+Tag: purpose::extension, role::developer
+Name: LaunchLogo
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.launchlogo/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.launchlogo.json
 
 Package: com.mystery.sanjeh
 Architecture: iphoneos-arm64
