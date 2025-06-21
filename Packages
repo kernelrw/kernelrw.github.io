@@ -4740,6 +4740,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
 
+Package: com.nyathea.twtlegacypatcher
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: thea
+Installed-Size: 180
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nyathea.twtlegacypatcher_0.0.1-1+debug_iphoneos-arm.deb
+Size: 17012
+MD5sum: 1519cbc8f236e0a3412eb98b8fbb31a5
+SHA1: acfc81cae1ef1a81f5bf66487adfe08a9dacd443
+SHA256: 97c0c56edcd768f139f894783215c207318d80f7512830861ad2ffc8724f5eed
+SHA512: 22a7547a7015f8c531710960fba6f3d6bde6dae3c8093471a454a53cfde8ea8557419746f367809be56e0261ea746e22c2deb68260818da99e3252f04f42aeab
+Description: An awesome MobileSubstrate tweak!
+Name: TwitterLegacyPatcher
+Author: thea
+
 Package: com.objc-msgsend.theta
 Architecture: iphoneos-arm
 Version: 1.1
@@ -12584,6 +12601,24 @@ SHA512: 6eed5273a91397f3dad8db1761fe486f1e1cd5e983da121cefe096a1fcb0e48e1d81ff65
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
+
+Package: com.nyathea.twtlegacypatcher
+Architecture: iphoneos-arm64e
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: thea
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nyathea.twtlegacypatcher_0.0.1-1+debug_iphoneos-arm64e.deb
+Size: 13162
+MD5sum: 937156ff969c29b74d1b8c47965d831b
+SHA1: 0b73bc32fab0381096b4423f602f5a2459eb15ac
+SHA256: 56d724f4de0bc8b7a329a5853a7f212ad38dbe3bca5ca308ef70a17644a6f5f8
+SHA512: b832977032bf727829d196875f481bb232cae58b1bb57e5a7b310dc10d34cd297eb63a449596934650f75ece7d388f4622c9d55fbbc3faeb140c28ea5194a335
+Description: An awesome MobileSubstrate tweak!
+Name: TwitterLegacyPatcher
+Author: thea
 
 Package: com.opa334.altlist
 Architecture: iphoneos-arm64e
@@ -22445,6 +22480,23 @@ SHA512: 60a727e4dd902a89a7c2c79f1253ad59c4b38e245371f3a1c0a47c8607a7e48cee842e85
 Description: An awesome MobileSubstrate tweak!
 Name: Telegramscreenshotbypass
 Author: noone
+
+Package: com.nyathea.twtlegacypatcher
+Architecture: iphoneos-arm64
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: thea
+Installed-Size: 180
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nyathea.twtlegacypatcher_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 10116
+MD5sum: e3325998c3ba2401a6c1755f5134a407
+SHA1: 7d3b497793539eee5bb28ba25085b600717ba22c
+SHA256: d3a9ebe67859ab277647f690a4b35b57c1987aa3227439e7ec0c353702cbd5e2
+SHA512: 4c7ad36f4b38ea51729da506689f29fe4dad4bedc96abba26748501e3c67bb4e057da08e3031498f011057c181ec251f4a8deaa0b27a3261d736b8d5e3e74365
+Description: An awesome MobileSubstrate tweak!
+Name: TwitterLegacyPatcher
+Author: thea
 
 Package: com.objc-msgsend.theta
 Architecture: iphoneos-arm64
