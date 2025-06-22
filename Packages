@@ -522,6 +522,23 @@ Description: Automatically marks messages as read after clearing their notificat
 Name: IMRead
 Author: noname
 
+Package: com.82flex.amlyrics
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.82flex.amlyrics_0.0.1_iphoneos-arm.deb
+Size: 12048
+MD5sum: 54a2b3f38012ca1b148178f404b3ad17
+SHA1: 7c0113f6eab6a8b9f7c82b8cea855cd8838646a1
+SHA256: 70d32cfa064d61efb354100d7341f79d17876f496918d087c24a19b2ba8b523b
+SHA512: 809bf3544ac34f818e7382b816bd4e633773ee2f89b914430e3cafb0e1e5e79bf1935c1fd35d4cce013df15e4819ed31bbb5df46dd6d703c23c0575dc33ebfa9
+Description: Dump lyrics from Apple Music.
+Name: AMLyrics
+Author: Lessica <82flex@gmail.com>
+
 Package: com.82flex.artworkspinner
 Architecture: iphoneos-arm
 Version: 1.3
@@ -2197,6 +2214,23 @@ Description: The best ios theme ever made
 Name: ShitOS
 Author: Edog813, 3h6_1
 
+Package: com.eevee.spotify
+Architecture: iphoneos-arm
+Version: 6.0
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1668
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debians/Rootful/com.eevee.spotify_6.0_iphoneos-arm.deb
+Size: 431478
+MD5sum: f024bd1fefd45b8e0b51a5f83808b01e
+SHA1: 2848f3e0b7a08b2d20a876d95d969d3ebdf1696f
+SHA256: 7be3749c0b2143312cdaf4bc40e6ee6790a681dd4486c5a197c9a34462ce5f78
+SHA512: 1c0fc927d00ea434b9b608e7332baf8aa6ec121b82b8c5fcb7e367cae71a6536bf4d5961ebc3667c0e399c21a48b7bfa6d37737132ca76419c1083e07361f631
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Name: EeveeSpotify (Lessica Fork)
+Author: Eevee
+
 Package: com.ethxnn88.visibleisland
 Architecture: iphoneos-arm
 Version: 2.0
@@ -2371,6 +2405,25 @@ Name: YTMusicUltimate
 Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm
+Version: 2.3.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm.deb
+Size: 6483832
+MD5sum: a2d4768f27997fd5f3f45d71398bae82
+SHA1: d6d99955233b729272beda366f5d28ee4c76dacb
+SHA256: effa45704c4991c342617ce9e36725a29172727e7c0f23a821c6212a88e23960
+SHA512: 85d90f631425f49c22305a6a45d5c0e061edd2a038def7ad61df4fbd23e6148699f09b9caba4b366dc01ae10ceeabad711c326afb977f2e361e6a766388fa12b
+Description: YouTube Music Premium
+Name: YTMusicUltimate (Lessica Fork)
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
 
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm
@@ -8308,6 +8361,23 @@ Description: Makes ControlCenter cool.
 Name: CoolCC
 Author: 4nni3 <4nni3.14@gmail.com>
 
+Package: com.82flex.amlyrics
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.82flex.amlyrics_0.0.1_iphoneos-arm64e.deb
+Size: 11770
+MD5sum: 1d8a1143e86ef87dfe6533a141ba7f77
+SHA1: 9b9b2981a49604db9d8471245d364caa584ebc8f
+SHA256: 9a5c7e40147202cd48745d8ec782a00794753eeb0b63c4b49918a550f60c2a5e
+SHA512: 1abfc0cb682eb7cdf0f4be8069c0f0ffed57fad876d3de6cdb69bf1a80d5f48ff66c8432c0a5815484337223eb675401b8685ce5be59ce7279545b59e1d8cc4d
+Description: Dump lyrics from Apple Music.
+Name: AMLyrics
+Author: Lessica <82flex@gmail.com>
+
 Package: com.82flex.libsandyxpc
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -9536,6 +9606,23 @@ Description: The best ios theme ever made
 Name: ShitOS
 Author: Edog813, 3h6_1
 
+Package: com.eevee.spotify
+Architecture: iphoneos-arm64e
+Version: 6.0
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1668
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debians/Roothide/com.eevee.spotify_6.0_iphoneos-arm64e.deb
+Size: 431160
+MD5sum: f96ea3f72aa59f19e9f4c3cc0d0442df
+SHA1: 98e931cf530d895e0173b5a469fb97a384bbb445
+SHA256: 8e0e6be9bd25d18291a00162dc13c95a34d900e01d5465403d98b716c4ed9259
+SHA512: 4715569141bc8563efcc1ea2bf2834d0a3fb11d576b171303fc84ac531093c9f8e73e80833cece72cab01d36dac06f9929ac0e44f30f02bcb561bfe28050ebfd
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Name: EeveeSpotify (Lessica Fork)
+Author: Eevee
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
 Version: 7.10.0
@@ -9918,6 +10005,25 @@ SHA512: 7517870fe857152dd8b4836146fa8ee60783154174b9bac396e2308dc71f00fdda3debe3
 Description: A SwiftUI Prefs Framework
 Name: Comet
 Author: Ginsu
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64e
+Version: 2.3.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64e.deb
+Size: 6485240
+MD5sum: 0c3e3c4ac0d2fa6d79a66b9390684533
+SHA1: ac5170dbec032650ebf0d4b9506f7a8287d28068
+SHA256: 5eeb7dd1d2e4b276ffbfccee2d20202f90a4493feec8c2c69edac9c45977e720
+SHA512: dc4e4abe61b396af8518d0afdb3e17b443c6972e9b45b4a55333fcaeba40fede880ff067bf977520e34d6c3aaf6af54e3451a1c45e426f84715ee21d81c37142
+Description: YouTube Music Premium
+Name: YTMusicUltimate (Lessica Fork)
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
 
 Package: com.giorgioiavicoli.passby
 Architecture: iphoneos-arm64e
@@ -17278,6 +17384,23 @@ Description: Makes ControlCenter cool.
 Name: CoolCC
 Author: 4nni3 <4nni3.14@gmail.com>
 
+Package: com.82flex.amlyrics
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.82flex.amlyrics_0.0.1_iphoneos-arm64.deb
+Size: 11828
+MD5sum: 0131dcd349e3698af2b89721a5cbb517
+SHA1: 8c50e7d8e3106c8e0af6edefc6be15f8cca46a1b
+SHA256: 2194cf78d10b25544388d02e920f7aaf78080a65d9005afded104dcf1fb32ed6
+SHA512: 9b579a4e2b792f9bbfa3627b94edfdbd135a8f0843e041b6c3631986fbb6458cbed6c298b35fb5f41bbf2a94ed3cc34b5b54e3f18a004f6da90657e09f1db466
+Description: Dump lyrics from Apple Music.
+Name: AMLyrics
+Author: Lessica <82flex@gmail.com>
+
 Package: com.82flex.artworkspinner
 Architecture: iphoneos-arm64
 Version: 1.3
@@ -19176,6 +19299,23 @@ Description: The best ios theme ever made
 Name: ShitOS
 Author: Edog813, 3h6_1
 
+Package: com.eevee.spotify
+Architecture: iphoneos-arm64
+Version: 6.0
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1668
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debians/Rootless/com.eevee.spotify_6.0_iphoneos-arm64.deb
+Size: 431500
+MD5sum: 3480ae53934222e04314de5fbe24df91
+SHA1: 2f3555194a9043f84640d07a2d63e5aadbae55f0
+SHA256: 7008cb6a523d1b113db8494d779f4a0effcb518df7a554436cf5d5c183864101
+SHA512: 529befa4a955696567de134c88f8f60c9e67567039de514dbdbcf86cea566f5bec7e868f59bf336e9e401963d0ec49146e98fc0363e5ba616a307447870b0c05
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Name: EeveeSpotify (Lessica Fork)
+Author: Eevee
+
 Package: com.eevee.youtubefix
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -19671,6 +19811,25 @@ Name: YTMusicUltimate
 Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64
+Version: 2.3.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64.deb
+Size: 6483054
+MD5sum: e98cbfdfbeb9f0016e55623fa43debd3
+SHA1: 837ccd89c3a014b8cdd837f05954723471754f53
+SHA256: 4d049cd8d30607a4deea1051deaaf567fc2aad58895c4024bead1af0810a2ced
+SHA512: 0469f4b983746d25cf8e68d9b30e9239ebabe8d8b4a4d87192535d77af95bc0c23bdab31c59d627957cb0fb43a104e7652e2bd216f3e78765454378b391dd8b4
+Description: YouTube Music Premium
+Name: YTMusicUltimate (Lessica Fork)
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
 
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm64
