@@ -4498,6 +4498,24 @@ Name: Twitter NoAds
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 
+Package: com.netskao.twitternoads
+Architecture: iphoneos-arm
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootful/com.netskao.twitternoads_1.1-2_iphoneos-arm.deb
+Size: 2736
+MD5sum: 8a3f963712a9d3f8980de542a1ea45b0
+SHA1: 1caf82209f71cfa1d4918169b6fb9867d10d82ff
+SHA256: be49d99a412a1cfa777e113c86696e5f30c895f198aee133a2a714c12be165ad
+SHA512: 5329c54cf461e8dd73056d60c456717ab89ea7309226b1e513966f9d19e07544c4ed854449a2cce29bdce81367baccb0da4131b583462349e4c301cda21c535e
+Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
+Name: Twitter NoAds
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
+
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -12425,14 +12443,14 @@ Version: 1.1-2
 Section: Netskao-Tweaks
 Maintainer: Nets
 Installed-Size: 72
-Pre-Depends: rootless-compat (>= 0.9)
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debians/Roothide/com.netskao.twitternoads_1.1-2_iphoneos-arm64e.deb
-Size: 3476
-MD5sum: f074848952b21744f1ac115d25fccc4e
-SHA1: 3023c363abccfc8d1e37dd5712dd0be8dba7a1a5
-SHA256: 805c6ded938088d39b3bebcccbc04c0635c1cc2a09cf15cbd430f11d266e72ba
-SHA512: 2bc8ab9f8b556eb5cf62cfde269f9d462fa7ee2d2a9fa5c8514182187c75b8a56681751001651b6d585372e8e6b3b0f0e04a5254bb3ff1765adb8876021a91b5
+Size: 3712
+MD5sum: f10d09b8780989281306ad9f173fb447
+SHA1: dd29d341a7173a337c8f779db45c55f025cb1df0
+SHA256: aabf65c05aa7ec49e9f23f94fab49de6648b017f5e79918b17e12c8c872dd748
+SHA512: eb95b60d9e3eb4a09829f8f5019ace811a74142b7bfd9cdc050cdd4507e11c4d4c088af7463174bb6074c92fa540493f3393739f3b9a0d7d563e7c32d77b1a78
 Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
 Name: Twitter NoAds
 Author: Netskao
@@ -22327,6 +22345,24 @@ Description: Twitter removes ads from data stream. Tested on version 10.64.1 onl
 Name: Twitter NoAds
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+
+Package: com.netskao.twitternoads
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootless/com.netskao.twitternoads_1.1-2_iphoneos-arm64.deb
+Size: 2636
+MD5sum: e0ad955fde0e92d1061703a2fa4e3b47
+SHA1: 7d9c6dcca62e82b8a38e2aa447bf38b222e4df0c
+SHA256: 047dcefe44189e2770764fa5473e6e1b868b1dc7d1452f063e42dd9236ecb301
+SHA512: ff5133523faf1f6c1d2d10507e7040ac11cf9e574e12f4a8e5ee1cb5928f868c6b5c577a0ef73a880c3f2a15d65244990c1ba082b8daaeabb632e1d669a054c2
+Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
+Name: Twitter NoAds
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
 
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm64
