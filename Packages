@@ -6627,6 +6627,27 @@ SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.gith
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 
+Package: emt.paisseon.paibloxx
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 508
+Depends: firmware (>= 12.0), com.bingner.plutil|plutil, com.opa334.ccsupport, ws.hbang.common (>= 1.17), emt.paisseon.pseudo, bash
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: ./debians/Rootful/emt.paisseon.paibloxx_1.2_iphoneos-arm.deb
+Size: 66560
+MD5sum: f601567fa275ed350aabb9bf8788851b
+SHA1: 4aa3cad8ea8e0278226824bd802a6dffd52c3528
+SHA256: 2e2002c153b12cc8f032e6d47d267c3dc2b15b3065918af5ed7f31ac4bd4f286
+SHA512: 8b89dc5193198d816b550f35187da228388f0856ddf3e038af27dd28cef8a4643786a64c1f9ab380194f8864774ff882f0be7ec5bab8906aaae3534a5ef067a3
+Description: A safe ad-blocker for iOS
+Name: PaiBloxx
+Author: Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/paibloxx.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
+Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
+
 Package: eu.teggers.netkillui
 Architecture: iphoneos-arm
 Version: 0.2.1-1
@@ -12171,25 +12192,6 @@ Description: Return your Settings app back to iOS 14!
 Name: OldSettings
 Author: Nightwind
 
-Package: com.nef0pam.paibloxx
-Architecture: iphoneos-arm64e
-Version: 1.1.2
-Section: Tweaks
-Maintainer: Paisseon
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), com.bingner.plutil | plutil, ws.hbang.common (>= 1.17)
-Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
-Filename: ./debians/Roothide/com.nef0pam.paibloxx_1.1.2_iphoneos-arm64e.deb
-Size: 93296
-MD5sum: 742e6067ec156b726625832ca09f3e1c
-SHA1: e01b030f08beecfc661e09568a7e2a5b26785ca8
-SHA256: 95f9f16a88f756fb5feb1e03502901c78916664dc35934a36c3ee9a63d22a467
-SHA512: ef2dc0c4afd54d071007ecb71503ff71cfca9b24453ba1f8de5569bf01b5e5c5a0a0107a5bb4e8d8a78a5799d5d2e8461887f1e0becd03e51bdfe1086ac38bcd
-Description: A safe CLI ad-blocker for iOS. Enter `pbx` in terminal to get started.
-Name: PaiBloxx
-Author: Paisseon
-Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
-
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -15543,6 +15545,27 @@ Author: Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/Erika.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
 Icon: https://paisseon.github.io/icons/Erika.png
+
+Package: emt.paisseon.paibloxx
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 468
+Depends: firmware (>= 12.0), com.bingner.plutil|plutil, com.opa334.ccsupport, ws.hbang.common (>= 1.17), emt.paisseon.pseudo, bash
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: ./debians/Roothide/emt.paisseon.paibloxx_1.2_iphoneos-arm64e.deb
+Size: 63964
+MD5sum: dd8d189a7b92c8cea46d45ee3e6acd23
+SHA1: 560ad1c87a1ec0db31badb8092b48699f5d38bf7
+SHA256: 90b43098323e7024c5692ab8fb1e7a222b205403651a77db8d261bd7f8085820
+SHA512: 83906a879d065ec79d5d4f42a6ed1974a951aedf087b02ac38f86727189a45ab9be9dfee5779eb19029bed4fd9778aac3d31c50fd84b2948ec296997fa20a5c9
+Description: A safe ad-blocker for iOS
+Name: PaiBloxx
+Author: Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/paibloxx.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
+Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
 
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm64e
@@ -21922,24 +21945,6 @@ Description: Return your Settings app back to iOS 14!
 Name: OldSettings
 Author: Nightwind
 
-Package: com.nef0pam.paibloxx
-Architecture: iphoneos-arm64
-Version: 1.1.2
-Section: Tweaks
-Maintainer: Paisseon
-Depends: firmware (>= 12.0), com.bingner.plutil | plutil, ws.hbang.common (>= 1.17)
-Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
-Filename: ./debians/Rootless/com.nef0pam.paibloxx_1.1.2_iphoneos-arm64.deb
-Size: 91276
-MD5sum: a9609ac907f819656e97196bee095e3f
-SHA1: 53426b841dfd5b569357239385166f1949a9f3dd
-SHA256: 3c07a61c2c064ab81f1fdf3c90d09e077b40385e640e3d0bcab2b9c269edb9d8
-SHA512: c16791c623643cd9ba8b5b14cf392a421d80656dfdf4110f11b5697e9dbb1b0b967d1747861f7b9744add211b169482a5da808840f6fc285ab3aa20d63efe514
-Description: A safe CLI ad-blocker for iOS. Enter `pbx` in terminal to get started.
-Name: PaiBloxx
-Author: Paisseon
-Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
-
 Package: com.nef0pam.palera1nswitch
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -25178,6 +25183,27 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.g
 SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
+
+Package: emt.paisseon.paibloxx
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 508
+Depends: firmware (>= 12.0), com.bingner.plutil|plutil, com.opa334.ccsupport, ws.hbang.common (>= 1.17), emt.paisseon.pseudo, bash
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: ./debians/Rootless/emt.paisseon.paibloxx_1.2_iphoneos-arm64.deb
+Size: 66484
+MD5sum: a978ac9caf14e0f5a6bd6f03f13a307b
+SHA1: 2c00faf12402af874360b729949b2782e07fde11
+SHA256: 06c87210330e1d68ab9a86ad149f3f61ba00f191e7b71b8891d2d209c6162db6
+SHA512: f9f7ab06b5c0131a017cf71b36a87fce092e41559a9fbc00280944f270bf985fac4e003082b66854a38b8f3e71c2068aacf6c5eab1d7640227b9db864df6ff18
+Description: A safe ad-blocker for iOS
+Name: PaiBloxx
+Author: Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/paibloxx.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
+Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
 
 Package: fr.rootfs.rode
 Architecture: iphoneos-arm64
