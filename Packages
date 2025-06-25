@@ -15567,6 +15567,26 @@ SileoDepiction: https://paisseon.github.io/depictions/paibloxx.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
 Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
 
+Package: emt.paisseon.pseudo
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: System
+Maintainer: Paisseon
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: bash | zsh | dash
+Filename: ./debians/Roothide/emt.paisseon.pseudo_1.0.0_iphoneos-arm64e.deb
+Size: 11278
+MD5sum: 892a3658a718d7638f95446e75cb9384
+SHA1: 65931657ca4feff2eda041f26de26cda4bdc5512
+SHA256: 051f44b72cb3a78d2f7aa420913c6c0cda07f8e65362935b98fa307c4c33249d
+SHA512: 8b60697794f360da1ff637d9902dcfa49af9bbe98cb8f403a0f7c23ffc9246f54f7723f25e3fe2ba8d192dacbfa28ffc14c9a9efe513f4596c64cd5094d3e0ea
+Description: Execute code as root without entering password
+Tag: role::hacker
+Name: pseudo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/pseudo.json
+
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -25204,6 +25224,25 @@ Author: Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/paibloxx.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
 Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
+
+Package: emt.paisseon.pseudo
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: System
+Maintainer: Paisseon
+Depends: bash | zsh | dash
+Filename: ./debians/Rootless/emt.paisseon.pseudo_1.0.0_iphoneos-arm64.deb
+Size: 8780
+MD5sum: 77b50874db577d8f2114ce5c8c95bbb2
+SHA1: 8346dc0f0e6a2bf7a47bee81851eb0061690741f
+SHA256: 6092cbf77fadf7aabba7075c7ad612fd5c5ca94a822bd3d65a1f3bddff13dbca
+SHA512: 907e32c98db8629851558766d2f5c41b967b388d1021022a0c0d0f71fe27254590af30b781dd94df7cd096cab71c4fccbe0ce4d87a5cb3c637eac3dbd7f41cdf
+Description: Execute code as root without entering password
+Tag: role::hacker
+Name: pseudo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/pseudo.json
 
 Package: fr.rootfs.rode
 Architecture: iphoneos-arm64
