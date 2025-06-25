@@ -5023,6 +5023,26 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
 
+Package: com.p2kdev.instagramnoads
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.p2kdev.instagramnoads_1.1_iphoneos-arm.deb
+Size: 8016
+MD5sum: 117add412f385abf0582ad1bd334ef58
+SHA1: 0fc100fb7a1755917c20877b0a953686ce161bda
+SHA256: 03019781d5df36034970c4877249d8401d2f0d57d69a2c52a96ebd0a55e3d20d
+SHA512: c80e189cd9fa44ccbb67d5c5bb155b09b04a203de3d49ac280524c1c81a97a208c329f7a36704f8ebf723d80f4649bc86b3570fe08f04062ca6ea2a671d32b9c
+Description: No Ads in the Instagram App!
+Name: InstagramNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
 Package: com.p2kdev.instanosuggestions
 Architecture: iphoneos-arm
 Version: 1.1
@@ -13055,6 +13075,26 @@ MD5sum: acc0ab70159a249626bf8102fc885c0d
 SHA1: 13c2426b22bb7613144afa9d20c6c1f49c859a80
 SHA256: 21100d2d80bfbbd5649c8147421127eaba7f88f942507cb89abecb963f1daee6
 SHA512: 33345d2feb6610f3494832330da5fc1b30921421aa3db533ed228cd60e166e8b032d791334185a2de27f581886a82aacc1c35f3550616c36c9d160724008c3dc
+Description: No Ads in the Instagram App!
+Name: InstagramNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
+Package: com.p2kdev.instagramnoads
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.p2kdev.instagramnoads_1.1_iphoneos-arm64e.deb
+Size: 8260
+MD5sum: ffaf7835427f6a8fba82bfce1190f12c
+SHA1: a2a4eddfd05d385226c2e906bd8ccae556aa6bde
+SHA256: 7d1b73bcbe5b9d49ef34f4517165fca85aff1b24801ff1de6e0c737f5c7b8a46
+SHA512: 719ff9783c0f9fc4201e7ba7418039bc3aab5959734260aea199c1564ca908610377c12ad66f85b27739d46bb1755dd2204162472ec3cf59ec553855b2c5df5c
 Description: No Ads in the Instagram App!
 Name: InstagramNoAds
 Author: P2KDev <p2kdev@gmail.com>
@@ -22939,6 +22979,26 @@ MD5sum: 2d866418ef3c51a61bb99107845b9406
 SHA1: 2b37719301d502935bf88007ac7d079fcb92cbd5
 SHA256: 0b964b54aac6b980b8ce0a13e47643e84994bc049292c76f443194f4136093d6
 SHA512: d21a479b6515da971bbc12a12a84e700ead18c72b5992faf6251a99935f96efee61cbd21272558d6eca39ddb1d749365a33674014db616031a0e5083f412a5a3
+Description: No Ads in the Instagram App!
+Name: InstagramNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
+Package: com.p2kdev.instagramnoads
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.instagramnoads_1.1_iphoneos-arm64.deb
+Size: 8308
+MD5sum: df6b672bc46fbc38c3118d913c6412a6
+SHA1: 5f424d66d7c603124d87ebba747ff523993fb267
+SHA256: f6d55fcc3d8d1dd0bdf0f12253db8c42d59c4b808f590973d4cec66c494dfe4d
+SHA512: bdb7b014964d225952ac1558eafdb04e714b1418997fa3b113fe8a7af46c970bce3e7d6be83e0bdb5925b16f8b05674b0b45973fe2328be232d8cb0ef483e18c
 Description: No Ads in the Instagram App!
 Name: InstagramNoAds
 Author: P2KDev <p2kdev@gmail.com>
