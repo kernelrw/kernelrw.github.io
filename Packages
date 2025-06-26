@@ -984,6 +984,24 @@ Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
 
+Package: com.chr1s.ringeractions
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Chr1s
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), com.spark.libsparkapplist
+Filename: ./debians/Rootful/com.chr1s.ringeractions_1.0.4_iphoneos-arm.deb
+Size: 27228
+MD5sum: 97c461731570478045c7a108af770090
+SHA1: a9684589b8e0c605b77d67a610f1e5c903116e91
+SHA256: 05309c13183db83aebd6794b69b4be3a95aca8aabc0330c121fcf10c92595b0d
+SHA512: 2473bb4dfeca47436b6bd2dd99a8818154d8db14585b3b79256ee5994e33448a811dc30ea9f6a801a351162024801c2da90b2f20aa40b7eadf599446c8935ad9
+Description: Custom actions for the ringer switch!
+Name: RingerActions
+Author: Chr1s
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F620c1d2588124c0a2af3f781&s=180x180&f=webp
+
 Package: com.christopher.olympus
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -8922,6 +8940,25 @@ Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
 
+Package: com.chr1s.ringeractions
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Chr1s
+Installed-Size: 312
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), com.spark.libsparkapplist, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.chr1s.ringeractions_1.0.4_iphoneos-arm64e.deb
+Size: 28244
+MD5sum: ff5562d3130da417a5b1bb1b1713db5c
+SHA1: f65096fe3b9f0c0192884173d226b28bcc6cd52e
+SHA256: 03e51129ad030005f22d9899b132e057f25b4a22c5b6d2f360538b97d9e6eb9c
+SHA512: d4db0650dfd194bd1cf04972e6189b3b4dd39ace948e1dbd1a56a979df98f8578bf42c6d73c4b8fb491ef625b7867e35a87883ba79e712e037cf14b47d5c2e63
+Description: Custom actions for the ringer switch!
+Name: RingerActions
+Author: Chr1s
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F620c1d2588124c0a2af3f781&s=180x180&f=webp
+
 Package: com.christopher.olympus
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -14718,6 +14755,27 @@ Description: Snowboard theming engine
 Name: SnowBoard
 Author: Spark & Dennis D. Bednarz
 
+Package: com.spark.snowboard
+Architecture: iphoneos-arm64e
+Version: 1.5.37-Beta4-rootless
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 3268
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debians/Roothide/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64e.deb
+Size: 2590360
+MD5sum: 155a74cc585a084cb4a76f02aba3c4ef
+SHA1: f8a57433bc7ad07d376bad91579053a2166b0e89
+SHA256: a7e9c49761b2c660591dcc199e1a3b2f7969f302e8eda075421071000c6dd328
+SHA512: b4931aef41018caa09843d67b310356e3478b8fc292a29b927b4ac86c35a601396430b4ff67f47ba81d6bf2d20cbb0ffbb815624546dab27338515a2bb8fba4a
+Description: Snowboard theming engine
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+
 Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -15086,6 +15144,23 @@ Name: No Apple MobileRepair(RootHide)
 Author: xybp888
 Depiction: https://apt.htv123.com/view/185
 SileoDepiction: https://apt.htv123.com/sileo/185
+
+Package: com.yourepo.0xash.dolbysoundeffect
+Architecture: iphoneos-arm64e
+Version: 1.0.1-1
+Section: System
+Maintainer: iBreak <ibreak2019@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/Roothide/com.yourepo.0xash.dolbysoundeffect_1.0.1-1_iphoneos-arm64e.deb
+Size: 10248
+MD5sum: 2a2eb8e0f47d04c70040f7d942909742
+SHA1: c0f640266e8ea415ae0aee61e42b90318cf386d6
+SHA256: 9a7b977982ff0a082ca1509b7dab6bbaa966033ccf2a2d0d8c3702a58397f533
+SHA512: 1c77ec5274ffeb77c2cdfaded9265d2d4bac4f2129822666177756cdc7cadf6906abe363b0d5b1e3def19ebc5ea856e3190e781fbafd905a86ef43f83b772edd
+Description: iOS All Device Dolby Sound Effect & And Sound Quality Optimization
+Name: Dolby Sound Effect
+Author: iBreak <ibreak2019@qq.com>
 
 Package: com.yourepo.0xash.fixrepairsystempower
 Architecture: iphoneos-arm64e
@@ -18064,6 +18139,24 @@ Description: Telegram Enhancement Tweak
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.chr1s.ringeractions
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Chr1s
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), com.spark.libsparkapplist, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.chr1s.ringeractions_1.0.4_iphoneos-arm64.deb
+Size: 27076
+MD5sum: 2b2d9b9a69aad63fceca648fb94e693e
+SHA1: 58561cb9f7765bada3f65cd5c6aa6fb928fa9d32
+SHA256: 83086c4b93770e19574537095b9c8d94fd71124e45874e901ddde854724632cb
+SHA512: a64742a285c559f28ebf8459c5dafb1271051724c3270cd1a6b4d935e03ce23423d184ed1b88f8a547685bf1669b28298e858ccc614fd96de01bc3e46fc05bd0
+Description: Custom actions for the ringer switch!
+Name: RingerActions
+Author: Chr1s
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F620c1d2588124c0a2af3f781&s=180x180&f=webp
 
 Package: com.christopher.olympus
 Architecture: iphoneos-arm64
@@ -24473,6 +24566,22 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.yourepo.0xash.dolbysoundeffect
+Architecture: iphoneos-arm64
+Version: 1.0.1-1
+Section: System
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debians/Rootless/com.yourepo.0xash.dolbysoundeffect_1.0.1-1_iphoneos-arm64.deb
+Size: 7828
+MD5sum: da94275095cbbbb4fc3321f3ac2ee820
+SHA1: a54c11d41cc9ffbba8b7054e0cab149584e37968
+SHA256: b678ef8a547a4b188c1ea91e46bcbae723a304ae0ee7d9c0b150cd8f25645ccb
+SHA512: 747eb4be2153b1747714c67bb07e2633cd789013c2a982f65de7a2753eff6e27d2ba94953d671f5353cde7df70ae9eedea84f6d2eab1837ac3dc2d0560661d84
+Description: iOS All Device Dolby Sound Effect & And Sound Quality Optimization
+Name: Dolby Sound Effect
+Author: iBreak <ibreak2019@qq.com>
 
 Package: com.yourepo.cydiageek.batteryswipeup
 Architecture: iphoneos-arm64
