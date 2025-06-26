@@ -6648,6 +6648,25 @@ SileoDepiction: https://paisseon.github.io/depictions/paibloxx.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
 Icon: https://spaceship-cdn.com/blog/2024/03/SPS_Release_Notes_Spacemail_Twitter_1200x600.png
 
+Package: emt.paisseon.pseudo
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: Paisseon
+Depends: bash | zsh | dash
+Filename: ./debians/Rootful/emt.paisseon.pseudo_v1.0.0_iphoneos-arm.deb
+Size: 8724
+MD5sum: dd35f6ba6530db8178de58994e446808
+SHA1: 902112235aefc4780c5e587cd7597509ce296af0
+SHA256: 0380cb72335bc37a1dd4eac2cb821c6d9b141d454a3519f517b0169c21a86759
+SHA512: 323ed0430b30114703d9ac98462e2e8608557c59cadbb85b836a2898b3ce12bc0b3045a66c56458c82e884977402f1eec6009d9ba9f39929bb6cc0fad436374d
+Description: Execute code as root without entering password
+Tag: role::hacker
+Name: pseudo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/pseudo.json
+
 Package: eu.teggers.netkillui
 Architecture: iphoneos-arm
 Version: 0.2.1-1
