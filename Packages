@@ -4409,25 +4409,6 @@ Name: XinaA15 Switch
 Author: Fadh1l
 Icon: https://ipaomtk.com/wp-content/uploads/2024/06/photo_2024-06-07_15-21-53-300x300.jpg
 
-Package: com.nepeta.axon
-Architecture: iphoneos-arm
-Version: 1.5
-Section: Tweaks
-Maintainer: Baw Appie
-Installed-Size: 628
-Depends: mobilesubstrate, firmware (>= 16.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debians/Rootful/com.nepeta.axon_1.5_iphoneos-arm.deb
-Size: 138740
-MD5sum: 02f7f75b7dbe260df9b26ed8ff97fc66
-SHA1: d6a2cb37c8f2347041aad1e9693ecc9f551a26a7
-SHA256: 2dea7c9dcfe9d03d809b3fe617151c8a1123baae8ec231dd9dfd0dac1e02a3b5
-SHA512: 8de36dcf4b388374227b139489f940ed34f1727355710babfc4a705b9be29e9dd478a3d0ea7224ae99e897546d0a377b2a6c8043fee7e4fe68a582841a9d8e2c
-Description: Priority Hub for iOS 16 , supports Dopamine 2
-Name: Axon
-Author: Nepeta & Baw Appie
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fme.nepeta.axon-icon-icon%402x.png.png&s=180x180&f=webp
-
 Package: com.netskao.appdata
 Architecture: iphoneos-arm
 Version: 1.4.5
@@ -12525,11 +12506,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 16.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
 Filename: ./debians/Roothide/com.nepeta.axon_1.5_iphoneos-arm64e.deb
-Size: 171036
-MD5sum: 3366788748a7d4de71f073729c68933d
-SHA1: 94f7e00e3c9d0c063c2a9b84cbcbd12378c45bb1
-SHA256: a1cd17b71ae8a78ec6fbc4280a5db4943326b63bc95961a1b0efa9c51e632c4a
-SHA512: 3e764c65bd16d09a535bc6165f447b32c0ec26ba40a6985de1410842ddd94162ff9912ef72a3388eda0373b3a018ade3475ef977c2e21d65239c50e3b50860cd
+Size: 171634
+MD5sum: fbc19d5fc3270ead7094fa932fe942b5
+SHA1: 132a9a2784040c8e7ab7eca9d2df073822011489
+SHA256: 0ce8f39267b4f547708164b69ed4a8ecb1d683fd42b093dea889d0ab9eafe65e
+SHA512: eb0d5d6cdea2d3e811ddce91968782510c47ec039b9198e02b1d16b93e57cb8697fbbc63a713e2db643114bd7acd0091f48e07dfc5fdf68cad94bfc3096889b9
 Description: Priority Hub for iOS 16 , supports Dopamine 2
 Name: Axon
 Author: Nepeta & Baw Appie
@@ -22828,11 +22809,11 @@ Installed-Size: 628
 Depends: mobilesubstrate, firmware (>= 16.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
 Filename: ./debians/Rootless/com.nepeta.axon_1.5_iphoneos-arm64.deb
-Size: 139208
-MD5sum: 5ddc138fe95fc50acb68605bd1e72856
-SHA1: 159b26a8834250c5183b884b5205e14c87e86ed5
-SHA256: 7fa0ad7c4bef9e2190ef978fe81d6554fa542257041ab0c249f1a69f51539798
-SHA512: a21c230557ae7ece0609fc56998fbb79ba2d8c8bac3efe35470cee557a1ca9ade1beb7addbad8313bc8427b9f985e255c5224e2dd4b3651feacac11b4f764a3a
+Size: 141244
+MD5sum: dbdcd6dd76587658f217733b916895c3
+SHA1: b335003755d89626c7dd1936347fac6e62912299
+SHA256: 1003b6555987418ea8e0096d9710584387e55d08aaf45edb72dd7467a3cead50
+SHA512: fccd94c36b6d24e408c9d90285e4daca085daaf61a6aa4022c675c3097ee1be90154d5d8b727981e4ac23bb59512c9fcaab34fad065298ef3a2655c70475dda8
 Description: Priority Hub for iOS 16 , supports Dopamine 2
 Name: Axon
 Author: Nepeta & Baw Appie
