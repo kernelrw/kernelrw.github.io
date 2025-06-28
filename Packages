@@ -1103,6 +1103,26 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: creaturecoding
 
+Package: com.cureux.cc26
+Architecture: iphoneos-arm
+Version: 0.3.7b
+Section: Tweaks
+Maintainer: therealhoodboy
+Installed-Size: 172
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debians/Rootful/com.cureux.cc26_0.3.7b_iphoneos-arm.deb
+Size: 10548
+MD5sum: da72da00d6ef1a375c6a5cf43f57b696
+SHA1: afae7c31daff13d98f5f8eb6f31c40d43851d4bc
+SHA256: c09588d65935d2b5ff69c143b8fe960f7d57496f031e95d708bf373334314ba9
+SHA512: e660067b89fccf7bd190f8c527706ad7e843915edaea25608b53bead60862123f06c35068c1f14fda3c66c9c21b4a92fbcadf4a5cc9ee4d931cb7f742817bac2
+Description: A sleek reimagination of Control Center
+Name: CC26
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+
 Package: com.cydiageek.byeseparatorscell
 Architecture: iphoneos-arm
 Version: 1.1.3
@@ -9066,6 +9086,27 @@ Name: libCSColorPicker
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
+
+Package: com.cureux.cc26
+Architecture: iphoneos-arm64e
+Version: 0.3.7b
+Section: Tweaks
+Maintainer: therealhoodboy
+Installed-Size: 172
+Provides: com.cureux.cc26
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debians/Roothide/com.cureux.cc26_0.3.7b_iphoneos-arm64e.deb
+Size: 14298
+MD5sum: 658aae721e3a0e4a81d9d79883a1877a
+SHA1: 6dfc3766b4953e2b48997725c197806fea680afa
+SHA256: bdaeda9001c1663c2224c604b8d53bd9487d484f9fb198dbd3ff2d03f807383c
+SHA512: 134e526578f79bb90f50124e031224980be8d5a344472e50f32cf397e174007c9a790bb3ae8dad02a7817c5e5152c621b36f83798c5d902d3042613d34a98e0c
+Description: A sleek reimagination of Control Center
+Name: CC26
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
 
 Package: com.cydiageek.customlpmm
 Architecture: iphoneos-arm64e
@@ -18700,6 +18741,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolor
 Author: CreatureSurvive <support@creaturecoding.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: creaturecoding
+
+Package: com.cureux.cc26
+Architecture: iphoneos-arm64
+Version: 0.3.7b
+Section: Tweaks
+Maintainer: therealhoodboy
+Installed-Size: 172
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debians/Rootless/com.cureux.cc26_0.3.7b_iphoneos-arm64.deb
+Size: 10730
+MD5sum: c846901bee6b6fbae585edda7c5317ee
+SHA1: 5cd756585023b434b88255df4ac47649f6f6a949
+SHA256: 1f8ac358a48d041acaa975c8fe68065c8daf467c4bd1f9bfb981d6a7e0580490
+SHA512: feac70425e11e988f05c073fd655b022154e8b5fd9647a604183fbbf78d30ec6c595d576c77a664fd31bdc6c7f65b26ac5aa908606be63f02856c881f8354fec
+Description: A sleek reimagination of Control Center
+Name: CC26
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
 
 Package: com.cydiageek.byeseparatorscell
 Architecture: iphoneos-arm64
