@@ -6223,6 +6223,24 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
 
+Package: com.yan.ring
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debians/Rootful/com.yan.ring_1.0.2_iphoneos-arm.deb
+Size: 135018
+MD5sum: 599f073db290b7e58f1c9ebb607e319e
+SHA1: e81ad92f435b0c32c6c04a61a7e1d5d2bd67eaf3
+SHA256: 2cbb07f62d203144c894c310699bfed34033783553cf31bb2ddd52afb6739b4f
+SHA512: a8c5ec76f61080f359ec8c49b736818dd32895dcd4d0952a20e983055cfe173f0c034862d82d7477d7d7774ccfd7186f7507e99568690c48b3905a93ccea44b3
+Description: Effortlessly manage your ringer volume!
+Name: Ring
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
+
 Package: com.yourepo.itweakios.ccpatch10
 Architecture: iphoneos-arm
 Version: 4.0.1
@@ -15412,6 +15430,25 @@ Name: No Apple MobileRepair(RootHide)
 Author: xybp888
 Depiction: https://apt.htv123.com/view/185
 SileoDepiction: https://apt.htv123.com/sileo/185
+
+Package: com.yan.ring
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debians/Roothide/com.yan.ring_1.0.2_iphoneos-arm64e.deb
+Size: 153826
+MD5sum: 63e2b7cb309eee47b2a253501bfbc560
+SHA1: a973a3eff41f3a9dd0f7941a3c5af75d9095e92c
+SHA256: 3f56dd4995facbe255df894f6d42f92c140fbe6ed0836088cb8ec6e2e1c6b130
+SHA512: 8c07b623fb06ff4ebb0bd50a27b115195875b6b358f9a81c07fb8bd5cd5c140e0c798a5aef62e3e1af0d443363ee75ac9b575a3c0f7e4ee96af8b3c1cd18697c
+Description: Effortlessly manage your ringer volume!
+Name: Ring
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 
 Package: com.yourepo.0xash.dolbysoundeffect
 Architecture: iphoneos-arm64e
@@ -25334,6 +25371,24 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.yan.ring
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debians/Rootless/com.yan.ring_1.0.2_iphoneos-arm64.deb
+Size: 134852
+MD5sum: a1c9f7214902624ff2c2f02e746d1f16
+SHA1: aca99e19cf7148ca933bbbbc736311a0a193ff2b
+SHA256: 0237b4f2ebbaf59e2cda3cd06e60e84c8bce234bc67ffd28be1cfe84c82807ea
+SHA512: ef29244593e5f7fd755d1a973c7b0c363ff90b169e0a767adcb6025677794d9b439151612d7fafe40fd40f755567ad995aaf8c2b1034e626b32daa5428e6ed73
+Description: Effortlessly manage your ringer volume!
+Name: Ring
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 
 Package: com.yourepo.0xash.dolbysoundeffect
 Architecture: iphoneos-arm64
