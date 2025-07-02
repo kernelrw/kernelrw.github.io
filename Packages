@@ -5121,6 +5121,26 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
+Package: com.p2kdev.fivedock16
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 16.0),mobilesubstrate
+Filename: ./debians/Rootful/com.p2kdev.fivedock16_1.0_iphoneos-arm.deb
+Size: 4320
+MD5sum: 712e891ab8f37993e05ae6dab57f69e9
+SHA1: f9336466f0354ce4890dfa4a42c3c7226db22125
+SHA256: c8378138e5b349aefef0aab494b7483f60b751a3c577781e3697598b6959d920
+SHA512: 39f97c86395a7026a756a11d50769bc074dadd945c301148a13228984140da8a789491c4ee6eaf84ae25d5f1106582e75669c4b30a84937873a246d18aeb8f0f
+Description: Five Icons on your Dock!
+Name: FiveDock16
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.fivedock16
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.fivedock16/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.fivedock16.json
+
 Package: com.p2kdev.instagramnoads
 Architecture: iphoneos-arm
 Version: 1.0
@@ -5595,17 +5615,17 @@ Author: RedenticDev <redenticdev@gmail.com>
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm
-Version: 0.2
+Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Rootful/com.rpetrich.powercuff_0.2_iphoneos-arm.deb
-Size: 12748
-MD5sum: 62b57e42607468ac862fb627f8ff260b
-SHA1: 5a829455341c3b0aada790722fb9136b764ac80a
-SHA256: 3c2ce55067737c2711954e269bccc7dcecca1d5ea3c8434f64ee6caa64a51d01
-SHA512: c38b5fe25ce12ee99bdeac01e44f61c0799db16ac5b7643d79f91aed27c95e40bd3d70b823f4be83f835fa4d96a3caa492a688463e00589775e990310ec3695c
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootful/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
+Size: 13836
+MD5sum: 2b3960771667004561c7f5a6e43299e0
+SHA1: 5cc5a3161dbce07a7c581523a44ffa62cfa2fc34
+SHA256: fcec5dee995ef7f8df14975ac1a7f7872c6c1ed3bda118e9771a1d0bd5ad0fa4
+SHA512: 4281f348bab9ccbe8e6caf4139ba06e9cd506c3df704289cbeb9ac4466f66ed3a9dfce6f23d917b3c8defebf9e6e8bc7ba303b36c012d9ac5866d16e04b0bbd9
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -6242,6 +6262,24 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.xyaman.tako
+Architecture: iphoneos-arm
+Version: 3.5.2.1
+Section: Tweaks
+Maintainer: b4db1r3
+Installed-Size: 768
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal
+Filename: ./debians/Rootful/com.xyaman.tako_3.5.2.1_iphoneos-arm.deb
+Size: 89160
+MD5sum: 825e91b9757d3535ea970657a3a68d94
+SHA1: 1753553a223c2e3789fdef44e054976e547807de
+SHA256: 0f3cd153b02f9981753a855d796d24b2732ea37db63bd6f5ef532dd8fb7847d0
+SHA512: c734101a926bd692fe2e9ba37549393dadedb625bde1e7c04d787302366314a7d97646ebf175bf5b1629706d2ee63bb15b5693c760c3350b6d3361148cd3cf6d
+Description: Notification priority hub tweak.
+Name: Tako ( iOS 15-16 )
+Author: Xyaman & b4db1r3
+Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
 
 Package: com.yan.ring
 Architecture: iphoneos-arm
@@ -12592,29 +12630,6 @@ Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/ico
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
 
-Package: com.nef0pam.powercuff
-Architecture: iphoneos-arm64e
-Version: 0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/Roothide/com.nef0pam.powercuff_0.1_iphoneos-arm64e.deb
-Size: 15824
-MD5sum: 770df12cfaede809bcdc727e17be1d35
-SHA1: 9d2b76e61487aa2ffcda2001c438d229463315a5
-SHA256: d62993689f3056ff22e92e125155d40f9256f04557677d7efd6db6da77215f47
-SHA512: b023785bbad283901fb8d6d16d560f26cde4d151265d662111468c4865724734b15d9d415e8a3b84d0b5d9d98ea55cbb8c999dabb6d0e7dcaa43789166b74de5
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-
 Package: com.nef0pam.rma
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -13424,6 +13439,26 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
+
+Package: com.p2kdev.fivedock16
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 16.0),mobilesubstrate
+Filename: ./debians/Roothide/com.p2kdev.fivedock16_1.0_iphoneos-arm64e.deb
+Size: 4452
+MD5sum: 9a4406ca40c71186e946de76fd242636
+SHA1: 6602d78ab15c50176b54aab7261e7c417361afef
+SHA256: 2d780839bbe6e8de7b96a207e02ac903ea9a057839bc6e6c4193902cdc5cd2ca
+SHA512: ee9378f4232907b336175053c71aff3d8ea775c473c81495db945a74286f059b51fe2dfde82972b2f728c62426ca11d5c28e08fa23973af60dc92ac5020dfa74
+Description: Five Icons on your Dock!
+Name: FiveDock16
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.fivedock16
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.fivedock16/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.fivedock16.json
 
 Package: com.p2kdev.instagramnoads
 Architecture: iphoneos-arm64e
@@ -14406,17 +14441,18 @@ Author: roothide
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64e
-Version: 0.2
+Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Roothide/com.rpetrich.powercuff_0.2_iphoneos-arm64e.deb
-Size: 12760
-MD5sum: d1233884f5bd6edba2fdbea77eb8a1b3
-SHA1: b68cd14daa78730699482c823f8b5707f44aba1e
-SHA256: 7008955edbd68a149d5ae848d70f8355d4ecaceb6682ed384ad8b8df4b5c9da7
-SHA512: 8fe06918678777772dbabfb9f596936a830ae664709015ce7df8479382e3f94c36c05a4bb3831554739031eb1a324a2f94d5b4a92d2f549631b8d7f79b3fd49d
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Roothide/com.rpetrich.powercuff_0.1_iphoneos-arm64e.deb
+Size: 15880
+MD5sum: 4da088c2f0786310b963e70b4f94d580
+SHA1: 6cc46fd544a54fde904a056da9051b7957d667c5
+SHA256: 017a8ae1743e780820bbde3faf538c50e199f04f67d042df7e3c5fe2e487384b
+SHA512: d7879c9719dcc687fc3a7977ac0aec9b79698e3da098a24cb740d8d2dd256c7e68b7bcf18ff11f6cde5d12286cfeb3bafdc81660453b1096f0292060087d8337
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -15451,6 +15487,25 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.xyaman.tako
+Architecture: iphoneos-arm64e
+Version: 3.5.2.1
+Section: Tweaks
+Maintainer: b4db1r3
+Installed-Size: 768
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal
+Filename: ./debians/Roothide/com.xyaman.tako_3.5.2.1_iphoneos-arm64e.deb
+Size: 127700
+MD5sum: 470a38ff7e61c643ec6dc318df242374
+SHA1: 7f75cfbb10b068f7f81eb3d391b2fec585c32ea4
+SHA256: 01d9b66f6d4ec2023d01e07e926b98bc4bd753a3c1529ebabf39f63a99088313
+SHA512: 8716b473bf1d8443969534ce3775cfa62108b7a5b6266068b41eb47f6f4d127eb139d29bfcff9a2c9996b6f8832062d8baf29a75a3eb89de2cf7afb60f364b9a
+Description: Notification priority hub tweak.
+Name: Tako ( iOS 15-16 )
+Author: Xyaman & b4db1r3
+Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
 
 Package: com.xybp888.noapplemobilerepair
 Architecture: iphoneos-arm64e
@@ -22961,28 +23016,6 @@ Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/ico
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
 
-Package: com.nef0pam.powercuff
-Architecture: iphoneos-arm64
-Version: 0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/Rootless/com.nef0pam.powercuff_0.1_iphoneos-arm64.deb
-Size: 14120
-MD5sum: 8c0da50ac5638b5a8f756de506c0fc56
-SHA1: bac95f47f9847d8ee992cb429c7dc3fa08e0576c
-SHA256: a853c52084ea31f3576a228eb687bdcbb1993108ac89aa35500a9260b8a031a2
-SHA512: 456b3e185dac5d086e6e4debaf0da897d59a5133da0a87408c0f6bbbef17533da6158858ac13fadeb1bb80266c02aa9eb0a40d8171fde63a13c5de60100df040
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-
 Package: com.nef0pam.rma
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -23948,6 +23981,26 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.facebooknoads/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.facebooknoads.json
 
+Package: com.p2kdev.fivedock16
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 16.0),mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.fivedock16_1.0_iphoneos-arm64.deb
+Size: 4504
+MD5sum: c22cb5a3c69b3e7b9eb3f76c196b523b
+SHA1: 49d56876a80f81a7552e4af89fe8e36d31506e01
+SHA256: ef605d7f91f40fbb6958001a568628c863f826c31a3f796ec0937bd61fbe22f4
+SHA512: d054d95ac315729bc2481596bd2b0b1b330fc7b6fa410ce860e4c1e447e3b38668c2640950b0249a27aa5a04a739391b65e81d7c51708073fe694e7f6c7fd82f
+Description: Five Icons on your Dock!
+Name: FiveDock16
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.fivedock16
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.fivedock16/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.fivedock16.json
+
 Package: com.p2kdev.instagramnoads
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -24556,17 +24609,17 @@ Author: RedenticDev <redenticdev@gmail.com>
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
-Version: 0.2
+Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debians/Rootless/com.rpetrich.powercuff_0.2_iphoneos-arm64.deb
-Size: 12840
-MD5sum: 0e6dd83d75f9acfa94fb83628a0ebe66
-SHA1: 7190d54d601a24abf716850bbdec713c26add7fb
-SHA256: 38568cdb32cc9f981a133eec78af828d8b8f3f1de7d733b0a03fa7cd7c161b17
-SHA512: 77b3bc2f08feeb087cd9f0c9d9173a9407d2a063a0ec253d384cff7fae8a43bd3b7d3372c738634209fc95eb63e3f78a649211e71213c4a9b8fb1f3286cc8a94
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootless/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
+Size: 14176
+MD5sum: 8598ad9c93bbddda26c8837b4fed8e65
+SHA1: 7660e10bc6cfc323ce084a6566dbc10a847e04bb
+SHA256: 48262a1b7a3b9fd22ff50c2bf3157c7df6a4e714b86d70c81a727862e32e1ffe
+SHA512: 7c20352eed684bcecd7aa52c9fe297a4777d4de0947d1c4d41d708ca7c375100d9f3581f984cdca87956d7570a2f585a620f12cd6fbdd14fa148c9ab5228d075
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -25431,6 +25484,24 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.xyaman.tako
+Architecture: iphoneos-arm64
+Version: 3.5.2.1
+Section: Tweaks
+Maintainer: b4db1r3
+Installed-Size: 768
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal
+Filename: ./debians/Rootless/com.xyaman.tako_3.5.2.1_iphoneos-arm64.deb
+Size: 99156
+MD5sum: 1e4b0f39534efd3c98da43b28d246f59
+SHA1: 43d4f7dd476f3080b5b79209b20b8845e8df028b
+SHA256: 1dffd72065e775087265a9bd9c82a8ebc5371f4c9f232cc6e88b890d6bedf31e
+SHA512: df61c54e0daac27b1628855fdabc1bc8cf70f36d5ce998b1dd55f1a61302909005ff753e13bbd5e6fb401dd75a7465cf5899a17311c0fc525538671939e379e9
+Description: Notification priority hub tweak.
+Name: Tako ( iOS 15-16 )
+Author: Xyaman & b4db1r3
+Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
 
 Package: com.yan.ring
 Architecture: iphoneos-arm64
