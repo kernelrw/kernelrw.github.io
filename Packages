@@ -5618,14 +5618,14 @@ Architecture: iphoneos-arm
 Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
+Installed-Size: 372
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Rootful/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
-Size: 13836
-MD5sum: 2b3960771667004561c7f5a6e43299e0
-SHA1: 5cc5a3161dbce07a7c581523a44ffa62cfa2fc34
-SHA256: fcec5dee995ef7f8df14975ac1a7f7872c6c1ed3bda118e9771a1d0bd5ad0fa4
-SHA512: 4281f348bab9ccbe8e6caf4139ba06e9cd506c3df704289cbeb9ac4466f66ed3a9dfce6f23d917b3c8defebf9e6e8bc7ba303b36c012d9ac5866d16e04b0bbd9
+Size: 29560
+MD5sum: d6f81093e008642ecc754dbbbf66a2ca
+SHA1: 766ee02aed732ebb7c7f0a38a9fc67c67cbc7776
+SHA256: 82ac7260d14c9887173f278e29eec717789773e03dcaebadbd8eae7318b57b5c
+SHA512: ea868ac01b214fb089afd3aa956c35abb39eb50499bd98914770f0068cbaa86d31d2540121c88e1602c55f66f88e4e40287e933d36044512d8be4c1498750ef8
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -14444,15 +14444,14 @@ Architecture: iphoneos-arm64e
 Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 372
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Roothide/com.rpetrich.powercuff_0.1_iphoneos-arm64e.deb
-Size: 15880
-MD5sum: 4da088c2f0786310b963e70b4f94d580
-SHA1: 6cc46fd544a54fde904a056da9051b7957d667c5
-SHA256: 017a8ae1743e780820bbde3faf538c50e199f04f67d042df7e3c5fe2e487384b
-SHA512: d7879c9719dcc687fc3a7977ac0aec9b79698e3da098a24cb740d8d2dd256c7e68b7bcf18ff11f6cde5d12286cfeb3bafdc81660453b1096f0292060087d8337
+Size: 29808
+MD5sum: 48df20ae8025644b1aa55b35c7c48333
+SHA1: 881c88af22abdd32db5540d1d8a7c8b7fbfc0425
+SHA256: 3d7c060474f903ad93efafbf64591f46087b2323830fe5e487ef6754164e97ac
+SHA512: 8025a38064ad3deea57fe555e6991ff533c01264baa34130e0fb9b8f5cf62f362b1d09174f433d12f315a0671e8dd351c0e909504dc114d074e4d6973d9b8234
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -24612,14 +24611,14 @@ Architecture: iphoneos-arm64
 Version: 0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
+Installed-Size: 372
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debians/Rootless/com.rpetrich.powercuff_0.1_iphoneos-arm64.deb
-Size: 14176
-MD5sum: 8598ad9c93bbddda26c8837b4fed8e65
-SHA1: 7660e10bc6cfc323ce084a6566dbc10a847e04bb
-SHA256: 48262a1b7a3b9fd22ff50c2bf3157c7df6a4e714b86d70c81a727862e32e1ffe
-SHA512: 7c20352eed684bcecd7aa52c9fe297a4777d4de0947d1c4d41d708ca7c375100d9f3581f984cdca87956d7570a2f585a620f12cd6fbdd14fa148c9ab5228d075
+Size: 29748
+MD5sum: ac3a664d181b2499bc5fdbd659826278
+SHA1: 71c50dcf042358e619455d05664bf7aed5b8bca8
+SHA256: 5821ce190d3b1841c47b287566e11b17ee6e3a8686b35b987db3f8de837bd65a
+SHA512: 63e83e2d3dfb5afa57974e6ff414742af61d6efd7c5d5edea46a16d6242620f3b6d498e6e6eeb17ea14cb7ff3978194b65a7164b72d545cc5798ada08e1560ec
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
