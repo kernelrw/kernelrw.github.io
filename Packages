@@ -5029,6 +5029,24 @@ Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
 
 Package: com.opa334.choicy
 Architecture: iphoneos-arm
+Version: 1.5.3
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debians/Rootful/com.opa334.choicy_1.5.3_iphoneos-arm.deb
+Size: 160752
+MD5sum: 77a4903e3c3041d2ac8ce3e281583817
+SHA1: 1214484f60c43413f39cffa02893e21f796459dd
+SHA256: ecc9e390151cc50016a5d538aed0fc2dad5639cc93e55e901b18ec0ac802db46
+SHA512: 91b587d077b415060f26fdc55bebeda19aa96bf337a916ea811e6cc9f45ef498b9446bd1bf82cae013c432a1c853d9cb63518645936439ccff2f9e60a225b016
+Description: Advanced Tweak Configuration!
+Name: Choicy
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm
 Version: 1.5
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -13269,6 +13287,25 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
 
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64e
+Version: 1.5.3
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debians/Roothide/com.opa334.choicy_1.5.3_iphoneos-arm64e.deb
+Size: 214034
+MD5sum: 09401b1b7240458d436b2ff7de673898
+SHA1: 76dab5ef0277d4b90bba6799969466d6934df7fa
+SHA256: 99299efc6599e3443026ec04569ead4753fe71fda5dadafb64898a78b8d0d13d
+SHA512: b59b6ee7d24c41a71a906f656265115600a67f793d98ff9980fe18c6f3f5484623f62441f82b5c92e1bda3d4131004451833251da6e3bc0131f6599a52fc0fed
+Description: Advanced Tweak Configuration!
+Name: Choicy
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Author: opa334 <opa334@protonmail.com>
+
 Package: com.opa334.libsandy
 Architecture: iphoneos-arm64e
 Version: 1.1.3-3-1+debug
@@ -15074,26 +15111,6 @@ SHA512: 96d4c9d7d2f0df354b289e4cf0f901cf7026460a3873a79d0b435402a773f44cba0cfa2a
 Description: UI Extension for SnowBoard
 Name: SnowBoard UI Extension
 Author: Spark
-
-Package: com.spark.snowboard
-Architecture: iphoneos-arm64e
-Version: 1.5.11-Beta3
-Section: Tweaks
-Maintainer: Spark
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debians/Roothide/com.spark.snowboard_1.5.11-Beta3_iphoneos-arm64e.deb
-Size: 1422064
-MD5sum: cb24b7ef02ace729b2ea208cb252d048
-SHA1: 3b007fb35b24ce3f8693849a1c483a720e464476
-SHA256: fccccb574baa89790a330cdb869e804a84b5cedc2530299517b930234ef89512
-SHA512: ec4ce4ed1d09628dfe1c4941070c15c0b560e55fe77793dc66849a80a18686c58c78109f37f21398a60078f2d187707f01d05ef4be77a9d4c7f64811dc084bbc
-Description: Snowboard theming engine
-Name: SnowBoard
-Author: Spark & Dennis D. Bednarz
 
 Package: com.spark.snowboard
 Architecture: iphoneos-arm64e
@@ -23865,6 +23882,24 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64
+Version: 1.5.3
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debians/Rootless/com.opa334.choicy_1.5.3_iphoneos-arm64.deb
+Size: 161088
+MD5sum: eeff22b3ecba8803dbad043a21e524b9
+SHA1: 5d4aef9382d93106a922c0de5790f4b6914add49
+SHA256: e1acc15757a202be3a98a6e4b3a912253116f8c13d72c6a49d9211aaed67edb1
+SHA512: 2cb7e16fdbda29c617e881925380365536b14b97dc94b237b097667bf489fddc2c8626a7a1bbdd8c8817616766b9ee3c0733fb17ee24def944836ed7d7cda420
+Description: Advanced Tweak Configuration!
+Name: Choicy
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Author: opa334 <opa334@protonmail.com>
 
 Package: com.opa334.choicy
 Architecture: iphoneos-arm64
