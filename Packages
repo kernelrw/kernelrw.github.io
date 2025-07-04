@@ -1203,6 +1203,26 @@ Name: CC26
 Author: therealhoodboy
 Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
 
+Package: com.cureux.cc26
+Architecture: iphoneos-arm
+Version: 0.4.9.1b
+Section: Tweaks
+Maintainer: therealhoodboy
+Installed-Size: 204
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debians/Rootful/com.cureux.cc26_0.4.9.1b_iphoneos-arm.deb
+Size: 15056
+MD5sum: fd03a0111ab562b52a59fb72bc87dec8
+SHA1: 6fc40cd7709bfbf8ea23679e5da4e0b43ef124cb
+SHA256: ea180eac83c62ea40c7f2dfd2705950c91d8dc5983fd571d1de6b6c7405dd40e
+SHA512: b03ae283b8f8a70b49807c94dc56a20091fdacec04c512087bd47f39c2d3db54b8e8f6df9de1846cd8d322e795d95e0a7adb7e84010ac2f8f593e3c258c62c29
+Description: A sleek reimagination of Control Center
+Name: CC26
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+
 Package: com.cydiageek.byeseparatorscell
 Architecture: iphoneos-arm
 Version: 1.1.3
@@ -4208,28 +4228,6 @@ Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectsettings13/ico
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: Johnzaro  <johnzrgnns@gmail.com>
 
-Package: com.nef0pam.powercuff
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 176
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/Rootful/com.nef0pam.powercuff_0.1_iphoneos-arm.deb
-Size: 14056
-MD5sum: 46840eecf5cd7764fb71bbf3102897c9
-SHA1: b232d7153a7829e929e074e4b1c7cf9a72246210
-SHA256: 6564bf8ff261509031d8c60bfb01ecab0cd04896b1e96e68391b52b9b0100696
-SHA512: 51db40ba83822e029ec7c998cb2eff6b98cfd56ec383530e3d248fb65400cc96531b38f07eabdab0d832d3e09aa3220f6504c41285ad1328152f0232ac4582cd
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-
 Package: com.nef0pam.rma
 Architecture: iphoneos-arm
 Version: 1.0
@@ -5630,29 +5628,6 @@ Icon: https://redentic.dev/depictions/com.redenticdev.twistop/icon.png
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
 SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
 Author: RedenticDev <redenticdev@gmail.com>
-
-Package: com.rpetrich.powercuff
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 372
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debians/Rootful/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
-Size: 29560
-MD5sum: d6f81093e008642ecc754dbbbf66a2ca
-SHA1: 766ee02aed732ebb7c7f0a38a9fc67c67cbc7776
-SHA256: 82ac7260d14c9887173f278e29eec717789773e03dcaebadbd8eae7318b57b5c
-SHA512: ea868ac01b214fb089afd3aa956c35abb39eb50499bd98914770f0068cbaa86d31d2540121c88e1602c55f66f88e4e40287e933d36044512d8be4c1498750ef8
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
@@ -9361,6 +9336,27 @@ MD5sum: 1458bf10cdef6de2d8a992c2477cb89e
 SHA1: 03b8646af9434a573bea85943891198f995b0715
 SHA256: 65bec43b45f350aefed864bf41b86e84395f00cecff010d91c7cc5f5e7d45571
 SHA512: 26e80cfa6629d0cdfd73db324501284668e2ce4f22180b31772fdacf7648384a11b66dcf91c585f794f2ac3be5f8e4ae81d9c14865232d1f30f67e9d568a2fe7
+Description: A sleek reimagination of Control Center
+Name: CC26
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+
+Package: com.cureux.cc26
+Architecture: iphoneos-arm64e
+Version: 0.4.9.1b
+Section: Tweaks
+Maintainer: therealhoodboy
+Installed-Size: 204
+Provides: com.cureux.cc26
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debians/Roothide/com.cureux.cc26_0.4.9.1b_iphoneos-arm64e.deb
+Size: 20730
+MD5sum: e80a56976eb3caa5384a7504f34734f6
+SHA1: 444815d1c1d02f6ecd53219482adef6f6c8921bd
+SHA256: 21115189092e2a7bcdf6f53f719e1f8255beb6014658031391a738c4c9d95ce1
+SHA512: df12d370e7d66709e4be70524b17332b55e2379983aa1b46dddfa4c7e1944747612c5da5ddb505523d06c956873e0910183d5fb53974d5463f2a1419a3b1d40b
 Description: A sleek reimagination of Control Center
 Name: CC26
 Author: therealhoodboy
@@ -16641,6 +16637,27 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hislerim
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hislerim/depiction.json
 
+Package: me.luki.stealthcc
+Architecture: iphoneos-arm64e
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/me.luki.stealthcc_0.9.0_iphoneos-arm64e.deb
+Size: 25484
+MD5sum: a2ac7b23ef0e16aeb03f923b3d99e800
+SHA1: 30770f4ef792f0e3802c473d0838fc17124a7737
+SHA256: 67345fe7044866ca7980c0d437c3379e9c85ed90998923f730be2c39d93eef17
+SHA512: cc1fd2c65fbf5be124b16b5319971d8d4cb3e1c5abcf171b8817eb9ad35531eb45d1d2cf066a40719ed922875ce25bde396e172f2b1247d467b56fd92804ff94
+Description: Control the intensity of the stock CC blur on the fly
+Name: StealthCC
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
+
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64e
 Version: 1.4.3
@@ -19190,6 +19207,26 @@ MD5sum: d8b9971dacc8422e42c49f97557527f3
 SHA1: e64af70810cea173653b7637b63487d185f95278
 SHA256: f509945d48c05d52a477c3b0f87a3b56f98086c8a0de46db5a2a2be44d230ee5
 SHA512: 79be08d040076253858a15242e9dc13bec47d8b51d10cd4ef07a7c608b169bfbba7179b6847bf86beb5a85687c434c6b9f370ccafc45d4601ea148e6a36d6168
+Description: A sleek reimagination of Control Center
+Name: CC26
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+
+Package: com.cureux.cc26
+Architecture: iphoneos-arm64
+Version: 0.4.9.1b
+Section: Tweaks
+Maintainer: therealhoodboy
+Installed-Size: 204
+Provides: com.cureux.cc26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debians/Rootless/com.cureux.cc26_0.4.9.1b_iphoneos-arm64.deb
+Size: 15362
+MD5sum: 43e05841fb7d5d4b79d3bf1d1412a5d4
+SHA1: b1a6da97e581783788f612776e469ed7ec6565e4
+SHA256: 168fb5154cdb546c20c62d2f4aaf5051b76a7002f8af55049c9fb96e8ac1d42c
+SHA512: 2a038fc901843ce786b0b9f170f6af4d50fdfd49d08a5799a7171a777e4c4144f382673f5820912b465427eb820f48409ba4a5e22a07ec53f8cb553f5187951d
 Description: A sleek reimagination of Control Center
 Name: CC26
 Author: therealhoodboy
@@ -26943,6 +26980,26 @@ Name: Hislerim
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hislerim
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hislerim/depiction.json
+
+Package: me.luki.stealthcc
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/me.luki.stealthcc_0.9.0_iphoneos-arm64.deb
+Size: 20824
+MD5sum: 0cc1e176043b22810539996230b79744
+SHA1: b959214b1341856004bd5a8f56ae0bdeabcb50c8
+SHA256: c3f92f745e13f17bf2ae4d3bc9a53eaf9535611dd93044e12df9ace0feba40bf
+SHA512: 419405f33728d92100c0bdae52688163d102acc5d22e4b35e4ab535aaaff6e0a1f7aa0ee6b21c508862555ca8c4e3200db258e0e2304f43cee29c190b948bc06
+Description: Control the intensity of the stock CC blur on the fly
+Name: StealthCC
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
 
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64
