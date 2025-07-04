@@ -16093,6 +16093,48 @@ Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/pseudo.json
 
+Package: emt.paisseon.xinamine
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Section: System
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: ./debians/Roothide/emt.paisseon.xinamine_0.0.5_iphoneos-arm64e.deb
+Size: 89106
+MD5sum: 707c83f7e29b8dead8fe9f3424570074
+SHA1: bea89d3da727bf4c64e40caf908cb61554d5fd62
+SHA256: dce849dd4005751e9574797d179c10cb178fafc2dad17c18fb6008bbef54ed13
+SHA512: 692361c9ca106290ab91b051a4453d8095ede34fbe013734931c095328b4ba6667f724c6998f37ecd79086f232f0cb578c61a0de01001832001f9f514dc20304
+Description: Add Xina tweak compatibility to Dopamine
+Name: Xinamine
+Author: Sudo + Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+
+Package: ez.now.xinaminepatcherscript
+Architecture: iphoneos-arm64e
+Version: 1.7.4
+Section: System
+Maintainer: NoW4U2Kid
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ellekit, file, odcctools, ldid, emt.paisseon.xinamine
+Filename: ./debians/Roothide/ez.now.xinaminepatcherscript_1.7.4_iphoneos-arm64e.deb
+Size: 4862
+MD5sum: 29e0dc97264370c673ca99ce4404431a
+SHA1: a6876b6684a71f04c8828d52aa5d5a791b73af31
+SHA256: fe5f2814c13b9bd003a95bbc82a05c7ec35369fe4f3fa65fc63dd3c598c44afb
+SHA512: c8d3cf44fd084a52cd20351a2d11dabe1bbbc8c544ecd0b6a610e18c17b3905149cf253a2689f4086c69cc1f18d5ec4c05807e0109834c91ea6c6796fa8416c0
+Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Name: Xinamine Patcher
+Author: NoW4U2Kid
+
 Package: hi.my.name.is.ubik.sonus13
 Architecture: iphoneos-arm64e
 Version: 1.0.5
