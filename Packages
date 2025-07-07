@@ -2486,6 +2486,40 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.fiore.calculatorconverter
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.fiore.calculatorconverter_1.0_iphoneos-arm.deb
+Size: 57600
+MD5sum: f56322acc1c1a287ab1b2e5f9b478330
+SHA1: 7592f1cf6d1957d4c04d909108b9519a9db96ed8
+SHA256: 3c25aeab0b25661bab034ad5658deda5f6739635790d5299d7d8aeefb10ebf2c
+SHA512: 76304de579b4c42f91da2ec2e2a0a82e433e3a4a5b7f1d154fffd2bca3a4bbb8ef3d1b899ffef4b9b949e9b988e0a053b75deb39048f192ab1bd3621de0ceaff
+Description: Add iOS 18 unit conversion to the Calculator app.
+Name: CalculatorConverter
+Author: fiore
+
+Package: com.fiore.calculatorhistory
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.fiore.calculatorhistory_1.2_iphoneos-arm.deb
+Size: 23456
+MD5sum: 2b65ceae1a03fb417e8f4cfcf4111716
+SHA1: 725534425b442be261949fe71cd2b888ac7d9baf
+SHA256: 068e89cb4c20a6124c0785a1004cb98fe00a7a93ab5b5e0566f1e605c58efb6c
+SHA512: 6f76cf9d4171402e48b1925d8b990ef3ebde9632cdc064779d7bce7a9795ebd261363e084da5ad1e97f21cf1bfc2572810647954adc022cf1db10401a89e67f4
+Description: Calculator gains history!
+Name: CalculatorHistory
+Author: fiore
+
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm
 Version: 1.0~b23
@@ -10307,6 +10341,42 @@ Description: Library for Watusi and other WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.fiore.calculatorconverter
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.fiore.calculatorconverter_1.0_iphoneos-arm64e.deb
+Size: 79620
+MD5sum: 7b4dab01a9e8c75f14f101e5a91ee497
+SHA1: 6846ef34a25424a718643cb7156fda26181fbdbc
+SHA256: a95625f23f7c939635232c2ef64cce1943cc387ba2e3b406697ce6cd77d92232
+SHA512: 06fae3b190dec5af009bca643ba1c064e5230d699ff66137932529d5bcc0d62e49aa8d3a1b3b2f31b1b744043b9bd3eaea53b7e3560ba9d349c22c166769afb0
+Description: Add iOS 18 unit conversion to the Calculator app.
+Name: CalculatorConverter
+Author: fiore
+
+Package: com.fiore.calculatorhistory
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.fiore.calculatorhistory_1.2_iphoneos-arm64e.deb
+Size: 32114
+MD5sum: 771dc6a1a20b0bc44e1cc1a5dd0e9639
+SHA1: e9e48949910c733878eb65f9db8ad6663ebe5a4f
+SHA256: 9e0840e4cfc0897eaff88d1141a402354fbf5a632ae3715419d44a31159480cb
+SHA512: ca186d0579f66f7a4f6e43ca626a4308d704e1fb2eae4bbc8ef3c6b61385a566c9ec4d1f5b4d85148d70e9e24a463402b70fa1aabde6c993325cbde9acbd06a8
+Description: Calculator gains history!
+Name: CalculatorHistory
+Author: fiore
 
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64e
@@ -20918,6 +20988,40 @@ Description: Library for Watusi and other WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.fiore.calculatorconverter
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.fiore.calculatorconverter_1.0_iphoneos-arm64.deb
+Size: 58774
+MD5sum: 0749812199dbc287286fe9d881b7c4d3
+SHA1: 8e4f9a0669f5ee9b36553e24890c324a14e19d9c
+SHA256: ba46685d1d3e419a062bfd8e7b213feff34bfd377dcfa5a8f0bb1ddd6bcd3ca6
+SHA512: 7f66bb5d692d06b737c712b260372b2710b8029b7c28ca41f268047fc35ba9767ffd8ca002268e981428377aa15bf4a0d9a93eebcb448afe9baf107d3aa3cd19
+Description: Add iOS 18 unit conversion to the Calculator app.
+Name: CalculatorConverter
+Author: fiore
+
+Package: com.fiore.calculatorhistory
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.fiore.calculatorhistory_1.2_iphoneos-arm64.deb
+Size: 23984
+MD5sum: dc3d677c2411b59d1449f07b77e18958
+SHA1: efec138736932c440f2d5d4d3267deff9e29c238
+SHA256: 1055f74f5ce5d7c486b4bd0b28fb9d7a5895ac7b90d505c77c0be57a5ec5af1e
+SHA512: 2a78b68be1fe2001e68ebc6a08c3c916d6200b2e2bb57fba5d977f1db75cc92dbd148e3c8efa7e962fcc328337fcadc218d08152565e7a4cfd48b88fcabbf61b
+Description: Calculator gains history!
+Name: CalculatorHistory
+Author: fiore
 
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm64
