@@ -11569,6 +11569,26 @@ Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Name: WiFiQR
 dev: kingpuffdaddi
 
+Package: com.korboy.safetoggle
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: Utilities
+Maintainer: Kernelrw
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/com.korboy.safetoggle_0.0.4_iphoneos-arm64e.deb
+Size: 11240
+MD5sum: 60777344e4da0cbc6c9e6ea5c1f8f275
+SHA1: d9b928d4c306cf4266cf7fbb8d904d63ff0fe7be
+SHA256: 0d2f6a5b4a6a65b4fc8c22b62a93d008e10e6d6d7f7c58532e20b9c2e2f2a1eb
+SHA512: 23fb7c184030657b788485a329c013d957dee2ed870a8d0e6c74e6655d49c97558d4e17a0ace50a849ed3e68e8cd975021ba9df1c071a5f5b095dbeccc1153b4
+Description: A simple command-line utility to quickly enable or disable all tweaks.
+ - Provides 'safe' and 'nosafe' commands.
+ - Include '-r' option with either command to automatically respring.
+ - You can manage an exclusion list with 'safe -m'
+ - 'safe -a' to disable ALL tweaks ignoring exclusion list.
+Name: SafeToggle
+Author: Korboy <korboybeats@gmail.com>
+
 Package: com.lclrc.hammerit
 Architecture: iphoneos-arm64e
 Version: 1.7.0
@@ -21998,6 +22018,25 @@ Description: Save All Your Installed Debs With Only A Single Click .
 Name: TweakTool
 Author: Ketty Allen
 Icon: https://axs66.github.io/repo/icon/TweakTool.png
+
+Package: com.korboy.safetoggle
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Utilities
+Maintainer: Kernelrw
+Filename: ./debians/Rootless/com.korboy.safetoggle_0.0.4_iphoneos-arm64.deb
+Size: 8184
+MD5sum: 13eea29b4317d3752d17166be4ab6189
+SHA1: b6832b33c0a0007bcf336c491f897b89139116bf
+SHA256: 8c9834f1d35a32e8ff64d48c32b1b7fad1282c744994e5ad66ae02226eb319cc
+SHA512: 37bf3a41a0410763fd63e78fc1a7d1030beaa6a364ebb7429a42ed37ed8ffb0312f958f0dbdaedebb371cf10f3e41a3e4f28f1c268166637497913d198f393b3
+Description: A simple command-line utility to quickly enable or disable all tweaks.
+ - Provides 'safe' and 'nosafe' commands.
+ - Include '-r' option with either command to automatically respring.
+ - You can manage an exclusion list with 'safe -m'
+ - 'safe -a' to disable ALL tweaks ignoring exclusion list.
+Name: SafeToggle
+Author: Korboy <korboybeats@gmail.com>
 
 Package: com.lema.wolf
 Architecture: iphoneos-arm64
