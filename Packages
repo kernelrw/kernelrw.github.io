@@ -984,6 +984,21 @@ Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
 
+Package: com.chocolate.redditfuck
+Architecture: iphoneos-arm
+Version: 1
+Maintainer: Choco
+Installed-Size: 90
+Filename: ./debians/Rootful/com.chocolate.redditfuck_1_iphoneos-arm.deb
+Size: 9516
+MD5sum: bcd4a19b8c6773a621bbf25a66f1a1b7
+SHA1: 53ee2e5543b2a3d1be05437b5b5c8f1a0f229218
+SHA256: 2df6325299fa3ef471ea66a4f0006b597136503745ec9c649dad4854233b8f4c
+SHA512: dac573e94bee47e94c894dc1f0ff398b0a219833eab19b59b02e93a5de7f22a47dd66ed3938834ecc41f6da41a4b1a54f09ae77800d91643d677d205b1c6fdb3
+Description: Meow!!
+Name: RedditNoAds
+Author: Choco
+
 Package: com.chr1s.ringeractions
 Architecture: iphoneos-arm
 Version: 1.0.4
@@ -9182,6 +9197,22 @@ Description: Telegram Enhancement Tweak
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.chocolate.redditfuck
+Architecture: iphoneos-arm64e
+Version: 1
+Maintainer: Choco
+Installed-Size: 90
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/com.chocolate.redditfuck_1_iphoneos-arm64e.deb
+Size: 12374
+MD5sum: 4191481b9d991acff5885bb17aab6349
+SHA1: bdc66412bcb5caea7f6d33ef20492f7269ec0425
+SHA256: bce4d73b752292ed009e0cf0735b77e9d900510894a128492a66288e32a19cb0
+SHA512: 2b754ad6ec2cc339c7bee39ad7aa729e30407db046868d66db3fe57c1ba8f64fcb602b44d1e3ab062690fb3db25bd3337ed85267adbbf461ad43880c63427a7e
+Description: Meow!!
+Name: RedditNoAds
+Author: Choco
 
 Package: com.chr1s.ringeractions
 Architecture: iphoneos-arm64e
@@ -19147,6 +19178,21 @@ Description: Telegram Enhancement Tweak
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.chocolate.redditfuck
+Architecture: iphoneos-arm64
+Version: 1
+Maintainer: Choco
+Installed-Size: 90
+Filename: ./debians/Rootless/com.chocolate.redditfuck_1_iphoneos-arm64.deb
+Size: 9768
+MD5sum: 87ec92b4d0a07179cf5268280bdd0964
+SHA1: 4258d5eb52014a4ec83b0a074864ab21350b5834
+SHA256: ede4364f1b59a7751282198b2b0a0cccce78f564bb8d4c0b9382c6544271adc6
+SHA512: 2622ff757ad573ddb6ca806520626994de6c176c287af859ac6b4b678ce09adfdbde9489b409bd895eb1dc0ffb414ea7f079ff8c7e3d2d4bbdb8b1e76f626c4d
+Description: Meow!!
+Name: RedditNoAds
+Author: Choco
 
 Package: com.chr1s.ringeractions
 Architecture: iphoneos-arm64
