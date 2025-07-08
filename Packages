@@ -6382,6 +6382,22 @@ Name: Ring
 Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 
+Package: com.yourepo.0xkuj.storeswitcher2
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: firmware (>= 11)
+Filename: ./debians/Rootful/com.yourepo.0xkuj.storeswitcher2_1.0.4_iphoneos-arm.deb
+Size: 14392
+MD5sum: d086c14d922f31e51bdee0215f84c03e
+SHA1: e6013833363b219fbd63861cabef305c1b9e0814
+SHA256: ad249a363b552ef71d3dcd17532ab05b11482058dce34394c3939c04c231a9f0
+SHA512: b7acfcbb9a6b56ed9146962eaa9d4d76898e1ec59cca6d8ec563895fe80bb7f9b025e12f4204b894f4bbfd7ac2f477d77ebc5a88315e14ad50304d2e225c2c45
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Name: StoreSwitcher 2
+Author: 0xkuj <0xkujz@gmail.com>
+
 Package: com.yourepo.itweakios.ccpatch10
 Architecture: iphoneos-arm
 Version: 4.0.1
@@ -15813,6 +15829,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: fuckthermal
 Author: Shadow- <krylov0@outlook.com>
 
+Package: com.yourepo.0xkuj.storeswitcher2
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11)
+Filename: ./debians/Roothide/com.yourepo.0xkuj.storeswitcher2_1.0.4_iphoneos-arm64e.deb
+Size: 19250
+MD5sum: ebe85d1a2c0abfe308790f0a7eb439b2
+SHA1: 01ca287bb160366e87470fa0162bc6bce45b55ef
+SHA256: f9febb1e9ea6358b968605e207bdab7f057c83fdd7b7f9cdab4aa686f32d713c
+SHA512: d13efe14004a1db2821229884263fb5412cf76eefe7164c365b1c930c8a3db57a6bed7ee891fb2f0aed753965a905db88041b6fec897043da080fa7749410284
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Name: StoreSwitcher 2
+Author: 0xkuj <0xkujz@gmail.com>
+
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode
 Architecture: iphoneos-arm64e
 Version: 0.5.1-11
@@ -16297,6 +16330,27 @@ Name: pseudo
 Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/pseudo.json
+
+Package: emt.paisseon.satella
+Architecture: iphoneos-arm64e
+Version: 1.8.1
+Section: Tweaks (Piracy)
+Maintainer: Lilliana
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debians/Roothide/emt.paisseon.satella_1.8.1_iphoneos-arm64e.deb
+Size: 126566
+MD5sum: 16c8787dd4c1402391fc084223724fe2
+SHA1: bd7c5d46966064dc48db2c32287cd9e3522f7fdf
+SHA256: 6bbe3c8f43b7fb5fcde393f374b02bfba5de3434384f4685b11df113a8aa61b5
+SHA512: 9bd2ddefad7ccf1d3edd293b2dc332baf2484acbb512a6f81a96a0e7cb435230b7c33c33a253372138ed3b68826b9e904059795e5361fde07013a58120a7cda0
+Description: Modern in-app purchase cracker
+Name: Satella
+Author: Lilliana
+SileoDepiction: https://paisseon.github.io/depictions/Satella.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
 
 Package: emt.paisseon.xinamine
 Architecture: iphoneos-arm64e
@@ -25964,6 +26018,22 @@ Description: iOS All Device Dolby Sound Effect & And Sound Quality Optimization
 Name: Dolby Sound Effect
 Author: iBreak <ibreak2019@qq.com>
 
+Package: com.yourepo.0xkuj.storeswitcher2
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: firmware (>= 11)
+Filename: ./debians/Rootless/com.yourepo.0xkuj.storeswitcher2_1.0.4_iphoneos-arm64.deb
+Size: 14224
+MD5sum: 91f81c757b425bb146a1f8af752ae2aa
+SHA1: d585a65f85cd2863b38461c2301accf94320a377
+SHA256: 1ec18e54fe4e477d8108bfec650cddaea38010861ebdc03fd2418d23424a7fbb
+SHA512: ba609f8f73aa2709b11f83d7abfb703a20bc8a8da65a147248a4ba4278ba4afe4df327f7e2f09437c09837260347d5d74b2c77e314f2c9145a3652636932496a
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Name: StoreSwitcher 2
+Author: 0xkuj <0xkujz@gmail.com>
+
 Package: com.yourepo.cydiageek.batteryswipeup
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -26752,6 +26822,26 @@ Name: pseudo
 Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/pseudo.json
+
+Package: emt.paisseon.satella
+Architecture: iphoneos-arm64
+Version: 1.8.1
+Section: Tweaks (Piracy)
+Maintainer: Lilliana
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/emt.paisseon.satella_1.8.1_iphoneos-arm64.deb
+Size: 95982
+MD5sum: e951c9c54b7b646d3c58aa3d2d3946a5
+SHA1: b1a2a6e9c10ac9cfb62c31a6bfccff90e96111f7
+SHA256: cadbe4d4bf8e4e9317d450792e0cf1548c288b9016dee3241e72ee4bdeedd20d
+SHA512: 5b796c22669ecb1c817a6ce8b332936736b1b6a832e847466e658b7fc020aca0ce39d853d0366e8eaf9fa9f92e74116acfd11ce7537503a9b0b56d5a4bdbcb7a
+Description: Modern in-app purchase cracker
+Name: Satella
+Author: Lilliana
+SileoDepiction: https://paisseon.github.io/depictions/Satella.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
 
 Package: fr.rootfs.rode
 Architecture: iphoneos-arm64
