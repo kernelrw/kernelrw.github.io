@@ -6346,6 +6346,23 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
 
+Package: com.wrp1002.growingbadges
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2)
+Filename: ./debians/Rootful/com.wrp1002.growingbadges_1.1.0_iphoneos-arm.deb
+Size: 31156
+MD5sum: bea63e29e2042ab4b026d1a120c75ef7
+SHA1: 63fb3da8cb05d6cfaca99ccfdc3214b6f435d000
+SHA256: 656ced653bbdbb2384455bcfad4d36e51ee3981d08a936f443194d52ba9f36b6
+SHA512: d0b5d08e3760b1419ea55f7d462f52789c1e7be3a6d9336eb988097fd519d99ecb12ec9fe08550f6ea87d897be5d93a094cbd4ca50ce3e7f67c4d4655ce110f7
+Description: App badges scale with how many notifications you have!
+Name: GrowingBadges
+Author: Wes <wes.hamster@gmail.com>
+
 Package: com.xyaman.tako
 Architecture: iphoneos-arm
 Version: 3.5.2.1
@@ -15720,6 +15737,24 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.wrp1002.growingbadges
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 416
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2)
+Filename: ./debians/Roothide/com.wrp1002.growingbadges_1.1.0_iphoneos-arm64e.deb
+Size: 38030
+MD5sum: 235fa5bf77c39d10985fd47d7ec38728
+SHA1: 739a666fe698f283671c7eb60a1451f9a6efd01d
+SHA256: 097938a224738b8f220976f0a7e99eaf214579c8c0e9a7a2d247a7f13879979f
+SHA512: 334a07834e8494d4f5aa532d918e3d3dc8981c378bd97a595c948db01b9b5583e9aaa7ebbbc96783caebaaa5b934d68168dff70d182381f8b74ac88a0a444a75
+Description: App badges scale with how many notifications you have!
+Name: GrowingBadges
+Author: Wes <wes.hamster@gmail.com>
 
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64e
@@ -25965,6 +26000,23 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.wrp1002.growingbadges
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2)
+Filename: ./debians/Rootless/com.wrp1002.growingbadges_1.1.0_iphoneos-arm64.deb
+Size: 31860
+MD5sum: 82e0497baa240b2136e70b65ae105521
+SHA1: d9226d2470a90bade8b958efee6561644fe9cd45
+SHA256: 8cc84c31031411c36348c91a587e992c96430e09ae90ce7e4c5b2e80e155ed9f
+SHA512: 39ddb80ea2d06f25580728775d17a3540baacae35a7de24a95dcb2d7420e874171a074e29f800ae6e5ac3b7ba6e32c7a9b1b4665fdcceda06625120b39429987
+Description: App badges scale with how many notifications you have!
+Name: GrowingBadges
+Author: Wes <wes.hamster@gmail.com>
 
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64
