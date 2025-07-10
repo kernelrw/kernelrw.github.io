@@ -7557,6 +7557,23 @@ Name: Silence
 Author: waruhachi
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
 
+Package: moe.waru.call17
+Architecture: iphoneos-arm
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.call17_1.0.0_iphoneos-arm.deb
+Size: 7184
+MD5sum: 8724e00e291fb1990070bb7ddc2be967
+SHA1: 38970b687f9622d870fe519898dd868f688202c4
+SHA256: 1019b0906d0fb0945a53b41f54e0d41c15bb094cbfb6f3c2151cc39c03c34503
+SHA512: 0a7fb1dc5197d23b87070772d1cea70ed5bf838437ea20a8575be8e656a5d565a563e985569f86caa9f72b3dc0dd53d30e8d3d16569c5536dc733c9a553fb7e9
+Description: Backport of the iOS 17 call screen for iOS 14-16
+Name: Call17
+Author: waruhachi
+
 Package: moe.waru.frame
 Architecture: iphoneos-arm
 Version: 1.0
@@ -17115,6 +17132,23 @@ Description: Lower the volume to zero during phone calls
 Name: Silence
 Author: waruhachi
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
+
+Package: moe.waru.call17
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.call17_1.0.0_iphoneos-arm64e.deb
+Size: 7208
+MD5sum: 9c63af68863ed743e8b2e7f95578b514
+SHA1: 5963eda941016b17d723f4b466f316ef48f36c4a
+SHA256: 649502636a71213b27f9f743498fa21a5d192b4779acf8466f12a8508f6d3c28
+SHA512: e12cdaec8469d4904ea08c8a74785fcabcfd013d8ace4248aa856d5ecd94e3bb1e5cbcda4ffaf98852d0295ae29aaa07e563843c9ae17ece2cf70fcab1a5dec4
+Description: Backport of the iOS 17 call screen for iOS 14-16
+Name: Call17
+Author: waruhachi
 
 Package: moe.waru.frame
 Architecture: iphoneos-arm64e
@@ -27637,6 +27671,23 @@ Description: Lower the volume to zero during phone calls
 Name: Silence
 Author: waruhachi
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
+
+Package: moe.waru.call17
+Architecture: iphoneos-arm64
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.call17_1.0.0_iphoneos-arm64.deb
+Size: 7270
+MD5sum: 257bb72c2824286e269d4f6bfe6a3ba4
+SHA1: b98e3cc631dfc6294412bd29f63c180460a012ef
+SHA256: 2fb78201b75d0391a09869fd24403bcb1bc7a7a0fa7efc28528d89dcfd9a8819
+SHA512: 36b4daede9e919ad7882b23dd5a0f58f58bf4a791c197070aaed1384cbaeb9d64e024be7e7d9cbdd6440bd9a4dbeab5a8cede2c4152a2b142d95efdf46ad6d3e
+Description: Backport of the iOS 17 call screen for iOS 14-16
+Name: Call17
+Author: waruhachi
 
 Package: moe.waru.frame
 Architecture: iphoneos-arm64
