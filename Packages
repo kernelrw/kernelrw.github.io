@@ -715,6 +715,27 @@ ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofo
 Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
+Package: com.anthopak.quickprefs
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debians/Rootful/com.anthopak.quickprefs_1.3.3_iphoneos-arm.deb
+Size: 509944
+MD5sum: fc64ee4ad0f2a5e694d8d95e0eabbd8d
+SHA1: 5a2c6901220ec6c2d86f0ef546931f5d9018064e
+SHA256: 2aa8a5477e2cb3e3a0a90e855bfe46fa380a10512efb4d87710a9c8ee28e0c48
+SHA512: 31b735971204e48ed8d554dbf2334ba340aea8870c8af9fbe9092883f4f1a4b9101f718c09752f4804260a521c9d5fbc54e6abcfc0455f3de7cb74cb225a49bf
+Homepage: https://repo.anthopak.dev
+Description: Quickly access settings prefs from 3D Touch Menu
+Name: QuickPrefs
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.quickprefs-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.quickprefs-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
 Package: com.apextweaks.veza
 Architecture: iphoneos-arm
 Version: 1.2.0
@@ -9081,6 +9102,28 @@ Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
+Package: com.anthopak.quickprefs
+Architecture: iphoneos-arm64e
+Version: 1.3.3
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debians/Roothide/com.anthopak.quickprefs_1.3.3_iphoneos-arm64e.deb
+Size: 528956
+MD5sum: 4200ecc536296da95f20e1bab2cc9116
+SHA1: baea048d5d72213b9064b466cd5f71b114fc91b1
+SHA256: 6c6a684a67f6b329aa6108b62258f1d80c8fe701db97214cf9e41064eb18ad79
+SHA512: f25e28b2fe4fa5c33503e9b9e9ae7207cced7be1e1ce9b1524a192716149b65bf23d0f93e7a05d77f7467ab80671e0c2ebd2fa904516de13111fe01295d20218
+Homepage: https://repo.anthopak.dev
+Description: Quickly access settings prefs from 3D Touch Menu
+Name: QuickPrefs
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.quickprefs-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.quickprefs-rootless/icon.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
 Package: com.anubistweaks.keyswipe11
@@ -19198,6 +19241,27 @@ Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
+Package: com.anthopak.quickprefs
+Architecture: iphoneos-arm64
+Version: 1.3.3
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debians/Rootless/com.anthopak.quickprefs_1.3.3_iphoneos-arm64.deb
+Size: 511280
+MD5sum: 7847f0f643b9ef2405686c50752addfc
+SHA1: f0ed541ccc6afd19ae0c32bce53f6c15358f4364
+SHA256: e55852cc03717890a40aca8cde8845a9dafa338a9c5fa3845f1f5cec796dab6f
+SHA512: a343f990bfa7ad18465de3b2b7fdadb9790499d01d0b7c0037ac7519197a9dd809e951483798a1c13915ad5b09f6affaaac099592808f6de02829f40bccc79cd
+Homepage: https://repo.anthopak.dev
+Description: Quickly access settings prefs from 3D Touch Menu
+Name: QuickPrefs
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.quickprefs-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.quickprefs-rootless/icon.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
 Package: com.apextweaks.veza
