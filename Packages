@@ -701,18 +701,18 @@ Section: Tweaks
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debians/Rootful/com.anthopak.addtofolder_1.4_iphoneos-arm.deb
-Size: 111144
-MD5sum: a0ee973992ab9496b5a45f40f2c60178
-SHA1: be0c4e4a2959621aafc9ce228a3f15a84f85fa79
-SHA256: 270f4234d5e859be25e857c284e37d7d1bc33746eb8a3c2c9e4e19ca0e9261aa
-SHA512: 07acf8422bd2f49dd16f41c5637ec61227f2681d5cff2a532d0fb487cab0f25faa8a46c0b3fd6855fc96458b3fd9a2ad434422b855de3145be6b977a03b7593c
+Size: 141128
+MD5sum: 633054201fc691cca021e73c1adcf1ce
+SHA1: bb499c86a14e7c018e3bfaad6e0401dc152a9246
+SHA256: 9fbbde05ef663562121401bbae15e48df4731bac0ca0b0448354fcfdc0401429
+SHA512: e8d16ef0a509837bc3e2e5953345b746c60b88d37c5afcf31d16ece62b3cdddee30b83e0dd986fdb0d3a86fbe61f923238ee3d263f37b9c061380d9cc297f969
 Homepage: https://repo.anthopak.dev
 Description: Easily move apps to your folders
 Name: AddToFolder
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
-SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
-ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
-Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
 Package: com.anthopak.quickccdismiss
@@ -9081,22 +9081,22 @@ Description: Spoof Mac Address on iOS
 Name: MacSpoof
 Author: Amy While
 
-Package: com.anthopak.addtofolder-rootless
+Package: com.anthopak.addtofolder
 Architecture: iphoneos-arm64e
 Version: 1.4
 Section: Tweaks
 Maintainer: AnthoPak <anthopakdev@gmail.com>
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debians/Roothide/com.anthopak.addtofolder-rootless_1.4_iphoneos-arm64e.deb
-Size: 115144
-MD5sum: 17301460a0dee6b82bb285f762cc7472
-SHA1: 93f02f70846679607eed2a8e70b2fdd2ff40f33f
-SHA256: d1387d4fb24b5e8c2cbc333ff7d9ac6988a5bde9516a4518d2366ab527fb665f
-SHA512: ed1fb87b8b78b88d4d2ee337ef2cb8126cd7c941a8d2eb19f513a9541e24f4f926187b00f8bb1918909bd5babb2a3b8661659cdaa1e9e6aba6d7ae2aa4790fd9
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debians/Roothide/com.anthopak.addtofolder_1.4_iphoneos-arm64e.deb
+Size: 126244
+MD5sum: 9de559220de74a8a4dc4698871883f21
+SHA1: 745967b70b7162a24423902c945360e7ea7697b6
+SHA256: e3d23e76e2c3507f814d6b06d7c90a4e0f0a6546312e654ace3258ffe48030cf
+SHA512: 0d17008642c3e3739a504263cb9c21b4aaa000809cc3c763b26b695386e5300574ceded8cb8ae73e73117d627dfb7efd0e54284d9fbdc0342a77e4de023a0e60
 Homepage: https://repo.anthopak.dev
 Description: Easily move apps to your folders
-Name: AddToFolder (Rootless)
+Name: AddToFolder
 Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
@@ -19244,21 +19244,21 @@ Description: Spoof Mac Address on iOS
 Name: MacSpoof
 Author: Amy While
 
-Package: com.anthopak.addtofolder-rootless
+Package: com.anthopak.addtofolder
 Architecture: iphoneos-arm64
 Version: 1.4
 Section: Tweaks
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debians/Rootless/com.anthopak.addtofolder-rootless_1.4_iphoneos-arm64.deb
-Size: 136444
-MD5sum: 58937bf95c859d98c25408f7233428d2
-SHA1: e05fc7d1985e17ea2ee5643759af45220ccb9c7a
-SHA256: d8f0b0df80ca669538e1a7462b6c66a5b6c6223257a6a0fe005a8d647ef50849
-SHA512: 34bebc6cf1cf75d7cf5b45c492661ea57e556da5152d2c3635fee0bdf7660100fec215ad389da1dcea483159675eb39a737c50ab89faca2a01b5abf03bbb5fa6
+Filename: ./debians/Rootless/com.anthopak.addtofolder_1.4_iphoneos-arm64.deb
+Size: 112432
+MD5sum: 5a98d8f0d34cb8ebc6a8066618911600
+SHA1: 6644650eed649bf17a7baf4c24fa8860186c0fe4
+SHA256: 6b6e650c9a0e31bd7f0821dd5cd0e7c0ac9bfb0f1a1ea7e96e4ff0cb2b7e097f
+SHA512: 75149c3962e8bd2e33ab786f9199a88a6bd83478eac39d7e1b25cfeac4b3c2ba03a6926e46f691d138aa97fd80ecde6b07aaed68f972c3a38d87291d9f0a6233
 Homepage: https://repo.anthopak.dev
 Description: Easily move apps to your folders
-Name: AddToFolder (Rootless)
+Name: AddToFolder
 Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
