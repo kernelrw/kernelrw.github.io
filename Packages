@@ -3604,6 +3604,29 @@ Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
 Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
 Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
 
+Package: com.matchstic.reprovision
+Architecture: iphoneos-arm
+Version: 0.5.2~EOL
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Provides: com.matchstic.Extender-Installer
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Filename: ./debians/Rootful/com.matchstic.reprovision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14406348
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
+SHA512: 55e5b6ea8072150c04fa6a6b2473117f512d246edecbbbcdb23c91d995328e71566405b2119296ab1107e41f7ba45fba8878b6ea30d50310868e011655065d77
+Homepage: https://github.com/Matchstic/Extender-Installer
+Description: Re-sign applications on your device
+Name: ReProvision
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
 Package: com.maximshnirman.twistnturn
 Architecture: iphoneos-arm
 Version: 1.3
@@ -7155,6 +7178,72 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/freepip.png
+
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.8.3~debug4
+Section: Utilities
+Maintainer: Soh Satoh <tweaks@satoh.dev>
+Depends: firmware (>=9.0), firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Filename: ./debians/Rootful/jp.soh.reprovision_0.8.3~debug4_iphoneos-arm.deb
+Size: 16941238
+MD5sum: 968bd56bc25c4ccd63fd8cf07a1fd56b
+SHA1: 0aacfec7e8c1e440fd41c76ad47a625ae6291889
+SHA256: 55b652f9f31304685d5cd7995f5d6c457ac7d03e7ae45f9a295271c674536aed
+SHA512: eda98669ca37c713c82a7175f59f374fbe03266ed2330ce57cd55a478d53b8632adf3d2fd94222c64b12a9a92cc61c7d1d222468cd4414d093647adaa6126ef4
+Homepage: https://shuga.co/
+Description: Re-sign applications on your device
+Name: ReProvision Reborn
+Depiction: https://repo.satoh.dev/depiction/web/jp.soh.reprovision.html
+SileoDepiction: https://repo.satoh.dev/depiction/native/jp.soh.reprovision.json
+ModernDepiction: https://repo.satoh.dev/depiction/native/jp.soh.reprovision.json
+Icon: https://repo.satoh.dev/assets/jp.soh.reprovision/icon.png
+Tags: compatible_min::ios9.0, compatible_max::ios15.0
+Author: Soh Satoh, Matt Clarke <tweaks@satoh.dev>
+
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.8.3~debug5
+Section: Utilities
+Maintainer: Soh Satoh <tweaks@satoh.dev>
+Depends: firmware (>=9.0), firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Filename: ./debians/Rootful/jp.soh.reprovision_0.8.3~debug5_iphoneos-arm.deb
+Size: 16941756
+MD5sum: e60a3bda3ceb5149add5a2cdd6ce2d6d
+SHA1: 9b62ca9240449d5f291117e383691e574a2cfb0e
+SHA256: 9dc020c334166d5fbdb72817b3f1d748628a141119a304ac000173e3cd996473
+SHA512: 27046dce2ef513314c59ab44a83b6b28d4010e3b56f4beee0c56d4478c66a8ae529b3ba72efc9b0eef247750257ca41a5b17552cf77b6b15a9e828e9857d5ae4
+Homepage: https://shuga.co/
+Description: Re-sign applications on your device
+Name: ReProvision Reborn
+Depiction: https://repo.satoh.dev/depiction/web/jp.soh.reprovision.html
+SileoDepiction: https://repo.satoh.dev/depiction/native/jp.soh.reprovision.json
+ModernDepiction: https://repo.satoh.dev/depiction/native/jp.soh.reprovision.json
+Icon: https://repo.satoh.dev/assets/jp.soh.reprovision/icon.png
+Tags: compatible_min::ios9.0, compatible_max::ios15.0
+Author: Soh Satoh, Matt Clarke <tweaks@satoh.dev>
+
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.8.3~release
+Priority: optional
+Section: Utilities
+Maintainer: Soh Satoh
+Depends: firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Filename: ./debians/Rootful/jp.soh.reprovision_0.8.3~release_iphoneos-arm.deb
+Size: 15477492
+MD5sum: 4ecea265b0b74c772bc94ab49a36e923
+SHA1: 21547146376e041b6ead427f1b53456f2bec4eab
+SHA256: eb1ec319ce0fab9584917eb3e8505121496c62b1f4826f6e7db60c6314661a21
+SHA512: 1372e062ede7fa07c6e9533ecd771026be86890c7ae571f21af9718b5857c2338e8d6a0251821125118e43a256a4ef3bbeaa77ea441cfec4b09ba33686a207f7
+Description: Re-sign applications on your device
+Name: ReProvision Reborn
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 
 Package: jp.uzra.lineconfirmcall
 Architecture: iphoneos-arm
