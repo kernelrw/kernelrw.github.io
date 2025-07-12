@@ -5992,6 +5992,25 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootful/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm.deb
+Size: 73236
+MD5sum: 71f209f93f0058fbc477037b6722e98a
+SHA1: 2ccae97607552ee56cf50541aae7fd823a7b7aa4
+SHA256: 964804fbcf6ba62f8906885362f59eefd8ccb12da6fa9ee7868f09ad6b159e11
+SHA512: a35d857b838adc9c53e4e52322eabdf7bc2b2292e81b73ceb783aeb19932ee5f747a204f4ee2fdfcee7e9feaaf396d346492f13d46e7bf64d9d326bc260ffc7f
+Description: Automate alert actions , supports iOS15+ ; Rootful , Rootless & Roothide .
+Name: AutoAlerts
+Author: shiftcmdk & waruhachi
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
 Package: com.simon.switch
 Architecture: iphoneos-arm
 Version: 1.0
@@ -15201,6 +15220,26 @@ SHA512: 66a72b63ba39dd83a1ed147670c6a5acbab897951fe9495c60a771414893a2a37dc9d3c6
 Description: Automate alert actions.
 Name: AutoAlerts
 Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Roothide/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm64e.deb
+Size: 77556
+MD5sum: 884dda31ef715576ebeabd2979b1aba1
+SHA1: b4c348e58f853caa7cc4663f423b5ee26304e8c3
+SHA256: d7f5367886c894a6205688ad1fe32ea643cdeeeea2985955e9b12ef8b393dd60
+SHA512: 4e45b9234faa1368945033f953cc9326ce47401eaa89d96b4050ff655a3cc5d543d33455fdc0fbc04ef3003a8f0e2bbed6f1471445fddf94ece8ecc9df4bff02
+Description: Automate alert actions , supports iOS15+ ; Rootful , Rootless & Roothide .
+Name: AutoAlerts
+Author: shiftcmdk & waruhachi
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
@@ -25719,6 +25758,25 @@ SHA512: 29911e8962b5e355c43aa0a6aa60a52a6b514e8fa425a1dc50cd78743001f4ee69372097
 Description: Automate alert actions.
 Name: AutoAlerts
 Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
+Package: com.shiftcmdk.autoalerts
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootless/com.shiftcmdk.autoalerts_1.0.3_iphoneos-arm64.deb
+Size: 75352
+MD5sum: 0972385dee16ebe23c76da096a825f8d
+SHA1: 1b71c27dd515bfc88ab68d1af1a9be8214924d93
+SHA256: 5949f9de5004c74771d3d98ab2bb3411f9295fb874be2c635cf3159e4844a149
+SHA512: d1195070c1f8d5f2b8beb81e93e092d149db65add369f6f0e066fa4d1c4961783b738fa0229478fa9ccc1cea3869d35a9d985ca55196ea025bc8eea78cb05da5
+Description: Automate alert actions , supports iOS15+ ; Rootful , Rootless & Roothide .
+Name: AutoAlerts
+Author: shiftcmdk & waruhachi
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
