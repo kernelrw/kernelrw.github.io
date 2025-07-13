@@ -776,6 +776,47 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: file:///Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
 
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1132
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/Rootful/com.arya06.nappytime14_1.1.2_iphoneos-arm.deb
+Size: 709264
+MD5sum: 67cac568cdd560eb2f87b9b59ff08f29
+SHA1: 70b598dd443cff0a748e7e60ae41418f5613f5a0
+SHA256: 27e33dd2de30b222161a3c7bb5d5237b6de1fde066cfc7060b7e989565c0ab4f
+SHA512: 62525015165f38c29bff0b43d2024b68acdfccae292540f44a9fe221c8ff740825c64d668d3890e993c8fad4cc19efea6a00f3f22b4239112d17512114cb4f0f
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.snooze++
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/Rootful/com.arya06.snooze++_1.0.1_iphoneos-arm.deb
+Size: 20384
+MD5sum: 4728f0c6be6eb321c8002e81b8d4183d
+SHA1: 7162bf808cf6f41c6b936f2016a3136245a3952b
+SHA256: 398603c51bdcf5907c5ec4ed1dd578b6840708108088d1221465f7b8c3d65d2e
+SHA512: e4db00e99cf4019c48c514cd1151e249a53103e5ad47a44fb20ecf41bfcfb4f30806fd7635390daeaba29f1eeab56bc4b9b9b58d4f53b5398ab6a2e88c9e0857
+Description: Custom snooze times for your alarms, right in the clock app.
+Name: snooze++
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.snoozepp
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.snoozepp/depiction.json
+Icon: https://raw.githubusercontent.com/arya1106/repo/main/assets/snoozepp/icon.png
+
 Package: com.asterix.digitalbattery13
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -4904,6 +4945,25 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nicho1asdev.reachtolockx
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: nicho1asdev
+Installed-Size: 324
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/Rootful/com.nicho1asdev.reachtolockx_1.0_iphoneos-arm.deb
+Size: 19428
+MD5sum: ae3053c5e1c1c41773d230c9e5afc484
+SHA1: 3ad195cc32dd8dfff4aed30ebab93020a834915e
+SHA256: 170f83940602caa7c8fb40a9de985979e47678c00c415cec9696febfe0a54785
+SHA512: 2e7aecca5d6f968c1d72481fd8c58aa903006dc6225b52d7255386f5919451334d33741b1ec1ddbb2ac14988f104493b1a087e5d06c125202dec28ab4f23950b
+Description: Replaces the reachability gesture to lock the device instead. @itsnicho1as on Twitter.
+Name: ReachToLockX
+Author: nicho1asdev
+Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.reachtolockx
+Icon: file:///Library/PreferenceBundles/ReachToLockXPrefs.bundle/icon.png
+
 Package: com.nightwind.floatingsafari
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -5971,6 +6031,26 @@ SHA512: 25f48d695b11e7784a74299586b16de9eaaca61fc8c7ed988ec880aadc4e672bcab9486b
 Description: Additional Theme Pack for ReplyActions!
 Name: ReplyActions Theme Pack
 Author: sergy
+
+Package: com.shiardev.dangerous
+Architecture: iphoneos-arm
+Version: 2.1
+Priority: optional
+Section: Themes
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: firmware (>= 7.0)
+Conflicts: com.shiarahmed.dangerous
+Replaces: com.shiarahmed.dangerous
+Filename: ./debians/Rootful/com.shiardev.dangerous_2.1_iphoneos-arm.deb
+Size: 1125608
+MD5sum: bcf749490eb37be6a73a884b378a2580
+SHA1: 0059b0a36954d8f79ae4dc8c7aff9f212bd8e56a
+SHA256: f442779ee238a6888c33e4eafe0af95cfe16889f638b9ec08f81c56efc932473
+SHA512: 66e003f33660ef7f725b1b9cd90f2df91afeb82e5eb0f546fd9be4533a4ce76140e43be97519eb6205faaf26d6f77a65ca92f8ab4240bf29f4b4e74bed22be41
+Description: New Theme. Beautiful. Creative. Enjoy it.
+Name: Dangerous
+Author: ShiarDev <shiardev@icloud.com>
+dev: ShiarDev <shiardev@icloud.com>
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm
@@ -7043,6 +7123,40 @@ Name: BatteryPercent
 Icon: https://repo.ploosh.dev/assets/batterypercent.png
 SileoDepiction: https://repo.ploosh.dev/meta/batterypercent.json
 
+Package: dev.quiprr.redditna
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: quiprr
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/dev.quiprr.redditna_1.0.0_iphoneos-arm.deb
+Size: 4738
+MD5sum: 95566a4a6b9423e2276e66d046b04a3d
+SHA1: 77010cf7da176270ee585b37e39442fce8599953
+SHA256: 6e7f60f714e8628e21ad2ec9e24fcb82ee147aac6828eb6b466a91762adc694e
+SHA512: 6d2a325fe4bd68ffa2f1055ba63c904ffaf7d3849bbc9451c22e192c5b022c90b74054b296f90708e0de9e7c60b00f647e3ffab92c9a4a7ae4d8c4f5968df4bf
+Description: An 8 line tweak to remove Reddit ads.
+Name: RedditNA
+Author: quiprr
+
+Package: dev.quiprr.twitterna
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: quiprr
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.quiprr.twitterna_1.0.1_iphoneos-arm.deb
+Size: 4736
+MD5sum: ac04491bcbe7c04e53bbf6d726fd9cf6
+SHA1: e001aa318387d8fe7120bcb0f8f3de7ce5515071
+SHA256: c5a4c104f656c9436443aa9f60432e64092ae074da935df6793e737f61330f45
+SHA512: 0c3c3e1004e5bda0324b9de74981c2db3cf1846a71a26e0112d581b7cae012fa171057b3c1a36998623d707c91c6e007c763c1d7bf024bce3b8d4a3300efa08d
+Description: A no-bullshit and tiny tweak to remove ads on the Twitter app.
+Name: TwitterNA
+Author: quiprr
+
 Package: dev.ry7yy.jedbo
 Architecture: iphoneos-arm
 Version: 1.0.0-15+debug
@@ -7687,6 +7801,47 @@ SHA512: cb0cf0e80416a4c0886c5c2865c45f8e9ac0ee9c291855a48504ae2db510a55fc2098ce9
 Description: Re-enables passcode functionality on iOS 14+ A11 devices.
 Name: lockdown beta
 Author: _kritanta <kritantadevelopment@gmail.com>
+
+Package: me.minhton.ninemusic
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MinhTon
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, com.golddavid.colorflow5
+Filename: ./debians/Rootful/me.minhton.ninemusic_1.0.0_iphoneos-arm.deb
+Size: 377412
+MD5sum: 4acf2a2f7fc8f38a5d132275a7753d93
+SHA1: 3b7dd8f2dda31a7a57388c575b8fbf8d2fc9280e
+SHA256: 3768f95da88b988ede7f4db2c3e4d58f8b29fa7caf0492dc83ae7aa653af4879
+SHA512: 7b3e7af527125c96489261a09c8d1c5d479e7627a376e9a29d5107803f3113cb5b5b20803e2082511602829e0c5200215ec47077157f17f1cfb609d90d9527a3
+Homepage: https://minh-ton.github.io
+Description: iOS 9 Lockscreen Music Player!
+Name: NineMusic
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.ninemusic
+Icon: https://minh-ton.github.io/repo/icons/NineMusic/Icon.png
+
+Package: me.minhton.nineunlock
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: MinhTon
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker
+Filename: ./debians/Rootful/me.minhton.nineunlock_1.0.3_iphoneos-arm.deb
+Size: 493672
+MD5sum: c2fa0c062a5ad985a6377090a4a85c4a
+SHA1: fefea6def3acee199b82052053a17b43f1a09879
+SHA256: 9c140d84933b861d9614a585306c0b3b8fecbe2538cf361e62199efbc45f3365
+SHA512: 794f07e87bf07fe01bfddb450fbf13435d9fa09e00d0a29ffbbbfec28961195e6fb10db51e5ddf59e93d60f962d1c019501d87ebbedd0f03285d37fe48e67cbf
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 style "Slide To Unlock" to iOS 13!
+Name: NineUnlock
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.nineunlock
+Icon: https://minh-ton.github.io/repo/icons/NineUnlock/Icon.png
 
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm
@@ -9269,6 +9424,49 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 Depiction: https://chariz.com/get/veza
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/Roothide/com.arya06.nappytime14_1.1.2_iphoneos-arm64e.deb
+Size: 722956
+MD5sum: 9f417cc68e784c3100fcf27677213c06
+SHA1: 9954442f22649f117dd27eae2a78a5d049b38f09
+SHA256: b508a6925d4ceb4435a5f58b56bfdf79b20d12843a036cfe267a5ccbf50e2f10
+SHA512: 8ee34fceea74d797d2dbb1fdc89b53c3707f0d54bb282e556e692abc124b0f1d6beeed934717005bed28b0f6e80529ad18d814087f62d9d246250d096705fd61
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.snooze++
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 388
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.arya06.snooze++_1.0.1_iphoneos-arm64e-1.deb
+Size: 27006
+MD5sum: c5d154ffef937bb44793f6bae66c236f
+SHA1: 22ab0b12712823bf1e64010fa1b5656b64637d22
+SHA256: fb633df44b76bd73ed7210e88b5f0426d279182d7fa03f3d7377fc8d47e53acd
+SHA512: d91e611c4896a2b63a65cb3ed93672c09de0effb2f1ad422c3c8f829120ea1ce5654bebafe0ec6416670df35c1a0bf4a78e8a2a33e1431dbda632846d8b1326c
+Description: Custom snooze times for your alarms, right in the clock app.
+Name: snooze++
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.snoozepp
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.snoozepp/depiction.json
+Icon: https://raw.githubusercontent.com/arya1106/repo/main/assets/snoozepp/icon.png
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64e
@@ -13553,6 +13751,26 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nicho1asdev.reachtolockx
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: nicho1asdev
+Installed-Size: 324
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.nicho1asdev.reachtolockx_1.0_iphoneos-arm64e.deb
+Size: 19842
+MD5sum: d46f637375557989373971d633acb10c
+SHA1: 136ca375b64c21058d3cf0c533e126041c754d48
+SHA256: 534863bfb5f432c35680e17083edf646a89dc0e1a48719a65a1ca71372251c60
+SHA512: 4d96f70a4e276c51ff526115c561b6f62c251fc43f3390b6122601133c7ff91f593649b27f77d410a81256a514cfcce2314fbe468c228ff9e4c7853a376f41f4
+Description: Replaces the reachability gesture to lock the device instead. @itsnicho1as on Twitter.
+Name: ReachToLockX
+Author: nicho1asdev
+Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.reachtolockx
+Icon: file:///Library/PreferenceBundles/ReachToLockXPrefs.bundle/icon.png
+
 Package: com.nightwind.cephei-compat
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -15245,6 +15463,27 @@ Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
 
+Package: com.shiardev.dangerous
+Architecture: iphoneos-arm64e
+Version: 2.1
+Priority: optional
+Section: Themes
+Maintainer: ShiarDev <shiardev@icloud.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 7.0)
+Conflicts: com.shiarahmed.dangerous
+Replaces: com.shiarahmed.dangerous
+Filename: ./debians/Roothide/com.shiardev.dangerous_2.1_iphoneos-arm64e.deb
+Size: 1146426
+MD5sum: b169f02e95e2e5ad68add5601a94bfb9
+SHA1: 41e48a5a92190e44af593e5f48c6ee1f7e5b6f14
+SHA256: 1680afe15333bca151552f5650f3f9a333ea7537a7dce47ee604411111aa597a
+SHA512: 9a17724a9e680174fb367872791a307539d2ee48ad5734aefde77a2cb4c799a5904ff8c2e4d50da321885e8d17bc11b5dee3f0b83e7e7b3f641e2380adb10f11
+Description: New Theme. Beautiful. Creative. Enjoy it.
+Name: Dangerous
+Author: ShiarDev <shiardev@icloud.com>
+dev: ShiarDev <shiardev@icloud.com>
+
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm64e
 Version: 1.0.2-1
@@ -16618,6 +16857,42 @@ Description: Modified version of mineeks tweak that lets you specify the minimum
 Name: appstoretroller
 Author: Mineek
 
+Package: dev.quiprr.redditna
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: quiprr
+Installed-Size: 280
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/dev.quiprr.redditna_1.0.0_iphoneos-arm64e.deb
+Size: 4570
+MD5sum: e79f5ab6eef17be5ecaba963e2cce304
+SHA1: 5336f1a4c3a979c871cff29062c0c2e414b7d520
+SHA256: afa280fa201fa566cf2067d99a86927e0220524a9d9c848828f79a3d3fcafc3f
+SHA512: df300d591ba24fe34b37b6fa20674549ef345475bff20fab5842839268489453a59fdf66355d58afe7beb7edd81faef4419c6af10825182080859fe6eb98a8f4
+Description: An 8 line tweak to remove Reddit ads.
+Name: RedditNA
+Author: quiprr
+
+Package: dev.quiprr.twitterna
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: quiprr
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/dev.quiprr.twitterna_1.0.1_iphoneos-arm64e.deb
+Size: 6302
+MD5sum: a6fe28b723d1f4253c5bb376f4a4ed79
+SHA1: 17f56f91be0a060d36726d5bfc30fd7ce2ebc66a
+SHA256: 326dca66e7b820bb5b24a3870d1e9e5296072441bd4ee1d07eb8627edf184c75
+SHA512: 74f08846a4d0eb717498ea09959ee07b4ed48caa3e84b7bfc85629ddf45100fcfbc5a06c847cf9d2c729fe5c61e9ba0926251bbca92fdbf6013a384a2e17d280
+Description: A no-bullshit and tiny tweak to remove ads on the Twitter app.
+Name: TwitterNA
+Author: quiprr
+
 Package: dev.ry7yy.jedbo
 Architecture: iphoneos-arm64e
 Version: 1.0.0-15+debug
@@ -17386,6 +17661,49 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
+
+Package: me.minhton.ninemusic
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MinhTon
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, com.golddavid.colorflow5
+Filename: ./debians/Roothide/me.minhton.ninemusic_1.0.0_iphoneos-arm64e.deb
+Size: 377812
+MD5sum: 673f01758f44bfa35028bf05e41213c1
+SHA1: f7d4852cd3f8691497d54c3221249f0981fe11ff
+SHA256: 401aea9389bcc26eb4ae665874ac5b62b363c625fdf3897efb8c9f9fd753331f
+SHA512: 4cde0a7e5bc72a11488ecfd6e443741f39e1fd82e676da36b902326a0c12860d48f31ccecb78ec844815949a07c0449021c69b95079a2974aef7881b1936d268
+Homepage: https://minh-ton.github.io
+Description: iOS 9 Lockscreen Music Player!
+Name: NineMusic
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.ninemusic
+Icon: https://minh-ton.github.io/repo/icons/NineMusic/Icon.png
+
+Package: me.minhton.nineunlock
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: MinhTon
+Installed-Size: 872
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/me.minhton.nineunlock_1.0.3_iphoneos-arm64e.deb
+Size: 495564
+MD5sum: e1149a4d7771215f5192e56bf5a8076e
+SHA1: 7566ca0870cb883ad26db2a332c5c7058567d0ac
+SHA256: e93c3ea39dfcc15f3e69069cded781d69ba04e5bfa38bdbb4186a45d25d4aa34
+SHA512: 5190cd42f21bc80768a72c65dde231c136fd77edd43fa4652c5d5e91ddc002952b220f7c09d92d37b355abf256fa437ad1970e5d451007f6182a8f28889d99c1
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 style "Slide To Unlock" to iOS 13!
+Name: NineUnlock
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.nineunlock
+Icon: https://minh-ton.github.io/repo/icons/NineUnlock/Icon.png
 
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64e
@@ -19470,6 +19788,47 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 Depiction: https://chariz.com/get/veza
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1132
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/Rootless/com.arya06.nappytime14_1.1.2_iphoneos-arm64.deb
+Size: 708324
+MD5sum: 24448750282d1b84f05446abad093909
+SHA1: 48d969441f956974d49a3ed18f47975511b5b31b
+SHA256: e33a5d54e53a8bd6b12a19ae20fb64be84fafd1a2a58a31d864812f2ca2f638d
+SHA512: f1fb65354ec7c6b1409374e600b03cdb667ad76d3bccc8a20752e33a5788875b4a1819ccb0d4346d7c725c2221a88b9f7a4283c142aa25c679fde7879f9d6ef2
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.snooze++
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.arya06.snooze++_1.0.1_iphoneos-arm64.deb
+Size: 19992
+MD5sum: db11a9f2d2bc03ec456f616cf5d7d4ae
+SHA1: 6320e0077bcfc2f4426242e146a18131e85aaece
+SHA256: a490657f9c143ff3272734702bf32b75ce6337ba583cca1f926eeeb834dc97d6
+SHA512: be10d2e8c3706771473f52dba3aa461831600ef5725b62a52b1aa5dc83f8a1b43fc067e65f770b8af39bddfa23607c46777d1113b0b79e6769b967d5a9588d3d
+Description: Custom snooze times for your alarms, right in the clock app.
+Name: snooze++
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.snoozepp
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.snoozepp/depiction.json
+Icon: https://raw.githubusercontent.com/arya1106/repo/main/assets/snoozepp/icon.png
 
 Package: com.asterix.digitalbattery13
 Architecture: iphoneos-arm64
@@ -24524,6 +24883,25 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nicho1asdev.reachtolockx
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: nicho1asdev
+Installed-Size: 324
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nicho1asdev.reachtolockx_1.0_iphoneos-arm64.deb
+Size: 16440
+MD5sum: 498721edb252676b8a02586b7bde4bbf
+SHA1: b84a1544452f219ab1129a9dd1a31bf13e0017fe
+SHA256: 0c033c95c6d9622d316c5ef80f7c4bf07ec775bbd1d1a008a84e0b510cbb9e64
+SHA512: d8bb024d462b8c37fe5a2b05b73418aa740828ead1b1afee675d61048e582664d0d8e22519e3eab621361080cefd20ceea890eaeb1d5a1bae7dfbde9a6c0cb36
+Description: Replaces the reachability gesture to lock the device instead. @itsnicho1as on Twitter.
+Name: ReachToLockX
+Author: nicho1asdev
+Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.reachtolockx
+Icon: file:///Library/PreferenceBundles/ReachToLockXPrefs.bundle/icon.png
+
 Package: com.nightwind.cephei-compat
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -25824,6 +26202,26 @@ SHA512: 889664b666bd6d625fb10b5204b6f5154a462b40abf0e9bbf651478643bae4952e1cedfb
 Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
+
+Package: com.shiardev.dangerous
+Architecture: iphoneos-arm64
+Version: 2.1
+Priority: optional
+Section: Themes
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: firmware (>= 7.0)
+Conflicts: com.shiarahmed.dangerous
+Replaces: com.shiarahmed.dangerous
+Filename: ./debians/Rootless/com.shiardev.dangerous_2.1_iphoneos-arm64.deb
+Size: 1125696
+MD5sum: 5ea2d97a2ac27dab44b829f55c546a3d
+SHA1: 704ed7d0ac9af1133fdef468bddbc8e78150068d
+SHA256: 78d7a4da371b400b9f36d479e7248875457c43bb265c6ef2c2f27723f597b955
+SHA512: c07bc685762111c854184c9cbace58bcc32fb6265e14e80d679b53f2363b95382f0a2b3bd7e01b3f78f58a5d22490630303ef20a50477ff4c4c0156d4e0def56
+Description: New Theme. Beautiful. Creative. Enjoy it.
+Name: Dangerous
+Author: ShiarDev <shiardev@icloud.com>
+dev: ShiarDev <shiardev@icloud.com>
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm64
@@ -27328,6 +27726,40 @@ Name: BatteryPercent
 Icon: https://repo.ploosh.dev/assets/batterypercent.png
 SileoDepiction: https://repo.ploosh.dev/meta/batterypercent.json
 
+Package: dev.quiprr.redditna
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: quiprr
+Installed-Size: 280
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/dev.quiprr.redditna_1.0.0_iphoneos-arm64.deb
+Size: 3524
+MD5sum: bd47d1fb04c210f0eef4f783a0b3f83b
+SHA1: b086bdda83d543d3f4c6ba01fbaba008d7d1ae7f
+SHA256: cf8f1acc45168f39a1bec757d0b0f16cb8b39bbc93333d6f498d827249a79b06
+SHA512: 5b2f867e7f2ebae1292e4bb0fd5924f85593ca0e6886d23af4ed807ea907efb1235c9209d46c070edf4a5ecab47081f58ec8470aa51b30877f750d9a31381970
+Description: An 8 line tweak to remove Reddit ads.
+Name: RedditNA
+Author: quiprr
+
+Package: dev.quiprr.twitterna
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: quiprr
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/dev.quiprr.twitterna_1.0.1_iphoneos-arm64.deb
+Size: 4844
+MD5sum: 80f8a4ef32f333579fdac9116e08efe5
+SHA1: b84ab30f643d96bcd36d8bceec6f6c3dbb0bc866
+SHA256: d30766ef0620627886eab6283d5b334813ba90009c432c084b8440c97ee66a6e
+SHA512: 9f13bb869d15e68e3c5b97ef1d39c020947ab7a525e475c97522a2eda4bdc64c189acae84f136b3e97c2560d8ee2a7451097dd3cdfeb59824b5bb453c8020235
+Description: A no-bullshit and tiny tweak to remove ads on the Twitter app.
+Name: TwitterNA
+Author: quiprr
+
 Package: dev.ry7yy.jedbo
 Architecture: iphoneos-arm64
 Version: 1.0.0-15+debug
@@ -28048,6 +28480,47 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
+
+Package: me.minhton.ninemusic
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MinhTon
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, com.golddavid.colorflow5
+Filename: ./debians/Rootless/me.minhton.ninemusic_1.0.0_iphoneos-arm64.deb
+Size: 376236
+MD5sum: 798c7b47c22ba68c3f3a196d27320c71
+SHA1: d7ceb4177344c36bc8fbf28c8ccf502fc5545eca
+SHA256: 4a6d51a61d4f8217f77d643430ed17c4aae04d6608c1b1bc15129911c562e92e
+SHA512: 02e32f9b553051239b7eec4f94d62a7e702a5465eff8e5943992e44b57c7bdbce357faae32580db9c48d4485b7a2b527b2e4cf5838a040dfcd771c8b67b06185
+Homepage: https://minh-ton.github.io
+Description: iOS 9 Lockscreen Music Player!
+Name: NineMusic
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.ninemusic
+Icon: https://minh-ton.github.io/repo/icons/NineMusic/Icon.png
+
+Package: me.minhton.nineunlock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: MinhTon
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/me.minhton.nineunlock_1.0.3_iphoneos-arm64.deb
+Size: 493984
+MD5sum: 8926a496e5c2928703e88792f6d9b697
+SHA1: 195bdc2c9872b05f7c5dc17e4bdac38710286ece
+SHA256: 91ba0d888adc697436aae376aade6f7953b3a49038ac4599fe9de6b27bcb7332
+SHA512: 2a5507c34dc734ec414bb9b60e9cb834957e5ad7254ed5a1d4be308fdd716c6cd81a892329c16175dc0626495eead19723e80c7ffbd4c177076e360daba8cd3f
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 style "Slide To Unlock" to iOS 13!
+Name: NineUnlock
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.nineunlock
+Icon: https://minh-ton.github.io/repo/icons/NineUnlock/Icon.png
 
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64
