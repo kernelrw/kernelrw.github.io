@@ -3229,6 +3229,24 @@ Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
 
+Package: com.imkpatil.callblocker
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.imkpatil.callblocker_2.0.3_iphoneos-arm.deb
+Size: 51616
+MD5sum: 5969fa8d11c78991b22ccc84241a2a2d
+SHA1: 34eb8286c62ae6739c26159db9fd2ae164787613
+SHA256: f5750a71bcaaea6fd18c8c52ee1d3c0d69f80538a0e838b0bf077b936628f9f4
+SHA512: 7c9fa9ca063bb58f3475a0bce620388fbb80ea690aea5ba15454df624208ad882e0f2a9e16912788f78cfdc08241a5d2d339d5ff2482d20fad3d36a53db3a00d
+Description: Block annoying Callers!
+Name: CallBlocker
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/CallBlocker/icon.png
+
 Package: com.initwithframe.velvet
 Architecture: iphoneos-arm
 Version: 1.5.1
@@ -11537,6 +11555,25 @@ SHA512: afee8229dc490ba87678aea7f867df092bdc240fcc1feb335469b956234d08d38aa6ea27
 Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
+
+Package: com.imkpatil.callblocker
+Architecture: iphoneos-arm64e
+Version: 2.0.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.imkpatil.callblocker_2.0.3_iphoneos-arm64e.deb
+Size: 59570
+MD5sum: 3a4b864ef546f61e9a43eeb094ab49a3
+SHA1: fc215e53fc743b7eb8f6a76e437a3c0c8b9c7800
+SHA256: aad9080af67d5a7efd599724a22fe7c02cbe8553df3258e0f8a56ccc490511f8
+SHA512: 2799e4775205fd15629fdaf72b4a7654bbf22ab6eb5243e4df88af06027221b9b5299106a0fd6c89939d847b94c93ab0d75e9ff063de9154dd8e6235221063ae
+Description: Block annoying Callers!
+Name: CallBlocker
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/CallBlocker/icon.png
 
 Package: com.imkpatil.ezswipe
 Architecture: iphoneos-arm64e
@@ -22385,6 +22422,24 @@ SHA512: 2d359f85b2ffeaebbb72779b1c405d98ff11c89d7dfa8939c5d10061a093696c3264fa1e
 Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
+
+Package: com.imkpatil.callblocker
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.imkpatil.callblocker_2.0.3_iphoneos-arm64.deb
+Size: 52284
+MD5sum: 4b2a4c4d464aefe7383c120611436b13
+SHA1: f9ab58f4926dfcf98fc9e1d0c3d6073ad8417573
+SHA256: c1b32c8b1e5398aae3960a9def85a5074218d08cdf08c1934b83cad95a977202
+SHA512: 4752002a7ea96f1168c77060404cf8ad1670a80defd7319560ff259ae7de3923f1fc3dae292ae644fa49d18e017cf1fbac179f197c4d7e8de3edd60db1f952e5
+Description: Block annoying Callers!
+Name: CallBlocker
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/CallBlocker/icon.png
 
 Package: com.jacobcxdev.fbspnosor
 Architecture: iphoneos-arm64
