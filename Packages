@@ -6398,6 +6398,29 @@ Name: TrickFi
 Author: TheRasPiGuy
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgithub.com%2FMTACS%2FSettingsIP%2Fraw%2Fmaster%2Fsipprefs%2FResources%2Ficon%25403x.png&s=180x180&f=webp
 
+Package: com.tomaszpoliszuk.alertcontroller
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 350
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.tomaszpoliszuk.alertcontroller_1.4.2_iphoneos-arm.deb
+Size: 74296
+MD5sum: 7a2e3d08d8efcf2fe99658c25fb9a39b
+SHA1: 4c3e823904a2ce785c84f4c45a9441225df83f0d
+SHA256: 434e31fbbde9ef49293f6fea582d537ec16a734b9f6f296df77dc0fcb785662c
+SHA512: b8f96b88fbb8ba90a41ec6ca75cd72953be1ae95400f3774f3790894ea8ecde813c266599e25e3cd082d7390085480915d91cd2dedd1d6fe6c2303847c1878e7
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
+Description: Alert Controller - Control UX and UI of your Alerts and Action Sheets
+Tag: purpose::extension
+Name: Alert Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/AlertControllerSettings.bundle/icons/AlertController@3x.png
+
 Package: com.tonykraft.persistentwifi
 Architecture: iphoneos-arm
 Version: 1.2.4
@@ -15913,6 +15936,30 @@ SHA512: f542b786e7b8e6ab16d5a3cea0a5c1a643ae945de7e091603db0dfdaeed323314e04703c
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
+
+Package: com.tomaszpoliszuk.alertcontroller
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 350
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.tomaszpoliszuk.alertcontroller_1.4.2_iphoneos-arm64e.deb
+Size: 81450
+MD5sum: b9f247af8df7171f05cf421f6f60565f
+SHA1: ba71d26a3396668cacd4cda64295e9b54528cf59
+SHA256: ee7dba7709c2e3cc0e590b87bc3c8554f3dabeb6b3b4ca623a97af807a50925f
+SHA512: d5cced5dce4ae8c26ace7c0001392b688713ea0ac46d785f40d37525e0aaa73d14f9548d261d8aba20916463896d1e005cc4b2d807ac326e51d0c5208b861b72
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
+Description: Alert Controller - Control UX and UI of your Alerts and Action Sheets
+Tag: purpose::extension
+Name: Alert Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/AlertControllerSettings.bundle/icons/AlertController@3x.png
 
 Package: com.tomaszpoliszuk.applibrarydisabler
 Architecture: iphoneos-arm64e
@@ -26346,6 +26393,29 @@ SHA512: c8e45cd46632795e2c3c4d7c5fbdeadfb7406ad73b1cad4830969857c1536f1574ed5ee2
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
+
+Package: com.tomaszpoliszuk.alertcontroller
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 350
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.tomaszpoliszuk.alertcontroller_1.4.2_iphoneos-arm64.deb
+Size: 74504
+MD5sum: c69eb915a39dafce155f1e09fe6fdd5f
+SHA1: 92ff26e8d64004a9c1389c1602e84aa5c94001ba
+SHA256: daf60c62cb17e2692a970e4b44c2734b0048535fe980b2c59da6ec18ea567de9
+SHA512: 22372f50e8481995785406ec58fc6629f83a329ed363ca33142783abc7aa64bb05cba4bfc077d1a66f2fca65117088c8268b16913c535a775616e4bf7307dcca
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
+Description: Alert Controller - Control UX and UI of your Alerts and Action Sheets
+Tag: purpose::extension
+Name: Alert Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///var/jb/Library/PreferenceBundles/AlertControllerSettings.bundle/icons/AlertController@3x.png
 
 Package: com.tomaszpoliszuk.magsafecontroller
 Architecture: iphoneos-arm64
