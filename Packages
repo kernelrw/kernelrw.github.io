@@ -5090,6 +5090,23 @@ Tag: role::hacker
 Name: rootless-patcher
 Author: Nightwind and staturnz
 
+Package: com.nightwind.rotatemyapps
+Architecture: iphoneos-arm
+Version: 0.0.1-5+debug
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nightwind.rotatemyapps_0.0.1-5+debug_iphoneos-arm.deb
+Size: 3538
+MD5sum: f400a44668e99cf1ff0644cefd781732
+SHA1: 5af77efde0ec0923a1f8a88d83052c9fe7d10861
+SHA256: 90db199771cad094b1d013f5e7f1913e7e72e9cb79556187e31b9aa37670fd94
+SHA512: 3ae1d34bfb81ae5254c2a542cdd0208819d498a72dd7c074f3a2c5bbc31c39a50a691b2cc968f78b70d10cdc7c7c528ef6c5759ceefc25567c40c45b5fbdef59
+Description: Forcefully rotate your apps!
+Name: RotateMyApps
+Author: Nightwind
+
 Package: com.nightwind.settingswifipassword
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -13863,6 +13880,62 @@ Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
+Package: com.nightwind.matchingiconlabels
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nightwind.matchingiconlabels_0.0.1_iphoneos-arm64e.deb
+Size: 4934
+MD5sum: 192c94469576bcd3eb522dda2efd17ca
+SHA1: a4c3891a59203011c64cd584b1b2c2ce27f01eb6
+SHA256: a08c7edeb388c27381f0c0603ea270b3ada2f514ecdfbfdd3b5df2245a451469
+SHA512: b990f51cb6075fe1b291ec9be1e15fcc363921649e19be50dd6060bd4cb117d4a382968248794dea0134d202e1dbeb76552140d8faa8a47e924644228696a569
+Description: Match icon labels colors to their icons.
+Name: MatchingIconLabels
+Author: Nightwind
+
+Package: com.nightwind.nobuttonorswipetocamera
+Architecture: iphoneos-arm64e
+Version: 1.0.0-2+debug
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nightwind.nobuttonorswipetocamera_1.0.0-2+debug_iphoneos-arm64e.deb
+Size: 6950
+MD5sum: cf6356a9c1e8acbd202e16fc1e837132
+SHA1: 71673b1df43e3176324156248104d1208ad16793
+SHA256: 18bf53a1b218f16d65bd968f6ad21b785c7ac5862e494422765a972ef0af5c64
+SHA512: 7e5ff3eeaba0d955dde6dd69071b009bbc0614e531391ed4f254b8def93202c480535d736d61765438b651d098d41a385d67a1989a49625c1f0f3ee0b7d46d86
+Description: Disables the button to the camera app on the lockscreen as well as the swipe gesture.
+Name: NoButtonOrSwipeToCamera
+Author: Nightwind
+Depiction: https://nightwinddev.github.io/depictions/?p=com.nightwind.nobuttonorswipetocamera
+
+Package: com.nightwind.nonewtermnavbar
+Architecture: iphoneos-arm64e
+Version: 1.0.0-3+debug
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nightwind.nonewtermnavbar_1.0.0-3+debug_iphoneos-arm64e.deb
+Size: 4780
+MD5sum: 095cbc47131da6ac8d5538e9262e5ca0
+SHA1: 664bf1185fe80e72b719522f808fd1e9b8240c52
+SHA256: 58f29cbbf4aa04df695b69029d0a7317b7c86582814215614dc0f053e35780f6
+SHA512: 50c7a2e2c381361b2d73d0d9e417a29ca3a98b38c4e1fce84c177d95d220514bc458c75b1728ee63dc07a205d049315ed836121eaa34cc6b2ba83c6fe2f9f950
+Description: Hide the nav bar in the NewTerm app.
+Name: NoNewTermNavBar
+Author: Nightwind
+Depiction: https://nightwinddev.github.io/depictions/?p=com.nightwind.nonewtermnavbar
+
 Package: com.nightwind.powersettings
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -13900,6 +13973,24 @@ Description: A CLI rootful to rootless patcher.
 Tag: role::hacker
 Name: rootless-patcher
 Author: Nightwind and staturnz
+
+Package: com.nightwind.rotatemyapps
+Architecture: iphoneos-arm64e
+Version: 0.0.1-5+debug
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nightwind.rotatemyapps_0.0.1-5+debug_iphoneos-arm64e.deb
+Size: 4462
+MD5sum: bbe539006c3ea1f3bc838a01dae6c442
+SHA1: 808d43dc5efc3d45e4f8e41969a47a3f49d21722
+SHA256: facb88012dec63da0473e3682918542b5db2515d7677d5741f9175f7c7db8793
+SHA512: 4fce9e81c42a0fc699f19fa36ac9639d0b5b6633af781a36db11d78b664be4889c5226b4d98a09da134a3c64f927e9edb239850fab4d9bb0cba60b39d5f1eda1
+Description: Forcefully rotate your apps!
+Name: RotateMyApps
+Author: Nightwind
 
 Package: com.nightwind.visionsearchpill
 Architecture: iphoneos-arm64e
@@ -25043,6 +25134,42 @@ Name: MusicPlayerColor
 Author: Nightwind
 Icon: https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon.png?raw=true
 
+Package: com.nightwind.nobuttonorswipetocamera
+Architecture: iphoneos-arm64
+Version: 1.0.0-2+debug
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nightwind.nobuttonorswipetocamera_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 42508
+MD5sum: 141bc1261eee90df472a001cf9843d6b
+SHA1: c202b8883274730be4e0dc9437920ddce68a70a7
+SHA256: 8d4ea775eb1250fbe3d3844f91f24643d722accc4aa25307799122410a9182a6
+SHA512: fd2dfaa5fe3c5043bd2892febb7037f404807907ed0625d1aa6f96a4cf138d2533cc3705a5242343cc11958dcb907cf63f3aef118b5223cd3e656e87062fcaad
+Description: Disables the button to the camera app on the lockscreen as well as the swipe gesture.
+Name: NoButtonOrSwipeToCamera
+Author: Nightwind
+Depiction: https://nightwinddev.github.io/depictions/?p=com.nightwind.nobuttonorswipetocamera
+
+Package: com.nightwind.nonewtermnavbar
+Architecture: iphoneos-arm64
+Version: 1.0.0-3+debug
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nightwind.nonewtermnavbar_1.0.0-3+debug_iphoneos-arm64.deb
+Size: 4192
+MD5sum: e393931f635246f51f31b1fe644bf6e4
+SHA1: 8462d034779d38cbb2ddea51765190d9be3693c4
+SHA256: f2a2935e903b1bc8e5020e64ab6d5a75b0bfce383d443c13a347b8e1aa051d2d
+SHA512: 73ffed5c0ed2e3c71276d18effdc221232f6a1d4fb9ca0026bfe23b9ed252318b26f1df7b3e3fd1a6db1bbe2c26ab88f2a2a4fa53383ecab57be163f67b989b5
+Description: Hide the nav bar in the NewTerm app.
+Name: NoNewTermNavBar
+Author: Nightwind
+Depiction: https://nightwinddev.github.io/depictions/?p=com.nightwind.nonewtermnavbar
+
 Package: com.nightwind.rootless-patcher
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -25061,6 +25188,23 @@ Description: A CLI rootful to rootless patcher.
 Tag: role::hacker
 Name: rootless-patcher
 Author: Nightwind and staturnz
+
+Package: com.nightwind.rotatemyapps
+Architecture: iphoneos-arm64
+Version: 0.0.1-5+debug
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nightwind.rotatemyapps_0.0.1-5+debug_iphoneos-arm64.deb
+Size: 3464
+MD5sum: b56759eda96c91461b83b2910d259083
+SHA1: b625295239235e02d682eb07e11f262d90627d6a
+SHA256: d952404dbd995c04bbcdf7318d4c5ae4e82bba81cc1115dd8dcd83d1d9513cc7
+SHA512: a43b8c648db7107cb980a4ca8b709d0dd946eece2254d969ce01da5abd7a2139c09b6d479471adaa78488b17ca4bcf6066a009005efa536a4ad428d712b8480d
+Description: Forcefully rotate your apps!
+Name: RotateMyApps
+Author: Nightwind
 
 Package: com.nightwind.settingswifipassword
 Architecture: iphoneos-arm64
