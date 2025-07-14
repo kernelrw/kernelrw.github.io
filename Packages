@@ -13926,11 +13926,11 @@ Installed-Size: 216
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Roothide/com.nightwind.nonewtermnavbar_1.0.0-3+debug_iphoneos-arm64e.deb
-Size: 4780
-MD5sum: 095cbc47131da6ac8d5538e9262e5ca0
-SHA1: 664bf1185fe80e72b719522f808fd1e9b8240c52
-SHA256: 58f29cbbf4aa04df695b69029d0a7317b7c86582814215614dc0f053e35780f6
-SHA512: 50c7a2e2c381361b2d73d0d9e417a29ca3a98b38c4e1fce84c177d95d220514bc458c75b1728ee63dc07a205d049315ed836121eaa34cc6b2ba83c6fe2f9f950
+Size: 6680
+MD5sum: 8ea01a9d0bc2c1d4ae2012ea2a29f2f8
+SHA1: d684b2c3cca31e5f6a2f53b84dcc37e6eac7136c
+SHA256: 52714d506d309c10df6a4232c2763e2002f1b1b238c85fa212fbeaebe5f3301c
+SHA512: aa76fc37c59c1d9b6d70c0090c3c2bb1f9683afd3d19d9e9d62c1a6be6bf668b0e00ef1f98f87308b8a153b9a0d28cfa4efc8f863e9d813bd6a3f2ec1be8569b
 Description: Hide the nav bar in the NewTerm app.
 Name: NoNewTermNavBar
 Author: Nightwind
@@ -25160,11 +25160,11 @@ Maintainer: Nightwind
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootless/com.nightwind.nonewtermnavbar_1.0.0-3+debug_iphoneos-arm64.deb
-Size: 4192
-MD5sum: e393931f635246f51f31b1fe644bf6e4
-SHA1: 8462d034779d38cbb2ddea51765190d9be3693c4
-SHA256: f2a2935e903b1bc8e5020e64ab6d5a75b0bfce383d443c13a347b8e1aa051d2d
-SHA512: 73ffed5c0ed2e3c71276d18effdc221232f6a1d4fb9ca0026bfe23b9ed252318b26f1df7b3e3fd1a6db1bbe2c26ab88f2a2a4fa53383ecab57be163f67b989b5
+Size: 4196
+MD5sum: 0ddb74c63e38e59797f6de85bde3d675
+SHA1: 6d916048d43a756745ce00e4dd89350de0c59b6e
+SHA256: e5ec9d04ba55011778eafecf2f342cebe25985795d866528af4751e319f94dfe
+SHA512: 58bfd807de18126b7485b2cfe0569b733656e9bb2bb0b5ae549614063a08eb9d0f85f07b59251afd1af1e3fe8567ba367b985530671ee8e3d0c4ee1f0cff0383
 Description: Hide the nav bar in the NewTerm app.
 Name: NoNewTermNavBar
 Author: Nightwind
