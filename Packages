@@ -8532,6 +8532,23 @@ Description: Ignore unwanted calls!
 Name: WAIgnoreCalls
 Author: nowesr1
 
+Package: xyz.monotrix.reachoptions
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Monotrix
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 11.0)
+Filename: ./debians/Rootful/xyz.monotrix.reachoptions_1.2.1_iphoneos-arm.deb
+Size: 16290
+MD5sum: e47d508571be06cfb2178caf5ce2c1fa
+SHA1: 2e3fd0c4548ed4345c9c700d2e22a8cfa658eed3
+SHA256: 076793cd18e28d140e74afe0f284a196aa8bdcd0c06cfec31af01a6b819f63d7
+SHA512: 873481c529dd42b807bcace3ce72543b7b01b8dad2520aee98b335d4075739cdd404958035eea921d3e300af7e16cf40591eb389f714901c8e1b4dc57f95291d
+Description: A tweak to add options to reachability.
+Name: ReachOptions
+Author: Monotrix
+
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm
 Version: 1.1.2
@@ -18898,6 +18915,24 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1728
 Name: speedtestvpn
 Author: Sopppra
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/ookla.png
+
+Package: xyz.monotrix.reachoptions
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Monotrix
+Installed-Size: 312
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 11.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/xyz.monotrix.reachoptions_1.2.1_iphoneos-arm64e.deb
+Size: 21412
+MD5sum: 7936d67c0835c2436ff41bc85a017a7d
+SHA1: d0678f35fb6a22853c5805684b3db0e50d014634
+SHA256: cda3a134efae730e1ddbd46ed6b51211b3a46f35e46565bf8e4686e408a8be42
+SHA512: 9f8b3b4ae491f7c8a39a0fdbcd3737c29b692016a1115a33620ce8fb409e346850bea55aa984e3c1393f0d106fe5e2544cee1c765893bc3568cd7e329040b469
+Description: A tweak to add options to reachability.
+Name: ReachOptions
+Author: Monotrix
 
 Package: xyz.skitty.ersatz
 Architecture: iphoneos-arm64e
@@ -29509,6 +29544,23 @@ Homepage: https://github.com/Cryptiiiic/x8A4
 Description: An all-in-one tool for firmware nonces, seeds, and downgrade support
 Name: x8A4
 Author: Cryptiiiic
+
+Package: xyz.monotrix.reachoptions
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Monotrix
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 11.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/xyz.monotrix.reachoptions_1.2.1_iphoneos-arm64.deb
+Size: 16040
+MD5sum: 5e004338ad961d6ff3e3d512016905b7
+SHA1: 736cac2c103cd7db7c6e3ef183ea467664a7e214
+SHA256: 23a4e4303726a91bcec2abf5541581ef580fb66408108920f7e5972d65ca9e8a
+SHA512: 6be023df76894398fb43a8f921f7f7050989b1e98aa37f5db5e376aa338ff83d15e93d0e68f373a28b2ee9fc834d33dc7f711e8770c1d0d82c7271c18da1fe6f
+Description: A tweak to add options to reachability.
+Name: ReachOptions
+Author: Monotrix
 
 Package: xyz.skitty.quietdown
 Architecture: iphoneos-arm64
