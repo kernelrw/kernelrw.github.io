@@ -3201,6 +3201,25 @@ Description: Ostrich VPN Premium For Free .
 Name: Ostrich VPN Premium
 Author: HW
 
+Package: com.i0stweak3r.sneakpeakk
+Architecture: iphoneos-arm
+Version: 0.0.3-3
+Section: Tweaks
+Maintainer: i0s_tweak3r
+Installed-Size: 908
+Depends: mobilesubstrate, preferenceloader, firmware (>=14)
+Conflicts: com.yourepo.i0s-tweak3r-betas.sneakpeak
+Replaces: com.yourepo.i0s-tweak3r-betas.sneakpeak
+Filename: ./debians/Rootful/com.i0stweak3r.sneakpeakk_0.0.3-3_iphoneos-arm.deb
+Size: 521800
+MD5sum: ca84378b1e5664fc2609f125a6c23a74
+SHA1: 04a2b37f6dff4080a3873434a22527f32bb2a772
+SHA256: b29c771eb588c2b058e7334f11953c38f4a002ba6d345c6d4ef4e5759a801edb
+SHA512: 569482bb7f7cedcf0921df98b3e729921c65912cae4ac8cb1b656aa0be1be37baf0081f7b7acbee24882fd777ea2e582f9129b4a2e8a790110fe68f4425a6370
+Description: Sneak a peak of your homescreen from unlocked lock screen on iPhone X (and other models) by touching the bottom, or scrolling up or down. Change date format, hide date, notifications, page dots, and more.  Tested and working on iOS 14-16.5.
+Name: SneakPeak
+Author: i0s_tweak3r
+
 Package: com.iamdega.uiscroller
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -11558,6 +11577,26 @@ Description: Ostrich VPN Premium For Free .
 Name: Ostrich VPN Premium
 Author: HW
 
+Package: com.i0stweak3r.sneakpeakk
+Architecture: iphoneos-arm64e
+Version: 0.0.3-3
+Section: Tweaks
+Maintainer: i0s_tweak3r
+Installed-Size: 908
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>=14)
+Conflicts: com.yourepo.i0s-tweak3r-betas.sneakpeak
+Replaces: com.yourepo.i0s-tweak3r-betas.sneakpeak
+Filename: ./debians/Roothide/com.i0stweak3r.sneakpeakk_0.0.3-3_iphoneos-arm64e.deb
+Size: 525324
+MD5sum: 9e7b24bef35b8c067200dcbd351f677b
+SHA1: ab16626daf832d980f52eb5ebe2efa544b53d28a
+SHA256: cf3291452dad1be6d2802914cf7c1b6bd90d79f990aacea8f0e3af41dfb85701
+SHA512: beaeb4e60313b9ea5ac67926bbf6efb744b9d8dbc096ca86b7349c18ceef5fbd9f2ed593fe46488a3ba3b50d03975cbb18524ce602ef58bdce50982ec1ab8225
+Description: Sneak a peak of your homescreen from unlocked lock screen on iPhone X (and other models) by touching the bottom, or scrolling up or down. Change date format, hide date, notifications, page dots, and more.  Tested and working on iOS 14-16.5.
+Name: SneakPeak
+Author: i0s_tweak3r
+
 Package: com.iamdega.uiscroller
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -15991,15 +16030,15 @@ Package: com.spark.sneakycamm
 Architecture: iphoneos-arm64e
 Version: 2.2.2
 Section: Tweaks
-Maintainer: Kernelrw
+Maintainer: kernelrw
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.spark.sneakycamm_2.2.2_iphoneos-arm64e.deb
-Size: 123870
-MD5sum: ad793578dab034e27f20f0b8d8ae6a31
-SHA1: bdb99d9a829a59aac77572f6f2609df5193ad794
-SHA256: b0c3c6c2c80239afb2a7912362b32bf7e0839422664a3ec40c387a8c4580c965
-SHA512: 3ad0f1f0221de1d7dd4e87c2704494a40758000bac80b35e4d606ff08d7ca4d32fe04f9618c837e7ee4a94adf465d86022f255297d2d7d802fad9931cfbaf21a
+Size: 106536
+MD5sum: 64a10f2cdcbff2b1ae8e82075749ab83
+SHA1: 817ce21aa3f0af3f23b6e8d399bc211a19258c8b
+SHA256: fbf723c05ecd501d9df2cbd36c0e9181ed7de36cc6c5dca4cf93d39046ae4c8a
+SHA512: 82e35a9685af6ce19fde477ec236433ee2d58159b1ff4546e492a1d378cf6dbd269aed1cdbd3adccda4794a0be09c4c88fe7176185f024b350d569666fbe35da
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Name: SneakyCam
 Author: Spark
@@ -22946,6 +22985,25 @@ SHA512: 7ab184fc1b9448d61fb247307d6f667a778f9b49750c9713b3f1e64127d0b0ee40b7207a
 Description: Automatically turn on low battery mode on lock screen .
 Name: LowPowerSleep
 Author: Hoangdus
+
+Package: com.i0stweak3r.sneakpeakk
+Architecture: iphoneos-arm64
+Version: 0.0.3-3
+Section: Tweaks
+Maintainer: i0s_tweak3r
+Installed-Size: 908
+Depends: mobilesubstrate, preferenceloader, firmware (>=14)
+Conflicts: com.yourepo.i0s-tweak3r-betas.sneakpeak
+Replaces: com.yourepo.i0s-tweak3r-betas.sneakpeak
+Filename: ./debians/Rootless/com.i0stweak3r.sneakpeakk_0.0.3-3_iphoneos-arm64.deb
+Size: 522720
+MD5sum: b0de2d78593056dc2befed3a85bc3910
+SHA1: c4d1af0b3d44840261713246600385ca26d7f072
+SHA256: 776393294ad02ef6b5fea9df6234d74df91bb77b45e6c4dc22faccb336252851
+SHA512: 286c8f636eae4021fc09a6c61f6bd6753b804b4613bdf9489cb0fc5a8f88228e8b9c13d22932e3bf2a4702b430b3c2298d762dd8265def99e9f6710722458f1c
+Description: Sneak a peak of your homescreen from unlocked lock screen on iPhone X (and other models) by touching the bottom, or scrolling up or down. Change date format, hide date, notifications, page dots, and more.  Tested and working on iOS 14-16.5.
+Name: SneakPeak
+Author: i0s_tweak3r
 
 Package: com.iamdega.uiscroller
 Architecture: iphoneos-arm64
