@@ -6254,6 +6254,23 @@ Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
 Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
+Package: com.spark.sneakycamm
+Architecture: iphoneos-arm
+Version: 2.2.2
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.spark.sneakycamm_2.2.2_iphoneos-arm.deb
+Size: 106228
+MD5sum: 0e88fc4b0be0eec9918504fc738cab51
+SHA1: 3726b9339411bbdc02d219fb46ae236f84a87894
+SHA256: 3fd3a63ce95cb0ab79754498a62b37173889b76d8dd2732aac7ccd20386d92e9
+SHA512: 822ca1538b17e14a38f00437428c97cb15baa43f8d7d7a63d16d56242543ba98719f66f46f847e49c593512e979eb651ba763fe89cc4aa58ab7e5a72b8dc3ff4
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Name: SneakyCam
+Author: Spark
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fsparkdev.me%2Fpackage-logo%2Fcom.spark.sneakycam&s=180x180&f=webp
+
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm
 Version: 1.0.7~Beta3
@@ -15969,6 +15986,24 @@ SHA512: 3416204d8dc80c40e9d52cf7b02881e1f3fc7ab358171156fbb73530f02d79cf3b018181
 Description: Prevent your device from Auto-Locking when in low power mode
 Name: NoLowPowerAutoLock
 Author: Spark
+
+Package: com.spark.sneakycamm
+Architecture: iphoneos-arm64e
+Version: 2.2.2
+Section: Tweaks
+Maintainer: Kernelrw
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.spark.sneakycamm_2.2.2_iphoneos-arm64e.deb
+Size: 123870
+MD5sum: ad793578dab034e27f20f0b8d8ae6a31
+SHA1: bdb99d9a829a59aac77572f6f2609df5193ad794
+SHA256: b0c3c6c2c80239afb2a7912362b32bf7e0839422664a3ec40c387a8c4580c965
+SHA512: 3ad0f1f0221de1d7dd4e87c2704494a40758000bac80b35e4d606ff08d7ca4d32fe04f9618c837e7ee4a94adf465d86022f255297d2d7d802fad9931cfbaf21a
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Name: SneakyCam
+Author: Spark
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fsparkdev.me%2Fpackage-logo%2Fcom.spark.sneakycam&s=180x180&f=webp
 
 Package: com.spark.snowboard.dock
 Architecture: iphoneos-arm64e
@@ -26705,6 +26740,23 @@ Description: Super lightweight IPC messaging library
 Tag: role::developer
 Name: libSparkMessage
 Author: Spark
+
+Package: com.spark.sneakycamm
+Architecture: iphoneos-arm64
+Version: 2.2.2
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.spark.sneakycamm_2.2.2_iphoneos-arm64.deb
+Size: 106608
+MD5sum: 466787135a981f04c766559c14e0e9a4
+SHA1: 2e7fa7c7d49c605f472df1bf31c22176e5f3be2d
+SHA256: 03d0a72d3ab6e145723b5ef55abf8de52074e686bdfc73cff6c3c9869d982cce
+SHA512: 42db32dc0d4caa390b06e43d63227eb5a25d4306b81f66dee95127316a521f42e1117150e67aad97ae2b2cbfd7fd3fbf7f1579cf658676f7f00d88b2213ca5ef
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Name: SneakyCam
+Author: Spark
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fsparkdev.me%2Fpackage-logo%2Fcom.spark.sneakycam&s=180x180&f=webp
 
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm64
