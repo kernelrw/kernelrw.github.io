@@ -8024,6 +8024,23 @@ Description: Configure the frame of your status bar
 Name: Frame
 Author: waruhachi
 
+Package: moe.waru.googletranslatedownload
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.googletranslatedownload_1.0.0_iphoneos-arm.deb
+Size: 9068
+MD5sum: e58f7134a2d4d4f4c4f01c8fa9cf3462
+SHA1: b70e9b970c2eef1f0c7f4087a41fe59c9635b928
+SHA256: b7eac757f012b649b309383978c1fdff18b98c8a3e8683db04b02f6f332a6500
+SHA512: 2e161043fe9d30c3619db3d8c86a298eaa097db0c8fb696ec22213e00a11dfa887c9ee5609fb3aa9ab0be1b0fe9cf9f71da2f421d09f00079d697c0283878d1f
+Description: Download translated images from Google Translate
+Name: GoogleTranslateDownload
+Author: waruhachi
+
 Package: moe.waru.iossecuritysuite
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -18052,6 +18069,23 @@ Description: Configure the frame of your status bar
 Name: Frame
 Author: waruhachi
 
+Package: moe.waru.googletranslatedownload
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.googletranslatedownload_1.0.0_iphoneos-arm64e.deb
+Size: 9112
+MD5sum: c0e8719add163250417d029cd86dbf6d
+SHA1: 8126f2e169a51032726daff1f83348b2fa13af53
+SHA256: 0e03f5ef78cc675f88513f9e30e10f7c0b6d7d1fee5e5c1cfebb72b5dbd5cff9
+SHA512: 692fa3bf955eb807015197c0a38ead349950b3c6dd29a4a67e75951134435f1027ed225afbbb067599bc873d4247f1cbdbbde1f19903cb2c79e575f3a04a2fb3
+Description: Download translated images from Google Translate
+Name: GoogleTranslateDownload
+Author: waruhachi
+
 Package: moe.waru.iossecuritysuite
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -26803,14 +26837,14 @@ Package: com.spark.sneakycamm
 Architecture: iphoneos-arm64
 Version: 2.2.2
 Section: Tweaks
-Maintainer: Kernelrw
+Maintainer: kernelrw
 Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.spark.sneakycamm_2.2.2_iphoneos-arm64.deb
-Size: 106608
-MD5sum: 466787135a981f04c766559c14e0e9a4
-SHA1: 2e7fa7c7d49c605f472df1bf31c22176e5f3be2d
-SHA256: 03d0a72d3ab6e145723b5ef55abf8de52074e686bdfc73cff6c3c9869d982cce
-SHA512: 42db32dc0d4caa390b06e43d63227eb5a25d4306b81f66dee95127316a521f42e1117150e67aad97ae2b2cbfd7fd3fbf7f1579cf658676f7f00d88b2213ca5ef
+Size: 104732
+MD5sum: ef5836f1ce0e1879694fc023df38afa1
+SHA1: c789860ba03ea0cbe735d3d5782ff0fd3a33b8a4
+SHA256: 7e18b6d6e503d7fb00d193e26896cd861764f09fdaf0b159b9394b865a05609e
+SHA512: 29a28eecb85fb97d2d6aec0721e4f24af1a6f857ec4b902f538b7db168716042b7662b26f8bd0d523c83e28d52cfc5dbf8560292db4e300f0c14c49dae9ff3f3
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Name: SneakyCam
 Author: Spark
@@ -29004,6 +29038,23 @@ SHA256: 1e1c35149ec89feea772043829f667ebfcd232b84f12424c48148ac09a6cf97c
 SHA512: 20d7a0c609d3921c97db7b899c6f44622e6227625a034ecfc3614ee75e2107779f2fcb7e68ef4ff4c99d3791d298ed8b1edc704696fae4e7d337940a0eed89b5
 Description: Configure the frame of your status bar
 Name: Frame
+Author: waruhachi
+
+Package: moe.waru.googletranslatedownload
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.googletranslatedownload_1.0.0_iphoneos-arm64.deb
+Size: 9136
+MD5sum: abbd7a070aa941e5e1791a6c0226924c
+SHA1: 4d491570f3c434e30e38b7f364a12a4c53018122
+SHA256: bfd41cb196210f70a8b2457064e740739c2d138f616b40b744a1f1f6ae0109a2
+SHA512: 106e3544e97cc392d35d29541a3b6230d852a0ae82da89ec8b8bfe55c74bc86612cef4c098893f00f4344c63fa6b27aaad0f71dd3da94a9d892859bfd8f78312
+Description: Download translated images from Google Translate
+Name: GoogleTranslateDownload
 Author: waruhachi
 
 Package: moe.waru.iossecuritysuite
