@@ -3571,6 +3571,22 @@ Name: Rosemary
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
 
+Package: com.korboy.filzaswipeselect
+Architecture: iphoneos-arm
+Version: 0.0.1~beta1
+Section: Tweaks
+Maintainer: Korboy
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.korboy.filzaswipeselect_0.0.1~beta1_iphoneos-arm.deb
+Size: 8804
+MD5sum: f50c98d885ea17c0d2cd6f1a84d7bb3d
+SHA1: db1825aa8340c533ec2d12653f7f2d0028a1324b
+SHA256: bada0326538906faca7da8cb6aae120d8330269ca49f14f8734c3b73e29966d7
+SHA512: 5c64391ee2c6df7062be86962e1d9b17a0fdeaf3f2f2d89e9f4283a822964ab5f180ea14f02b032b2c442cea4493449f696b818393dd534c9d9faa6a87cd56a2
+Description: Swipe to Select inside Filza .
+Name: Filza Swipe Select
+Author: Korboy <korboybeats@gmail.com>
+
 Package: com.lenglengyu.bypasscc
 Architecture: iphoneos-arm
 Version: 1.0.7
@@ -7972,6 +7988,23 @@ Description: Configure the frame of your status bar
 Name: Frame
 Author: waruhachi
 
+Package: moe.waru.iossecuritysuite
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.iossecuritysuite_1.0.0_iphoneos-arm.deb
+Size: 2920
+MD5sum: 3547b60a06eb2152b4171f1bb78f5f9e
+SHA1: d7f69ccb75f2594bf3ac5d3b1d711d75efa520c9
+SHA256: 4574938212e132089294ee70b4ac3bdecbcb9e117229e01254576aafcea33a3f
+SHA512: 46a0fb068457d56733b7ac6f775113a9b2834abef275184c8f8c602215d834957a0ddaee09dc5a800f948db9c62831226f8b63c4fe173c51fdc854a6a44da8ce
+Description: Bypass iOSSecuritySuite jailbreak detection
+Name: iOSSecuritySuite
+Author: waruhachi
+
 Package: moe.waru.jikan
 Architecture: iphoneos-arm
 Version: 1.0-1+debug
@@ -12266,6 +12299,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifiqrDp
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Name: WiFiQR
 dev: kingpuffdaddi
+
+Package: com.korboy.filzaswipeselect
+Architecture: iphoneos-arm64e
+Version: 0.0.1~beta1
+Section: Tweaks
+Maintainer: Korboy
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.korboy.filzaswipeselect_0.0.1~beta1_iphoneos-arm64e.deb
+Size: 11472
+MD5sum: e043c109ca0d84cbb1a3746d18638735
+SHA1: c2839ccde457248ba31a17bae366021bf707a2ce
+SHA256: b277d8835b709a234c54764fb15d6b4832425f93f00488a2137b95423ba467dc
+SHA512: d45c350bf64461fee8335bc230c2de03904c14060c2ada636f99770aadde5d2447a8567449c5e277921f878db875efb90144877952324be1dddf854b6916bde9
+Description: Swipe to Select inside Filza .
+Name: Filza Swipe Select
+Author: Korboy <korboybeats@gmail.com>
 
 Package: com.korboy.safetoggle
 Architecture: iphoneos-arm64e
@@ -17928,6 +17978,23 @@ Description: Configure the frame of your status bar
 Name: Frame
 Author: waruhachi
 
+Package: moe.waru.iossecuritysuite
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.iossecuritysuite_1.0.0_iphoneos-arm64e.deb
+Size: 2946
+MD5sum: 42b67aa18ea48ae581897a905d2a1942
+SHA1: 7f0b3429f4511663dbf246b570ecb633927f9831
+SHA256: ed4f3e3787c6c56dc4570a5b61bc2563de9151eb8ae6549fa7fb34b6b354218f
+SHA512: b2cf09ab15dce30fc761fbdb5da7c3d61f5e91cdb0c1bd08c3726178887d69761d8682c01fbab2842a045da8b32b3b5bf24a5688b3ce70057ca35daafc239392
+Description: Bypass iOSSecuritySuite jailbreak detection
+Name: iOSSecuritySuite
+Author: waruhachi
+
 Package: moe.waru.jikan
 Architecture: iphoneos-arm64e
 Version: 1.0-1+debug
@@ -23235,6 +23302,22 @@ Description: Save All Your Installed Debs With Only A Single Click .
 Name: TweakTool
 Author: Ketty Allen
 Icon: https://axs66.github.io/repo/icon/TweakTool.png
+
+Package: com.korboy.filzaswipeselect
+Architecture: iphoneos-arm64
+Version: 0.0.1~beta1
+Section: Tweaks
+Maintainer: Korboy
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.korboy.filzaswipeselect_0.0.1~beta1_iphoneos-arm64.deb
+Size: 8684
+MD5sum: 6af3ef19012afdebec21008da24dce60
+SHA1: dcae8451d2f63a7355550fed768b430dfc1d6393
+SHA256: 7a4dc0647bc900a47ef90dcbab891d83dd8643f207d40decfc4230826f6d287a
+SHA512: 65211ab2a886477ac561f7b6313c0567876f6abdc3d8b80d3cae10485e015afbb74d13abf3db6c6b6ac2b344a31867787936a2d8e472378b7805bb7c31d1aa71
+Description: Swipe to Select inside Filza .
+Name: Filza Swipe Select
+Author: Korboy <korboybeats@gmail.com>
 
 Package: com.korboy.safetoggle
 Architecture: iphoneos-arm64
@@ -28811,6 +28894,23 @@ SHA256: 1e1c35149ec89feea772043829f667ebfcd232b84f12424c48148ac09a6cf97c
 SHA512: 20d7a0c609d3921c97db7b899c6f44622e6227625a034ecfc3614ee75e2107779f2fcb7e68ef4ff4c99d3791d298ed8b1edc704696fae4e7d337940a0eed89b5
 Description: Configure the frame of your status bar
 Name: Frame
+Author: waruhachi
+
+Package: moe.waru.iossecuritysuite
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.iossecuritysuite_1.0.0_iphoneos-arm64.deb
+Size: 3010
+MD5sum: 89c72a917781cc185cf621fa68f7b1b3
+SHA1: d9e9009afe421868cb1e4a3ffba57bfcf54ff4fc
+SHA256: 542177f8a7449342110358b18b01bc7390ddc52434da2f3dd716f6e4ac3df221
+SHA512: ea1a8efe7e257a10bd17ffa7036023fa65a886edae7fa3165f1a3dbd6c2fd867f442c4dd765fc50f69547f77bbe81318e58d0aa4a1f95bb486d61fb97810c6ee
+Description: Bypass iOSSecuritySuite jailbreak detection
+Name: iOSSecuritySuite
 Author: waruhachi
 
 Package: moe.waru.jikan
