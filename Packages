@@ -5015,6 +5015,23 @@ Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.reachtolockx
 Icon: file:///Library/PreferenceBundles/ReachToLockXPrefs.bundle/icon.png
 
+Package: com.nightwind.callendtime
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 244
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nightwind.callendtime_0.0.2_iphoneos-arm.deb
+Size: 23080
+MD5sum: 24a7e82a3cc5f9b806b8f7195088f860
+SHA1: 3dcc2ace71e44f347ef00325896418de0289b25a
+SHA256: fc5a6f292de15dd20da26d10ffa09abb4db6cd61a08daf6a9647ff4d861786da
+SHA512: 111901801ebbf952b78a96503907eedfdc6597c33cfd599bf6a1157b2828e745ca493e1aa920fb17583b2024fa376919d0e693951dfc339914299288b412721f
+Description: Adds an end time to recent calls in the Phone app.
+Name: CallEndTime
+Author: Nightwind
+
 Package: com.nightwind.floatingsafari
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -5947,6 +5964,24 @@ SHA512: bdde5daf693aadd74974ce6df103e6b1266570b131723836f2a3a9f0f68eaed60a43a820
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1032
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.raulsaeed.bhtiktok++_2.0_iphoneos-arm.deb
+Size: 139612
+MD5sum: ebee8cf664609f9f37df9a5a8a40aab0
+SHA1: 0aea02d22f76b3835fa6d4d317a01ff4edbffbd0
+SHA256: f64e36584883a83c00e23759fbf6207fe7c0eeab9380dc98c86973af519c5cd9
+SHA512: 3dc2d4187852f94dcf695a1cf299f8471437616816ee11cbcbf28c581f4143fef897b7dcccfe8d18e4ef0d677a18bd082ec738e663ebf0b6a366d691c75d41e3
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.tiktokconfirms.png&s=180x180&f=webp
 
 Package: com.redenticdev.twistop
 Architecture: iphoneos-arm
@@ -13961,6 +13996,23 @@ Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.reachtolockx
 Icon: file:///Library/PreferenceBundles/ReachToLockXPrefs.bundle/icon.png
 
+Package: com.nightwind.callendtime
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 244
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nightwind.callendtime_0.0.2_iphoneos-arm64e.deb
+Size: 23146
+MD5sum: d74d34cc6d7f99d559043e469db611a2
+SHA1: 80310cc5a69a14226af09af13b15df6fdbe3a459
+SHA256: 17399db262ecc71cc57b48937a0303b084d1de02e3d0ecc882fc04816d031aa5
+SHA512: 670ff52441f91364ac04252f4f45baddfbf0868d4378eaf73ddcc31645b35dad4226e88cd52523c343a743a39286f16ea4f7103dcd99b822edea03ce948455a3
+Description: Adds an end time to recent calls in the Phone app.
+Name: CallEndTime
+Author: Nightwind
+
 Package: com.nightwind.cephei-compat
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -15384,6 +15436,24 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
 
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1032
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.raulsaeed.bhtiktok++_2.0_iphoneos-arm64e.deb
+Size: 139468
+MD5sum: 9224e3b0827473d2f864a814729cb28f
+SHA1: 1c30bafb42e6fb112490a20ff84c51e5481cd123
+SHA256: bb4c5505bd85ecde984807ca4e1e61ad9f0688b5f7e1d197133b431eba584e41
+SHA512: db7c0f615da4b38915097c9b33f82a6654e6a9595b5660953f2aa882f0c79de86f26f6c33a5d49e1f42d62085f6d797a09b743f34154ee199d8c1326b8a1ddda
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.tiktokconfirms.png&s=180x180&f=webp
+
 Package: com.roothide.manager
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -16084,11 +16154,11 @@ Maintainer: kernelrw
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Roothide/com.spark.sneakycamm_2.2.2_iphoneos-arm64e.deb
-Size: 106536
-MD5sum: 64a10f2cdcbff2b1ae8e82075749ab83
-SHA1: 817ce21aa3f0af3f23b6e8d399bc211a19258c8b
-SHA256: fbf723c05ecd501d9df2cbd36c0e9181ed7de36cc6c5dca4cf93d39046ae4c8a
-SHA512: 82e35a9685af6ce19fde477ec236433ee2d58159b1ff4546e492a1d378cf6dbd269aed1cdbd3adccda4794a0be09c4c88fe7176185f024b350d569666fbe35da
+Size: 121682
+MD5sum: fa5d3658b9e19795fba350833a39bc10
+SHA1: 93fb3d1595b1e6fef1c7cf9440db2968bd971b8a
+SHA256: fbbcd67791ca2473dd076ad59b8d67d9cb0bca56e6a579369c01861dc8793b9f
+SHA512: 1cb3d23828fcf8b9bfa1c9c3f5265f2c3d52aab69e415495d98be99dc28f2642ffc1ccdc9273ae7eee4e95563bb29156ef80f9c5665b4b63551236abd43d85c5
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Name: SneakyCam
 Author: Spark
@@ -25287,6 +25357,23 @@ Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.reachtolockx
 Icon: file:///Library/PreferenceBundles/ReachToLockXPrefs.bundle/icon.png
 
+Package: com.nightwind.callendtime
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 244
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nightwind.callendtime_0.0.2_iphoneos-arm64.deb
+Size: 23200
+MD5sum: b62f3e2309023feb59c4e79a272c2fd0
+SHA1: cccbc00a3f6ff124458d328ff16a596e223bf1f3
+SHA256: c7abd7c772cb31c99a069ce9f4db94543cc594a9caa3c4982674bb3d7ef0d51f
+SHA512: 8d1ad3cf04a7fd577a926ed72b1bb06b16c0e474de0ef37d6fe2c8ad843e90038615b97ff72350e9ea5e35bc055137bb78aa6c579883cbded41ee51a4dd4a4a8
+Description: Adds an end time to recent calls in the Phone app.
+Name: CallEndTime
+Author: Nightwind
+
 Package: com.nightwind.cephei-compat
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -26427,6 +26514,24 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
 
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1032
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.raulsaeed.bhtiktok++_2.0_iphoneos-arm64.deb
+Size: 138468
+MD5sum: 3cf5c50f6acffab8c8e10e6527b9f36a
+SHA1: 8ccefc136a17642681b467b262e83eacbcb792ed
+SHA256: 81a3daca1c1e06ad776dae540b96fcd88ac8dd00b1e6aa8450f67c4c01fa255b
+SHA512: ebd43937d2682f50c166b0f4a5c212af3ae0750084680c2b1f146e0831be93b1913e50d3740f9a0c23c94d3e64e82438fbd31adddbcc063e398c692fbb48c94b
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.cydiageek.tiktokconfirms.png&s=180x180&f=webp
+
 Package: com.redenticdev.twistop
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -26889,11 +26994,11 @@ Section: Tweaks
 Maintainer: kernelrw
 Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debians/Rootless/com.spark.sneakycamm_2.2.2_iphoneos-arm64.deb
-Size: 104732
-MD5sum: ef5836f1ce0e1879694fc023df38afa1
-SHA1: c789860ba03ea0cbe735d3d5782ff0fd3a33b8a4
-SHA256: 7e18b6d6e503d7fb00d193e26896cd861764f09fdaf0b159b9394b865a05609e
-SHA512: 29a28eecb85fb97d2d6aec0721e4f24af1a6f857ec4b902f538b7db168716042b7662b26f8bd0d523c83e28d52cfc5dbf8560292db4e300f0c14c49dae9ff3f3
+Size: 103500
+MD5sum: b22f035ed2f9dc9e4f7a4dce09422e67
+SHA1: 4d06a09a25f8d64de3fb335222dd8a9098d1fec0
+SHA256: c69aff860633eb8a55d46accc83f9327d62607753823d76ae0190ec02d107e3e
+SHA512: 76896e7c6e6ae2de5cdf706429e5ce1f2c0c129e96d8ed3315dd3f68768ee5ee011b52d375f575be11ff5f09a3b6cc268b721a8d83e7d6cac269ad40137266a0
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Name: SneakyCam
 Author: Spark
