@@ -3836,6 +3836,22 @@ Author: merdok <merdok87@o2.pl>
 Name: Battivator
 Icon: file:///Library/PreferenceBundles/battivatorprefs.bundle/battivator@2x.png
 
+Package: com.mhsternice.wasendfix
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Mhster_Nice
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<= 15.0.2)
+Filename: ./debians/Rootful/com.mhsternice.wasendfix_0.0.4_iphoneos-arm.deb
+Size: 12464
+MD5sum: e209df69c25a6c650f3723525a9c236e
+SHA1: b089023a12fdb75979bd72113de00500234c7805
+SHA256: 8d5e79f17cc1baed228fc240af280d5cf50951a1c6220a789f5040e3c0b1d10b
+SHA512: 8b8d956806c71e1e2ccedab2aafb723f77831637f95e46551ac4f354f29025328067d59fa969d8706f90ba57edb6b6102cc5ce66613f5beb959ea4cc1afaaafd
+Description: Fix WhatsApp Notifications for iOS 14.x to 15.0.2
+Name: WASendFix
+Author: Mhster_Nice
+
 Package: com.mikifp.khromaa
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -12700,6 +12716,23 @@ SHA512: 35d8ae4128d3cdd51a15d17fed75deca686e5cb8282a7b68ca9a5d7c352e0233f338c530
 Description: Stop losing your jailbreak when your battery dies!
 Name: Sentinel
 Author: MegaDev
+
+Package: com.mhsternice.wasendfix
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Mhster_Nice
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<= 15.0.2)
+Filename: ./debians/Roothide/com.mhsternice.wasendfix_0.0.4_iphoneos-arm64e.deb
+Size: 11926
+MD5sum: 5091abe6309718b6b31a3957efd9041c
+SHA1: 7dbcf350202d4c6a0729bf4ebac212e0bf8c2bf4
+SHA256: 428d58dc15a1710ff3170fc158c90cf955f93b0bf80ded07a9b7143c9e420738
+SHA512: 2257d90ba9485ae44a3aad3de7e4ffd2c06fa43299cb88d1f798e6405a7f1e688045b16b309122e6c704bf75d3884f80fcef5284f73c538ae46435a351f35cb9
+Description: Fix WhatsApp Notifications for iOS 14.x to 15.0.2
+Name: WASendFix
+Author: Mhster_Nice
 
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64e
@@ -23714,6 +23747,22 @@ Description: Stop losing your jailbreak when your battery dies!
 Name: Sentinel
 Author: MegaDev
 Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
+
+Package: com.mhsternice.wasendfix
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Mhster_Nice
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<= 15.0.2)
+Filename: ./debians/Rootless/com.mhsternice.wasendfix_0.0.4_iphoneos-arm64.deb
+Size: 9380
+MD5sum: 28a56f85858102d3aec1a1ee7010688e
+SHA1: d0eb9676a9962924730f2c58325d312826dab3ce
+SHA256: a3115c660fe79b36db3ea042545f6e8e317f947049ac37c0931a66d2d47b48aa
+SHA512: 2e05c83f2a8955388f2917a6a440f3dd999d12146454626a558ebba57f9900eb4d4922ff7cacc9ca7ad9d5882a8d43751e230317e4af604f45d49dcdd4e2d97f
+Description: Fix WhatsApp Notifications for iOS 14.x to 15.0.2
+Name: WASendFix
+Author: Mhster_Nice
 
 Package: com.mikifp.khromaa
 Architecture: iphoneos-arm64
