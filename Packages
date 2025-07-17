@@ -3838,16 +3838,16 @@ Icon: file:///Library/PreferenceBundles/battivatorprefs.bundle/battivator@2x.png
 
 Package: com.mhsternice.wasendfix
 Architecture: iphoneos-arm
-Version: 0.0.4
+Version: 0.0.5
 Section: Tweaks
 Maintainer: Mhster_Nice
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<= 15.0.2)
-Filename: ./debians/Rootful/com.mhsternice.wasendfix_0.0.4_iphoneos-arm.deb
-Size: 12464
-MD5sum: e209df69c25a6c650f3723525a9c236e
-SHA1: b089023a12fdb75979bd72113de00500234c7805
-SHA256: 8d5e79f17cc1baed228fc240af280d5cf50951a1c6220a789f5040e3c0b1d10b
-SHA512: 8b8d956806c71e1e2ccedab2aafb723f77831637f95e46551ac4f354f29025328067d59fa969d8706f90ba57edb6b6102cc5ce66613f5beb959ea4cc1afaaafd
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<= 15.1)
+Filename: ./debians/Rootful/com.mhsternice.wasendfix_0.0.5_iphoneos-arm.deb
+Size: 12468
+MD5sum: a42c1bf5164191002424a61317f89a7b
+SHA1: f4ed2f64ac7c16d5ab1755a8aa994a73cf238b73
+SHA256: f96fe8cdcb4886478d217482c126b8de5d37aa68288d56ea76b88bb85c678cd0
+SHA512: d31b2617b0b64cbb4043fb16898e4454a14950e2cd35c0b3a28f22e3263ad3a3964190a6fe7f43c0d813f4b6cc433a6b9750156bc0247a5fd407770fce25e9e2
 Description: Fix WhatsApp Notifications for iOS 14.x to 15.0.2
 Name: WASendFix
 Author: Mhster_Nice
@@ -12754,17 +12754,17 @@ Author: MegaDev
 
 Package: com.mhsternice.wasendfix
 Architecture: iphoneos-arm64e
-Version: 0.0.4
+Version: 0.0.5
 Section: Tweaks
 Maintainer: Mhster_Nice
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<= 15.0.2)
-Filename: ./debians/Roothide/com.mhsternice.wasendfix_0.0.4_iphoneos-arm64e.deb
-Size: 11926
-MD5sum: 5091abe6309718b6b31a3957efd9041c
-SHA1: 7dbcf350202d4c6a0729bf4ebac212e0bf8c2bf4
-SHA256: 428d58dc15a1710ff3170fc158c90cf955f93b0bf80ded07a9b7143c9e420738
-SHA512: 2257d90ba9485ae44a3aad3de7e4ffd2c06fa43299cb88d1f798e6405a7f1e688045b16b309122e6c704bf75d3884f80fcef5284f73c538ae46435a351f35cb9
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<= 15.1)
+Filename: ./debians/Roothide/com.mhsternice.wasendfix_0.0.5_iphoneos-arm64e.deb
+Size: 11942
+MD5sum: b3d46db37bfd8b2ab1fafe7bee2dda5c
+SHA1: cdb25a722e828659bd9fa724bd416a0585c9ce4b
+SHA256: cd5d1288b7e3c2bb1eb1113c7ff1113ae79138613d9241e546dd51030bb2a98a
+SHA512: 8726d12a36e37db9d998002337d1e0b7ea48bb9d8f6e9cc6b5cf4ac3b9c3eaedca1539403b814eb779840bd0c27a42d2dc93dc1fd1c12d41d443bd2b9138943b
 Description: Fix WhatsApp Notifications for iOS 14.x to 15.0.2
 Name: WASendFix
 Author: Mhster_Nice
@@ -23820,16 +23820,16 @@ Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
 
 Package: com.mhsternice.wasendfix
 Architecture: iphoneos-arm64
-Version: 0.0.4
+Version: 0.0.5
 Section: Tweaks
 Maintainer: Mhster_Nice
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<= 15.0.2)
-Filename: ./debians/Rootless/com.mhsternice.wasendfix_0.0.4_iphoneos-arm64.deb
-Size: 9380
-MD5sum: 28a56f85858102d3aec1a1ee7010688e
-SHA1: d0eb9676a9962924730f2c58325d312826dab3ce
-SHA256: a3115c660fe79b36db3ea042545f6e8e317f947049ac37c0931a66d2d47b48aa
-SHA512: 2e05c83f2a8955388f2917a6a440f3dd999d12146454626a558ebba57f9900eb4d4922ff7cacc9ca7ad9d5882a8d43751e230317e4af604f45d49dcdd4e2d97f
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<= 15.1)
+Filename: ./debians/Rootless/com.mhsternice.wasendfix_0.0.5_iphoneos-arm64.deb
+Size: 9392
+MD5sum: 95eb176e267c8c87527a66c3353389e1
+SHA1: 49d06669ccb88110bd5c7e19b316a7c79039856e
+SHA256: b13ca285fdc2aa9adc9029b32027c1d34d675ca2f97b4fc35d9c886125468544
+SHA512: 85e1834d54f361fac42493d10c344a3de0c9a7ca443792c60e7c89ab27b7a6fcc4cf67d5cf88698c119e86b286ac7e2438cc6e8c7b45800b5061496a772ecd91
 Description: Fix WhatsApp Notifications for iOS 14.x to 15.0.2
 Name: WASendFix
 Author: Mhster_Nice
