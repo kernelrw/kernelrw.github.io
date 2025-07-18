@@ -3664,6 +3664,22 @@ Author: Lee Heap <lee.heap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: lheap
 
+Package: com.liuf.musicplayer
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: liuf
+Installed-Size: 168
+Filename: ./debians/Rootful/com.liuf.musicplayer_0.0.1_iphoneos-arm.deb
+Size: 5820
+MD5sum: 3c88c3cc3018af544bcd2cc95a5cd795
+SHA1: 48d2caf66d9e8f9edfc0eccab8f2ee1619d8ae93
+SHA256: 233cd1562dc958356c6d0e73ed3d39f7e70f23504228804ac84e38ae6a76021c
+SHA512: 4d27cd940a91a64974a61dd2ccbbfcc7e4b2259d402086010a2119dfb7cc560c7d68c5146badac040209c394a331bd56984ea722171c8ab89f6a45b41d3a7df8
+Description: Imitate iOS18 Music Player for older iOS versions .
+Name: iOS18 MusicPlayer
+Author: liuf
+
 Package: com.lns.pogr
 Architecture: iphoneos-arm
 Version: 0.5.0
@@ -12695,6 +12711,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadDa
 Author: Lee Heap <lee.heap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: lheap
+
+Package: com.liuf.musicplayer
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: liuf
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/com.liuf.musicplayer_0.0.1_iphoneos-arm64e.deb
+Size: 7450
+MD5sum: 7e6154fe2b2879e119f17776f5155f9f
+SHA1: 74cca51941ed5e3f0c8dc92c6624a6a496e8da45
+SHA256: fb504cfbf3b8a7b6f6b4e2604d6d141df116cee3bf2a8a0a60cad36543dc6aa5
+SHA512: 68e7004dd2882279e6a4c23879555e47d43f22eb379bc05f271e2d0e89be68e0813bfbbdfc1b3cd5abf9c37130a729b67543c120f083348337fa1031cf93a9d3
+Description: Imitate iOS18 Music Player for older iOS versions .
+Name: iOS18 MusicPlayer
+Author: liuf
 
 Package: com.lns.pogr
 Architecture: iphoneos-arm64e
@@ -23780,6 +23813,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadDa
 Author: Lee Heap <lee.heap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: lheap
+
+Package: com.liuf.musicplayer
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: liuf
+Installed-Size: 168
+Filename: ./debians/Rootless/com.liuf.musicplayer_0.0.1_iphoneos-arm64.deb
+Size: 5704
+MD5sum: 238aaa5997a3907f4b2032cebc4738d7
+SHA1: 85d2dadb90bc448d659d645c416bdc0f47aca161
+SHA256: 4b9c2a9a2f515c28813e36d584049817927257ef6e63396addf6308817664265
+SHA512: 56a58bb4fdced76a73de4f1325053027039f6374a7871bc31f8476f1a39a99d6cca048c6d7e224950b4115d5d802718fedb36f0a3790472fa05ef2b789f70aa2
+Description: Imitate iOS18 Music Player for older iOS versions .
+Name: iOS18 MusicPlayer
+Author: liuf
 
 Package: com.lizynz.folderxx
 Architecture: iphoneos-arm64
