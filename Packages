@@ -3606,6 +3606,31 @@ Description: Swipe to Select inside Filza .
 Name: Filza Swipe Select
 Author: Korboy <korboybeats@gmail.com>
 
+Package: com.kurrt.safeshutdown
+Architecture: iphoneos-arm
+Version: 1.72
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 13121
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Filename: ./debians/Rootful/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
+Size: 9990136
+MD5sum: 396c5e240bb3c2bfbaaf9a54ba8146cb
+SHA1: 3d0c106ca1c78550f7a295a19264b46c229c344a
+SHA256: 9bea1ee715eb1f4263dcd103102b017d4096b63cabe82419aae91056dedd0ab6
+SHA512: 0d40cc57c2455c37cd34dc9ee7129ad5e58e39837a8ef0e67bd16ff2027e37e5aafdb80ff880379c14ec7af2dba7d264a4851f875e4bfba3c8537252f30c3786
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
+Description: Avoid re-jailbreaking when battery runs out.
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: SafeShutdown
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
+SileoDepiction: https://kurrt.com/repo/safeshutdown/sileo.php
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Kurrt <dev@kurrt.com>
+dev: kurrt
+Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
+
 Package: com.lenglengyu.bypasscc
 Architecture: iphoneos-arm
 Version: 1.0.7
@@ -15531,6 +15556,24 @@ Author: pxcex
 Depiction: https://d.plutorepo.com/posts/Facebook NO ADS
 Icon: https://cdn.plutorepo.com/media/static/content/?filename=1630819541646-icontweak.jpg
 SileoDepiction: https://repo.plutorepo.com/sileo-depiction/Facebook NO ADS
+
+Package: com.pxcex.hapticalert
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.pxcex.hapticalert_0.0.2_iphoneos-arm64e.deb
+Size: 3888
+MD5sum: 3c8e5108004c63b7424329f32478a5fd
+SHA1: 3292505c9a7e81a59740d1b37655030eea9de2e5
+SHA256: fc45f27353b0162b60298c68a034f080de80c7449994957ba01f6563c732cea3
+SHA512: 7a24b89913906f0a026033b76b3ac0f242c4fe79376c0c1ecc153593184a9e96334e55e4b82931bc8afe65c1b324bc21057690ec9a83f368fd92349507592300
+Description: Haptic Feedback your iPhone at Alert View.
+Name: Haptic Alert
+Author: pxcex
 
 Package: com.qiop1379.swipeextenderx
 Architecture: iphoneos-arm64e
