@@ -3326,25 +3326,6 @@ Author: initWithFrame <initwithframe@protonmail.com>
 Icon: https://chariz.com/cdn/icon/velvet/icon@3x.png
 Depiction: https://chariz.com/buy/velvet
 
-Package: com.ios.overcharged
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: ios <iosrouter69@gmail.com>
-Installed-Size: 416
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/Rootful/com.ios.overcharged_1.0.0_iphoneos-arm.deb
-Size: 14230
-MD5sum: 474455bb40da6af69c1d49af8bd9d174
-SHA1: 176e45dc0b554b726e5ccc9019ae6920dd2ad456
-SHA256: 8e0f261b9285e578c2f0bd6a53ac8882f5b325ceff1512705581ab914adff93f
-SHA512: 6432ab3f09d8e2863723b92c1a4ab5619a10da76bb556deb147c2f78cd43681bbe587bd7db92732aa10563605bd685f46caa7480c3706ca64da2ac781315f276
-Description: OverCharged allows charging past 100% on your device to see how much you could have charged your device. VISUAL ONLY.
-Name: OverCharged
-Author: ios <iosrouter69@gmail.com>
-Icon: https://raw.githubusercontent.com/iosrouter/iosrouter.github.io/main/icons/overcharged.png
-Depiction: http://iosrouter.github.io/files/overcharged.html
-
 Package: com.iosrouter.ccblue
 Architecture: iphoneos-arm
 Version: 1.1.2-1+debug
@@ -6229,6 +6210,24 @@ SHA256: 40b2cc10f07e9e7fcd2640b05963d87c18c79d7312e96a831de16104e1d14966
 SHA512: e511c3d2658267e515d7897f94769dad1296fbd8f6703192af2484ebcea7da189450f9ca9c45af2969e12f33b6480fb2d077bc7b3bd0beffab2750fd717abe9e
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
+Package: com.sergy.immortalizerjailed
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.sergy.immortalizerjailed_2.0_iphoneos-arm.deb
+Size: 38272
+MD5sum: 54cc2844b93d37ff060c3b664a4a6d69
+SHA1: 8e9a43de8c55d35682d193ad07abae20be2c0e6d
+SHA256: da051aeed3c399f07a2cde2651b3e87dbceff669b90097aca39d2665ab2ec204
+SHA512: b62ef0671ce7c068fc06e85f695f82dd4a770a2052d8bccad6d82376e63011807d6f78699a2d8fee5c42e71be88d160ea2592f22d2029a93f248fd404f100e36
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer Jailed
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
@@ -16065,6 +16064,25 @@ SHA256: ea02a85c8b38850f76613695c371fb67fd8a2b5f3a2f73ce65dcc498e1556dc2
 SHA512: b4b140830eb076079de01e8880362fd0231a206b6b8e798363dc0bdf4b083eddebb5d3e2676b7121b9d260350785508609df61fb091a451aac8337fc31ccfd81
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
+Package: com.sergy.immortalizerjailed
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 652
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.sergy.immortalizerjailed_2.0_iphoneos-arm64e.deb
+Size: 51246
+MD5sum: bf4aaa2f1309c50ff5249f550542a9d4
+SHA1: 1da26a9486ede868686e322c87f4c4a32208f759
+SHA256: 6de5c9a0418c4e2a9d7733bb359ea9d7c6ee01b9a523630691913ef577940f55
+SHA512: a1b3b9bc682e117962bcc487468cdb5eede631258b0a129eb1787a671415f41492b3907fa15fac9700bba3c6c839aef0314ac38fa3a5b5d30954749c2d420ad5
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer Jailed
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
@@ -27183,6 +27201,24 @@ SHA256: fc5ee025e7fc514eb3923e7b53992370f34db1e9f4796287f7d417afc3660800
 SHA512: 9ea4ea96d1ddc3ee025e60d18e3fb33f09383046b49a6ea29bdc82f51dc3515922b2293ddbe085d6fa45117a39ade5f7a73fed5063e3bcfb6c6105429286a315
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
+Package: com.sergy.immortalizerjailed
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.sergy.immortalizerjailed_2.0_iphoneos-arm64.deb
+Size: 37884
+MD5sum: df064a88e6c77188f51533670843a613
+SHA1: 12ac45202fd12a5caac62b272f159b2b7c436bee
+SHA256: e240bbee6ae754f906a4b96042630722d8bf0d8e9b8077331bc1f7dc4d4e3d86
+SHA512: 53c4ff9b7c0be6bdeaa3ed2da77936dcaa898df97a72c9b97c8850124dd46ca0ac479fd0d8d09d91cd2f0080b2cf0fb062d318ecff99b39406b952142ffdd81c
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer Jailed
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
