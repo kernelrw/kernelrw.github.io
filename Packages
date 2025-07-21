@@ -3326,6 +3326,42 @@ Author: initWithFrame <initwithframe@protonmail.com>
 Icon: https://chariz.com/cdn/icon/velvet/icon@3x.png
 Depiction: https://chariz.com/buy/velvet
 
+Package: com.ios.overcharged
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: ios <iosrouter69@gmail.com>
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.ios.overcharged_1.0.0_iphoneos-arm.deb
+Size: 14230
+MD5sum: 474455bb40da6af69c1d49af8bd9d174
+SHA1: 176e45dc0b554b726e5ccc9019ae6920dd2ad456
+SHA256: 8e0f261b9285e578c2f0bd6a53ac8882f5b325ceff1512705581ab914adff93f
+SHA512: 6432ab3f09d8e2863723b92c1a4ab5619a10da76bb556deb147c2f78cd43681bbe587bd7db92732aa10563605bd685f46caa7480c3706ca64da2ac781315f276
+Description: OverCharged allows charging past 100% on your device to see how much you could have charged your device. VISUAL ONLY.
+Name: OverCharged
+Author: ios <iosrouter69@gmail.com>
+Icon: https://raw.githubusercontent.com/iosrouter/iosrouter.github.io/main/icons/overcharged.png
+Depiction: http://iosrouter.github.io/files/overcharged.html
+
+Package: com.iosrouter.ccblue
+Architecture: iphoneos-arm
+Version: 1.1.2-1+debug
+Section: Control Center (Modules)
+Maintainer: iosrouter
+Installed-Size: 1052
+Depends: com.opa334.ccsupport, com.muirey03.libimagepicker
+Filename: ./debians/Rootful/com.iosrouter.ccblue_1.1.2-1+debug_iphoneos-arm.deb
+Size: 53508
+MD5sum: 5f0dd16fca121b876e8c2c5f4ad7cc30
+SHA1: 49f7569a1927429a5d40f7a1e2e2677a7124011a
+SHA256: b3ba58b452ed70f9687059650157e995095a1f458ee4f54b2587778009efbf37
+SHA512: ee5f032fa74016ffa4d5995ba543dbb7e61470def6ee2f858b8e0252a32ef4a3594ac398ea71a64fb52bc51cec30dc9e773623ecc11980e92d5027496eca1a6c
+Description: A ToothModule remake updated for rootless!
+Name: CCBlue
+Author: iosrouter
+
 Package: com.ivintagelover.locktimex
 Architecture: iphoneos-arm
 Version: 1.0
@@ -12162,6 +12198,44 @@ SHA512: 7e38ae7633bff41a6ec5c1c81ef3380bac2861043fb211a37fcf72fd084d444391d67b10
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.ios.overcharged
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: ios <iosrouter69@gmail.com>
+Installed-Size: 416
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.ios.overcharged_1.0.0_iphoneos-arm64e.deb
+Size: 16180
+MD5sum: e06870ee173fafe6ea75bcd83f871190
+SHA1: af0128db653b77de2e4976569b478ffb92004ddb
+SHA256: b6413235a5e6b1a451d408ef83dab28d33ba56080a93c88eb9c34a26f8a99fd0
+SHA512: 77a408b2462357b54af62857c1c52d8147b7c058ad327d10250210ea97220cefb783bee1b0d3878cc3e0b97c06add5654e298d619f83b2ecd7c0ca421d37725b
+Description: OverCharged allows charging past 100% on your device to see how much you could have charged your device. VISUAL ONLY.
+Name: OverCharged
+Author: ios <iosrouter69@gmail.com>
+Icon: https://raw.githubusercontent.com/iosrouter/iosrouter.github.io/main/icons/overcharged.png
+Depiction: http://iosrouter.github.io/files/overcharged.html
+
+Package: com.iosrouter.ccblue
+Architecture: iphoneos-arm64e
+Version: 1.1.2-1+debug
+Section: Control Center (Modules)
+Maintainer: iosrouter
+Installed-Size: 1052
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport, com.muirey03.libimagepicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.iosrouter.ccblue_1.1.2-1+debug_iphoneos-arm64e.deb
+Size: 61852
+MD5sum: 1733f77986d277c25fdd20abff43f257
+SHA1: 246ea07f28191c3da25fa4464efa32126ac6ed5c
+SHA256: 8bf2ddd62d9c10ec331ef5e0ff8fa44ab3b5f40bfae7f2b44c215f23c60f3bf2
+SHA512: 2c8da6e5932d56de4c163b3eef3c1a25f74c340a7937e7781effb6e7553333917d5788dbe224e135505f586961dedb867279b2606c627f82241178cb06d4dc85
+Description: A ToothModule remake updated for rootless!
+Name: CCBlue
+Author: iosrouter
 
 Package: com.jacobcxdev.fbspnosor
 Architecture: iphoneos-arm64e
@@ -23542,6 +23616,42 @@ Description: Block annoying Callers!
 Name: CallBlocker
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/CallBlocker/icon.png
+
+Package: com.ios.overcharged
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: ios <iosrouter69@gmail.com>
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.ios.overcharged_1.0.0_iphoneos-arm64.deb
+Size: 12736
+MD5sum: c97edf259863e7cf6806b3afe3ef02b6
+SHA1: a923f32655a6d819c9be2bf580eda7fed14b8fbe
+SHA256: a5ffb4ee2e852506a0b9e33a596c76d437cf2e9b9e69a0df9c8b4951cc67100a
+SHA512: be1400517f9ab6c29e95bb198c45ca3b3c082db3e4dafd0b78f83caad74324a8259a16056fb1da0e92ef0bc4ece85ce696d264d05f4085002ed27a48ad99a6f1
+Description: OverCharged allows charging past 100% on your device to see how much you could have charged your device. VISUAL ONLY.
+Name: OverCharged
+Author: ios <iosrouter69@gmail.com>
+Icon: https://raw.githubusercontent.com/iosrouter/iosrouter.github.io/main/icons/overcharged.png
+Depiction: http://iosrouter.github.io/files/overcharged.html
+
+Package: com.iosrouter.ccblue
+Architecture: iphoneos-arm64
+Version: 1.1.2-1+debug
+Section: Control Center (Modules)
+Maintainer: iosrouter
+Installed-Size: 1052
+Depends: com.opa334.ccsupport, com.muirey03.libimagepicker, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.iosrouter.ccblue_1.1.2-1+debug_iphoneos-arm64.deb
+Size: 52260
+MD5sum: e20cdff9ff380f28dcbdf13a1c985e88
+SHA1: 8b329c931ab91e893ccaa9823288fabd48f6c8d8
+SHA256: c2d94fd7011a07a20331494513f7f906811505f06b57f4e97dd7742d2e3cbca5
+SHA512: fde9e19faf7565616bbc97287e27a7155b7defe6925b2ad8a1d0db7c84d0010e7b00cd4d80807932421ebff5385c46a332587e7d23e50c92b86d282764e67829
+Description: A ToothModule remake updated for rootless!
+Name: CCBlue
+Author: iosrouter
 
 Package: com.jacobcxdev.fbspnosor
 Architecture: iphoneos-arm64
