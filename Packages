@@ -11569,6 +11569,27 @@ Description: A SwiftUI Prefs Framework
 Name: Comet
 Author: Ginsu
 
+Package: com.ginsu.nointerruptwhenplayingmusic
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.ginsu.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm64e.deb
+Size: 6650
+MD5sum: bdca5c92e70d2ab0276410d3ce1638d3
+SHA1: d19fa8ca09a3f04a46af0e680f3744b0dccc841c
+SHA256: 165242db7c497069b21e7f25e86830e03b97d70908b51f8da1066fc48e0c1109
+SHA512: 2e1a6735d570e76cb0c8582e83f7ecf5e1923d2d422c8163c8bb82d573de465d9b6b8d46e839e63feca4b6bd1011db7c01693eb8b3ff302915fbebcef04b5643
+Description: Quiet notifications when music is playing.
+Name: NoInterruptWhenPlayingMusic
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.nointerruptwhenplayingmusic
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.nointerruptwhenplayingmusic/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.nointerruptwhenplayingmusic.json
+
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm64e
 Version: 2.3.1
@@ -12198,26 +12219,6 @@ SHA512: 7e38ae7633bff41a6ec5c1c81ef3380bac2861043fb211a37fcf72fd084d444391d67b10
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
-
-Package: com.ios.overcharged
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: ios <iosrouter69@gmail.com>
-Installed-Size: 416
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Roothide/com.ios.overcharged_1.0.0_iphoneos-arm64e.deb
-Size: 16180
-MD5sum: e06870ee173fafe6ea75bcd83f871190
-SHA1: af0128db653b77de2e4976569b478ffb92004ddb
-SHA256: b6413235a5e6b1a451d408ef83dab28d33ba56080a93c88eb9c34a26f8a99fd0
-SHA512: 77a408b2462357b54af62857c1c52d8147b7c058ad327d10250210ea97220cefb783bee1b0d3878cc3e0b97c06add5654e298d619f83b2ecd7c0ca421d37725b
-Description: OverCharged allows charging past 100% on your device to see how much you could have charged your device. VISUAL ONLY.
-Name: OverCharged
-Author: ios <iosrouter69@gmail.com>
-Icon: https://raw.githubusercontent.com/iosrouter/iosrouter.github.io/main/icons/overcharged.png
-Depiction: http://iosrouter.github.io/files/overcharged.html
 
 Package: com.iosrouter.ccblue
 Architecture: iphoneos-arm64e
@@ -17084,6 +17085,42 @@ Description: Effortlessly manage your ringer volume!
 Name: Ring
 Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
+
+Package: com.yourepo.0dent1st.esimrootlessios17to15
+Architecture: iphoneos-arm64e
+Version: 1.15-beta-6
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, com.yourepo.0dent1st.libiarraysrootless (>= 1.0.16), com.opa334.ccsupport
+Conflicts: com.iarrays.simplus.r-o-o-t-l-e-s-s-
+Filename: ./debians/Roothide/com.yourepo.0dent1st.esimrootlessios17to15_1.15-beta-6_iphoneos-arm64e.deb
+Size: 665418
+MD5sum: d4f8c91771a7f1112d6eba1b140d3d2d
+SHA1: bb182732c30d2a42d34d0867ef41a6ad68054b6e
+SHA256: 412cfdf0c084ec6d7260ad7cbe8567e4c99162a6f240cf2c7d5695ef40d06053
+SHA512: b42260874ba9e0caf58339ba605aa8e2f03bcd979a928274cc94540ff22067382eff5197a1a07ff5ce3702783c1fd560921f9a92c652166b82ba530e11fd2803
+Description: The way Apple should have done it, but do not worry. We have done it for you. Choose a way how to call or text while using eSim/dual sim iPhones.
+Name: eSim+ (Rootless iOS 17 to 15)
+Author: IArrays <support@iarrays.com>
+Icon: https://iarrays.com/sileo-depiction/simplus/icon.png
+
+Package: com.yourepo.0dent1st.libiarraysrootless
+Architecture: iphoneos-arm64e
+Version: 1.0.16-beta-12k
+Section: Development
+Maintainer: IArrays <IArrays@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.r-o-o-t-l-e-s-s-
+Filename: ./debians/Roothide/com.yourepo.0dent1st.libiarraysrootless_1.0.16-beta-12k_iphoneos-arm64e.deb
+Size: 169408
+MD5sum: 16d7d4dc8a251b3825bd7c8447c57b3b
+SHA1: 21fe80fd418bc2b26b5e405aa68e092ce435c023
+SHA256: c0ad103b9d35f00e66052529e80a275299ba1a611a3ccefa7998d55090a7400d
+SHA512: 29b90d6d88f19e93531a35d38277dcd212059cf278e0894b42033c5432d6a4b047514b393171b427d823e9f66edbca92260e7b221fd3d7cf3a388e79a23b7c1f
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Rootless)
+Author: IArrays <support@iarrays.com>
 
 Package: com.yourepo.0xash.dolbysoundeffect
 Architecture: iphoneos-arm64e
@@ -23024,6 +23061,26 @@ Name: PearlRetry
 Author: gilshahar7
 Icon: file:///var/jb/Library/PreferenceBundles/PearlRetryPrefs.bundle/icon@3x.png
 
+Package: com.ginsu.nointerruptwhenplayingmusic
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.ginsu.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm64.deb
+Size: 5280
+MD5sum: a11bdaa598b4a67c18306fbc0078a6b3
+SHA1: 49e2d35a277292fc2fb1264929435269b05e88c2
+SHA256: fc2cb61c1cceabce23f795cabd05457718e77f7837b297fd46ccad658e9132b9
+SHA512: 51740873fc7488b1a9a5cc40768c20a2ee47ba329c6c43f366aa84041ccf0987de889d0e54fedf2f24f2ff321d166a8053cb960980615d2b38a4ad8e469d89a0
+Description: Quiet notifications when music is playing.
+Name: NoInterruptWhenPlayingMusic
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.nointerruptwhenplayingmusic
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.nointerruptwhenplayingmusic/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.nointerruptwhenplayingmusic.json
+
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm64
 Version: 2.2
@@ -23616,25 +23673,6 @@ Description: Block annoying Callers!
 Name: CallBlocker
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/CallBlocker/icon.png
-
-Package: com.ios.overcharged
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: ios <iosrouter69@gmail.com>
-Installed-Size: 416
-Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/com.ios.overcharged_1.0.0_iphoneos-arm64.deb
-Size: 12736
-MD5sum: c97edf259863e7cf6806b3afe3ef02b6
-SHA1: a923f32655a6d819c9be2bf580eda7fed14b8fbe
-SHA256: a5ffb4ee2e852506a0b9e33a596c76d437cf2e9b9e69a0df9c8b4951cc67100a
-SHA512: be1400517f9ab6c29e95bb198c45ca3b3c082db3e4dafd0b78f83caad74324a8259a16056fb1da0e92ef0bc4ece85ce696d264d05f4085002ed27a48ad99a6f1
-Description: OverCharged allows charging past 100% on your device to see how much you could have charged your device. VISUAL ONLY.
-Name: OverCharged
-Author: ios <iosrouter69@gmail.com>
-Icon: https://raw.githubusercontent.com/iosrouter/iosrouter.github.io/main/icons/overcharged.png
-Depiction: http://iosrouter.github.io/files/overcharged.html
 
 Package: com.iosrouter.ccblue
 Architecture: iphoneos-arm64
@@ -27997,6 +28035,42 @@ Description: Effortlessly manage your ringer volume!
 Name: Ring
 Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
+
+Package: com.yourepo.0dent1st.esimrootlessios17to15
+Architecture: iphoneos-arm64
+Version: 1.15-beta-6
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, com.yourepo.0dent1st.libiarraysrootless (>= 1.0.16), com.opa334.ccsupport
+Conflicts: com.iarrays.simplus.roothide
+Filename: ./debians/Rootless/com.yourepo.0dent1st.esimrootlessios17to15_1.15-beta-6_iphoneos-arm64.deb
+Size: 628672
+MD5sum: 1d1a4687477e0a7d8b7c462d6fb3fea3
+SHA1: 99590bdf775e204a65eb7bc7d0cf92f1b8a04a62
+SHA256: 98b2f2e7f2083280a2f367a6ac25406d0d474ada782dd77782973fe89683bef1
+SHA512: 9fc2b269ebabcbf8a631a56d6e102a08052054066a70f08e3c49de9748478659c93e0177234e15edffe58f1defb52e8472267947e316dba2004b3095535fba4c
+Description: The way Apple should have done it, but do not worry. We have done it for you. Choose a way how to call or text while using eSim/dual sim iPhones.
+Name: eSim+ (Rootless iOS 17 to 15)
+Author: IArrays <support@iarrays.com>
+Icon: https://iarrays.com/sileo-depiction/simplus/icon.png
+
+Package: com.yourepo.0dent1st.libiarraysrootless
+Architecture: iphoneos-arm64
+Version: 1.0.16-beta-12k
+Section: Development
+Maintainer: IArrays <IArrays@gmail.com>
+Pre-Depends: firmware (>= 9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
+Filename: ./debians/Rootless/com.yourepo.0dent1st.libiarraysrootless_1.0.16-beta-12k_iphoneos-arm64.deb
+Size: 121980
+MD5sum: ebe68e178119aa6391308460c74b9bb3
+SHA1: 989a061b0a783a424f844a86e3db9087c11f08d7
+SHA256: c0858248f08fc28d1a360c5b89323339038d2c99411701130a583d4f3ac39e77
+SHA512: 66cb4bf54a80058a7f4131fe94373e2996a421e8500a9ee4f12f0c909c6467f032a43dc452c5dc3dded5e2645b9ddb21eed34c7e0a5d82cd134a2db367c513f5
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Rootless)
+Author: IArrays <support@iarrays.com>
 
 Package: com.yourepo.0xash.dolbysoundeffect
 Architecture: iphoneos-arm64
