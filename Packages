@@ -8239,6 +8239,23 @@ Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
 Author: waruhachi
 
+Package: moe.waru.nokeyboardglobe
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.nokeyboardglobe_1.0.0_iphoneos-arm.deb
+Size: 3566
+MD5sum: 3cad9cab5907dadf7e67978dd35e0411
+SHA1: 9d7cccef8f905cb0c7d1405c8c881fdb7649d929
+SHA256: 580a4d911110b11ac2316bd4ac3d697483ece97014fd5fcd10c8c4537674f7e3
+SHA512: aa78380d7d06462b8e3854207733dadb736f3316a6e83ac6acec4e7ceb865915b473b240938b46f4c8f6e198d5df32a1067cf059ed976dd5c0c832803edd6371
+Description: Remove the keyboard globe icon
+Name: NoKeyboardGlobe
+Author: waruhachi
+
 Package: moe.waru.norecents
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -18300,18 +18317,18 @@ Section: System
 Maintainer: jjolano
 Installed-Size: 1076
 Provides: me.jjolano.shadow.beta
-Pre-Depends: rootless-compat (>= 0.9), dpkg
+Pre-Depends: rootless-compat(>= 0.9), dpkg
 Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
 Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
 Filename: ./debians/Roothide/me.jjolano.shadow_3.7.6_iphoneos-arm64e.deb
-Size: 466740
-MD5sum: 4827e76a0eaf95b68ebc5a7e6016706d
-SHA1: 3b0c0a8e9390a355572f1dffad2fbd3eb6b5e8e0
-SHA256: cb817fb31937391323868ede46a0460ba493354f32883d81c8c51a497fa279ac
-SHA512: 8c5665531e7202cc8ebc86af11e005ce87e6974f83de25d9e025827ae420a0da5a3fe11b022ebfddf33161be868ce481233323dbd5a4b116cdde9f739880f552
+Size: 138184
+MD5sum: 61784077e9fff1b9305e7b118457f46e
+SHA1: 324d16002414459843cec698149782a991fab52d
+SHA256: 0db526c2057b813c14c4a4f4eaa6154d9836515421b85bef178e8243a5b761de
+SHA512: 271583eaaeae9cfe4bbe5108dc298228d4848a502f16c59b669bda509cd80a501caeb4d1774bec795b3287713b42f31ce14b5689003deef4e82524ea75c7e6e0
 Description: A modern jailbreak detection bypass.
 Name: Shadow
 Author: jjolano
@@ -18564,6 +18581,23 @@ SHA256: 13b6a44cec64a6e449263f1350f27fbba70dfb00900fdea11ec183f449e9859e
 SHA512: 491a2bbdceffe2bb582ac0fbdb621839fc0adbcf21c5ec7213e0f205e304fac01540b4078031af447472c46e26008d001ac448c494e254c1758aba4afe5730f5
 Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
+Author: waruhachi
+
+Package: moe.waru.nokeyboardglobe
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.nokeyboardglobe_1.0.0_iphoneos-arm64e.deb
+Size: 3582
+MD5sum: 06499720540676ecc1c0b8047622c602
+SHA1: 580c8c700759167def329f8cd74dacbc9e756bbc
+SHA256: 418daee36f408004a85796f5a2edd15e03a370b02a897bd34e56909e01d9f2a7
+SHA512: 3a439558ad2f2297e1bf8ffd34059b4c79aa0d1cd8a0d781b68dbfc2390d5d269efab6cf0fcbe622de84a77c417409a69207905cf866096d6e0cc771ccf2bd01
+Description: Remove the keyboard globe icon
+Name: NoKeyboardGlobe
 Author: waruhachi
 
 Package: moe.waru.norecents
@@ -29789,6 +29823,23 @@ SHA256: 7dbd21d8b382a1ecef0f1d37e06d291eb64f487614190ae01810f98dc79bb6a0
 SHA512: 95c64786d7fb86ccb2f1bbb510f5e9c824bc79894fd320b2121c94aafd16091f5abbccae73705d391d68d47093e90575b79378e333fd17769e55621be702a094
 Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
+Author: waruhachi
+
+Package: moe.waru.nokeyboardglobe
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.nokeyboardglobe_1.0.0_iphoneos-arm64.deb
+Size: 3636
+MD5sum: 4c4af81af1182946b8e8c93e6650b237
+SHA1: 59f6ce14ad3c423c43e64a4896d70ed399799c1a
+SHA256: fe7e89ca4d49ecd1cdac7c4717c2f05673ea92a5bb13ed51eb11b43d89d7683b
+SHA512: 24c31e4ce2507b7529e4cfa978e7a003cb41b4ff6de8e96356b5ed22bf2dd3e2fa4319f0da24874705993d86f3d2be974403070373d4d647367902fa07da529b
+Description: Remove the keyboard globe icon
+Name: NoKeyboardGlobe
 Author: waruhachi
 
 Package: moe.waru.norecents
