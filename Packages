@@ -7923,6 +7923,25 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Name: Rose 🌹
 Author: Litten
 
+Package: me.apptapp.installer
+Architecture: iphoneos-arm
+Version: 5.0.3-2
+Section: Packaging
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 11.0)
+Filename: ./debians/Rootful/me.apptapp.installer_5.0.3-2_iphoneos-arm.deb
+Size: 20906000
+MD5sum: 74592f90ac45131ee1371ba97f3168f0
+SHA1: 4b64d4bd88029ffc7d6cbe56705dbcdc98fe72b1
+SHA256: ffee09f05b1e07576daa77f61d3adc08fe81b15f7fe803132d99811da1c8fe1f
+SHA512: 040d0c98b2291ba37ca82f7c6045282d5a6269d1566a715c8005e4964b4c2521b9ec41cced743e24620d9808eb3fa72fcbd9d5dd3c263b35ff7b0e849b7a58ce
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+SileoDepiction: https://apptapp.me/repo/installer.json
+
 Package: me.eternal.phantom
 Architecture: iphoneos-arm
 Version: 1.1.1
@@ -29500,6 +29519,25 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
+
+Package: me.apptapp.installer
+Architecture: iphoneos-arm64
+Version: 5.0.3-2
+Section: Packaging
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 11.0)
+Filename: ./debians/Rootless/me.apptapp.installer_5.0.3-2_iphoneos-arm64.deb
+Size: 21091700
+MD5sum: 93db0e4a41417044f227f8b4912d9cd7
+SHA1: ec511db92c74af0f0ed0fd13c9f06a20c85e07f6
+SHA256: aae311aafc17edbe908300b9fca18633a5ee21b630634c9ca7fc6aa5e8ffb32f
+SHA512: 5a18b22ae4e6d9a9ec20514905779f863d0e04f8df2c1d71ed3286ecbaad8e79918a5a0300642f659dbc7068c847ede1e262fdc23d70cd9ad384c0294b1be3f3
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+SileoDepiction: https://apptapp.me/repo/installer.json
 
 Package: me.eternal.phantom
 Architecture: iphoneos-arm64
