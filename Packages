@@ -8239,6 +8239,23 @@ Description: Clipboard history manager for iOS!
 Name: CopyLog
 Author: TomT000
 
+Package: me.tomt000.stageduo
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 4900
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debians/Rootful/me.tomt000.stageduo_1.2_iphoneos-arm.deb
+Size: 3062260
+MD5sum: eafc8fe9322f8c3976bd023ddf0128c9
+SHA1: b47d40282676337c75eeacf0f5dc53dad32b1756
+SHA256: 3287badf3c2e4bfca9ec655f7baec659d6d816997d926c503307b958bc6f60e2
+SHA512: 558abaf514560705fd8a164063ff2bd373f224bb74594cb69ca360df4c956792f6de7f20306c7554389e2e267923fe5bde0b83e8c8b92d99fa3b01d68fd6f634
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage
+Author: tomt000
+
 Package: moe.nef0pam.fastdelete
 Architecture: iphoneos-arm
 Version: 1.0
@@ -18672,6 +18689,24 @@ SHA512: 7e33c9b20922b68dda109bfb711f08d67bd0970a066c1f7c304a760facf6629b89859265
 Description: Clipboard history manager for iOS!
 Name: CopyLog
 Author: TomT000
+
+Package: me.tomt000.stageduo
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 4900
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debians/Roothide/me.tomt000.stageduo_1.2_iphoneos-arm64e.deb
+Size: 6692736
+MD5sum: da20f5723296a57091f12a60626edb12
+SHA1: 7d21dcda84ca9472cb59ca930b8c31041b1a693f
+SHA256: b4b0c4a6c80a8209578962aa3c72defca80bbbfc50e82a2d9ea8674a0c35ab52
+SHA512: 9cf1e72002ca26c857a7f2ef5ad369306c1536e7a1cd3256e61dd62c1918b45b5933ca27e01b3c1bde6e9e7fe55fd69d7755e0904b6f4134655424bdd4f432cb
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage
+Author: tomt000
 
 Package: moe.nef0pam.fastdelete
 Architecture: iphoneos-arm64e
@@ -30016,6 +30051,23 @@ SHA512: edbc60e5039e4e03894097a8026bf6a7d74c4889ca6cd40ec00e6bf8a3631e60bfae135c
 Description: Clipboard history manager for iOS!
 Name: CopyLog
 Author: TomT000
+
+Package: me.tomt000.stageduo
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: tomt000
+Installed-Size: 4900
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debians/Rootless/me.tomt000.stageduo_1.2_iphoneos-arm64.deb
+Size: 3086730
+MD5sum: a7928dbcbcda367cd69eb0fcaa43ee8e
+SHA1: 6bc513dd33949b42150a745488cd45c12353ef06
+SHA256: f55144278ad75d2c56f14900793c330ccc51f06b2839656e0ebfa812efe4a84f
+SHA512: e881d623bd09f9df03a673ab34d7780e2cb8208842024089ac73adf21f719dc2cfad5ebc3030c93e71881a0e34e7eb8b3b77f1d48417bcbe10a9e404b223d320
+Description: Stage Manager Reimagined for iPhone
+Name: Dynamic Stage
+Author: tomt000
 
 Package: moe.nef0pam.fastdelete
 Architecture: iphoneos-arm64
