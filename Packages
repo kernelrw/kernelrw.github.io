@@ -6281,6 +6281,24 @@ Name: Immortalizer Jailed
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
+Package: com.sergy.immortalizerjailed
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.sergy.immortalizerjailed_2.2_iphoneos-arm.deb
+Size: 38504
+MD5sum: 723013359326e6a404b383f1232c6bd3
+SHA1: 1c897944b67c74ad90609b91b16ebfc390de2fb2
+SHA256: 48faf3822dba5a170fd735c33e168bee7cfd7c3d91f813d2ba63c4f6c5c55842
+SHA512: 80c154d993a49a1f864fc0b1bbd62fae5568d32c4d1e5b6b1432da547fb50a063c0cc749f9b3d7032209a29a271c097c9c53e718e78028b7548e86040fa34948
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer Jailed
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
 Package: com.sergy.replyactionstheme
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -8168,6 +8186,24 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: me.tomt000.copylogg
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 5880
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debians/Rootful/me.tomt000.copylogg_1.7_iphoneos-arm.deb
+Size: 2253472
+MD5sum: 8166eb278a82c16df6182c737213b794
+SHA1: c1bca4dfd436d543f0f092c6e5f52b28ce8a50ef
+SHA256: 6d92187d6357b9f5840bc37ce82b3bfc97fb64b14152444ad99bdd48faab6dd5
+SHA512: af77951335d64f5b2133a7e9b52dc741e061c1e62104c4100ac04d6a2b7af0411a759b71f84bf98e3861e68d9415d5b891b4baeb06d33c137328476ce1c9ff25
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
 
 Package: moe.nef0pam.fastdelete
 Architecture: iphoneos-arm
@@ -16200,6 +16236,25 @@ MD5sum: bf4aaa2f1309c50ff5249f550542a9d4
 SHA1: 1da26a9486ede868686e322c87f4c4a32208f759
 SHA256: 6de5c9a0418c4e2a9d7733bb359ea9d7c6ee01b9a523630691913ef577940f55
 SHA512: a1b3b9bc682e117962bcc487468cdb5eede631258b0a129eb1787a671415f41492b3907fa15fac9700bba3c6c839aef0314ac38fa3a5b5d30954749c2d420ad5
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer Jailed
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
+Package: com.sergy.immortalizerjailed
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 652
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.sergy.immortalizerjailed_2.2_iphoneos-arm64e.deb
+Size: 51658
+MD5sum: b303277f8a0e5cf4accb019ffaf2b004
+SHA1: d53586450628f1dc9f292179866401df244efb6a
+SHA256: 7f64470d2102bd15d91ed8126f25b8779a9804b64d46db7d7de8e0d89e8aa661
+SHA512: ee404cdc3d6715302ee6562ac9c3f06575c8ed8bd9acf286b185ca471ea09976b545de8dc45aac7e5d25b2e82ab8b61ec311973e927401dae6a2f03d1693c583
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer Jailed
 Author: sergy
@@ -27391,6 +27446,24 @@ Name: Immortalizer Jailed
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
+Package: com.sergy.immortalizerjailed
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.sergy.immortalizerjailed_2.2_iphoneos-arm64.deb
+Size: 38112
+MD5sum: 2c09f4477a3a6b074bf63650596372fa
+SHA1: e9ea3e720512de2b7e4789a8b46a41c9a020522e
+SHA256: 603c476207ddfa6de47662e636d28b952925cb2ad056b1a82b3390f599b4050a
+SHA512: b4e96e5c0713d0b34aa8f15368605d0b0334ad5be999220bfbab1b4fc3703fa50d668400546fc6f9097417f4de49919f24d58ad56db19a50572682a77d9b5ede
+Description: Foreground your apps even if they are in the background!
+Name: Immortalizer Jailed
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+
 Package: com.sergy.replyactionstheme
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -29821,6 +29894,24 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: me.tomt000.copylogg
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 5880
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debians/Rootless/me.tomt000.copylogg_1.7_iphoneos-arm64.deb
+Size: 2277444
+MD5sum: e15e832e319b7050549c30b5fb90d4ed
+SHA1: b1d9b8045bae0ba987d9685f7d82bef4521a7705
+SHA256: 62be328db7fc1359d2e28a5fc62f56d3abf561ed4897c7336e3d31231198319d
+SHA512: edbc60e5039e4e03894097a8026bf6a7d74c4889ca6cd40ec00e6bf8a3631e60bfae135cfe2da1c4d844a7c8cc49c306b70a5c4e7d8ccca54aa078fe130e5008
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
 
 Package: moe.nef0pam.fastdelete
 Architecture: iphoneos-arm64
