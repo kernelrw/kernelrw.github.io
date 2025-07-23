@@ -352,6 +352,23 @@ Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
 
+Package: com.0xkuj.copylogfix16
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Depends: me.tomt000.copylogg, firmware (>= 16.0)
+Filename: ./debians/Rootful/com.0xkuj.copylogfix16_1.0.1_iphoneos-arm.deb
+Size: 6192
+MD5sum: 118bf89447b89d8747b68677d2be35a3
+SHA1: 5fa2f5a8498a5af9312c2cdd080f5127d347b1c8
+SHA256: e4d94260e0f1d0c4e8cfe3bed8ef48e53738828c2f55f46dcf858646b2370b52
+SHA512: 5036f049d915cb73256adfaf7633887424f584dfd868e2e0d62108227666dc8a90d35cc78aae4970a546c944dc188d1c45b1a40d68f1b8eb46c03425387e1768
+Description: Fix copylog not working on iOS16
+Name: CopyLogFix16
+Author: 0xkuj
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -8189,6 +8206,23 @@ Author: Aarnav Tale <aarnav@tale.me>
 
 Package: me.tomt000.copylogg
 Architecture: iphoneos-arm
+Version: 1.5.6
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 4252
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/me.tomt000.copylogg_1.5.6_iphoneos-arm.deb
+Size: 1507892
+MD5sum: 7dc31daee14f13d4a1973860112e7b5c
+SHA1: 3a42d1a198695cb89dd0819c8c00853ff310502a
+SHA256: 9bd2081943d1acc706abdfe22135c2a8f4fb0a2e897112bbf0cbdf9fbb9a8d1c
+SHA512: bb2eda5f7e86877769f90fef431548730f64cdb4e8415c5b2dc7959279ac986023d870cfc3dd4b048f42195eb9335612cb67e75d486ce83cba1db91111e5c36d
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
+
+Package: me.tomt000.copylogg
+Architecture: iphoneos-arm
 Version: 1.7
 Section: Tweaks
 Maintainer: TomT000
@@ -9365,6 +9399,24 @@ Name: Block WA Updates
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: 0xkuj
+
+Package: com.0xkuj.copylogfix16
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: me.tomt000.copylogg, firmware (>= 16.0)
+Filename: ./debians/Roothide/com.0xkuj.copylogfix16_1.0.1_iphoneos-arm64e.deb
+Size: 8372
+MD5sum: 23dae87536b46da6cdc005b260933e90
+SHA1: 5f16df8145df9f2dbe488ce9b65ef9f6dd76fa1c
+SHA256: d181a7c5b3f4d4936b0c93ef57a08afe055a9459d337462de2af50d1ff7df5c4
+SHA512: 66079dbdd2326ac6b8df740f8065574fc5179d757420519aa08846cf6394a5bc79f6e363c49711ae67b7027488fa8196d6de8c7e757558d5badd790e5b258ae1
+Description: Fix copylog not working on iOS16
+Name: CopyLogFix16
+Author: 0xkuj
 
 Package: com.0xkuj.installdpkg
 Architecture: iphoneos-arm64e
@@ -18603,6 +18655,24 @@ Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
 
+Package: me.tomt000.copylogg
+Architecture: iphoneos-arm64e
+Version: 1.5.6
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 4252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/me.tomt000.copylogg_1.5.6_iphoneos-arm64e.deb
+Size: 3716416
+MD5sum: 1dc2cbae387e87c689e645082faf4aae
+SHA1: ae40f7c88861439b59f5129dd3c6ceea1dd69f7e
+SHA256: 2c8afbec295ac878ba10e4ac66f246e762b6a38e93a38e3e9d08e9dfc657d32a
+SHA512: 7e33c9b20922b68dda109bfb711f08d67bd0970a066c1f7c304a760facf6629b89859265833939177e9cbe82d183ea83657523e88c43d1de1fd0235ea236b1d2
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
+
 Package: moe.nef0pam.fastdelete
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -20226,6 +20296,23 @@ SHA512: d8d900ac594038f8a934bfa0b1c02d2881f5e18ae134fb0de2201068cad884724500121b
 Description: Natively integrated notification logger.
 Name: Vē
 Author: Alexandra Aurora Göttlicher, 74k1_
+
+Package: com.0xkuj.copylogfix16
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Depends: me.tomt000.copylogg, firmware (>= 16.0)
+Filename: ./debians/Rootless/com.0xkuj.copylogfix16_1.0.1_iphoneos-arm64.deb
+Size: 6388
+MD5sum: de794e983c715fcd50e532359e69815d
+SHA1: a3f548482e30f5d32f5a0836fe980ead93e8ccfc
+SHA256: 6422bb729623977b41de5c09ef6a68de4d76123b8a931b589abc78bfc2516c7c
+SHA512: 7d6b3defd4f851b59def476df893624b2dc80d51cf85f497f06d242847039fd76fa11be3271377a1a1f72fc83eabbbc1ad6325d7ae79fe8d2280cf2c7d4c78ed
+Description: Fix copylog not working on iOS16
+Name: CopyLogFix16
+Author: 0xkuj
 
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
@@ -29894,6 +29981,23 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: me.tomt000.copylogg
+Architecture: iphoneos-arm64
+Version: 1.5.6
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 4252
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/me.tomt000.copylogg_1.5.6_iphoneos-arm64.deb
+Size: 1522900
+MD5sum: 52138d4602df7afd9d6eb37219479e41
+SHA1: 85366257544984d559e7fc68cb3620389a2baf7b
+SHA256: d83aa7a5ec27d96eb88b1a65109ecb25521df6df4fb70c00fa513b9a04f7a7b8
+SHA512: d7a4c6a168bb935af23d51c3bcb84bb2038ad5b129c9fb8817ac7eb2aff37165f2604ea196d9ae90d428f3cec326eed350da969f0e330c37a04548f11211ffb8
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
 
 Package: me.tomt000.copylogg
 Architecture: iphoneos-arm64
