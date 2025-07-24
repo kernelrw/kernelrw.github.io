@@ -8223,6 +8223,24 @@ Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
 
+Package: me.tomt000.copylog
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 2240
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debians/Rootful/me.tomt000.copylog_1.7.1_iphoneos-arm.deb
+Size: 1030860
+MD5sum: a3a45a33eb68ea4345be3b5e77f6df95
+SHA1: 653ba7d07bae57f5276583c986a00fc850a388aa
+SHA256: ebaa91f9e433a383b978c7c32019ff110a05ddbf835b9e79751771ae22dda37b
+SHA512: f74fcbc3b98616b7c5cbd00b3a3aae6a29ef115f4489e958c91d7c4c1fab8050c8877ff85284273381d7c114856d16fee8fd8727e2ac3f7aa443c9a35443bd91
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
+
 Package: me.tomt000.copylogg
 Architecture: iphoneos-arm
 Version: 1.5.6
@@ -18710,6 +18728,25 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: me.tomt000.copylog
+Architecture: iphoneos-arm64e
+Version: 1.7.1
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 2240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debians/Roothide/me.tomt000.copylog_1.7.1_iphoneos-arm64e.deb
+Size: 2203876
+MD5sum: abed9f1c180eade3909e3464618acd15
+SHA1: c2a85509992649a7061da425bd7f59f18a1713fd
+SHA256: 14ada5b25da5be33cdff228df8808b89ea836acc2a38833b14372581513c12a4
+SHA512: 9c3b624177593b5607711e8a9c0b259b88211ddc634eb1327998be4d9300e306a99ef3d169b11cad27cfcecc9408fa9692c45a0473dd12e02b32a56c32b8706d
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
 
 Package: me.tomt000.copylogg
 Architecture: iphoneos-arm64e
@@ -30074,6 +30111,24 @@ Native-Depiction: https://apt.tale.me/me.tale.panic.json
 Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
 Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
 Author: Aarnav Tale <aarnav@tale.me>
+
+Package: me.tomt000.copylog
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 2240
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debians/Rootless/me.tomt000.copylog_1.7.1_iphoneos-arm64.deb
+Size: 1036486
+MD5sum: f2bf1fcf8a527899aa9eb5e26b01654a
+SHA1: 00ec4c52cf5080af19f4a114374001c52f6323fb
+SHA256: e496acbeeed3ac5a98d2f7176652c232c67b08fccde996f24ebae815d4aaa392
+SHA512: 9d124b18cd4181fd04477bef5198b016dee063a5491ff0a2d0eeef552a4947b03c8b028ab8cc4705e7dbd87c17e51747b5bc03e4becf5d89ec9d329a5535db30
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
 
 Package: me.tomt000.copylogg
 Architecture: iphoneos-arm64
