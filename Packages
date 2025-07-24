@@ -2479,14 +2479,14 @@ Architecture: iphoneos-arm
 Version: 5.2b2
 Section: Tweaks
 Maintainer: dvntm
-Installed-Size: 16252
+Installed-Size: 16696
 Depends: mobilesubstrate
 Filename: ./debians/Rootful/com.dvntm.ytlite_5.2b2_iphoneos-arm.deb
-Size: 6303252
-MD5sum: 6a4eb697a22a8a76cb8d3a9a92521880
-SHA1: c53e59a31cd6f8a29415c3a575a1896ea403a0b3
-SHA256: 0a71ba35afdb95748376fc42699f73cf4ac5e06744db67118b09ddef10515faa
-SHA512: 5b0ec9401e01a038d3c123bd12b47eebc2dcb4b4e97129a44ee3ae2b22c906e8cd57133b0b4f056845ae1ef1f907424927530a4f4f995d1787a05747ec86592b
+Size: 6401046
+MD5sum: a2ef90f6a20480cb9eb7b70b1eee6a10
+SHA1: f040c8128ef9390a66c7191f9fedeeb02815cd28
+SHA256: ee3bf057fd68fcc605e34779239aae5f394c0c65deb45cb9e18e57566658f627
+SHA512: 472c3d79553decd67abef47ab425c5b8bffbd37832c42c44a169a5bc3a412e1171a3e6c840a4743eadbce122165587f5394690f9ba50f772d818fa7c812f3a3f
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
@@ -11185,15 +11185,14 @@ Architecture: iphoneos-arm64e
 Version: 5.2b2
 Section: Tweaks
 Maintainer: dvntm
-Installed-Size: 16252
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 16696
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/com.dvntm.ytlite_5.2b2_iphoneos-arm64e.deb
-Size: 16822816
-MD5sum: faae7371a680e0c7caf99d923a5bee14
-SHA1: 56392bf47de2f8f860305c514871b0b4aa3af466
-SHA256: 3c2bffea60dad101f8f1402170643a61929662ef6f4795eadf39b09489862398
-SHA512: b7acd9733ad08e114697548a6a98eb55038e632fab81e33ff26ae1a872f5f78e1d91dc35d00da4af148dd3b981d48cd8e1a19be21bcc2f0f224ca6965935a3a5
+Size: 6396580
+MD5sum: 4eb12f5da797d5fd8d2bef3b8880dde8
+SHA1: 0e4b9e1fc1de93849df3c1d38a7dd368f7f6f7de
+SHA256: fc8608ce581178b1c82ad8bbac3b373c58bfb0d17c78892e6affc9698ea53643
+SHA512: 9fc8a5440d65712aa4b22a0a687df9846fb03641cd8324aac4faa5a43040f3ccc7ed6c007654faae03a41ccb8a986b8034dff51d8f95740ff70145afe4ce4ba8
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
@@ -22757,14 +22756,14 @@ Architecture: iphoneos-arm64
 Version: 5.2b2
 Section: Tweaks
 Maintainer: dvntm
-Installed-Size: 16252
+Installed-Size: 16696
 Depends: mobilesubstrate
 Filename: ./debians/Rootless/com.dvntm.ytlite_5.2b2_iphoneos-arm64.deb
-Size: 6304368
-MD5sum: e3264414c67662d0727abc26dc680026
-SHA1: c5479894761b9e36a14dfb95f883cf73d6401cc4
-SHA256: 7aaf88234085118f31967470881c2750f4b1867cb022676a200c9ed6b71c3247
-SHA512: 8b5fc2ff03c40224ef7b90398d532ec20111173262f8a664b425df74d26282f2e8ae8fc759f80ceaa3cf092d0b58294f90a0100bd86df458200e9c369f47937e
+Size: 6394072
+MD5sum: 139ab7ad80d26be160b8ae726ab5e55e
+SHA1: 480b7e436438442c5e62f679bd2a3a60f09e261f
+SHA256: b387c367e68c3cfe058fc7f2b5dd4d299cdd7c475a17243c43927ad6df6c10dc
+SHA512: 3ddc09e9842c99b1cfbe9af5877f0103968119ee622bffff8817fc23e347872fb93aa5dbabbad315c82064983319195ed095b29e1b052af40ddfb28660de4701
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
