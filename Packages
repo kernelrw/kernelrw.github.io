@@ -19758,6 +19758,27 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: hiraku
 Icon: file:///Library/PreferenceBundles/DataLogoSwitcher.bundle/Icon@2x.png
 
+Package: wiki.qaq.chromatic.roothide
+Architecture: iphoneos-arm64e
+Version: 3.0-roothide-release-1753440320.f78f608
+Section: Applications
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debians/Roothide/wiki.qaq.chromatic.roothide_3.0-roothide-release-1753440320.f78f608_iphoneos-arm64e.deb
+Size: 3359684
+MD5sum: 2d93cc2d9f261acaab59e3a8468040e3
+SHA1: 503e39636b1fba8c4f63a7fa562627cf0d15bcc6
+SHA256: 55c10def79f13b34073a865a667db86adb0d64055cf8d2773ec7e77915f085a1
+SHA512: 8b5e95a1be430a6e95b45f25a4389239ecd1fa938ef867066ace8da0db02542583a62aa6438db1af6564898ba3db48b5a81cccad10fc09aafc10303eb2541b6a
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Name: Saily (RootHide)
+Author: Saily Team <support.0xa1@qaq.wiki>
+Website: https://sailyteam.github.io/Saily/index.html
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
 Package: ws.hbang.alderis
 Architecture: iphoneos-arm64e
 Version: 1.2.3-8+debug
