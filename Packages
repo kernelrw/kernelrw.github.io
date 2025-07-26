@@ -7425,6 +7425,22 @@ Description: Downgrade iOS apps easily on-device
 Name: MuffinStore
 Author: Mineek
 
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 528
+Filename: ./debians/Rootful/dev.objcmsgsend.theta_2.2_iphoneos-arm.deb
+Size: 155300
+MD5sum: 00b49a2969c72a217491426c0a0b30fb
+SHA1: 9536509b1797c244fda82d31ddbaa21467cde606
+SHA256: fa819ecc6ebdb40857dc47adf202411d570ebecf99ac812a86f7a24a10ea3b7d
+SHA512: bca7c02795e2019c7f0cbc090c70bbc0881f1457c0ea698dd56a8aa483a4475ad93e83f6e3aabcb6b5c7deba75631833672f6c64cbf70f2aa6ad6a385ad742c2
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
+
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -17763,6 +17779,23 @@ SHA512: aaf464917e04b5458cffcbf046ec589762448eba21deebcc0f0ca31e8ae6cfc42d626a78
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
+
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 528
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/dev.objcmsgsend.theta_2.2_iphoneos-arm64e.deb
+Size: 214084
+MD5sum: 84b431a980173e107a7b02fd8bc22a1e
+SHA1: f56971e008b32dc5b99e52f98952023df6c57c59
+SHA256: da53ae9ab412d9aae36d52bedc3d225050d87b1e3f2aac4959de44e9a4350a58
+SHA512: 22b051d21d4f269af5a3b224e98ec00320ef7f0f76304233cf3989e69e23b8f9a29a80dcf07669fde5f0b6f62ed3fd4b4104b2abdfbf9f0c3aa4f43583f565fb
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
 
 Package: dev.quiprr.redditna
 Architecture: iphoneos-arm64e
@@ -29169,6 +29202,22 @@ SHA512: 893edfcea7f392e8ab8ce5ce5767ffac35a88296a7f417f279eb56e735dd3108a6d4dd28
 Description: Downgrade iOS apps easily on-device
 Name: MuffinStore
 Author: Mineek
+
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 528
+Filename: ./debians/Rootless/dev.objcmsgsend.theta_2.2_iphoneos-arm64.deb
+Size: 157520
+MD5sum: 2580fcaefc85ebdf5ac72439468f9765
+SHA1: ddd854558df81bc051359950075b79a408aca3f7
+SHA256: 98b128e3a735056b8566f9c8a62841c2c70b1520c369f8747755287dbfd004f7
+SHA512: 910c8070f7c34169e284489e2ae462463a885030ac325961c6b065cb78e29c344c21242f7d44c3e6e5fc9d7798b475fec5d8ff2f4ec8c56e6532296332f7a39c
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
 
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm64
