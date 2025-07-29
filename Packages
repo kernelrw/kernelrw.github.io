@@ -12073,6 +12073,47 @@ Name: UIScroller
 Author: iamdega
 Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
 
+Package: com.iarrays.libiarrays.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.16
+Section: Development
+Maintainer: IArrays <IArrays@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.r-o-o-t-l-e-s-s-
+Filename: ./debians/Roothide/com.iarrays.libiarrays.roothide_1.0.16_iphoneos-arm64e.deb
+Size: 122768
+MD5sum: d0459be4c34beebd2f7b9ab132b88cc1
+SHA1: a81df6ca24d972101d6f3ee4dccdeb427e9b64dd
+SHA256: c77368089ce8f863983f37639101de1525f06f4aee7e51a238a0cd468f227b2c
+SHA512: ec9681ee1e9baa7942a48d97d5846e605ad46690703b5f315d839ab5bdafa5ac938caa14ed125e7275b1c214fbd86861e297e6dfa67ac2a749155ca027076a1d
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Roothide)
+Author: IArrays <support@iarrays.com>
+
+Package: com.iarrays.simplus.roothide
+Architecture: iphoneos-arm64e
+Version: 1.15-beta-6
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1196
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.roothide (>= 1.0.16), com.opa334.ccsupport
+Conflicts: com.iarrays.simplus.rootless
+Filename: ./debians/Roothide/com.iarrays.simplus.roothide_1.15-beta-6_iphoneos-arm64e.deb
+Size: 629184
+MD5sum: f46a8aafb3c82fed6d0a82a060a6dacf
+SHA1: 8da57e066984b244d907ee5bc0e8c3c5319b75fe
+SHA256: c950c9639e9ad7de7ff1097ffd7b7627a8a5134d724bccdadf09ff405326e77f
+SHA512: b7cb78b5dcae074e9181ebd07ed031f8677466c8ffaa30e9f505d8a1f55b2729b0778a3b910d213acbfebc57c02bf1722dbc46939ed6838ffa320b8e9116de6c
+Homepage: http://iarrays.com/
+Description: The way Apple should have done it, but do not worry. We have done it for you. Choose a way how to call or text while using eSim/dual sim iPhones.
+Name: eSim+ (RootHide iOS 17 to 15)
+Depiction: http://iarrays.com/depiction/simplus
+SileoDepiction: http://iarrays.com/sileo-depiction/simplus/simplus.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://iarrays.com/sileo-depiction/simplus/icon.png
+
 Package: com.ichitaso.autobrightness11
 Architecture: iphoneos-arm64e
 Version: 0.1-7
@@ -23980,6 +24021,47 @@ Description: Rest your fingers, automate scrolling any pages!
 Name: UIScroller
 Author: iamdega
 Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
+
+Package: com.iarrays.libiarrays.rootless
+Architecture: iphoneos-arm64
+Version: 1.0.16
+Section: Development
+Maintainer: IArrays <IArrays@gmail.com>
+Pre-Depends: firmware (>= 9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
+Filename: ./debians/Rootless/com.iarrays.libiarrays.rootless_1.0.16_iphoneos-arm64.deb
+Size: 121344
+MD5sum: 780b12fc7ec59906eda362c33b4d570f
+SHA1: 759f8adf086b7d1d9840bffa3a7d6bcd58f63dee
+SHA256: 54aec0cfef5e56fddc9b8c51d246cef03c5861cde76cd43e4ccc5afdd0bcc312
+SHA512: f870bfaf19e12116d5c9d9ab989839b406741096dc8013518931eb76831bbf6d160bcd23ec372f18992b78eba494fbd46e527814e3efecc822cd06ef808d3bea
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Rootless)
+Author: IArrays <support@iarrays.com>
+
+Package: com.iarrays.simplus.rootless
+Architecture: iphoneos-arm64
+Version: 1.15-beta-6
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1196
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>= 1.0.16), com.opa334.ccsupport
+Conflicts: com.iarrays.simplus.roothide
+Filename: ./debians/Rootless/com.iarrays.simplus.rootless_1.15-beta-6_iphoneos-arm64.deb
+Size: 628946
+MD5sum: 579ae597c372d11b8f27ab0ed1c4ebad
+SHA1: a8365080611cdc823be6ccca638f4c7b542e9860
+SHA256: b4b9e8f56a2c60d7f242165c09e766dd56d2c887437326df1e31c14de53c733f
+SHA512: f1d160214e002445427cc9a5e629742874a0da2960f97cca37322b8ff39b3e2f8aac78b91cc4a413991cce9eecea570330f6eb5a72f88df4a475780b7472bc0c
+Homepage: http://iarrays.com/
+Description: The way Apple should have done it, but do not worry. We have done it for you. Choose a way how to call or text while using eSim/dual sim iPhones.
+Name: eSim+ (Rootless iOS 17 to 15)
+Depiction: http://iarrays.com/depiction/simplus
+SileoDepiction: http://iarrays.com/sileo-depiction/simplus/simplus.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://iarrays.com/sileo-depiction/simplus/icon.png
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64
