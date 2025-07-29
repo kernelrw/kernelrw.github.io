@@ -7617,15 +7617,14 @@ Section: Tweaks
 Maintainer: Teggers
 Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0)
 Filename: ./debians/Rootful/eu.teggers.netkillui_0.2.1-1_iphoneos-arm.deb
-Size: 600664
-MD5sum: 530d3a1808b8659aa2af0dab7cd6b2a6
-SHA1: f0ceccaaf5d665878e440e654d6701c01deca3d5
-SHA256: d9c5e94644e6986541bfdbc3933d04fd1a30594323095046b18c84a997078a34
-SHA512: 58e7301dce869fe80a5954b832505c04d4281784b78e4be5fef6f3bf2803ffa6b9255902bc5a640f5e2438668c77bbf11259d13b52d6f9ed6057f2160ffd7ca9
+Size: 600540
+MD5sum: 7b4cc682799855d9e723c57db82985fe
+SHA1: f0571b70330810536844c7b459a7a1bd2e316ab1
+SHA256: 8c6590e5e7e8cf509b5299ef91d9b2a087a19b6f9084dfd4b130ac64cc2ddc7a
+SHA512: 7826720782f66cc309842ab5d7039e67b02e01dc393b0d9e37f8dec4e4ea256af4e36d5353e7bca12d2f2537f5d80af92bcb63b9c5764a4502fc6e3cb291d57e
 Description: GUI for arp-scan and arp-spoof.
-Name: NetKillUIbeta iOS11+
-Author: Tuggers
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.quarter.barmagnet.png&s=180x180&f=webp
+Name: NetKillUIbeta (iOS 11)
+Author: Teggers
 
 Package: fr.rootfs.rode
 Architecture: iphoneos-arm
@@ -12075,17 +12074,17 @@ Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
 
 Package: com.iarrays.libiarrays.roothide
 Architecture: iphoneos-arm64e
-Version: 1.0.16
+Version: 1.0.16-beta-15
 Section: Development
 Maintainer: IArrays <IArrays@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 9.0)
 Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.r-o-o-t-l-e-s-s-
-Filename: ./debians/Roothide/com.iarrays.libiarrays.roothide_1.0.16_iphoneos-arm64e.deb
-Size: 122768
-MD5sum: d0459be4c34beebd2f7b9ab132b88cc1
-SHA1: a81df6ca24d972101d6f3ee4dccdeb427e9b64dd
-SHA256: c77368089ce8f863983f37639101de1525f06f4aee7e51a238a0cd468f227b2c
-SHA512: ec9681ee1e9baa7942a48d97d5846e605ad46690703b5f315d839ab5bdafa5ac938caa14ed125e7275b1c214fbd86861e297e6dfa67ac2a749155ca027076a1d
+Filename: ./debians/Roothide/com.iarrays.libiarrays.roothide_1.0.16-beta-15_iphoneos-arm64e.deb
+Size: 122608
+MD5sum: bed8e1312818f794581a6a76f7c2057a
+SHA1: 2ec66d6276f5eed2429f9db4e1c7230ec3e21003
+SHA256: 1e4b9be9886fb279ba078ab2fd08b79b9d011ad13803f8964114e7d6cdc5335e
+SHA512: b17b150eb69091ad38efa98ec8fa47c6208bdf806f44f182d94a66e1692f5e13bf808f93d71f6f240f84f79ecb0e43f2eee0598e53938dc4a6e9ee5cb5319b33
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
 Name: libiarrays (Roothide)
 Author: IArrays <support@iarrays.com>
@@ -24024,17 +24023,17 @@ Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
 
 Package: com.iarrays.libiarrays.rootless
 Architecture: iphoneos-arm64
-Version: 1.0.16
+Version: 1.0.16-beta-15
 Section: Development
 Maintainer: IArrays <IArrays@gmail.com>
 Pre-Depends: firmware (>= 9.0)
 Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
-Filename: ./debians/Rootless/com.iarrays.libiarrays.rootless_1.0.16_iphoneos-arm64.deb
-Size: 121344
-MD5sum: 780b12fc7ec59906eda362c33b4d570f
-SHA1: 759f8adf086b7d1d9840bffa3a7d6bcd58f63dee
-SHA256: 54aec0cfef5e56fddc9b8c51d246cef03c5861cde76cd43e4ccc5afdd0bcc312
-SHA512: f870bfaf19e12116d5c9d9ab989839b406741096dc8013518931eb76831bbf6d160bcd23ec372f18992b78eba494fbd46e527814e3efecc822cd06ef808d3bea
+Filename: ./debians/Rootless/com.iarrays.libiarrays.rootless_1.0.16-beta-15_iphoneos-arm64.deb
+Size: 121348
+MD5sum: 4dc01984699140aeb0f0fccb2b221963
+SHA1: dbdb69c4e214349ed219de9c1b843d3bf8ad5af5
+SHA256: 1c81eca9bf3904a6f1abed8f8e5ceee9c64a5f035eab89056b68d5d2585e9ee1
+SHA512: cdc496c1d7f0366cde12940370868c961a56053e10980c0cf9960cd7a5b9228157f5e773754a77c405f93ad8e74a484e0b294e7be3237662968daf4736927d18
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
 Name: libiarrays (Rootless)
 Author: IArrays <support@iarrays.com>
