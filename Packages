@@ -5123,6 +5123,26 @@ Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
 
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 776
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Rootful/com.nguyenasang.snmessenger_2.0.0_iphoneos-arm.deb
+Size: 420364
+MD5sum: 58f45de8f5ce4486727a8af9ef188e4f
+SHA1: 7dc143e75fd1b8e74782452b1c9283844f13e468
+SHA256: 6f480032c25f644682f9d5be9e4e4dff985856074495d9bd9552045235da1c6c
+SHA512: fac5f8b7061d0ae80f5d93a0dc43ccdb15b50d951c6feec7ab40727c3a62ce82fac6de6b833494bf8d92103ad210afb77c687ebd1a2247b7702f16dfaae67d70
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
 Package: com.nicho1asdev.reachtolockx
 Architecture: iphoneos-arm
 Version: 1.0
@@ -14429,6 +14449,26 @@ MD5sum: 0a77e4551749dbb4845c9fbd0470b884
 SHA1: 16ec577576cc2e44bb1c3d447305fc054c5896a9
 SHA256: cfbd663bc8de63b4f9ff677d08d8b6e93535940c7717492172888e0a8cc40e3d
 SHA512: 661f7d190feeef5f986ca7414c52e22fe965c45c88d2360f6d13ace23aba67b8926e5cf1ad2589cf9b4c2f77db2a09bfb13e8acfa2af8412db15c3bf3ad7747f
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 792
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Roothide/com.nguyenasang.snmessenger_2.0.0_iphoneos-arm64e.deb
+Size: 419052
+MD5sum: 1e6daca29880a334201c53135dab0295
+SHA1: 1536a77cf1bc67a89a5870c2c0c11ef50e1a1222
+SHA256: 8471daa3c136cfd6e781a177e0c466aff8ae46837b56e0fe21c98177afd95d21
+SHA512: d29bec889da5bc9935063a3ff596835e392af40ae22592e197c46a3ea292bde3e407dec3f544b69be1495624e543f6ebfcf99aea6f36d0e39008fb4a53820d53
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
@@ -26198,6 +26238,26 @@ MD5sum: 174a85c53d67c7039352c3b0d03aca80
 SHA1: 207d611dbe87893f177df04178fa75f31b1f168e
 SHA256: a97a067a842ef960cd00b789544bd20fb7b1d64c1eb75fa53e16167ca74e60bd
 SHA512: 72560a7cd5f76cf68d37e6a130bfc70638a10804eb54ec87095ad9d055cd021421566726d332ff5aaebd417d9d627cbfbdefd8b25643b1fda420474af60efa06
+Description: A full-featured tweak for Messenger.
+Name: SNMessenger
+Author: NguyenASang
+
+Package: com.nguyenasang.snmessenger
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: NguyenASang
+Installed-Size: 792
+Provides: com.haoict.messengernoads
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Filename: ./debians/Rootless/com.nguyenasang.snmessenger_2.0.0_iphoneos-arm64.deb
+Size: 419368
+MD5sum: dd9c4a2b4603027c11f92bf3ac66ea88
+SHA1: 7e2f75d706e5f36b6e0bef48ead05d145451677e
+SHA256: aa9b0636b3d1b8539b471b7d7c72bc8f2b707f0ae66e0ee42ad5f5678d36d431
+SHA512: e8c04d4a2b35113c12c308f584f2221e87af0f8ea34ac80377d986a479e367aa0e382baa7c2812386958fc85d32bf7d7115b6fe7d603ea0b44cae0a1ee142b5f
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
