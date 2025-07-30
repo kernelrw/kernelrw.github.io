@@ -19912,6 +19912,27 @@ Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 
+Package: wiki.qaq.chromatic.roothide
+Architecture: iphoneos-arm64e
+Version: 3.0-roothide-release-1753762792.8c2ea30
+Section: Applications
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debians/Roothide/wiki.qaq.chromatic.roothide_3.0-roothide-release-1753762792.8c2ea30_iphoneos-arm64e.deb
+Size: 3359784
+MD5sum: 608fd304c956d77224fa540cb02c9d05
+SHA1: ce3f9600e0569ec726d74dd6a4dc737e7724306e
+SHA256: a7fa67fd69b3d5b7341597fac7c143a9a2bcbaa9ec62cb9c70d46ce9ac1cd7c4
+SHA512: 464f7767b3b973ec19a66afd3e6365adda32092178fd7bb31f9c09ae405ddc8de7c61445e0019e9b796841612d3077b4ed6455c3ae9c951a6ff7cd96d2a3096c
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Name: Saily (RootHide)
+Author: Saily Team <support.0xa1@qaq.wiki>
+Website: https://sailyteam.github.io/Saily/index.html
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
 Package: ws.hbang.alderis
 Architecture: iphoneos-arm64e
 Version: 1.2.3-8+debug
@@ -31240,6 +31261,27 @@ MD5sum: 20c5115496dccc9d954ad774bca7939c
 SHA1: 03f42fbf0f0af1f34e09691bc9daea32f4c11004
 SHA256: 83641c56ba1f84ba4a02cc5d947d05f88c8f9ddc29798f4509c4adb96b79e04a
 SHA512: e39fd3aea6a27e5e8a715662994713ace872faad0ad700e3e8dedf70e8f3147c8966abb32470890f7881b60318418a3c300b91f6e20e0bd0a099e937f25d782d
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Name: Saily (Rootless)
+Author: Saily Team <support.0xa1@qaq.wiki>
+Website: https://sailyteam.github.io/Saily/index.html
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
+Package: wiki.qaq.chromatic.rootless
+Architecture: iphoneos-arm64
+Version: 3.0-rootless-release-1753762792.8c2ea30
+Section: Applications
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debians/Rootless/wiki.qaq.chromatic.rootless_3.0-rootless-release-1753762792.8c2ea30_iphoneos-arm64.deb
+Size: 3362180
+MD5sum: 5ea0e8d6086d3013f74b5b73ecfd5ac6
+SHA1: 6af01ae5b9df570f9920a729055933e98c2019a3
+SHA256: 7acb98608cafe0b2a607927dbb65f60975014e643e0e25d59a7be252c8bbde35
+SHA512: ec055618cedce9ff8e0ec02b4b7cc92ebc91bef46a251e493a931affcc1b10bff362e3bc68cac64ffc77c048ef899c293b3481c8cbb008490bd095ce2896b7f5
 Homepage: https://sailyteam.github.io/Saily/index.html
 Description: Modern. Fast. Beautiful.
 Name: Saily (Rootless)
