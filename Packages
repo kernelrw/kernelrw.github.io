@@ -5535,15 +5535,16 @@ Maintainer: opa334 <opa334@protonmail.com>
 Installed-Size: 1136
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Filename: ./debians/Rootful/com.opa334.choicy_1.5.3-2_iphoneos-arm.deb
-Size: 160780
-MD5sum: cae2a9e75e13f9fbc40bd3276b2c014b
-SHA1: 48d59621d3f264f54c09a7bada2ff9588995c300
-SHA256: 1c9a778c3117674b89689915c54efe9cef0331fd974533f1b33ea74e3fcf8f9b
-SHA512: c7864ed0f8c07080839331238344fd63d36ff624c10214acffc175eca49db951655eedc6c38c1bb36f70919e580eb0c7c8faf9ffb9dbe394713889ba28934df8
+Size: 160952
+MD5sum: 5e9ce90530013a489ef41213ff53bc03
+SHA1: 870f0f750120722dd0bf5779d179fce451002410
+SHA256: 8694d64b87d7738fba255b9ef531d53f1c3086642fe3cfb56dd64242c995ea07
+SHA512: 20359a0d6e0b07b0183ee7a5abb0eae3fd261a640a42a3f72c385e1ed3d9fa6c45e9139b226e8f961bbe74c040fac91479d525d59e2717c8006254b662e1309e
 Description: Advanced Tweak Configuration!
 Name: Choicy
 Depiction: https://opa334.github.io/depic/Choicy/index.html
 Author: opa334 <opa334@protonmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.opa334.choicy.png&s=180x180&f=webp
 
 Package: com.opa334.choicy
 Architecture: iphoneos-arm
@@ -14992,15 +14993,16 @@ Installed-Size: 1136
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Filename: ./debians/Roothide/com.opa334.choicy_1.5.3-2_iphoneos-arm64e.deb
-Size: 214012
-MD5sum: 93f692a0a9331ee0e77022b0b6834f0c
-SHA1: d28b0abd6fa79d74ce4f944ccd491f318507adf9
-SHA256: 00dcaa68975c09972c3fa01b5d50f3684b145f478616ca1b5a6f4ac9ab80d3b7
-SHA512: 1154a720851b8414f239489cd5cce21a67266373c26563b0ff2ce6aa6902121fcb33edc6b845a74b7d38ce9bea9b5c3f59ed3fe9fc81cfbd4501e855530d9d75
+Size: 164976
+MD5sum: f15531fc62f480f0e08d5536d6cd8eb5
+SHA1: 3a1ade8a6a271949535568b9dca04cf947cf42a4
+SHA256: 5b980210efddaf4eae6e154e7725b983fc24b0775ce5474987696adee3e3decf
+SHA512: 36419f135c307cf3806044ebc9e08b944a0d581ac885e90ecbb911021f84b878643e7aa1fbd89956f75e9564ca92f8ca667dbc2b390ac277a3ac02df4bd82a4c
 Description: Advanced Tweak Configuration!
 Name: Choicy
 Depiction: https://opa334.github.io/depic/Choicy/index.html
 Author: opa334 <opa334@protonmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.opa334.choicy.png&s=180x180&f=webp
 
 Package: com.opa334.choicy
 Architecture: iphoneos-arm64e
@@ -26872,15 +26874,16 @@ Maintainer: opa334 <opa334@protonmail.com>
 Installed-Size: 1136
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Filename: ./debians/Rootless/com.opa334.choicy_1.5.3-2_iphoneos-arm64.deb
-Size: 161766
-MD5sum: 198ec8c26c632d83b25d36f4563dfc36
-SHA1: af4d88e9344709fc28d26b3c01e4a89360802e2e
-SHA256: e427d3756261b89f4986fcbe42664168367ab78110cd326c545027a3c7de0df5
-SHA512: 05b9c85721254faa1bad0ac2d6d53047fc611875c455492204e31748ef20a50409c7ccd9e87ebc400fa12a13c5686620d303ebcebf05c0b1b4dbb6bd51726f5a
+Size: 161468
+MD5sum: 8ab5f0965c8fd7ba8c7170f8fa4b2e23
+SHA1: a5c0cad3a8f820a6ef2f66349ec55af2b95b545f
+SHA256: aeea4ee9251de9a9f1b8948cb093f46621589febae315acef2a1ff1b7472b2a5
+SHA512: ad3356dc2a679d15310aa544fc2fe07641b182c0f58acd8f374c83f80bb84e71788d8109eeeb963058d7db58ddb330615b791071826d5379967419c20e50311b
 Description: Advanced Tweak Configuration!
 Name: Choicy
 Depiction: https://opa334.github.io/depic/Choicy/index.html
 Author: opa334 <opa334@protonmail.com>
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.opa334.choicy.png&s=180x180&f=webp
 
 Package: com.opa334.choicy
 Architecture: iphoneos-arm64
