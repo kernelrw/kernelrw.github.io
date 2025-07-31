@@ -6187,6 +6187,28 @@ Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
 SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
 Author: RedenticDev <redenticdev@gmail.com>
 
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 84
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debians/Rootful/com.rpetrich.powercuff_1.0_iphoneos-arm.deb
+Size: 7014
+MD5sum: 5da23d4fe5157ef9ccd21aee7ebb4fb3
+SHA1: 962320d02ef34280d5b5e680c760c55b9ac503df
+SHA256: a7f8d7005b267ef90e0521bbb0afafdaa5ee7c23d1625bd449d764e98da9a079
+SHA512: 973257c91c394938c2653a94d61c78118710f6ba5a8f3cb37c8526cffc973a6824c85d808ae8cb516f1c31aa91eac7140e121d480f94b171797aed5f5c7272e3
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Version: 1.0.10~beta4
@@ -11721,6 +11743,27 @@ MD5sum: 714a45fc49dc178310c47d79490b1026
 SHA1: d74903336199967061ca60ef6f6f2979ac7ff373
 SHA256: c6c5c2b92d12c2c58f43341a3c4a1e62d441d9393892b2c9a773e190e79d8fbb
 SHA512: 50be7199428183df97e0be4fc1cdbd4caee0711a778b0187e055dcadfe12c065dafa1469b829e02208c1e8e16ccfdbfb955e447a91afa565887da5c5d4b33dfe
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.79
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6456
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.27)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Roothide/com.fouadraheb.watusi3_1.2.79_iphoneos-arm64e.deb
+Size: 4701268
+MD5sum: f919b41ae2a13e6f7146899cd5a6be9b
+SHA1: 95ae8b11240dc71169d68b429373d70e849a669c
+SHA256: 53e46c391fefeb5dc7324ecfd5ad88cad88364f46df7ccd6950533c1ef3fe0b8
+SHA512: adab158835f8e88e6f447e5d7291b73985765d7cf44b1381c1737611e6ff582213a8b3477c837b1c0971889e1dd38d2259dbbf0bc394071e6ea24a8be9081bf1
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -23515,6 +23558,26 @@ MD5sum: 34845b1b49ddd634ef773844d6d650cb
 SHA1: 4f67b64e55701b4118005aa5c257dc55c50de4a0
 SHA256: f914e1f39fa6ff6e7535150a114aed86b04044f307cbb63163dbe6ef57b9b686
 SHA512: 8410b03a240fa37c8ddd545d30e412584455f986167a3ee4204108a15b20ed8d8093df1aee4f86a138100b3faabafb844769eafb708f48952209138339939495
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.79
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6456
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.27)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Rootless/com.fouadraheb.watusi3_1.2.79_iphoneos-arm64.deb
+Size: 1944416
+MD5sum: 7d21dd2933884bbccccc998e7d18e5f9
+SHA1: 1de243e5f6d06922b81ad04c4dc2416ced0fa9d2
+SHA256: 151d0a98b79a729d4d93468102645ede9c85b0502fd95d7ee2a89295239da087
+SHA512: 1e060943dab859522f84b830cc0bb1a637f36109afb2c5d05bddbfd8e54926e50dce00be49c1e3b9e9c8bee824cbc8e7ab867732b2ad284131e880f5cd2cc859
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
