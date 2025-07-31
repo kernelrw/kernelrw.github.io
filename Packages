@@ -3308,6 +3308,23 @@ Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
 
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm
+Version: 1.0.3-1+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.ifilipis.fckzck_1.0.3_iphoneos-arm.deb
+Size: 10274
+MD5sum: 5342fb263b83f1e5e4fd4ff6672eefe5
+SHA1: 8f9b3a0520d93fc96382b6fb6f64c466e11a4b63
+SHA256: 0f2948d0b8b43837ffa97ee74ed6c4167df4631ce8ad0696b041db420e1a7205
+SHA512: afb4e5ca836b3c8f3ef06786ee55ce9f1319bf9b67bb4f09375e5819bddb19a11526e0395a692a44ffc7a78573100b19f55547d1552a09daf21e12813b276b91
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
+
 Package: com.imkpatil.callblocker
 Architecture: iphoneos-arm
 Version: 2.0.3
@@ -12438,6 +12455,24 @@ MD5sum: 97a7ef5c905a808bd2bd8ddf38e08052
 SHA1: b0052e5df759c22372bc40d1e02c74f6b088c624
 SHA256: 05e3cc46bd9374583041678ec5056c700064cf889fdfafd7d423b7e2d9502134
 SHA512: afee8229dc490ba87678aea7f867df092bdc240fcc1feb335469b956234d08d38aa6ea272142b8d0a583dd8a5076edfe59e90306225d914d41035b800137b5cf
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
+
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm64e
+Version: 1.0.3-1+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.ifilipis.fckzck_1.0.3-1+debug_iphoneos-arm64e.deb
+Size: 9722
+MD5sum: 403cf0fc668ff1b9aac7b80164e5de35
+SHA1: 38e712b81f2e2ce6dbedaf1d1d5c15a5dc0da4d7
+SHA256: 4580104f90bfa99fef1ce7ff2416b8d77a1f75bfa455c245336f3cd58757b3a9
+SHA512: 03e1401a0f60800de0a48b812d560f00f957bd47f69fffe951df1b5744c933fe43e1be44c26cc31ed72800f8e417b271ca3a088bba23d038ee0040f9d5c79e3c
 Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
@@ -24236,6 +24271,23 @@ MD5sum: c3e2d899d4314afb115d3c97732150b6
 SHA1: 03c440665bf547ed5849abdc7c6e20f95fd4bc38
 SHA256: b48f93d0ce0e5ae3060b1ad436dcb9ef7880e2dc6e0fc1de87be250b85f8f188
 SHA512: 2d359f85b2ffeaebbb72779b1c405d98ff11c89d7dfa8939c5d10061a093696c3264fa1e38ba9ad76dc63c53d10929b702bbc957efad4d7b7528f28f2cab679f
+Description: A tweak that kills forced updates from WhatsApp completely
+Name: FckZck
+Author: ifilipis
+
+Package: com.ifilipis.fckzck
+Architecture: iphoneos-arm64
+Version: 1.0.3-1+debug
+Section: Tweaks
+Maintainer: ifilipis
+Installed-Size: 156
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.ifilipis.fckzck_1.0.3-1+debug_iphoneos-arm64.deb
+Size: 7652
+MD5sum: f84f89680620c90f8441c4884a2a4f27
+SHA1: 1d2c2115834f4d995bcef86c4d498aee8850d182
+SHA256: 01ac1c88179239f852e7164af3a61f8075bd84a676b80f390dc2571233d74880
+SHA512: 6856accd3cfa5e348471f30201df39c18f6655b67afd9475a18beda4de1a3374fb9a7b41edb48455a80eb34500f399be34990dafce02d955e474f6804a070564
 Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
