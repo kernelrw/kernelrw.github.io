@@ -4156,6 +4156,25 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
+Package: com.mtac.fingerlock
+Architecture: iphoneos-arm
+Version: 3.0.2
+Section: Tweaks
+Maintainer: MTAC <mtac@mtac.app>
+Installed-Size: 936
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts:
+Filename: ./debians/Rootful/com.mtac.fingerlock_3.0.2_iphoneos-arm.deb
+Size: 159592
+MD5sum: 074fb1c3e6cc7d15b91275ab2f7c5f45
+SHA1: 9d69d6b79268e6a0bb0a31698c36f248e3379b9e
+SHA256: 8469ba4fab6acc0aa29e0bcfcad856596bd664ed4b53ffa6947c8d99c726553c
+SHA512: dc4c5a58fdca236d59ad475410b60a8c69ecbe752f604331dfbcce4ccf30a8da6b88a9d046b5d757ef200cd88757968d52a61866a1e4df881116939b0c8eceee
+Description: An intuitive way to unlock your device
+Name: FingerLock
+Depiction:
+Author: MTAC <mtac@mtac.app>
+
 Package: com.mtac.launchlogo
 Architecture: iphoneos-arm
 Version: 1.0
@@ -13535,6 +13554,26 @@ Name: CCPowerMenu
 Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
+Package: com.mtac.fingerlock
+Architecture: iphoneos-arm64e
+Version: 3.0.2
+Section: Tweaks
+Maintainer: MTAC <mtac@mtac.app>
+Installed-Size: 936
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts:
+Filename: ./debians/Roothide/com.mtac.fingerlock_3.0.2_iphoneos-arm64e.deb
+Size: 220416
+MD5sum: d1cb7ad6616aa5b76d4686b2e1e75b7f
+SHA1: 8eb0395be577eba4afc375c972947e93e77c054e
+SHA256: faaf623ef073d3b83cb07093e4c579428b0a47398128cce1eb09734109aa5fb9
+SHA512: e2dce5a6eff6bc9cea7dae786e82108543b103c4e6c41f785cb67c91d9bc2d202f35fae359fec24a8ca7df675abcc9d8a86846653be74b7548bd7c59e38a2b3b
+Description: An intuitive way to unlock your device
+Name: FingerLock
+Depiction:
+Author: MTAC <mtac@mtac.app>
 
 Package: com.mtac.launchlogo
 Architecture: iphoneos-arm64e
@@ -25140,6 +25179,25 @@ Name: FrendaCC
 Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
 Author: sugiuta
 Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
+
+Package: com.mtac.fingerlock
+Architecture: iphoneos-arm64
+Version: 3.0.2
+Section: Tweaks
+Maintainer: MTAC <mtac@mtac.app>
+Installed-Size: 936
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts:
+Filename: ./debians/Rootless/com.mtac.fingerlock_3.0.2_iphoneos-arm64.deb
+Size: 163440
+MD5sum: 0eb521a1a29ba083a0c1fc2338877023
+SHA1: 0fbcb328c731c016f4e3b29ef9f07591294507ab
+SHA256: 5c86c6f57d1b62050cb716d9323a0ef051470183a7e84131665cd1f52f7740d3
+SHA512: abd0ca564db213ba860e01083b6322fe8409525a6ff0c71e6e9005096753224a7e436484f6182ba948ed29fa748f423bf402851713f1df44bf84a56f47689fe1
+Description: An intuitive way to unlock your device
+Name: FingerLock
+Depiction:
+Author: MTAC <mtac@mtac.app>
 
 Package: com.mtac.launchlogo
 Architecture: iphoneos-arm64
