@@ -9172,6 +9172,31 @@ Name: Apple File Conduit "2" (RootHide)
 Author: saurik, Cannathea, i_82, Shadow-
 Depiction: https://cydia.akemi.ai/?page/com.cannathea.afc2d-arm64
 
+Package: ai.akemi.appinst
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Priority: standard
+Section: Utilities
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 364
+Provides: com.linusyang.appinst
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 5.0)
+Depends: ai.akemi.appsyncunified (>= 5.1)
+Conflicts: com.sull.appinstaller
+Replaces: com.linusyang.appinst
+Filename: ./debians/Roothide/ai.akemi.appinst_2.1.1_iphoneos-arm64e.deb
+Size: 74300
+MD5sum: e3c79b7e0c94e6dbda539d0403edc8eb
+SHA1: 9ee955799aa811ac841afb1ffaf50ace0e512154
+SHA256: 0e06f0437eaa77a8a05d26fdf1b9b7c84ad2ac1cf4cf4070c9d0106cda70ff88
+SHA512: 72044fef290f285cafc9fc6a16f4be09d94af6b6d63a92ba2d0caeeaf906d9d158f70081bdadab7d0ae16893b5d7b3b0fedae3be85647ecb45a4e377c5739a6e
+Homepage: https://github.com/akemin-dayo/AppSync
+Description: A command-line IPA app installer.
+Tag: role::enduser, purpose::console
+Name: appinst (App Installer)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
+
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64e
 Version: 116.0
@@ -9795,6 +9820,24 @@ SHA512: 9747fe86276e2fb51d435154b159ab724120879d03bd22caba89799e13d486eabd7d5d0e
 Description: An awesome MobileSubstrate tweak!
 Name: Oh My Insets
 Author: Lessica <82flex@gmail.com>
+
+Package: com.alaise.azule
+Architecture: iphoneos-arm64e
+Version: 0.8.3
+Section: Utilities
+Maintainer: Sudo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, ai.akemi.appinst
+Filename: ./debians/Roothide/com.alaise.azule_0.8.3_iphoneos-arm64e.deb
+Size: 6628092
+MD5sum: dc74a65edf230db7311f167f6e7e3fea
+SHA1: 0903f8e9dae11bed2d038da23133a0e83cac51f8
+SHA256: 1b841778e3d36a88edd9576572312f5cac7c88bb512832201afb20947581163f
+SHA512: f3f91d40a369937f81aa65e08942b495d5f2d2ae90a901b45825e57879bc8eaa20ad85e803e1a9d8bb1fa664c51be10488b4fef2bf73e83dd2efda0bd2077cac
+Description: A CLI tool that injects tweaks into iOS apps. Updated for rootless by Sudo .
+Icon: https://repo.cypwn.xyz/packages/Azule-Rootless/icon.png
+Name: Azule
+Author: Alaise, Sudo
 
 Package: com.alexpng.tapme
 Architecture: iphoneos-arm64e
@@ -20998,6 +21041,23 @@ SHA512: 4eff0e1e87e2294d2b70ea493ca3a92fb3256e32347f3fcc9e9060c3293c2c8479234f20
 Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
+
+Package: com.alaise.azule
+Architecture: iphoneos-arm64
+Version: 0.8.3
+Section: Utilities
+Maintainer: Sudo
+Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, ai.akemi.appinst
+Filename: ./debians/Rootless/com.alaise.azule_0.8.3_iphoneos-arm64.deb
+Size: 2240468
+MD5sum: b6e29c4cc873286c6ea9fde0dd6c5da3
+SHA1: 29915cb2914097ebe008067576de03c8334f42ea
+SHA256: a15f7841e90e92fcd63f4cc02763fed0717e2467dc230d33b0b057cbc5f6b36a
+SHA512: 376986e5d7eff0ba3c8f5672161a331a1a19bd38244ece1e1bfe78f1fa5527d104112d5f9d7293020ac58baceb313141277a798f627eccecf3d00ebc525cc8e0
+Description: A CLI tool that injects tweaks into iOS apps. Updated for rootless by Sudo .
+Icon: https://repo.cypwn.xyz/packages/Azule-Rootless/icon.png
+Name: Azule
+Author: Alaise, Sudo
 
 Package: com.alexpng.tapme
 Architecture: iphoneos-arm64
