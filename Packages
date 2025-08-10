@@ -12202,6 +12202,24 @@ Description: Faster iOS animation.
 Name: Speedster
 Author: Hoangdus
 
+Package: com.huayuarc.xuanhua120hz
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Huayuarc
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.huayuarc.xuanhua120hz_0.0.4_iphoneos-arm64e.deb
+Size: 5112
+MD5sum: ac9169ea4b0426ca7c49927f7484fa2f
+SHA1: e31cd8c70de44c811d7f4b8725331d707896a2f7
+SHA256: 4240387b57a2703952eb06688ec49912dda2923f546a1f76764660855ff3f45a
+SHA512: f920feccb0f0b2e418186dd0e3a49d66dfd893703cd8023aab6b7c8ea1167f562fc91581300e5de0edeca68f110cd17a32aaf95f362d331a966a35fb7d2dad64
+Description: Free 120Hz refresh rate tweak that can help reduce battery consumption due to dynamically adjusting the refresh rate. Ensure that your device hardware supports 120Hz.
+ - Notice: This tweak may not be compatible with all iOS versions, depending on the internal implementation of the system.
+Name: Xuanhua 120Hz
+Author: Huayuarc
+
 Package: com.hw.ostrichvpn
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -24325,6 +24343,23 @@ SHA512: 7ab184fc1b9448d61fb247307d6f667a778f9b49750c9713b3f1e64127d0b0ee40b7207a
 Description: Automatically turn on low battery mode on lock screen .
 Name: LowPowerSleep
 Author: Hoangdus
+
+Package: com.huayuarc.xuanhua120hz
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Huayuarc
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.huayuarc.xuanhua120hz_0.0.4_iphoneos-arm64.deb
+Size: 3888
+MD5sum: b831a687811afe47a7e7a5e78a4d90e8
+SHA1: b7d0d4467abe26357a5ac051c46e0b8b5dc85178
+SHA256: cdd26b0a1fa212f81059a2f494eb662a83e02978ab16f017b394fda551177884
+SHA512: 2a6aff15e7040bd72fc105be7127513ead344abfe40d272d4ab531dc344e90764d32dab75764f17ae70f17729124cddfdb27e06abfe3e72e525046094b892b04
+Description: Free 120Hz refresh rate tweak that can help reduce battery consumption due to dynamically adjusting the refresh rate. Ensure that your device hardware supports 120Hz.
+ - Notice: This tweak may not be compatible with all iOS versions, depending on the internal implementation of the system.
+Name: Xuanhua 120Hz
+Author: Huayuarc
 
 Package: com.i0stweak3r.sneakpeakk
 Architecture: iphoneos-arm64
