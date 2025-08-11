@@ -677,6 +677,24 @@ Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.amywhile.ccpatch13
+Architecture: iphoneos-arm
+Version: 4.0.0
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 168
+Pre-Depends: firmware (>= 8.0)
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.amywhile.ccpatch13_4.0.0_iphoneos-arm.deb
+Size: 3956
+MD5sum: 096774aaf2751cd8781bb5f147c5c4e5
+SHA1: 7ff66ab9db1f3a6b2ae63df093e0b13101b6af75
+SHA256: b0caabff11611992e3a20908a4dd694955ec0c6076de86d53a2a8ec048933900
+SHA512: acd630df79b7f8b0d8212208a985794badb5a00337615a19ce9b676514486a0c770cfa0be8b45f85bfc3d6b77df83dba059e7af7e80fd4d631f9ad1b29395e39
+Description: Hippity Hoppity make CommCenter your property
+Name: CommCenterPatch13
+Author: Amy While <support@anamy.gay>
+
 Package: com.amywhile.macspoof
 Architecture: iphoneos-arm
 Version: 0.2.1
@@ -7515,6 +7533,23 @@ Author: Mineek
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.mineek.appstoretroller_0.1.2_iphoneos-arm.deb
+Size: 16880
+MD5sum: c0cd62d0e39b413115c7fcd8294a75f6
+SHA1: 3b2a38c142f0174ae84869baa036b9b942047909
+SHA256: dee47c1e2e80e1c646c8918da766c237a135f91bcfab3a03105d0cf4585c1039
+SHA512: dcc2ca3a0e9f4bf6b0c154f6c98eab534233161f02f769a4eab599b4df6d3ab230f2eb0400413313862d4b5b581f89dd153e063f9a78170fab3d4201e27c8208
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm
 Version: 0.1
 Section: Tweaks
 Maintainer: Mineek
@@ -9879,6 +9914,24 @@ Author: TweaksDev22<tweaksdev22@gmail.com>
 Depiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
 Icon: https://alexpng.github.io/depictions/com.alexpng.tapme/DebIcon.png
 SileoDepiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+
+Package: com.amywhile.ccpatch13
+Architecture: iphoneos-arm64e
+Version: 4.0.0
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.amywhile.ccpatch13_4.0.0_iphoneos-arm64e.deb
+Size: 5592
+MD5sum: c4f6538ddf5812b80250bcb6dca13463
+SHA1: 90874b7a5cf4f9e9c76c4aed98d900f633a90cb1
+SHA256: 85efed2699b8d0828175d6d05997a84dad217bafd4d3e6c1e5a6c889d7df307b
+SHA512: 12950a5ef10c9957be82aa5a3f43c282ff4b6497aa39e6f8d0822f041e75dbf9d890fa7624da7fa39942181a7625560671542ce67b2f1061a69e22aab689e169
+Description: Hippity Hoppity make CommCenter your property
+Name: CommCenterPatch13
+Author: Amy While <support@anamy.gay>
 
 Package: com.amywhile.macspoof
 Architecture: iphoneos-arm64e
@@ -18129,6 +18182,24 @@ Author: Mineek
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/dev.mineek.appstoretroller_0.1.2_iphoneos-arm64e.deb
+Size: 23758
+MD5sum: 496684990af5e7aa22c0e3349d7fc9e0
+SHA1: b74e35495b70ccfd230ce472425337329d92c9de
+SHA256: a39459dc0cb01d8407da0ca527784d1b4722c28032b67a23dc7fdc5e60c2c708
+SHA512: 93277aab4ff19e4af54e1063bfa68387d99eba2d1f74a0d99b37a2ab59c8cfa1d35d32b06bc8e963651b29d9e2e0c68154c545e282ccdf304556471300660ea7
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm64e
 Version: 0.1
 Section: Tweaks
 Maintainer: Mineek
@@ -21154,6 +21225,24 @@ Author: TweaksDev22<tweaksdev22@gmail.com>
 Depiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
 Icon: https://alexpng.github.io/depictions/com.alexpng.tapme/DebIcon.png
 SileoDepiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+
+Package: com.amywhile.ccpatch13
+Architecture: iphoneos-arm64
+Version: 4.0.0
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 168
+Pre-Depends: firmware (>= 8.0)
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.amywhile.ccpatch13_4.0.0_iphoneos-arm64.deb
+Size: 4080
+MD5sum: 2a6132701e004c4f817f3cd8169dcee7
+SHA1: e3f0b8eb29ed194b0224f23864c5fbaa4e12ed03
+SHA256: ab1ff7426a6aa05f9cd96e3b63cfe61980e45f70f9812ce73843662454b91898
+SHA512: 2e0e6cc4b6c694a29142d5c2685bfcf5e575cd01d3849879026fbf0d8eb1cbe5871e38e129b0bb0e149760c453a834d3692282b008ff5f993a762956ebcc2649
+Description: Hippity Hoppity make CommCenter your property
+Name: CommCenterPatch13
+Author: Amy While <support@anamy.gay>
 
 Package: com.amywhile.macspoof
 Architecture: iphoneos-arm64
@@ -29763,6 +29852,23 @@ MD5sum: d6ae49b8bbe96785cc1059d53588f819
 SHA1: b53008a07d13f00561fb4a63a786624131221b1f
 SHA256: c76025bb90c2b643a71add13538981c61c58391575f47fd31441c641a1d90788
 SHA512: 94c14881d027ed801930d2ac378e78d193844f850d82e829310f98cb01a661c66ef52f79f69d0a5cdd01f785782627d1d831fe1af9f4117c62c7a868a7d60b7b
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm64
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/dev.mineek.appstoretroller_0.1.2_iphoneos-arm64.deb
+Size: 16996
+MD5sum: eef9f7cbf91f0e1f8cdbc88022009448
+SHA1: 6ea80f586aa3fd9d0d5114fa63f05ba00e387d59
+SHA256: e15d6c875c463c55b741efcfde3747fcb3cfb91c53a00050ebda4c042240fdeb
+SHA512: 043fa78b0c8fe5a0c566e7fe847a7180f8dac50fe9068c15e2d7c9a39c513dd1a6117e4e55a103051ada7c27d2d93f2a96a51afc7a6ba9ab3517f9d1f7f6bfed
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
