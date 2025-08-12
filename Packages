@@ -4346,6 +4346,23 @@ Description: Tweak that changes the background color of Now Playing widget of th
 Name: MediaColor
 Author: Nathan Senter
 
+Package: com.nathan.pinghooker
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.nathan.pinghooker_1.2_iphoneos-arm.deb
+Size: 6304
+MD5sum: 7f56f6ff9d1cb955df06c40b8aa4e156
+SHA1: ce8c3dc89fe46861e956769dedcdc48dfa8035b7
+SHA256: 08bbfa3dc0042eaf9091dbe7bbb596e61ac15dceba181a2462c7d1476e5139a3
+SHA512: 7792ecbe77816b96fdc941526a8a22927af6dd16652846303f585064dce056b59c274fd77a1fda8f5734173bf93a11db10a9abee46365362b483316076c58dcc
+Description: An awesome MobileSubstrate tweak!
+Name: PingHooker
+Author: Nathan Senter
+
 Package: com.nef0pam.betterccxi
 Architecture: iphoneos-arm
 Version: 1.6.0
@@ -14126,6 +14143,24 @@ Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
 
+Package: com.nathan.pinghooker
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.pinghooker_1.2_iphoneos-arm64e.deb
+Size: 9176
+MD5sum: a0b04384a38f1d80f81bbfdf4aa54fdf
+SHA1: 81e5d6c827a69c6830532a00597e3389d2c7eb94
+SHA256: 6600ffd682a5b7a5a57da373f9b4e6f43c3baec259ec9f91a3a1e5cfa4236680
+SHA512: 37e51a6e1761ff42decf4a5bebd7d0c4ea90605030a1a21097defca1acd7f2732def5953db1cb3c0dac4415a1b011c2ee13195d5d252e5d8d5ba469705c2e308
+Description: An awesome MobileSubstrate tweak!
+Name: PingHooker
+Author: Nathan Senter
+
 Package: com.nathan.respringcc
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -18284,6 +18319,23 @@ MD5sum: e480cec7878df1a30b7cd42e253abb1d
 SHA1: b631ac3f3fda521f99eec4399088da331725df67
 SHA256: 0ca2ee2e3adcbaf4687e2cb5ebeb58a1ab75255182b6bb9a752ac21d458f87db
 SHA512: df9727103b63b79c20a0e013931a8116099f4e6e1c52e7fa3209aa75c665df8e06cbb259936a2d0a43ff495b20bf2060d240be28c1dee84943d6872bca85de1a
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
+
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm64e
+Version: 3.1
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 38176
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/dev.objcmsgsend.theta_3.1_iphoneos-arm64e.deb
+Size: 40065106
+MD5sum: 9f6933162dc1cda5cf99b82c44e9c928
+SHA1: 0fe0363a57c8029986215ae166156ee2724c0bee
+SHA256: 6066e334c3aeb56aa9e27e6506a8b303d42afbb3fdb2435c824e0c1d036e9394
+SHA512: 442b06526b5335554e3dcc8d7efcf1e1ee85498eec0eeab45ad48e5c46d5e41593872a255734b68447b0b58d252d237cc21e642ff0a4ec710d343082827a384d
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
@@ -25975,6 +26027,23 @@ Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
 
+Package: com.nathan.pinghooker
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.pinghooker_1.2_iphoneos-arm64.deb
+Size: 6252
+MD5sum: 843d1c33d6447ab1c032c285e9e26c58
+SHA1: 3d2cb6a41773a0dc7665dff03dccf2c0fff2a1f1
+SHA256: 3126db5ad2220f55cb0145fa724a39f95252919e397814f423ea5c4bb1fa5b7a
+SHA512: e8265dea8e411845a2790c5fa0beedb2b5d7db341e7122635d029af27cc4a1e3d0df1fc4517bb39676b831b2e9843a325c1024dc04f00e6529d87ebfd8927bd4
+Description: An awesome MobileSubstrate tweak!
+Name: PingHooker
+Author: Nathan Senter
+
 Package: com.nef0pam.betterccxi
 Architecture: iphoneos-arm64
 Version: 1.6.0
@@ -29991,6 +30060,22 @@ MD5sum: 60d83e1ab8c26907c23ea0fdb4961367
 SHA1: 445c0bef6b2fae7283e42c594003b7c08f90cd29
 SHA256: 1bded1849d881d70b5d5fd34f073276aeb0aae4bd5bbcd9eec41e41d6d04b867
 SHA512: 25c28ab0077e293fead355b9782eb19e8f2084576242a3f5af53a466047da26a1fefcdedc218f646f93dcfaf1ebbf048a2a95bc83c6dc8f2ad2bff67a4662c9a
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
+
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm64
+Version: 3.1
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 38176
+Filename: ./debians/Rootless/dev.objcmsgsend.theta_3.1_iphoneos-arm64.deb
+Size: 14408090
+MD5sum: 1fcd430f243f65797c5901d48c07a4a2
+SHA1: 0f48ef828e298c227087f482cccef08bc06dda0a
+SHA256: 3569ab6a67d417595096a34de699d1ce1f3f90cd4ae2b61bdf3b2a4d6ff729ca
+SHA512: 2676634d2254f256e9ded65608642a8768939cd80af86110926544c8605c87a19a64bd92763bc70e1a34f128b1c1e6666b04da25b20575159325798a4bfc147d
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
