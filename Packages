@@ -5195,6 +5195,23 @@ Name: Twitter NoAds
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
 
+Package: com.newwares.badgesync
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: newwares
+Installed-Size: 384
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootful/com.newwares.badgesync_1.2.2_iphoneos-arm.deb
+Size: 37188
+MD5sum: a105f465c6401e6ea62bd3b756bf5305
+SHA1: a1ed56f357275624db6ee2789f5a5bc5f0bae9f8
+SHA256: 41a7b0b11da255d41e8576bf01b06f56dc173075ab1276ca85ff061360dc7258
+SHA512: cf259f191976a1ad232639df3b702aa29e44e2bd7f3fdcbb9dd60b54d95736edf31290fa27eba9aa5caccd32665264734d7896a91ee611edac8b06f68355c21c
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Name: BadgeSync
+Author: newwares
+
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -7535,6 +7552,23 @@ Author: Jordan Koch <me@jordanko.ch>
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/dev.mineek.appstoretroller_0.0.1_iphoneos-arm.deb
+Size: 6824
+MD5sum: e4ccde002f1a003c321603d702ad9d1d
+SHA1: 3dce47f6bdf22fdee581c44e53b52e6090abe3b3
+SHA256: 9ea2f4018eefae569d063c8da96030235b9457ea1363346b2adff0c02bf151cd
+SHA512: 5362bab6e3e6e25ea79fbf0ea8b4fbd0ebd34b4d3c964558efb9b8cc634acb2444488aaa65ec417bc82eb51e72a5cb780c0f380a76d3c9214fbfd92fb855f637
+Description: An awesome MobileSubstrate tweak!
+Name: appstoretroller
+Author: Mineek
+
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm
 Version: 0.0.9
 Section: Tweaks
 Maintainer: Mineek
@@ -8500,6 +8534,23 @@ Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
 Author: waruhachi
 
+Package: moe.waru.focusdnd
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootful/moe.waru.focusdnd_1.0.0_iphoneos-arm.deb
+Size: 5410
+MD5sum: a4016f8d2870e4998c25201d1ff20bab
+SHA1: f03e97c2ba5d0df70039acc889fb333d1a7a69b3
+SHA256: 5c97c39587f1e30d43f5625809b20e385402c4e1bb8efc1645b2e5831791a3a1
+SHA512: 812742040de28773f7788dc6cc75979a1e11ef5ff0971fa1beaad1e713a3d4375c397c83ee04bd8aad910fa5e1e13e837d477af17f37d1ad97697249c8162e20
+Description: Change the Focus module to look like the Do Not Disturb module from iOS 14.
+Name: FocusDND
+Author: waruhachi
+
 Package: moe.waru.frame
 Architecture: iphoneos-arm
 Version: 1.0
@@ -8601,6 +8652,23 @@ SHA512: fc39a5cbc8b7b8d710a7dee23b211df1293e6b901c94185888a8b8165502c2876a696892
 Description: Removes the recents tab from the Phone app.
 Name: NoRecents
 Author: waruhachi
+
+Package: moe.waru.nospotlightlabels
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.nospotlightlabels_1.0.0_iphoneos-arm.deb
+Size: 3004
+MD5sum: eea48bf11ca1a488b05aada45112d738
+SHA1: 1513e774ab8fb78d97a0e0acb696edc93baa59ac
+SHA256: 223dc38cd4b4da1fbef9d1d8e35ad08557f0aa11671a5caf051350cbfc6ae2c6
+SHA512: 1ce44c6ef8497b0289cd492dd785ff00b46d9cea8795ddfce6040338b5208d2feab3f4bb74ee4322080a4ebc7d8dbf8d50285788836f79cc72a76539583f2df8
+Description: Remove labels from Spotlight
+Name: NoSpotlightLabels
+Author: NightwindDev
 
 Package: moe.waru.shisha
 Architecture: iphoneos-arm
@@ -14823,6 +14891,24 @@ Description: Syncs icon badge values when notifications are dismissed from the n
 Name: BadgeSync
 Author: newwares
 
+Package: com.newwares.badgesync
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: newwares
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
+Filename: ./debians/Roothide/com.newwares.badgesync_1.2.2_iphoneos-arm64e.deb
+Size: 42272
+MD5sum: 99c0c3c931b5359e76fbbf07f893e9bc
+SHA1: ad74a3cfd78d5fd1bce2dca081c331581973d1c9
+SHA256: 418edac476352a114f2ed88ed950c971eeabef823b4a0193cc8d51375eca5c24
+SHA512: ac840654a8051cabeb091ec907b671133feb8b97c3b8f3dccb08479d0b6895c3502a66fc7f053a22574e5fea413ef19407ceaa936041ba72fea7504d27bdf74e
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Name: BadgeSync
+Author: newwares
+
 Package: com.nezuko.croutons
 Architecture: iphoneos-arm64e
 Version: 2.0
@@ -19323,6 +19409,23 @@ Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
 Author: waruhachi
 
+Package: moe.waru.focusdnd
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Roothide/moe.waru.focusdnd_1.0.0_iphoneos-arm64e.deb
+Size: 5434
+MD5sum: 7c38ac4e6c65e312b3992ff63eab00c9
+SHA1: 91bbbe0c1850f0184c652f092bc7e5ab1bd50759
+SHA256: fc3825555be0fd5d62d3e94b2886145b8938c2048ddf4c62036d268069694b2f
+SHA512: bfdc69a177ce5fa275dd64104312d3ee37ffbb51b7c7a69eaab628f74b197cffbb1835fc0cb02aa41fa826ca1027c44512f9e2706d29c6a4a59fa7121d3fc6f8
+Description: Change the Focus module to look like the Do Not Disturb module from iOS 14.
+Name: FocusDND
+Author: waruhachi
+
 Package: moe.waru.frame
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -19424,6 +19527,23 @@ SHA512: a027f68f7a785975303c842fa19c220a29bd1ae7c5dde6899fa7dc0cb85af13b09468550
 Description: Removes the recents tab from the Phone app.
 Name: NoRecents
 Author: waruhachi
+
+Package: moe.waru.nospotlightlabels
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.nospotlightlabels_1.0.0_iphoneos-arm64e.deb
+Size: 3020
+MD5sum: b8f6b9f6508fbaf2d035e27238db1bcc
+SHA1: 193f36144715c0fb99348466677abbea97bae5df
+SHA256: ef51bdd77389c54c14d635dcece86ade328d074b80ff41ae26be66f92cb4ab26
+SHA512: f869568fab1858513658a6e7c5f2d8549b6810cf7a586b4698d794ba4dff92cf8436aad1ec7ea58b6d487e076afb6dab094e18207ed116b70c8dc915bdeefff1
+Description: Remove labels from Spotlight
+Name: NoSpotlightLabels
+Author: NightwindDev
 
 Package: moe.waru.shisha
 Architecture: iphoneos-arm64e
@@ -26913,6 +27033,23 @@ Name: Twitter NoAds
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
 
+Package: com.newwares.badgesync
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: newwares
+Installed-Size: 384
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.newwares.badgesync_1.2.2_iphoneos-arm64.deb
+Size: 37838
+MD5sum: 24dc8922e0aa6845b65065e361663b9e
+SHA1: ea6ae1f78000ae82f1739dcdf6b742f92ee00d6b
+SHA256: d66d3afd3232b4b8e3dda55b74c4fab642af921e8f8249be5b4a40be28e9bc2e
+SHA512: 8d60861c442b74dd0791c628fecb94f7a723ee8083b6ee12a22d020aa0ffef6d963e195222e69665ee2ebe8b93802d21a1f1549934ace851163b6b3b7726b34f
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Name: BadgeSync
+Author: newwares
+
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -31024,6 +31161,23 @@ Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
 Author: waruhachi
 
+Package: moe.waru.focusdnd
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootless/moe.waru.focusdnd_1.0.0_iphoneos-arm64.deb
+Size: 5482
+MD5sum: 0b52ffa33613d14c5fc30b8196776b49
+SHA1: 7b31d68a09c55a39d68cb6c5c74ba6a5d628a4ff
+SHA256: 5f5183d8811de2f84dff724ac3ea47f6fc426d968e0ee0bfcb3067ca4de70946
+SHA512: cf35e42f023e9757a98959a8c4f28251578890ac9dbeb782a1187783fb18c1bafd53a536c4b74873e829f519a84bf010cbca7e25805e5fea8d7e9cc841bef4c8
+Description: Change the Focus module to look like the Do Not Disturb module from iOS 14.
+Name: FocusDND
+Author: waruhachi
+
 Package: moe.waru.frame
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -31125,6 +31279,23 @@ SHA512: 5e022e00eb52e8884bfe9ccc072278f5de1abccb9acede72a7227e5aefc88c3bbd71a085
 Description: Removes the recents tab from the Phone app.
 Name: NoRecents
 Author: waruhachi
+
+Package: moe.waru.nospotlightlabels
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.nospotlightlabels_1.0.0_iphoneos-arm64.deb
+Size: 3094
+MD5sum: adfa0e9a4ab351a1b61d5d62e61118de
+SHA1: e47283538c97f3f1d76f9fb29ca9aa812ced5d6d
+SHA256: a40d5ff1a9dd1c36f084fb30e66e12f6cf11f0488717b917f7277faa25163bf1
+SHA512: 12e9cf1142b2698f9034ff63eb7fc10c67074ea34e9f6b414d91620109f6c8867c2fcdfc65bb23d12f8f7e4b48f004482d165c67ddb3a970ad34aedbb4a7635f
+Description: Remove labels from Spotlight
+Name: NoSpotlightLabels
+Author: NightwindDev
 
 Package: moe.waru.shisha
 Architecture: iphoneos-arm64
