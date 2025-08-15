@@ -5203,14 +5203,16 @@ Maintainer: newwares
 Installed-Size: 384
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
 Filename: ./debians/Rootful/com.newwares.badgesync_1.2.2_iphoneos-arm.deb
-Size: 37188
-MD5sum: a105f465c6401e6ea62bd3b756bf5305
-SHA1: a1ed56f357275624db6ee2789f5a5bc5f0bae9f8
-SHA256: 41a7b0b11da255d41e8576bf01b06f56dc173075ab1276ca85ff061360dc7258
-SHA512: cf259f191976a1ad232639df3b702aa29e44e2bd7f3fdcbb9dd60b54d95736edf31290fa27eba9aa5caccd32665264734d7896a91ee611edac8b06f68355c21c
+Size: 37304
+MD5sum: 3e319d15d8d93fea94d84a6a08b6ddaa
+SHA1: b829b06738083d8f4655fd71e8a14c926113ec53
+SHA256: b734b0968054df093426d25a4a1601a238a1b2d83d928b67c3cbfb3d8738591e
+SHA512: 4111b9c3d74fbc0078761697172de87951b226baf63ff22edc209520f866219ac8ac45e5b7911641ebcb1a8e942c04c48565e13d46efcdf61f3529f07c0908b1
 Description: Syncs icon badge values when notifications are dismissed from the notification centre.
 Name: BadgeSync
 Author: newwares
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F6685e9f3b31c69deb59e2cee&s=180x180&f=webp
+Depiction: https://havoc.app/depiction/badgesync
 
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm
@@ -14900,14 +14902,16 @@ Installed-Size: 384
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
 Filename: ./debians/Roothide/com.newwares.badgesync_1.2.2_iphoneos-arm64e.deb
-Size: 42272
-MD5sum: 99c0c3c931b5359e76fbbf07f893e9bc
-SHA1: ad74a3cfd78d5fd1bce2dca081c331581973d1c9
-SHA256: 418edac476352a114f2ed88ed950c971eeabef823b4a0193cc8d51375eca5c24
-SHA512: ac840654a8051cabeb091ec907b671133feb8b97c3b8f3dccb08479d0b6895c3502a66fc7f053a22574e5fea413ef19407ceaa936041ba72fea7504d27bdf74e
+Size: 39908
+MD5sum: bf28515fccfb13c94d802e89e47e3104
+SHA1: c5e776229c5f0b016f5d0af319a6eec9a91269df
+SHA256: c4b273fcbf27af11e52d22a5a60c284f8d055decb92bd20ab99e7b907ec00e9d
+SHA512: 45dedbcb7c18b9896ed97fc1116c57ee15f8925d0da50137df26f8fbefb52b3eb38bf0f703855109bf118e429c7165ef56c5f324389ef24b6c10b9fad6154958
 Description: Syncs icon badge values when notifications are dismissed from the notification centre.
 Name: BadgeSync
 Author: newwares
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F6685e9f3b31c69deb59e2cee&s=180x180&f=webp
+Depiction: https://havoc.app/depiction/badgesync
 
 Package: com.nezuko.croutons
 Architecture: iphoneos-arm64e
@@ -27041,14 +27045,16 @@ Maintainer: newwares
 Installed-Size: 384
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
 Filename: ./debians/Rootless/com.newwares.badgesync_1.2.2_iphoneos-arm64.deb
-Size: 37838
-MD5sum: 24dc8922e0aa6845b65065e361663b9e
-SHA1: ea6ae1f78000ae82f1739dcdf6b742f92ee00d6b
-SHA256: d66d3afd3232b4b8e3dda55b74c4fab642af921e8f8249be5b4a40be28e9bc2e
-SHA512: 8d60861c442b74dd0791c628fecb94f7a723ee8083b6ee12a22d020aa0ffef6d963e195222e69665ee2ebe8b93802d21a1f1549934ace851163b6b3b7726b34f
+Size: 38036
+MD5sum: f220f3dc104ea8d7180bdf2696a81e2b
+SHA1: 8bd76c4ac129518ddae8922f322d3f9595fb0410
+SHA256: dc2058285347f67ab939aed4d67e60359cb8f982a7f3def344d45e7c8404b328
+SHA512: 571a86ded47ed32ed829d293dde7f13ad5e2aa51c6ac1f875261c407d849c4c1b1bb5215d42d92410ab8ef855be53dd3226275b0230c9010791cce56e0dab4b4
 Description: Syncs icon badge values when notifications are dismissed from the notification centre.
 Name: BadgeSync
 Author: newwares
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F6685e9f3b31c69deb59e2cee&s=180x180&f=webp
+Depiction: https://havoc.app/depiction/badgesync
 
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm64
