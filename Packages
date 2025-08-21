@@ -31559,28 +31559,6 @@ Description: Randomly Flipping Your HomeScreen Icons . Supports iOS4+ .
 Name: Random Icon Flip
 Author: Elias Limneos
 
-Package: net.limneos.voicechangerx-rootless
-Architecture: iphoneos-arm64
-Version: 2.4-136
-Section: Tweaks
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Installed-Size: 1476
-Depends: mobilesubstrate, preferenceloader
-Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debians/Rootless/net.limneos.voicechangerx-rootless_2.4-136_iphoneos-arm64.deb
-Size: 247934
-MD5sum: d579aaebf322bf0acabcd91bb7e390f9
-SHA1: dbc5ec6bc98fc3808aa50820dc75912789dd415a
-SHA256: 08b23675e53bcfbdbe7012516b2a366e869f9730c223a8d8c58cfab5c8ad8073
-SHA512: 7307c75e9422815c2f5d1bf9f4073514699b85ef97cb909a876af32f942ff45e607f38bd27d5c6532a1bf7ad1a56b825137320bb71a526c684b2640b07766580
-Description: Change your voice during a call!
-Name: VoiceChanger XS (iOS 11 to 18)
-Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
-Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
-SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.voicechangerx
-Author: Elias Limneos <limneoselias@gmail.com>
-MainLibMD5: 673e3d50e6fa61e9a22d888b9013b537
-
 Package: net.myxxdev.mybloxx14
 Architecture: iphoneos-arm64
 Version: 4.020822-14
