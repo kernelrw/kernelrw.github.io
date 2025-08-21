@@ -12555,6 +12555,30 @@ Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/simplus/icon.png
 
+Package: com.iarrays.whoozit.roothide
+Architecture: iphoneos-arm64e
+Version: 2.15.0-beta-15
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 4372
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.roothide (>= 1.0.16)
+Conflicts: com.iarrays.whoozit, com.iarrays.whoozit.rootless
+Filename: ./debians/Roothide/com.iarrays.whoozit.roothide_2.15.0-beta-15_iphoneos-arm64e.deb
+Size: 964304
+MD5sum: a52ec1d2cf3b8ff5ac3027724eff08e7
+SHA1: ab969408772a6b29d81f00100a864a49a6ace823
+SHA256: cf9e8366d13cefb0125c10ed909d787c7213f250bbeb7c8954284ea29b43bac8
+SHA512: 6114675be4c7a208355bace36930db6db145668f369da6c61586389f2cef27f9cf9558560c44dadf5206ae1f0785fa4a8e99f8898e095787487dd9e7dd7f18cc
+Homepage: http://iarrays.com/
+Description: No clue who is calling you and don't know whom you missed? Don't worry, now this all in one perfect caller ID solution will make your life is more simple. Just install this and TrueCaller or NumBuster! or ShowCaller on your device and just start searching the calls from stack apps like Phone, Messages & Notification Center and even from the CallLogPro.
+Name: WhoozItPro (RootHide iOS 17 to 15)
+Depiction: https://iarrays.com/depiction/whoiscalling
+SileoDepiction: https://iarrays.com/sileo-depiction/whoiscalling/whoiscalling.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://iarrays.com/sileo-depiction/whoiscalling/icon.png
+
 Package: com.ichitaso.autobrightness11
 Architecture: iphoneos-arm64e
 Version: 0.1-7
