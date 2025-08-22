@@ -8260,6 +8260,27 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Name: Rose 🌹
 Author: Litten
 
+Package: me.alfhaily.rocket
+Architecture: iphoneos-arm
+Version: 3.8.36
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6684
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debians/Rootful/me.alfhaily.rocket_3.8.36_iphoneos-arm.deb
+Size: 1447068
+MD5sum: 9c3011d625a62c87912ce25ed4686a13
+SHA1: 3cf2bf9b124072fcbef86f98754c657f1bcdf9df
+SHA256: a119e5c22f7a16ea6c25209f36fd191f8b4e2519af4ccf72460b798a78ace855
+SHA512: 6b1d623ae52b1e144add8feb591680edb4bb06208c21079509d7617ab42dd8727dc50922340acec9636a6d02faa40b8f9b8ea473b00a5208474128bc77d67b6c
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+
 Package: me.eternal.phantom
 Architecture: iphoneos-arm
 Version: 1.1.1
@@ -19129,6 +19150,28 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
+
+Package: me.alfhaily.rocket
+Architecture: iphoneos-arm64e
+Version: 3.8.36
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6684
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debians/Roothide/me.alfhaily.rocket_3.8.36_iphoneos-arm64e.deb
+Size: 4446606
+MD5sum: 20aa087f1b128b779ed9fbd71f3a9fac
+SHA1: 09fbf204f85539d81d9cbd87ad06ab261b9ecc22
+SHA256: 62813c09df4b671a40b76f789a50bf492ccd7f8d69690bd94e9fa2e6325a3833
+SHA512: 283a8ffad96b6cf3030fde4b942c6f5f82bc8e7b32bd4640018851452063398086de2277f39a60211fff9d659ef961e84a8b7359beb1b031ec9520d26b31e19e
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 
 Package: me.eternal.phantom
 Architecture: iphoneos-arm64e
@@ -30992,6 +31035,27 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
+
+Package: me.alfhaily.rocket
+Architecture: iphoneos-arm64
+Version: 3.8.36
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6684
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debians/Rootless/me.alfhaily.rocket_3.8.36_iphoneos-arm64.deb
+Size: 1447188
+MD5sum: 26166028bcaefb2b476fdd84cae822de
+SHA1: 67425013b3c6619116aaa385d8c2a3e832c80982
+SHA256: 9b8146a51e1f092cd3fd80b012dbfcc436421d134ffb720a1dab662bb3ca620b
+SHA512: 03562dbabe287d1db81d1d56a23e48d306438364469bb52c7aa3cd7312f8f32ce6a8332a329fbe07a164b40799f4d66ca6ce453841da3e427a6e1a336359af42
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 
 Package: me.eternal.phantom
 Architecture: iphoneos-arm64
