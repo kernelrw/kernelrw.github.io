@@ -2605,6 +2605,27 @@ Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland-arm64e/i
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 Author: ethxnn88 <ethxnn88@gmail.com>
 
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debians/Rootful/com.exile90.icleanerpro_7.10.0_iphoneos-arm.deb
+Size: 2453880
+MD5sum: 474165b2dce4f04c399d582429e33791
+SHA1: f42cdd72e36c59a8e758885e1d288b749bdb1fe6
+SHA256: 1b22a5b3fa3bf9cbd2f52695b211e78ecedeb56daa7236ec08eade92736f01c1
+SHA512: 2d496423376d6603405c3cc7ce8c7435df3626c17cd2611c95ad3eeafd180fed6ac308f256decc59666df76e62af1b7a794bfcacc9eff52cf81bcfe4e41d39b5
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm
 Version: 2.4.49
@@ -9539,24 +9560,6 @@ Description: Troll your speed, but jailbroken.
 Name: TrollSpeed JB
 Author: Lessica <82flex@gmail.com>
 
-Package: chaoge.ChargeLimiter
-Architecture: iphoneos-arm64e
-Version: 1.7
-Priority: optional
-Section: Applications
-Maintainer: chaoge
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0)
-Filename: ./debians/Roothide/chaoge.ChargeLimiter_1.7_iphoneos-arm64e.deb
-Size: 4626984
-MD5sum: f08e0791a5779e5e52c99e9a96f43bc3
-SHA1: 6f58d9e63ef8c140bff69e4d125b9309e936956e
-SHA256: c3cbd46ff7227bbdf26665003056bd58e6d1aaa34aaed1f1dcd2f58875d4dc09
-SHA512: cdb7c2621d1e142595dd19fa05b1094ff1ea47e5bcb7b9f6864855b1858b1e23e7a8d8c7c5e84080abd52aea1f47a5fb4a22285f6e3b236313897c18368a3a8f
-Description: ChargeLimiter
-Name: ChargeLimiter
-Author: chaoge
-
 Package: cm90.crossoveripc
 Architecture: iphoneos-arm64e
 Version: 1.1-1+debug
@@ -11646,16 +11649,16 @@ Architecture: iphoneos-arm64e
 Version: 7.10.0
 Section: Utilities
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Pre-Depends: rootless-compat (>= 0.9)
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debians/Roothide/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
-Size: 986376
-MD5sum: f72636d7620c2aabd00c2ea71004fb95
-SHA1: 302a1c3f7bdf75307ce069f7f5886f9d09938783
-SHA256: 685005fd58bb91bf138ffd00992e964cd2dd10dce6fbec9912c8f626691ec08f
-SHA512: 7e776f76a6077530de1eb6a2b32b1033c79aef810d1178bf5efb9efacd7751ba32ae5472965743ce1bc40a73c3d9a889f12bda8b0e155b7107b027457935214d
+Size: 2759816
+MD5sum: 8a34c630084b2e844796179c0a87deaf
+SHA1: 322da1fa897d2ceb5ee9e2b126f0aedd90201335
+SHA256: cf425456b3baaefd0f7dee65202fea73a38566f0c9cc53ced81a4225a5159205
+SHA512: 6626e0e53ee370e68b7feb9a1a0e413be6836deef006444d20583d09a89e82259f60d453d6ba88f2b98a6bc07252e9c3b59e52caee4e4af292e6f9493da81be1
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
 Name: iCleaner Pro
@@ -17337,6 +17340,40 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
 SileoDepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/Togglow
 Author: smokin1337 <smokin1337@gmail.com>
 Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
+
+Package: com.snail.airdrop16.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 924
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.snail.airdrop16.roothide_1.0.4_iphoneos-arm64e.deb
+Size: 196540
+MD5sum: c72b2cfc31758ca50657310a0f97d2c0
+SHA1: 710f8be25feff8da26347f080548ea89acbc338b
+SHA256: cbd13701927c8cb7a3d339954a0009b0dc87b658cc4426cd0aba12a723811b5e
+SHA512: 1b4a7033215729779499b28ca6aea88aa9305a4b4079b3a94bcd71f55cb91c823f1ca321c474ea818dc6e43971cd3924ceb2246b672944af34f6c87af7ea39c2
+Description: Set a time limit for AirDrop's 'Everyone' mode, similar to iOS 16, but more flexible.
+Name: AirDrop16
+Author: Snail <mu514983786@gmail.com>
+
+Package: com.snail.always120.roothide
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 992
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debians/Roothide/com.snail.always120.roothide_1.2.0_iphoneos-arm64e.deb
+Size: 260898
+MD5sum: 6aad4ed526a9a8b7425b5974c84e821e
+SHA1: 5a7a53fdc8126d6fa92bc965d68434968bb7c642
+SHA256: 50c94da4bcb38ffad2b71101e94a12105ac81fef1d5edd9aa252953677bb5d00
+SHA512: d54ce6766ff593d98684cb0c2099bf77bcaf14e6087a56399fca9ec2a395ec304d44f2b6a76081614d6dbf2fc2dc0b3688fe8b5800377e7b11f84c38f4f6ea93
+Description: 使iOS 15/16越狱高刷机型自适应/锁定120HZ。 Make iOS 15/16 ProMotion Devices auto-adpat/reach to 120Hz.
+Name: 蜗牛自适应+锁定120 Always120
+Author: Snail <mu514983786@gmail.com>
 
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm64e
@@ -23823,11 +23860,11 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debians/Rootless/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 1098586
-MD5sum: 6d52edf547d85ea5713e913d6293f3ba
-SHA1: d9fb1af260401829b101a3a3214698919d0dc1f6
-SHA256: eb1137e9ccf0d9c0b985011a42d969b214dccde19977c9398e300da50ae6a083
-SHA512: 4d9dde69ee1218ca4a1d604c190d9a748608cf3a4e8574b228623b01063a1d53012ac89ce687edf270fbecafa3a6897d599a84fe0fbb84caa672a7bd92ea39d7
+Size: 1101332
+MD5sum: 3690282e54fae090c28e9500c8c26399
+SHA1: 97361f1d6136de7fd867a978a57069ded7820faf
+SHA256: 27909dba7644b2905d14adb1c8c13823700a7756417cdfadc813ab3ba7f4ebec
+SHA512: 5c4017ddf94b4158d41c73df27296574cc34c13854e3cb21a52a28bfd8e77d807e2868c98cb51a9e3f36972cbb8153e1a3690da9381a864e6769bb51a2ab6843
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
 Name: iCleaner Pro
