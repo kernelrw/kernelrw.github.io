@@ -2614,17 +2614,17 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debians/Rootful/com.exile90.icleanerpro_7.10.0_iphoneos-arm.deb
-Size: 2453880
-MD5sum: 474165b2dce4f04c399d582429e33791
-SHA1: f42cdd72e36c59a8e758885e1d288b749bdb1fe6
-SHA256: 1b22a5b3fa3bf9cbd2f52695b211e78ecedeb56daa7236ec08eade92736f01c1
-SHA512: 2d496423376d6603405c3cc7ce8c7435df3626c17cd2611c95ad3eeafd180fed6ac308f256decc59666df76e62af1b7a794bfcacc9eff52cf81bcfe4e41d39b5
+Size: 2453464
+MD5sum: 9dd3233cdf759a580a88194f406eaf23
+SHA1: 4dc4e7d58b1eee4471ead0245a34b493681e9f5a
+SHA256: ed4390425fef59513c06b9fcfc788539ea497799e77cd8ca1d082d43f543e9f2
+SHA512: 8234d7aff8e7f7826885270adf57913e547f6703790a845d6dc4dbb2b70df7efebef2aad932ebe451f97b72399382628ba92dec7e2e687dd8b130c569e86b81b
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
 Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fichitaso%2Ffile%2Frefs%2Fheads%2Fmain%2Fimages%2FIcons%2FiCleaner.png&s=180x180&f=webp
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm
@@ -11654,17 +11654,17 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debians/Roothide/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
-Size: 2759816
-MD5sum: 8a34c630084b2e844796179c0a87deaf
-SHA1: 322da1fa897d2ceb5ee9e2b126f0aedd90201335
-SHA256: cf425456b3baaefd0f7dee65202fea73a38566f0c9cc53ced81a4225a5159205
-SHA512: 6626e0e53ee370e68b7feb9a1a0e413be6836deef006444d20583d09a89e82259f60d453d6ba88f2b98a6bc07252e9c3b59e52caee4e4af292e6f9493da81be1
+Size: 1108232
+MD5sum: d6a6b61cb31b83eb79e4e617eb7e5168
+SHA1: 7430d006ac59d2ab8405d267104c3ce599e6b808
+SHA256: e912b754638ef49b86e75d29bcd89397d12f0b2749cce3f7ad42340101294365
+SHA512: f8fffda612935c885926d44ab9d723bf260096c03451e3b7a1ec9a1ceb06d61bcce757863d5c3a1d742aedd3750d8d78d9b08b21bd53580b35e56d32f8eacf38
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
 Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fichitaso%2Ffile%2Frefs%2Fheads%2Fmain%2Fimages%2FIcons%2FiCleaner.png&s=180x180&f=webp
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
@@ -23881,17 +23881,17 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debians/Rootless/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 1101332
-MD5sum: 3690282e54fae090c28e9500c8c26399
-SHA1: 97361f1d6136de7fd867a978a57069ded7820faf
-SHA256: 27909dba7644b2905d14adb1c8c13823700a7756417cdfadc813ab3ba7f4ebec
-SHA512: 5c4017ddf94b4158d41c73df27296574cc34c13854e3cb21a52a28bfd8e77d807e2868c98cb51a9e3f36972cbb8153e1a3690da9381a864e6769bb51a2ab6843
+Size: 1101456
+MD5sum: 6198aa7c73b8085a0bfb17e7faef8db3
+SHA1: c264bdc3039d75767e39ca38f246d50d474183aa
+SHA256: af270151c42fce5a1e4a2e43b279876ab3338a166272baa98ae9455ccfd63f7d
+SHA512: 01453ba73c8630ed0d0938076c1754e09e6ec641fc669a242571f038001f5b7db5174f5df7b9c937774c36b3c8ef9b928e4fa3e542e1466469d4d76fb125f6cc
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
 Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fichitaso%2Ffile%2Frefs%2Fheads%2Fmain%2Fimages%2FIcons%2FiCleaner.png&s=180x180&f=webp
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
