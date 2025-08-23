@@ -13767,6 +13767,27 @@ Description: Shows where you touch the screen
 Name: ShowTouch
 Author: LonestarX
 
+Package: com.m1337.varclean
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: System
+Maintainer: m1337
+Installed-Size: 876
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: ./debians/Roothide/com.m1337.varclean_1.1_iphoneos-arm64e.deb
+Size: 722868
+MD5sum: db7113bd287a146aacd803548c75e7de
+SHA1: 275ff963eeaffff5b63a993f80c53a40404e64e3
+SHA256: e45c5be930eea0157471eea7de69d38f98183a75962f4a0d8534fd1470fa8f94
+SHA512: 49acbf133a89bd5cc0e9586172eb9ddc5d8abaa7cbfcbbec5ef330bbe09fd3e1e164899916cef4c43bdfaa178768a6238e58988ea1dbff14a137ea6c9ddac555
+Description: varClean for Rootless
+Name: varClean
+Author: m1337
+Icon: https://github.com/roothide/RootHideManagerApp/blob/main/RootHide/Assets.xcassets/AppIcon.appiconset/icon-76.png?raw=true
+Depiction: https://github.com/roothide/RootHideManagerApp
+Support: https://github.com/roothide/RootHideManagerApp
+
 Package: com.macthemes.axolotl
 Architecture: iphoneos-arm64e
 Version: 2504
@@ -25744,15 +25765,15 @@ Maintainer: m1337
 Installed-Size: 876
 Depends: firmware (>= 15.0)
 Filename: ./debians/Rootless/com.m1337.varclean_1.1_iphoneos-arm64.deb
-Size: 721216
-MD5sum: 7faf3d7f96f11bbaf81e8bbbc088fef2
-SHA1: 11cd1f6b90a7b34482c24b16d81dffedcf881dd0
-SHA256: 0a86735923d122cb855f09e17b32525c45fdd1a4f1c71bdf7a4e51af6414f020
-SHA512: b0ac67ca61bbe7e7365198326d01948cc2c185a5d0e10aa10b548b7823ebddc5bd225ec206e5fcbcea6cc38d77b86f9d3c9022d836268b5ed85e13d270814dab
+Size: 721256
+MD5sum: d2877e312e6ae013a9b49b7fd59ccd55
+SHA1: 0b8f40cdbe95984baeaa9637ccd1c1fa941ceed1
+SHA256: de98204e1ed7467649bc4954899ecc54ca81cebdcafc06bc654ccec5e3dc2979
+SHA512: 82ca257b67362a54215caffd07d704db4ff881e5e669bb9449da125e4f75cb341a89e1d2890bd23bb0788628c1a7e87aa0c3afef20006211d8cfa3ddbd8adc77
 Description: varClean for Rootless
 Name: varClean
 Author: m1337
-Icon:
+Icon: https://github.com/roothide/RootHideManagerApp/blob/main/RootHide/Assets.xcassets/AppIcon.appiconset/icon-76.png?raw=true
 Depiction: https://github.com/roothide/RootHideManagerApp
 Support: https://github.com/roothide/RootHideManagerApp
 
