@@ -238,6 +238,23 @@ Description: Natively integrated notification logger.
 Name: Vē
 Author: Alexandra Aurora Göttlicher, 74k1_
 
+Package: codes.wingchan.ve-enhanced
+Architecture: iphoneos-arm
+Version: 2.0-4+debug
+Section: Tweaks
+Maintainer: Wing CHAN
+Installed-Size: 1284
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/codes.wingchan.ve-enhanced_2.0-4+debug_iphoneos-arm.deb
+Size: 127800
+MD5sum: 26799118fd06619afef4ecf73a3d6135
+SHA1: 2b6ed3a91231304e9857a702e934950b12143d2e
+SHA256: e93ce4583b3b452de55d905ce7cbd7d322d5a81a12983c12e60701d5446507a4
+SHA512: 8bd755e5d76e83e00fb1a268f0018e025b89ad7ff1458dfcbddf68eb0445406c8a46bdc38bbf7ad5a76fd1798f8e549a7be4104f60094c4c1b2f26f0e7dc74ea
+Description: Enhanced notification logger with notification forwarding capabilities. Fork of Ve with added Bark integration.
+Name: VE Enhanced
+Author: Wing CHAN (Original: Alexandra Aurora Göttlicher, 74k1_)
+
 Package: com.0xilis.letmepass
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -9766,6 +9783,24 @@ SHA512: 8e26e5dfde149a2fd3aa9ee466b89d7583711d8195bd299eda33a70a58c11197bd74aa77
 Description: Natively integrated notification logger.
 Name: Vē
 Author: Alexandra Aurora Göttlicher, 74k1_
+
+Package: codes.wingchan.ve-enhanced
+Architecture: iphoneos-arm64e
+Version: 2.0-4+debug
+Section: Tweaks
+Maintainer: Wing CHAN
+Installed-Size: 1284
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/codes.wingchan.ve-enhanced_2.0-4+debug_iphoneos-arm64e.deb
+Size: 191978
+MD5sum: 9821f13c24fc6b2a7065704fed835b63
+SHA1: e328c05eba806ef9060afb700ae4faef6ab438c1
+SHA256: a9be4abe499519d419d1a0146af4326a1733911e078bec94b1a953e09a542956
+SHA512: 48a1c1e7889b918c8ecaa2cfafc4387d20c462b7033b679383e360796144ab1bfb6142814d00493ce81dc84c64abc2ca6a87f0a4590c5d296dded6dbf42b29a6
+Description: Enhanced notification logger with notification forwarding capabilities. Fork of Ve with added Bark integration.
+Name: VE Enhanced
+Author: Wing CHAN (Original: Alexandra Aurora Göttlicher, 74k1_)
 
 Package: com.0xkuj.backgrounderaction15autostate
 Architecture: iphoneos-arm64e
@@ -21148,46 +21183,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 dev: rpetrich
 
-Package: chaoge.ChargeLimiter
-Architecture: iphoneos-arm64
-Version: 1.7
-Priority: optional
-Section: Applications
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debians/Rootless/chaoge.ChargeLimiter_1.7_iphoneos-arm64.deb
-Size: 2473390
-MD5sum: 2671e29f13e6aeb51af340f37a3a7123
-SHA1: 8e7a7e7021b8472bb123ef856b9071c966e68c59
-SHA256: ce967c55102735e46a41bb5e131b97b80226408d77438d231a5951c4562b0736
-SHA512: e278a3cfdc2cb7b4c2903a4d0d756b9a93a6664b8ccb40f440c3595ad35b73236e314efcc464726e3e542ebbaa108c940c8e722c82bb1dac2534b141158834be
-Description: ChargeLimiter
-Name: ChargeLimiter
-Author: chaoge
-
-Package: chaoge.chargelimiter
-Architecture: iphoneos-arm64
-Version: 1.6
-Priority: optional
-Section: System
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 5452
-Depends: firmware (>= 5.0)
-Filename: ./debians/Rootless/chaoge.chargelimiter_1.6_iphoneos-arm64.deb
-Size: 1993270
-MD5sum: 8203535a6317107816865069c42d90e4
-SHA1: 415bcfce1bcd1030c66f2322ec1389044fd903fe
-SHA256: 661c6faeae47970a2790f40c6bf8207444dad3349fbad9d7b42efc3ef436f47a
-SHA512: 672994a05864d8eda62381fbc4fe46457ac77d345dacb00342e2944be40cc0a6e11875a87be78b860bd5b37ef667b3e7d03a5665cfda8d739c92f8090fc58f70
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargelimiterDp
-Description: Manage battery and prevent long-time overcharge
-Name: ChargeLimiter
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargelimiterDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: chaoge <571652571@qq.com>
-dev: chaoge
-Icon: file:///var/jb/Applications/ChargeLimiter.app/AppIcon29x29@2x.png
-
 Package: cn.zqbb.hellojoker
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -21367,6 +21362,23 @@ SHA512: d8d900ac594038f8a934bfa0b1c02d2881f5e18ae134fb0de2201068cad884724500121b
 Description: Natively integrated notification logger.
 Name: Vē
 Author: Alexandra Aurora Göttlicher, 74k1_
+
+Package: codes.wingchan.ve-enhanced
+Architecture: iphoneos-arm64
+Version: 2.0-4+debug
+Section: Tweaks
+Maintainer: Wing CHAN
+Installed-Size: 1284
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/codes.wingchan.ve-enhanced_2.0-4+debug_iphoneos-arm64.deb
+Size: 143266
+MD5sum: 341078c0298e625aac65f33d10dde3c5
+SHA1: 9b70a2bf4f11e4ced6a3821808689a2ab9453f63
+SHA256: 67139de0aa683dad6162ec4ccc4dd750262dce60b1bd2ae30ee1f5028bad0a46
+SHA512: ec9d87d559251b101b58e598fd2560b9cf2d82464e5916d25d09000a3eac90979de0d976da06ef38ea814fea9bf8e9f5980d5c82bb000e130c20d66f1c1ac265
+Description: Enhanced notification logger with notification forwarding capabilities. Fork of Ve with added Bark integration.
+Name: VE Enhanced
+Author: Wing CHAN (Original: Alexandra Aurora Göttlicher, 74k1_)
 
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
