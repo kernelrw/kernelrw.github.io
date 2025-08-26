@@ -5989,6 +5989,26 @@ SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.insta
 
 Package: com.p2kdev.instagramnoads
 Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.p2kdev.instagramnoads_1.1.3_iphoneos-arm.deb
+Size: 7276
+MD5sum: f5668e862d04debb9576d90c0d2986a9
+SHA1: 923ca4ad8b6cb81d8f973429a7a7f35d0d3251fb
+SHA256: f42660f34752785b113a5b792fd88f253087924fcb447fdc92e954b840d76946
+SHA512: 50a9591f14dbf688a3762af47f045671c9b54cf5db86f2076c92900ca69009c14b6dcec45d8a81e85eceb7674dc5381e8ae86562c42f4ce4c0047f090a665d02
+Description: No Ads in the Instagram App!
+Name: InstagramNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
+Package: com.p2kdev.instagramnoads
+Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
 Maintainer: P2KDev <p2kdev@gmail.com>
@@ -15971,6 +15991,26 @@ MD5sum: 30cf2eaa964964d70daa59c7c5e238f5
 SHA1: 268d28470ca429337e6daa2277c40fa5f030bc1a
 SHA256: 7a4a3d46c8a715e59005a9ad10a81f7fa5b3d9a9a758ccada187ae0251c6dd0e
 SHA512: 719aedb6c1d541498b28f071ee3204e17a8c7e534d9e502c3339521f1e52783a29aa6fbea263f70bd91ca19ba216d886ba66c69cbe7cee8ff05f729b77bfb281
+Description: No Ads in the Instagram App!
+Name: InstagramNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
+Package: com.p2kdev.instagramnoads
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.p2kdev.instagramnoads_1.1.3_iphoneos-arm64e.deb
+Size: 7456
+MD5sum: 93346647fee2188866caa8332f628455
+SHA1: 9d7140d69a943923e1e4a660f3deb28f27a68114
+SHA256: 77b75d19a7535f1ccc7fd8bdcda09b0f5237de9a03c1f87dd57b9f2d8371fb28
+SHA512: b0f21ad41142f881f46ea45c23dba725fab314268e79edeea99fb19238a6cdbf93dae4e536723afb37d71e71baed7efe6390429177595b7d3c9b1a65f3ecd54c
 Description: No Ads in the Instagram App!
 Name: InstagramNoAds
 Author: P2KDev <p2kdev@gmail.com>
@@ -28194,6 +28234,26 @@ MD5sum: cc2aa9621e1373c80a2009a1a04bcf79
 SHA1: 2986310c007f3a33120cb38c73121708f5431d4d
 SHA256: cf9d1b94f9e2885e96f92108ac9c2a8f3c5eac40012bdb9a708e94be282eae06
 SHA512: 07514a4b35754cdb21bc00d7be1f32097d71bc9fb08b013b895508e1f7457e8c26b6d56040143c1c1752352f1dc5279808e33dfcb4e33e9edf5ae0c2aab25383
+Description: No Ads in the Instagram App!
+Name: InstagramNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.instagramnoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.instagramnoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.instagramnoads.json
+
+Package: com.p2kdev.instagramnoads
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.p2kdev.instagramnoads_1.1.3_iphoneos-arm64.deb
+Size: 7532
+MD5sum: 2f43286197c573250f61bd27f40eee5c
+SHA1: e95a3bfbfe4928afc35e536e6127ed7af02ffc3e
+SHA256: c6b2380d1d547eb8f0e9851f646beab589b8c0bac3fcc9fa87119bf0a584e484
+SHA512: 8412fbf4f28c23de9baea89474504d4926aeff10fc6d53a96c6a4fd131e114fef88753e61bfc716674e9033283fc72cf7b56903d74a77ba9bebaf4f84fe11805
 Description: No Ads in the Instagram App!
 Name: InstagramNoAds
 Author: P2KDev <p2kdev@gmail.com>
