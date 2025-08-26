@@ -369,6 +369,23 @@ Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
 
+Package: com.0xkuj.contactsfs
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.0xkuj.contactsfs_1.0.1_iphoneos-arm.deb
+Size: 33108
+MD5sum: eaee2da5873a573e19f545312b0b9b78
+SHA1: 99613dde6eebee6c4d8e40824247d4cba6ea4170
+SHA256: c9b0230cffd1117cf090c06b2500a481492dd76cd0612c3efac9804d16612d1d
+SHA512: 89e819e3d9019502aefa7843b12585c704b83bfae343478cc0d969614de6367576dee31b86487dcd48ee693dd18b585bf0a0c3d53429a782800777c6b99ec6c7
+Description: A tweak to rescale all your existing contacts images to full screen
+Name: ContactsFS
+Author: 0xkuj
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -9862,6 +9879,24 @@ Name: Block WA Updates
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: 0xkuj
+
+Package: com.0xkuj.contactsfs
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 220
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.0xkuj.contactsfs_1.0.1_iphoneos-arm64e.deb
+Size: 39276
+MD5sum: d4754683653041c7e86a0ae7ab15f88c
+SHA1: e830d373bb727e9ff2db305baa3a939c34a8ee1b
+SHA256: 23d0d49355af5d8cab7be840d0f22806199e8b1ca065b50c79b5cc4ff1729aa6
+SHA512: d9420baf10bbc0799d159784e200e3b894226a02443d8fcc332d30576beaf6db9655cae4744abd2411c3775d8996fc57945848676f3c00a948c4ac68709dfd7f
+Description: A tweak to rescale all your existing contacts images to full screen
+Name: ContactsFS
+Author: 0xkuj
 
 Package: com.0xkuj.installdpkg
 Architecture: iphoneos-arm64e
@@ -21419,6 +21454,23 @@ SHA512: ec9d87d559251b101b58e598fd2560b9cf2d82464e5916d25d09000a3eac90979de0d976
 Description: Enhanced notification logger with notification forwarding capabilities. Fork of Ve with added Bark integration.
 Name: VE Enhanced
 Author: Wing CHAN (Original: Alexandra Aurora Göttlicher, 74k1_)
+
+Package: com.0xkuj.contactsfs
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.0xkuj.contactsfs_1.0.1_iphoneos-arm64.deb
+Size: 33494
+MD5sum: 1876fae774278785616533a73b80888c
+SHA1: 75723515bbdfe3e2a4e02757d2e300e15d292674
+SHA256: 780b4c25884a4b3cc4abfdc31ce33c3bfa417af5b3ab460dff206ea26029ffa2
+SHA512: a4ccaf9d7dd33a2c50c05e1939ddc84c8ea121d7af405beb9cf21cda37d6772305aff235692a3dfa8f1db8135098f8c1bc8a61b76c45c15ce6925c24780c795b
+Description: A tweak to rescale all your existing contacts images to full screen
+Name: ContactsFS
+Author: 0xkuj
 
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
