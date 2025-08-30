@@ -9616,6 +9616,24 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 dev: rpetrich
 
+Package: bindfs-tools
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: System
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dopamine-basebin-link
+Filename: ./debians/Roothide/bindfs-tools_1.0_iphoneos-arm64e.deb
+Size: 5002
+MD5sum: d1e72fd3f2a5f146ed2117775d27c7e1
+SHA1: 5dc65f5e846b96d933a5cbc16331322eeabcc614
+SHA256: 6ca40b3b34db04f2c1603c3c4dc2f1d727f85600a1862ebe2eb13c0cfc654b9c
+SHA512: 6fec32107375f48628cf883dffc07539c2455b58739c57e49126755496a580a7e3ca54c68b537bd49fe6f4f8ce13f71f040d23338f4c2404e7ec78bd2e7587aa
+Description: mount and umount bindfs for Dopamine
+Tag: role::hacker
+Name: bindfs-tools
+Author: Duy Tran
+
 Package: ch.xxtou.hudapp.jb
 Architecture: iphoneos-arm64e
 Version: 1.12.0
@@ -21317,6 +21335,23 @@ Author: Ryan Petrich <rpetrich@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 dev: rpetrich
+
+Package: bindfs-tools
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: System
+Installed-Size: 104
+Depends: dopamine-basebin-link
+Filename: ./debians/Rootless/bindfs-tools_1.0_iphoneos-arm64.deb
+Size: 3612
+MD5sum: a5eca13a4eafb89428cb8f563b244437
+SHA1: 014bfe43c962506144f24bf67607055aae12986b
+SHA256: 4317fbde5ad2e0ac0bc81a818aee318f9c443d3750d005b7a63a011fa10d0767
+SHA512: 88c27e124fbbba87575a2de756a8d15b90be613cca000754b0b1fe25bea83f70af9082225a8dd35ed4fe701ce266f5cd6d3b2f45cbfab1016a225dfa1c5975cb
+Description: mount and umount bindfs for Dopamine
+Tag: role::hacker
+Name: bindfs-tools
+Author: Duy Tran
 
 Package: cn.zqbb.hellojoker
 Architecture: iphoneos-arm64
