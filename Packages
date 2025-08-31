@@ -4387,6 +4387,25 @@ Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.launchlogo/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.launchlogo.json
 
+Package: com.mtac.vitreux
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 6128
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/Rootful/com.mtac.vitreux_1.0_iphoneos-arm.deb
+Size: 5584726
+MD5sum: f69d0d7555b00b8f79106ee0e57e6bee
+SHA1: 40c9110679399382947f3b833e9fc94a6bd08044
+SHA256: 2f0cbdb3009e295c941a772098d4a84daa44cb661a30832d789450811345e7c3
+SHA512: c35c464ea9d2cffd03518b354eb30487760d6ae982ee615f2d307d730ac6a765a39e331f377ab2420688e512ba6ed01b932e5cb4d4064bd66a13cbfce4c7c78e
+Description: A recreation of Liquid Glass
+Name: Vitreux
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
+
 Package: com.mystery.sanjeh
 Architecture: iphoneos-arm
 Version: 1.0
@@ -14290,6 +14309,26 @@ SHA512: f68b40575cc4810a9b5e829da94ec64fef00b747bf13987287b4023db3128c8e91e15ac4
 Description: Control Center module to view time since boot
 Name: Uptime
 Author: MTAC
+
+Package: com.mtac.vitreux
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 6112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/Roothide/com.mtac.vitreux_1.0_iphoneos-arm64e.deb
+Size: 11404496
+MD5sum: 664ba1573edba0586105905f1659129b
+SHA1: 38d9dd885e332d443b6e9d1a1229e9ea9023076c
+SHA256: bfe398d316ccedd511b2f90080fb6a462969b1bb53c58a43d54bd1c581b6d5c6
+SHA512: 875bcdbec2d42fc97e69510357faf71d294b21168399584bd7f62fc1d5a8ed8f76e3c9288064cbbee654321a90f3551b62f0c9096bdbbe44d7f777db70d92b1e
+Description: A recreation of Liquid Glass
+Name: Vitreux
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
 
 Package: com.muirey03.cr4shed
 Architecture: iphoneos-arm64e
@@ -26335,6 +26374,25 @@ Name: LaunchLogo
 Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.launchlogo/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.launchlogo.json
+
+Package: com.mtac.vitreux
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 6112
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/Rootless/com.mtac.vitreux_1.0_iphoneos-arm64.deb
+Size: 5586182
+MD5sum: 7db2a7374e10cead8504cb8616cbe8c2
+SHA1: 0ced1b3a35b7d0dd3ee6eac8b37fb08588fea37d
+SHA256: 1543e1b1754b9668e527e309e836f9234db39474edfb3f17bf3963a8e9cc96d8
+SHA512: 38dcdc76bcc010750baa38804f075d3e33d167815e6f98229f1d818d3e843b28da517cc1911d9c0187c32130a5eb5a79b11a4648e387acbbe58b3e5c265bd0b9
+Description: A recreation of Liquid Glass
+Name: Vitreux
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
 
 Package: com.mystery.sanjeh
 Architecture: iphoneos-arm64
