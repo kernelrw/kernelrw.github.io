@@ -713,6 +713,23 @@ Author: 82Flex <82flex@gmail.com>
 
 Package: com.82flex.trollvnc
 Architecture: iphoneos-arm
+Version: 1.1
+Section: Networking
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5152
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootful/com.82flex.trollvnc_1.1_iphoneos-arm.deb
+Size: 1413820
+MD5sum: 7da4feb0f104d76da3cd6a3e373bb699
+SHA1: f48c0d35082e5f98fc1247be1a8b71f330785b0b
+SHA256: d1011787a8862bef3f7e6478a3866131c9e90097eb118c037b9906a8d5202e05
+SHA512: 35cbb1ec5632b62fd7dc3740f86b17be14af941b159b046738685b55df351f218db36c9ea2d834ea8a4609947c3649cc9ae83c9f57a4b2cea91766da6059d4b3
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Name: TrollVNC
+Author: 82Flex <82flex@gmail.com>
+
+Package: com.82flex.trollvnc
+Architecture: iphoneos-arm
 Version: 1.5
 Section: Tweaks
 Maintainer: 82Flex <82flex@gmail.com>
@@ -10285,6 +10302,23 @@ SHA512: 9747fe86276e2fb51d435154b159ab724120879d03bd22caba89799e13d486eabd7d5d0e
 Description: An awesome MobileSubstrate tweak!
 Name: Oh My Insets
 Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.trollvnc
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Networking
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5152
+Depends: firmware (>= 14.0)
+Filename: ./debians/Roothide/com.82flex.trollvnc_1.1_iphoneos-arm64e.deb
+Size: 1412550
+MD5sum: 6c261b755e366f4f1ad7c97e8e39afcf
+SHA1: c6fbd959a04cd44a2a70a9d2dfeaadeab0198fb2
+SHA256: e2cad1017f8c14e3793bb27178d3842d7e77ae5ca56538ca7f402c401cf44b55
+SHA512: 394b0f7451a48e21ec14f05b1c3e0f2c19c78b6b6fd139a717692b4b52b6dba3e4e971cb8170d62a7228626a82912c8ea8da7f34d2bb99794760eacf9e1b9165
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Name: TrollVNC
+Author: 82Flex <82flex@gmail.com>
 
 Package: com.82flex.trollvnc
 Architecture: iphoneos-arm64e
@@ -22053,6 +22087,23 @@ SHA256: 25bf50a2f2851a956ad9a18fa6511c5a018775ad980ba90205be394e0723d516
 SHA512: 4eff0e1e87e2294d2b70ea493ca3a92fb3256e32347f3fcc9e9060c3293c2c8479234f206c2b4cbf7e1e3e1af77e2b91603f3c5636307aa7c715fd899b60469b
 Description: Combine VPN state and wireless state into one icon.
 Name: Single VPN
+Author: 82Flex <82flex@gmail.com>
+
+Package: com.82flex.trollvnc
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Networking
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5152
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootless/com.82flex.trollvnc_1.1_iphoneos-arm64.deb
+Size: 1412724
+MD5sum: 2b422ef879cf30f014f21f3f2035e679
+SHA1: e02237ee53cae2047f8a7e300aba92f79ab69c32
+SHA256: e3a02d665e1c438e457b5ef10ac902eacd7a63e6c440d337554d33bc66f76b3d
+SHA512: 519669101fff5dcafe1391c29cea8bf05fa20e8f71645364faa782d13c4fede18656ae44e2c07e6ab3a031480b5c998ddcd718cd6ca65eea35e8cb90059f2357
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Name: TrollVNC
 Author: 82Flex <82flex@gmail.com>
 
 Package: com.82flex.trollvnc
