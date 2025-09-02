@@ -14062,27 +14062,6 @@ Icon: https://github.com/roothide/RootHideManagerApp/blob/main/RootHide/Assets.x
 Depiction: https://github.com/roothide/RootHideManagerApp
 Support: https://github.com/roothide/RootHideManagerApp
 
-Package: com.m1337.varclean
-Architecture: iphoneos-arm64e
-Version: 1.2
-Section: System
-Maintainer: m1337
-Installed-Size: 876
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0)
-Filename: ./debians/Roothide/com.m1337.varclean_1.2_iphoneos-arm64e.deb
-Size: 831770
-MD5sum: d260a32490e1114695bdb2352880e3f6
-SHA1: 372e55011edb7151a55fea1b7e6b74077b01a955
-SHA256: 5017f8ee5722c1958bdaf78b2a98387ec09135ac76a68023af6c6ca86a2ea018
-SHA512: b220e9975bca2d1aff5240011515d4ec125fb8536d5c60f92302b52a58585a93d375f017ec649317d4548c08ecb5ec0bf889a6c597ab3ca67ef931c481a4f02c
-Description: varClean for Rootless
-Name: varClean
-Author: m1337
-Icon: https://github.com/roothide/RootHideManagerApp/blob/main/RootHide/Assets.xcassets/AppIcon.appiconset/icon-76.png?raw=true
-Depiction: https://github.com/roothide/RootHideManagerApp
-Support: https://github.com/roothide/RootHideManagerApp
-
 Package: com.macthemes.axolotl
 Architecture: iphoneos-arm64e
 Version: 2504
@@ -26208,26 +26187,6 @@ MD5sum: d2877e312e6ae013a9b49b7fd59ccd55
 SHA1: 0b8f40cdbe95984baeaa9637ccd1c1fa941ceed1
 SHA256: de98204e1ed7467649bc4954899ecc54ca81cebdcafc06bc654ccec5e3dc2979
 SHA512: 82ca257b67362a54215caffd07d704db4ff881e5e669bb9449da125e4f75cb341a89e1d2890bd23bb0788628c1a7e87aa0c3afef20006211d8cfa3ddbd8adc77
-Description: varClean for Rootless
-Name: varClean
-Author: m1337
-Icon: https://github.com/roothide/RootHideManagerApp/blob/main/RootHide/Assets.xcassets/AppIcon.appiconset/icon-76.png?raw=true
-Depiction: https://github.com/roothide/RootHideManagerApp
-Support: https://github.com/roothide/RootHideManagerApp
-
-Package: com.m1337.varclean
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: System
-Maintainer: m1337
-Installed-Size: 876
-Depends: firmware (>= 15.0)
-Filename: ./debians/Rootless/com.m1337.varclean_1.2_iphoneos-arm64.deb
-Size: 797232
-MD5sum: 759c1b71db70b2c83b7f95c1dcc63773
-SHA1: d7cc114aa7aee5c54305d4c73c51e852d23e2fe6
-SHA256: 34888bbe98c112b038b345e016cb98bc6fd815498949fd739839207a66d073af
-SHA512: bfa3b1fff6f0fea41d54c05128d2202567dc51bf08dc2b8cbc35dd7540a675a5a1378dcc01158bedf8f5af74cfeb362e0f5e4ec1316a9a123abd7f836e9bd2ea
 Description: varClean for Rootless
 Name: varClean
 Author: m1337
