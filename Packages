@@ -6583,6 +6583,26 @@ Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
 SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
 Author: RedenticDev <redenticdev@gmail.com>
 
+Package: com.rov3r.scmusicplus
+Architecture: iphoneos-arm
+Version: 24.9.2
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.rov3r.scmusicplus_24.9.2_iphoneos-arm.deb
+Size: 9778
+MD5sum: 10d0c78d1f2e80f482d3e6a869b70720
+SHA1: 5f96ae70f929fdbc11f973d99289423d81b3465f
+SHA256: 60de79c4ad8ee9998db41f7f13be0c97e261ec825c856c80f977be4da405130d
+SHA512: 408b961c644c05e7c0838c02b5ec1503d604fa94e728e62013032503a7092ee4092f0b86e3d395303f405e80fbb6e8cbabfc24cf10a1003245b0a7a29c976fad
+Description: Enhance your SoundCloud experience
+Name: SCMusicPlus
+Author: Rov3r
+Depiction: https://rov3r.github.io/depictions/scmusicplus.html
+SileoDepiction: https://rov3r.github.io/depictions/sileo/scmusicplus.json
+Icon: https://rov3r.github.io/depictions/assets/images/scmusicplus-icon.png
+
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm
 Version: 1.0
@@ -8826,11 +8846,11 @@ Maintainer: waruhachi
 Installed-Size: 348
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Rootful/moe.waru.frame_1.0_iphoneos-arm.deb
-Size: 9200
-MD5sum: 65e38841949973e88550406bfee4547d
-SHA1: 7e8aa58a98288ab24f11d03a17a092f0192d1a72
-SHA256: 160599f3978a50aae6973e2bc27f6ed996330c2b1ef967db3fff074f61b63399
-SHA512: 33d3de132d1e919a32b352d883dc68468852d658b0fdfe93a06d0c9df6fba982f6df640522c5c362c1fa342c245b204da38d263998d694c147ca74495f25eef9
+Size: 9236
+MD5sum: 41ea10274c1b6b581218a44b75559ea2
+SHA1: d378b95d7e889ab4f50f66529a85eff3146566bb
+SHA256: 70a046311e97b7932073f2d6cb8ef931db4c64a74d6c091f34d74658c6676088
+SHA512: 3361ea9190bb88220ce5770c429234073eb01fb2cc29291799cf642928ecf3e76242ee086d040ac84ae0eefbd2a81ed3b2629e29d3df1ab16c4dcbd4bc96a8e1
 Description: Configure the frame of your status bar
 Name: Frame
 Author: waruhachi
@@ -17305,6 +17325,26 @@ Tag: role::developer
 Name: PatchLoader
 Author: roothide
 
+Package: com.rov3r.scmusicplus
+Architecture: iphoneos-arm64e
+Version: 24.9.2
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.rov3r.scmusicplus_24.9.2_iphoneos-arm64e.deb
+Size: 9752
+MD5sum: 159e7db85114db90632d45b619d555f4
+SHA1: 049c9ea7c4fd98af16d29cc8a5ac3c87c9506feb
+SHA256: 5e54be390de048f3b11987d237196bb30aceaa926e524a684137300b598aace4
+SHA512: 689a53302ab5f4287b43bb60e220750a12d3fe817a08e8a5b88b323fd2b3fea7e5df1d1e7bdc355e1fd2542fef2b352ecf0f0576e57110b6da65f9a5173f996c
+Description: Enhance your SoundCloud experience
+Name: SCMusicPlus
+Author: Rov3r
+Depiction: https://rov3r.github.io/depictions/scmusicplus.html
+SileoDepiction: https://rov3r.github.io/depictions/sileo/scmusicplus.json
+Icon: https://rov3r.github.io/depictions/assets/images/scmusicplus-icon.png
+
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64e
 Version: 0.1
@@ -20093,11 +20133,11 @@ Maintainer: waruhachi
 Installed-Size: 348
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Roothide/moe.waru.frame_1.0_iphoneos-arm64e.deb
-Size: 8012
-MD5sum: b7d655c7388ca92a9f099338dbfcecfd
-SHA1: e0890492c6c166d1917a45eea04ad28ea273ad2b
-SHA256: 4c1e6a6994016ad4b6a4549239867e7a91efea33badea4a88d72d80d49194a0a
-SHA512: cb8347f354d8612cd41cf4e22554f5aba9ada794ad4cb4408e4ea6042371d2a0d17474aca647f9bef0be8e5ecc0b3e5cd91af1ba7baa68b6d9285470fae909fe
+Size: 8016
+MD5sum: 7bca5ee452be464b3b57cb78edb2d715
+SHA1: 634b9f39701ea70a18d74d8fecfe9acfdfde53c0
+SHA256: cd8f0f9115579e08e8e0d9f4e9444fe4965c2f208f113c87ad4bd25d9c68580b
+SHA512: 61ba0558a43b334ab8a9d5b2c945f03e12e658b83f56f4d2f71b3ff9affc0538eaee6d7eb9227265d9baa1dba887cf050ad0918b2d08b85bb769b56847ae5ad9
 Description: Configure the frame of your status bar
 Name: Frame
 Author: waruhachi
@@ -29299,6 +29339,26 @@ Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
 SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
 Author: RedenticDev <redenticdev@gmail.com>
 
+Package: com.rov3r.scmusicplus
+Architecture: iphoneos-arm64
+Version: 24.9.2
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.rov3r.scmusicplus_24.9.2_iphoneos-arm64.deb
+Size: 6560
+MD5sum: f4ff42f7bc861fbea0236aa02d18a9de
+SHA1: 159bdbd6b6818c5a656f9baf7ca25128805648a2
+SHA256: 8d4de014be13ee850a59050ca42795f107e9292d63a832eff53c00e974ded365
+SHA512: 169de576b30701297b7dcae2f03d61a182ba4579605f429dd3f485386794cfb1ce5c3f3f6ef68e027620a72575cb52bbd37ad3722a35962c376bf734cd7b037d
+Description: Enhance your SoundCloud experience
+Name: SCMusicPlus
+Author: Rov3r
+Depiction: https://rov3r.github.io/depictions/scmusicplus.html
+SileoDepiction: https://rov3r.github.io/depictions/sileo/scmusicplus.json
+Icon: https://rov3r.github.io/depictions/assets/images/scmusicplus-icon.png
+
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
 Version: 0.1
@@ -32124,11 +32184,11 @@ Maintainer: waruhachi
 Installed-Size: 348
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Rootless/moe.waru.frame_1.0_iphoneos-arm64.deb
-Size: 9058
-MD5sum: 0247ae2b07bb4ba9ccd02adfe2a42f4c
-SHA1: b7677d29daab644981a82b872b0ab52c2b2acc58
-SHA256: 1e1c35149ec89feea772043829f667ebfcd232b84f12424c48148ac09a6cf97c
-SHA512: 20d7a0c609d3921c97db7b899c6f44622e6227625a034ecfc3614ee75e2107779f2fcb7e68ef4ff4c99d3791d298ed8b1edc704696fae4e7d337940a0eed89b5
+Size: 9066
+MD5sum: 16220c5b231db5a2906184b9d39ca8ce
+SHA1: a9f06edfb54e72a903500cbea184e9f99d4da7b0
+SHA256: 225bffbd83ca2816db4c75f0f8782ccab73daab147cb5d3815354ef6b839a9b7
+SHA512: fef5c163743f2d1e81247c680e96e445a1246acc6072e506f73371c1ead27abdc6044fd5f3ebd0ecfdd964dfcd81b9dd8051763d51081a86d74c6148d2811ae8
 Description: Configure the frame of your status bar
 Name: Frame
 Author: waruhachi
