@@ -15533,6 +15533,24 @@ Author: Netskao
 icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
 
+Package: com.netskao.ipccinstaller
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Netskoa
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Roothide/com.netskao.ipccinstaller_1.1-1_iphoneos-arm64e.deb
+Size: 1493904
+MD5sum: f692415331a234dd19af8f26ef547743
+SHA1: 4a8dd9bf45dca1a4c447894f1fee2b0b6b8da121
+SHA256: 0b37704e06d9679677d6f563dd1dc9390b5493e2d6087e4261d47ab48206f21f
+SHA512: bf14c7e087137aa4a9b987a9fa54c3378c45329ee090012c6dbd8f259e746d683ec0cc87197eca9a8b7391d48a1f98e20c8d4a6edf9cffb5e15e4fd5f08d4709
+Description: Update Your Cellular Provider IPCC With a Click .
+Name: IPCC Installer
+Author: Netskao
+Icon: https://www.iclarified.com/images/tutorials/4209/15934/15934.png
+
 Package: com.netskao.twitternoads
 Architecture: iphoneos-arm64e
 Version: 1.1-2
@@ -28029,6 +28047,23 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/dumpdecrypter.png
+
+Package: com.netskao.ipccinstaller
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Netskoa
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/Rootless/com.netskao.ipccinstaller_1.1-1_iphoneos-arm64.deb
+Size: 1493004
+MD5sum: 81e327dbc14a8b4712c7d9405af714b5
+SHA1: 342cdbbace174c8b2b8ae680de83da7e1c3133a5
+SHA256: 9bc765e1cc78a41f79135874be909b02f2bf638d6d3e361d82ce6b5c0035c4c1
+SHA512: 0737f79efb896245c4a11f4fc5bca3d9d61bec8c83da9e3596b075b78450ff92e7cd741afce5e0b2759c4ef95c9687b59ae594aa92af3a842176e51bbbc619be
+Description: Update Your Cellular Provider IPCC With a Click .
+Name: IPCC Installer
+Author: Netskao
+Icon: https://www.iclarified.com/images/tutorials/4209/15934/15934.png
 
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm64
