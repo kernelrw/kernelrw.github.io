@@ -5349,6 +5349,24 @@ Name: BatteryPercentX
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.enablebatterypercent%2Ficon.png&s=180x180&f=webp
 
+Package: com.netskao.classickeyboardxs
+Architecture: iphoneos-arm
+Version: 1.1-9
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.netskao.classickeyboardxs_1.1-9_iphoneos-arm.deb
+Size: 275736
+MD5sum: 41d1aabfc139eb1279837265b6ad3200
+SHA1: 400651258fd8e3b58ba4016b92915a4dc601d2d1
+SHA256: d53080c514d744d52e4c1c7dc922d86c97f4b094540bfc99b2f469b945b2c5a6
+SHA512: 9bb12e30a860a4045a691e2bc69219e48a0a9332c8c030eba46a2726451ddedb64f2ef3b0c1fdb4e190575d912780d60755293a6811bc1e0e94e8f9ca85a0148
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
+Name: ClassicKeyboardXS
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.classickeyboardxs.json
+
 Package: com.netskao.dumpdecrypter
 Architecture: iphoneos-arm
 Version: 1.4-5
@@ -5420,6 +5438,23 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/dumpdecrypter.png
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm
+Version: 1.4-9
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 852
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootful/com.netskao.injectipa_1.4-9_iphoneos-arm.deb
+Size: 269792
+MD5sum: 344b6c2617e762889252dcf06ea79c31
+SHA1: 491ea4a327d71d44c82ebec27632fe6019700033
+SHA256: f90062c5abd8fbad2b2ce06eaa105c1652aea8ceefaecdc08becc886ccb6ca54
+SHA512: cdfb1020609f50e0c2ab395c72ab4e80b53768a15643884918f16c1dbf230b8cdccf2c0a00a752f0ba7faa02ac4723b3e16d3255426336129a594c28100862da
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
 
 Package: com.netskao.twitternoads
 Architecture: iphoneos-arm
@@ -15511,6 +15546,25 @@ Description: Quickly enable or disable Wake on Lift from Control Center, Support
 Name: CCLiftToWake
 Author: Netskao
 
+Package: com.netskao.classickeyboardxs
+Architecture: iphoneos-arm64e
+Version: 1.1-9
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1044
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.netskao.classickeyboardxs_1.1-9_iphoneos-arm64e.deb
+Size: 390824
+MD5sum: 0ae4c42726491e60054ce8fda429323b
+SHA1: bd552dbd075915560997920189a5e5200db3bea6
+SHA256: d94ed0b7f708bfeff2e44fc698f9b60730f74a792a18b7462a592e6d8020b22a
+SHA512: 5d7b5f60c59e3d937816bea7e2ca28e7e876e064c816d70e06969abc6d7eed14d7fcc6afae1ca2c40771523c00be672fc6b301487294b5cae50b5e7ae71a5c47
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
+Name: ClassicKeyboardXS
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.classickeyboardxs.json
+
 Package: com.netskao.dumpdecrypters
 Architecture: iphoneos-arm64e
 Version: 1.5-1
@@ -15532,6 +15586,24 @@ Name: DumpDecrypter
 Author: Netskao
 icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm64e
+Version: 1.4-9
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 852
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debians/Roothide/com.netskao.injectipa_1.4-9_iphoneos-arm64e.deb
+Size: 363290
+MD5sum: b3e3f414347b4c1e73bd160a1bc4343a
+SHA1: 5f5d653800913ddaa4d3fdded08a653c44a9bd4a
+SHA256: dfeef91089eee6d114fd8c1d359f5dc235d948f5e1462177c7522cde01c67f84
+SHA512: 8f1d0da68affe4f01baa604590fc8cc5338ea5bcfedd02d576490fb4d0c6755d262a7320759250e201f958f0fb6d44842abd1f59518362372889350d685a20c9
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
 
 Package: com.netskao.ipccinstaller
 Architecture: iphoneos-arm64e
@@ -27957,6 +28029,24 @@ Name: AppData
 Author: Fouad Raheb
 Icon: https://avatars.githubusercontent.com/u/6962327?v=4
 
+Package: com.netskao.classickeyboardxs
+Architecture: iphoneos-arm64
+Version: 1.1-9
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.netskao.classickeyboardxs_1.1-9_iphoneos-arm64.deb
+Size: 275676
+MD5sum: 06aa60bfb13653f8b2405f572db1cb41
+SHA1: 82a939be0a54c07fea7bd690de7d342fd0b9b46b
+SHA256: bc56777d665ef022383b2c9deff2b7b8b3db21fef673c45553d6afc3de21877b
+SHA512: 4dc00e6115372331e2741db23e115ef5b4b8d9eaaafb287c216ee2bde7345d50b9b2af1fcaaefd72d00e21c58d9611f28108cfe660919b448f3efda4017d3051
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
+Name: ClassicKeyboardXS
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.classickeyboardxs.json
+
 Package: com.netskao.dumpdecrypter
 Architecture: iphoneos-arm64
 Version: 1.4-4
@@ -28046,6 +28136,23 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/dumpdecrypter.png
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm64
+Version: 1.4-9
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 852
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootless/com.netskao.injectipa_1.4-9_iphoneos-arm64.deb
+Size: 269848
+MD5sum: a6a4fb5e775ca069486f12af2832cef7
+SHA1: 0b0de2bf1e136a208dcb7ea621150a7833b9805e
+SHA256: 79e3551823fc3aa484241a043d1fa90930dd288d5a2451a493d5830f45f44137
+SHA512: 0d97b04dc511d78e9e5c87652993a9183e16b0fa5ab7aedfd2a2bea90599a629df5ba13127ae7280d3077756ca4c37f9aeff3b852fa040614d273a60f5c79be3
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
 
 Package: com.netskao.ipccinstaller
 Architecture: iphoneos-arm64
