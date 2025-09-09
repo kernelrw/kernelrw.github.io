@@ -5507,6 +5507,23 @@ Description: InjectIPA Tool
 Name: injectipa
 Author: Netskao
 
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm
+Version: 1.5-5
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1096
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootful/com.netskao.injectipa_1.5-5_iphoneos-arm.deb
+Size: 333764
+MD5sum: 46c2d36e109a2895e0afd3c42d0c2973
+SHA1: cc98c1ffa8686edeca2eb7749d5411e931a01ea4
+SHA256: dedaddd7cea346a928925e1dba105a5b90bf2d6d928d52a2fd36e9f8cd9ef706
+SHA512: 6ffc014a99a7d15e6983f27c421ad1544228091f9b774c6c34a0185d7acfbcfd0907beb72ff75c401ce620011a56a6e6989945b0ccc7ab674c8082b46f18003e
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
+
 Package: com.netskao.twitternoads
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -15706,6 +15723,24 @@ MD5sum: 0cac686fec36991def10ca2f97e7f137
 SHA1: 668f40a03e49572dc53a382c2c235ef760c9003c
 SHA256: 5720ce0e590c0d48a5654ba3acf596d37284989d2801aca9bdb7a26861694dd4
 SHA512: 57299e0a1390aca45ab4b17acd526f70b811c2e3a14696479636dc3f95fe0b4993f07692e5733f48fdb45ee2f33e429b70395827ecf918217ee13ed96e02b857
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm64e
+Version: 1.5-5
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1096
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debians/Roothide/com.netskao.injectipa_1.5-5_iphoneos-arm64e.deb
+Size: 455354
+MD5sum: a24e107ac72dc8e9c0f0ab70c249064a
+SHA1: 5719285111a8eb154e9e887bd61357f4711e03c6
+SHA256: c750c1fcc30fe7c5e9a15e7f107720651b603a56bc643aeeac4552da09824fd6
+SHA512: 9b6ef4663d171dafb3aedf58cd081e4eb8719de8dc6c261620a908332ce9d8cbe5a55113886adf7dd67a8a16980574c47172595a608b61a70a9253494a5b4ac4
 Description: InjectIPA Tool
 Name: injectipa
 Author: Netskao
@@ -28306,6 +28341,23 @@ MD5sum: 98230ae076b267222f8a1b73860a800e
 SHA1: 7d04b3fb22ce056b4cbf3037595c595d8c383c83
 SHA256: 44baef9d2217a48da38936209b664415e861069ccb029777a34d55af230c7b65
 SHA512: f16d8d294268e2d038f4187071767f5da5bf13f3057f5ee282cdbb34247abf63a889d798ff6098b7779782daffb71fa79d39bbefa54cb1dc12987245e4398089
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm64
+Version: 1.5-5
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1096
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootless/com.netskao.injectipa_1.5-5_iphoneos-arm64.deb
+Size: 333600
+MD5sum: 963f358a6536699a7e87e2478d72ed77
+SHA1: 6de5bb13ea5deb3fd8cc0e23c98750bfd0b271d5
+SHA256: 6424b8f33f2f0caa1248563ff081d37729e4bfcbfec82ae7809297609a788949
+SHA512: ae83dffe779164066a8f8efed696338cc9af268d3d6b3e26c4a9180fefdafed14b8a21531adca729c3c1141283fc0dda50d14b9a6d7ed0590a5b0fcf9603b883
 Description: InjectIPA Tool
 Name: injectipa
 Author: Netskao

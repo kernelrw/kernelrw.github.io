@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Codename: Kernelrw
+Components: main
+Date: Tue, 09 Sep 2025 10:12:52 +0000
+Description: Kernelrw
+Label: - Kernelrw
+Origin: - Kernelrw
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 185dff017f48135e85231a84758583cf          1512283 Packages
+ 42d50b6a519526df50c8694e465907d8           373666 Packages.bz2
+ ea73f5ee35f1e449d3a898f1f639f3fa           487585 Packages.gz
+ 4b7d1992cc6c3db0c3accabf801ec56a           339900 Packages.xz
+ ec05f25e666fff3f3dd6ddc4bcb0f51f           342367 Packages.zst
+ 3b2dd87fd81727f3053dbfeef7fd767d              219 Release
+SHA1:
+ da010ab844981488d7d78a7c872c8954ed3476c5          1512283 Packages
+ 49f2742074e6fb8a8e2a93beab2aca30f929a589           373666 Packages.bz2
+ 656a5a56765cf0e4f91171ae07491bcf94e26131           487585 Packages.gz
+ 4ae9caeba19b3cb26d623b5c8e403bfb4dfef0d3           339900 Packages.xz
+ 6bcee74d5cc12d7230747e14e8be11c7f920dea6           342367 Packages.zst
+ d4080a808df00565f7522803e429cf17189ece19              219 Release
+SHA256:
+ 43ca8a8595ca3e5078096030ae22b7231f587c8538215ebbe0a2c182c0546f8a          1512283 Packages
+ a65b9c631136c76bcc7cf0a16561006ab1d9ca7366bc458134a930610d5ee07e           373666 Packages.bz2
+ faff2800003d1afa8c6011e876d1509983737c18df805198be2cb03db3208260           487585 Packages.gz
+ c919aa56cc084b0d3010869e788ac4ef39a15a6351f5671cbe9593815af90141           339900 Packages.xz
+ b5c1cb409f184476f73277241c7a097729551acfc2dc401aea38d6dc7f273fc0           342367 Packages.zst
+ 1baa80e0f9222f6fa86bbee9acb9e7a2df41e5a50a6f46dd5eeb5a7ccf0a9a3f              219 Release
+SHA512:
+ f1162557fef90ffc7a83e566db81d2cd660cf0faa531d6dbf867116c79428a6a67fab3823c27f1841d0016c94314b460476dfb6cc7d79d4d4dfb716e57952587          1512283 Packages
+ ed86a91af02a6c65beb9e04378e131c4665af69fd67fcf689b3689a3db04388b269af57e15042f216f1c79e2c4f44980bf83a051810d28fe66c0dc5d59f76aea           373666 Packages.bz2
+ 70c2ecb528984e9949938b1331af07f30570be475c41108e3b9f2e046ba0c7593ec0963c6514ccdce8a75e8976bd9188d32807e3cc6fd887b74b5c39b935540a           487585 Packages.gz
+ 34dd3646e1553868e2539105d5d04c8e32ee05cc60aa5c77a06d1594038d03e9ff99c29218159028a76698c13df6ac0779a055e886b09bdce60dd1a91c8a657f           339900 Packages.xz
+ c2c58c6f8f96d02c3c2ec29fdb59dea39f1611dc68091d2c4700aed8eceb7ebad12c0e78001ae9bdd73cdd1d3a47f7f71b14c567ec997381abdd96a5720e8355           342367 Packages.zst
+ 5a4a1d9ebeb691774b514319537912231a672c7b522d43938b75f296ad553b4994f216e5ae618918f83ef0a8752efae9e5e8fadbde2322bad2960a17a1cb574f              219 Release
