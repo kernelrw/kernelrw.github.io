@@ -9098,6 +9098,23 @@ Description: Remove labels from Spotlight
 Name: NoSpotlightLabels
 Author: NightwindDev
 
+Package: moe.waru.safemodemodule
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.safemodemodule_1.0.0_iphoneos-arm.deb
+Size: 6334
+MD5sum: 70c8ad7e07a3441766909672a92c090a
+SHA1: 981c765ce875a9fd020beb7b1f3af21629c9703d
+SHA256: b9e41c8fa86a489a9356236e14fa07c7d9e00bc89b4302f603a8d85cacaadbea
+SHA512: 44508ca0ee204419d75ec81ed1c6cab3c5bee46f8a4c31cccc22d35e7dc3c1320fb54840d1eb34fdc92cc70d3d02a2b12319eea6760d5bab5f980571ec4d1b6b
+Description: Control Center module to enter Safe Mode
+Name: SafeModeModule
+Author: waruhachi
+
 Package: moe.waru.shisha
 Architecture: iphoneos-arm
 Version: 1.0.0-1+debug
@@ -20550,6 +20567,23 @@ SHA512: f869568fab1858513658a6e7c5f2d8549b6810cf7a586b4698d794ba4dff92cf8436aad1
 Description: Remove labels from Spotlight
 Name: NoSpotlightLabels
 Author: NightwindDev
+
+Package: moe.waru.safemodemodule
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.safemodemodule_1.0.0_iphoneos-arm64e.deb
+Size: 4794
+MD5sum: 67f77cf478236250b0f0f8a2eedd8aff
+SHA1: 416c35ce69afbf508f44cc504fa64f7e8cd70ca8
+SHA256: 77af6d422a668041e213074775470fa495475b5e7fc37fbf4ddb8dd96c2697c0
+SHA512: df3d30acf99b394b70606ecd3f52de0d9bc7c007b60724d5f5798f21359438201a90a215b70f7e798ee35588b4cdc776ea9eae3253cb0ee8eac4d09b24771594
+Description: Control Center module to enter Safe Mode
+Name: SafeModeModule
+Author: waruhachi
 
 Package: moe.waru.shisha
 Architecture: iphoneos-arm64e
@@ -32759,6 +32793,23 @@ SHA512: 12e9cf1142b2698f9034ff63eb7fc10c67074ea34e9f6b414d91620109f6c8867c2fcdfc
 Description: Remove labels from Spotlight
 Name: NoSpotlightLabels
 Author: NightwindDev
+
+Package: moe.waru.safemodemodule
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.safemodemodule_1.0.0_iphoneos-arm64.deb
+Size: 6226
+MD5sum: 42ec02d6dda2c528acae7cd040cf0bc9
+SHA1: b4e0af6d1453caef85b5ef15027055b15808c39d
+SHA256: 341f54c0c6d5bcf88cae5ab40821df565086d0c0369367ef0471c67042462573
+SHA512: 7f55eb16578f1d3ade2b909342392d78f5ae5ca1908b289da15508e321ba352ffebe4951f0948cd08f7b74115dcb4477bd91d008d627fe03c4452902783f3279
+Description: Control Center module to enter Safe Mode
+Name: SafeModeModule
+Author: waruhachi
 
 Package: moe.waru.shisha
 Architecture: iphoneos-arm64
