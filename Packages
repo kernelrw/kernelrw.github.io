@@ -11070,6 +11070,30 @@ Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
 
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64e
+Version: 1.3-3
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/com.choco.tgextra_1.3-3_iphoneos-arm64e.deb
+Size: 20656892
+MD5sum: 6e9547098929a4df890909c60b47d16e
+SHA1: 30d99374b4510218bc00d4b689675e1912246273
+SHA256: fee44d9f9b4033327032e9908f205cceeff475719fad5f549302ce86eeaffec1
+SHA512: 3955fdb63c0ba420367acb34c50e15d6c7d6dc40f640b7ca265653770f1f801accaadcc834ea54ca92852219d377fc51c61334beb099fe3403200fa0087c9c3c
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
 Package: com.chocolate.redditfuck
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -23076,6 +23100,29 @@ MD5sum: 81333f4a06b57cd04b1584fbaae3031e
 SHA1: 51d3104d90a5d4bb095f6af30af4d68f7cab5754
 SHA256: 6354938324137c25846d78a64c6756a68056bf8e258d5dc04a2286553b67a8f7
 SHA512: 4a6d8b3777cf72f30ad73318238c2d81192007082e399bfa1990daa069f875175c28764757bd024d7be601eb8f23317186185bc42b611d0372e9ce65a9ae8229
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64
+Version: 1.3-3
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/Rootless/com.choco.tgextra_1.3-3_iphoneos-arm64.deb
+Size: 6118168
+MD5sum: db5d91196371a6486bdecba3d590845e
+SHA1: 820a7cf389dc5b74f4dd48b1a2a0d16a3a7c366d
+SHA256: 23743f2a9c87b49f6067d7968f2eb3e53fb35d094397a3d54d406b52701badcd
+SHA512: d1182a108389ef2e63b410dfc10531676de65291389b0b02a57786acf48d612147e51bb1f5bcc40416e7f7d43bb362c5625262328817002d376fe69cef0a2fc3
 Description: Telegram Enhancement Tweak
   * Remove Ads
   * Hide some input states
