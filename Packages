@@ -2070,6 +2070,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/FastLock/main/Sileo/depiction.json
 
+Package: com.dvntm.fastlock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 852
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.fastlock_1.0_iphoneos-arm.deb
+Size: 381912
+MD5sum: 49ca8792c3f3a94ab7fb6beef16aeefd
+SHA1: ae8a6f9df907e34bd531b6f339809f6a923fc99a
+SHA256: da07c8bc0a12b21b75df8a687da82b97faf6cd47f28b7e35682c55cd5d5f3506
+SHA512: 420659ff00d0b3b7325e3f421acc84f49e8f5406a45dbfe0d766d21bf8db4bd3bddada59310ac85815e3e8b5f0d63bfd64af12621cbd2645012461a04fd337bc
+Description: Lock your screen using gestures on SpringBoard
+Name: FastLock
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/FastLock/main/Sileo/depiction.json
+
 Package: com.dvntm.fbo
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -11799,6 +11818,25 @@ MD5sum: e77115b543ee63a751d83c0e370e9dcc
 SHA1: 8fb6d158a0b51cfe8362b023c668de0e99f5fa5a
 SHA256: 76688cb07d2d1a7f9208db05e818faac641f8e49856f730b575032561507dc79
 SHA512: c3bb402b33ac2acbb13bd7773cf86e75986d19ddc32a48d3c1c8f18d59659f20611ac81fbd46eea0a957b7e1ae8ac4e58a696e690de9d202c8d06d409a922906
+Description: Lock your screen using gestures on SpringBoard
+Name: FastLock
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/FastLock/main/Sileo/depiction.json
+
+Package: com.dvntm.fastlock
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 836
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.fastlock_1.0_iphoneos-arm64e.deb
+Size: 380868
+MD5sum: 0b97bdf21eed1fb24e0ecd90559598fb
+SHA1: 3eba594c0b4448131f8269d554a7b9ab5d750165
+SHA256: 23002b1eb72a02bd12bf35cea3a665aa028c8a3677db7b79eada0c0dbf2c3d49
+SHA512: d877eb1410b26c486afb3d569ba03c3a7c2cd88939cf7f6f1a09e11923ffce05dba8f95f1a43a5a01c21495208346a47e34a1e01abb1393ad1fb70c3e0005835
 Description: Lock your screen using gestures on SpringBoard
 Name: FastLock
 Author: dvntm
@@ -24190,6 +24228,25 @@ MD5sum: 6209c8d1666ae2a45337a940855d2140
 SHA1: a31f099f0b7aab4e079c7c04bc6c55e52a0a9324
 SHA256: 6d43ed91ea012258e8cfbcd083bf96371484e63835fe846e218998372a0a0908
 SHA512: 0be5f5f84a7e5cb2a42e10f5a22ec4ce7db24489d6c1c7e2724d09c569e229a97334a3d1d8f53c7a5e28c8f5f8cf0765e7baeb45d22a1ab1767493cfe5195f31
+Description: Lock your screen using gestures on SpringBoard
+Name: FastLock
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/FastLock/main/Sileo/depiction.json
+
+Package: com.dvntm.fastlock
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 852
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.fastlock_1.0_iphoneos-arm64.deb
+Size: 381870
+MD5sum: 87c37246588a3ddd5f4f8ac368825c98
+SHA1: ae2aaff422673424da04be2630c1dad73da7cf8d
+SHA256: 5e09a75b3ac02abf4658712a9387974aae17f0a0d8e7ad3d036f63c918dad478
+SHA512: 20efff4297400711b0cac9b98f4a3751ca7c13de1ab5b5ffa2c5bc0ad3f0a85db8d7400c21abf1e91c7e5dfbeb455c61324065b7ea30af04639962966c8e5810
 Description: Lock your screen using gestures on SpringBoard
 Name: FastLock
 Author: dvntm
