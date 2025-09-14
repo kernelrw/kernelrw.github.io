@@ -2729,6 +2729,29 @@ Description: A tweak to get Spotify Premium for free, just like Spotilife.
 Name: EeveeSpotify (Lessica Fork)
 Author: Eevee
 
+Package: com.ethanrdoesmc.dawn
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 600
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 15.0), preferenceloader
+Filename: ./debians/Rootful/com.ethanrdoesmc.dawn_1.2_iphoneos-arm.deb
+Size: 173656
+MD5sum: 69f97919c72d2d8ec39b9d817fd64db1
+SHA1: 816985f93898a844a6010791038a6f588066a957
+SHA256: 518c9e95bbdf8a1b5b0b88e8d439e8548a8f997196c0607c68ba19ed1185e523
+SHA512: a536df970bc336df9d1df3babf1a440580225f14dfc0b4a0b5fad050e6dfd3163e4bb9580099cd94375d1cd8ece49eedc9297cac5abb7f3e0aa3752571f15ddb
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Description: The missing settings panel for Dark Mode. Dark elements in light mode and vice versa.
+Tag: purpose::extension
+Name: Dawn
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ethanrdoesmc
+Icon: file:///Library/PreferenceBundles/DawnSettings.bundle/icon@2x.png
+
 Package: com.ethxnn88.visibleisland
 Architecture: iphoneos-arm
 Version: 2.0
@@ -12232,6 +12255,30 @@ SHA512: 4715569141bc8563efcc1ea2bf2834d0a3fb11d576b171303fc84ac531093c9f8e73e808
 Description: A tweak to get Spotify Premium for free, just like Spotilife.
 Name: EeveeSpotify (Lessica Fork)
 Author: Eevee
+
+Package: com.ethanrdoesmc.dawn
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 600
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 15.0), preferenceloader
+Filename: ./debians/Roothide/com.ethanrdoesmc.dawn_1.2_iphoneos-arm64e.deb
+Size: 197326
+MD5sum: 7a7be00d54fee35c93945432c8ea3729
+SHA1: 5c0b94cce4f599886025742c451b35e030356d66
+SHA256: d03dbabdc98fab81e94ec7e13d9bcb9f845d0e8c43929820658cb52e5aed1c26
+SHA512: 0d26cb694fc7052cd7f01b3cadfe1e9bd8203de4e6471380f7efe5c4db35d6e50f1cf5101dfcb6ef186d6f7685d95d3783661940ee7ea0cca0969ccad15cf5a4
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Description: The missing settings panel for Dark Mode. Dark elements in light mode and vice versa.
+Tag: purpose::extension
+Name: Dawn
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ethanrdoesmc
+Icon: file:///Library/PreferenceBundles/DawnSettings.bundle/icon@2x.png
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
@@ -24909,6 +24956,29 @@ SHA512: d092e0347cc000440638c0d2bec8416811875800ace24d291044b45603330506253dc1f1
 Description: Fix YouTube images not loading
 Name: YouTube Fix
 Author: Eevee
+
+Package: com.ethanrdoesmc.dawn
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 600
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 15.0), preferenceloader
+Filename: ./debians/Rootless/com.ethanrdoesmc.dawn_1.2_iphoneos-arm64.deb
+Size: 173574
+MD5sum: a919a0aa68cfaea4f604d2f2b5cf82eb
+SHA1: e1e02d8c45cc3506f07b03fa263464e3f8f93cc6
+SHA256: 48fef91f3cfd13829cdf21952e8645ddbe749615c2225716bd00a2725a2109dc
+SHA512: c87b93bae41da7eda6d749cf364391a49460a26c79c9d663ebfc70738c54dde3f65b1306d7a6902f589a23ff92e42918a4944ea75752afea9453586f22e043c1
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Description: The missing settings panel for Dark Mode. Dark elements in light mode and vice versa.
+Tag: purpose::extension
+Name: Dawn
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ethanrdoesmc
+Icon: file:///Library/PreferenceBundles/DawnSettings.bundle/icon@2x.png
 
 Package: com.ethxnn88.visibleisland
 Architecture: iphoneos-arm64
