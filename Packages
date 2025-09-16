@@ -9104,23 +9104,6 @@ Name: Silence
 Author: waruhachi
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
 
-Package: moe.waru.bankinter
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/moe.waru.bankinter_1.0.1_iphoneos-arm.deb
-Size: 9546
-MD5sum: 79c1cdc6e9909436084006662cec81e6
-SHA1: e4babf2f5f61d879c792122a41841002a2732d7d
-SHA256: 12f43aa0a8717960fa4643b543a77eff5f5b24cf6c66bd22c816bb33529fee9b
-SHA512: 07c848f8a4375fa9680feb41cbfbe9bc58b6c6344038204a79b20ff2c699e4d7cd76b5db168f62c5e6a9aea5f0e2f6bafdfdf772f0da6af38efeb00d8d202b5f
-Description: Bypass Bankinter jailbreak detection. Use Choicy to disable injection of all other tweaks
-Name: Bankinter
-Author: waruhachi
-
 Package: moe.waru.call17
 Architecture: iphoneos-arm
 Version: 1.0.0-1+debug
@@ -9136,23 +9119,6 @@ SHA256: 1019b0906d0fb0945a53b41f54e0d41c15bb094cbfb6f3c2151cc39c03c34503
 SHA512: 0a7fb1dc5197d23b87070772d1cea70ed5bf838437ea20a8575be8e656a5d565a563e985569f86caa9f72b3dc0dd53d30e8d3d16569c5536dc733c9a553fb7e9
 Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
-Author: waruhachi
-
-Package: moe.waru.dbs
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/moe.waru.dbs_1.0.0_iphoneos-arm.deb
-Size: 9526
-MD5sum: a95f38dc3d903f5cb73ff58fc105498e
-SHA1: bbc9d94fb557b24b0a4f7e4e599022d24e10080b
-SHA256: 32bc82defd278880821d0c085d4c695fb39c935cbdca9f9df28a81161c2706d0
-SHA512: 275939c78d309f208314962d3e296a4d68c7b2fbfd1b31b593265ef74174e144599b1b75d99ea25d6730d390c1cb2138fa3865d028e07d8eaa6ab20920b0c1cb
-Description: Bypass DBS Digibank jailbreak detection
-Name: DBS Digibank
 Author: waruhachi
 
 Package: moe.waru.focusdnd
@@ -20792,23 +20758,6 @@ Name: Silence
 Author: waruhachi
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
 
-Package: moe.waru.bankinter
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/moe.waru.bankinter_1.0.1_iphoneos-arm64e.deb
-Size: 9562
-MD5sum: 4055df3b30d3e52b84d7a3b628f3bf96
-SHA1: 4231217917aa24d8527d4f57df4ce4c892413067
-SHA256: b6415f47b5c0a15a6d3992033e9633c0b36cc89a7d4477a6a4992de3c911a23b
-SHA512: 317e2e5bc3a87fb68fa9d93702a9cd92e34ff87eb7791ae12e91fac7a1aabed14497c272b072c8f883014c2ce8873278531a329a767af31e6463aec740d9d06a
-Description: Bypass Bankinter jailbreak detection. Use Choicy to disable injection of all other tweaks
-Name: Bankinter
-Author: waruhachi
-
 Package: moe.waru.call17
 Architecture: iphoneos-arm64e
 Version: 1.0.0-1+debug
@@ -20824,23 +20773,6 @@ SHA256: 649502636a71213b27f9f743498fa21a5d192b4779acf8466f12a8508f6d3c28
 SHA512: e12cdaec8469d4904ea08c8a74785fcabcfd013d8ace4248aa856d5ecd94e3bb1e5cbcda4ffaf98852d0295ae29aaa07e563843c9ae17ece2cf70fcab1a5dec4
 Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
-Author: waruhachi
-
-Package: moe.waru.dbs
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/moe.waru.dbs_1.0.0_iphoneos-arm64e.deb
-Size: 9522
-MD5sum: 2c9bcc81aacf26a05f2ee7511317594f
-SHA1: 84b164bbe0ac08a27b085e9d09e9646c4f355c0f
-SHA256: e20b02e57f57a05aae280e54dddbef98e3cdda754d27a38332e1fe6661cae5d1
-SHA512: 51fb8bef194e951adda169e0df2789a933b5f9a4561fbc1842b08b04efedecdb466d7a811e0d9796ddf5b0e2f9e5a723d85ef45922757aa4e5861fbb8298bed4
-Description: Bypass DBS Digibank jailbreak detection
-Name: DBS Digibank
 Author: waruhachi
 
 Package: moe.waru.focusdnd
@@ -33229,23 +33161,6 @@ Name: Silence
 Author: waruhachi
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Silence.png?raw=true
 
-Package: moe.waru.bankinter
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/moe.waru.bankinter_1.0.1_iphoneos-arm64.deb
-Size: 9640
-MD5sum: fb6be8f13ef26c97dbae9312b6a075ec
-SHA1: 7bfe3f4291dfd3e1332e86cea4265cdb4cdde078
-SHA256: 7eee201de22aefb1c7c322eec6a67801fb1f726da5ecfd769226cdfbbfba9237
-SHA512: 5676cf58632618fcd2f59353afb64b635e641b5c3fb03b303cbae55fec20652772cae591bd79e008c93588fe1448d6f8cb809f947b39db35b7dd81f58d720809
-Description: Bypass Bankinter jailbreak detection. Use Choicy to disable injection of all other tweaks
-Name: Bankinter
-Author: waruhachi
-
 Package: moe.waru.call17
 Architecture: iphoneos-arm64
 Version: 1.0.0-1+debug
@@ -33261,23 +33176,6 @@ SHA256: 2fb78201b75d0391a09869fd24403bcb1bc7a7a0fa7efc28528d89dcfd9a8819
 SHA512: 36b4daede9e919ad7882b23dd5a0f58f58bf4a791c197070aaed1384cbaeb9d64e024be7e7d9cbdd6440bd9a4dbeab5a8cede2c4152a2b142d95efdf46ad6d3e
 Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
-Author: waruhachi
-
-Package: moe.waru.dbs
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/moe.waru.dbs_1.0.0_iphoneos-arm64.deb
-Size: 9606
-MD5sum: 041a951ed95294e1ca0588633065b9d2
-SHA1: b7deff14aaad04213e0a32be203fa1dc52fcccac
-SHA256: e1dc3e657c02d354c11e160c870f6d4da845850b6ed6f68e4138db98de1c4ae7
-SHA512: 4309f6cf483b5aa4ea09cfb4294bf588e8b0c464b4dfa76ffb56b00f172e1849fdcac6680ef038484f4fae0bc839a8ce91a05dc7624bab31ece5c98947202612
-Description: Bypass DBS Digibank jailbreak detection
-Name: DBS Digibank
 Author: waruhachi
 
 Package: moe.waru.focusdnd
