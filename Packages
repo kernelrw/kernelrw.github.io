@@ -4178,6 +4178,23 @@ Description: Imitate iOS18 Music Player for older iOS versions .
 Name: iOS18 MusicPlayer
 Author: liuf
 
+Package: com.lly.dismissalert
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.lly.dismissalert_1.0.0_iphoneos-arm.deb
+Size: 104220
+MD5sum: f29ca8e79bbdb37b453cf3c4a5333f47
+SHA1: 2d529cdce1037e87ec0d12f838df696b7d3da5fc
+SHA256: e635bb1a9322a156e9e7385e7af62a9c6b6cf7a231cb63b3ae41f2cab526be2f
+SHA512: 6cdd243a9655d1c7226cd05ab968e2a675cb41837d83fbdde2e3c4b1059f0f3fe2affa4f231c35fb3a599dfebb5f676bd7b3bce0be9c61025f321efd21024eae
+Description: Block system alerts per app. Lightweight alternative to AutoAlerts.
+Name: DismissAlert
+Author: lly
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F7fb4bcae25ed83c22995ba712c50a29a.png_120.png&s=180x180&f=webp
+
 Package: com.lns.pogr
 Architecture: iphoneos-arm
 Version: 0.5.0
@@ -27346,6 +27363,23 @@ Description: Allows you to configure folders
 Name: FolderX
 SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 Author: Lizynz <lizynz@ya.ru>
+
+Package: com.lly.dismissalert
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Kernelrw
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.lly.dismissalert_1.0.0_iphoneos-arm64.deb
+Size: 106576
+MD5sum: 10eb1943602827f090cc50ddac76d8f2
+SHA1: 8b21ef19189ef619b4460262ae8d34739b2aba85
+SHA256: a29f064b221d1cff9df2927ed4ab9f4a7f7a748c6acf8855dd68a5b8e711f112
+SHA512: 1f4f0ceca06812ad06edb2ae7721da9d095c5bd6b211cf1d82b20e95f9a5d8244ce7a4469d9dfc6886761b6baf9146f9a15d66cf2f7af6575c6c6fff842cf8ea
+Description: Block system alerts per app. Lightweight alternative to AutoAlerts.
+Name: DismissAlert
+Author: lly
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F7fb4bcae25ed83c22995ba712c50a29a.png_120.png&s=180x180&f=webp
 
 Package: com.lns.pogr
 Architecture: iphoneos-arm64
