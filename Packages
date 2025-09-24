@@ -7574,6 +7574,24 @@ Name: TrickFi
 Author: TheRasPiGuy
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgithub.com%2FMTACS%2FSettingsIP%2Fraw%2Fmaster%2Fsipprefs%2FResources%2Ficon%25403x.png&s=180x180&f=webp
 
+Package: com.timbovill.liquidglass
+Architecture: all
+Version: 2.0
+Section: Themes
+Maintainer: TIMBOVILL
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/Rootful/com.timbovill.liquidglass_2.0_all.deb
+Size: 6228908
+MD5sum: 4f88036b026726f604ed5cfeb0c311e9
+SHA1: 9e146f7e09806edb6d65f9c47810e858d02f14fe
+SHA256: ccf05a60b0e090f567cbfadaa9ff1c64fb33a6e334d6735d1bb81412c5202119
+SHA512: 237104f2ca578243e96bb9ada1abea05b22265d853ac3fa48becdba6037d676e448a8b1add235489042f58f13b182b0a24a55761658b8cf089092e35c01631c4
+Description: Liquid Glass icons on Snowboard!
+Name: Liquid Glass
+Author: TIMBOVILL, Apple
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.liquidglass
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.liquidglass/depiction.json
+
 Package: com.tomaszpoliszuk.alertcontroller
 Architecture: iphoneos-arm
 Version: 1.4.2
@@ -19120,6 +19138,25 @@ SHA512: f542b786e7b8e6ab16d5a3cea0a5c1a643ae945de7e091603db0dfdaeed323314e04703c
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
+
+Package: com.timbovill.liquidglass
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Themes
+Maintainer: TIMBOVILL
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/Roothide/com.timbovill.liquidglass_2.0_iphoneos-arm64e.deb
+Size: 6237184
+MD5sum: a06a3390606b1d1573adbca8a0761360
+SHA1: 3359b05c4daf2e81cff878f8d2a43e07d48543b9
+SHA256: 000ef82eb3b144a722c994da1353cbb62c22bdfd2148077d0a8701fb2904fec8
+SHA512: 8f8f6e368370887d86d7d6b09c436e27b6bcd3251f1aaa122a108314947577c4c2a1c4f5241b3d989069a61eff022eca0447239b2bf8e06e759852b9931005bd
+Description: Liquid Glass icons on Snowboard!
+Name: Liquid Glass
+Author: TIMBOVILL, Apple
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.liquidglass
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.liquidglass/depiction.json
 
 Package: com.tomaszpoliszuk.alertcontroller
 Architecture: iphoneos-arm64e
@@ -31431,6 +31468,24 @@ SHA512: c8e45cd46632795e2c3c4d7c5fbdeadfb7406ad73b1cad4830969857c1536f1574ed5ee2
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
+
+Package: com.timbovill.liquidglass
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Themes
+Maintainer: TIMBOVILL
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/Rootless/com.timbovill.liquidglass_2.0_iphoneos-arm64.deb
+Size: 6229076
+MD5sum: 656c020dcafb3cfc3a55e9f74658c4e6
+SHA1: 4f3bc5c18e24f12101ffcce3fe710d9c24828605
+SHA256: 478ee65e964638c5c09c81c0a4e4c77355a802a28cba62379ad1069c8b974e43
+SHA512: 938a6a165595bf8f12740a3f109c470d9ff32a4c4326b353534be09fe614eb85a513f38974da7104836f9bf16078fca0d414a89e5149064cae57f03f8a6126f4
+Description: Liquid Glass icons on Snowboard!
+Name: Liquid Glass
+Author: TIMBOVILL, Apple
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.liquidglass
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.liquidglass/depiction.json
 
 Package: com.tomaszpoliszuk.alertcontroller
 Architecture: iphoneos-arm64
