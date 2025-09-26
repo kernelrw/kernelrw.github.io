@@ -4122,6 +4122,24 @@ Name: ByPassCC
 Author: lenglengyu
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fsmokin1337-s-repo.png&s=180x180&f=webp
 
+Package: com.level3tjg.redditfilter
+Architecture: iphoneos-arm
+Version: 1.1.8
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.level3tjg.redditfilter_1.1.8_iphoneos-arm.deb
+Size: 19364
+MD5sum: 1dde006f2cf800e9b0fb4a3b25633914
+SHA1: eb56c501bdebe25975736726fac56db7e46199ee
+SHA256: 393bec3f890c49a72f3b22624f2c5d4b82d825d6a4deb2717d7780c727116700
+SHA512: 7dfaafc44c78a9c8a9c9916580387d8f8da40237b269b76bccc47ffc25abb301bb856262676e34d88c286ae0b485c794ad5c1eeab95f72a14e4409ab6ca894b4
+Description: Filter out unwanted content from your Reddit feed
+Name: RedditFilter
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.redditfilter
+Author: level3tjg
+
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm
 Version: 0.0.3
@@ -4185,11 +4203,11 @@ Section: Tweaks
 Maintainer: Kernelrw
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/Rootful/com.lly.dismissalert_1.0.0_iphoneos-arm.deb
-Size: 104220
-MD5sum: f29ca8e79bbdb37b453cf3c4a5333f47
-SHA1: 2d529cdce1037e87ec0d12f838df696b7d3da5fc
-SHA256: e635bb1a9322a156e9e7385e7af62a9c6b6cf7a231cb63b3ae41f2cab526be2f
-SHA512: 6cdd243a9655d1c7226cd05ab968e2a675cb41837d83fbdde2e3c4b1059f0f3fe2affa4f231c35fb3a599dfebb5f676bd7b3bce0be9c61025f321efd21024eae
+Size: 104244
+MD5sum: 48a505a85ce81b3fa1f61e4ab48bd34e
+SHA1: 8b83a49823f4c22fadc3555185303cea35d1ce88
+SHA256: 34005ebc3e0295632d4223f21e41f2fc80a43ffa5db527c52ff7ee933e18d1a9
+SHA512: ec9d92c459d236bfaefba2cacf6be72d263028297d1cbf76468d0b457fcd90e832ecbf44ccbc4693f4d71e7fec20aa326bcfe31c57d400faf4771d0a241dca24
 Description: Block system alerts per app. Lightweight alternative to AutoAlerts.
 Name: DismissAlert
 Author: lly
@@ -14633,6 +14651,25 @@ MD5sum: 2a67c50684f5deb9502d31c8c9d5cd93
 SHA1: f2c935e6128af47bdbc978279170150be33ee437
 SHA256: 96f02b55b4aa41dcf7f4dc18e51f05f17ef7a1b6b6027329ff3f59702b52d3b5
 SHA512: 85e97a808906097f457457778768fd90c8ee958304fafb27a3168dd8b00c8bf463b0f80ad45b75b55fdec16e14bffe5e3adc06fcfb3bf247158c5b8a45779b62
+Description: Filter out unwanted content from your Reddit feed
+Name: RedditFilter
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.redditfilter
+Author: level3tjg
+
+Package: com.level3tjg.redditfilter
+Architecture: iphoneos-arm64e
+Version: 1.1.8
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 124
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.level3tjg.redditfilter_1.1.8_iphoneos-arm64e.deb
+Size: 25800
+MD5sum: 0538e6aacdf8323641d95b1d58de112f
+SHA1: 835d8a8a81cae6e46baabdc15757162ebd579e03
+SHA256: 5c3c01dea1dc356b4dd97d0fa8864d6a4afd5869e015d4a278daed9cc56ee706
+SHA512: df1cbbd77f93dd0bf54c5060fd7682f2831dc0938f6136bc6539128a195e3e0660ea829066e2fbe39716d48706312ab4f7342b5919d3f500f2bf6ac8f2feb902
 Description: Filter out unwanted content from your Reddit feed
 Name: RedditFilter
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.redditfilter
@@ -27270,6 +27307,24 @@ Description: Activate and deactivate password & face ID through control center ;
 Name: ByPassCC
 Author: lenglengyu
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fsmokin1337-s-repo.png&s=180x180&f=webp
+
+Package: com.level3tjg.redditfilter
+Architecture: iphoneos-arm64
+Version: 1.1.8
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.level3tjg.redditfilter_1.1.8_iphoneos-arm64.deb
+Size: 19154
+MD5sum: d4662573861a91f7786638ee2a63954d
+SHA1: 4cdc0ab8874020ce0fa8217c7d96e481b2034720
+SHA256: e871f455aa868a25a7ea1fd40ef3b19a7a7ade21aa4162e0b26d94dab9f31c12
+SHA512: 54d02f464112030f551fe8f3597944d07b5acd491e0920825bcf8dafe945886c8c8876eb828ea7a44824b40e8af675f530989452a0231ba0fc1c04a61e9e0446
+Description: Filter out unwanted content from your Reddit feed
+Name: RedditFilter
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.redditfilter
+Author: level3tjg
 
 Package: com.level3tjg.twitchadblock
 Architecture: iphoneos-arm64
