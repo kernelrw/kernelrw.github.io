@@ -4122,6 +4122,24 @@ Name: ByPassCC
 Author: lenglengyu
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fsmokin1337-s-repo.png&s=180x180&f=webp
 
+Package: com.level3tjg.betterccbrightness
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/Rootful/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm.deb
+Size: 42448
+MD5sum: cb86cc75daa305241fcfb68bd644f0cb
+SHA1: b47f617272e8728396db0bee310a76cb7a4c7e5e
+SHA256: 93946916dbea14b4d4e0eec2fbbbbface45823ebbf9676065c833b3644efa9cd
+SHA512: 579bf8e996a12d08f3cb4e673bdd52b83d06eb7a18a37aefaf17a8fda1a9d1fcbe48b7645a4c9910993628040fe732a5c1b3afb9a1e1242b50bf967c39fedf79
+Description: Add more controls to the expanded brightness CC module
+Name: BetterCCBrightness
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
+Author: level3tjg
+
 Package: com.level3tjg.redditfilter
 Architecture: iphoneos-arm
 Version: 1.1.8
@@ -5856,17 +5874,17 @@ Architecture: iphoneos-arm
 Version: 2.0.0
 Section: Tweaks
 Maintainer: NguyenASang
-Installed-Size: 776
+Installed-Size: 792
 Provides: com.haoict.messengernoads
 Depends: mobilesubstrate, firmware (>= 12.4)
 Conflicts: com.haoict.messengernoads
 Replaces: com.haoict.messengernoads
 Filename: ./debians/Rootful/com.nguyenasang.snmessenger_2.0.0_iphoneos-arm.deb
-Size: 420364
-MD5sum: 58f45de8f5ce4486727a8af9ef188e4f
-SHA1: 7dc143e75fd1b8e74782452b1c9283844f13e468
-SHA256: 6f480032c25f644682f9d5be9e4e4dff985856074495d9bd9552045235da1c6c
-SHA512: fac5f8b7061d0ae80f5d93a0dc43ccdb15b50d951c6feec7ab40727c3a62ce82fac6de6b833494bf8d92103ad210afb77c687ebd1a2247b7702f16dfaae67d70
+Size: 419312
+MD5sum: b9e6b49b34aadd06f9b923c16e130960
+SHA1: 84a5a5d57f952bb24873165604ef08727c5cae1e
+SHA256: cbd0fd70b44e7ee46341e6f55a5dd976f4749dbfa1807cea578c05529befe7e4
+SHA512: 30904cf071d39a9ef1a6645ab59127408f009c693233e24a98d71fe65e6df36c3b621eb0804bd976aa22273d3604703098392e15b25a19b10eae7999f397f285
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
@@ -14624,14 +14642,14 @@ Version: 1.0.2
 Section: Tweaks
 Maintainer: level3tjg
 Installed-Size: 304
-Pre-Depends: rootless-compat (>= 0.9)
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: ./debians/Roothide/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64e.deb
-Size: 44712
-MD5sum: bd3baab41cfbecc83770fa0582e8fc08
-SHA1: 74c6a09a178aae17f9863d7d256f392010cf7503
-SHA256: 4a39df32fb9ca8b306f1b16ef3a023c93743a61313070ea2be253ea5ba86a559
-SHA512: 97f03c9f38673c81cfe67e1fd3a73b041278314d18f7c75c45f398742e8946d67a0feeaded8eb79b8b3f6934ea3faf88d277c2ae754217b1713c8e2ae7b46de7
+Size: 59386
+MD5sum: a4fc994f76f2d74ecf5384fed4328579
+SHA1: 334f5deb8c2eee311c9bc250c0cfb2fd4de3e8fb
+SHA256: f4e7b49103de560064d360dbf9da1b2ae12d6df882174bc10f44c25c22c315be
+SHA512: 6a04956e34ab8d15aa3f7f7ab25fc7042a60c7044508daf2f843e606407f46d1b57c253f6cffd3d9fb393c61fb993b9e4ac318daf4214cd42a0e3cca4d56abd0
 Description: Add more controls to the expanded brightness CC module
 Name: BetterCCBrightness
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
@@ -16438,15 +16456,16 @@ Section: Tweaks
 Maintainer: NguyenASang
 Installed-Size: 792
 Provides: com.haoict.messengernoads
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 12.4)
 Conflicts: com.haoict.messengernoads
 Replaces: com.haoict.messengernoads
 Filename: ./debians/Roothide/com.nguyenasang.snmessenger_2.0.0_iphoneos-arm64e.deb
-Size: 419052
-MD5sum: 1e6daca29880a334201c53135dab0295
-SHA1: 1536a77cf1bc67a89a5870c2c0c11ef50e1a1222
-SHA256: 8471daa3c136cfd6e781a177e0c466aff8ae46837b56e0fe21c98177afd95d21
-SHA512: d29bec889da5bc9935063a3ff596835e392af40ae22592e197c46a3ea292bde3e407dec3f544b69be1495624e543f6ebfcf99aea6f36d0e39008fb4a53820d53
+Size: 445448
+MD5sum: 6ef22747c48a3fcc98d19c444da11f6d
+SHA1: b78859474ca60fdb76010d3369566a29f339e49b
+SHA256: af48e09f443b747ba0ec81ff5e280549fa033707cdb9a89c97f7b28bb3e49a97
+SHA512: 9d723f0a54998ed24eb5cbe0861f7a674e28438b16568f01173d44b890f8306d8b5588a12513f073896c38ab1b8729e2fb091e140ad44bb60ef63f7595f305a6
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
@@ -27307,6 +27326,24 @@ Description: Activate and deactivate password & face ID through control center ;
 Name: ByPassCC
 Author: lenglengyu
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fsmokin1337-s-repo.png&s=180x180&f=webp
+
+Package: com.level3tjg.betterccbrightness
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/Rootless/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64.deb
+Size: 43514
+MD5sum: 9fc36ffe7051f451c79b55a54be0a375
+SHA1: 90aacf957dbc6f54e5b9cc91b843ad588d729dda
+SHA256: d251ba330d9619da61e52985f9abd9ebf73d1107a1a081c3be4949eb2157584e
+SHA512: c7afc765da6ac0620645dc55e4c3e369e752c05e157380386fa4d491bf014ba07bf92c0233200896b5f9223fa0fc8883d6bdee87b200d5e0ebcf4cf52140fa2b
+Description: Add more controls to the expanded brightness CC module
+Name: BetterCCBrightness
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
+Author: level3tjg
 
 Package: com.level3tjg.redditfilter
 Architecture: iphoneos-arm64
