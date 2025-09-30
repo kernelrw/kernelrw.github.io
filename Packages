@@ -21225,6 +21225,24 @@ Description: Add scrolling and parallax effects to your wallpaper
 Name: Shisha
 Author: waruhachi
 
+Package: moe.waru.superqidismissalert
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.superqidismissalert_1.0.0_iphoneos-arm64e.deb
+Size: 8088
+MD5sum: 818bc80a2d3bb79e57212e528f227a31
+SHA1: 36f5c4cfe631007e29c7f8b73d21b1d6c893b84e
+SHA256: 2022aab3e76b43d4223ab9ffab7ebf5379ea3c1340858d071a25f6b26728f5e3
+SHA512: 1cace64fdd88d5843d03d8ffef625ba5b84160181df728656540713b98daf50074ccaae98a7827c72b405e3b5c2d535ed6b0a54e2c1e1b5ecd7e7146fb158ad0
+Description: Automatically dismiss update alerts in SuperQi ; works great on Dopamine, Dopamine_Roothide & Palera1n_Roothide . For best results use a modified TrollStore version of SuperQi , find it here https://t.me/Opam1ne
+Name: SuperQiDismissAlert
+Author: waruhachi
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
+
 Package: moe.waru.trollopen
 Architecture: iphoneos-arm64e
 Version: 1.0.0-1+debug
@@ -33812,6 +33830,24 @@ SHA512: 1471795862ca4151ec17193a73b5804f31829642de546e6475a6b9ecc0239d0ee44b8e86
 Description: Add scrolling and parallax effects to your wallpaper
 Name: Shisha
 Author: waruhachi
+
+Package: moe.waru.superqidismissalert
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.superqidismissalert_1.0.0_iphoneos-arm64.deb
+Size: 8160
+MD5sum: bad04785080b1aa0965e08b1502e167d
+SHA1: bd424042d8778d54fcdce1a55ea1ee20d52325fb
+SHA256: 57450c8d6b7d2bd44cfcfd87188d92c5c222cad624b919f929797c0e4535925c
+SHA512: b7a2ae808ddddf214f7bc432e2e12617711bfcdb1be2c6df46a00240fab4cddba939a9ff56505ad276d08ee13a5792585e3880fb618bb977e9e45e9beaa66be2
+Description: Automatically dismiss update alerts in SuperQi ; works great on Dopamine, Dopamine_Roothide & Palera1n_Roothide . For best results use a modified TrollStore version of SuperQi , find it here https://t.me/Opam1ne
+Name: SuperQiDismissAlert
+Author: waruhachi
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
 
 Package: moe.waru.trollopen
 Architecture: iphoneos-arm64
