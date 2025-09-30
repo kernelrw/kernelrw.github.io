@@ -21225,6 +21225,24 @@ Description: Add scrolling and parallax effects to your wallpaper
 Name: Shisha
 Author: waruhachi
 
+Package: moe.waru.superqidismissalert
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.superqidismissalert_1.0.0_iphoneos-arm64e.deb
+Size: 8104
+MD5sum: 71b7d0f41b078aa32cdc16fcf37d9430
+SHA1: 604326e85697d1bd9901ec5658ace5c7d2307969
+SHA256: ee597b099c61b7bd0782726420cb8ed57b22cb4461d852acf3c70bd9dd8b1fa0
+SHA512: a7dc5422298aaf15368a117b9d31b2eebaf4ee1cd6e9cd2151236bbdb9de8b644eec3893263c06a3f6c424ee25b7b0e343218eff768adc0bc2c0ee2ad0bc5197
+Description: Automatically dismiss update alerts in SuperQi ; works great on Dopamine, Dopamine_Roothide & Palera1n_Roothide ; Here https://t.me/Opam1ne , you will find everything related to jailbreak & TrollStore .
+Name: SuperQiDismissAlert
+Author: waruhachi
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
+
 Package: moe.waru.trollopen
 Architecture: iphoneos-arm64e
 Version: 1.0.0-1+debug
@@ -33812,6 +33830,24 @@ SHA512: 1471795862ca4151ec17193a73b5804f31829642de546e6475a6b9ecc0239d0ee44b8e86
 Description: Add scrolling and parallax effects to your wallpaper
 Name: Shisha
 Author: waruhachi
+
+Package: moe.waru.superqidismissalert
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.superqidismissalert_1.0.0_iphoneos-arm64.deb
+Size: 8144
+MD5sum: b4f4a6d4870aa4ef5f4de69946146e89
+SHA1: df4a9f1eeff0e3eccdfcd58254daa1c61a5f7926
+SHA256: 82ebca9deb29c6dc581453330129acf500898e28a97f1db250e67ab451b27a06
+SHA512: b873848bc522dbe174af909b4a31b5e779f3a18666be9ec0534de1eea48e25234eadcc4d5f8b0bc3348f8691d38a587de9177d06a974a3e5399ea374e145804a
+Description: Automatically dismiss update alerts in SuperQi ; works great on Dopamine, Dopamine_Roothide & Palera1n_Roothide ; Here https://t.me/Opam1ne , you will find everything related to jailbreak & TrollStore .
+Name: SuperQiDismissAlert
+Author: waruhachi
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
 
 Package: moe.waru.trollopen
 Architecture: iphoneos-arm64
