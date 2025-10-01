@@ -6880,6 +6880,23 @@ Description: System-wide parametric equalizer
 Name: EQE
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
 
+Package: com.rahwan3d.bebopKeys
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/Rootful/com.rahwan3d.bebopKeys_1.1_iphoneos-arm.deb
+Size: 199532
+MD5sum: ed6b24d4c00a13d218ef08e442ca2ec2
+SHA1: 15f945914f960d3ddc4268a7f518b13d9ad694b7
+SHA256: 979a0e4a9ae081e4e0ddbc3e5b0d6c060edb20a988c7ff1cb88f19f7c4ae4d8f
+SHA512: 56636b81cc01cadb84424504a790ebdd162e27723b2fef987f894c378a2e0f5e9621df31854c6899d01e59ddbdd3b93e86aa2a5ba10a769862745edbf191a3fd
+Description: Keyboard theme for Laetus
+Name: BebopKeys
+Author: rahwan3d
+Icon: https://axs66.github.io/repo/icon/BebopKeys.png
+
 Package: com.rango.gasolina
 Architecture: iphoneos-arm
 Version: 0.3.1
@@ -18025,6 +18042,24 @@ SHA512: ad20cfd6744e8a0053fc08c5937e96a2f789c50179da3fa1780135c7d585269132b61542
 Description: System-wide parametric equalizer
 Name: EQE
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+
+Package: com.rahwan3d.bebopKeys
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Rahwan3d
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.laetus
+Filename: ./debians/Roothide/com.rahwan3d.bebopKeys_1.1_iphoneos-arm64e.deb
+Size: 211702
+MD5sum: f4c9c138d660622e4592600330cfd6e6
+SHA1: 99d045f2e999e72ef3210be2a696812a2494216d
+SHA256: c917a71272cf09a4fa7fdf7ef1e33970458322dfd2de875387ddd486c7c5ae64
+SHA512: 2be779e9b96a33102b047b0be96bb8d63cd7d8ca65eec512e002d590e12b75c5fd9e1116ea127d7b485c0df786ad00dde6fdebac6c2047b647746f3eba34b5bc
+Description: Keyboard theme for Laetus
+Name: BebopKeys
+Author: rahwan3d
+Icon: https://axs66.github.io/repo/icon/BebopKeys.png
 
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64e
@@ -30715,6 +30750,23 @@ SHA512: 28683630baa2c026d775e56d08b56036e8977ce025c7ca45ba3a4d0b2d63e125393ab11c
 Description: System-wide parametric equalizer
 Name: EQE
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+
+Package: com.rahwan3d.bebopKeys
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Rahwan3d
+Depends: com.spark.laetus
+Filename: ./debians/Rootless/com.rahwan3d.bebopKeys_1.1_iphoneos-arm64.deb
+Size: 199600
+MD5sum: 1a6f22566c1d16f0647e60f34b0d878b
+SHA1: 468a4ba42287a98f801865ea226c33005175960b
+SHA256: 47411c5782eb1214614ae9b7ec22278f64d8f02d3f79531d2cfefb35d7a32f62
+SHA512: dfdedd6afcaea1d01e6db859d31ef6c2afbb8fffe9fea0d165e02ba0ba7e9da98b41f21bbff99dd69a45715bfef0b450e279a52121449bd2df3bedd6856acd25
+Description: Keyboard theme for Laetus
+Name: BebopKeys
+Author: rahwan3d
+Icon: https://axs66.github.io/repo/icon/BebopKeys.png
 
 Package: com.rango.gasolina
 Architecture: iphoneos-arm64
