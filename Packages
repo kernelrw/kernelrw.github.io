@@ -7702,6 +7702,31 @@ Description: Allows Wifi to stay connected when the device is locked , Supports 
 Name: Persistent WiFi
 Author: Tony Kraft <iostonykraft@gmail.com>
 
+Package: com.torrekie.battman
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Applications
+Maintainer: Torrekie <me@torrekie.dev>
+Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
+Filename: ./debians/Rootful/com.torrekie.battman_1.0_iphoneos-arm.deb
+Size: 2958516
+MD5sum: a4a7f815f421a1c5799d4aa42dd170f2
+SHA1: 5fd3097f7deef0290fe09c556d9456697668d22d
+SHA256: d4f9fc9fbe99e7de73bff7325a80a22b711734e23f68808409014f50b61cb679
+SHA512: 25c7390d42a2e4396f17136bdd0b5220cb1fba968a1616a68126367c877aeda2d844a053a490aa69e47385997e36054b7d2d27bfbf3b222d4d1781fde030e014
+Homepage: https://github.com/Torrekie/Battman
+Description: Battman the Battery Manager
+ Battman is a lightweight app that provides deep
+ real-time battery insights. From charging
+ current, voltage, temperature, to
+ Not-Charging-Reason, adapter information,
+ Smart Charging, Low Power Mode and accessory
+ detection.
+ .
+ It requires A11+ devices as for now.
+Name: Battman
+Author: Torrekie <me@torrekie.dev>
+
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm
 Version: 1.0
@@ -19396,6 +19421,32 @@ SHA512: a493a7b5aa86a0075eabb224f4ebab599b5b165fb6c8ebdbef3e3ea91a591f23f40349bd
 Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine , Paera1n rootful and rootless & Dopamine-Roothide .
 Name: Persistent WiFi
 Author: Tony Kraft <iostonykraft@gmail.com>
+
+Package: com.torrekie.battman
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Applications
+Maintainer: Torrekie <me@torrekie.dev>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
+Filename: ./debians/Roothide/com.torrekie.battman_1.0_iphoneos-arm64e.deb
+Size: 8342762
+MD5sum: 13bd99549ac1544c275a128bac4092cf
+SHA1: 04cd797d6b33c50f2d52ce09b5f7180cef3341fd
+SHA256: 22b66e5f1384e87df41e147ac17b98e8b72928435e155492c3ff3311b6de2ca3
+SHA512: f3db5d33de9a9f62028e64237dd17e236b94682fa906b5b30e9157eec6e120710d38133f2fbb86af9e970c33ca6f534a2197b495aabac858c071c21ca05f4337
+Homepage: https://github.com/Torrekie/Battman
+Description: Battman the Battery Manager
+ Battman is a lightweight app that provides deep
+ real-time battery insights. From charging
+ current, voltage, temperature, to
+ Not-Charging-Reason, adapter information,
+ Smart Charging, Low Power Mode and accessory
+ detection.
+ .
+ It requires A11+ devices as for now.
+Name: Battman
+Author: Torrekie <me@torrekie.dev>
 
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm64e
@@ -31782,6 +31833,31 @@ Description: Allows Wifi to stay connected when the device is locked.
 Name: iNoSleep
 Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+
+Package: com.torrekie.battman
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Applications
+Maintainer: Torrekie <me@torrekie.dev>
+Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
+Filename: ./debians/Rootless/com.torrekie.battman_1.0_iphoneos-arm64.deb
+Size: 2953348
+MD5sum: 8293bfa8549c82422f1f62aae66da94a
+SHA1: e79f54b8b0e6c8c027bfb1b1bc5c93d4fcb5a7d2
+SHA256: cf5fff59be9fc52594a02a75ce88d088f835a74fbd54caa535cb3a065a4540df
+SHA512: 2509e2c439b7425566e71374b22b773269b5cbfdbae7fd07f8edde512dd1b1f7fd062bbce8e91c767558374eb2ebac96ad77031934c9c11ad6ee3beb18c3a20a
+Homepage: https://github.com/Torrekie/Battman
+Description: Battman the Battery Manager
+ Battman is a lightweight app that provides deep
+ real-time battery insights. From charging
+ current, voltage, temperature, to
+ Not-Charging-Reason, adapter information,
+ Smart Charging, Low Power Mode and accessory
+ detection.
+ .
+ It requires A11+ devices as for now.
+Name: Battman
+Author: Torrekie <me@torrekie.dev>
 
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm64
