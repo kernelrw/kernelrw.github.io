@@ -7709,11 +7709,11 @@ Section: Applications
 Maintainer: Torrekie <me@torrekie.dev>
 Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
 Filename: ./debians/Rootful/com.torrekie.battman_1.0_iphoneos-arm.deb
-Size: 2958516
-MD5sum: a4a7f815f421a1c5799d4aa42dd170f2
-SHA1: 5fd3097f7deef0290fe09c556d9456697668d22d
-SHA256: d4f9fc9fbe99e7de73bff7325a80a22b711734e23f68808409014f50b61cb679
-SHA512: 25c7390d42a2e4396f17136bdd0b5220cb1fba968a1616a68126367c877aeda2d844a053a490aa69e47385997e36054b7d2d27bfbf3b222d4d1781fde030e014
+Size: 2959200
+MD5sum: af7a7478a458c002fb57319ad9688f94
+SHA1: 6b4b5e21cbb06fdde31b52389c3e1d53138f3253
+SHA256: bce29cb3f9be8c4dd4bf290dc580b6a4970559ad3a08f90d4360ad1763311778
+SHA512: 55eddd30a01dbb78cd4217c5480e4a40461292fe6dac3b5f00b32646555f3565fb5342e3c6b9d06d34dc55cc2942f7491a0a44fedc714e3175fe36150c3beaa7
 Homepage: https://github.com/Torrekie/Battman
 Description: Battman the Battery Manager
  Battman is a lightweight app that provides deep
@@ -7726,6 +7726,7 @@ Description: Battman the Battery Manager
  It requires A11+ devices as for now.
 Name: Battman
 Author: Torrekie <me@torrekie.dev>
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHpttYYBntY1IMT-g-jTpC10iZxIFJUMRsXp9LShOYg&s=10
 
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm
@@ -19430,11 +19431,11 @@ Maintainer: Torrekie <me@torrekie.dev>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
 Filename: ./debians/Roothide/com.torrekie.battman_1.0_iphoneos-arm64e.deb
-Size: 8342762
-MD5sum: 13bd99549ac1544c275a128bac4092cf
-SHA1: 04cd797d6b33c50f2d52ce09b5f7180cef3341fd
-SHA256: 22b66e5f1384e87df41e147ac17b98e8b72928435e155492c3ff3311b6de2ca3
-SHA512: f3db5d33de9a9f62028e64237dd17e236b94682fa906b5b30e9157eec6e120710d38133f2fbb86af9e970c33ca6f534a2197b495aabac858c071c21ca05f4337
+Size: 2958280
+MD5sum: fde622772a3e4bf4f261f6326cbac619
+SHA1: 39461318a109735d632846c56b677320d3bfdd5b
+SHA256: 332dad331fea61da7f4a5ba4626d1991a2985b190b4e4391372c845231017777
+SHA512: 8a920a223a8495a446e4881363938e461b79704583fc8ec38e4b852f76a4e7fca38e04ed6f48db8d5e4fa128b5a21119cdeaa5b10603d743d5f77626c85ac5fa
 Homepage: https://github.com/Torrekie/Battman
 Description: Battman the Battery Manager
  Battman is a lightweight app that provides deep
@@ -19447,6 +19448,7 @@ Description: Battman the Battery Manager
  It requires A11+ devices as for now.
 Name: Battman
 Author: Torrekie <me@torrekie.dev>
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHpttYYBntY1IMT-g-jTpC10iZxIFJUMRsXp9LShOYg&s=10
 
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm64e
@@ -31841,11 +31843,11 @@ Section: Applications
 Maintainer: Torrekie <me@torrekie.dev>
 Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
 Filename: ./debians/Rootless/com.torrekie.battman_1.0_iphoneos-arm64.deb
-Size: 2953348
-MD5sum: 8293bfa8549c82422f1f62aae66da94a
-SHA1: e79f54b8b0e6c8c027bfb1b1bc5c93d4fcb5a7d2
-SHA256: cf5fff59be9fc52594a02a75ce88d088f835a74fbd54caa535cb3a065a4540df
-SHA512: 2509e2c439b7425566e71374b22b773269b5cbfdbae7fd07f8edde512dd1b1f7fd062bbce8e91c767558374eb2ebac96ad77031934c9c11ad6ee3beb18c3a20a
+Size: 2958064
+MD5sum: 6853cad049cfba57d9c523969644d11a
+SHA1: 0987f84bb8589446740ba14bf380384445dd981d
+SHA256: 0014bbd3b8a51d1a1afa8b47540801fb0510cb1d7acd630afb642c2547263ea2
+SHA512: 359d21832dcdd529a879d4b71e9785be0b2767adbbea48779b6f75050de084b469e469dec375c2ff44f9cff4930f19739827253c4f4d7db8b9822764227a6b4a
 Homepage: https://github.com/Torrekie/Battman
 Description: Battman the Battery Manager
  Battman is a lightweight app that provides deep
@@ -31858,6 +31860,7 @@ Description: Battman the Battery Manager
  It requires A11+ devices as for now.
 Name: Battman
 Author: Torrekie <me@torrekie.dev>
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHpttYYBntY1IMT-g-jTpC10iZxIFJUMRsXp9LShOYg&s=10
 
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm64
