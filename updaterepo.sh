@@ -71,7 +71,7 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
 
 	apt-ftparchive release -c ./assets/repo/repo.conf . > Release
 
-	echo "Repository Updated, thanks for using repo.me!"
+	echo "Kernelrw Updated, Thanks!"
 	elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" != i386 ]]; then # iOS/iPadOS usage of repo.me
 	cd "$(dirname "$0")" || exit
 	echo "Checking for apt-ftparchive..."
@@ -89,7 +89,7 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
 
 	apt-ftparchive release -c ./assets/repo/repo.conf . > Release
 
-	echo "Repository Updated, thanks for using repo.me!"
+	echo "Kernelrw Updated, thanks !"
 else
 	echo "Running an unsupported operating system...? Contact me via Twitter @truesyns" # incase I've missed support for something, they should be contacting me.
 fi

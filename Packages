@@ -4804,6 +4804,23 @@ Tags: compatible_min::ios14.0, compatible_max::ios16.7.1
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.nahtedetihw.safemodemutetoggle
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.nahtedetihw.safemodemutetoggle_1.0_iphoneos-arm.deb
+Size: 5124
+MD5sum: a8d8259ec1b455e2c575f0f099a54e43
+SHA1: 904cb356358419cd4d69896a1c122cd3e5863795
+SHA256: a057d9628e84be8beca137d7494a13fb10bff398fa0b653df47df80762a29685
+SHA512: b65a8765ca855425bd9abc7ef7531b0cd55b38c3826cde1f746e4520931c54ace4cfc70d72d650310dc1380c38f017cf708acda5816da3344009ef7848132bb3
+Description: Toggle mute switch to invoke Safe Mode!
+Name: SafeModeMuteToggle
+Author: Ethan Whited
+
 Package: com.nahtedetihw.volvibes
 Architecture: iphoneos-arm
 Version: 3.2
@@ -7956,6 +7973,23 @@ SHA512: 1ca5e28943b8d9ff80757334ee50ead78433e469744ed34b4f250ad90b95635017619930
 Description: Another Network Speed View!
 Name: SpeedView
 Author: Dell
+
+Package: daniel.conditional
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/daniel.conditional_1.0.0_iphoneos-arm.deb
+Size: 2968
+MD5sum: 6618c70e490956641c3489bb6081830e
+SHA1: 21e51e126fad9387603ab0d27ef508ff944b7b88
+SHA256: 8e035247d7e561020c651dca1a9e65dc51f68d1a72b83a03b91a13475f964b63
+SHA512: 8a6556e0f089955e8511a2520982150f74c5f791b9b02169caf164206186a916728c4a524f8657df3dd19e1a2b7eb4283080effed871e0c33128845a2c7582b4
+Description: Allows restricting which apps get WiFi + Cellular
+Name: Conditional
+Author: daniel
 
 Package: daniel.old-lockscreen
 Architecture: iphoneos-arm
@@ -15393,6 +15427,24 @@ Description: Change your now playing app icon to the album artwork of currently 
 Name: NowPlayingIconXVI
 Author: Ethan Whited
 
+Package: com.nahtedetihw.safemodemutetoggle
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.nahtedetihw.safemodemutetoggle_1.0_iphoneos-arm64e.deb
+Size: 5570
+MD5sum: baec2f62020d26cca095cf798596c318
+SHA1: e2420e514d3df3ec814b2247fa37c5610d56ecae
+SHA256: f618cccab9727325aa275ff041d55283c565d3e6e7068329cce465537352495c
+SHA512: a32769e8d684e14d1fe75212b4472a9a5c39ca03abffcb1ceb43f34625bc1e27c5fd23db0766121dae5983857f16e52485b53395a09073bcff7db20aea49db22
+Description: Toggle mute switch to invoke Safe Mode!
+Name: SafeModeMuteToggle
+Author: Ethan Whited
+
 Package: com.nahtedetihw.volvibes
 Architecture: iphoneos-arm64e
 Version: 3.2
@@ -19948,6 +20000,23 @@ Description: low power mode & battery level profiles
 Author: merdok <merdok87@o2.pl>
 Name: Battivator
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.battivator.png&s=180x180&f=webp
+
+Package: daniel.conditional
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/daniel.conditional_1.0.0_iphoneos-arm64e.deb
+Size: 2990
+MD5sum: b0b2e8a38f2e3240076d8a3290ad87bd
+SHA1: c060cd02d011b6cd7311d439c98e640932a852af
+SHA256: 06c897c7006e6ec0c81e09d61ffb270a8a67fd74c5b146799d396ad901af622f
+SHA512: 3c63f04634701cc5278ce22ed61c3125c4f92a3d4fcd0932c95bcca0fd419bad0260e03c3418e8b94932bb64f1551a7a90d291325bfb48857ab442d0b930d1a5
+Description: Allows restricting which apps get WiFi + Cellular
+Name: Conditional
+Author: daniel
 
 Package: dev.adrian.ysrudffs
 Architecture: iphoneos-arm64e
@@ -28167,6 +28236,23 @@ Tags: compatible_min::ios14.0, compatible_max::ios16.7.1
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.nahtedetihw.safemodemutetoggle
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 200
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.nahtedetihw.safemodemutetoggle_1.0_iphoneos-arm64.deb
+Size: 4316
+MD5sum: 98d50b317a9e723e98158fa153576f48
+SHA1: 36d29c984a0c00c5c089503eb24fcb9e3b893781
+SHA256: 424c31b6c7c4d4d3310094308e637f666e4e1e202f95f8d6503e6b9c9af1875b
+SHA512: dd8be19d42d5392d8f58170bf2cce5d5f363bc899716e75a710a2ba79db2c9d4a4a66f6c0894a5e44685e4b1bec42ab9890568b9f9562908f410becd3660b64f
+Description: Toggle mute switch to invoke Safe Mode!
+Name: SafeModeMuteToggle
+Author: Ethan Whited
+
 Package: com.nahtedetihw.volvibes
 Architecture: iphoneos-arm64
 Version: 3.2
@@ -32360,6 +32446,23 @@ SHA512: 764aef192b37c64ea8f34020fb7eee894c2dc97f2f9867bd0844a9f40b64590a4d60d5a2
 Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
+
+Package: daniel.conditional
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/daniel.conditional_1.0.0_iphoneos-arm64.deb
+Size: 3052
+MD5sum: 68e326bcae341d00804d983b47d692a9
+SHA1: 19db0054a61ea98a309b085a3ecd613feb215ba6
+SHA256: 674497f71f29bc88358a211e292f049169ea18d155f399690f47cd82501683bd
+SHA512: 8f90652e667c18819e91496f70ef10a1509ed6072fabe99d271f3eb511daee93d3dd4d46b256750bfbe6f0edf8430e604a280710e527ce66a96dd4f8de7fd294
+Description: Allows restricting which apps get WiFi + Cellular
+Name: Conditional
+Author: daniel
 
 Package: daniel.old-lockscreen
 Architecture: iphoneos-arm64
