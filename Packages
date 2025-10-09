@@ -3159,6 +3159,26 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm
+Version: 1.2.90
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 9832
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.32), com.muirey03.libmryipc
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Rootful/com.fouadraheb.watusi3_1.2.90_iphoneos-arm.deb
+Size: 2685204
+MD5sum: 8c9742fbd225dba439f970ab13556a60
+SHA1: 19d569086f6b53ebebfe922ec45d806274a7c55d
+SHA256: 4918a9f3eaab65b8730f33fba87cbf7d68d999ffb5000b4cee5e7a1795a7876a
+SHA512: 5f6aabe00c3dcdbf6babcbf88f79aa97fe906b653b2cf277d6e7ab12e0699d33c32c1fe97a9b228dc7d21a0c0efdcf9691874968e43c5b0e2d4c20b294681797
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
 Package: com.gilshahar7.pearlretry
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -7340,23 +7360,6 @@ Maintainer: SoCuul
 Installed-Size: 3136
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debians/Rootful/com.socuul.scinsta_0.6.0-1+debug_iphoneos-arm.deb
-Size: 769338
-MD5sum: d6f59dfc6297a05c029d1bb6b0782bf3
-SHA1: d70f4dc3d1dd1152bb490f38a7b6be890ab9073d
-SHA256: d43a9d0e1a6c4d22e05a60f257ef34a57105a84d827d3cfdf4cdf0de89c5e37e
-SHA512: 8831a8f1c473a082dd37f81f5b859a49d2b5240696b0bf8009fa0aaf349598493fd688d83f6b2cf973f5a4d7a33014d3ca72a69e818559ab41ef823cf0f3d3d6
-Description: A feature-rich tweak for Instagram on iOS!
-Name: SCInsta
-Author: SoCuul
-
-Package: com.socuul.scinsta
-Architecture: iphoneos-arm
-Version: 0.6.0-1+debug
-Section: Tweaks
-Maintainer: SoCuul
-Installed-Size: 3136
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debians/Rootful/com.socuul.scinsta_0.6.0_rootful.deb
 Size: 769338
 MD5sum: d6f59dfc6297a05c029d1bb6b0782bf3
 SHA1: d70f4dc3d1dd1152bb490f38a7b6be890ab9073d
@@ -13405,6 +13408,27 @@ MD5sum: 77426c5736382e28c583ca307ccf1579
 SHA1: 4d96d18185f324ea0ee2d7f3e0cece502e159c06
 SHA256: 4114c2c23a89887d35a22878d949e2e1ef189abfed4322f63273a104da0c0e44
 SHA512: 7f0010d8aa0b9ed1a5c6ead3711ac46e214ef73c615e2fc76492c6446aecfc5f08cd9ed8ec7e6c7d57a386cca469b62f9ba907b3f0bc1a505437857367a9314f
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.90
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 9424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.32)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Roothide/com.fouadraheb.watusi3_1.2.90_iphoneos-arm64e.deb
+Size: 6359946
+MD5sum: b33ba83b29d0889a50482af238aaa870
+SHA1: 1c899496b4f90f3d239739a1682b273ee258702a
+SHA256: 7e3f1aa96cdf534377a2d575afc8ab8b5f417609f08811a2fc91b5b269b4262c
+SHA512: 3ff8ef47f0ffa264bb49ab70f533b35f008b7195152a8e9f6d0a307ecd05e407aa095bd577b35bd17a507a7deb117e915d698220fc5621b95349fc2c352276b1
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -26515,6 +26539,26 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.90
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 9424
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.32)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Rootless/com.fouadraheb.watusi3_1.2.90_iphoneos-arm64.deb
+Size: 2519590
+MD5sum: 92829973ad54ea3349f4837266879ed9
+SHA1: 336c6b946b44a2f93567001c70a9a35f2baa65ac
+SHA256: 179485c03ec81b314a7b39375c6826396766fd058bd5daaacf10323b1c73c34c
+SHA512: 0a6ff1bc446bdd323cfca25f15a8c0a7c858f9bfc30a390bde40cbc557e227433cbed59281630b180710be59746db687c9f7dad38d51d91b20e054a5ef6bd61f
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
 Package: com.gilshahar7.pearlretry
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -31396,23 +31440,6 @@ Maintainer: SoCuul
 Installed-Size: 3136
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debians/Rootless/com.socuul.scinsta_0.6.0-1+debug_iphoneos-arm64.deb
-Size: 769336
-MD5sum: 09b05c55810d15d34c69903a23fab348
-SHA1: 432dba18fc67a62ad62bc42384f076b62b876c5e
-SHA256: 3474355fc9cb5239a036743f0e5a2764a0c61dfcdc31be6c8af87602c4e4ab2e
-SHA512: 56e5c687e871729d6a9e4f0db23c319cfc503e5698675b6f07905a86c94015a34e2213c26d1d03c6925c3fbb1f257e41ffa5423d00e8ee55051cded964e68244
-Description: A feature-rich tweak for Instagram on iOS!
-Name: SCInsta
-Author: SoCuul
-
-Package: com.socuul.scinsta
-Architecture: iphoneos-arm64
-Version: 0.6.0-1+debug
-Section: Tweaks
-Maintainer: SoCuul
-Installed-Size: 3136
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debians/Rootless/com.socuul.scinsta_0.6.0_rootless.deb
 Size: 769336
 MD5sum: 09b05c55810d15d34c69903a23fab348
 SHA1: 432dba18fc67a62ad62bc42384f076b62b876c5e
