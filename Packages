@@ -3697,6 +3697,23 @@ Name: UIScroller
 Author: iamdega
 Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
 
+Package: com.if-she.cydia.vcam
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: trizau
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.if-she.cydia.vcam_0.0.1-1_iphoneos-arm.deb
+Size: 41802
+MD5sum: b431777ba3050582d654d586d266da3e
+SHA1: a464503b5b1145846d912eab34a657484f2c5697
+SHA256: 9d45108ce95820677580a50a578e88b2d0408e6cf82f0e67b84fef8c8de9b69d
+SHA512: ca724e26e0168eb3c81466c84a9312faecd4bcdea169b89323408618f11ad832bb0eaed4e1c91a7c61450bc96305193ca1bfeb6a52d2272916bdb4a0162172f4
+Description: VCAM4iOS
+Name: VCAM4iOS
+Author: trizau
+
 Package: com.ifilipis.fckzck
 Architecture: iphoneos-arm
 Version: 1.0-1+debug
@@ -14129,6 +14146,24 @@ SHA512: 26abb84986e0149dada19acaeea761048243c866e7fc99829e8ecf2a7a48e49009b246c1
 Description: Automatically switch away from "everyone" AirDrop visibility after a set amount of time
 Name: TempDrop
 Author: iCraze
+
+Package: com.if-she.cydia.vcam
+Architecture: iphoneos-arm64e
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: trizau
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.if-she.cydia.vcam_0.0.1-1_iphoneos-arm64e.deb
+Size: 34536
+MD5sum: 77c040b05355928aee7ea33d18749989
+SHA1: 208417dc5f89f97f3d9ab479732c69f1231f9213
+SHA256: 4ab1a3f8b740ca46bd544be85d02318b246bb44390b8ac4ad67462254359f3b6
+SHA512: 4be1000eb6d917ca47ecb0489987fb28e5f0392d004cbbd8b62b3e733c4694b23b218c48d160a3ea455a7b073982410ed8c912749f00886c3969f33cb4ae799d
+Description: VCAM4iOS
+Name: VCAM4iOS
+Author: trizau
 
 Package: com.ifilipis.fckzck
 Architecture: iphoneos-arm64e
@@ -27195,6 +27230,23 @@ SHA512: 335f780419f8bb9e082a55862433a06e11f9ffc59f28308fca0c676a16edce827c94f7cb
 Description: iPhone X gestures and iPad status bar for all devices
 Name: Gestures15
 Author: iCraze
+
+Package: com.if-she.cydia.vcam
+Architecture: iphoneos-arm64
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: trizau
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.if-she.cydia.vcam_0.0.1-1_iphoneos-arm64.deb
+Size: 26176
+MD5sum: f2fb7525778d2af366ef22ad04e1eae5
+SHA1: df95389a8c862f46bb903a24643ce2a995f26797
+SHA256: 4526ec3747344398499b6bea043935c49691f02fd9bbface3f64e80858bd0b11
+SHA512: 90142e32bd83c639300b14dda3dd4029880ebecafeb342dbd945cd2ebed944418c7ded3681a068125139271ef2acb6cbcdceb0f346ab3f434fd45339dd457e01
+Description: VCAM4iOS
+Name: VCAM4iOS
+Author: trizau
 
 Package: com.ifilipis.fckzck
 Architecture: iphoneos-arm64
