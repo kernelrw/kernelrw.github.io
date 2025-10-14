@@ -9340,6 +9340,23 @@ Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
 Author: waruhachi
 
+Package: moe.waru.dupr
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/moe.waru.dupr_1.0.0_iphoneos-arm.deb
+Size: 4524
+MD5sum: 26cdd5360706aa6b5b6e3f7307b8d1ae
+SHA1: 570726f3ec00eea925673635e26dfe0565aac7b6
+SHA256: 1ce0c37a8d07dd255d9d2ed92bbf56b1d0a86fe73883c4e218811b60e6690287
+SHA512: f009ba1e4dbec83b70a17266b72a98e71f4b5a8e8d18a01eeebca809ef8596317d2a978791dc2bd43f99a36e41e91ba981ee647d1c8fe7efe6a321686c832414
+Description: Fixes TurboModule registration issues in Dupr app on jailbroken devices. Use Choicy to disable injection of all other tweaks
+Name: Dupr
+Author: waruhachi
+
 Package: moe.waru.focusdnd
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -21291,6 +21308,23 @@ SHA256: 649502636a71213b27f9f743498fa21a5d192b4779acf8466f12a8508f6d3c28
 SHA512: e12cdaec8469d4904ea08c8a74785fcabcfd013d8ace4248aa856d5ecd94e3bb1e5cbcda4ffaf98852d0295ae29aaa07e563843c9ae17ece2cf70fcab1a5dec4
 Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
+Author: waruhachi
+
+Package: moe.waru.dupr
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/moe.waru.dupr_1.0.0_iphoneos-arm64e.deb
+Size: 4536
+MD5sum: f75e2f9606e846ba1bced24e88df7da7
+SHA1: d3e51c554c66b87e70c9cda88616c54557771496
+SHA256: add2dcf49770a987c9a097a541bf20c2c9180599f0fb43684a411fd87989e099
+SHA512: bffd3b7322e98d058d6b19223d919655cd7f0e81cef766064268a4599c0dd100fd488d1f85da8dd700b8dfca2a0d484a42b8e019536a29734930dfe017d54e6f
+Description: Fixes TurboModule registration issues in Dupr app on jailbroken devices. Use Choicy to disable injection of all other tweaks
+Name: Dupr
 Author: waruhachi
 
 Package: moe.waru.focusdnd
@@ -34015,6 +34049,23 @@ SHA256: 2fb78201b75d0391a09869fd24403bcb1bc7a7a0fa7efc28528d89dcfd9a8819
 SHA512: 36b4daede9e919ad7882b23dd5a0f58f58bf4a791c197070aaed1384cbaeb9d64e024be7e7d9cbdd6440bd9a4dbeab5a8cede2c4152a2b142d95efdf46ad6d3e
 Description: Backport of the iOS 17 call screen for iOS 14-16
 Name: Call17
+Author: waruhachi
+
+Package: moe.waru.dupr
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/moe.waru.dupr_1.0.0_iphoneos-arm64.deb
+Size: 4600
+MD5sum: b95ab524fc434fe7213b4056cdfbae8b
+SHA1: 0b86365e85b6482812d2d8e86d42260f470cac55
+SHA256: 9d23eddaabc8dddfad3218389fd9d673fde6eefce161d9945436819c25dbfecb
+SHA512: dcb5a96a0e54bc6737f57c5f0d2ae1a33760464740c365f6d05e24f3a05431c026cc4033b3fe374834529b46a5409d0332a4ced2e5b3e1f1a7b63401a64d4864
+Description: Fixes TurboModule registration issues in Dupr app on jailbroken devices. Use Choicy to disable injection of all other tweaks
+Name: Dupr
 Author: waruhachi
 
 Package: moe.waru.focusdnd
