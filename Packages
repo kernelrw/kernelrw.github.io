@@ -10770,6 +10770,24 @@ Description: Automatically marks messages as read after clearing their notificat
 Name: IMRead
 Author: noname
 
+Package: com.3h6-1.imread
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: 3h6_1
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: ./debians/Roothide/com.3h6-1.imread_1.2.3_iphoneos-arm64e.deb
+Size: 7978
+MD5sum: d77be6984525821d983a9b53fa54e939
+SHA1: 0c5e20372479c36a15272de1e4513fb64cc612ea
+SHA256: a89caf885bffedf58d673b3318278dec3c0ca6fbc9ba28b2006477bdb266c693
+SHA512: f86145598395b50e9e42e2353b888c29fb9de160dde24c29b1b31cb6fdf8badf0f00f0baa7d970f60ae54c40ebc265bb5b637f8490a2aede39dd6b6ffc619bcb
+Description: Automatically marks messages as read after clearing their notifications
+Name: IMRead
+Author: 3h6_1
+
 Package: com.4nni3.coolcc
 Architecture: iphoneos-arm64e
 Version: 1:4.0
@@ -12118,6 +12136,25 @@ SHA512: 0de765581d2b096c48ae131393110832494bfc3f3d7cb42341dc05576642692d1390fc69
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
+
+Package: com.dopamine.swapforcer
+Architecture: iphoneos-arm64e
+Version: 0.0.2-7+debug
+Section: Tweaks
+Maintainer: Dopamine User
+Installed-Size: 76
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dopamine.swapforcer_0.0.2-7+debug_iphoneos-arm64e.deb
+Size: 6504
+MD5sum: eef9ff5775820bdfd0636f2190daf244
+SHA1: 95640cdf52a1f1c01e0512920b241174a76b3b38
+SHA256: 8944babd3d23d03d16ec1d2b63a9a30ba34501476dd1628b4cabff58c98e070d
+SHA512: 87872d475b9cc8229e275b52deac9e1be9aa941d4f7ce6909bf8e4731f24ddd9dcbd846e379e651e978a9d5ee41931ba9668337cb0933ec7531b133a3da9ca1f
+Description: Enable and stabilize iOS 16's Swap mechanism to improve app retention.
+Name: SwapForcer
+Author: colorBlack
+Prefix: /var/jb
 
 Package: com.dvntm.fastlock
 Architecture: iphoneos-arm64e
@@ -22584,6 +22621,25 @@ Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Depiction: https://chariz.com/get/newterm-beta
 Support: https://hashbang.productions/support/
 
+Package: xc.lzsxcl.w2
+Architecture: iphoneos-arm64e
+Version: 0.6.3-7
+Section: Tweaks
+Maintainer: lzsxcl
+Installed-Size: 1756
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/xc.lzsxcl.w2_0.6.3-7_iphoneos-arm64e.deb
+Size: 647694
+MD5sum: 18e54f785751ab6601e95bba2c5a0aa5
+SHA1: d96bc86aff7681390c1a6720be9034ea3e477284
+SHA256: 7806bdfc63f826d4ba5c274f9e41a7abe5e48f1696fdfc10afe821db589c9d3b
+SHA512: 2681c7a26fa6a4be02d62dce26e64de14d5ad9d2a96a4e1ad3e57d7a4d22eb18980bc575bb34d2a4fb5459e8627b2bfe22917fd040efd86669ae0a094fc738e4
+Description: Use selected virtual video to replace the real camera or photo information to protect privacy, widely used in WeChat spoof video chat.
+Name: W2 Pro
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
+
 Package: xyz.cypwn.speedtestvpn
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -23192,6 +23248,23 @@ SHA512: 2f6841689adf77e92f6a1d6d30a4a1d04c1ef3d0cd6e2506cb6a5c3b5d1776bac9c4f321
 Description: Automatically marks messages as read after clearing their notification
 Name: IMRead
 Author: noname
+
+Package: com.3h6-1.imread
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: Tweaks
+Maintainer: 3h6_1
+Installed-Size: 168
+Depends: firmware (>= 15.0)
+Filename: ./debians/Rootless/com.3h6-1.imread_1.2.3_iphoneos-arm64.deb
+Size: 6092
+MD5sum: 3cdfcff98669e4fe92f929bf3e318ebb
+SHA1: f26c8d57bd961046d7dc73564ecabfe000b8e092
+SHA256: 78cfc0dba213b92e54af5e4bfe62f16fcf0b7a7bfb1c00ad3b099c5669469a33
+SHA512: 5e85ea57a2a7f3f963e925b2c4d7bd4f4ab00ccafbb29e86ff8d25301fc33fb9874b0a272902acc6a1ed4611895a4cbf63fb6a7af1ae53b2c08ef0fe41114833
+Description: Automatically marks messages as read after clearing their notifications
+Name: IMRead
+Author: 3h6_1
 
 Package: com.4nni3.coolcc
 Architecture: iphoneos-arm64
@@ -24926,6 +24999,24 @@ SHA512: 3e68c88e76a0fcf00ceb1cc4e7b445dfb139bee8088e569174f3870dc276a9a25f98d0cb
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
+
+Package: com.dopamine.swapforcer
+Architecture: iphoneos-arm64
+Version: 0.0.2-7+debug
+Section: Tweaks
+Maintainer: Dopamine User
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dopamine.swapforcer_0.0.2-7+debug_iphoneos-arm64.deb
+Size: 5868
+MD5sum: f1a0102339f50508739b6835f5c555dd
+SHA1: 8aac3107fa475c94ae5ae618efd14697482b817f
+SHA256: 77940a9aa81637ed6e28f446e8a14b819f302e36dbb7b5daa2e0d308e9c515c3
+SHA512: 1e21ea5f99fcfed540d8fd31fcc11c84849d2d4ef35dc7ff1b82c5a4003ade9b5a17d62fd6d6bf006f7c6d46ee3ed09c5dd4c29d4018dd1685c75be591bf9463
+Description: Enable and stabilize iOS 16's Swap mechanism to improve app retention.
+Name: SwapForcer(Rootless)
+Author: colorBlack
+Prefix: /var/jb
 
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm64
@@ -35099,6 +35190,24 @@ Homepage: https://github.com/Cryptiiiic/x8A4
 Description: An all-in-one tool for firmware nonces, seeds, and downgrade support
 Name: x8A4
 Author: Cryptiiiic
+
+Package: xc.lzsxcl.w2
+Architecture: iphoneos-arm64
+Version: 0.6.3-7
+Section: Tweaks
+Maintainer: lzsxcl
+Installed-Size: 1756
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/xc.lzsxcl.w2_0.6.3-7_iphoneos-arm64.deb
+Size: 468956
+MD5sum: 5f6bed56da952908f6da6dda30320b91
+SHA1: 25ab05c8ef81d7da8bc67d8ec65f9c11cad0dd3e
+SHA256: 660392be0b1a8b84e82de4ae14e5464186f355120df83308c32d2bd959424d9a
+SHA512: a6b83e3db2ce25f79a98cc4550939826ef33561202b26bba86e89bff0867c7f3d16d308e4e3d85bd5f07b1569d4f0611d9d5700b176034e817f63e30bc877050
+Description: Use selected virtual video to replace the real camera or photo information to protect privacy, widely used in WeChat spoof video chat.
+Name: W2 Pro
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
 
 Package: xyz.monotrix.reachoptions
 Architecture: iphoneos-arm64
