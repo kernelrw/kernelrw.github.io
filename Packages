@@ -13876,6 +13876,24 @@ Description: Free & Open Source Tweak for Reddit
 Name: Reddit No Ads
 Author: Hao Nguyen
 
+Package: com.hg13.tiktokbypass
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: hg13
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.hg13.tiktokbypass_1.0.0_iphoneos-arm64e.deb
+Size: 9264
+MD5sum: 379488bff5268d8867f671d8079593d3
+SHA1: 3f252395cdd8809d833f5e66b7888ea8688a5568
+SHA256: 64c67df44fbb9c27bdfd13ae48ffef609b939eee189ea31eb124e7437778b1f9
+SHA512: 5bf7f8316c181797bb9aab4b774675502a03e0d45d0f10203301b5b54da5912378ab5da9c328c837b7ccb7cc5fad332794998ed29b0b5464a6ea24d880d72ac3
+Description: This tweak allows you to only bypass jailbreak detection from TikTok (Rootless Version), This was taken from Haoict's TikTok God Tweak so credits to him for that.
+Name: TikTok Bypass
+Author: hg13
+
 Package: com.hitori.pressspring
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -16676,6 +16694,25 @@ SHA512: 9b6ef4663d171dafb3aedf58cd081e4eb8719de8dc6c261620a908332ce9d8cbe5a55113
 Description: InjectIPA Tool
 Name: injectipa
 Author: Netskao
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm64e
+Version: 1.5-7
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1688
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debians/Roothide/com.netskao.injectipa_1.5-7_iphoneos-arm64e.deb
+Size: 572064
+MD5sum: cdcc8ce790023d01771014efe7061a6b
+SHA1: 68496df2ed5f9798b2c17258638012d718345d3d
+SHA256: db03465427dcc69239431278bfe3889ec2f7a26ea8753e3cd16dfd5523a03c30
+SHA512: 95a0311132f9bbe435daed8b57d9135db5af011fa248c9efc212157691a0603584e1fde73196021ec55ff27148b772e5b67db4d984046f1da51ffbbbc8fbb99b
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.injectipa.json
 
 Package: com.netskao.ipccinstaller
 Architecture: iphoneos-arm64e
@@ -27342,6 +27379,23 @@ Description: Free & Open Source Tweak for Twitter
 Name: Twitter No Ads
 Author: Hao Nguyen
 
+Package: com.hg13.tiktokbypass
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: hg13
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.hg13.tiktokbypass_1.0.0_iphoneos-arm64.deb
+Size: 6952
+MD5sum: e2d48e8af422adbed778c47aa8fc2e17
+SHA1: 3265c2bb0b4d1eae3e797b7a3454bdedeec8a152
+SHA256: 815c105879638c30a9dc86cf9e05c73498a186bbc71054044a35145439b77290
+SHA512: 156ab69fb3cf49231285f45ad7f6964a18aaaf3436c19ecf803002cadc269da5221a525fc34b86a41307596fa560ef4247bdbf552c5f3f5f4567f665488141f8
+Description: This tweak allows you to only bypass jailbreak detection from TikTok (Rootless Version), This was taken from Haoict's TikTok God Tweak so credits to him for that.
+Name: TikTok Bypass
+Author: hg13
+
 Package: com.hitori.passtextt
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -29959,6 +30013,24 @@ SHA512: ae83dffe779164066a8f8efed696338cc9af268d3d6b3e26c4a9180fefdafed14b8a2153
 Description: InjectIPA Tool
 Name: injectipa
 Author: Netskao
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm64
+Version: 1.5-7
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1688
+Depends: firmware (>= 14.0)
+Filename: ./debians/Rootless/com.netskao.injectipa_1.5-7_iphoneos-arm64.deb
+Size: 417236
+MD5sum: d05283d808f304dc7cab65aa7fddeb22
+SHA1: 35d0582a6cc381d135093d60daa5b3c23b4f8f03
+SHA256: 6b3705f20b11067fbc564cc603d125067b9be5c48fbe6d04179f79f4a78a76ee
+SHA512: f400299e61b00da7febba7f63f435644896d60e0eed46f93d7576aee3a4a6d4fad1bff38ec626a2819486029c8c0fe736699ae0ac27b559394c45db10a2dc74c
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.injectipa.json
 
 Package: com.netskao.ipccinstaller
 Architecture: iphoneos-arm64
