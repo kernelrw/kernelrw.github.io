@@ -524,6 +524,23 @@ Author: 34306
 
 Package: com.34306.trolldecryptjb
 Architecture: iphoneos-arm
+Version: 1.3.0-2+debug
+Section: Applications
+Maintainer: Little 34306
+Installed-Size: 4320
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Rootful/com.34306.trolldecryptjb_1.3.0-2+debug_iphoneos-arm.deb
+Size: 910026
+MD5sum: 5edca058ee210046d3129f0a6eee99d1
+SHA1: 7d84390646b0b494c44b6394518e3ece6f9f605f
+SHA256: 2490c4316e94eb8ecdbab9a9691a6c25ae16042695095614a58d7510f2db6fc2
+SHA512: 05a869d69e3b2ecb0adac0ace0002d2c865e1dbfcabe1587e76625c207be53dbd3f04e3b25895fe34c3a3e5cdefa1d26c86c40a4817f6771f6f5824d03ab406b
+Description: Decrypt Appstore App that require higher iOS
+Name: TrollDecryptJB
+Author: 34306, khanhduytran0
+
+Package: com.34306.trolldecryptjb
+Architecture: iphoneos-arm
 Version: 1.3.0
 Section: Applications
 Maintainer: Little 34306
