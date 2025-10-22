@@ -556,6 +556,23 @@ Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
 
+Package: com.34306.trolldecryptjb
+Architecture: iphoneos-arm
+Version: 1.3.1-1+debug
+Section: Applications
+Maintainer: Little 34306
+Installed-Size: 4360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Rootful/com.34306.trolldecryptjb_1.3.1-1+debug_iphoneos-arm.deb
+Size: 920086
+MD5sum: d1fd936de564ca6337da122f943a8001
+SHA1: 6b827e27047bfaa9a78eb39a24bd799de0043d83
+SHA256: a64dd2e01b07fde38a915e66e378cf2e4cb6d67f305957dd467a95827e0a5adf
+SHA512: 521596436d339d4e5a32b5185f55ace44a7e9ee501dbc8486d53112aad27d8b5895d38fb8137a4866a7a23aebc5cec7727543525b3137692ce37f48676c324f6
+Description: Decrypt Appstore App that require higher iOS
+Name: TrollDecryptJB
+Author: 34306, khanhduytran0
+
 Package: com.34306.watchedd
 Architecture: iphoneos-arm
 Version: 1.2-1
@@ -10824,6 +10841,24 @@ MD5sum: f701c381a4289cde4cf4cd56a8f4348b
 SHA1: 2e496dd6cedaeb72a51b98f3712987f8b6add994
 SHA256: 5c7bfaa748396aff90a9a0a9ec93d80517f45312a9a86a30141759319b4edd84
 SHA512: 38646f5b11e73d34625b2a418877d8ccc6f8b53830626ac772a3e9fff22f2c40de4590829230b905dece68aaf5667bd5968b7f567c862efa7d351a08309464ac
+Description: Decrypt Appstore App that require higher iOS
+Name: TrollDecryptJB
+Author: 34306, khanhduytran0
+
+Package: com.34306.trolldecryptjb
+Architecture: iphoneos-arm64e
+Version: 1.3.1-1+debug
+Section: Applications
+Maintainer: Little 34306
+Installed-Size: 1392
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), lldb
+Filename: ./debians/Roothide/com.34306.trolldecryptjb_1.3.1-1+debug_iphoneos-arm64e.deb
+Size: 337990
+MD5sum: 59426445e19527aad670c39df98125a7
+SHA1: ab7d784444365732813d441d75209a065403de85
+SHA256: ee4197b44e606b45362d7e7058406fdb25bfffd933311b0d9e5088d249c8b3e9
+SHA512: 0861bf348d69e68b8aa3e82639c1f04ee69113704e7581cd8cffdae669c2482861a1d4e746db289acee2c3af7c995fd4ad753cb13e9cc4f5c9daac687ab1af3f
 Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
@@ -23399,6 +23434,23 @@ MD5sum: f4a1c922cb79972d4846210deaca9c99
 SHA1: 1911e3663006fe5f794470646506cf04da3cff25
 SHA256: 1f5f56dd41040d4bbabc50236ca7b6d2c764a12e1182068293b3bbe4d808a4bb
 SHA512: d00eb47b05e424431da7a523222305304a6cebee2dcd84b3988f4be0497c1c11a581c1d8bec773421aa7a4509ca21fc2bc393a98ce7e419f3d698af0e5a55c41
+Description: Decrypt Appstore App that require higher iOS
+Name: TrollDecryptJB
+Author: 34306, khanhduytran0
+
+Package: com.34306.trolldecryptjb
+Architecture: iphoneos-arm64
+Version: 1.3.1-1+debug
+Section: Applications
+Maintainer: Little 34306
+Installed-Size: 1392
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), lldb
+Filename: ./debians/Rootless/com.34306.trolldecryptjb_1.3.1-1+debug_iphoneos-arm64.deb
+Size: 290752
+MD5sum: a2cad741439f6c117c0cac43eb34decc
+SHA1: 6e728b3eeb6112019e7a25b3874a58e55269103a
+SHA256: 11756958fc92c2fb6415e5e13a147212e29261d5f8a7a7b84c11b967d31db369
+SHA512: b3a9805ed8e2897c42e60ec3380d22dfadbe2452d78febe61730cac3ac4656aebb6739d69e31eff46105c2f631b77060736200a5a28d9bc063774b0c839bd3e2
 Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
