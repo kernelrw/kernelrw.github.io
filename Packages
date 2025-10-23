@@ -3308,6 +3308,25 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.galacticdev.isponsorblock
+Architecture: iphoneos-arm
+Version: 1.2.13
+Section: Tweaks
+Maintainer: Galactic Dev
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1), firmware (>= 13.0)
+Filename: ./debians/Rootful/com.galacticdev.isponsorblock_1.2.13_iphoneos-arm.deb
+Size: 97864
+MD5sum: bddf1e7f98d7bf15bf9e620101d14c09
+SHA1: b1303c882810bf627e7451069b63f4ed9e3e2808
+SHA256: 1c9cfed7d950ea2ab92ae80be3aac8fe519cbb830f0a56fc0a0d095d306c5454
+SHA512: b9f7cf0035e3b735614da1af393a45d660fcdc5d5a609bf958b6f08c9d52f86a07b57c6a071ced0ea6f04405a43823d349cc31548a1a4b9a959fd8e7a53bfbc0
+Description: SponsorBlock port for iOS
+Name: iSponsorBlock
+Author: Galactic Dev
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Depiction: https://galacticdev.me/iSponsorBlock
+
 Package: com.gilshahar7.pearlretry
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -13734,6 +13753,26 @@ Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.galacticdev.isponsorblock
+Architecture: iphoneos-arm64e
+Version: 1.2.13
+Section: Tweaks
+Maintainer: Galactic Dev
+Installed-Size: 372
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1), firmware (>= 13.0)
+Filename: ./debians/Roothide/com.galacticdev.isponsorblock_1.2.13_iphoneos-arm64e.deb
+Size: 126956
+MD5sum: 496e92ba335fb0b47c2f12066d87213b
+SHA1: 3207e5308662ad13e149fc3c403b0a02a584d42f
+SHA256: 775525d53b4ca55adadb98cecb6f5594d4bd61b2520a92c4444b8867bd098c23
+SHA512: a4fe72983b9379721f6afe9b6d1a9cb18199c30eac75943770a91bd495a5d51b990892af895783c77ab21a346f1701b4c0a935b9de2de128e7c68637ae99a151
+Description: SponsorBlock port for iOS
+Name: iSponsorBlock
+Author: Galactic Dev
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Depiction: https://galacticdev.me/iSponsorBlock
 
 Package: com.gilshahar7.pearlretry
 Architecture: iphoneos-arm64e
@@ -27079,6 +27118,25 @@ Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.galacticdev.isponsorblock
+Architecture: iphoneos-arm64
+Version: 1.2.13
+Section: Tweaks
+Maintainer: Galactic Dev
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1), firmware (>= 13.0)
+Filename: ./debians/Rootless/com.galacticdev.isponsorblock_1.2.13_iphoneos-arm64.deb
+Size: 97848
+MD5sum: c37121c1329d92ea1372315543084bb8
+SHA1: 2386aa537a6c5324d47edd1bfc14c0f3e0fc34c0
+SHA256: e422961edad080aa62ac49e2963980e4a6208462069e8d581e47e3dd29bc511c
+SHA512: 4b8fd406a63fd3b2903f1be4d5e07466f25041febc6a6c2876242135212bd7e4687cbddd3d26be6af561628f49e13817e122698f288dbe8269592c3aefbc3fd6
+Description: SponsorBlock port for iOS
+Name: iSponsorBlock
+Author: Galactic Dev
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Depiction: https://galacticdev.me/iSponsorBlock
 
 Package: com.gilshahar7.pearlretry
 Architecture: iphoneos-arm64
