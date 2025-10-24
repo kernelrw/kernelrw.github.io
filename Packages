@@ -3029,6 +3029,27 @@ Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x
 
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 49580
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
+Filename: ./debians/Rootful/com.fouadraheb.regram_2.1.1_iphoneos-arm.deb
+Size: 17466780
+MD5sum: 2ebbe30f32032aeffa05a896e49c9b98
+SHA1: 6aae8acb09efa2841683e135c9d01348fcabcfd9
+SHA256: 8e53ab6ceca9e6c2888abd61a005a1b8b8225ae546a916050e7e6f76d0ca21a6
+SHA512: b495d6f08259c149e0c4f8bb2bbcc30347c531b9771df304874e1364fe0706085252a85ae4e7460834fe80fd5a0a7435181ae771c2efa7226d9137102a94c588
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm
 Version: 2.1
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -13284,6 +13305,28 @@ MD5sum: a14f7aad0ae0bb87f7e684c6257b598f
 SHA1: b428ad01dfabc8bb0e730f70b0a56ca9f0f60ece
 SHA256: a9e6cf01e7819dcc130cb50c056b048775bf6a1b19f4f643291a9d7c27a16530
 SHA512: 3729ea4d5858480acbdfdd63868d26fdd8a264b835c6409845174809b2bc8d57ca0ee54c147111e33eee5e964697ba9789638c55a7cf1c976c46560db76548a5
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 49580
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
+Filename: ./debians/Roothide/com.fouadraheb.regram_2.1.1_iphoneos-arm64e.deb
+Size: 48381302
+MD5sum: 462d2794af1b3e91ab3b9c67be9cc789
+SHA1: 1009bd81a8a1c8cdfa6969a39e21bcd24afdc2b6
+SHA256: 8daec4ed9200169b28e49565c33df3b7b1798c5aa7ec4ccb9bb83e250c9ee319
+SHA512: 216009bfc8fdce8869fc25e0e37d4b3ca45418296c2abf0a472f6b935afcca0885c0699606e0d7ce71fdbdbfc7094caed1eac1f4b7269073f2e6bb25a396838f
 Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -26611,6 +26654,27 @@ MD5sum: 9c25ee418d862217f73aef919bdedc16
 SHA1: dc23262ed8d82d457f3d1982d78f58a7a73e7567
 SHA256: 19c2e733d86d57098a1d27de253a851d846730b2469c0f0ecfd33ab9c5a26a60
 SHA512: ac7a4b8809e037e23dc09aa7dc50cff0708796eaab7d87656daab180129e92a83d180ece91c032fb0f9a41447e1893865337f9c327c57b0fd7b4c05b41bf2b4b
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 49580
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
+Filename: ./debians/Rootless/com.fouadraheb.regram_2.1.1_iphoneos-arm64.deb
+Size: 17468604
+MD5sum: ab1758d608f5c87d65110714bd5a5793
+SHA1: 8ee45160cbcc54c84df91f83df53c182eafd7395
+SHA256: 7e0386e68a594920eef127534dae3f8b4e9893759b0dc1521243ddb8fb9a3bf8
+SHA512: 7dd49fa79f9a05213b653ccc53837313d3d5e3999d4ade8493156d7658be5841a8944258577d24e363e4d8ce46eb0fb13b7192d0f0adcc5c960bb42640d3d21d
 Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
