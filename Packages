@@ -22639,25 +22639,6 @@ Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
-Package: org.thebigboss.ios6completetheme
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Themes
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=7.0), mobilesubstrate (>=0.9.5001)
-Filename: ./debians/Roothide/org.thebigboss.ios6completetheme_2.0_iphoneos-arm64e.deb
-Size: 29619732
-MD5sum: 0a918255732bf3313f29fd4f5321cc56
-SHA1: bc0fa3494c123cb526f02e1ff63d947aeff2d457
-SHA256: eedb27aee48c42dd5feac421882996d85bd4fa42dbb52db6000fc14023816591
-SHA512: ec0b70f0544d130fb3b04190827b479a9a76f65f9d231aa9aaac26e3c80fbbbd0bfc3048f621ef0071c23f9f8b9c30e74b12ce0c3564ec153eb6f03b2a8de578
-Description: Bring back the glorious skeuomorphism!
-Author: Kiyashi Shizoku <kshizoku@gmail.com>
-Name: iOS 6 Complete
-dev: kshizoku
-Icon: https://data.tooliphone.net/iskin/themes/15278/10169/preview-256.png
-
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64e
 Version: 1.6.9.1
@@ -35571,24 +35552,6 @@ Name: Sileo
 Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
-
-Package: org.thebigboss.ios6completetheme
-Architecture: iphoneos-arm64
-Version: 2.0
-Section: Themes
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>=7.0), mobilesubstrate (>=0.9.5001)
-Filename: ./debians/Rootless/org.thebigboss.ios6completetheme_2.0_iphoneos-arm64.deb
-Size: 12490048
-MD5sum: c73986c115fd3e3cb96554a82ca80bba
-SHA1: d04d1e1a27316ff554138f2e3a08c95cf52f1494
-SHA256: 0caa5d2b498580c8828cb2e261b399605c9384254184177c40257464b7f5eb1b
-SHA512: 1c27b78ba7be7fb49558c8c683e2ef2b2d412c524a16e4075efb6b92a7295c27df3ea2dcc4650e8e779a1ba3b80d69d69f6b29d443c8525c2c83e3075c2f759c
-Description: Bring back the glorious skeuomorphism!
-Author: Kiyashi Shizoku <kshizoku@gmail.com>
-Name: iOS 6 Complete
-dev: kshizoku
-Icon: https://data.tooliphone.net/iskin/themes/15278/10169/preview-256.png
 
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64
