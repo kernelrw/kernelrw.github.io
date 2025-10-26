@@ -1330,6 +1330,28 @@ Tag: role::hacker
 Name: attach-and-detach
 Author: comex, danzatt, Misty
 
+Package: com.cortex.carplayenable
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.cortex.carplayenable_1.0.2_iphoneos-arm.deb
+Size: 85406
+MD5sum: 83759ac709b25ceff4342f8d07429e33
+SHA1: 5e046c556b9de7c7b88e6b23540d9087b9ed1b96
+SHA256: 56a705ebe5b2ef8de7524966088b333b616323bd8526dc6d91412976aeddcc45
+SHA512: 0f57630ef81ef4b65ed25d1997ca04b7ba2970c427ba8d7b6dbff940121188e1844038d160ddbc185711c20fd7893f999ca4113f8872a5bee28c3e707b06b56c
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carplayenableDp
+Description: Use any app with CarPlay
+Tag: purpose::extension
+Author: Ethan Arbuckle <ethan.a.arbuckle@gmail.com>
+Name: CarPlayEnable
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carplayenableDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ethanarbuckle
+
 Package: com.cpdigitaldarkroom.barmoji
 Architecture: iphoneos-arm
 Version: 2023.3
