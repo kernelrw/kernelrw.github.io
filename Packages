@@ -19805,6 +19805,24 @@ Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.lpmno
 Author: sugiuta
 Icon: https://sugiuta.github.io/repo/images/icons/LPMNotification.png
 
+Package: com.sugiuta.plampycc
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Sugiuta
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debians/Roothide/com.sugiuta.plampycc_1.0.2_iphoneos-arm64e.deb
+Size: 3361930
+MD5sum: ea3a2c2628c806c29a8e8209c13fbb32
+SHA1: 53d61a6bf4ec7aafd8ad01cb8f93781a73852c5b
+SHA256: 3d8332f60a37cf7a3d235fd9cf07adf063e6bf00b10b1314016988838287c7b0
+SHA512: a1f2a9deed28df4713a1c41d49dbe9b016831f863f0fa1db648e3973f1dc07b59f7ceda4fb2461974947a4e16afcf5cd1330519653cbdd32e99f6375d3ef5b6a
+Description: Customize CC on iOS15 & 16 with  animated icons and more
+Name: PlampyCC
+Author: sugiuta
+Icon: file:///var/jb/Library/PreferenceBundles/PlampyCC.bundle/icon@2x.png
+
 Package: com.telegram.return
 Architecture: iphoneos-arm64e
 Version: 1.1
