@@ -12917,6 +12917,27 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
 
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.2.3
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 2428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.24)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Enhances: WhatsApp
+Filename: ./debians/Roothide/com.f0u4d.stalky_4.2.3_iphoneos-arm64e.deb
+Size: 1616890
+MD5sum: 37936af86ed31164e8255d32766c1e6d
+SHA1: 3654e44fbbb472bdf6af6c76f3201abb9b76b1ef
+SHA256: 0ad026e31576ed074c13d5bbb1997783c3c7adfb67d6c30c2e18ec2fdacef294
+SHA512: dba9058d05191c0577a1aa83937cbb9671b3262f6396a62562ebc05ac09c669aaad1299ad0b6dc3c697016c4023602a308fe0d0edd836561bc902231c33f5c2a
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.14
@@ -26312,6 +26333,26 @@ Name: OnlineNotify
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64
+Version: 4.2.3
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 2428
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.24)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Enhances: WhatsApp
+Filename: ./debians/Rootless/com.f0u4d.stalky_4.2.3_iphoneos-arm64.deb
+Size: 667398
+MD5sum: 0de226ff0c343be7a45400f5d2f4dae5
+SHA1: c99293df322bb59e0183de4e2545ab6e9ce24a3f
+SHA256: b62a038acad245af016214aebcecf56ef3a5816616cb2188f307b2d7912e4d25
+SHA512: 063047ad05a90b3ef3442272974573852185be94bfcc0bf4cbf9a8dd43dc70c30202bfb92fe41463cbc070f340ad7c0e6baea29d5dcc04cdbac13e4e2efcbe33
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
