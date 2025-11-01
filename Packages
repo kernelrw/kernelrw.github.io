@@ -8772,6 +8772,26 @@ SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.gith
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 
+Package: eg.anubistweaks.phoneenhancer15
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: AnubisTweaks
+Installed-Size: 676
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/Rootful/eg.anubistweaks.phoneenhancer15_2.0.0_iphoneos-arm.deb
+Size: 234224
+MD5sum: b50e3c0f8b6bc2e6eeca553c5713a7d1
+SHA1: e886e5a420cc3f71a6704a6bf3283739eb669a7a
+SHA256: a3800852b7a35a7b4b1a3547c1f95bc59c783df86c85fcc17698cf17dbee6860
+SHA512: 32facbbce8c1ec40891889354cf1ce78a14bb1d739a8de8e5e715e1f11c8abb02a23b4c5c61d5e3546e942ccceedeabd5cda96b59d85fec2d969942fdfd53a8b
+Description: Your Phone App, as It's Supposed to Be.
+Name: PhoneEnhancer15
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
+
 Package: emt.paisseon.paibloxx
 Architecture: iphoneos-arm
 Version: 1.2
@@ -20906,6 +20926,27 @@ SHA512: 83fe43c900d0175ba9dc9734fe74a5300c55367abe450edea82d4ba46d4d09b124caf4f3
 Description: Little and colorful notification banners
 Name: Liddell
 Author: Traurige <hello@traurige.dev>
+
+Package: eg.anubistweaks.phoneenhancer15
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Section: Tweaks
+Maintainer: AnubisTweaks
+Installed-Size: 676
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/Roothide/eg.anubistweaks.phoneenhancer15_2.0.0_iphoneos-arm64e.deb
+Size: 245898
+MD5sum: 9c2906435901a093ba34a22d6e0f0df6
+SHA1: 4851ababae9130fa9eca795815f9f6e2cd46201b
+SHA256: bc97ec299c33408314812af0c10101c3d7928bb21fad44968ce2417d2915b563
+SHA512: d6621d386d391ec925a604c750e9e141f07bbbfbce91c861a7d398095c775babd7b56b938c2d6f840b4ace6c2d5065c52e998a6023592cee84cf9ed1285b0148
+Description: Your Phone App, as It's Supposed to Be.
+Name: PhoneEnhancer15
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 
 Package: emt.paisseon.erika
 Architecture: iphoneos-arm64e
@@ -33958,6 +33999,26 @@ MD5sum: 96152f23dcce0455625a6d2f2816a9a4
 SHA1: 16a99d008fefbfe703af74062b51a9c8250a13fc
 SHA256: 8cdf0413205204397ce3e441631088babd179c111e9950ec295ff07f8e12ca2b
 SHA512: e5ecd3701af825f0206703a050f10c34032d086f23d9ee5cbc663b70d1ea9c215231d5a71419d0bd03cd71bb2ecec981a2f2fde1d3c31b50570363dec86d4246
+Description: Your Phone App, as It's Supposed to Be.
+Name: PhoneEnhancer15
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
+
+Package: eg.anubistweaks.phoneenhancer15
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: AnubisTweaks
+Installed-Size: 676
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/Rootless/eg.anubistweaks.phoneenhancer15_2.0.0_iphoneos-arm64.deb
+Size: 234396
+MD5sum: 99bf5bf05859f37fc5b5e3a81e6f5638
+SHA1: a7e6507874f26c78eba6932f9da5f9775741cb69
+SHA256: 09c1de7f7fc939d34b27e565a5677ff898824cec91aca821d92dd72de602c3aa
+SHA512: 26796cf2333a3e7c1326f3c87c2b22ad7b050448e074c12ec89417ac9dab059f7d71582ed2e3e7b99fd56e6ba70c22a2348dfbac0fa40e4a12fe6d2f5a15d50f
 Description: Your Phone App, as It's Supposed to Be.
 Name: PhoneEnhancer15
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
