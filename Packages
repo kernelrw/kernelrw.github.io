@@ -1602,6 +1602,30 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/ByeSeparatorsCell.bundle/ByeSeparatorsCell@2x.png
 
+Package: com.cydiageek.chargingbanner
+Architecture: iphoneos-arm
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 534
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debians/Rootful/com.cydiageek.chargingbanner_1.0.0_iphoneos-arm.deb
+Size: 81888
+MD5sum: 3c659f819f95b86d62121511f2c4e0b9
+SHA1: dbd62b3a687ee033c66488b12bc0974fd08e7a0e
+SHA256: e194a0d2675dadaf532e88aba3f0d4ad3257dbe933221c03f2903d2da3974977
+SHA512: 2ae957ad7c91f5234e4bf33ea289b8f32c288ffcb4ab1ccd310936dea0804010330f3f005fb34e9bd8fbeaa676404cbc2b9d0c35b52597a24abba737f2306ea3
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargingbannerDp
+Description: Show battery level and time banner on charge connect/disconnect!
+Tag: purpose::extension
+Name: ChargingBanner
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargingbannerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/ChargingBanner.bundle/icon@2x.png
+
 Package: com.cydiageek.color3dicons
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -12046,6 +12070,31 @@ Description: A sleek reimagination of Control Center.
 Name: CC26
 Author: therealhoodboy
 Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+
+Package: com.cydiageek.chargingbanner
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 534
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debians/Roothide/com.cydiageek.chargingbanner_1.0.0_iphoneos-arm64e.deb
+Size: 89850
+MD5sum: b5385425c444cdd22e34b652a9d21845
+SHA1: 86032a292a35a909342169d658dafbf9ae8f46ca
+SHA256: 4ac4bff2a470270d2bd50bbb7ea1dcdaaf562dd884cf47b1ec07de13268967a9
+SHA512: 89ed1033c54f260c362fab6674a4b76e5b6bdbb69e2ce6e43ebf6a200b1724ba7aafeee6e4e07575ba3d4dbc55f7413c2938fa253414420d127b1943385f5951
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargingbannerDp
+Description: Show battery level and time banner on charge connect/disconnect!
+Tag: purpose::extension
+Name: ChargingBanner
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargingbannerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/ChargingBanner.bundle/icon@2x.png
 
 Package: com.cydiageek.customlpmm
 Architecture: iphoneos-arm64e
@@ -24919,6 +24968,30 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/ByeSeparatorsCell.bundle/ByeSeparatorsCell@2x.png
+
+Package: com.cydiageek.chargingbanner
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 534
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.chargingbanner_1.0.0_iphoneos-arm64.deb
+Size: 81196
+MD5sum: 0bc99e02bff4cad4337ee1f047ae797c
+SHA1: 052ff5e84e7e532b99a27a72534f4545ce588591
+SHA256: 6e67795ba94b48fcb9826b86b16e6162435d93f4c5636bbcb714235caeeb6d17
+SHA512: fd7cf772c56cdb5f41f11fa639b90de37e50231e663b2e37de423fb1e39b4644861ccd1dc0c99f407b179747f7e4b6bf418bc8e9a37148282dc3aef312385f02
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargingbannerDp
+Description: Show battery level and time banner on charge connect/disconnect!
+Tag: purpose::extension
+Name: ChargingBanner
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargingbannerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/ChargingBanner.bundle/icon@2x.png
 
 Package: com.cydiageek.color3dicons
 Architecture: iphoneos-arm64
