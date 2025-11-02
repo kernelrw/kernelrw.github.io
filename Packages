@@ -7041,6 +7041,25 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/noytpremium.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/noytpremium.json
 
+Package: com.ps.trollleds
+Architecture: iphoneos-arm
+Version: 1.10.0
+Section: Utilities
+Maintainer: PoomSmart
+Installed-Size: 240
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), gsc.camera-flash
+Filename: ./debians/Rootful/com.ps.trollleds_1.10.0_iphoneos-arm.deb
+Size: 79774
+MD5sum: 07ca6b66be86b0439298e2810bc678b6
+SHA1: 5d9fc1ef7b6588c211cfccb703402fc3572713de
+SHA256: cddf7e93596682efc6c522bcc0695e36c254261ec2f32ab39f7b312a99e483fb
+SHA512: dd3cb3764416cc2081ee35cec85da954be1f8380c8b7f076e6d50151208851153e4ae1e99a6296e1007ad247ddded6d00e25ad054fada5cb0105cee45a01c173
+Description: Controls flashlight LEDs with eases.
+Name: TrollLEDs
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/trollleds.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/trollleds.json
+
 Package: com.ps.ytlegacy
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -18508,6 +18527,26 @@ Name: SmoothKB
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/smoothkb.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/smoothkb.json
+
+Package: com.ps.trollleds
+Architecture: iphoneos-arm64e
+Version: 1.10.0
+Section: Utilities
+Maintainer: PoomSmart
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), gsc.camera-flash
+Filename: ./debians/Roothide/com.ps.trollleds_1.10.0_iphoneos-arm64e.deb
+Size: 90588
+MD5sum: 370eed66e3747d976368827843a221e4
+SHA1: 96165d6b534fd6bae7dd2a2da5a4d6f173c22763
+SHA256: df7d7aac6aa642c1ce46ad1d7805d3bc33e0f3cc7e9f2875cc9bb8ccb7ffed70
+SHA512: a74dba1db545d04c99da5465b4a815333ca76c835d5d59717f28ccee0e06eefe0bef214a490b53a794da9232221dfa64adb47300f7830b2b491d030794472b78
+Description: Controls flashlight LEDs with eases.
+Name: TrollLEDs
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/trollleds.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/trollleds.json
 
 Package: com.ps.youmute
 Architecture: iphoneos-arm64e
@@ -31797,6 +31836,25 @@ Name: NoYTPremium
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/noytpremium.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/noytpremium.json
+
+Package: com.ps.trollleds
+Architecture: iphoneos-arm64
+Version: 1.10.0
+Section: Utilities
+Maintainer: PoomSmart
+Installed-Size: 236
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), gsc.camera-flash
+Filename: ./debians/Rootless/com.ps.trollleds_1.10.0_iphoneos-arm64.deb
+Size: 75362
+MD5sum: 4d449d5832eff633d5fa3a1b6753b968
+SHA1: 78579d80de3d02fbfe1c471e05d971d2ac8ca77a
+SHA256: 41f77f68b6cfc95b89883067ec6a18c7c690c866252e34bbc41246a6833c0660
+SHA512: 9b6118e98e740203fb94c2826aab1274a4e646dff77e3ac57fe77ae619d76b71c32e05521fe9c8fe5625fd8d12d3173931a7a5890081aa3e3c5aa5b988ca2889
+Description: Controls flashlight LEDs with eases.
+Name: TrollLEDs
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/trollleds.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/trollleds.json
 
 Package: com.ps.ytlegacy
 Architecture: iphoneos-arm64
