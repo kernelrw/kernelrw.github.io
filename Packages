@@ -21650,28 +21650,6 @@ Description: An awesome MobileSubstrate tweak!
 Name: YTSideloadSignInFix
 Author: Foxster
 
-Package: me.jjolano.alertdismiss
-Architecture: iphoneos-arm64e
-Version: 1.0.4
-Section: Tweaks
-Maintainer: jjolano <jjolano@me.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
-Filename: ./debians/Roothide/me.jjolano.alertdismiss_1.0.4_iphoneos-arm64e.deb
-Size: 18808
-MD5sum: 878a2c2810bf4b78ed9a82205eec58fd
-SHA1: b8b2a8ee2f371a3fdbbf60eba2e3235ec202f881
-SHA256: 6a53fa4557be27744fcc142c026cffc70b9ff9b4ae1e90bb057fc67f66d2be80
-SHA512: 9b31993ffcbf9eefe5a283a7eba9ed445144b87a252a8a2f757ed0a1a88ee333b1e482457e7b19ee709a856ee2c4ca70d5a9be59e9b9af7a957a2377dee3e874
-Homepage: https://shuga.co/
-Description: Add a Force Dismiss button to any UIAlertController.
-Name: AlertDismiss
-Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.alertdismiss.html
-SileoDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
-ModernDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
-Icon: https://ios.jjolano.me/assets/me.jjolano.alertdismiss/icon.png
-Author: jjolano <jjolano@me.com>
-
 Package: me.jjolano.fmwk.hookkit
 Architecture: iphoneos-arm64e
 Version: 1.0.15
@@ -21680,11 +21658,11 @@ Maintainer: jjolano
 Installed-Size: 172
 Depends: firmware (>= 8.0), me.jjolano.fmwk.modulous, me.jjolano.fmwk.rootbridge
 Filename: ./debians/Roothide/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm64e.deb
-Size: 12864
-MD5sum: f64a6958249c0c630a37e9288e94937c
-SHA1: e983edefad8c4147a8f08bc524b94bab2bd8f73a
-SHA256: 0d6f0aa6ac7f6008eb0e8e1d635b061cab9ee37b54144b63ff467c7083d25d42
-SHA512: 99fd5efbc102f3f364efdd29051c4f1500515e5f1f7bd66db070d72484689e30f7eaca5681cfbfa4fbdb4c41ed2593059913b62fd3d664b76a556fb5630c7287
+Size: 12740
+MD5sum: 1c5c9af17f2a2496b45866a5aabb5d77
+SHA1: 48f010f48dc73d10ac98c1a2cfa7f8e1bb7e22d3
+SHA256: 1e6c182eeb95320274ad94650787f31a589e575a1ba48e4beb3747f3f9e67fc8
+SHA512: 2111ad2c6b0a469d748adeda08367f8bc6f170e69b65e131ce6e51da11c053374b540a8d0d42a1287317fc14d0c40a7d4683d046dc7a8a74032e18de8720a898
 Description: An iOS developer framework for unified hooking methods.
 Tag: role::developer
 Name: HookKit Framework
@@ -21698,11 +21676,11 @@ Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 8.0)
 Filename: ./debians/Roothide/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm64e.deb
-Size: 6344
-MD5sum: 6c2bb3b0e76fc6259adf807e584724ab
-SHA1: a75ec0c1df2d4daf0d71b83bdaa0f2a816615252
-SHA256: 9a50a746b00b1c8d7023aa4be705b66d5c5947c3d2b067d611d5c0fce3d528bc
-SHA512: 67b54fa6ca7ed3f2d3ca35ccb64ba651b9206e525ba15b45d5670b7342e35ad0107fbc30b904bdf85659aa93706b3914ff8ffa1946a01c8212e9d08da4569a16
+Size: 6220
+MD5sum: e1bbd83063b8741228eb4aa4e5dc271b
+SHA1: e7f1b31785707f60e1d24048c9e933478e9a3bd1
+SHA256: dbea61fc72797cf82dfeaa52ce7c2089328b9481f6314fc8965290ea3a44830c
+SHA512: bf633f7bdd0d76288941a513449018ee0f2d288c63e8741b5d3f67ef9c23fcd2ec7a12e784838fb76d31cac9a6aa320fa5cc88e529de1e2752b150021a145d1b
 Description: An iOS developer framework for modular software.
 Tag: role::developer
 Name: Modulous Framework
@@ -21716,14 +21694,33 @@ Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 8.0)
 Filename: ./debians/Roothide/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm64e.deb
-Size: 4188
-MD5sum: 46a8dad8361e24a2d24e88de13dc6cdb
-SHA1: 9bd812e48c57dfcb21a4f0bd7fe7c7e37947a71d
-SHA256: 9275a0b78c085112bade695c2555b14235dc3f9e290f9cb2b1f590cc31764238
-SHA512: 61b74f67c04c01e59f86d15edb5b1f7baa6569ade85e7ef8c60f0b5a754845a9ca2103e806f2f50a4d900dcc4b1d87d347be2ff8c603f3038cfa48d78e427f39
+Size: 4054
+MD5sum: 3e4123b2d75c70e53eccdb2afefa58f9
+SHA1: b339ac87251125b8586ba9993b8c54a79c11ba28
+SHA256: 2256f96921ae3bb416978cb49957f650f9988e3616b16f3807f5f199660b93b7
+SHA512: da93d559c0159d6e39451a55f94b5e0b7fdc4513b41825e0bfa9992ac9d30ddaf935d57df3745f5b8957feaf02033850b1d48bcdf2c74ace7fe9320985c2a059
 Description: An iOS developer framework for rootless tweak development.
 Tag: role::developer
 Name: RootBridge Framework
+Author: jjolano
+
+Package: me.jjolano.hkmodule.ellekit
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: HookKit (Modules)
+Maintainer: jjolano
+Installed-Size: 168
+Provides: me.jjolano.hkmodule.substrate
+Pre-Depends: me.jjolano.fmwk.hookkit
+Depends: ellekit
+Filename: ./debians/Roothide/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm64e.deb
+Size: 5192
+MD5sum: c1cfdb3b26b60b8d2615d37bca244f04
+SHA1: 6e1dbec295be7bf538e080a783bf3560126f1fa3
+SHA256: b95dd2b18c2a022ef67dc199670fedc51e800607cfe2a75e7018b79b8b9c302d
+SHA512: fad6b91bad22db10badd201e12f18e28b077f8b8e604c0eeb714fb325b8332866209644529f0369afe76b393a69765a0bd9566fa29fcac8bbb2a732b77f67acb
+Description: This module provides the ElleKit API for HookKit Framework.
+Name: HookKit Module (ElleKit)
 Author: jjolano
 
 Package: me.jjolano.hkmodule.fishhook
@@ -21734,13 +21731,32 @@ Maintainer: jjolano
 Installed-Size: 172
 Pre-Depends: me.jjolano.fmwk.hookkit
 Filename: ./debians/Roothide/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm64e.deb
-Size: 6788
-MD5sum: 682454aeb8fbccbe76a4dfd9fc53d472
-SHA1: 464bb0f6c87282668b6431043116dc01811ded6e
-SHA256: a2a124620d1fadb92f6ec0d2be2b68455275cd4c26d43b29da74466c97ae82f3
-SHA512: 0795e62e9ae64ec6b3e38ee2f35879619f5a9f8382e2804b37c25a24006d546947440f50c85be5bf96083fd0167c07d63738a36986934a134a2809a98dd78723
+Size: 6658
+MD5sum: 223e953f2dca2e5628e1ef5e8c4d3ea5
+SHA1: 76de807aef27f839fa1c8bd6b2315247adafab91
+SHA256: 9b0fa903216d096317aeaf0b8e5ec1160444c713e02a2c634f98fcab8c878a69
+SHA512: 4bf41d12dbcca7e415d5923861d592eee65f401381de4ac03c89145c423a3c8656bb5dd88f7a62b1b210f5daa3f117d1b2ae4b71c34f14954cbd1e0fbd04387d
 Description: This module provides fishhook library support for HookKit Framework.
 Name: HookKit Module (fishhook)
+Author: jjolano
+
+Package: me.jjolano.hkmodule.libhooker
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: HookKit (Modules)
+Maintainer: jjolano
+Installed-Size: 168
+Provides: me.jjolano.hkmodule.substrate
+Pre-Depends: me.jjolano.fmwk.hookkit
+Depends: org.coolstar.libhooker (>= 1.0.0)
+Filename: ./debians/Roothide/me.jjolano.hkmodule.libhooker_1.0.7_iphoneos-arm64e.deb
+Size: 5204
+MD5sum: 0462799f8eded4875f72717ba10da91a
+SHA1: 117f2323e6612b7500491309e8cfb1fc6e640dc1
+SHA256: 22a991dbb5a388ccda33f1530101566824f4f9e329b2ad3134228b800fcf709c
+SHA512: 5a7e12e7ad3691e1f5799642288e183bede30f3fa61c4b319ce713c8141c49197980288ae49552f2fe001c4737817897acce92c113e86a4ca2881c0c502bccd7
+Description: This module provides the libhooker API for HookKit Framework.
+Name: HookKit Module (libhooker)
 Author: jjolano
 
 Package: me.jjolano.hkmodule.substrate
@@ -21752,34 +21768,34 @@ Installed-Size: 168
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: mobilesubstrate
 Filename: ./debians/Roothide/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm64e.deb
-Size: 4252
-MD5sum: 2125226bf0af49dde2c4ab2c2c04257e
-SHA1: 0d9f36c4cb2fea129556a41baead12e399939798
-SHA256: cde0e4def3fab40dbdc2a150ea8020be7cb5041131756bf32394f756ebfceaa1
-SHA512: 6ebebb88a8c6f0daede567bda8383663fa5af88186653692385623106388381bae6c5bf576f263441806b45f0903b4246919b39338424711ef6079a0713b55d4
+Size: 4134
+MD5sum: 0193cb20449cea3518044b88740953d7
+SHA1: 23a147b6511f9b5d050cb2adfbe0aee2246cbf16
+SHA256: 6bf26712b000ebd06f9db15737c5f5693ab6c9ce9df66f852efb4684aab170ae
+SHA512: c80551dc74bf18574f8a9a13b403399d0a246ff91ffc3e6822778cc21b2eeeb2a29606caf48c2cfecbfd8a6a6a1494696ac50bab22013761e513b420a2e43e7e
 Description: This module provides the Cydia Substrate API for HookKit Framework.
 Name: HookKit Module (Cydia Substrate)
 Author: jjolano
 
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm64e
-Version: 3.7.6
+Version: 3.7.6~b1
 Section: System
 Maintainer: jjolano
 Installed-Size: 1076
 Provides: me.jjolano.shadow.beta
-Pre-Depends: rootless-compat(>= 0.9), dpkg
+Pre-Depends: dpkg
 Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
 Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
-Filename: ./debians/Roothide/me.jjolano.shadow_3.7.6_iphoneos-arm64e.deb
-Size: 138184
-MD5sum: 61784077e9fff1b9305e7b118457f46e
-SHA1: 324d16002414459843cec698149782a991fab52d
-SHA256: 0db526c2057b813c14c4a4f4eaa6154d9836515421b85bef178e8243a5b761de
-SHA512: 271583eaaeae9cfe4bbe5108dc298228d4848a502f16c59b669bda509cd80a501caeb4d1774bec795b3287713b42f31ce14b5689003deef4e82524ea75c7e6e0
+Filename: ./debians/Roothide/me.jjolano.shadow_3.7.6~b1_iphoneos-arm64e.deb
+Size: 104130
+MD5sum: 253d151699592fab383cd18e54612032
+SHA1: eb089c200d49d3ae0d91f004b7e6ca1c2b43bde8
+SHA256: ead730419ef1b57329f80153986df20c0dab598ca31b2cacab47beeee420d237
+SHA512: 12ca76624ddbfa44b3a6b86f40cd527f22da66935c36e0c89579937e59bb2269a295fcdb61ac7f2f92ea5d9332b84f3a202acd17c1e465443a2c31b9b3650f79
 Description: A modern jailbreak detection bypass.
 Name: Shadow
 Author: jjolano
