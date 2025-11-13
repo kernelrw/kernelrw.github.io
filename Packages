@@ -1199,6 +1199,26 @@ Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
 
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm
+Version: 0.0.7~beta1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootful/com.brend0n.volumemixer_0.0.7~beta1_iphoneos-arm.deb
+Size: 230652
+MD5sum: da96c0925d7c4293a73bd5cf1eb580ac
+SHA1: ffc3be2d314e99bb6d4ae7b36012c19632f980fd
+SHA256: cf02dfdf1d45932f9b391f6a184ea60d37563ade92a8393082e74f8ac5a3722c
+SHA512: a31e4a95be431da9f08c91d7b001fbbae4b046d8964ac7e3f6d911cceffccbee9bbcc3c65009af1ccba72d542f8b2da1db538f5978622ef0d737c74c011a10a9
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.castyte.iamchinese
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -11763,6 +11783,27 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.redditnoad
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.redditnoad/depiction.json
 
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm64e
+Version: 0.0.7~beta1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Roothide/com.brend0n.volumemixer_0.0.7~beta1_iphoneos-arm64e.deb
+Size: 286712
+MD5sum: 32cc157928d31820030db397f82bdf5e
+SHA1: fb4a5439d81949f6056e919f17b3be49e46c758f
+SHA256: 5ebbeb56d50250b35293586517a59902450db4e12a2e7df723f7d189ce2f62d0
+SHA512: 142b645c8039e0cf02c375fa12e2b5d14a2362f27c84e26199e86013ceac2d113ded3a91e42aff393dbd1ed160afdc3cf6944dfa4a138accc35b58fb79343f79
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.cannathea.afc2d-arm64e
 Architecture: iphoneos-arm64e
 Version: 1.1.7-21
@@ -13383,6 +13424,25 @@ MD5sum: 169bee72cbfe7d8d2d3c036b24f5bdce
 SHA1: 7776db34c96c0d9e8f15aa803b02e0a2c480f5d4
 SHA256: 6a9cc9bbcacbac863ce5c3888969723ee94533ef0e9b32e96a3dcaec2d34b95a
 SHA512: 7aad5dabc3c3e5a2da12889bce0b083981db024f9e06607cd9464ba3f8d1cb90e78fb0ad6ed3fee6a40b4434234967c7b27b094f93ab38e6ea458ade3390cb37
+Description: Library for Watusi and other WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.34
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47)
+Filename: ./debians/Roothide/com.f0u4d.watusitools_2.5.34_iphoneos-arm64e.deb
+Size: 11740142
+MD5sum: 8fe34661c2c48a3e6a084a8480e3f432
+SHA1: de743305ec4965df98eea94cfd5f1e010be1fc72
+SHA256: 783e8d607241f798f78dcf1127ee568537d28c58fb43cccda53182f0671fd0e3
+SHA512: ec25d0caec1176414e53b0207b05ddf84ab1ecf4f92fb7c2dd14e1a88f388552f16f1499d2bd9a7251f3c91355feafef21b57e7f1ead09b0b31f7c5d4e593cfe
 Description: Library for Watusi and other WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -24718,6 +24778,26 @@ Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
 
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm64
+Version: 0.0.7~beta1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.brend0n.volumemixer_0.0.7~beta1_iphoneos-arm64.deb
+Size: 234698
+MD5sum: 9a9c2a96b572b10001afc447e87d01cf
+SHA1: 094e7a8d814e187d6c330ca771a6014bc0b99dbc
+SHA256: 754db86a49cec27d17539d364652d569111ebdd73b6f5ced8dba0e70c3f99552
+SHA512: 5bc93a1d11ff38ff16d625b9ff20b7231b75d0aaaab6245256f4a7ecaa6c227a0b849d7da4da4dc38a8755b81ec6f7943013d0b300921874f593b0dcbd99f140
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.c1d3r.pulloverpro
 Architecture: iphoneos-arm64
 Version: 2.1.5-3
@@ -26998,6 +27078,24 @@ MD5sum: cc714bc8d230b8be43b39084e624f94c
 SHA1: 2c2b353d810d09b4293935cd09eca118335d79f6
 SHA256: 51712eee7a91552e17e49721458a13710eacbd3732fbeebeec754a2e99bfb2e6
 SHA512: cce0939bb6c1278067424d1456bcc2374e6175bc2d492e6282e7e9a29f4f8611f6f7a976f91df41b66108edd535d5dcfa347538d7da180a52fa419a1fa21ea17
+Description: Library for Watusi and other WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.5.34
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47)
+Filename: ./debians/Rootless/com.f0u4d.watusitools_2.5.34_iphoneos-arm64.deb
+Size: 5926304
+MD5sum: 98af7002b27ae40fd3849caed7aad131
+SHA1: 6bfd89b84d355420a5a542d391c80707f9a7b1da
+SHA256: 99323eb9536f3aa17cb496814e14d34dd2471c0fdfa09fca0826d07310eec935
+SHA512: 42a97db50d40689c3cd42798926d8bf965b022d649ce2ffd1376fd697cd7ddb42c1ac24efbfc6f9a1903247db27f8a8a20a1aea1627a4f459de7f35f059466b8
 Description: Library for Watusi and other WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
