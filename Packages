@@ -947,6 +947,23 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: file:///Library/PreferenceBundles/VezaPrefs.bundle/icon@2x.png
 
+Package: com.aridan.neofreebird
+Architecture: iphoneos-arm
+Version: 5.3-beta
+Section: Tweaks
+Maintainer: Aridan
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootful/com.aridan.neofreebird_5.3-beta_iphoneos-arm.deb
+Size: 6749888
+MD5sum: 3028999750ecfaf15d718293d2cf318d
+SHA1: 541d600704474af506a270736b74ff3ee2f6e0b4
+SHA256: 462cb64f999fa52e063b3c4f1268c1c6374f8b6ec5c891d44a1417e2596d9dcb
+SHA512: 9c1e13abe192507da49e3ae43c8291872fa1e648ce0bdd134d677a20c788319fbdb340d4e08eb0125751a0f33ab0e20f4e31be1bfd99ecc8b8670a976a54ab8e
+Description: Twitter as to be .
+Name: NeoFreeBird
+Author: Aridan
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIZv8J1EA7kmghMw_4ZJjjKsn2H_n4zO0JXrXu_QzGA&s=10
+
 Package: com.arya06.nappytime14
 Architecture: iphoneos-arm
 Version: 1.1.2
@@ -11551,6 +11568,24 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 Depiction: https://chariz.com/get/veza
+
+Package: com.aridan.neofreebird
+Architecture: iphoneos-arm64e
+Version: 5.3-beta
+Section: Tweaks
+Maintainer: Aridan
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Roothide/com.aridan.neofreebird_5.3-beta_iphoneos-arm64e.deb
+Size: 18472440
+MD5sum: e0a7bb5137653a0a1820b0c2fc2ebb8c
+SHA1: 0461a33eba28a21eb7b4c6d4f6ba50181e08d388
+SHA256: ed432f80a463590d02a542662211280763bb8b6336eeb30adeeaa99fb0d90784
+SHA512: 3d5ea2a5f69d2f09ef322ad61e3729590a7fb5d198459167ab5e532c96a441924e76f970506e19a72507c7bf98175cdc605c39384ed44642add495ef8739afc4
+Description: Twitter as to be .
+Name: NeoFreeBird
+Author: Aridan
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIZv8J1EA7kmghMw_4ZJjjKsn2H_n4zO0JXrXu_QzGA&s=10
 
 Package: com.arya06.nappytime14
 Architecture: iphoneos-arm64e
@@ -24560,6 +24595,23 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Icon: https://chariz.com/cdn/icon/veza/icon@3x.png
 Depiction: https://chariz.com/get/veza
+
+Package: com.aridan.neofreebird
+Architecture: iphoneos-arm64
+Version: 5.3-beta
+Section: Tweaks
+Maintainer: Aridan
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootless/com.aridan.neofreebird_5.3-beta_iphoneos-arm64.deb
+Size: 6837104
+MD5sum: a1af96f630224e315f231e3660d9c7c7
+SHA1: 499c29c6a4c3f774e45f447fda8eccf4aa2bf7dd
+SHA256: b5662dac089609c63b375ff29f2c00497765c202edf6310c43a451a7c9e70b26
+SHA512: c5a40fdff33032096ad7a2095f8b32ea7f58491d9360e1370b3b2f588345d499a327f078de7ba5ff59b7844b93919f83cb1c4f4bab265e52727c0a0e3014777d
+Description: Twitter as to be .
+Name: NeoFreeBird
+Author: Aridan
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIZv8J1EA7kmghMw_4ZJjjKsn2H_n4zO0JXrXu_QzGA&s=10
 
 Package: com.arya06.nappytime14
 Architecture: iphoneos-arm64
