@@ -2183,6 +2183,23 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
 
+Package: com.dev.stopreviews
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: dev
+Installed-Size: 296
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dev.stopreviews_0.0.1-1+debug_iphoneos-arm.deb
+Size: 8590
+MD5sum: 2183918238639075fc6d52a26d079a74
+SHA1: f2fee236d2aa019ebef32a4fb848aaa8b7ad9ebe
+SHA256: 5d95862bd1e43e38baf031a18c7e42148278bc4a7b6b3eb501eec346cd4e991e
+SHA512: 46a9cd724ec747652404e2ec2f64b3acf240a0a6e817dfa68520760e2ac398fbbc3ca44e7cda111cd4c8586d0189c30c16955cd7977b100b8fba5def8f8d1906
+Description: An awesome MobileSubstrate tweak!
+Name: StopReviews
+Author: dev
+
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -12551,6 +12568,24 @@ Author: DeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
+
+Package: com.dev.stopreviews
+Architecture: iphoneos-arm64e
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: dev
+Installed-Size: 296
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.dev.stopreviews_0.0.1-1+debug_iphoneos-arm64e.deb
+Size: 5130
+MD5sum: c06ed3e448f28a6be0ffc3e6382092e2
+SHA1: 02527323400a8bf3bfca1ca865e817d043b53fa6
+SHA256: 6677480fe67fad2bb4f6aa66e53d809d4a56569913d9334bf86a7034c36f029b
+SHA512: a2cbcbf16a5349d1a943743174bb74faaab49e3ffe87a03ef71e3765c5daf06db08154adbb703babaa82fc9488d80f97bf6835375c3a8fa0743d874c9b954942
+Description: An awesome MobileSubstrate tweak!
+Name: StopReviews
+Author: dev
 
 Package: com.devvix.nocshare
 Architecture: iphoneos-arm64e
@@ -25871,6 +25906,23 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
 
+Package: com.dev.stopreviews
+Architecture: iphoneos-arm64
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: dev
+Installed-Size: 296
+Depends: mobilesubstrate (>= 0.9.5000), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.dev.stopreviews_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4016
+MD5sum: abfa0d0522da2c1dfd749cbe00ac316d
+SHA1: 9d5f2c3df8125cea7c5609613f0eafa940ad989f
+SHA256: af1239d0f73574ad78656fab5f3f624e5b4708fe4810a1821b6315b1a05bca04
+SHA512: cd4f8f480eee7c56a4e4d8d54d2b411c354769b93ad589446321dc7f83c2722e9f769fa1f0f265b50e26ecd89edcdf5a4e33d465d95b02bfbf3ce2e6b28b2900
+Description: An awesome MobileSubstrate tweak!
+Name: StopReviews
+Author: dev
+
 Package: com.devvix.nocshare
 Architecture: iphoneos-arm64
 Version: 1.1.4
@@ -34721,6 +34773,26 @@ SHA512: d72745f06aa03b732cab28f0db62f17aab313863511ca15c4870a15b789bf6ee4177faf9
 Description: Prevent Zebra respring after installing
 Name: ZebraNoRespring
 Author: uz.ra
+
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm64
+Version: 0.4.2
+Section: System
+Maintainer: alias20
+Installed-Size: 532
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debians/Rootless/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64.deb
+Size: 72762
+MD5sum: 2d8bb61c5f09cd23ac2b9880ad4e638c
+SHA1: 02a4518b006e40cf6122368ff95ac14d66d72d23
+SHA256: b9a7e563abe9fcf32a8165dcf7a7b3e167683a86d7d6dd220da600940ffa2c1e
+SHA512: 6045c1247b367bf710bbaa85af8dfea6688d9502255ea4f73de2e6877ef7b8b2e3476c84dc9b29012f98008a634cc56933dbec4b5cf7625be51809caf6b843f7
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Name: vnodebypass
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
 
 Package: libkrw-dev
 Architecture: iphoneos-arm64
