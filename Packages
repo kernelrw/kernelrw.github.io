@@ -1236,6 +1236,26 @@ Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm
+Version: 0.0.7~beta2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootful/com.brend0n.volumemixer_0.0.7~beta2_iphoneos-arm.deb
+Size: 230508
+MD5sum: b16959867238b07b387ca7f2671a3697
+SHA1: ccedf80f888212381cc84ce4499d3b9fe43f28b3
+SHA256: a0c79743bb8ed713b048afc4646e87625b6a08348e8c7de4bcedf9ad0374a5c9
+SHA512: 119cae63ff5bedc82e97b0e23026239bf66d08a3b50291d13c46f182f0eb1813049d7d177ad6a57e082b8588d2f1b9084eb34747af13661270fdb2cece9dcd2c
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.castyte.iamchinese
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -11849,6 +11869,27 @@ MD5sum: 32cc157928d31820030db397f82bdf5e
 SHA1: fb4a5439d81949f6056e919f17b3be49e46c758f
 SHA256: 5ebbeb56d50250b35293586517a59902450db4e12a2e7df723f7d189ce2f62d0
 SHA512: 142b645c8039e0cf02c375fa12e2b5d14a2362f27c84e26199e86013ceac2d113ded3a91e42aff393dbd1ed160afdc3cf6944dfa4a138accc35b58fb79343f79
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm64e
+Version: 0.0.7~beta2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Roothide/com.brend0n.volumemixer_0.0.7~beta2_iphoneos-arm64e.deb
+Size: 286960
+MD5sum: 8e003beeb605f42259be02493c54ca7a
+SHA1: 9f76b19c643bb2e87fa4c129d5ddd78d692861bc
+SHA256: 90d8beae610b1697c0c828e7943d6b574b5e804597c1e33ee295ba8f10d9c8c3
+SHA512: dd40f337017a6be7cf6bcfdb13e5cdd782d6a4218ee7d7e75b26f0267a7d0bff154b9fb8c961ae4ca4cf203cf7a10068ef8a1f89860dee3d13ca9c3b9dba44af
 Description: Volume control for individual app
 Name: VolumeMixer
 Author: Brend0n <brendonjkding@126.com>
@@ -24878,6 +24919,26 @@ MD5sum: 9a9c2a96b572b10001afc447e87d01cf
 SHA1: 094e7a8d814e187d6c330ca771a6014bc0b99dbc
 SHA256: 754db86a49cec27d17539d364652d569111ebdd73b6f5ced8dba0e70c3f99552
 SHA512: 5bc93a1d11ff38ff16d625b9ff20b7231b75d0aaaab6245256f4a7ecaa6c227a0b849d7da4da4dc38a8755b81ec6f7943013d0b300921874f593b0dcbd99f140
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm64
+Version: 0.0.7~beta2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.brend0n.volumemixer_0.0.7~beta2_iphoneos-arm64.deb
+Size: 234604
+MD5sum: 6a3f82dcaa83b9a069f24337ae127a3b
+SHA1: 2bd0a9226f66dd64feeb060e1e3e6d7794b1a6a3
+SHA256: 4958b76091ab02a6c293bf4fbee42d793a2e00aef9b620b9e0102d80c2fd2570
+SHA512: cda93f2e8d9beaee8d9b6ec6274f78e17f6f05a7c379c806e425e7603059e71df987880c60a54971fc17a7fa0ec898eaf1ecffb44125b81ada6adafecc5d9651
 Description: Volume control for individual app
 Name: VolumeMixer
 Author: Brend0n <brendonjkding@126.com>
