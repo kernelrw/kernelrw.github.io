@@ -4043,6 +4043,32 @@ Name: UIScroller
 Author: iamdega
 Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
 
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 136
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debians/Rootful/com.ichitaso.iconorder_1.0.4_iphoneos-arm.deb
+Size: 10624
+MD5sum: afc86a9c4851986354bf0a56e5275fca
+SHA1: 54c6e7d2039b12aae36cb2974a7879f0aaac6b23
+SHA256: 5428ddfb5e3fdcaf814c869a3138329c62aad8fe30e306681a3c9ff57264b1fe
+SHA512: 64ad786f0e3668bfac43f227e97683d11b3f6e6dd4e8553be009601c5826e5f77dda6878aa18dd526bcb82dc25311f70a08e638a3928035f338614585c236bd2
+Homepage: https://ichitaso.com/
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios18.2
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+dev: ichitaso
+
 Package: com.if-she.cydia.vcam
 Architecture: iphoneos-arm
 Version: 0.0.1-1
@@ -13211,6 +13237,24 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fichitaso%2Ffile%2Frefs%2Fheads%2Fmain%2Fimages%2FIcons%2FiCleaner.png&s=180x180&f=webp
 
+Package: com.f0rd0w.120hz
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: F0rd0w
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.f0rd0w.120hz_1.0_iphoneos-arm64e.deb
+Size: 6848
+MD5sum: bfc818a07dab80714cce8a87531b6f74
+SHA1: ad14bd19d1733b0705be38df02aeb752df3991c2
+SHA256: d92681906c9def1071f13e64592941541cafc474f167f2aff25564cb10207d57
+SHA512: 6581964ff2487c4b3335cd5d58132f55b498e7f91633be7df578d878d16c116b65599958ed87ee35ccaa99e396c702e5ab010c22784ec698cec6710c6c5aa19f
+Description: 120Hz display for iP 13 Pro and up .
+Name: 120Hz
+Author: F0rd0w
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzdc14HqaxmwHDDF9PLXLNqs1MYhymkGMy3KXEvv20w&s=10
+
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64e
 Version: 3.4.18
@@ -14810,6 +14854,32 @@ SHA512: d1570a6f3b360a472fdc8b07d477979d23316f7d6e5f01c7a1c344d0715c335bae9aab4a
 Homepage: https://ichitaso.com/
 Description: Preserve custom icon layouts by Springboard Crash or reboots etc
 Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios17.5.1
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+dev: ichitaso
+
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 168
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debians/Roothide/com.ichitaso.iconorder_1.0.4_iphoneos-arm64e.deb
+Size: 62056
+MD5sum: c9379189ca4822a6975996149c82f3b0
+SHA1: be5e9982f7764729b20e164f9e892b1dba49a4ac
+SHA256: cf09a7444570ef9076176dde9ec518544be2fcc848d66168627bff834c5a5988
+SHA512: 3d464e49ab5e0ab3de6d311a05dada758a47aa27a2fc633f679901a03986e7bea319e60c3298f17e9de37c0037c81c223bbeea90580552ccae41e0ce1441a5c0
+Homepage: https://ichitaso.com/
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios18.2
 Author: ichitaso
 Name: IconOrder
 Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
@@ -26882,6 +26952,23 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fichitaso%2Ffile%2Frefs%2Fheads%2Fmain%2Fimages%2FIcons%2FiCleaner.png&s=180x180&f=webp
 
+Package: com.f0rd0w.120hz
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: F0rd0w
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.f0rd0w.120hz_1.0_iphoneos-arm64.deb
+Size: 5216
+MD5sum: 67534940ecbe1eae6906ee8c80003f42
+SHA1: 634c9e03d9ed8c48bdcbeaf0bfb4c4350f82cfd0
+SHA256: 5255c267faf4c80c1e55d1029547206dc09926e0acac6a3b863328971deadf23
+SHA512: 72363aa85de7498562ac4fa2f2afe0ed39ad34b837efeda984b681361d00ba5b00554574a6ca26b91b74399c2d87c84e817ebc10a26ded7437406cb9078e8ef8
+Description: 120Hz display for iP 13 Pro and up .
+Name: 120Hz
+Author: F0rd0w
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzdc14HqaxmwHDDF9PLXLNqs1MYhymkGMy3KXEvv20w&s=10
+
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64
 Version: 3.4.18
@@ -28582,6 +28669,32 @@ SileoDepiction: http://iarrays.com/sileo-depiction/simplus/simplus.json
 Author: IArrays <support@iarrays.com>
 Sponsor: IArrays
 Icon: https://iarrays.com/sileo-depiction/simplus/icon.png
+
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 168
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debians/Rootless/com.ichitaso.iconorder_1.0.4_iphoneos-arm64.deb
+Size: 10448
+MD5sum: 26e17e16a02ca911e520a9e2869581bf
+SHA1: 76613444ae9498dbe47a4ef9cd80ab307ac4ecbe
+SHA256: 2ba8e480fec5b8e516b6bc9d965c0d99182b0770fbab31f6c10bd18102b59d92
+SHA512: 3bf9b992b8aa8644320a2827c5aff1841fed97e1eb60f2b12b751331bf786772124e179b79be4fd2ebb76e4adf2b2afa26533af2443e2457949846adb0e0f939
+Homepage: https://ichitaso.com/
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios18.2
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+dev: ichitaso
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64
