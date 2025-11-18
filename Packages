@@ -21276,6 +21276,23 @@ Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
 
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm64e
+Version: 5.0
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 38488
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/dev.objcmsgsend.theta_5.0_iphoneos-arm64e.deb
+Size: 40321974
+MD5sum: 2fdea9deb10aa08a11ad14e9c8676e65
+SHA1: 3fbf2afae998b7f3aa743750adb1e0173a506fbe
+SHA256: 677c5a3d1dc541dfee54939a47591199eab40b2454a84bb95cfd768daa34201d
+SHA512: 880ee39340710bd74067ebf516cf0443eecf2971d46083f0ad1152d4c715835e200608165c4950d64a7ad898a756db15468b58a4f2f024d319dfc212608e8d21
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
+
 Package: dev.quiprr.redditna
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -34627,6 +34644,22 @@ MD5sum: 1cf37aa42c1bc4fa078070f54748e20c
 SHA1: 6774e89441da565857c39835771a0679124b139d
 SHA256: 31a3cd360ca2f5bd7257088377eaa228d009abc42979e8bd2d038078f56a13f1
 SHA512: 3a00cc7dbe9a7f44a4a00fc3cc4b4a3da38021dea39dbfc90c9c4da24f6de2785093f38ef17bb31a198eeb85ebb1e1617e95bae1d3546625c2e38b6204771111
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
+
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm64
+Version: 5.0
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 38488
+Filename: ./debians/Rootless/dev.objcmsgsend.theta_5.0_iphoneos-arm64.deb
+Size: 14504480
+MD5sum: 09adb388674a4e9fcd27feb1d3381297
+SHA1: 382ba4222e74568d58a1e7be237bb4e186ece7ab
+SHA256: 59e5b20c56ded7be238f9a5083f0aee0a578c38350167995215888bfab4e1251
+SHA512: 986605c2f2556dbb6f028fcb6de4f6c424ef53c0b4aacb67b40f51c8d750b51688461b049d63443778d85561037ac1eab7121b3b15ab6c15612acabcb017023b
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
