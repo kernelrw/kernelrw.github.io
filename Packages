@@ -6180,6 +6180,24 @@ Description: InjectIPA Tool
 Name: injectipa
 Author: Netskao
 
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Rootful/com.netskao.swiftgramcrack_1.1-1_iphoneos-arm.deb
+Size: 49980
+MD5sum: 6844afed269bec49044445accea0d074
+SHA1: fbcf3582b7057e17bd6c2ae5bc7fdb2c34c74d09
+SHA256: cb64f9f2a1f880321369bc68a80a6800a876349d3fac5748b62b86b14fe667ac
+SHA512: 38ab52efa4eb712abefca94d1e4598eabeff87cd797330b515d6a8167fba5dafdd4150ac66af22b3892bbc5ad01353a7742f9b4bf973cc38f24bc178587a7242
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
+
 Package: com.netskao.twitternoads
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -17453,6 +17471,25 @@ Description: Update Your Cellular Provider IPCC With a Click .
 Name: IPCC Installer
 Author: Netskao
 Icon: https://www.iclarified.com/images/tutorials/4209/15934/15934.png
+
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Roothide/com.netskao.swiftgramcrack_1.1-1_iphoneos-arm64e.deb
+Size: 78846
+MD5sum: 6b07b311b030f9c57859526a1e20a752
+SHA1: 6abaa4967dbdf06f1d3e87660ecb106c6dcfa3e0
+SHA256: 21e43513301e309540769066688a69b4bad1831c20dc98a263c6ad9944d5690e
+SHA512: f4b5747b944eab04048c358d7412a6d3cbb1b819a110f1db7fcde834da47d6eaa752dee1f1064b4244615a1083285250348bac2a88a6403151a000bd10289b01
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
 
 Package: com.netskao.twitternoads
 Architecture: iphoneos-arm64e
@@ -31253,6 +31290,24 @@ Description: Small Notification Banners. Support iOS15+
 Name: SmallBanners
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
+
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Rootless/com.netskao.swiftgramcrack_1.1-1_iphoneos-arm64.deb
+Size: 49752
+MD5sum: aa1614096b256256837e64c0bab3366a
+SHA1: 8013a4ab0e8150cf06ec4165e9fb21bf2b5642b4
+SHA256: dd8a628d44374bd9082cdccce793e0222ee68406f8abf84bd6a654ccde9bb46c
+SHA512: 1da2f06ef01010c050e5c3f9e27bff38c1ea250e72b0dc27a30161908cbc4e593c828f57b07264a0513861c1897e08a1bf9e24d4aed638c17ef222ae70ac4fb3
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
 
 Package: com.netskao.twitternoads
 Architecture: iphoneos-arm64
