@@ -6198,6 +6198,24 @@ Name: Swiftgram Crack
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
 
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Rootful/com.netskao.swiftgramcrack_1.1-2_iphoneos-arm.deb
+Size: 50340
+MD5sum: b3bb799f77ee553fc95c6ca2ede72828
+SHA1: c5dc51a3e85400b1ddb702367560334d60663843
+SHA256: 056a80d86f7cdc7f5d7bcf0fe18a696e86b3154401df76b9bd82185315711662
+SHA512: 0b880a1e8b771b0cea4d406ce5f069d2d3927e350f136236bd065ec0ff4232c34ae40e7d179bfbf2007d838721d14836253ca8fcf232fce78890874bfd06a41f
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
+
 Package: com.netskao.twitternoads
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -17486,6 +17504,25 @@ MD5sum: 6b07b311b030f9c57859526a1e20a752
 SHA1: 6abaa4967dbdf06f1d3e87660ecb106c6dcfa3e0
 SHA256: 21e43513301e309540769066688a69b4bad1831c20dc98a263c6ad9944d5690e
 SHA512: f4b5747b944eab04048c358d7412a6d3cbb1b819a110f1db7fcde834da47d6eaa752dee1f1064b4244615a1083285250348bac2a88a6403151a000bd10289b01
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
+
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Roothide/com.netskao.swiftgramcrack_1.1-2_iphoneos-arm64e.deb
+Size: 79458
+MD5sum: 47dd0a72194183c006ee4b2df8c545a7
+SHA1: c99524925623bb710a4026a9cb80b733c7bc23aa
+SHA256: 36378c3978b86797f79dd842ec1a6f8910fd8c9eeef6506793ea8a2c620b69b8
+SHA512: 00d27994a527ce9db3e6caec3837197684b1f5b21159b7c1a18f6d13d377391f1b12d8f7eb28b7e3dee37b7bddcc7736b499304d40b01b948c44e1e194064645
 Description: Swiftgram Pro, 支持当前最新版11.15
 Name: Swiftgram Crack
 Author: Netskao
@@ -31304,6 +31341,24 @@ MD5sum: aa1614096b256256837e64c0bab3366a
 SHA1: 8013a4ab0e8150cf06ec4165e9fb21bf2b5642b4
 SHA256: dd8a628d44374bd9082cdccce793e0222ee68406f8abf84bd6a654ccde9bb46c
 SHA512: 1da2f06ef01010c050e5c3f9e27bff38c1ea250e72b0dc27a30161908cbc4e593c828f57b07264a0513861c1897e08a1bf9e24d4aed638c17ef222ae70ac4fb3
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
+
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Rootless/com.netskao.swiftgramcrack_1.1-2_iphoneos-arm64.deb
+Size: 50108
+MD5sum: ea8ce71dbb6e353c47db80a66ebcc397
+SHA1: ef722d487e7bb8aded40867e920981f104b1768f
+SHA256: e035d060cd5fa1f782bda709387f54eecf2a0efc19d78648813ac131f7de725c
+SHA512: 4a16e8afd3efd1b6cec32fe78a1104e559bbd3d99e5ff13e718a14541218d9b1879bbbafcc7fdf85bc3bb45a95d8094307c9c409c1628c8690da20b719a87b2c
 Description: Swiftgram Pro, 支持当前最新版11.15
 Name: Swiftgram Crack
 Author: Netskao
