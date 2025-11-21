@@ -1256,6 +1256,26 @@ Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm
+Version: 0.0.7~beta3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1016
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootful/com.brend0n.volumemixer_0.0.7~beta3_iphoneos-arm.deb
+Size: 171716
+MD5sum: ad7f6b9957e8d460110af0d3b1a57516
+SHA1: 04fa6a6f4cf5849d93d3180555797ebdbe79643b
+SHA256: 1a0ea9f31664df8da1ff7c1d446fa6fb60d190f1678023ef01052e740ed05bbe
+SHA512: a7c5a7cad0a1c17538527cd8a247f2bd0f1b8b38ccfd4ec4093e7c3db5a9bcc10f39533ded40c277fad0b9a8de05fa970268dd3dc548a730e110db23626aa261
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.castyte.iamchinese
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -6211,6 +6231,24 @@ MD5sum: b3bb799f77ee553fc95c6ca2ede72828
 SHA1: c5dc51a3e85400b1ddb702367560334d60663843
 SHA256: 056a80d86f7cdc7f5d7bcf0fe18a696e86b3154401df76b9bd82185315711662
 SHA512: 0b880a1e8b771b0cea4d406ce5f069d2d3927e350f136236bd065ec0ff4232c34ae40e7d179bfbf2007d838721d14836253ca8fcf232fce78890874bfd06a41f
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
+
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm
+Version: 1.1-3
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Rootful/com.netskao.swiftgramcrack_1.1-3_iphoneos-arm.deb
+Size: 54068
+MD5sum: d6e8a3eb6183eb543a48bceafaad93ae
+SHA1: 97b9a99a362fd6da87bf2b10752d107068d5aac3
+SHA256: 288de07aab440b09f2d4ab32f3408139fc572f01b643f565f5fab1c5d3cce867
+SHA512: 49b7580037e8d416d59645f0ba12d9e866616611e150e942f7d3032051a82b747e6a1405f19d1f134af9151b7db05e9a7abada761738d667fd507bce5c7ebe30
 Description: Swiftgram Pro, 支持当前最新版11.15
 Name: Swiftgram Crack
 Author: Netskao
@@ -11959,6 +11997,27 @@ Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm64e
+Version: 0.0.7~beta3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1016
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Roothide/com.brend0n.volumemixer_0.0.7~beta3_iphoneos-arm64e.deb
+Size: 208660
+MD5sum: f10df57f6e72ebbc9194259835e0b7da
+SHA1: b48381beed455d3465d03be2f9867f68c730b464
+SHA256: 24fae7419b7a31ff022096a00bc31b7948836599917b2735c44336877c1ae3eb
+SHA512: b1e88ade63c87e3115c189009782bd78de3932823c3703a4ec22f42a9e286b4e5c3f3e5d2ee076ca88f3433a29c17b88f535518b0d470aee6b7c5943891041c8
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.cannathea.afc2d-arm64e
 Architecture: iphoneos-arm64e
 Version: 1.1.7-21
@@ -17523,6 +17582,25 @@ MD5sum: 47dd0a72194183c006ee4b2df8c545a7
 SHA1: c99524925623bb710a4026a9cb80b733c7bc23aa
 SHA256: 36378c3978b86797f79dd842ec1a6f8910fd8c9eeef6506793ea8a2c620b69b8
 SHA512: 00d27994a527ce9db3e6caec3837197684b1f5b21159b7c1a18f6d13d377391f1b12d8f7eb28b7e3dee37b7bddcc7736b499304d40b01b948c44e1e194064645
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
+
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm64e
+Version: 1.1-3
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Roothide/com.netskao.swiftgramcrack_1.1-3_iphoneos-arm64e.deb
+Size: 84804
+MD5sum: 92b57dc532a1354f782e9a9bda002834
+SHA1: 1ca1535939344483b17ec2daaf3988ff9cd88cc1
+SHA256: b99425d54c1f80592fea8d57bb7a85ff3dc7ff3adfb34c9a28ce949f2931344b
+SHA512: eca5788f72bf9c1ce3bc5ed796b8dabfc31a606079300b7a6961404660dba017c935401786b590bba7f27d3a4b490ea1ff666bbfa52c53c7a380e737b84c2ae8
 Description: Swiftgram Pro, 支持当前最新版11.15
 Name: Swiftgram Crack
 Author: Netskao
@@ -25107,6 +25185,26 @@ Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.brend0n.volumemixer
+Architecture: iphoneos-arm64
+Version: 0.0.7~beta3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1016
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.brend0n.volumemixer_0.0.7~beta3_iphoneos-arm64.deb
+Size: 174682
+MD5sum: 8ae90fe221106fed9db16cb9c35e0faf
+SHA1: a12d12d1e6f6755cdb587d3e13ff674446ff5b7e
+SHA256: aa00c79c06d0ea638b4d5a6a0617603afd622d7930d00e566dc94c46fb45c858
+SHA512: e5fcf25edb3839550949e11cbff6d55dacec8d54129dca07638b21b72244fc2a0c77edb3e469270e5aa343cbd790aa0d2a7b0e8a4fc7c0db032a1d88862c91ce
+Description: Volume control for individual app
+Name: VolumeMixer
+Author: Brend0n <brendonjkding@126.com>
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.c1d3r.pulloverpro
 Architecture: iphoneos-arm64
 Version: 2.1.5-3
@@ -31359,6 +31457,24 @@ MD5sum: ea8ce71dbb6e353c47db80a66ebcc397
 SHA1: ef722d487e7bb8aded40867e920981f104b1768f
 SHA256: e035d060cd5fa1f782bda709387f54eecf2a0efc19d78648813ac131f7de725c
 SHA512: 4a16e8afd3efd1b6cec32fe78a1104e559bbd3d99e5ff13e718a14541218d9b1879bbbafcc7fdf85bc3bb45a95d8094307c9c409c1628c8690da20b719a87b2c
+Description: Swiftgram Pro, 支持当前最新版11.15
+Name: Swiftgram Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.swiftgramcrack.json
+
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm64
+Version: 1.1-3
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Rootless/com.netskao.swiftgramcrack_1.1-3_iphoneos-arm64.deb
+Size: 53960
+MD5sum: 8bb7799ccfca67311b4a520d15a6f3db
+SHA1: 26987b2afdc5c907c8546ac3befefa9829012947
+SHA256: 9ea42068ff539f2d1faf36dab86b32ea05f6951d2994373546c3a65fe551ac36
+SHA512: 913bc4509e698a44a27179b548e184385ccc0024bb64a8e95f8e671183854961d1aa8055d2196cc297d924e499ab9e5f1cbf4ea95ca6b414e5b1553fe22a4e48
 Description: Swiftgram Pro, 支持当前最新版11.15
 Name: Swiftgram Crack
 Author: Netskao
