@@ -1345,11 +1345,11 @@ Section: Tweaks
 Maintainer: choco
 Installed-Size: 4532
 Filename: ./debians/Rootful/com.choco.tgextra_1.7.0_iphoneos-arm.deb
-Size: 2297768
-MD5sum: 3a86077a5e88b895e445830637f0039c
-SHA1: 5bb8921dbd360342779db1638d9c9d2402e433d6
-SHA256: 7fa3514892e96d98d7e1fb2320f70a026d729cff53722000c3d8624769ba466e
-SHA512: c4047e7acc6a3c9f06810a57991e47f2f4b17a7a382f1cb81d33655091d064bbd05af3a9f8c687f255d3171ea8992f5666402a9e8677cdb9a2209baf3bff78d2
+Size: 2300708
+MD5sum: dbeb70ce7dd7d2191a0d4f972284d56b
+SHA1: defd29f4072e6a5f698268086027ee8d37fb385f
+SHA256: 183a172e05f47ed23bc65f9825804fa1e14160ce966c1b088dce6551ee7c3202
+SHA512: cf73841eabdd8d23a1b28ecd24b762a0aee61228f1c9d4e9fb9390dc5ba71608bc96a91ac725703a1712a54e778d0be07654816b3c5e0199a3375eff4d5a2fad
 Description: Telegram Enhancement Tweak
   * Remove Ads
   * Hide some input states
@@ -12137,11 +12137,11 @@ Section: Tweaks
 Maintainer: choco
 Installed-Size: 4532
 Filename: ./debians/Roothide/com.choco.tgextra_1.7.0_iphoneos-arm64e.deb
-Size: 2299324
-MD5sum: 42f5ab237a4b5076a00cbd36c823a13f
-SHA1: 21f6778844a9e72b72e70eaf34f1b4d20e6bd7c6
-SHA256: 27f7338d0591c42861304874dc9c870bccbeb4c147f364ba0147686b1cc3dfc1
-SHA512: a3fea355ec16f492de675f72b75bbfa241e930448fbe8ba98ef27cf79aa2bb4377bf2819a884a4a79def9d0439041db4a512a9b0627be37fd4eb53cac727aa7c
+Size: 2296328
+MD5sum: b9a3640cfad94e31f39625649a94767f
+SHA1: 223cf556e254eeb47c6a2eecdd71687672938f4a
+SHA256: b352ce394d6a7739461da8a2cfc42960c21f5c51d43268f39948322ae9eac038
+SHA512: cb96310f07cfcc8dbc94b7b28e10244067d15a4bffac470e479d0a2dddf59d3e40e687c48a6a0a840a8e9343b7f67c4c0401663377a3bcd1495ce32979e7fbcb
 Description: Telegram Enhancement Tweak
   * Remove Ads
   * Hide some input states
@@ -25358,11 +25358,11 @@ Section: Tweaks
 Maintainer: choco
 Installed-Size: 4532
 Filename: ./debians/Rootless/com.choco.tgextra_1.7.0_iphoneos-arm64.deb
-Size: 2293272
-MD5sum: bf59bcc35bf4da2a94e3b9ce1d27065f
-SHA1: 41e9930997d6492c64994cb30cb963421b7b9655
-SHA256: 66d00042c0f1db795d29e8c5cf8a366d618a768b99ceefc5db57231e5acb0588
-SHA512: e1e5dd8526fe5986fd51b8cda78a1e927cc3b097f2ca8730dc3845c353e7fe17fa413e3a08967186bd54ceeaeb3bba79b5ee940d4a530e8ac0d0dae4bc4cbe2c
+Size: 2297940
+MD5sum: 65f6019c9cbefa72d362b540d7067c1e
+SHA1: 7ea8145cae4ca00fd69215f0ce4ed845203f8b65
+SHA256: f93a0b845f1ddbe1b7e3efe3211380036c1f84ce98e40b524e9a3591fb0ebd3e
+SHA512: 44736e6e499324691b5455588fd8572df2fa6770b29d6b27b534dc96352f8a69a4533976c6794922892019bfc78e9009b9f8b463e369688a6fd06d9e2c7189f9
 Description: Telegram Enhancement Tweak
   * Remove Ads
   * Hide some input states
