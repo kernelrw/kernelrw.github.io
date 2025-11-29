@@ -32250,6 +32250,24 @@ Name: NoNewTermNavBar
 Author: Nightwind
 Depiction: https://nightwinddev.github.io/depictions/?p=com.nightwind.nonewtermnavbar
 
+Package: com.nightwind.powersettings
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/Rootless/com.nightwind.powersettings_0.0.1_iphoneos-arm64.deb
+Size: 26046
+MD5sum: 625d89c6bfe69ecb302db2680c506e31
+SHA1: d12c1c8bf9196373974da81829b311cd53d0ded7
+SHA256: ae19d8a1c180cb943df410b55ad7ca77f3bbb14cbf5a75d025829d8e389d9a82
+SHA512: a751bafa4310550d14c0a5228d97601f2246a042d8c33109d6bb292ef9ac03b08bea0e5f2de4f91c33938173da3ea17ca85bdbdbc496c45f7bb2cadc3be0fa81
+Description: A simple tweak to add power settings to the Settings app.
+Name: PowerSettings
+Author: Nightwind
+Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+
 Package: com.nightwind.rootless-patcher
 Architecture: iphoneos-arm64
 Version: 0.0.1
