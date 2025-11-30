@@ -4761,6 +4761,28 @@ Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
 
 Package: com.macthemes.axolotl
 Architecture: iphoneos-arm
+Version: 2511
+Section: Tweaks
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 523
+Pre-Depends: mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 11)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: ./debians/Rootful/com.macthemes.axolotl_2511_iphoneos-arm.deb
+Size: 259162
+MD5sum: 6b357fe6bf62904150ae3e63d80b500b
+SHA1: dc07ff5107e076c64189b3783b96a11483681c2d
+SHA256: 667b842500c9b21206fedbf8115759b8782b33aa73a6702525c41220b1f8bcde
+SHA512: f4a23f0cf29bbe0b4b7fa4aca381ece2952f2909b86bffecb221c85f5e681e550989461230d92b74adf74417da92d5efc3beeaa6f6bc28c5f689f23ca306a7b2
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Name: Axolotl for WhatsApp
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
+
+Package: com.macthemes.axolotl
+Architecture: iphoneos-arm
 Version: 2504
 Section: Tweaks
 Maintainer: Aeneon <me@macthemes.me>
@@ -16269,6 +16291,28 @@ MD5sum: 101ef1aeaef79766ef6e9173bd13734e
 SHA1: 577b3316b543f5a9a51389b7f1d3d42b9f2261e6
 SHA256: f5f727ffcbc7cd0ed8a98c455cc7967829933c16b7f292b8c42e2dd4e59a6f5a
 SHA512: 93191928101f97a2e07635803417d9b037de209f4b0eb2c0b684244fa5bbcd691260fef1268b5751b0da904571d4f8e54e5189f9fc9226b7e705fb3369f07386
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios15
+Name: Axolotl for WhatsApp
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
+
+Package: com.macthemes.axolotl
+Architecture: iphoneos-arm64e
+Version: 2511
+Section: Tweaks
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 589
+Pre-Depends: rootless-compat(>= 0.9), mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 12)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: ./debians/Roothide/com.macthemes.axolotl_2511_iphoneos-arm64e.deb
+Size: 249250
+MD5sum: ad0e6e0ac39cb20f301b2059c73b0fa7
+SHA1: 51a7d4c6760815b5097ad55e2dca1c64546bf5da
+SHA256: ccb2e5d0ac767ce1c4519c45d8e781ba811ad088225e289ec94b79c3d1e2a908
+SHA512: a71bd8d6b52aacba0d12cdaab3606d028e4e7a66351aa1faf3823a82a7e8b724da2e9b3e35da44bc2cf404b59e39319a1acf238dc16a123bbbc2304261402ac4
 Description: Blocks WhatsApp Update Notifications …
 Tag: compatible::ios15
 Name: Axolotl for WhatsApp
@@ -30045,6 +30089,28 @@ MD5sum: 05b52f58e6239264f6777293f0cff2dd
 SHA1: cfca4b75d98bfd5944a6f44a69891e2db9a371cb
 SHA256: b7a5fc6be92396f95357a412afe9d261032f66deaf20d58fbe1c0372c7ffdccc
 SHA512: 265d328a906dc91ff0d5ec7c8e74740c457d8b78aca949750e99e90f111a9102254513615cef50de2d5c19c53cc9f8d8a9d6abc24fb019dc1855f558e2d6f720
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios15
+Name: Axolotl for WhatsApp
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
+
+Package: com.macthemes.axolotl
+Architecture: iphoneos-arm64
+Version: 2511
+Section: Tweaks
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 589
+Pre-Depends: mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 12)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: ./debians/Rootless/com.macthemes.axolotl_2511_iphoneos-arm64.deb
+Size: 256762
+MD5sum: b39bf901b3867e9441346262034a903e
+SHA1: ee50274653e6f9dc3b18c04cd73e048a481de034
+SHA256: 28c4314a6a60fb480d005d41ee5969ffae12bf30df1844a43e947f2abf405325
+SHA512: fd62fb3ca5010facae0c9b95815a65299f88319efee334c5ab2111be982d4040538eedf425f593dd0d1ef932cd339841c91a65b9268ac829417fbc67b95dab96
 Description: Blocks WhatsApp Update Notifications …
 Tag: compatible::ios15
 Name: Axolotl for WhatsApp
