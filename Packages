@@ -12512,6 +12512,31 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/ChargingBanner.bundle/icon@2x.png
 
+Package: com.cydiageek.customcallbackground
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Filename: ./debians/Roothide/com.cydiageek.customcallbackground_1.0.4_iphoneos-arm64e.deb
+Size: 59410
+MD5sum: a777d3b76c1e0856646e86c6fc124cbb
+SHA1: 5b77993d7515345b74403fd77de803533ac1d4ea
+SHA256: c708a38b739d1a06372171c2a136587e7452834887012a6264828c99c78fe254
+SHA512: 26a1681da8d1c93cb4db074c7147922dfdf89ba86d848aca2cdf46f9de3e63ab0fe5ffd73a87c2035e37c633997e39b7a76d201930d97f011f19dd7cb72ce54d
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customcallbackgroundDp
+Description: Choose Custom Calls Backgrounds Style!
+Tag: purpose::extension
+Name: CustomCallBackground
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customcallbackgroundDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/CustomCallBackground.bundle/icon@2x.png
+
 Package: com.cydiageek.customlpmm
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -14676,6 +14701,27 @@ MD5sum: 6ce8b2621c68fd1d73eaf4013f1741ba
 SHA1: 1b82488dbed821e9bfe46b3ad907359dbd4585e8
 SHA256: e9fb45a2feb7d5ac970d27b76c8e5c9c8d57a03db80cfaf5f098d0e430a96a04
 SHA512: b435a2c73ef4200761a902e9d7f5e2693ec5feddb916fb0b41ec359abd272d39d59560ac48c8e1f0900ebea6a77b17d6d21855bfa4ea490d79ec029b5de6a387
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.98
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 9436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.6.4)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Roothide/com.fouadraheb.watusi3_1.2.98_iphoneos-arm64e.deb
+Size: 6366222
+MD5sum: 7e87af1898220bfeb2ebe512bb6a25ea
+SHA1: 6cf4ae5149df69d291dabf6ee428c38d5126be19
+SHA256: d659f47b968b2a810622138a2efe1cc6924b0c9319c106bdb057e6662b089624
+SHA512: 2a2309e6c090656660a5a256d9d2f50cf0afb95fc6c725daa14a5ea2885dfa351aade63a2f044bd33c6401672be1e3e876e4c9c272d74eba0d84a626980e916b
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -26070,6 +26116,30 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
 
+Package: com.cydiageek.customcallbackground
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Filename: ./debians/Rootless/com.cydiageek.customcallbackground_1.0.4_iphoneos-arm64.deb
+Size: 50738
+MD5sum: a235726c32258b07221116b78bc902e9
+SHA1: b299d56a3c5b1523a059c0f96022f16848358124
+SHA256: e0c4e0dfe68f3a836d164d3454eb8ee1f81e0453068529b9c491c04045209a1c
+SHA512: d2680e1db300a2008f4278833b6fe2bd5b56a0b481e78efb8a63817f51ce71ec6cd4612e9b617eeaa24dc3e8363cce33c2962ffd4d5c6a204ca03e77afd9aeb7
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customcallbackgroundDp
+Description: Choose Custom Calls Backgrounds Style!
+Tag: purpose::extension
+Name: CustomCallBackground
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customcallbackgroundDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/CustomCallBackground.bundle/icon@2x.png
+
 Package: com.cydiageek.customlpmm
 Architecture: iphoneos-arm64
 Version: 1.0.2
@@ -28782,6 +28852,26 @@ MD5sum: ffb0dc07e538ac3e79a8a1eeccffc1e1
 SHA1: 1379749ee6f484cc0e5ebf523da3bc1e5fedcfd8
 SHA256: 88e93452d261d43cb47f90974287a274e952e6bca2f3907df046e48159be746e
 SHA512: 65c35f3c9406489670c0a4ace5b413ef6605284b55cc5f542a35b059f9680e531de0287404ef28f87d90848899d5991fa7c8980c91bcdab498cefb8d1dc49172
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.98
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 9436
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.6.4)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Rootless/com.fouadraheb.watusi3_1.2.98_iphoneos-arm64.deb
+Size: 2522114
+MD5sum: a110997f25155a2dd5d6386e6c2e958d
+SHA1: 355b7022fe26695bce40fd0293d0e4f5d150e79e
+SHA256: 48b0b5d39a0e08707f75261c0d82595da0d90755072da4e06dcbbf8aa51b3445
+SHA512: 661c88c57e1699da98cf8a22e61078d4fc53748954f48173bf4bc14baa0329169b966bbc9aa89af37b6320e2afa08146b73d35ca6dbd57e9b297d85a3159ca9c
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
