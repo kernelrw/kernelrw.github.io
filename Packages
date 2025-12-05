@@ -9290,6 +9290,24 @@ Name: KernBypass
 Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
 Author: akusio, Misty
 
+Package: jp.r-plus.menusupport
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: r_plus
+Installed-Size: 504
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/Rootful/jp.r-plus.menusupport_1.3.0_iphoneos-arm.deb
+Size: 35416
+MD5sum: cfe6ec2c2132060cb2c867de99638d74
+SHA1: 60e4e7bc492eb0561c5ef4644f361ffbce043c4d
+SHA256: f1d5476acf0ae7cb583a754a1bd9303616328c2d12cc7e80d28deb80201bae35
+SHA512: 57ef9c58942594e1798f1ff117f676ed0a7500dba960493271f527fc80932ef8f506926d591d7983f59c51f2dc883ba0e6f60874d6866ea2074c914739c33ee0
+Description: Simply plugin loader for iOS system menu.
+Name: MenuSupport
+Author: r_plus
+Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm
 Version: 0.0.3-1
@@ -22191,6 +22209,25 @@ Author: r_plus <anasthasia.r+doublecut@gmail.com>
 dev: rplus
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
 Icon: file:///Library/PreferenceBundles/DoubleCutSettings.bundle/DoubleCut@2x.png
+
+Package: jp.r-plus.menusupport
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Section: Tweaks
+Maintainer: r_plus
+Installed-Size: 504
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/Roothide/jp.r-plus.menusupport_1.3.0_iphoneos-arm64e.deb
+Size: 46244
+MD5sum: 02ec5775bd1c9f0642eaef5f7ce098b2
+SHA1: 8f72d48b643b56d5a550692b6a9e7c4bf19a03ca
+SHA256: 0ad4109e16e7e094d18ad178420e07645884d49354067053590eb65531d6e181
+SHA512: 9d158f79dadc840a9ae2ed86f2d61a0fc6f48d4e88e20cccebd20b4ac89c6dc03c9181f826c345ff125ee482eca6c3d0b328826e21d3c37969a0633b9a6352b0
+Description: Simply plugin loader for iOS system menu.
+Name: MenuSupport
+Author: r_plus
+Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
 
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64e
@@ -35898,6 +35935,24 @@ SHA1: cf11cb3cb817367084d509f3a4a11cf05a7de056
 SHA256: 376173f165752416294dda585f12452d6b07e5e644a51eb55e5a3ce93e3f77f2
 SHA512: a541578f151acbdda7cdba1383229507443eca95d17f938fd81b898a999bf5f6924e31c1216b95f7bd57ab60d560ecfc7ee589950f70456a85763b91ffcd6c44
 Description: Take control of your device's memory.
+
+Package: jp.r-plus.menusupport
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Section: Tweaks
+Maintainer: r_plus
+Installed-Size: 504
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/Rootless/jp.r-plus.menusupport_1.3.0_iphoneos-arm64.deb
+Size: 36338
+MD5sum: 7ddaea61f52efe352c4363e0c0ba3ccd
+SHA1: c0a576e193b273ff3cf98c5b8b0d964651d89a01
+SHA256: e1ee47a1d7e93f3bd4dfcab9a0cd46838d01cb755c4620b951271582eed0d7fc
+SHA512: 22de87ea959e60ea05c5fb7445366276b71b335e201bff8943c773be8db4840ea8d3d6359a0973f3dc286d6f90e1b3e64c7111f8b1926fbc062a725b73138b4d
+Description: Simply plugin loader for iOS system menu.
+Name: MenuSupport
+Author: r_plus
+Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
 
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
