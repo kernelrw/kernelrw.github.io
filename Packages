@@ -17134,6 +17134,24 @@ Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
 
+Package: com.nathan.oldmessagesui
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.nathan.oldmessagesui_1.0_iphoneos-arm64e.deb
+Size: 4172
+MD5sum: aa623837247f4d73b566bd138e1bdee7
+SHA1: ca6c7ca338f7587da995a108e09e83b969165061
+SHA256: 161dad18a4c03a22d77a45009c9cb973784c41571d445d23302b8273c07a6ad8
+SHA512: 987fcfd739ecf651c8d453908b401d039e4af33fa5aba6380784dbdc04032861e7af8ee59ca12806820853b2a835298262bce374954f3051cf8cf87db61900ef
+Description: Tweak that brings the old App selector back in iOS 17.0!
+Name: OldMessagesUI
+Author: Nathan Senter
+
 Package: com.nathan.pinghooker
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -21423,6 +21441,25 @@ SHA512: 587e4180325eef50183ef37eb4b13ef7eb40ea40813e04725d15c585859b62bfda8297d1
 Description: Hide WA Message/Ticks!
 Name: WANoMessageTicks
 Author: CydiaGeek <lucaluca86@aol.com>
+
+Package: com.yourepo.i0s-tweak3r-betas.autorotate1
+Architecture: iphoneos-arm64e
+Version: 1.0.7r
+Section: Tweaks
+Maintainer: i0s_tweak3r <djvs23@icloud.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.i0stweak3r.autorotate
+Replaces: com.i0stweak3r.autorotate
+Filename: ./debians/Roothide/com.yourepo.i0s-tweak3r-betas.autorotate1_1.0.7r_iphoneos-arm64e.deb
+Size: 114938
+MD5sum: 32453dc30b427c3452bcb08bac0fdfe5
+SHA1: d5921ff8db55f17de87d6c3980cbb8c36e348a01
+SHA256: 3cf510f8092948b25a43f515d14e8f3db600a8cbd3459eced020c9406d22432c
+SHA512: 3e24abb5f12882bbfb2fbf2a74d2d0637e68c714ed06065711f507ac23d2eea98ec3ef1e1f62926e33c5b662fa24ab077bab58c1dd00d716087833e5eb6c8dca
+Description: Allows two styles of autorotation affecting home screen, LS, CC, spotlight app switcher. It also allows you to hide labels, and rotate apps that don't normally allow rotations. Looks great on larger iPhone models. This tweak supports all devices including arm64e, iOS 14.0-16.x ROOTLESS
+Name: AutoRotate
+Author: i0s_tweak3r <djvs23@icloud.com>
 
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64e
@@ -31131,6 +31168,23 @@ Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
 
+Package: com.nathan.oldmessagesui
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.nathan.oldmessagesui_1.0_iphoneos-arm64.deb
+Size: 2922
+MD5sum: 0bf1ed37ca8317e7996a1b25fd3f9a1f
+SHA1: 9de2e6e9edee90cfcccbc1b47f41d8fba4d6d7eb
+SHA256: 9ae1c319b079894a601c4b13c3a2c368b00305162a60efd23324d8580964b355
+SHA512: ca23d25800b5b4265bd1764d0942c299d822e68ffc1f3d7fd1fd0a3dcb5cdb446043af907ba4d88332f44c989eda9e7b31dd41ff13c8c620c84fdfe3a1304fd5
+Description: Tweak that brings the old App selector back in iOS 17.0!
+Name: OldMessagesUI
+Author: Nathan Senter
+
 Package: com.nathan.pinghooker
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -34860,6 +34914,24 @@ SHA512: f6535c9bcfa2748586e35cbcdde92eb432765c88107371041559467f360e0ea162ea36ac
 Description: Hide WA Message/Ticks!
 Name: WANoMessageTicks
 Author: CydiaGeek <lucaluca86@aol.com>
+
+Package: com.yourepo.i0s-tweak3r-betas.autorotate1
+Architecture: iphoneos-arm64
+Version: 1.0.7r
+Section: Tweaks
+Maintainer: i0s_tweak3r <djvs23@icloud.com>
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.i0stweak3r.autorotate
+Replaces: com.i0stweak3r.autorotate
+Filename: ./debians/Rootless/com.yourepo.i0s-tweak3r-betas.autorotate1_1.0.7r_iphoneos-arm64.deb
+Size: 107366
+MD5sum: 31c7ca61d564f4b7c5b0637b81f5bf09
+SHA1: 97e9bfc43643a9aa3912545d6dbfafbbb62e18c2
+SHA256: eff291d97228161ff3e16ee1aa38ccfdeebafef3165f005c7a956d3e86d39496
+SHA512: 0c3f1f9303aa02a621426e99057c35ee88d1f99bfade45e0374c996c975ed2b291eb104795fcee773ff1011f21ac9f601011fb4de8529a97097cb9cf12d3901c
+Description: Allows two styles of autorotation affecting home screen, LS, CC, spotlight app switcher. It also allows you to hide labels, and rotate apps that don't normally allow rotations. Looks great on larger iPhone models. This tweak supports all devices including arm64e, iOS 14.0-16.x ROOTLESS
+Name: AutoRotate
+Author: i0s_tweak3r <djvs23@icloud.com>
 
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64
