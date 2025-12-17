@@ -14020,6 +14020,25 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.6.5
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47)
+Filename: ./debians/Roothide/com.f0u4d.watusitools_2.6.5_iphoneos-arm64e.deb
+Size: 11278486
+MD5sum: 9588986e82a5c84ed51783a1cc7a71a8
+SHA1: 735f12b2b33101f73462b95af48e50aafcfde66b
+SHA256: ec769acdafad7f1e008f11fdbd5ea6f109560adfff9535da82257dfaf05e386c
+SHA512: b9090ca7fa95df1e5f8e8b86b7f56c0df51ebece14496825cf9654aafce22edc9e2f7d01a9fc47e0806871d7c130b153413f68b1aba86a5f3c5f9bf9a6c99860
+Description: Library for Watusi and other WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -28278,6 +28297,24 @@ MD5sum: 642ce196dcaee6e1723b176c841d62c9
 SHA1: 034b2ef37e0c0425806ecfbe14eb3d9583a3ca40
 SHA256: 6ebd2976798c1bd5627111041a3e18f1d41f052792b8f59f4cb6e668b5e17895
 SHA512: 264b6b9d71c0c89596d6ba066251d1aac51138a49fda93cf4f7b3713150f92a53372b31889e1657341568779bf3bd8bc69b30d5b14f96613dae8c9ace4d0374a
+Description: Library for Watusi and other WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.6.5
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47)
+Filename: ./debians/Rootless/com.f0u4d.watusitools_2.6.5_iphoneos-arm64.deb
+Size: 5676070
+MD5sum: 9c65070f1c6507e5f808f32b73bf558b
+SHA1: 27b4d04b7d062e8c7a24c6d74de246a3ca178281
+SHA256: c7f07df8925ad5be090e2b18841df7b37bad4b1d51181b33ada7517553e1d0fb
+SHA512: 795b92c5751e9c59fbaabe6f68dc22bec131a7cc31f1e8d39497027e6f44703bb57bf023275018e69463c9711c93b386e5563753ee2b3ed28c69a7345c39ef9d
 Description: Library for Watusi and other WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
