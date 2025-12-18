@@ -16494,6 +16494,24 @@ Description: Shows where you touch the screen
 Name: ShowTouch
 Author: LonestarX
 
+Package: com.local.webkitcompat
+Architecture: iphoneos-arm64e
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Local
+Installed-Size: 352
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/Roothide/com.local.webkitcompat_1.5.1_iphoneos-arm64e.deb
+Size: 25974
+MD5sum: ac5257ee0a8fcbb43ead09c875d3a86c
+SHA1: f2ddcb673d48d0be0d9bb620d7d5b6f1fef0fa6a
+SHA256: 3dfb845e9a480bec52fadd9bfe6bb5e5184bff276840a3167c7d0d6fba611d11
+SHA512: 99f953b3ba9423ccf1799ee59ea6283adc86b2143cf32e3144b161cf1982869db1922cfccdeb8cdbe62e4bb52d52ef13d0306c238ff79fc67fdbbe2364a43861
+Description: Fixes iOS 16.3 JavaScript compatibility issues by transpiling class static blocks to older syntax. v1.3.7: VERBOSE LOGGING - logs every request, timing, headers, transpilation details to /var/mobile/Library/Preferences/com.local.webkitcompat.log
+Name: WebKitCompat
+Author: Local
+
 Package: com.m1337.varclean
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -30545,6 +30563,23 @@ SHA512: e0615c12a28d33659975b36e59d2676596415eff2a4d3e0a70fc2f05d70d429dada53863
 Description: Tweak for better AirPods compatibility on old devices
 Name: PodsGrant
 Author: Ruphane
+
+Package: com.local.webkitcompat
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Local
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/Rootless/com.local.webkitcompat_1.5.1_iphoneos-arm64.deb
+Size: 18298
+MD5sum: 6d035c930f0411d8a78d7378bcfe4612
+SHA1: 8350f0f412c7e554c3860f42250741fffb7e2abd
+SHA256: b07d3dbf8688bdd2b18e9ae4125930d45fdebbe91f5174d6abba293219cfa647
+SHA512: a1ccda9c6725a80dd510c913f4d39ca492499cf09a8bf7fe3138b9cd6ff15c7b214295510d12ab1331f288b835f8924e43684072824be443f13bff2580f044d3
+Description: Fixes iOS 16.3 JavaScript compatibility issues by transpiling class static blocks to older syntax. v1.3.7: VERBOSE LOGGING - logs every request, timing, headers, transpilation details to /var/mobile/Library/Preferences/com.local.webkitcompat.log
+Name: WebKitCompat
+Author: Local
 
 Package: com.m1337.varclean
 Architecture: iphoneos-arm64
