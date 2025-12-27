@@ -20490,6 +20490,25 @@ Author: shiftcmdk & waruhachi
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
 
+Package: com.shtm.flexibleexpression
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: SHTM
+Installed-Size: 4324
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.shtm.flexibleexpression_1.2.0_iphoneos-arm64e.deb
+Size: 3656632
+MD5sum: 53b596c3ba3ce529544a149aa20d3ce1
+SHA1: 0dddf76e5fa58206179ceac44d6a95c6f1eb4b5f
+SHA256: a34432aad2f734415c4b6dce9ebfa6021b4d5af00923c36062a8e69cfd82cc7e
+SHA512: d4070609cb83569cc31d7991900cb6017afb8dd6dbf1413b52ac81f93e5689422f0385ea4ebe337cf53abadb55b99321681d71722cb714c6a1f2ac327df3600d
+Description: Make Dynamic Island Great Again .
+Name: FlexibleExpression
+Author: SHTM
+Icon: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/FlexibleExpression.png
+
 Package: com.simon.switch
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -34465,6 +34484,24 @@ Name: AutoAlerts
 Author: shiftcmdk & waruhachi
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.tomaszpoliszuk.alertcontroller.png&s=180x180&f=webp
+
+Package: com.shtm.flexibleexpression
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: SHTM
+Installed-Size: 4324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.shtm.flexibleexpression_1.2.0_iphoneos-arm64.deb
+Size: 3645640
+MD5sum: 5ecefb4b04d350c4b9bb91f89cb74866
+SHA1: 488ea6551eace32ba83ec253023240ab69badb15
+SHA256: 6f6f661c7ad401752ada8a219c0013c96385c58b466b789fd6a1ac9204949ee4
+SHA512: ede693839e41afdfdf9f323db0186e2b0ec785651aa499e0045bba500de5eeae6e506d3fb9ce05ea80da81eb531cc61c6a46b727e779a226c1a59938040de78d
+Description: Make Dynamic Island Great Again .
+Name: FlexibleExpression
+Author: SHTM
+Icon: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/FlexibleExpression.png
 
 Package: com.simon.switch
 Architecture: iphoneos-arm64
