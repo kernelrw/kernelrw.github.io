@@ -21112,6 +21112,25 @@ Name: PlampyCC
 Author: sugiuta
 Icon: file:///var/jb/Library/PreferenceBundles/PlampyCC.bundle/icon@2x.png
 
+Package: com.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 5624
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debians/Roothide/com.sunshinesong.split-view-pro_1.4.1_iphoneos-arm64e.deb
+Size: 1503404
+MD5sum: b43f43ecf9cca270e99edb5fb55af5b6
+SHA1: 570756fc44744833a446c92a0dd738cfd3e3ac2e
+SHA256: 2aaa6c8de43330cf668e7b71b7ee71ffaad3477152d2a311e4fc4edeeee264cb
+SHA512: 441a230299c01d1e56a66401c76f48339ab8499783b4091cabbcc2e918f1406ecd704a18c6126cab0d6336fc93b9a9327f6f572c180249b5c04118ea1671b13b
+Description: Multi-Tasking as to be .
+Author: sunshinesong
+Name: SVP
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
 Package: com.telegram.return
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -34829,6 +34848,24 @@ Description: Customize CC on iOS15 & 16 with  animated icons and more
 Name: PlampyCC
 Author: sugiuta
 Icon: file:///var/jb/Library/PreferenceBundles/PlampyCC.bundle/icon@2x.png
+
+Package: com.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.sunshinesong.split-view-pro_1.4.1_iphoneos-arm64.deb
+Size: 1503492
+MD5sum: fc77d1eba74655ed4c938208642399dc
+SHA1: ef2df07e1522abed56563a62c85ad1836f4ecbd0
+SHA256: ba8b093420f13208409fac48db7961cd341ef3f53568e1fe0f3466abae68a3ab
+SHA512: 640e2061ea7ef6b092298bc41a95f9da17594a71f3c66b56b6b2c8d3ca1907b142034d8801d2ace36304ddce72053c3b04f4d258acaa745e19b895ed0ae33f6a
+Description: Multi-Tasking as to be .
+Author: sunshinesong
+Name: SVP
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 
 Package: com.swing.appstorenoads
 Architecture: iphoneos-arm64
