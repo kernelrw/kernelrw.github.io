@@ -17937,6 +17937,23 @@ Name: XinaA15 Switch
 Author: Fadh1l
 Icon: https://ipaomtk.com/wp-content/uploads/2024/06/photo_2024-06-07_15-21-53-300x300.jpg
 
+Package: com.neoney.roundedcc
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Neoney
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.neoney.roundedcc_1.0.4_iphoneos-arm64e.deb
+Size: 3588
+MD5sum: 2c61cff914c05458d9b8029349dad951
+SHA1: ec32bc99aeca9c00e08aa90dd2c7257315e4d149
+SHA256: 50627dc2e03d37ad761f08f0bae647125dc08c711eadde809946aac500a3fca7
+SHA512: 2dc2d452d1c321d7948aef3d450c64504e2769290088751ba3c92973a65a12f98df35ab4996aca55cddf294e1d1a31d517be3eb34415f6ca0cca3abd2d6bbb9c
+Description: The buttons and sliders in the control center have rounded corners. If CoolCC is installed, the function needs to be turned off, causing conflicts.
+Name: RoundedCC
+Author: Neoney
+Icon: https://repo.packix.com/media/com.neoney.roundedcc/icon.png
+
 Package: com.nepeta.axon
 Architecture: iphoneos-arm64e
 Version: 1.5
@@ -32322,6 +32339,23 @@ Description: XinaA15 Switch
 Name: XinaA15 Switch
 Author: Fadh1l
 Icon: https://ipaomtk.com/wp-content/uploads/2024/06/photo_2024-06-07_15-21-53-300x300.jpg
+
+Package: com.neoney.roundedcc
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Neoney
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Rootless/com.neoney.roundedcc_1.0.4_iphoneos-arm64.deb
+Size: 3704
+MD5sum: b497057b5acd07af59aa8fee6eb1ab60
+SHA1: 6e19b440078fff054dec2445ba42b370c4d11266
+SHA256: 4c6ba76c4b831a10be15c11c7711168c5efc307a53cf3671919a6b7dabbd9845
+SHA512: c157e3e91cbe41fc5f29bae07f39f1b1879f729261614093d5263cebf2f61820d53f83d60f0bd5a6830c5e7df648b5f192043ca3d162c7503018599fb594800a
+Description: The buttons and sliders in the control center have rounded corners. If CoolCC is installed, the function needs to be turned off, causing conflicts.
+Name: RoundedCC
+Author: Neoney
+Icon: https://repo.packix.com/media/com.neoney.roundedcc/icon.png
 
 Package: com.nepeta.axon
 Architecture: iphoneos-arm64
