@@ -14140,6 +14140,24 @@ Description: Calculator gains history!
 Name: CalculatorHistory
 Author: fiore
 
+Package: com.fouadraheb.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.6
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.fouadraheb.appdata_1.4.6_iphoneos-arm64e.deb
+Size: 1142624
+MD5sum: 4e74eadcc572b91f8198b10fa121335b
+SHA1: 20e0e6a14f61169c43f6a3b3bc54520c75fb0847
+SHA256: b6aba36f8e8beb6fe6eacbe4441cade53e26c747db0c7ba08cb0a7e8cd2e2780
+SHA512: 66a8399229e2b81c85cabd88d03856972f1d00a64c402159d432089c3654227da752d245ac33a7f433886fc0244dd375894e84cdeaf6ebebb1b319ec277586d1
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+Icon: https://avatars.githubusercontent.com/u/6962327?v=4
+
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64e
 Version: 1.1.14
@@ -28574,6 +28592,24 @@ SHA512: 2a78b68be1fe2001e68ebc6a08c3c916d6200b2e2bb57fba5d977f1db75cc92dbd148e3c
 Description: Calculator gains history!
 Name: CalculatorHistory
 Author: fiore
+
+Package: com.fouadraheb.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.6
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.fouadraheb.appdata_1.4.6_iphoneos-arm64.deb
+Size: 1141920
+MD5sum: f8545b6c7d7c65e6bdd0195bdcb4e01d
+SHA1: a0828fdef4e366496c5503a23584327fba795790
+SHA256: 47dffea1322d4985f80184b14f083e979c97949a8e0bef82bb75173367c1997f
+SHA512: 9130bfa4ef22353bfd6313805d8a15e1ff703977a51f3d577c94f35f3fdf42139b5e045a679d14a080408923de5ae06d567754a9fa30032c8bfc4d03fbc0cb89
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+Icon: https://avatars.githubusercontent.com/u/6962327?v=4
 
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm64
