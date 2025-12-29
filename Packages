@@ -21185,6 +21185,25 @@ Author: sunshinesong
 Name: SVP
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 
+Package: com.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 5624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debians/Roothide/com.sunshinesong.split-view-pro_1.4.3_iphoneos-arm64e.deb
+Size: 4403978
+MD5sum: 5ffd5dadfa16dca45b58371bf179b9dc
+SHA1: b39f933823117ba0cf235d303cba3d881f2404af
+SHA256: 87f34d7f9837cea93676edbb8ce048c3033308ec03a10368b5610027b2d4efdd
+SHA512: 3c69bee625ae439f66d5b7d2f51f40c7fc986e130210ba01eef0c807518392703f9ba9673b0361f72336ab66af49423f13745994e49447e896f8d43422c7dd73
+Description: Multi-Tasking as to be .
+Author: sunshinesong
+Name: SVP
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
 Package: com.telegram.return
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -34969,6 +34988,24 @@ MD5sum: fc77d1eba74655ed4c938208642399dc
 SHA1: ef2df07e1522abed56563a62c85ad1836f4ecbd0
 SHA256: ba8b093420f13208409fac48db7961cd341ef3f53568e1fe0f3466abae68a3ab
 SHA512: 640e2061ea7ef6b092298bc41a95f9da17594a71f3c66b56b6b2c8d3ca1907b142034d8801d2ace36304ddce72053c3b04f4d258acaa745e19b895ed0ae33f6a
+Description: Multi-Tasking as to be .
+Author: sunshinesong
+Name: SVP
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debians/Rootless/com.sunshinesong.split-view-pro_1.4.3_iphoneos-arm64.deb
+Size: 1495484
+MD5sum: ff10c9d35a4fe6574496f6696229673b
+SHA1: ded2e3fdabc3e398b8b7c6b0fd62279e16df27a1
+SHA256: 8d9ab1160b0e7260b3be57c2421c90ad6d69dbf8e482d81ca0afe239081937dc
+SHA512: 7079880ecdf229cce4962fc06365f9c223cd78ee635b6d5313a4f4de0cb6cc5577b8c4a9b4698417516fdb390788086e34dcec1491ddaa886ea593d6db53d95b
 Description: Multi-Tasking as to be .
 Author: sunshinesong
 Name: SVP
