@@ -8507,6 +8507,26 @@ Description: Carrier bundle verification bypass
 Name: CommCenter Patch
 Author: Pwn20wnd <itweakios@yahoo.com>
 
+Package: com.yousef.ostiktok
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Yousef
+Installed-Size: 696
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootful/com.yousef.ostiktok_1.1.0_iphoneos-arm.deb
+Size: 196848
+MD5sum: d9203d407182771920811a414e971b65
+SHA1: 2ec35c1b1959b26fd9b6b3e6deb7a585c661b98f
+SHA256: a4aef2746dbc70ca585757ea2cf3161347d7556e7d74fe58b08c8c5f8770a1c9
+SHA512: 3307104e2ff32aedf062514b7728f94b02c93434e1653221f21df6bdd1e7ba781e591a2ea7a203f797ad0936ff5203ac18849d023ddb9c2f7b579b6f127037c4
+Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
+Tag: cydia::commercial
+Name: OSTikTok
+Icon: https://i.pinimg.com/736x/7b/64/82/7b6482cf06d39fe6362f27aa9dd17aea.jpg
+SileoDepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
+Author: Yousef
+
 Package: com.zeroxjf.spoofgpt
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -21788,6 +21808,27 @@ SHA512: 3fefdf9c6af2a7c4b8c8f0960f6f354f4bf6040d638077a62d1bd7830a520bef66c3ed7e
 Description: 自定义系统全局开关颜色・Customize System-wide Switch Colors
 Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
+
+Package: com.yousef.ostiktok
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Yousef
+Installed-Size: 696
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Roothide/com.yousef.ostiktok_1.1.0_iphoneos-arm64e.deb
+Size: 283386
+MD5sum: d2cb8e6c6aaa9a73e09a4ffa39d258fc
+SHA1: 40f103bcacca261fa1fb071a7c89fad500f00573
+SHA256: 54e8e96833f3558db24cd06cceb7ea80c97a81de32c53078b25cdd3f1a06be58
+SHA512: f385a3bccd434260a22decc56fd745d250c8bb783e7a5c1325e6f6714fd0191316a044bcd39bb63fb3d1a013dcb1dc33c0d3fbc414334cdcd4a9023192475963
+Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
+Tag: cydia::commercial
+Name: OSTikTok
+Icon: https://i.pinimg.com/736x/7b/64/82/7b6482cf06d39fe6362f27aa9dd17aea.jpg
+SileoDepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
+Author: Yousef
 
 Package: com.zelvorn.keyrounded
 Architecture: iphoneos-arm64e
@@ -35520,6 +35561,26 @@ SHA512: 95319002f5bec0ffcaa512411f1c375979d7d9f7913881c2f0c39de6fe4e493a62f51c4e
 Description: Carrier bundle verification bypass
 Name: CommCenter Patch
 Author: Pwn20wnd <itweakios@yahoo.com>
+
+Package: com.yousef.ostiktok
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Yousef
+Installed-Size: 696
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootless/com.yousef.ostiktok_1.1.0_iphoneos-arm64.deb
+Size: 199824
+MD5sum: bf23f5fb0cf12969db6ea4c634fe7dc6
+SHA1: b3ad1b93adbe8a0801f32336da8fa5772df3c59c
+SHA256: ac45e380644b03fe5f549ca9781a750e1a1d38419306d5372744fae1ec892e2d
+SHA512: 5c42c37cf2f7db2f29fec7d31cc17a4cc9d4078ff4616bb53930970fa1d168fc2e9e4ece1b34ba97e6474b58f4b8bfa13e676b7abeaf279931d17a066d5bfaeb
+Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
+Tag: cydia::commercial
+Name: OSTikTok
+Icon: https://i.pinimg.com/736x/7b/64/82/7b6482cf06d39fe6362f27aa9dd17aea.jpg
+SileoDepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
+Author: Yousef
 
 Package: com.zelvorn.keyrounded
 Architecture: iphoneos-arm64
