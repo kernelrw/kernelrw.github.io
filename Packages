@@ -7449,24 +7449,6 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
-Package: com.pxcex.autoscroll
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debians/Rootful/com.pxcex.autoscroll_1.0.0_iphoneos-arm.deb
-Size: 25268
-MD5sum: d949850888e0ed2d02288ba3d9bc8b6d
-SHA1: 60fc02b135decc7968082025d2b303fe30b5e961
-SHA256: 65c4c57eb8bc59362372f6f3db940e3008b318d395171031b7b45aa0031fc4e2
-SHA512: b6660ea7714a6a39b9951e96bdac96df39016f76fbae8bef43b1fc32607cd63ca4e5c73a2f4bb3f9bb9905af4a8133c578a36c73252025dae5f7a24296ff83ff
-Description: Smart Auto Scroll & Faster Scrolling on all apps .
-Name: AutoScroll
-Author: pxcex
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xRd7K0RfX_B1KlS7ypYY0xRtNazHw2jWbIMy3ey7Bg&s
-
 Package: com.pxcex.facebooknoads
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -8506,26 +8488,6 @@ SHA512: 51a06c6c23cff48c3f5038499ac8af12c7f1e045fb5b08c67540832d2a60df6efb7e94c6
 Description: Carrier bundle verification bypass
 Name: CommCenter Patch
 Author: Pwn20wnd <itweakios@yahoo.com>
-
-Package: com.yousef.ostiktok
-Architecture: iphoneos-arm
-Version: 1.1.0
-Section: Tweaks
-Maintainer: Yousef
-Installed-Size: 696
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debians/Rootful/com.yousef.ostiktok_1.1.0_iphoneos-arm.deb
-Size: 196848
-MD5sum: d9203d407182771920811a414e971b65
-SHA1: 2ec35c1b1959b26fd9b6b3e6deb7a585c661b98f
-SHA256: a4aef2746dbc70ca585757ea2cf3161347d7556e7d74fe58b08c8c5f8770a1c9
-SHA512: 3307104e2ff32aedf062514b7728f94b02c93434e1653221f21df6bdd1e7ba781e591a2ea7a203f797ad0936ff5203ac18849d023ddb9c2f7b579b6f127037c4
-Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
-Tag: cydia::commercial
-Name: OSTikTok
-Icon: https://i.pinimg.com/736x/7b/64/82/7b6482cf06d39fe6362f27aa9dd17aea.jpg
-SileoDepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
-Author: Yousef
 
 Package: com.zeroxjf.spoofgpt
 Architecture: iphoneos-arm
@@ -19898,24 +19860,6 @@ Description: Scripts to build rootful & rootless with Filza. Plus other handy Fi
 Name: Filza Scripts
 Author: pwnd2e & Sudo
 
-Package: com.pxcex.autoscroll
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/com.pxcex.autoscroll_1.0.0_iphoneos-arm64e.deb
-Size: 4120
-MD5sum: 76ad086abc0938af2346f536bc5e413e
-SHA1: fbfb49a1e8900ec8c1abee6b5f1d45900e1c1282
-SHA256: 144c4cb60a6edd1d28f2859d37477b2215bdbd75ac9482564524a143930dff0c
-SHA512: f5a04a8dae31a92392ff7c595e673853dcca367d2106362507689db0f9c8e8c6ffe12b164139f4760c19422ad5a5312e5324a376b9ca6291b59cc5e885fb3ccd
-Description: Smart Auto Scroll & Faster Scrolling on all apps .
-Name: AutoScroll
-Author: pxcex
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xRd7K0RfX_B1KlS7ypYY0xRtNazHw2jWbIMy3ey7Bg&s
-
 Package: com.pxcex.facebooknoads
 Architecture: iphoneos-arm64e
 Version: 0.0.2
@@ -21808,27 +21752,6 @@ SHA512: 3fefdf9c6af2a7c4b8c8f0960f6f354f4bf6040d638077a62d1bd7830a520bef66c3ed7e
 Description: 自定义系统全局开关颜色・Customize System-wide Switch Colors
 Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
-
-Package: com.yousef.ostiktok
-Architecture: iphoneos-arm64e
-Version: 1.1.0
-Section: Tweaks
-Maintainer: Yousef
-Installed-Size: 696
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debians/Roothide/com.yousef.ostiktok_1.1.0_iphoneos-arm64e.deb
-Size: 283386
-MD5sum: d2cb8e6c6aaa9a73e09a4ffa39d258fc
-SHA1: 40f103bcacca261fa1fb071a7c89fad500f00573
-SHA256: 54e8e96833f3558db24cd06cceb7ea80c97a81de32c53078b25cdd3f1a06be58
-SHA512: f385a3bccd434260a22decc56fd745d250c8bb783e7a5c1325e6f6714fd0191316a044bcd39bb63fb3d1a013dcb1dc33c0d3fbc414334cdcd4a9023192475963
-Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
-Tag: cydia::commercial
-Name: OSTikTok
-Icon: https://i.pinimg.com/736x/7b/64/82/7b6482cf06d39fe6362f27aa9dd17aea.jpg
-SileoDepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
-Author: Yousef
 
 Package: com.zelvorn.keyrounded
 Architecture: iphoneos-arm64e
@@ -34104,24 +34027,6 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
-Package: com.pxcex.autoscroll
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: pxcex
-Installed-Size: 152
-Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/Rootless/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
-Size: 22876
-MD5sum: bf3d42067a5773cf937e5da0cd2e173c
-SHA1: 17d2fa9856b9ff9885dcb8d4e225d9eeb0a68dfc
-SHA256: 914cbf00d6a953ff55ebc5d5e2f04cd15314fd8383f5c930dce403490b08a67a
-SHA512: e57699a8d5142416f4d431037e6a8dc2f69d1539c06648673b6489ceb1672afed118862a60e146cc4dc57bb3c3b53759b240475e4a09e3ef53f2ecb723662084
-Description: Smart Auto Scroll & Faster Scrolling on all apps .
-Name: AutoScroll
-Author: pxcex
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xRd7K0RfX_B1KlS7ypYY0xRtNazHw2jWbIMy3ey7Bg&s
-
 Package: com.pxcex.facebooknoads
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -35561,26 +35466,6 @@ SHA512: 95319002f5bec0ffcaa512411f1c375979d7d9f7913881c2f0c39de6fe4e493a62f51c4e
 Description: Carrier bundle verification bypass
 Name: CommCenter Patch
 Author: Pwn20wnd <itweakios@yahoo.com>
-
-Package: com.yousef.ostiktok
-Architecture: iphoneos-arm64
-Version: 1.1.0
-Section: Tweaks
-Maintainer: Yousef
-Installed-Size: 696
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debians/Rootless/com.yousef.ostiktok_1.1.0_iphoneos-arm64.deb
-Size: 199824
-MD5sum: bf23f5fb0cf12969db6ea4c634fe7dc6
-SHA1: b3ad1b93adbe8a0801f32336da8fa5772df3c59c
-SHA256: ac45e380644b03fe5f549ca9781a750e1a1d38419306d5372744fae1ec892e2d
-SHA512: 5c42c37cf2f7db2f29fec7d31cc17a4cc9d4078ff4616bb53930970fa1d168fc2e9e4ece1b34ba97e6474b58f4b8bfa13e676b7abeaf279931d17a066d5bfaeb
-Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
-Tag: cydia::commercial
-Name: OSTikTok
-Icon: https://i.pinimg.com/736x/7b/64/82/7b6482cf06d39fe6362f27aa9dd17aea.jpg
-SileoDepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
-Author: Yousef
 
 Package: com.zelvorn.keyrounded
 Architecture: iphoneos-arm64
