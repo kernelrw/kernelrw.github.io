@@ -2305,14 +2305,15 @@ Maintainer: developlab
 Installed-Size: 380
 Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
 Filename: ./debians/Rootful/com.developlab.extractapp_1.2.3_iphoneos-arm.deb
-Size: 106934
-MD5sum: 31551b8ea75d95b6238d910f8288b566
-SHA1: 9317ccd349e33fd8faf59b686b3fd3edbe7c8388
-SHA256: 81280683bd980c62ac95a5086d2a26a0e544efab7096e0a110b7a29e8c581d66
-SHA512: af287b8bf0f4e354ef26181d2883f4b42af4bbd0eef130b4fadcc6f06281fdfc535e34cf1d028b2d7278ef6a55d4693da5f4eb5975f6e7dbd2821ece2766cdb7
-Description: Extract you install app.
+Size: 107184
+MD5sum: 506190c7b0b47c6dec71d513217637e6
+SHA1: 0a3fba7b6b84c7464beca57b1013bb1356e84428
+SHA256: dc8fd9bcbe10f4e0b42d10e7ddf0131d2fdcda34d02fb3b1dde78e7f24c38f90
+SHA512: 0b0052138213acc397f31a88380228b664c10161f769e7a18cddbc830274ed7e1921501a3d19f1bda4b3fceaef40d3a6af268c07c92f3bfd731ca9425f41ee4d
+Description: Extract your installed apps
 Name: ExtractApp
 Author: developlab
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrOfl7eSAWp7HZVCyFsxOh_41NS7eSzNZGN6SL7aFGg&s=10
 
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm
@@ -12977,14 +12978,15 @@ Installed-Size: 380
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
 Filename: ./debians/Roothide/com.developlab.extractapp_1.2.3_iphoneos-arm64e.deb
-Size: 136228
-MD5sum: 9f9e161c2c9c33c3b2e69f4cd3894d1e
-SHA1: 158a0e0f7256d8f7aec6bc7d11e48644a3b70a60
-SHA256: 146956e4a7ff688932e525aa7d96eff2f82302495b591b251fb76d911f6c72fa
-SHA512: f96dcb8459abcf4db6a9470b660c45bbfc311a5b0a94dd236e736c5076d9220135720286a7a687d9705dc9003c5b093e8dc6415368f3929779c966f7eb53bb9d
-Description: Extract you install app.
+Size: 136418
+MD5sum: bc34ce249d2dc1118f969eb68b3b20b8
+SHA1: ea5015bb04da3f8a2a00b372a9b340ffba434ffe
+SHA256: 1755560914e4323745d151cad8086599aa65de1d350d681154cf0b0f49d23576
+SHA512: 79704fa74098c0885810b01d4968c286bc03f7a982c81e748b4ab66ad9c7a04010ac687bafe14e0967d1ee071f8c9b240b697a3cbefa5c74e7241c54bcbfc910
+Description: Extract your installed apps
 Name: ExtractApp
 Author: developlab
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrOfl7eSAWp7HZVCyFsxOh_41NS7eSzNZGN6SL7aFGg&s=10
 
 Package: com.devvix.nocshare
 Architecture: iphoneos-arm64e
@@ -27143,14 +27145,15 @@ Maintainer: developlab
 Installed-Size: 380
 Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
 Filename: ./debians/Rootless/com.developlab.extractapp_1.2.3_iphoneos-arm64.deb
-Size: 105352
-MD5sum: f6f42602624b2c9d02f0ba542decc58a
-SHA1: 7287cb0d4ab88ccd4ad6eb7e3a67688d20835422
-SHA256: 55fc49e2bfee139761fc35eab47f36084461b61e912786c507002856597f92ba
-SHA512: 88c858879cc8335dd4c0dbb6f534ac73775a6bb43ad1386cbe0b59600cf5d91349fb574a3b520d08ee3477ca87a416712cfcaadc0cc6a1ff4b8fe24d51ba04de
-Description: Extract you install app.
+Size: 105492
+MD5sum: 82669fe94081295e8f25f14975c0ceca
+SHA1: f0497a6d122bd6ad53fec3531f95a19f9c5cc815
+SHA256: 8e2b1425556a0b2eb0f87a0a85e0d5bd6304ccfd4d95a6b0357a5eb72f4fe2d8
+SHA512: a7c49d90c612961fef7bb2e1ab52f29e154ed3e0b03b7e3814ac87d327c19e3f7934528d6e8f0c807727fc25f833135dace6f0df422959e109c21c0f72217780
+Description: Extract your installed apps
 Name: ExtractApp
 Author: developlab
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrOfl7eSAWp7HZVCyFsxOh_41NS7eSzNZGN6SL7aFGg&s=10
 
 Package: com.devvix.nocshare
 Architecture: iphoneos-arm64
