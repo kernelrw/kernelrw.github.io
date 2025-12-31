@@ -16216,6 +16216,23 @@ Name: Lisinopril_SuperQi_Default
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
 
+Package: com.kernelrw.superqibackupp
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Applications
+Maintainer: kernelrw
+Filename: ./debians/Roothide/com.kernelrw.superqibackupp_1.0_iphoneos-arm64e.deb
+Size: 45258744
+MD5sum: 6330d253617de3e0e2cfaaecba2be1fb
+SHA1: 3463cafe0e362e134c2b8c77856da75ff716a1d7
+SHA256: e0cf2067fc7484dccb260b45acb0f2bd609935562508272416942fe9d7c285eb
+SHA512: 7076463981391e4811a162dea4d4f56c14f14ff76db9169d46cf2788b3ed8e767c4baa6a20ffbde68257b9458950720c3844ae2f4514c421ce87d3205b2608cd
+Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
+Tag: cydia::commercial
+Name: Lisinopril_SuperQi_Default
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
+
 Package: com.kernelrw.visibleisland
 Architecture: iphoneos-arm64e
 Version: 2.0
@@ -30571,6 +30588,23 @@ SHA512: ebd3dd8446ca5479c918287eef3eb5a88fd765560b82f35fc17771b94bb6c823eb504b41
 Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
 Tag: cydia::commercial
 Name: Lisinopril_SuperQi_Default
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
+
+Package: com.kernelrw.superqibackupp
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Applications
+Maintainer: kernelrw
+Filename: ./debians/Rootless/com.kernelrw.superqibackupp_1.0.2_iphoneos-arm64.deb
+Size: 45258744
+MD5sum: 6e60a90573ef2df1a5af605292e34473
+SHA1: f2343c4df71f7e39460538c2469eb92e1f873e9b
+SHA256: ea7f554cb6bfcafc7c9d0a2a4389e33e5e2a502053c4270464cb049fd45f56a8
+SHA512: 917391d1c57d7de22f119b39ef853425c1d3b222d4897c2aa7a0e989b504059327d703727d3079d8f077b72a722b19b3c87f79baf74c6889e79f52eabd009741
+Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
+Tag: cydia::commercial
+Name: Fade_SuperQi_Default
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
 
