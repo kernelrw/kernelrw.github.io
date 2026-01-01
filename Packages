@@ -16199,57 +16199,6 @@ Name: Sileo Respring ~ Dopam1ne
 Author: Nightwind
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/sileorespringfix.png
 
-Package: com.kernelrw.superqibackup
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Applications
-Maintainer: kernelrw
-Filename: ./debians/Roothide/com.kernelrw.superqibackup_1.0.1_iphoneos-arm64e.deb
-Size: 45258744
-MD5sum: dcc4cd4295d9731ec7d2e1ff678e48b8
-SHA1: b09b63f482d675f63bcd7b462dd76b07b4bc6f88
-SHA256: 9c89ea703384f5df1c039742e550b970514be8e641c112bfec1be97ed4a42c3c
-SHA512: 5b6969ef137ba657ba5caa4b461e5f3674604b8f4dd97f47f5b608d3f03d43a310d8cfca377f8713c0b5cecf562df9875b458928b245bfc50c265ed68fc303f9
-Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
-Tag: cydia::commercial
-Name: Profinal_SuperQi_Default
-Author: kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
-
-Package: com.kernelrw.superqibackup
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Applications
-Maintainer: kernelrw
-Filename: ./debians/Roothide/com.kernelrw.superqibackup_1.0_iphoneos-arm64e.deb
-Size: 45258744
-MD5sum: 47726db58091622cddd91c669e64f543
-SHA1: b817e392cb8c02de734fb940bc071042fd34067c
-SHA256: d153d9f8c43ba3ee9f945f772b708c74765ba6681ada9f033ebacb86d163da16
-SHA512: 7906da10647a7620dcda31f289293dd0b7d7f7657d49f2c28553c8e5e5853970e1f036df204062d4b353bbba02694d6f25c2c0ea417054c0af4b21a83a6b2cad
-Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
-Tag: cydia::commercial
-Name: Lisinopril_SuperQi_Default
-Author: kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
-
-Package: com.kernelrw.superqibackupp
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Applications
-Maintainer: kernelrw
-Filename: ./debians/Roothide/com.kernelrw.superqibackupp_1.0_iphoneos-arm64e.deb
-Size: 45258744
-MD5sum: 6330d253617de3e0e2cfaaecba2be1fb
-SHA1: 3463cafe0e362e134c2b8c77856da75ff716a1d7
-SHA256: e0cf2067fc7484dccb260b45acb0f2bd609935562508272416942fe9d7c285eb
-SHA512: 7076463981391e4811a162dea4d4f56c14f14ff76db9169d46cf2788b3ed8e767c4baa6a20ffbde68257b9458950720c3844ae2f4514c421ce87d3205b2608cd
-Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
-Tag: cydia::commercial
-Name: Lisinopril_SuperQi_Default
-Author: kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
-
 Package: com.kernelrw.visibleisland
 Architecture: iphoneos-arm64e
 Version: 2.0
@@ -30590,57 +30539,6 @@ Description: Rosemary font for A-Font
 Name: Rosemary
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
-
-Package: com.kernelrw.superqibackup
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Applications
-Maintainer: kernelrw
-Filename: ./debians/Rootless/com.kernelrw.superqibackup_1.0.1_iphoneos-arm64.deb
-Size: 45258684
-MD5sum: 53a3c0b550114acba95fd86e82fae90a
-SHA1: 05252ba27fdc8f04a25812b99597b6bd41cb62d5
-SHA256: 75498e508ca062f1f88291e89abf97c8ff3acc67aa086a0c9a34a52223a39650
-SHA512: a49b6c1511be1624fed94f69a7d5e3942e583e677314f962bddb38edff77b91c4eae048e51f552436fb89798fcfe8afd2be3dc59b1688959b898fbda9fc486a4
-Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
-Tag: cydia::commercial
-Name: Profinal_SuperQi_Default
-Author: kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
-
-Package: com.kernelrw.superqibackup
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Applications
-Maintainer: kernelrw
-Filename: ./debians/Rootless/com.kernelrw.superqibackup_1.0_iphoneos-arm64.deb
-Size: 45258676
-MD5sum: 2814c825b37a47c3dbc1bbdb1adb2173
-SHA1: d51631a155c1fa3915fe9b5fdbfb64375e8dad95
-SHA256: 4685005f5503fa884992aa2b8a189eb9380f90125b5926323b4986757472f36d
-SHA512: ebd3dd8446ca5479c918287eef3eb5a88fd765560b82f35fc17771b94bb6c823eb504b41b90d3bb240a532d188f0a901c4e066d3d61c22fa5d98293e199d3883
-Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
-Tag: cydia::commercial
-Name: Lisinopril_SuperQi_Default
-Author: kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
-
-Package: com.kernelrw.superqibackupp
-Architecture: iphoneos-arm64
-Version: 1.0.2
-Section: Applications
-Maintainer: kernelrw
-Filename: ./debians/Rootless/com.kernelrw.superqibackupp_1.0.2_iphoneos-arm64.deb
-Size: 45258744
-MD5sum: 6e60a90573ef2df1a5af605292e34473
-SHA1: f2343c4df71f7e39460538c2469eb92e1f873e9b
-SHA256: ea7f554cb6bfcafc7c9d0a2a4389e33e5e2a502053c4270464cb049fd45f56a8
-SHA512: 917391d1c57d7de22f119b39ef853425c1d3b222d4897c2aa7a0e989b504059327d703727d3079d8f077b72a722b19b3c87f79baf74c6889e79f52eabd009741
-Description: Backup for SuperQi App to fix ban and errors , ready for restore via Crane.
-Tag: cydia::commercial
-Name: Fade_SuperQi_Default
-Author: kernelrw
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHUVXz7q_kI92jDuoKIE2W6sQM5f4APo1gxFL6cgB5Q&s=10
 
 Package: com.ketty.tweaktool
 Architecture: iphoneos-arm64
