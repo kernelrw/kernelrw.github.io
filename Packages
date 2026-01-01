@@ -10066,6 +10066,23 @@ Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
 Author: waruhachi
 
+Package: moe.waru.jikan
+Architecture: iphoneos-arm
+Version: 2.2-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/moe.waru.jikan_2.2_iphoneos-arm.deb
+Size: 51044
+MD5sum: 04bf8630c8cb0ea8438d24ba363368b9
+SHA1: 2dc49f71bd3f08e3ce8b97986263ede32242742d
+SHA256: 5763be21c7acfdc8cf2a6d68135ae27626dd68f30818ae0fefade4c53adef8ab
+SHA512: 4d19b6850c59228d1c3d0384b346f58fb1f45b1eeb16153d04ad6a228b8c44e0d6b17f8c9b496ecf42d98ab756667839a5e644f4260946c7771034f74dea785e
+Description: Show estimate time left to full charge on your lock screen
+Name: Jikan
+Author: waruhachi
+
 Package: moe.waru.nokeyboardglobe
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -23380,6 +23397,23 @@ MD5sum: 39454423ce73ef82fad00c33062d8159
 SHA1: 98bbc8217dd46c924e5da8cf63b9d67fb7efe2ff
 SHA256: 13b6a44cec64a6e449263f1350f27fbba70dfb00900fdea11ec183f449e9859e
 SHA512: 491a2bbdceffe2bb582ac0fbdb621839fc0adbcf21c5ec7213e0f205e304fac01540b4078031af447472c46e26008d001ac448c494e254c1758aba4afe5730f5
+Description: Show estimate time left to full charge on your lock screen
+Name: Jikan
+Author: waruhachi
+
+Package: moe.waru.jikan
+Architecture: iphoneos-arm64e
+Version: 2.2-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 508
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/moe.waru.jikan_2.2_iphoneos-arm64e.deb
+Size: 47700
+MD5sum: ee7f92bab1bbf12b0c8fc1f1bd373f05
+SHA1: 1a15fb5ff791bdb73c6aa49de005fc84b28c4e33
+SHA256: aef1a1df528e135a58afef4182fc15acb202539270975f393824b68af1960618
+SHA512: 82da08c83d8f375b9e201cf2bbec21ddea1c7a5e8fd0bd2c57bb964bdb4d80cbb06b80042292dadf26a7b47552b84bc8396e1fa90eaa56f76fcf60d7fa67d6aa
 Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
 Author: waruhachi
@@ -37454,6 +37488,23 @@ MD5sum: 1563cc17a24ccf255ad9ad6d0ee71ff6
 SHA1: 47afcf2acb3a69cefb7f618feca328ea2e56174c
 SHA256: 7dbd21d8b382a1ecef0f1d37e06d291eb64f487614190ae01810f98dc79bb6a0
 SHA512: 95c64786d7fb86ccb2f1bbb510f5e9c824bc79894fd320b2121c94aafd16091f5abbccae73705d391d68d47093e90575b79378e333fd17769e55621be702a094
+Description: Show estimate time left to full charge on your lock screen
+Name: Jikan
+Author: waruhachi
+
+Package: moe.waru.jikan
+Architecture: iphoneos-arm64
+Version: 2.2-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/moe.waru.jikan_2.2_iphoneos-arm64.deb
+Size: 51144
+MD5sum: 94854ef9571805b356d86b6ed2d1308b
+SHA1: 598c44183c28580db733e20c28d73e33abc70302
+SHA256: e792704b1b9768193c84dd2bf715bb7de66b12d119af52942c13809415e456b1
+SHA512: dc8c1e4357f45bb690394071c00a5e08c53b2cbbf1a3d2f7ccccc962a7b17123bcd2eb556e33a0051e9044273fb040bbfb0c5f183e0ba5bb7c62eaef6b2ce9f7
 Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
 Author: waruhachi
