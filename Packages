@@ -1233,6 +1233,23 @@ Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
 
+Package: com.brend0n.noslidetochangevolumeandbrightness
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.brend0n.noslidetochangevolumeandbrightness_0.0.2_iphoneos-arm.deb
+Size: 3876
+MD5sum: f75e6e565887dad9bea18714c5173e19
+SHA1: a4fd4affde451fc712c37f1392c60263c6086f59
+SHA256: a56ec024ddb233e87e68283f6271b79469acc14bd11557995c1a04fc2d24c221
+SHA512: 8a04d1bd99e07521eb9031958fb6b40331ae7ab18249f2c3a9c8124ba04315a8aefb900be2dea22c73de72d3fa75fd889e1882b6a558a7513666f3b9396eea91
+Description: Prevent apps from changing volume/brightness
+Name: NoSlideToChangeVolumeAndBrightness
+Author: Brend0n <brendonjkding@126.com>
+
 Package: com.brend0n.volumemixer
 Architecture: iphoneos-arm
 Version: 0.0.7~beta1
@@ -12069,6 +12086,24 @@ Description: Prevent apps from changing volume/brightness
 Name: NoSlideToChangeVolumeAndBrightness
 Author: Brend0n <brendonjkding@126.com>
 
+Package: com.brend0n.noslidetochangevolumeandbrightness
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.brend0n.noslidetochangevolumeandbrightness_0.0.2_iphoneos-arm64e.deb
+Size: 5676
+MD5sum: 42c7a7e7ae8b6d4aa99fba9384f9142b
+SHA1: 34cc6f3d2d6209dd904ff82651cf6c1637ed28fa
+SHA256: 03322f177f6bddb9a15dd8b36c177c96d3031ef2fedd6e987cd6ac9ff2e85162
+SHA512: d5e163c170655e20a6eca3d8519fcb9c250790dbbd47ef4b4f7a21b001b3283c7b425b27cec0691d7fb24f73922b466cf18fa91de838f3c840c9a6eb17af5db0
+Description: Prevent apps from changing volume/brightness
+Name: NoSlideToChangeVolumeAndBrightness
+Author: Brend0n <brendonjkding@126.com>
+
 Package: com.brend0n.notransitcardversionlimit
 Architecture: iphoneos-arm64e
 Version: 0.0.2
@@ -21642,11 +21677,11 @@ Maintainer: Shadow- <krylov0@outlook.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader (>= 2.2.3)
 Filename: ./debians/Roothide/com.yourepo.0xash.fuckthermal_1.2-38_iphoneos-arm64e.deb
-Size: 279700
-MD5sum: 5d7bad5ad2834dc816e7637dc6d953ad
-SHA1: d3db3a0db96749dc56745f843b9aa20ffb70a9ec
-SHA256: 9fb98ca2fcd725b612e45023a94045079bbd703b12dab2f8e86ddba1abd1afb8
-SHA512: f7665a55ed3ee102d9c80ad13ba17af7e1d5a0e33335877c47b93bf69d612e910d54832f020cae3a063fbffef69a8728c95c896cfe9b61a90207bd72d8c825d4
+Size: 279692
+MD5sum: dea74c28d55303151ebcf06bd06780d0
+SHA1: 84997aade804ed083354b322b82233dc032ae664
+SHA256: 1bb4fb6e20c679a378ca25afe068220ea395fcdde6c95fd0caefe045cecd6cb8
+SHA512: 4c53cb301dab19ad43926f8ed8ee251fa88939ef96acdfd2b796a48661cdb736e50f935552862b0a42be83266fdab07789022b7084bd9c02cb29498b26cec390
 Description: An awesome MobileSubstrate tweak!
 Name: fuckthermal
 Author: Shadow- <krylov0@outlook.com>
@@ -25939,6 +25974,23 @@ Description: Puts haptics in places apple should have!
 Name: Haptic17
 Author: Brandon Plank
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Ficons%2Ftweak.png&s=180x180&f=webp
+
+Package: com.brend0n.noslidetochangevolumeandbrightness
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.brend0n.noslidetochangevolumeandbrightness_0.0.2_iphoneos-arm64.deb
+Size: 4080
+MD5sum: 1a1cae309d35a6f53de8b9ebb76d15b3
+SHA1: f5f1579c24b04be2c40e0ad2717105edf8e2a63b
+SHA256: 618ac9741f24b16a34e66f39c9da22f144e6781c606f61a9f2b4bd93ead488c0
+SHA512: de6e5d73c02855952232e84f2ee63d0bab1d6e7feb9553b7c1e329f6a699762054b793ee60446d4c27393d83b204711a1fa2dfee7c31edd9b0e26297ea7d361d
+Description: Prevent apps from changing volume/brightness
+Name: NoSlideToChangeVolumeAndBrightness
+Author: Brend0n <brendonjkding@126.com>
 
 Package: com.brend0n.volumemixer
 Architecture: iphoneos-arm64
@@ -35407,6 +35459,22 @@ SHA512: 747eb4be2153b1747714c67bb07e2633cd789013c2a982f65de7a2753eff6e27d2ba9495
 Description: iOS All Device Dolby Sound Effect & And Sound Quality Optimization
 Name: Dolby Sound Effect
 Author: iBreak <ibreak2019@qq.com>
+
+Package: com.yourepo.0xash.fuckthermal
+Architecture: iphoneos-arm64
+Version: 1.2-38
+Section: System
+Maintainer: Shadow- <krylov0@outlook.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader (>= 2.2.3)
+Filename: ./debians/Rootless/com.yourepo.0xash.fuckthermal_1.2-38_iphoneos-arm64.deb
+Size: 216168
+MD5sum: f4069c379e9f9f063d175f9e9b8d3460
+SHA1: 4f9357015a39dc5ae174326ff6c87f678412e512
+SHA256: 870be017c382bfc89e407e24946952f448535d08e65e46db15ce773c90f245e8
+SHA512: 7d809d4241956e15341801766dd36c7c0a7a1a3582efaedcfa548db2a9bf0b7b2bac198aa1f735da8b14cbf89d6bf941e82f6d083579d74baa4e3f875c0f8b53
+Description: An awesome MobileSubstrate tweak!
+Name: fuckthermal
+Author: Shadow- <krylov0@outlook.com>
 
 Package: com.yourepo.0xkuj.storeswitcher2
 Architecture: iphoneos-arm64
