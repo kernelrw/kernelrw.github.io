@@ -30330,6 +30330,24 @@ Name: CallBlocker
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/CallBlocker/icon.png
 
+Package: com.imkpatil.ezswipe
+Architecture: iphoneos-arm64
+Version: 1.1.1-4+debug
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.imkpatil.ezswipe_1.1.1-4+debug_iphoneos-arm64.deb
+Size: 24968
+MD5sum: 40ca2a004233d3300629945da190b5e1
+SHA1: 8a01603e2c18f8dcc221827411dfc00aa14a34f6
+SHA256: 9708e189ffd2cc55af18977f5df8314c550ca1e69ffa442d180e73fbb15093f7
+SHA512: 4aa45eb657c841f97332c9944c0497a84cbf6a167bbb594d8605fbaea6c427bccb7d110257e85244a529e7ee02d9aebd9c75acd3c7fac72aa6024dc4572508d8
+Description: Give your hand a rest by using gestures instead!
+Name: EZSwipe
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/EZSwipe/icon.png
+
 Package: com.iosrouter.ccblue
 Architecture: iphoneos-arm64
 Version: 1.1.2-1+debug
