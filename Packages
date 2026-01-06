@@ -6337,6 +6337,24 @@ Description: InjectIPA Tool
 Name: injectipa
 Author: Netskao
 
+Package: com.netskao.noappthinning
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Netskao-Tweaks
+Maintainer: Netskao
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: ./debians/Rootful/com.netskao.noappthinning_1.4_iphoneos-arm.deb
+Size: 4368
+MD5sum: 3863775a68afa6fd7551b0ac25a6691e
+SHA1: 58a4a62ed0e38ff95d2eb68b056a982e4c3e80ec
+SHA256: 7f7f863e9a9b6f3ffe3a67dee2960adfc7b3bd4d90c2edf02d5a059ddd8dd0d0
+SHA512: 9d5a07d19fa6f1de8babb6d51cc0dbdcbc5eba99b6310c24d7215ebce0170da45008db368904a2ab8a1de18800a7586b2dc9e1f89a8a087779c1ad1fb00d5717
+Description: Disable AppStore app thinning - by level3tjg, Disable TestFlight app thinning - by Netskao
+Name: NoAppThinning
+Author: Netskao
+
 Package: com.netskao.swiftgramcrack
 Architecture: iphoneos-arm
 Version: 1.1-1
@@ -18285,6 +18303,25 @@ Description: Update Your Cellular Provider IPCC With a Click .
 Name: IPCC Installer
 Author: Netskao
 Icon: https://www.iclarified.com/images/tutorials/4209/15934/15934.png
+
+Package: com.netskao.noappthinning
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Netskao-Tweaks
+Maintainer: Netskao
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: ./debians/Roothide/com.netskao.noappthinning_1.4_iphoneos-arm64e.deb
+Size: 5868
+MD5sum: a27e08681e51b292f1a21b0f62995c5d
+SHA1: 0b7c55a650cea201443cb64bec49d5c104c8549a
+SHA256: c054f720a77cdef6b838690d4a29de8f7817170eba8a0fbe4d68559e77a38fd0
+SHA512: 9d5d9e7b51e9d8317f4be891152d9243a0db12f957ec6ce64b83a9dbc02d2fa1ce09c997effc8a3534b91698e5e7c5e716bd9b7abe782d56d34e7a038eff68e4
+Description: Disable AppStore app thinning - by level3tjg, Disable TestFlight app thinning - by Netskao
+Name: NoAppThinning
+Author: Netskao
 
 Package: com.netskao.swiftgramcrack
 Architecture: iphoneos-arm64e
@@ -32798,6 +32835,24 @@ Description: Update Your Cellular Provider IPCC With a Click .
 Name: IPCC Installer
 Author: Netskao
 Icon: https://www.iclarified.com/images/tutorials/4209/15934/15934.png
+
+Package: com.netskao.noappthinning
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Netskao-Tweaks
+Maintainer: Netskao
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: ./debians/Rootless/com.netskao.noappthinning_1.4_iphoneos-arm64.deb
+Size: 4292
+MD5sum: 81252dfc75e29d9d553996d54e59dcd5
+SHA1: 48f388c1f2e7fc699f0cd37d1e104fa2d10d42a7
+SHA256: 0eb93434192b28ef994d20020da7542e92c9b9e344f63b6d85292a8ecd1777b0
+SHA512: 22afe5f6bbb88705f5304b58239a3fbda0165a7906af8b3c14e1b72c6009c235ba7ad3a37c18d82835a1ab535f65cd47126edf75827d43338cd4cd1af5901786
+Description: Disable AppStore app thinning - by level3tjg, Disable TestFlight app thinning - by Netskao
+Name: NoAppThinning
+Author: Netskao
 
 Package: com.netskao.smallbanners
 Architecture: iphoneos-arm64
