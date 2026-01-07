@@ -13726,6 +13726,27 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
 
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64e
+Version: 3.5.0
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 668
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/Roothide/com.f0u4d.onlinenotify_3.5.0_iphoneos-arm64e.deb
+Size: 221230
+MD5sum: b76adf8cdd117bdf8f03e711e30094fc
+SHA1: 58893956d6939396a31a86ebc1f132450b23ada8
+SHA256: b53baa7bc47ad3e4616f39b640787edab947095a3a845de159f25040bbac244d
+SHA512: 27ae2842acf8b0ae9fdbbf61174766ec64578e5f06f8d598df40e56f712d35b532fb7ec799ab95127ac4fffe972277539a9ce41eba02a317c12a088a325ecfdb
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
 Version: 4.2.3
@@ -28239,6 +28260,26 @@ MD5sum: 8b5442da6fe0778b3dc664fed4888554
 SHA1: fb409183b7eb77de4f3071ac2c2dd5593f998795
 SHA256: c4aac42c82f18becf5821f638275dd80a0f41cd72dc99c194cb3437faac95eab
 SHA512: 9eaaf995d317679776dcbb5b9a930fb6aa3495a88a987dbb9596cd5ae80594e4f8be4363bc6bccb190c67af4e8aaaf3878888f64e7217a447dc93625338b7776
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64
+Version: 3.5.0
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 668
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/Rootless/com.f0u4d.onlinenotify_3.5.0_iphoneos-arm64.deb
+Size: 186232
+MD5sum: 75fbdbeaefe2f7e2f1aad56e084c18b8
+SHA1: ba8a23dcf3b6ecff99dbe656f23ca9db87403d8d
+SHA256: 8f692c8619a9823b67f75260ebe4237ce1dbf8c9efdbad44639820e6fb9b0f6e
+SHA512: 9e679aeb051575c979f3b16cf39900405979c6fc480c7f0fba980d9d1845552b33ec7167be3e796ff506c4efd7c0420f0df814244f46a45197d6ec2967cb6a40
 Description: Track your friends on WhatsApp Messenger!
 Name: OnlineNotify
 Author: Fouad Raheb <support@fouadraheb.com>
