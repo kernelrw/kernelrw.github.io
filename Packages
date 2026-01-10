@@ -2297,6 +2297,23 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
 
+Package: com.den.vibett
+Architecture: iphoneos-arm
+Version: 1.0-156+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.den.vibett_1.0-156+debug_iphoneos-arm.deb
+Size: 62192
+MD5sum: 0386c87516170bd91bd6040b6be234a6
+SHA1: a197ae3eaa97c001cd5748f2a34a1d697c51c1f3
+SHA256: ff37f3a5135eeb8152667751ca1f6aa65cd4032515c781e65d20e0b31f74e2f6
+SHA512: 6e052b300afe6579ae3f3ae09fa7f91cd38915293c6e01d353b71b91c45b93b081bb9d22cda5fb7584c32ec1547aa87970914d6fb9de86fc77af7ffe3621ee7c
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
+
 Package: com.dev.stopreviews
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -6884,23 +6901,6 @@ Description: An awesome MobileSubstrate tweak!
 Name: TwitterLegacyPatcher
 Author: thea
 
-Package: com.objc-msgsend.theta
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Objc_MsgSend
-Installed-Size: 2576
-Filename: ./debians/Rootful/com.objc-msgsend.theta_1.1_iphoneos-arm.deb
-Size: 663116
-MD5sum: fb919f36c7b549df56dac67f1ffb06f1
-SHA1: 4a9a37cf3edfe551ffd214bc38340d35c30e2a81
-SHA256: 49030a100cb5be6ea37a7372109fae3e2314e5dc1a6fcf15c3d355e0d3e53e4b
-SHA512: 34e1ec9652bcd8b0cbce19f5eebe8abc58b2b4e9ef9c0035b8859ae8dd86d0d81091795c7675388d0cb9339440379015bca9f0ebba6f3d7f9c3bb43adab5fe70
-Description: An awesome tweak for Instagram!
-Icon: https://repo.cypwn.xyz/packages/Theta-Rootless/icon.png
-Name: Theta
-Author: objc_msgSend
-
 Package: com.opa334.choicy
 Architecture: iphoneos-arm
 Version: 1.4.10-3
@@ -9061,35 +9061,20 @@ Author: Mineek
 
 Package: dev.objcmsgsend.theta
 Architecture: iphoneos-arm
-Version: 2.2
+Version: 5.0
 Section: Tweaks
 Maintainer: objc_msgSend
-Installed-Size: 528
-Filename: ./debians/Rootful/dev.objcmsgsend.theta_2.2_iphoneos-arm.deb
-Size: 155300
-MD5sum: 00b49a2969c72a217491426c0a0b30fb
-SHA1: 9536509b1797c244fda82d31ddbaa21467cde606
-SHA256: fa819ecc6ebdb40857dc47adf202411d570ebecf99ac812a86f7a24a10ea3b7d
-SHA512: bca7c02795e2019c7f0cbc090c70bbc0881f1457c0ea698dd56a8aa483a4475ad93e83f6e3aabcb6b5c7deba75631833672f6c64cbf70f2aa6ad6a385ad742c2
+Installed-Size: 38488
+Filename: ./debians/Rootful/dev.objcmsgsend.theta_5.0_iphoneos-arm.deb
+Size: 14703512
+MD5sum: 170a3897c15239f2808e22a4020770ea
+SHA1: 98bfa34a8f69ebf6236e180d6c2bf3195de9aa69
+SHA256: c5bff2063a5c471681c71a0aa107a666d5c13af44921190ef821bba17b15ce6d
+SHA512: 6b2b646fb6b2df4e332b963ea16c700ab8c13de6c305c4c6ef637ae2a70ad8ee55fa138055f786deb53fcea6cb41c68d8bda9dd863cbe58dcb6879472140e9b1
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm
-Version: 4.0
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 38276
-Filename: ./debians/Rootful/dev.objcmsgsend.theta_4.0_iphoneos-arm.deb
-Size: 14441076
-MD5sum: e7457e301af1f547a143c03ad6c4222d
-SHA1: 664aa898965ce3e65afd1930e51c809f80c73257
-SHA256: 577d7fbc416a6392009ea77573c67547ee2c80857d96e35ec1cb795a0cfd519b
-SHA512: d2f79f4dd20c127658b1fbf6f6be45ada840736acfbc0cc3bdf8ede60779a272b18563de2a7e47ac0cbc7281f88414b5d0b9d7f24c98b1d76c39f35b0dcffebc
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGqoeWG-mR8CoyIHLHrPOSRKDJe1VGaIGO461wtJHUQ&s=10
 
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm
@@ -13038,6 +13023,24 @@ Author: DeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
+
+Package: com.den.vibett
+Architecture: iphoneos-arm64e
+Version: 1.0-156+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 492
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.den.vibett_1.0_iphoneos-arm64e.deb
+Size: 90850
+MD5sum: 11167216a9243d8a524b6c77a9d006fd
+SHA1: 7d4f1bce91fe8daf9562a10e29d6b97796943bfb
+SHA256: 42892d51002d4dc3abdad1e38724741cc0416d70de1f4c803d84fab74cb40c0f
+SHA512: 8ef9b1d02027605daa801cd216e68e866f22f44184ef71c1f937b1c3cd85ec8aadb98fb352e7428b0013c07424a09230591069501a9b06f8b6f595eaf6f92711
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
 
 Package: com.dev.stopreviews
 Architecture: iphoneos-arm64e
@@ -22276,88 +22279,21 @@ Author: Mineek
 
 Package: dev.objcmsgsend.theta
 Architecture: iphoneos-arm64e
-Version: 2.2
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 528
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debians/Roothide/dev.objcmsgsend.theta_2.2_iphoneos-arm64e.deb
-Size: 214084
-MD5sum: 84b431a980173e107a7b02fd8bc22a1e
-SHA1: f56971e008b32dc5b99e52f98952023df6c57c59
-SHA256: da53ae9ab412d9aae36d52bedc3d225050d87b1e3f2aac4959de44e9a4350a58
-SHA512: 22b051d21d4f269af5a3b224e98ec00320ef7f0f76304233cf3989e69e23b8f9a29a80dcf07669fde5f0b6f62ed3fd4b4104b2abdfbf9f0c3aa4f43583f565fb
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm64e
-Version: 3.0
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 38124
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debians/Roothide/dev.objcmsgsend.theta_3.0_iphoneos-arm64e.deb
-Size: 40012806
-MD5sum: e480cec7878df1a30b7cd42e253abb1d
-SHA1: b631ac3f3fda521f99eec4399088da331725df67
-SHA256: 0ca2ee2e3adcbaf4687e2cb5ebeb58a1ab75255182b6bb9a752ac21d458f87db
-SHA512: df9727103b63b79c20a0e013931a8116099f4e6e1c52e7fa3209aa75c665df8e06cbb259936a2d0a43ff495b20bf2060d240be28c1dee84943d6872bca85de1a
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm64e
-Version: 3.1
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 38176
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debians/Roothide/dev.objcmsgsend.theta_3.1_iphoneos-arm64e.deb
-Size: 40065106
-MD5sum: 9f6933162dc1cda5cf99b82c44e9c928
-SHA1: 0fe0363a57c8029986215ae166156ee2724c0bee
-SHA256: 6066e334c3aeb56aa9e27e6506a8b303d42afbb3fdb2435c824e0c1d036e9394
-SHA512: 442b06526b5335554e3dcc8d7efcf1e1ee85498eec0eeab45ad48e5c46d5e41593872a255734b68447b0b58d252d237cc21e642ff0a4ec710d343082827a384d
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm64e
-Version: 4.0
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 38276
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debians/Roothide/dev.objcmsgsend.theta_4.0_iphoneos-arm64e.deb
-Size: 40173230
-MD5sum: d0a0c084a7f53d48c7d61ac5205cc766
-SHA1: b53b8f03c55d69c932370932d160560f8870b3a5
-SHA256: 3b80b2a4ac8ae01c5e4d4e388dd43cefdc6be5784afc181dc3aedba9ab7f50bf
-SHA512: d6393a46bd7433be01b6d684ade24801253b990f7055e2276f619beae3a9e7b9b91c89f20be98392f5a883d30957b73a32c6bd831d68c8d9d675e3d7d94413cd
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm64e
 Version: 5.0
 Section: Tweaks
 Maintainer: objc_msgSend
 Installed-Size: 38488
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debians/Roothide/dev.objcmsgsend.theta_5.0_iphoneos-arm64e.deb
-Size: 40321974
-MD5sum: 2fdea9deb10aa08a11ad14e9c8676e65
-SHA1: 3fbf2afae998b7f3aa743750adb1e0173a506fbe
-SHA256: 677c5a3d1dc541dfee54939a47591199eab40b2454a84bb95cfd768daa34201d
-SHA512: 880ee39340710bd74067ebf516cf0443eecf2971d46083f0ad1152d4c715835e200608165c4950d64a7ad898a756db15468b58a4f2f024d319dfc212608e8d21
+Size: 40322164
+MD5sum: 1c29c7126937dde7a02b23e0145de8d9
+SHA1: 9307217b6059af18654140981e6bb030b8eca61b
+SHA256: 079bbd086fe9a3daa5f9850edb7e81e17e3bd566b8b9bbd3d6c4130992e3297d
+SHA512: 62aff3b94f64cd4ce475ae24eaf3dc56d09b04edb8c303b95bd29f585802292994792ed4e013683da5bb7540e6a474739d0c65fb3e0c07c0d6a41a35b75e58d6
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGqoeWG-mR8CoyIHLHrPOSRKDJe1VGaIGO461wtJHUQ&s=10
 
 Package: dev.quiprr.redditna
 Architecture: iphoneos-arm64e
@@ -27308,6 +27244,23 @@ Author: DeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
+
+Package: com.den.vibett
+Architecture: iphoneos-arm64
+Version: 1.0-156+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.den.vibett_1.0_iphoneos-arm64.deb
+Size: 68288
+MD5sum: 9b8f91ece83394c4f7dc95b6fbc1bdd1
+SHA1: 5d736083c854d3b0c593a9ef3ea6297f39a63943
+SHA256: 68c095e36c0460470ef2373a9be6d1a9737bfd1f853f0ee0ac6a3cbcd865a4e6
+SHA512: 31067ac37940ce3f6e237d831da1d6aa53d239f5c833a2be7c847f031616abc8f393815aa03adcca4245452e17a88f9b5e699a9a5ef3d6670d4b381f7d56ff88
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
 
 Package: com.dev.stopreviews
 Architecture: iphoneos-arm64
@@ -33632,23 +33585,6 @@ Description: An awesome MobileSubstrate tweak!
 Name: TwitterLegacyPatcher
 Author: thea
 
-Package: com.objc-msgsend.theta
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: Objc_MsgSend
-Installed-Size: 2576
-Filename: ./debians/Rootless/com.objc-msgsend.theta_1.1_iphoneos-arm64.deb
-Size: 675672
-MD5sum: ed372c0fb34394e48e484ded5b99ca02
-SHA1: d23ab28df07d3b2178f33b3f9d203e208117e48c
-SHA256: b14df77bde3c152c9562493f3264f00053f825d0bd671f92c17578d2bf923e7b
-SHA512: 74286d00a436905df444d24bbbc7472cd1b321c95410133dab32deaf42b8029e37c7901b7f31a0195a0f3941d96f5591d24ca6deb1c2401d3f351abc047d1ebd
-Description: An awesome tweak for Instagram!
-Icon: https://repo.cypwn.xyz/packages/Theta-Rootless/icon.png
-Name: Theta
-Author: objc_msgSend
-
 Package: com.opa334.choicy
 Architecture: iphoneos-arm64
 Version: 1.4.10-3
@@ -36506,83 +36442,20 @@ Author: Mineek
 
 Package: dev.objcmsgsend.theta
 Architecture: iphoneos-arm64
-Version: 2.2
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 528
-Filename: ./debians/Rootless/dev.objcmsgsend.theta_2.2_iphoneos-arm64.deb
-Size: 157520
-MD5sum: 2580fcaefc85ebdf5ac72439468f9765
-SHA1: ddd854558df81bc051359950075b79a408aca3f7
-SHA256: 98b128e3a735056b8566f9c8a62841c2c70b1520c369f8747755287dbfd004f7
-SHA512: 910c8070f7c34169e284489e2ae462463a885030ac325961c6b065cb78e29c344c21242f7d44c3e6e5fc9d7798b475fec5d8ff2f4ec8c56e6532296332f7a39c
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm64
-Version: 3.0
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 38124
-Filename: ./debians/Rootless/dev.objcmsgsend.theta_3.0_iphoneos-arm64.deb
-Size: 14395602
-MD5sum: 60d83e1ab8c26907c23ea0fdb4961367
-SHA1: 445c0bef6b2fae7283e42c594003b7c08f90cd29
-SHA256: 1bded1849d881d70b5d5fd34f073276aeb0aae4bd5bbcd9eec41e41d6d04b867
-SHA512: 25c28ab0077e293fead355b9782eb19e8f2084576242a3f5af53a466047da26a1fefcdedc218f646f93dcfaf1ebbf048a2a95bc83c6dc8f2ad2bff67a4662c9a
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm64
-Version: 3.1
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 38176
-Filename: ./debians/Rootless/dev.objcmsgsend.theta_3.1_iphoneos-arm64.deb
-Size: 14408090
-MD5sum: 1fcd430f243f65797c5901d48c07a4a2
-SHA1: 0f48ef828e298c227087f482cccef08bc06dda0a
-SHA256: 3569ab6a67d417595096a34de699d1ce1f3f90cd4ae2b61bdf3b2a4d6ff729ca
-SHA512: 2676634d2254f256e9ded65608642a8768939cd80af86110926544c8605c87a19a64bd92763bc70e1a34f128b1c1e6666b04da25b20575159325798a4bfc147d
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm64
-Version: 4.0
-Section: Tweaks
-Maintainer: objc_msgSend
-Installed-Size: 38276
-Filename: ./debians/Rootless/dev.objcmsgsend.theta_4.0_iphoneos-arm64.deb
-Size: 14441080
-MD5sum: 1cf37aa42c1bc4fa078070f54748e20c
-SHA1: 6774e89441da565857c39835771a0679124b139d
-SHA256: 31a3cd360ca2f5bd7257088377eaa228d009abc42979e8bd2d038078f56a13f1
-SHA512: 3a00cc7dbe9a7f44a4a00fc3cc4b4a3da38021dea39dbfc90c9c4da24f6de2785093f38ef17bb31a198eeb85ebb1e1617e95bae1d3546625c2e38b6204771111
-Description: An awesome tweak for Instagram!
-Name: Theta
-Author: objc_msgSend
-
-Package: dev.objcmsgsend.theta
-Architecture: iphoneos-arm64
 Version: 5.0
 Section: Tweaks
 Maintainer: objc_msgSend
 Installed-Size: 38488
 Filename: ./debians/Rootless/dev.objcmsgsend.theta_5.0_iphoneos-arm64.deb
-Size: 14504480
-MD5sum: 09adb388674a4e9fcd27feb1d3381297
-SHA1: 382ba4222e74568d58a1e7be237bb4e186ece7ab
-SHA256: 59e5b20c56ded7be238f9a5083f0aee0a578c38350167995215888bfab4e1251
-SHA512: 986605c2f2556dbb6f028fcb6de4f6c424ef53c0b4aacb67b40f51c8d750b51688461b049d63443778d85561037ac1eab7121b3b15ab6c15612acabcb017023b
+Size: 14703132
+MD5sum: fb3123178db0a8af446c5d8c70c88143
+SHA1: 96b20c57ced8672a4e0ba0d142f0f040821d096e
+SHA256: c17cd68ee51e448b04d9a64396e37c6c54b97fe7208b6fadbbf88f69e8f2085a
+SHA512: 68221a32acacac3a1ac2162b645d4bffe17bd5855e1851d65263f7967adb4dc9636fa7548bf945782553cbfa5edd6ab6ddabe21533796cdc11d979f97c17cb69
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGqoeWG-mR8CoyIHLHrPOSRKDJe1VGaIGO461wtJHUQ&s=10
 
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm64
