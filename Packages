@@ -10759,6 +10759,29 @@ Description: Tool to apply real or simulate memory pressure on the system.
 Name: memory_pressure
 Author: Apple Inc.
 
+Package: twitter.nowesr1.location-spoofer
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 479
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/Rootful/twitter.nowesr1.location-spoofer_0.0.4_iphoneos-arm.deb
+Size: 81532
+MD5sum: cc36d3a428f25290bc96e9652696e2e4
+SHA1: 4d997f863691544884ad90fbf4980bad3851ea8c
+SHA256: 3c24cfd4ae315a9131558320eb214956dfd689f13fcf74618885ea98c107494e
+SHA512: a32b64ab771a1f2c5e1a75a5fa13f743765868dd41e9d4948ddbd97da0da0732839ef9be9172f950618a3ca244dff01d1e74ecad556cd070a1dc2218b4c12752
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walocationspooferDp
+Description: Spoof Location for WhatsApp
+Author: nowesr1 <nowe9r@hotmail.com>
+Name: WALocationSpoofer
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walocationspooferDp
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: nowesr1
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
+
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -24591,6 +24614,30 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datalogosw
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: hiraku
 Icon: file:///Library/PreferenceBundles/DataLogoSwitcher.bundle/Icon@2x.png
+
+Package: twitter.nowesr1.location-spoofer
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 479
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/Roothide/twitter.nowesr1.location-spoofer_0.0.4_iphoneos-arm64e.deb
+Size: 109104
+MD5sum: 9631f347026f22a9e77f136ecb3b0594
+SHA1: 8bc9c54b3d22fc406a9af5d9612bc17ce64d3ce2
+SHA256: 5bf098db17d496711c3cc66b64dd8696b308e595ef2e4599cfeaf94002dbe8ee
+SHA512: fd11f14142012a5566cad33ce298abaef038be4cb4c74ef39b94f12228137a0eedc7d441a8c8b29e60044f0ee41245ce7a89ec9c9da49f50f31ddbfe6c40d414
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walocationspooferDp
+Description: Spoof Location for WhatsApp
+Author: nowesr1 <nowe9r@hotmail.com>
+Name: WALocationSpoofer
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walocationspooferDp
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: nowesr1
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
 
 Package: wiki.qaq.chromatic.roothide
 Architecture: iphoneos-arm64e
@@ -38571,6 +38618,29 @@ SHA512: 2a9eb8c54ae94e25647b47b887e52d180c3a5b50b88df6255db22ac3e2f31b97b5ffb421
 Description: Tool to apply real or simulate memory pressure on the system.
 Name: memory_pressure
 Author: Apple Inc.
+
+Package: twitter.nowesr1.location-spoofer
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 479
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debians/Rootless/twitter.nowesr1.location-spoofer_0.0.4_iphoneos-arm64.deb
+Size: 83170
+MD5sum: 383968ae08d2448983fcdf477b327fb3
+SHA1: 99efca275f984d55f98b56ee08e0a265347b98fb
+SHA256: e37c6fa0c9e21a01cb3df8d3c7cab37267e7b055096016c44226488e01689ae7
+SHA512: e9ecfadfa327bfdce19ecb115e557d46b41301c37683c65e982d01f7695155248078f56ecbed431490304e7033d5c321681e1b2d7b2a40bfb78565a9bf15bd3b
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walocationspooferDp
+Description: Spoof Location for WhatsApp
+Author: nowesr1 <nowe9r@hotmail.com>
+Name: WALocationSpoofer
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walocationspooferDp
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: nowesr1
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
 
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm64
