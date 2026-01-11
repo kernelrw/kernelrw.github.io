@@ -854,15 +854,15 @@ Section: Tweaks
 Maintainer: Ali Latif
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debians/Rootful/com.alilatif.beegram_1.0-bata5_iphoneos-arm.deb
-Size: 541356
-MD5sum: bdfb7e233c79a3ebafae3fe2a5c60f14
-SHA1: bba41257c63de23ac476a735fad597b4f4fd4b58
-SHA256: 4dbebb60ca6684c8f79c07c970d20028464dc19a7039e833442a2a7ccf08918c
-SHA512: 58ca1a62f47c550c535f857347e1c5fa7649cfc3de607e44de154a7e28ec6033cab4527b2908bb3a4e10b2072fff0a08c5f57600d29290cabf7f4a5012e030a0
+Size: 541000
+MD5sum: 08e633d323d9dbeb8009780e4c48ce41
+SHA1: cd60c25d4a5a0ee087e0a18510ba01f7c071d060
+SHA256: 5ad7e52a78b242a6ac38353caefe82fbbde1af271eb6d851e928a18ee535912e
+SHA512: 19104415a927006f2154b52cc64d65659049502345806d3e61ae91ac2598485a5493fb4097c29cb71f44ad8d8473ab90ee86f34a586d35158005466df00af263
 Description: Best free alternative for Regram
 Name: Beegram For Instagram
 Author: Ali Latif
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXgJ0noLgmp5H3FM4XuBTdt1dejHzC9O0uQ8XmT-IRg&s
+Icon: https://i.pinimg.com/736x/df/e3/d1/dfe3d1202abf889fc9287803d45fc74f.jpg
 
 Package: com.amywhile.ccpatch13
 Architecture: iphoneos-arm
@@ -1408,6 +1408,30 @@ Description: Telegram Enhancement Tweak
   * Settings screen - long press the third last option "Customer Service" to open the plugin.
   * Support Telegram, Turrit and other third-party clients.
   * Fixed languages
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/Rootful/com.choco.tgextra_1.7.1_iphoneos-arm.deb
+Size: 2330612
+MD5sum: 3288c89e33f9d2de8977f15f9be83666
+SHA1: 3efdb5b890ce0451b7a2be87df7848d66140eeda
+SHA256: 73ae2cd2b312bc503687c1970cc5021818aa0fa9a0da052308b25e02cb7ce02e
+SHA512: d444b9c8c90f689db3384054270273f1c09e836a50d1d34aabc504024c5052ce352e2b340cb9d54b5f0398ebf5ccbeb8f8baf596fbf032306fd804cf5467e33d
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages 
+  * Support for Telegram 12.3
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
@@ -11741,15 +11765,15 @@ Maintainer: Ali Latif
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debians/Roothide/com.alilatif.beegram_1.0-bata5_iphoneos-arm64e.deb
-Size: 641084
-MD5sum: af2e5392b8e08794a78f298a2a93d72a
-SHA1: 7200c7e4f8f94880dd1ab36b0a0267dcabf9eb74
-SHA256: 8492e903c81b5c65d3b5ac99b25480a0eed66114a8fe132ae5f238d814155dc3
-SHA512: cd4ae0d47c810772f3896450ae3c093a48629c30f1542c3b8adbe791c3634b7a415462359d1cf1d04ca7684302f6d8fffd18511efcb222e6ca71dcb6a44de48a
+Size: 540204
+MD5sum: f35166e4050154c712239a72337c9dc4
+SHA1: 6eca9266ab3a4755b935723bea6bce4401048e31
+SHA256: d4b836ba5c9173094ae64718522da6b5dec79cc3fae1972ed9f3dcdff151e6c5
+SHA512: c8c06293aaad7e2f366c5d4f059307303758d15848b1c0bb72a6b9f548188cc62f53272ffeb465cf7efc0908b01cfb4f0f76bcb6cc805932e0c543e77b28d2eb
 Description: Best free alternative for Regram
 Name: Beegram For Instagram
 Author: Ali Latif
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXgJ0noLgmp5H3FM4XuBTdt1dejHzC9O0uQ8XmT-IRg&s
+Icon: https://i.pinimg.com/736x/df/e3/d1/dfe3d1202abf889fc9287803d45fc74f.jpg
 
 Package: com.amywhile.ccpatch13
 Architecture: iphoneos-arm64e
@@ -12353,6 +12377,30 @@ Description: Telegram Enhancement Tweak
   * Settings screen - long press the third last option "Customer Service" to open the plugin.
   * Support Telegram, Turrit and other third-party clients.
   * Fixed languages
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64e
+Version: 1.7.1
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/Roothide/com.choco.tgextra_1.7.1_iphoneos-arm64e.deb
+Size: 2330600
+MD5sum: 3e8c4464b9db6561298dd9755617c3fe
+SHA1: 997e9226a57030ff79919b651a5f4a22734dd048
+SHA256: 7522cf2dbbbe71bf671df23107540d988f1f633c946a3b91d09ba0682675c7ff
+SHA512: f542c024ec1b5694f5d08c18090a85b260afe7e7e0217320dddd76855cba8a5f9b4c1a5c7f02dd01e367cac57f0a3726acc213ba33701da3f218c601134f63bc
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages
+  * Support for Telegram 12.3
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
@@ -25682,15 +25730,15 @@ Section: Tweaks
 Maintainer: Ali Latif
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debians/Rootless/com.alilatif.beegram_1.0-bata5_iphoneos-arm64.deb
-Size: 538168
-MD5sum: 7f92da7ffe1e0288528b0aa7a920b321
-SHA1: e15a9d6dfc99af6dcda5aeda189cfb43b7aa087f
-SHA256: c583843737a1350be527282a3d8fa9d2d08d479ba4f579cb6b2dba24d03b452c
-SHA512: 7fde2a6e8da36920e04af1c008d8e5941dd9ac2303e2d83ec7b1ddc6a009e548c1744ab3b09c601b44b410ef91eb8fa456c3f51e7a0da617b3e0064d22d3872e
+Size: 538320
+MD5sum: 3d0556f420492d264781f33814fcbebe
+SHA1: a1753f02c84cdfe95cbe9411ddfd1591f911ed51
+SHA256: c5ef0c012397f680e104a629f6274643744f1aa4b6dc62bcb7bd7f7eba66a0ca
+SHA512: 442d59ac6cc62ea9f7fb0453acb30d225d7fca8a93ad6f595720fc683fce9c01f743c0476ac0acf7b75205fcde12a1b847cfe399f18caada5ed0f78f614b75b1
 Description: Best free alternative for Regram
 Name: Beegram For Instagram
 Author: Ali Latif
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXgJ0noLgmp5H3FM4XuBTdt1dejHzC9O0uQ8XmT-IRg&s
+Icon: https://i.pinimg.com/736x/df/e3/d1/dfe3d1202abf889fc9287803d45fc74f.jpg
 
 Package: com.amywhile.ccpatch13
 Architecture: iphoneos-arm64
@@ -26259,6 +26307,30 @@ Description: Telegram Enhancement Tweak
   * Settings screen - long press the third last option "Customer Service" to open the plugin.
   * Support Telegram, Turrit and other third-party clients.
   * Fixed languages
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/Rootless/com.choco.tgextra_1.7.1_iphoneos-arm64.deb
+Size: 2331252
+MD5sum: 738292ee00e97feb38d30328784ad153
+SHA1: a8f32df82037566afd1a222c0767a70a5572d798
+SHA256: c5a33ce12212e2056f5260b2fad31173c94f8563e7c5a92b7bc647280358a815
+SHA512: aeea62936963292637d1a1ff07503e139735696ef478fc5c328b0a73f06eff5a3de5e03559c3211d99f398d905d100e7b072a863f08e81762777435b75cbe0dc
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages 
+  * Support for Telegram 12.3
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
