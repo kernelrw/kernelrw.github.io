@@ -847,6 +847,23 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Name: TrollVNC
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.alilatif.beegram
+Architecture: iphoneos-arm
+Version: 1.0-bata5
+Section: Tweaks
+Maintainer: Ali Latif
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debians/Rootful/com.alilatif.beegram_1.0-bata5_iphoneos-arm.deb
+Size: 541356
+MD5sum: bdfb7e233c79a3ebafae3fe2a5c60f14
+SHA1: bba41257c63de23ac476a735fad597b4f4fd4b58
+SHA256: 4dbebb60ca6684c8f79c07c970d20028464dc19a7039e833442a2a7ccf08918c
+SHA512: 58ca1a62f47c550c535f857347e1c5fa7649cfc3de607e44de154a7e28ec6033cab4527b2908bb3a4e10b2072fff0a08c5f57600d29290cabf7f4a5012e030a0
+Description: Best free alternative for Regram
+Name: Beegram For Instagram
+Author: Ali Latif
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXgJ0noLgmp5H3FM4XuBTdt1dejHzC9O0uQ8XmT-IRg&s
+
 Package: com.amywhile.ccpatch13
 Architecture: iphoneos-arm
 Version: 4.0.0
@@ -11715,6 +11732,24 @@ Author: TweaksDev22<tweaksdev22@gmail.com>
 Depiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
 Icon: https://alexpng.github.io/depictions/com.alexpng.tapme/DebIcon.png
 SileoDepiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+
+Package: com.alilatif.beegram
+Architecture: iphoneos-arm64e
+Version: 1.0-bata5
+Section: Tweaks
+Maintainer: Ali Latif
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debians/Roothide/com.alilatif.beegram_1.0-bata5_iphoneos-arm64e.deb
+Size: 641084
+MD5sum: af2e5392b8e08794a78f298a2a93d72a
+SHA1: 7200c7e4f8f94880dd1ab36b0a0267dcabf9eb74
+SHA256: 8492e903c81b5c65d3b5ac99b25480a0eed66114a8fe132ae5f238d814155dc3
+SHA512: cd4ae0d47c810772f3896450ae3c093a48629c30f1542c3b8adbe791c3634b7a415462359d1cf1d04ca7684302f6d8fffd18511efcb222e6ca71dcb6a44de48a
+Description: Best free alternative for Regram
+Name: Beegram For Instagram
+Author: Ali Latif
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXgJ0noLgmp5H3FM4XuBTdt1dejHzC9O0uQ8XmT-IRg&s
 
 Package: com.amywhile.ccpatch13
 Architecture: iphoneos-arm64e
@@ -25639,6 +25674,23 @@ Author: TweaksDev22<tweaksdev22@gmail.com>
 Depiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
 Icon: https://alexpng.github.io/depictions/com.alexpng.tapme/DebIcon.png
 SileoDepiction: https://tweaksdev22.github.io/sileo-depiction/tapme/tapme.json
+
+Package: com.alilatif.beegram
+Architecture: iphoneos-arm64
+Version: 1.0-bata5
+Section: Tweaks
+Maintainer: Ali Latif
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debians/Rootless/com.alilatif.beegram_1.0-bata5_iphoneos-arm64.deb
+Size: 538168
+MD5sum: 7f92da7ffe1e0288528b0aa7a920b321
+SHA1: e15a9d6dfc99af6dcda5aeda189cfb43b7aa087f
+SHA256: c583843737a1350be527282a3d8fa9d2d08d479ba4f579cb6b2dba24d03b452c
+SHA512: 7fde2a6e8da36920e04af1c008d8e5941dd9ac2303e2d83ec7b1ddc6a009e548c1744ab3b09c601b44b410ef91eb8fa456c3f51e7a0da617b3e0064d22d3872e
+Description: Best free alternative for Regram
+Name: Beegram For Instagram
+Author: Ali Latif
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXgJ0noLgmp5H3FM4XuBTdt1dejHzC9O0uQ8XmT-IRg&s
 
 Package: com.amywhile.ccpatch13
 Architecture: iphoneos-arm64
