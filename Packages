@@ -229,16 +229,20 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 952
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debians/Rootful/codes.aurora.kayoko_3.0.2_iphoneos-arm.deb
-Size: 116708
-MD5sum: f8be3f4b15f7388807d98488caac4370
-SHA1: 31a3b30456d90c31e4fd626e24c3ffad6d502cf3
-SHA256: 43bf970361371d1a77f762256697ad31a3a17c18b79ec559c6b5be915eccba71
-SHA512: dbf51175c1c46e72ac59d125e8c253a4c919c291473338aac01c260f667cc3bbc674fc23733a280bfd0bbac8013f117107486da7828e0d3b156e632ff5038946
-Description: Clipboard manager for iOS.
-Name: Hello Kayoko
+Size: 116736
+MD5sum: 0168f899442c3a9ceb8363386305b784
+SHA1: 86f107e5bfce21f590e7d291d71bd67edb24bc8a
+SHA256: 2ba2afa5132fefc472d5f248d79f03429c7d56bc3c5285c60ba5a9890b7d67ec
+SHA512: ab290b30f0c1143b11cdb0b920425c2e0d7ce041d9655f826c6d13acb387ff57a4eedeb2a2187210111eac4fb6e59b7b04700a5cf9008803218ec813cfec4b31
+Description: Kayoko based on the i_82 version
+ * Optimize history collection switching
+ * Optimize list height
+ * Window rounded corner shadow
+ * New drop-down list search function
+ * Compatible with sg gesture callout .
+Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
-SileoDepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm
@@ -11255,16 +11259,20 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 952
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debians/Roothide/codes.aurora.kayoko_3.0.2_iphoneos-arm64e.deb
-Size: 112848
-MD5sum: 20da9471a3d1447735a9509bdc054b5d
-SHA1: 5601db70684d1b27600034ec88ab762860c88565
-SHA256: 31ca88892f3cc2f199623992069c0ae7ff4a447071257b1fd7833e7c67868edc
-SHA512: f337ba1ae87867d39d17d72a3512e415f2ddae9b371472f3dbfae42418fdf2f451b7662d135ac796bb07818ddc106dd903781ff7d7e93efcb888482b731d097d
-Description: Clipboard manager for iOS.
-Name: Hello Kayoko
+Size: 112896
+MD5sum: 2bb720af3e60a7f62acbfeb3037c6120
+SHA1: 3797b0193fec5fa7ac15bba3d7604709259f1e14
+SHA256: e67744dbae7cca616d2b24ea0368b475ad4b825eee4ec0ebe9521b7693d62de4
+SHA512: 0864318bde4b1c8f82a351b575ba86527b025ea601e92dab71e5028b7b5c378a580866b8e45e25d1bba201b280ba6efcf33bdb60aa3e62c88cf2c9389e8887ad
+Description: Kayoko based on the i_82 version
+ * Optimize history collection switching
+ * Optimize list height
+ * Window rounded corner shadow
+ * New drop-down list search function
+ * Compatible with sg gesture callout .
+Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
-SileoDepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64e
@@ -25267,16 +25275,20 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 952
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debians/Rootless/codes.aurora.kayoko_3.0.2_iphoneos-arm64.deb
-Size: 117212
-MD5sum: 33aa1fba9759f5a17df056d6855b677c
-SHA1: 2948cb9f99788db92184ff639fd2c1773b452119
-SHA256: 1cbecc2466b7299018c732e67f0c5081d58b0799422da5f5f3a4f2b981f9de7f
-SHA512: b036940c02bd140d2d84c866a29282b1ef010fc13595e4b4be48110c7e55b02a6728d94961b1de352eaa61728a69a19541fe7e278beef10cf54a54a8d92ae147
-Description: Clipboard manager for iOS.
-Name: Hello Kayoko
+Size: 117324
+MD5sum: 8099315d6f8cfc758fc017bdc2a83314
+SHA1: 754f34d9f12725a1ec050ef3b4be488510038f30
+SHA256: 1a4447c9f420e21435357a1a027860a3a877b6198dc648ea3d487968bcbf9151
+SHA512: 287f4c76121ca863da4ec961ecf025bd10036556fefec04c30372e2c54178e9d1b3c53a49c4cb3d7ca47bb3ed9ddd6653fbb2c9d40cafcafece70ca8c2236a33
+Description: Kayoko based on the i_82 version
+ * Optimize history collection switching
+ * Optimize list height
+ * Window rounded corner shadow
+ * New drop-down list search function
+ * Compatible with sg gesture callout .
+Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
-SileoDepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64
