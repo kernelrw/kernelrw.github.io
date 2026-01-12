@@ -223,6 +223,25 @@ Author: Alexandra Aurora Göttlicher
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm
+Version: 3.0.2
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootful/codes.aurora.kayoko_3.0.2_iphoneos-arm.deb
+Size: 116708
+MD5sum: f8be3f4b15f7388807d98488caac4370
+SHA1: 31a3b30456d90c31e4fd626e24c3ffad6d502cf3
+SHA256: 43bf970361371d1a77f762256697ad31a3a17c18b79ec559c6b5be915eccba71
+SHA512: dbf51175c1c46e72ac59d125e8c253a4c919c291473338aac01c260f667cc3bbc674fc23733a280bfd0bbac8013f117107486da7828e0d3b156e632ff5038946
+Description: Clipboard manager for iOS.
+Name: Hello Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
+SileoDepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm
 Version: 3.0
 Section: Tweaks
 Maintainer: Lessica <82flex@gmail.com>
@@ -11227,6 +11246,25 @@ SHA512: 3f8a28975f9f85a6acd39a57969bb4cdbc4da0af46e8fd615cfba227f2a8125781924abc
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64e
+Version: 3.0.2
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Roothide/codes.aurora.kayoko_3.0.2_iphoneos-arm64e.deb
+Size: 112848
+MD5sum: 20da9471a3d1447735a9509bdc054b5d
+SHA1: 5601db70684d1b27600034ec88ab762860c88565
+SHA256: 31ca88892f3cc2f199623992069c0ae7ff4a447071257b1fd7833e7c67868edc
+SHA512: f337ba1ae87867d39d17d72a3512e415f2ddae9b371472f3dbfae42418fdf2f451b7662d135ac796bb07818ddc106dd903781ff7d7e93efcb888482b731d097d
+Description: Clipboard manager for iOS.
+Name: Hello Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
+SileoDepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64e
@@ -25220,6 +25258,25 @@ SHA512: 9e6fabbadad35db04bae40993a5e4b01e115f86ec9a1504f37d8d2f8e3471c6d00d2506c
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 3.0.2
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootless/codes.aurora.kayoko_3.0.2_iphoneos-arm64.deb
+Size: 117212
+MD5sum: 33aa1fba9759f5a17df056d6855b677c
+SHA1: 2948cb9f99788db92184ff639fd2c1773b452119
+SHA256: 1cbecc2466b7299018c732e67f0c5081d58b0799422da5f5f3a4f2b981f9de7f
+SHA512: b036940c02bd140d2d84c866a29282b1ef010fc13595e4b4be48110c7e55b02a6728d94961b1de352eaa61728a69a19541fe7e278beef10cf54a54a8d92ae147
+Description: Clipboard manager for iOS.
+Name: Hello Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
+SileoDepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64
