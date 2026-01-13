@@ -9729,6 +9729,26 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Name: Rose 🌹
 Author: Litten
 
+Package: love.litten.violet
+Architecture: iphoneos-arm
+Version: 1.8
+Section: Tweaks
+Maintainer: zSaaiq
+Installed-Size: 1812
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Filename: ./debians/Rootful/love.litten.violet_1.8_iphoneos-arm.deb
+Size: 1006776
+MD5sum: 31496b5d85a2da92dbfb038014c6f5b4
+SHA1: d3112bc0b58e95d8ec8cdb006d3c75492d229e91
+SHA256: dd102cd94aa8ce08b5d75bedadfa799fb36c24968f05b3b15f370a18bf50a18f
+SHA512: 59531332fe44f27ee7550f686b4a034ed52b7cbca7eddcc07090351d021c99d6b207b5001b80d461486ad5999dbb8c97c6d84c87c7659c3c816ba70d3f294a56
+Description: Sweet addition to your wallpaper
+Name: Violet 🎀
+Author: Litten
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/violet.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/violet.json
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Violet.png
+
 Package: me.alfhaily.rocket
 Architecture: iphoneos-arm
 Version: 3.8.36
@@ -13896,6 +13916,27 @@ MD5sum: b76adf8cdd117bdf8f03e711e30094fc
 SHA1: 58893956d6939396a31a86ebc1f132450b23ada8
 SHA256: b53baa7bc47ad3e4616f39b640787edab947095a3a845de159f25040bbac244d
 SHA512: 27ae2842acf8b0ae9fdbbf61174766ec64578e5f06f8d598df40e56f712d35b532fb7ec799ab95127ac4fffe972277539a9ce41eba02a317c12a088a325ecfdb
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64e
+Version: 3.5.1
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/Roothide/com.f0u4d.onlinenotify_3.5.1_iphoneos-arm64e.deb
+Size: 215612
+MD5sum: fdb476c00709fc505eacbaf869ed02b8
+SHA1: 84d8160550c12635433d00bdd7080abe53ab9824
+SHA256: f7d0e6bebf76316abd4a095e585f5547539150dc757b6d51458d7d2b95c5bae3
+SHA512: 832b1b3030c7275c1e9c475c3fe7248a11e410b97f82acffd4a0928926941a1494a42841dd258a1ae74cff06d413df5183462b28c56902900a7cab3ca4e2050d
 Description: Track your friends on WhatsApp Messenger!
 Name: OnlineNotify
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -23062,6 +23103,27 @@ Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
 
+Package: love.litten.violet
+Architecture: iphoneos-arm64e
+Version: 1.8
+Section: Tweaks
+Maintainer: zSaaiq
+Installed-Size: 1812
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Filename: ./debians/Roothide/love.litten.violet_1.8_iphoneos-arm64e.deb
+Size: 1040480
+MD5sum: b2d3e69bcb5651f610d257b28966daa7
+SHA1: 022a4b6654cae855f55f3b30976459e34d6d308e
+SHA256: d9ea59afa2072b12b735e544df94d11ff8f4f6bbb9a8bd138bb9932976f08760
+SHA512: 8a57b9c172a062c63bb494fc0cb37d8e7bb134aea7ed385b0490e2f931dbf4b96037d2b5e5b8024822fdae6e5d6be979c725294de5cad0a96b22809ea8f50572
+Description: Sweet addition to your wallpaper
+Name: Violet 🎀
+Author: Litten
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/violet.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/violet.json
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Violet.png
+
 Package: me.alfhaily.rocket
 Architecture: iphoneos-arm64e
 Version: 3.8.36
@@ -28494,6 +28556,26 @@ MD5sum: 75fbdbeaefe2f7e2f1aad56e084c18b8
 SHA1: ba8a23dcf3b6ecff99dbe656f23ca9db87403d8d
 SHA256: 8f692c8619a9823b67f75260ebe4237ce1dbf8c9efdbad44639820e6fb9b0f6e
 SHA512: 9e679aeb051575c979f3b16cf39900405979c6fc480c7f0fba980d9d1845552b33ec7167be3e796ff506c4efd7c0420f0df814244f46a45197d6ec2967cb6a40
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64
+Version: 3.5.1
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 648
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/Rootless/com.f0u4d.onlinenotify_3.5.1_iphoneos-arm64.deb
+Size: 182146
+MD5sum: cce5a471dd8d64f0fb2588e77d2a43de
+SHA1: 25231c21c504ac1e0b2b604fea4015ffc6c41c93
+SHA256: 37b3bc57998dfbc4bfe78aaf75c9fd7adb2ddc0cea0599268ca3aee2951932e3
+SHA512: cbdbf7fd1afcfa01772f1d34b795d88b177db20283c89f689e3c7280abbf7bf052d2fbc21a2f3d9f5ed59f03949eff549d6ca048cac409f89e0af26d5ffb529b
 Description: Track your friends on WhatsApp Messenger!
 Name: OnlineNotify
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -37341,6 +37423,26 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Name: Rose 🌹
 Author: Litten
 Icon: file:///var/jb/Library/PreferenceBundles/RosePrefs.bundle/icon@2x.png
+
+Package: love.litten.violet
+Architecture: iphoneos-arm64
+Version: 1.8
+Section: Tweaks
+Maintainer: zSaaiq
+Installed-Size: 1812
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Filename: ./debians/Rootless/love.litten.violet_1.8_iphoneos-arm64.deb
+Size: 1011870
+MD5sum: b964cc6ebd41c7629c357ad9d4641215
+SHA1: 703c57255f1ed9c68edcaecca4ab3766015e35f3
+SHA256: b2ea5d873c306465f86e47fb72fa2c77c9540b378f3546ba1742a686c1a90c77
+SHA512: b047a81358f4b09cff39f8ff670e9eb004bde9d845b0865ece6f8bb4ebcce8f46e75b5d33636eeb3a0253fb92804ebcb0034ee68193c43d4c3f04fec3bc005d5
+Description: Sweet addition to your wallpaper
+Name: Violet 🎀
+Author: Litten
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/violet.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/violet.json
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/Violet.png
 
 Package: me.alfhaily.rocket
 Architecture: iphoneos-arm64
