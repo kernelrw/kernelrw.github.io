@@ -10213,11 +10213,11 @@ Maintainer: waruhachi
 Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootful/moe.waru.jikan_2.2_iphoneos-arm.deb
-Size: 51044
-MD5sum: 04bf8630c8cb0ea8438d24ba363368b9
-SHA1: 2dc49f71bd3f08e3ce8b97986263ede32242742d
-SHA256: 5763be21c7acfdc8cf2a6d68135ae27626dd68f30818ae0fefade4c53adef8ab
-SHA512: 4d19b6850c59228d1c3d0384b346f58fb1f45b1eeb16153d04ad6a228b8c44e0d6b17f8c9b496ecf42d98ab756667839a5e644f4260946c7771034f74dea785e
+Size: 51064
+MD5sum: 55166a18c7e866ad70762f7498f0f23e
+SHA1: de485318a7c778f60ce59317598a93aa6f4c2b59
+SHA256: 898a922f59636142bec60541b0d612699471654f3138d0c8e4b63cc8d1e074e2
+SHA512: 61d8244d71374e91bb0caed6dd5fb7d173c5a314b1856ddb3100cc2b73ded0df5b72c594ff2c5fdeff23a25c5cccb1f70e894458a804b503b90f14bac6180e50
 Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
 Author: waruhachi
@@ -23715,11 +23715,11 @@ Maintainer: waruhachi
 Installed-Size: 508
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Roothide/moe.waru.jikan_2.2_iphoneos-arm64e.deb
-Size: 47700
-MD5sum: ee7f92bab1bbf12b0c8fc1f1bd373f05
-SHA1: 1a15fb5ff791bdb73c6aa49de005fc84b28c4e33
-SHA256: aef1a1df528e135a58afef4182fc15acb202539270975f393824b68af1960618
-SHA512: 82da08c83d8f375b9e201cf2bbec21ddea1c7a5e8fd0bd2c57bb964bdb4d80cbb06b80042292dadf26a7b47552b84bc8396e1fa90eaa56f76fcf60d7fa67d6aa
+Size: 47760
+MD5sum: 51790f4148b42fc69e8446a73fa5ab4b
+SHA1: 27d5f20296919de60f6ca88a7881d7a44f62678d
+SHA256: 9449063118a64a966f7079ff6c4931c8196735b16a65e446f7e3b08b0f60ea96
+SHA512: 0fd3f3996019754efe1c69287e9f1e8606691165f1448138107c0d8eb735f316e30b8e2db0d4273b21e62ecb9b4dbf721e32c61b57289a2ed0ec49c071505575
 Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
 Author: waruhachi
@@ -37984,11 +37984,11 @@ Maintainer: waruhachi
 Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/Rootless/moe.waru.jikan_2.2_iphoneos-arm64.deb
-Size: 51144
-MD5sum: 94854ef9571805b356d86b6ed2d1308b
-SHA1: 598c44183c28580db733e20c28d73e33abc70302
-SHA256: e792704b1b9768193c84dd2bf715bb7de66b12d119af52942c13809415e456b1
-SHA512: dc8c1e4357f45bb690394071c00a5e08c53b2cbbf1a3d2f7ccccc962a7b17123bcd2eb556e33a0051e9044273fb040bbfb0c5f183e0ba5bb7c62eaef6b2ce9f7
+Size: 51154
+MD5sum: c16d5de81fc78bfae6c71bd5b8d01e1c
+SHA1: e93bc2a011e684dd1bc879a86e6de860a65d410f
+SHA256: 4e931b1a44c614b49313cbd0db1e15caccc1056880d3ff40405e2ad69614c835
+SHA512: 195bb66cb893dc6dc90266fc5d8232e039b3ec15b047ab8f7619bbbe704f489a130c513ffdedd29fd408a3071161f36a8a7910c5276e2fcdd31a0786f7fe0ce5
 Description: Show estimate time left to full charge on your lock screen
 Name: Jikan
 Author: waruhachi
