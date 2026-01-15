@@ -23159,6 +23159,79 @@ Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/violet.html
 SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/violet.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Violet.png
 
+Package: me.ahmedbafkir.dlinsta
+Architecture: iphoneos-arm64e
+Version: 2.5.0
+Section: Tweaks
+Maintainer: AhmedBafkir
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/me.ahmedbafkir.dlinsta_2.5.0_iphoneos-arm64e.deb
+Size: 504946
+MD5sum: 34a87cad41e58a03f7d6238090561528
+SHA1: 9adddf080ba9cf5cabe6e1ca2a80de06f5d5c10c
+SHA256: 2572a4a974816eb4f7295de9c86cfba869b33da749811cb0e8317dd48e596fe6
+SHA512: bcf4334bbdaf44929864f155e646a6559438818461e33ed399c33a55d6cccbd6c59b1e362d6d671994378a13f95106455b1612540c6282ac75989aabde94958e
+Description: Make instagram great again . Supports Instagram 407.0.0
+Name: DLInsta
+Author: AhmedBafkir
+Icon: https://ipa.tweakdoor.com/images/1709624621.webp
+
+Package: me.ahmedbafkir.dltiktok
+Architecture: iphoneos-arm64e
+Version: 2.1.4
+Section: Tweaks
+Maintainer: Ahmed Bafkir
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/me.ahmedbafkir.dltiktok_2.1.4_iphoneos-arm64e.deb
+Size: 382472
+MD5sum: 397bc0af37dd2afd4508c09c3118dc45
+SHA1: bfd6ccb54e1cb5e66044d053e85542868de09bb8
+SHA256: a5487601b2d9ad20e1b199f0430ceebd26a8a2ec645d5decde87508085bc589b
+SHA512: f83ea62e5800d5612679bc90971b77d369dbd76570614700505a2518f12428b12cd72d6aafbfc2897de958d45fe5838989c379308379e6b599f8fed23df2a223
+Description: Make TikTok great again , 
+ Supports TikTok 42.2.0
+Name: DLTikTok
+Author: Ahmed Bafkir
+Icon: https://ipa.tweakdoor.com/images/1709624621.webp
+
+Package: me.ahmedbafkir.dltube
+Architecture: iphoneos-arm64e
+Version: 2.16.3
+Section: Tweaks
+Maintainer: Ahmed Bafkir
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/me.ahmedbafkir.dltube_2.16.3_iphoneos-arm64e.deb
+Size: 455102
+MD5sum: 2b338a3787b66f364245cc731508e267
+SHA1: c071424695e5e08767bf664cef8e085f01346a54
+SHA256: fa3bb5786a36abe507318a18fd6da1fb31a90a083ee5894044f7fbc5107c9716
+SHA512: 684750cbca084ab415eaf989e792a43cdc161a6623a829d7a1f7cd52e9a6ed7cb969eb20f60639cfbb6915a6d4f390f94d6c7816648d3a592d7942e9a8346f6e
+Description: Make YouTube great again . Supports YouTube 20.42.3
+Name: DLTube
+Author: Ahmed Bafkir
+Icon: https://ipa.tweakdoor.com/images/1709624621.webp
+
+Package: me.ahmedbafkir.dltwitter
+Architecture: iphoneos-arm64e
+Version: 2.1.6
+Section: Tweaks
+Maintainer: Ahmed Bafkir
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/me.ahmedbafkir.dltwitter_2.1.6_iphoneos-arm64e.deb
+Size: 13651726
+MD5sum: c515bdfd048be214ced364f1aa85ce89
+SHA1: 55af8a8f6f3695bf0732c629c7eb2de6e2695d4a
+SHA256: 9c9e8b7aa6b7c4b2b994a041e845a300efa9d38133ba974d5eaa6a66cf62cd68
+SHA512: b4e2a82431717e253e3157505d26f4f930229f838c21cf8d28100cef0b9daebd6b40144bdbed7f35f123062efeb68bbdb57dd6b5cedc405607e243c4d619715b
+Description: Make Twiiter(X) great again . Supports  X 11.48
+Name: DLTwitter
+Author: Ahmed Bafkir
+Icon: https://ipa.tweakdoor.com/images/1709624621.webp
+
 Package: me.alfhaily.rocket
 Architecture: iphoneos-arm64e
 Version: 3.8.36
@@ -37495,6 +37568,75 @@ Author: Litten
 Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/violet.html
 SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/violet.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Violet.png
+
+Package: me.ahmedbafkir.dlinsta
+Architecture: iphoneos-arm64
+Version: 2.5.0
+Section: Tweaks
+Maintainer: AhmedBafkir
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/me.ahmedbafkir.dlinsta_2.5.0_iphoneos-arm64.deb
+Size: 370100
+MD5sum: d55f32492634b65f48ecda72f8e9e376
+SHA1: 1c9f8ab47a047d462d39c86b9e9b2017164dbf49
+SHA256: 79cfe22634bbcef29b6a8025ba8db5140f8024610721a88ec3468613c70fa3ec
+SHA512: 863b3f8b8170864a23671a28357b493b1d7afa93bf47b7f2911aa7b970cba604a0b529dbd6ac5250a162807afc366f2f7aae16eaf286c470e1ec06439b7ad578
+Description: Make instagram great again . Supports Instagram 407.0.0
+Name: DLInsta
+Author: AhmedBafkir
+Icon: https://ipa.tweakdoor.com/images/1709624621.webp
+
+Package: me.ahmedbafkir.dltiktok
+Architecture: iphoneos-arm64
+Version: 2.1.4
+Section: Tweaks
+Maintainer: Ahmed Bafkir
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/me.ahmedbafkir.dltiktok_2.1.4_iphoneos-arm64.deb
+Size: 289880
+MD5sum: 3c4cd6e82066df6ffe5bf4cb81cfddaf
+SHA1: 4c7a060a33b2782c19f367d164ff0b587afb9c0c
+SHA256: 0545733fd2e83ba54126e246f8e1af9f598286e7f8cd350bb6ec66566c6fa5dd
+SHA512: f36c32648d8072037967e5f50b7474aea608d6bb2fc50fe53fa59c8b3054fe921838735498438ead527f9c1e0ee4bf8c864dbc1650d29fca8ebc1f481cfad76a
+Description: Make TikTok great again , 
+ Supports TikTok 42.2.0
+Name: DLTikTok
+Author: Ahmed Bafkir
+Icon: https://ipa.tweakdoor.com/images/1709624621.webp
+
+Package: me.ahmedbafkir.dltube
+Architecture: iphoneos-arm64
+Version: 2.16.3
+Section: Tweaks
+Maintainer: Ahmed Bafkir
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/me.ahmedbafkir.dltube_2.16.3_iphoneos-arm64.deb
+Size: 350924
+MD5sum: e7c814c9253e61767ac328b094903196
+SHA1: f265811f4a3915cd7f9440dbf3265e3581a2f09a
+SHA256: 4f2e134c0077e87ea9d56704267656331bdde93305f5da8a6d8996d9fe38789d
+SHA512: 95c423aef75438a5250702328aaefd63da86eea7706c20e638e9ce2e02b3e1a52abaac0ed773ef677951a6cf2fbb282e2768e606bc769bc3db9ab4617bc6885c
+Description: Make YouTube great again . Supports YouTube 20.42.3
+Name: DLTube
+Author: Ahmed Bafkir
+Icon: https://ipa.tweakdoor.com/images/1709624621.webp
+
+Package: me.ahmedbafkir.dltwitter
+Architecture: iphoneos-arm64
+Version: 2.1.6
+Section: Tweaks
+Maintainer: Ahmed Bafkir
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/me.ahmedbafkir.dltwitter_2.1.6_iphoneos-arm64.deb
+Size: 5055780
+MD5sum: 28c256f351b11ce033b65863d6986ec1
+SHA1: 8c2ebf63382e56b82fb92c64e2eee7a1fb70a7c1
+SHA256: 79fbc2da832c16c15ae3ed6795ce8cf429609302670f0b9745e761406e9f06f2
+SHA512: 8f08354fc6d743dba69dcb3a7d81fa6efc48c8b03fc13355d48b1c55072a7321c7997110deae07bdf26862e40a3b5ef41a40123caf7027c3bf0d70abcf1936cd
+Description: Make Twiiter(X) great again . Supports  X 11.48
+Name: DLTwitter
+Author: Ahmed Bafkir
+Icon: https://ipa.tweakdoor.com/images/1709624621.webp
 
 Package: me.alfhaily.rocket
 Architecture: iphoneos-arm64
