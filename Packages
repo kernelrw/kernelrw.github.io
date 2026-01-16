@@ -12325,6 +12325,32 @@ Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.cannathea.afc2d-arm64
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 343
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Pre-Depends: rootless-compat(>= 0.9), dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debians/Roothide/com.cannathea.afc2d-arm64_1.2.1_iphoneos-arm64e.deb
+Size: 72810
+MD5sum: 3c18a91884809dd86e2de97b95e5c30e
+SHA1: f510d95337cf7661add539a0d6599e2e5658e3bd
+SHA256: 577e3a802c1f26ba440e690d559b0a10a7339f65853e09c17aa07bef43ab71ab
+SHA512: ffefff0d70dbed24f853a9bdd1965b7eeb0d217aa3542b663723a51f915cdf19a948332853ab5f8c39b4bec1bc7a9c225d971c52c0131a4e0b2617dcc48ee8fa
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above. Please install ldid as it is required for use. (except for the XinaA15 jailbreak)
+Tag: purpose::daemon
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: cannathea
+
 Package: com.cannathea.afc2d-arm64e
 Architecture: iphoneos-arm64e
 Version: 1.1.7-21
@@ -26300,6 +26326,32 @@ SHA512: 54880f072d3e34b567f63fec18970c69343b8afca7e3e90b9d75456beec5b0c0ca934963
 Description: A better way to multitask! Fix support for iOS15+
 Name: PullOver Pro
 Author: c1d3r
+
+Package: com.cannathea.afc2d-arm64
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 343
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debians/Rootless/com.cannathea.afc2d-arm64_1.2.1_iphoneos-arm64.deb
+Size: 19232
+MD5sum: 4d05007eb4e116d8b39722be1506dd9c
+SHA1: 46f9236200447a40e9dc92fdfc8a5460d2014207
+SHA256: 9f00021918e3ff20d81b88c4c77eb45df302ab63b21f7ea0612655546bb10bdb
+SHA512: 7f404cc4490024ff0d22bd687f1c2bd4b73093d17ecfdb723c36072c95365a9ad36bf31b290f7dae2f554cc38d7487cddbb95b40b0f74768585f6de2a5cc356e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above. Please install ldid as it is required for use. (except for the XinaA15 jailbreak)
+Tag: purpose::daemon
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: cannathea
 
 Package: com.choco.tgextra
 Architecture: iphoneos-arm64
