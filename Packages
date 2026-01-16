@@ -601,14 +601,14 @@ Architecture: iphoneos-arm
 Version: 1.3.1-1+debug
 Section: Applications
 Maintainer: Little 34306
-Installed-Size: 4360
+Installed-Size: 5132
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Filename: ./debians/Rootful/com.34306.trolldecryptjb_1.3.1-1+debug_iphoneos-arm.deb
-Size: 920086
-MD5sum: d1fd936de564ca6337da122f943a8001
-SHA1: 6b827e27047bfaa9a78eb39a24bd799de0043d83
-SHA256: a64dd2e01b07fde38a915e66e378cf2e4cb6d67f305957dd467a95827e0a5adf
-SHA512: 521596436d339d4e5a32b5185f55ace44a7e9ee501dbc8486d53112aad27d8b5895d38fb8137a4866a7a23aebc5cec7727543525b3137692ce37f48676c324f6
+Size: 1041398
+MD5sum: 74c52974897316e2b8378a2d21777f1a
+SHA1: 9a3e15406509840949261eefd9e7318ce62536ee
+SHA256: f0b374f17b99e4fb5e0ec202b7c4badb704a4fb5373e51683ddf73f9fae85454
+SHA512: b0a6eaf1912e35472559761f0c713aaeddace174a706b15f7b7c6c0894463f942d634aef364ca8e6143c777a71d529c123d48325799b3052cef67284485ab99c
 Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
@@ -8472,6 +8472,22 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
 
+Package: com.vanson.modifier
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Utilities
+Maintainer: Vanson
+Installed-Size: 2036
+Filename: ./debians/Rootful/com.vanson.modifier_2.3_iphoneos-arm.deb
+Size: 1147232
+MD5sum: 0193166ff4935e8c5d3aa2e2ab7c6fe7
+SHA1: d1c2eabe8c0bb12c2bfda41ec4e6c58b85243029
+SHA256: c9ac06e055538e4a818a50b54f51011dd71787cfcdc4bc2f9e7876b965b74add
+SHA512: 4bce1d9ffbdb0285ff3695cc6112abc714f438aa7c0f5f9955aefaf67f53302fe9e1beb34047c2aaddf702b0eaa59c356f25d81b5d28aaf6ba7874168be70fa0
+Description: Vanson U Know?
+Name: VansonModifier
+Author: Vanson
+
 Package: com.wrp1002.growingbadges
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -11518,15 +11534,15 @@ Architecture: iphoneos-arm64e
 Version: 1.3.1-1+debug
 Section: Applications
 Maintainer: Little 34306
-Installed-Size: 1392
+Installed-Size: 5132
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), lldb
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Filename: ./debians/Roothide/com.34306.trolldecryptjb_1.3.1-1+debug_iphoneos-arm64e.deb
-Size: 337990
-MD5sum: 59426445e19527aad670c39df98125a7
-SHA1: ab7d784444365732813d441d75209a065403de85
-SHA256: ee4197b44e606b45362d7e7058406fdb25bfffd933311b0d9e5088d249c8b3e9
-SHA512: 0861bf348d69e68b8aa3e82639c1f04ee69113704e7581cd8cffdae669c2482861a1d4e746db289acee2c3af7c995fd4ad753cb13e9cc4f5c9daac687ab1af3f
+Size: 1660522
+MD5sum: 6d2a7d7cdefa110e61dd961a9358ea66
+SHA1: 4480c0006585e1e5937e738dd59b4e98ce6977f8
+SHA256: f5455829d2fdec643d714a3f783eb64d5d91e979164c517a021faa6aad333b93
+SHA512: c4fc6725af932cda2f8b04097f9af7f91048a92c8b22425731e3e3a68028324e31b97f8ff7620ac90f253f7afc2d4629d02b49e767d44b7bb6c6d9d2fa7086ef
 Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
@@ -21668,6 +21684,23 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
 
+Package: com.vanson.modifier
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Utilities
+Maintainer: Vanson
+Installed-Size: 2036
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/com.vanson.modifier_2.3_iphoneos-arm64e.deb
+Size: 1938676
+MD5sum: 925fd9e2ff6da64668ad3eb68aa982c2
+SHA1: 7dcccf6db7ba15eaa1fd9076278c40e934d10b68
+SHA256: 3b0499583bf14138ed921aec807fd0e2b6e0f394f5d56f75d314b482df372a98
+SHA512: 4505d3763029f2033413e9ec0a8902580ff13ee936734a9976791f01099d68068a4c2b1fd80c99a61c2551e0e805c3ddd53d7433887afac5205a1e0153e2943f
+Description: Vanson U Know?
+Name: VansonModifier
+Author: Vanson
+
 Package: com.wrp1002.growingbadges
 Architecture: iphoneos-arm64e
 Version: 1.1.0
@@ -25408,14 +25441,14 @@ Architecture: iphoneos-arm64
 Version: 1.3.1-1+debug
 Section: Applications
 Maintainer: Little 34306
-Installed-Size: 1392
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), lldb
+Installed-Size: 5132
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Filename: ./debians/Rootless/com.34306.trolldecryptjb_1.3.1-1+debug_iphoneos-arm64.deb
-Size: 290752
-MD5sum: a2cad741439f6c117c0cac43eb34decc
-SHA1: 6e728b3eeb6112019e7a25b3874a58e55269103a
-SHA256: 11756958fc92c2fb6415e5e13a147212e29261d5f8a7a7b84c11b967d31db369
-SHA512: b3a9805ed8e2897c42e60ec3380d22dfadbe2452d78febe61730cac3ac4656aebb6739d69e31eff46105c2f631b77060736200a5a28d9bc063774b0c839bd3e2
+Size: 605560
+MD5sum: 4fc125f12458756c4d54b5a7ff1e8701
+SHA1: c085ac9dc86e83863c1ea6fbcc64cb44aa9ba148
+SHA256: 853dbf99d68c7ba8cdd57983f0cf44d2ab74151b6eef69ed228b1088a895a9e8
+SHA512: e5342bd71bf5f013b555ef2fa868aaff019b60773f76f5de147598b8bc37e49a0d3546a94fd1a5dfa940c6882f965ef6f94d724c43114f72089c209e3b8c2285
 Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
@@ -35596,6 +35629,22 @@ Author: uncore
 Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 SileoDepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 Header: https:/uncore.me/api/media/file/banner.jpg
+
+Package: com.vanson.modifier
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Utilities
+Maintainer: Vanson
+Installed-Size: 2036
+Filename: ./debians/Rootless/com.vanson.modifier_2.3_iphoneos-arm64.deb
+Size: 1140720
+MD5sum: 56e3bc5a6bbbd9a82fcf2794863764b6
+SHA1: 3edea3f1ebb05c6b352fe28ad5a1f159ecc88307
+SHA256: f4a4bfb6dc218f63f01ac36fefb332aaaff7a1af9bf6f8d7446fde6e336c44dd
+SHA512: b6374b91a3bd3c5685ef01f953c70e3454f53c63e6cc77fbd2fb352b3c6401cb3ab0769e2c907c09015dede6a87567f9e660a1b5ea3793ebe87adff7c61cea4b
+Description: Vanson U Know?
+Name: VansonModifier
+Author: Vanson
 
 Package: com.wrp1002.growingbadges
 Architecture: iphoneos-arm64
