@@ -8505,6 +8505,23 @@ Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
 
+Package: com.xwzios.floatlyrics
+Architecture: iphoneos-arm
+Version: 1.0.0-16+debug
+Section: Tweaks
+Maintainer: xwzios
+Installed-Size: 548
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.xwzios.floatlyrics_1.0.0-16+debug_iphoneos-arm.deb
+Size: 45120
+MD5sum: abe1defee547377bdd6a3ed5393d0d11
+SHA1: 85b69e5ea7ad78ba029dc55983a8e3e9be6551cd
+SHA256: 1b369b303446600dab329812b7d14fbb16733c64adea05e0db88acbfd366edd6
+SHA512: 55cc6789b508d5fa09f202d0aeb568c6033ec97b4676006456416cc1f37d189ce42d46c579ba519f218409bc2f2d465e4d46b3c73e8b274654c1635c124cca09
+Description: Hover Lyrics Display plugin - displays the currently playing lyrics on the screen in real time
+Name: FloatLyrics
+Author: xwzios
+
 Package: com.xyaman.tako
 Architecture: iphoneos-arm
 Version: 3.5.2.1
@@ -21745,6 +21762,24 @@ Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
 
+Package: com.xwzios.floatlyrics
+Architecture: iphoneos-arm64e
+Version: 1.0.0-16+debug
+Section: Tweaks
+Maintainer: xwzios
+Installed-Size: 548
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Roothide/com.xwzios.floatlyrics_1.0.0-16+debug_iphoneos-arm64e.deb
+Size: 65444
+MD5sum: 231cd18c7e8890c16abbda314e6cb97d
+SHA1: 1b4506f31722e4624e9e3d340dfd8086f4121f57
+SHA256: fcd8a3565a15ef81c0494093a2484c94d54e48e7302d31c752da21404fb5dda0
+SHA512: 94f2e2030ed8bbd1cd6b680e0a727da886469254ac4f2ebb9d185b324c0d4e02e121c95099eebbb5282754c80e475c1d36602296cf938c4dc855f5e9705a33b5
+Description: Hover Lyrics Display plugin - displays the currently playing lyrics on the screen in real time
+Name: FloatLyrics
+Author: xwzios
+
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64e
 Version: 3.5.2.1
@@ -22196,6 +22231,24 @@ SHA512: bb83fe08158f33a40ed91af1fc8d0c2143d7d47f6724a41e00750c52dd1819af033a1e79
 Description: Random ordered passcode buttons
 Name: CodeScrambler (7-14)
 Author: Jordan Koch <me@jordanko.ch>
+
+Package: dev.hhse.theball
+Architecture: iphoneos-arm64e
+Version: 3.1
+Section: Tweaks
+Maintainer: hhse
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Roothide/dev.hhse.theball_3.1_iphoneos-arm64e.deb
+Size: 9664574
+MD5sum: 6c4d67bbaf4a31f7ea8656788b861749
+SHA1: 19988e7b66c90deb916470fe355f3be4ef9c8f2c
+SHA256: 7af2684becdffbdda22b2cd72fc309c28afc486439a86c395c7e5a14804e1231
+SHA512: f00b59009036ed614436cb0aca4cf91b4161cdbac04108bcf7eb238dd62278da388c92e0c4938db32446d28b0d2b02bcdbe3f596a1dd4b48256f4055d7ca084e
+Description: Multi-Tasking simply and perfectly .
+Name: The Ball
+Author: hhse
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnhpevlPFweSFSJ1wOb-zPfYTmslIfhNR9OW6EMmsbdgogAxqsge9KKkw&s=10
 
 Package: dev.kernelrw.ccshutdown
 Architecture: iphoneos-arm64e
@@ -35715,6 +35768,23 @@ Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
 
+Package: com.xwzios.floatlyrics
+Architecture: iphoneos-arm64
+Version: 1.0.0-16+debug
+Section: Tweaks
+Maintainer: xwzios
+Installed-Size: 548
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.xwzios.floatlyrics_1.0.0-16+debug_iphoneos-arm64.deb
+Size: 46940
+MD5sum: c02e56d2f63f85cc633c63bb02a07a4c
+SHA1: f264ba9c4bbe0a742caed10ed33501e666392226
+SHA256: 943cdf9c27612591374f93e23578665ab7efcb11e4f41e4f3a8c233d83b60026
+SHA512: 5cae38d5899937cce88bd9b1d8c36f0fd848e79271e025c131831d07a2400ba6e936aad10048dc27cebfb74314c160877dd35d1aa2b1782f93bb5e6448d46790
+Description: Hover Lyrics Display plugin - displays the currently playing lyrics on the screen in real time
+Name: FloatLyrics
+Author: xwzios
+
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64
 Version: 3.5.2.1
@@ -36440,6 +36510,23 @@ SHA512: cd2b982db074fdaefdcdf64caed6be779c6d3b3578dad900654a1e03e9e60fa0fa58b7a2
 Description: Random ordered passcode buttons
 Name: CodeScrambler (7-14)
 Author: Jordan Koch <me@jordanko.ch>
+
+Package: dev.hhse.theball
+Architecture: iphoneos-arm64
+Version: 3.1
+Section: Tweaks
+Maintainer: hhse
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debians/Rootless/dev.hhse.theball_3.1_iphoneos-arm64.deb
+Size: 3900312
+MD5sum: b51531d258ce2605a3a85eb6e2034364
+SHA1: 4d2cc0c456bb1ff246aa4a1b7899aa7b15442714
+SHA256: 286a09bde99e0f4cb35dc2efe93460b2291d458371465f0e221bc8f644bb7630
+SHA512: 7b05c6b22bd197bf80cfae2431c0704a53c2ad2bd371bc676de35c6e5d292b9e124e4886b93cf00c427cce42bba59405bb42f566185eea562c6886574ea3cc36
+Description: Multi-Tasking simply and perfectly .
+Name: The Ball
+Author: hhse
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnhpevlPFweSFSJ1wOb-zPfYTmslIfhNR9OW6EMmsbdgogAxqsge9KKkw&s=10
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64
@@ -38598,6 +38685,29 @@ Name: Sileo
 Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64
+Version: 2.5.2
+Section: Packaging
+Maintainer: Amy While
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/Rootless/org.coolstar.sileo_2.5.2_iphoneos-arm64.deb
+Size: 2694564
+MD5sum: 55d28481dcdfdd674c167f5a03a49a32
+SHA1: 53d145f6dc07606959aaf8da6b9b3433a1e96727
+SHA256: 5cd863faf0a4196ada70c7b882ac69f9b01f59ba8168f64a65214f2883812b4b
+SHA512: 1f4df3b4cfcfa6adaa81b1f402b3d9b3149bece4992dd13a43919a7a962f33bc3e3abd0ad4b4826696d4e8f4698deafeff0c8b059163da7bf45d8c140aea4017
+Description: A modern APT package manager frontend.
+  - ****`--- New in 2.5.2 ---`****
+  - Sources Search Bar - search repos by name or URL
+  - Download DEB swipe action
+  - Ignored Keywords - filter out packages
+  - Edit Ignored Keywords
+  - Clean Repos - scan and remove dead repositories
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgetsileo.app%2Fimg%2Ficon.png&s=180x180&f=webp
+Name: Sileo
+Author: Amy While, waruhachi, Korboy
 
 Package: org.thebigboss.ios6completetheme
 Architecture: iphoneos-arm64
