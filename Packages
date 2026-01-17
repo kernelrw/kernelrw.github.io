@@ -38634,29 +38634,6 @@ Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
-Package: org.coolstar.sileo
-Architecture: iphoneos-arm64
-Version: 2.5.2
-Section: Packaging
-Maintainer: Amy While
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: ./debians/Rootless/org.coolstar.sileo_2.5.2_iphoneos-arm64.deb
-Size: 2694564
-MD5sum: 55d28481dcdfdd674c167f5a03a49a32
-SHA1: 53d145f6dc07606959aaf8da6b9b3433a1e96727
-SHA256: 5cd863faf0a4196ada70c7b882ac69f9b01f59ba8168f64a65214f2883812b4b
-SHA512: 1f4df3b4cfcfa6adaa81b1f402b3d9b3149bece4992dd13a43919a7a962f33bc3e3abd0ad4b4826696d4e8f4698deafeff0c8b059163da7bf45d8c140aea4017
-Description: A modern APT package manager frontend.
-  - ****`--- New in 2.5.2 ---`****
-  - Sources Search Bar - search repos by name or URL
-  - Download DEB swipe action
-  - Ignored Keywords - filter out packages
-  - Edit Ignored Keywords
-  - Clean Repos - scan and remove dead repositories
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgetsileo.app%2Fimg%2Ficon.png&s=180x180&f=webp
-Name: Sileo
-Author: Amy While, waruhachi, Korboy
-
 Package: org.thebigboss.ios6completetheme
 Architecture: iphoneos-arm64
 Version: 2.0
