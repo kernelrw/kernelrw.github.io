@@ -8505,23 +8505,6 @@ Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
 
-Package: com.xwzios.floatlyrics
-Architecture: iphoneos-arm
-Version: 1.0.0-16+debug
-Section: Tweaks
-Maintainer: xwzios
-Installed-Size: 548
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/Rootful/com.xwzios.floatlyrics_1.0.0-16+debug_iphoneos-arm.deb
-Size: 45120
-MD5sum: abe1defee547377bdd6a3ed5393d0d11
-SHA1: 85b69e5ea7ad78ba029dc55983a8e3e9be6551cd
-SHA256: 1b369b303446600dab329812b7d14fbb16733c64adea05e0db88acbfd366edd6
-SHA512: 55cc6789b508d5fa09f202d0aeb568c6033ec97b4676006456416cc1f37d189ce42d46c579ba519f218409bc2f2d465e4d46b3c73e8b274654c1635c124cca09
-Description: Hover Lyrics Display plugin - displays the currently playing lyrics on the screen in real time
-Name: FloatLyrics
-Author: xwzios
-
 Package: com.xyaman.tako
 Architecture: iphoneos-arm
 Version: 3.5.2.1
@@ -21761,24 +21744,6 @@ SHA512: 334a07834e8494d4f5aa532d918e3d3dc8981c378bd97a595c948db01b9b5583e9aaa7eb
 Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
-
-Package: com.xwzios.floatlyrics
-Architecture: iphoneos-arm64e
-Version: 1.0.0-16+debug
-Section: Tweaks
-Maintainer: xwzios
-Installed-Size: 548
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/Roothide/com.xwzios.floatlyrics_1.0.0-16+debug_iphoneos-arm64e.deb
-Size: 65444
-MD5sum: 231cd18c7e8890c16abbda314e6cb97d
-SHA1: 1b4506f31722e4624e9e3d340dfd8086f4121f57
-SHA256: fcd8a3565a15ef81c0494093a2484c94d54e48e7302d31c752da21404fb5dda0
-SHA512: 94f2e2030ed8bbd1cd6b680e0a727da886469254ac4f2ebb9d185b324c0d4e02e121c95099eebbb5282754c80e475c1d36602296cf938c4dc855f5e9705a33b5
-Description: Hover Lyrics Display plugin - displays the currently playing lyrics on the screen in real time
-Name: FloatLyrics
-Author: xwzios
 
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64e
@@ -35767,23 +35732,6 @@ SHA512: 39ddb80ea2d06f25580728775d17a3540baacae35a7de24a95dcb2d7420e874171a074e2
 Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
-
-Package: com.xwzios.floatlyrics
-Architecture: iphoneos-arm64
-Version: 1.0.0-16+debug
-Section: Tweaks
-Maintainer: xwzios
-Installed-Size: 548
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/Rootless/com.xwzios.floatlyrics_1.0.0-16+debug_iphoneos-arm64.deb
-Size: 46940
-MD5sum: c02e56d2f63f85cc633c63bb02a07a4c
-SHA1: f264ba9c4bbe0a742caed10ed33501e666392226
-SHA256: 943cdf9c27612591374f93e23578665ab7efcb11e4f41e4f3a8c233d83b60026
-SHA512: 5cae38d5899937cce88bd9b1d8c36f0fd848e79271e025c131831d07a2400ba6e936aad10048dc27cebfb74314c160877dd35d1aa2b1782f93bb5e6448d46790
-Description: Hover Lyrics Display plugin - displays the currently playing lyrics on the screen in real time
-Name: FloatLyrics
-Author: xwzios
 
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64
