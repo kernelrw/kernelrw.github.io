@@ -13792,49 +13792,6 @@ Name: 120Hz
 Author: F0rd0w
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzdc14HqaxmwHDDF9PLXLNqs1MYhymkGMy3KXEvv20w&s=10
 
-Package: com.f0rd0w.regram
-Architecture: iphoneos-arm64e
-Version: 2.4
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 49720
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
-Filename: ./debians/Roothide/com.f0rd0w.regram_2.4_iphoneos-arm64e.deb
-Size: 68569964
-MD5sum: e8ed241aae06783aaeeb79645456fc60
-SHA1: 1b62d1526d1602151c67d30655643e32a4fe63a7
-SHA256: a9e5c03c8a767a3424f909f775ce2269cc4cc5e731b10e25e1e927733388e163
-SHA512: 9eb5d5f256250efee31785d9521a90673a1550f3ffe43b753778655ede203a44eefc5b05dddbdea358a378580fe1f110850db4dac58fefc8e67b4e195b58b550
-Description: The all-in-one tweak for Instagram
-Name: Regram for Instagram
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJEiCIdQ9TA7kkcOn2yTsYR7dLsoRcIc8iq7SDPfyTg&s=10
-
-Package: com.f0rd0w.watusi3
-Architecture: iphoneos-arm64e
-Version: 1.3.1
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 9420
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
-Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debians/Roothide/com.f0rd0w.watusi3_1.3.1_iphoneos-arm64e.deb
-Size: 23095924
-MD5sum: fd8af6fedb49aa0b1032730ee4e2c16b
-SHA1: e5c7865dc84966a4abc83bf948438ec95485f1a9
-SHA256: f0ffffc9c586bd8345a1ad890ba08428e8ae17a14e77ddb94544b86a1b15e353
-SHA512: 0d82b295396b63deb28f2980df158891c3e6e96329f1702cd421fc78b9ff140f323a1fa77396be659b6398fa1e823bc065a08469ce00795b8f6108f96ced4222
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: https://i.ibb.co/ksjS4dDF/Clean-Shot-2026-01-18-at-01-43-562x.png
-
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64e
 Version: 3.4.18
@@ -22997,79 +22954,6 @@ Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/violet.html
 SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/violet.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Violet.png
 
-Package: me.ahmedbafkir.dlinsta
-Architecture: iphoneos-arm64e
-Version: 2.5.0
-Section: Tweaks
-Maintainer: AhmedBafkir
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/me.ahmedbafkir.dlinsta_2.5.0_iphoneos-arm64e.deb
-Size: 504946
-MD5sum: 34a87cad41e58a03f7d6238090561528
-SHA1: 9adddf080ba9cf5cabe6e1ca2a80de06f5d5c10c
-SHA256: 2572a4a974816eb4f7295de9c86cfba869b33da749811cb0e8317dd48e596fe6
-SHA512: bcf4334bbdaf44929864f155e646a6559438818461e33ed399c33a55d6cccbd6c59b1e362d6d671994378a13f95106455b1612540c6282ac75989aabde94958e
-Description: Make instagram great again . Supports Instagram 407.0.0
-Name: DLInsta
-Author: AhmedBafkir
-Icon: https://ipa.tweakdoor.com/images/1709624621.webp
-
-Package: me.ahmedbafkir.dltiktok
-Architecture: iphoneos-arm64e
-Version: 2.1.4
-Section: Tweaks
-Maintainer: Ahmed Bafkir
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/me.ahmedbafkir.dltiktok_2.1.4_iphoneos-arm64e.deb
-Size: 382472
-MD5sum: 397bc0af37dd2afd4508c09c3118dc45
-SHA1: bfd6ccb54e1cb5e66044d053e85542868de09bb8
-SHA256: a5487601b2d9ad20e1b199f0430ceebd26a8a2ec645d5decde87508085bc589b
-SHA512: f83ea62e5800d5612679bc90971b77d369dbd76570614700505a2518f12428b12cd72d6aafbfc2897de958d45fe5838989c379308379e6b599f8fed23df2a223
-Description: Make TikTok great again , 
- Supports TikTok 42.2.0
-Name: DLTikTok
-Author: Ahmed Bafkir
-Icon: https://ipa.tweakdoor.com/images/1709624621.webp
-
-Package: me.ahmedbafkir.dltube
-Architecture: iphoneos-arm64e
-Version: 2.16.3
-Section: Tweaks
-Maintainer: Ahmed Bafkir
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/me.ahmedbafkir.dltube_2.16.3_iphoneos-arm64e.deb
-Size: 455102
-MD5sum: 2b338a3787b66f364245cc731508e267
-SHA1: c071424695e5e08767bf664cef8e085f01346a54
-SHA256: fa3bb5786a36abe507318a18fd6da1fb31a90a083ee5894044f7fbc5107c9716
-SHA512: 684750cbca084ab415eaf989e792a43cdc161a6623a829d7a1f7cd52e9a6ed7cb969eb20f60639cfbb6915a6d4f390f94d6c7816648d3a592d7942e9a8346f6e
-Description: Make YouTube great again . Supports YouTube 20.42.3
-Name: DLTube
-Author: Ahmed Bafkir
-Icon: https://ipa.tweakdoor.com/images/1709624621.webp
-
-Package: me.ahmedbafkir.dltwitter
-Architecture: iphoneos-arm64e
-Version: 2.1.6
-Section: Tweaks
-Maintainer: Ahmed Bafkir
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debians/Roothide/me.ahmedbafkir.dltwitter_2.1.6_iphoneos-arm64e.deb
-Size: 13651726
-MD5sum: c515bdfd048be214ced364f1aa85ce89
-SHA1: 55af8a8f6f3695bf0732c629c7eb2de6e2695d4a
-SHA256: 9c9e8b7aa6b7c4b2b994a041e845a300efa9d38133ba974d5eaa6a66cf62cd68
-SHA512: b4e2a82431717e253e3157505d26f4f930229f838c21cf8d28100cef0b9daebd6b40144bdbed7f35f123062efeb68bbdb57dd6b5cedc405607e243c4d619715b
-Description: Make Twiiter(X) great again . Supports  X 11.48
-Name: DLTwitter
-Author: Ahmed Bafkir
-Icon: https://ipa.tweakdoor.com/images/1709624621.webp
-
 Package: me.alfhaily.rocket
 Architecture: iphoneos-arm64e
 Version: 3.8.36
@@ -28433,47 +28317,6 @@ Description: 120Hz display for iP 13 Pro and up .
 Name: 120Hz
 Author: F0rd0w
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzdc14HqaxmwHDDF9PLXLNqs1MYhymkGMy3KXEvv20w&s=10
-
-Package: com.f0rd0w.regram
-Architecture: iphoneos-arm64
-Version: 2.4
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 49720
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
-Filename: ./debians/Rootless/com.f0rd0w.regram_2.4_iphoneos-arm64.deb
-Size: 24894132
-MD5sum: df0a258d826ec86be123f68ebbbd344e
-SHA1: 141e082ac17c607d241c1c0a0d9ae1b81a136352
-SHA256: aff962e52ef1d37cd5d8903c86807402e00ec630656bbee912d339abc4517d1c
-SHA512: 8508a8f6956afa8fd3624bed1dc9ba6ef941c76b4bee904a98372c3d8416808aa96b68dc32ea6bba385be3aefd6eb06f22424f8465940fce54cdc9cf725c2a76
-Description: The all-in-one tweak for Instagram
-Name: Regram for Instagram
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJEiCIdQ9TA7kkcOn2yTsYR7dLsoRcIc8iq7SDPfyTg&s=10
-
-Package: com.f0rd0w.watusi3
-Architecture: iphoneos-arm64
-Version: 1.3.1
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 9420
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
-Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debians/Rootless/com.f0rd0w.watusi3_1.3.1_iphoneos-arm64.deb
-Size: 8942736
-MD5sum: 20d024f6e60267c73fea43757c3c4539
-SHA1: 9df0c960ed8669dba07a9930c7930701a8bf12c6
-SHA256: 81be7f09c170db01263bf8170dc666d21005b5dd0e5948f78d7232cb676336e5
-SHA512: 34734cbe39a57699460df4a157869d5f85b9038740691a3b5b30a25d968384b7266d2a6621f103f9845ece61731e5672f207be224f293c6f8bed947a9527744f
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: https://i.ibb.co/ksjS4dDF/Clean-Shot-2026-01-18-at-01-43-562x.png
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64
@@ -37317,75 +37160,6 @@ Author: Litten
 Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/violet.html
 SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/violet.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/Violet.png
-
-Package: me.ahmedbafkir.dlinsta
-Architecture: iphoneos-arm64
-Version: 2.5.0
-Section: Tweaks
-Maintainer: AhmedBafkir
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/me.ahmedbafkir.dlinsta_2.5.0_iphoneos-arm64.deb
-Size: 370100
-MD5sum: d55f32492634b65f48ecda72f8e9e376
-SHA1: 1c9f8ab47a047d462d39c86b9e9b2017164dbf49
-SHA256: 79cfe22634bbcef29b6a8025ba8db5140f8024610721a88ec3468613c70fa3ec
-SHA512: 863b3f8b8170864a23671a28357b493b1d7afa93bf47b7f2911aa7b970cba604a0b529dbd6ac5250a162807afc366f2f7aae16eaf286c470e1ec06439b7ad578
-Description: Make instagram great again . Supports Instagram 407.0.0
-Name: DLInsta
-Author: AhmedBafkir
-Icon: https://ipa.tweakdoor.com/images/1709624621.webp
-
-Package: me.ahmedbafkir.dltiktok
-Architecture: iphoneos-arm64
-Version: 2.1.4
-Section: Tweaks
-Maintainer: Ahmed Bafkir
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/me.ahmedbafkir.dltiktok_2.1.4_iphoneos-arm64.deb
-Size: 289880
-MD5sum: 3c4cd6e82066df6ffe5bf4cb81cfddaf
-SHA1: 4c7a060a33b2782c19f367d164ff0b587afb9c0c
-SHA256: 0545733fd2e83ba54126e246f8e1af9f598286e7f8cd350bb6ec66566c6fa5dd
-SHA512: f36c32648d8072037967e5f50b7474aea608d6bb2fc50fe53fa59c8b3054fe921838735498438ead527f9c1e0ee4bf8c864dbc1650d29fca8ebc1f481cfad76a
-Description: Make TikTok great again , 
- Supports TikTok 42.2.0
-Name: DLTikTok
-Author: Ahmed Bafkir
-Icon: https://ipa.tweakdoor.com/images/1709624621.webp
-
-Package: me.ahmedbafkir.dltube
-Architecture: iphoneos-arm64
-Version: 2.16.3
-Section: Tweaks
-Maintainer: Ahmed Bafkir
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/me.ahmedbafkir.dltube_2.16.3_iphoneos-arm64.deb
-Size: 350924
-MD5sum: e7c814c9253e61767ac328b094903196
-SHA1: f265811f4a3915cd7f9440dbf3265e3581a2f09a
-SHA256: 4f2e134c0077e87ea9d56704267656331bdde93305f5da8a6d8996d9fe38789d
-SHA512: 95c423aef75438a5250702328aaefd63da86eea7706c20e638e9ce2e02b3e1a52abaac0ed773ef677951a6cf2fbb282e2768e606bc769bc3db9ab4617bc6885c
-Description: Make YouTube great again . Supports YouTube 20.42.3
-Name: DLTube
-Author: Ahmed Bafkir
-Icon: https://ipa.tweakdoor.com/images/1709624621.webp
-
-Package: me.ahmedbafkir.dltwitter
-Architecture: iphoneos-arm64
-Version: 2.1.6
-Section: Tweaks
-Maintainer: Ahmed Bafkir
-Depends: mobilesubstrate
-Filename: ./debians/Rootless/me.ahmedbafkir.dltwitter_2.1.6_iphoneos-arm64.deb
-Size: 5055780
-MD5sum: 28c256f351b11ce033b65863d6986ec1
-SHA1: 8c2ebf63382e56b82fb92c64e2eee7a1fb70a7c1
-SHA256: 79fbc2da832c16c15ae3ed6795ce8cf429609302670f0b9745e761406e9f06f2
-SHA512: 8f08354fc6d743dba69dcb3a7d81fa6efc48c8b03fc13355d48b1c55072a7321c7997110deae07bdf26862e40a3b5ef41a40123caf7027c3bf0d70abcf1936cd
-Description: Make Twiiter(X) great again . Supports  X 11.48
-Name: DLTwitter
-Author: Ahmed Bafkir
-Icon: https://ipa.tweakdoor.com/images/1709624621.webp
 
 Package: me.alfhaily.rocket
 Architecture: iphoneos-arm64
