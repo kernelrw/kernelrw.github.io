@@ -3359,6 +3359,22 @@ Description: Calculator gains history!
 Name: CalculatorHistory
 Author: fiore
 
+Package: com.fiore.trolldecrypt
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Applications
+Maintainer: fiore
+Installed-Size: 4172
+Filename: ./debians/Rootful/com.fiore.trolldecrypt_1.2_iphoneos-arm.deb
+Size: 3248524
+MD5sum: 851eb173c22973cba9b286a828704a46
+SHA1: 53eed7a927e883e520a3bb8282fd7eaaf03e9d0c
+SHA256: e1e62a1e6b29f6a46f82429c11b91ab719c1121049441086f50707e2958b853d
+SHA512: 785dbaf74426372c13cff671f95b8214311b761c56029f31a88ad6033692a577d0e5e14ef163e76116dd74125661aaaff3c91c21683955c88b3c999d44562447
+Description: Decrypt iOS apps with TrollStore
+Name: TrollDecrypt
+Author: fiore
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm
 Version: 1.2.50
@@ -14456,6 +14472,23 @@ SHA256: 9e0840e4cfc0897eaff88d1141a402354fbf5a632ae3715419d44a31159480cb
 SHA512: ca186d0579f66f7a4f6e43ca626a4308d704e1fb2eae4bbc8ef3c6b61385a566c9ec4d1f5b4d85148d70e9e24a463402b70fa1aabde6c993325cbde9acbd06a8
 Description: Calculator gains history!
 Name: CalculatorHistory
+Author: fiore
+
+Package: com.fiore.trolldecrypt
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Applications
+Maintainer: fiore
+Installed-Size: 4156
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debians/Roothide/com.fiore.trolldecrypt_1.2_iphoneos-arm64e.deb
+Size: 6615090
+MD5sum: 5d6a229a4aff8a1e1d636c4d198e7da8
+SHA1: b87c399070b59fa62d9047aad464ef8da9b842cd
+SHA256: 9a32277fc1a3c42ed82f358c01bc6b9eaf4b6f42f52536a81a34628741908a5b
+SHA512: b8112f58462aa4cf2fc889d5dbf561a22b054ca4ddc92b6c792160bd115ccfbcbec4a7b703eacdeae4c663e0bd2b391bd690d52748b690c19e66d1f0a632a3f1
+Description: Decrypt iOS apps with TrollStore
+Name: TrollDecrypt
 Author: fiore
 
 Package: com.fouadraheb.appdata
@@ -29002,6 +29035,22 @@ SHA256: 1055f74f5ce5d7c486b4bd0b28fb9d7a5895ac7b90d505c77c0be57a5ec5af1e
 SHA512: 2a78b68be1fe2001e68ebc6a08c3c916d6200b2e2bb57fba5d977f1db75cc92dbd148e3c8efa7e962fcc328337fcadc218d08152565e7a4cfd48b88fcabbf61b
 Description: Calculator gains history!
 Name: CalculatorHistory
+Author: fiore
+
+Package: com.fiore.trolldecrypt
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Applications
+Maintainer: fiore
+Installed-Size: 4156
+Filename: ./debians/Rootless/com.fiore.trolldecrypt_1.2_iphoneos-arm64.deb
+Size: 3248494
+MD5sum: 9e893ccd81822fe67397eed25a10a47f
+SHA1: 81c1783e390b8107d271dad1f6ef1149ef1cef67
+SHA256: 6e09f08266885285c6f2eaf8d94a9133c757de5252b9088a24b008f9bf6fec3a
+SHA512: 505dfb3d3a7e44d6403c70ef76e1aaff6931fdd419fe9810b2bbeacf102c52fc720a786d221f1e8371417dac95a7321153b39b3fe43920f9c770cb8a1ab4fc61
+Description: Decrypt iOS apps with TrollStore
+Name: TrollDecrypt
 Author: fiore
 
 Package: com.fouadraheb.appdata
