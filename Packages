@@ -7817,6 +7817,25 @@ Name: ipa2deb
 Author: rullinoiz
 Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
 
+Package: com.ryleyangus.libertylite.beta
+Architecture: iphoneos-arm
+Version: 0.2.12
+Section: Tweaks
+Maintainer: Ryley Angus
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debians/Rootful/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42210
+MD5sum: 37298170685afadc9b2bf7f636dafba7
+SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
+SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
+SHA512: 11962c8387cc69f7108dda6bde8374de78896c40b978ed3ab3af790f6efce63ca77d0112170ff9e3da6d37807dfa9a62d6fd1509530673efead7bf17fb84e1ff
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Name: Liberty Lite (Beta)
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm
 Version: 1.0.0
