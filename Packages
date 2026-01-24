@@ -3230,6 +3230,26 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fichitaso%2Ffile%2Frefs%2Fheads%2Fmain%2Fimages%2FIcons%2FiCleaner.png&s=180x180&f=webp
 
+Package: com.f0rd0w.backgroundretainer
+Architecture: iphoneos-arm
+Version: 0.0.1-7
+Section: Tweaks
+Maintainer: F0rd0w
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dopamine.swapforcer
+Filename: ./debians/Rootful/com.f0rd0w.backgroundretainer_0.0.1-7_iphoneos-arm.deb
+Size: 78528
+MD5sum: 78b30dc561742c2165e212595a9dc395
+SHA1: 80d7651768638d85eb56a5252dc3665cbd8363c1
+SHA256: c1910acfd11fd882e9345627245bceadee5c1f348d13550458513b84ed72630f
+SHA512: 2498842dcdeb2797fb6d79b50076c47933a85f883006a86e24d0e707d421bf6edd8b2b75860b2b7dd5ee59de48b289d6038ee261416bb85e0edb467c18dc799e
+Description: The role of this plug-in is based on the iOS tombstone mechanism of the background application retention enhancement plug-in, you can add the application application id to the whitelist, freezing the application, to prevent the killing of the background, if you feel ineffective on the uninstallation! For example, WeChat is com.tencent.xin [application id can be obtained using the Appdata plug-in to obtain].
+Name: Background Retainer
+Author: F0rd0w
+Sponsor: F0rd0w
+Icon: https://axs66.github.io/pro/icon/backgroundretainer.png
+
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm
 Version: 3.4.18
@@ -9307,21 +9327,31 @@ Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
 SileoDepiction: https://paisseon.github.io/depictions/pseudo.json
 
-Package: eu.teggers.netkillui
+Package: eu.teggers.waveflow2
 Architecture: iphoneos-arm
-Version: 0.2.1-1
+Version: 2.2.5
 Section: Tweaks
-Maintainer: Teggers
-Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0)
-Filename: ./debians/Rootful/eu.teggers.netkillui_0.2.1-1_iphoneos-arm.deb
-Size: 600540
-MD5sum: 7b4cc682799855d9e723c57db82985fe
-SHA1: f0571b70330810536844c7b459a7a1bd2e316ab1
-SHA256: 8c6590e5e7e8cf509b5299ef91d9b2a087a19b6f9084dfd4b130ac64cc2ddc7a
-SHA512: 7826720782f66cc309842ab5d7039e67b02e01dc393b0d9e37f8dec4e4ea256af4e36d5353e7bca12d2f2537f5d80af92bcb63b9c5764a4502fc6e3cb291d57e
-Description: GUI for arp-scan and arp-spoof.
-Name: NetKillUIbeta (iOS 11)
-Author: Teggers
+Maintainer: George Stagg
+Installed-Size: 564
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>=1.0.6~beta1), preferenceloader
+Conflicts: eu.teggers.waveflow
+Filename: ./debians/Rootful/eu.teggers.waveflow2_2.2.5_iphoneos-arm.deb
+Size: 106934
+MD5sum: e8fcb82e906985ae823ec1e18be44269
+SHA1: 0ea603ff1298398ba9d5da4b49b6b873800edf47
+SHA256: 7c76b694120c395c3521695135bc2f59630cce1dc01175d0aa07d9e829123865
+SHA512: 5b3b5eb7cf15486ddac86e2f107724ca3a40665415e02fd393760b75ba3acb04b9087f1f1e1223ac55b6d0f7cf8cf6d9402faf7d1db8ac8f51a151c2e66410ed
+Description: WaveFlow Music Visualiser
+ Waveflow is a music visualisation tweak for the lockscreen, Music app and Spotify, compatible with iOS 9/10.
+ Several options and colours are available in the preferences.
+ CHANGELOG:
+ - Begin iOS11 updates...
+ - Move LS Waveplot to background
+ - Compile with 10.1 SDK targeting 8.0
+ - Made single stream default with an option for multiple streams in preferences
+ - Tweaked default settings for viz slightly
+Name: WaveFlow2 BETA
+Author: George Stagg
 
 Package: fr.rootfs.rode
 Architecture: iphoneos-arm
@@ -13858,6 +13888,27 @@ Description: 120Hz display for iP 13 Pro and up .
 Name: 120Hz
 Author: F0rd0w
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzdc14HqaxmwHDDF9PLXLNqs1MYhymkGMy3KXEvv20w&s=10
+
+Package: com.f0rd0w.backgroundretainer
+Architecture: iphoneos-arm64e
+Version: 0.0.1-7
+Section: Tweaks
+Maintainer: F0rd0w
+Installed-Size: 472
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dopamine.swapforcer
+Filename: ./debians/Roothide/com.f0rd0w.backgroundretainer_0.0.1-7_iphoneos-arm64e.deb
+Size: 83036
+MD5sum: 78ae2d795624ab4919271f9ae47ad455
+SHA1: c20d519940d79c452304bbc1b7bc22fa9453d7e0
+SHA256: 10aeacff6c8f5711ea4d6f6d4d5a211b4f54ce2fddc235c94bc81495cef639a9
+SHA512: 114dd4e565fe8a5751893406a2ec5ef5198831a7783320d0540698aaa28094b39f01e2fcb67cb57ffc92e7bab8610bcf68719bab9247624c0344b1a0794a353f
+Description: The role of this plug-in is based on the iOS tombstone mechanism of the background application retention enhancement plug-in, you can add the application application id to the whitelist, freezing the application, to prevent the killing of the background, if you feel ineffective on the uninstallation! For example, WeChat is com.tencent.xin [application id can be obtained using the Appdata plug-in to obtain].
+Name: Background Retainer
+Author: F0rd0w
+Sponsor: F0rd0w
+Icon: https://axs66.github.io/pro/icon/backgroundretainer.png
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64e
@@ -28435,6 +28486,26 @@ Description: 120Hz display for iP 13 Pro and up .
 Name: 120Hz
 Author: F0rd0w
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzdc14HqaxmwHDDF9PLXLNqs1MYhymkGMy3KXEvv20w&s=10
+
+Package: com.f0rd0w.backgroundretainer
+Architecture: iphoneos-arm64
+Version: 0.0.1-7
+Section: Tweaks
+Maintainer: F0rd0w
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dopamine.swapforcer
+Filename: ./debians/Rootless/com.f0rd0w.backgroundretainer_0.0.1-7_iphoneos-arm64.deb
+Size: 78584
+MD5sum: 05a9569b1b6b40315762988b564370a0
+SHA1: 62c98988f625109d92591968877145b74962db1f
+SHA256: 9fc11fae8e0449d49fd6c6fe21ba4a5a58a271be57355be87d174a52fa746d6d
+SHA512: 3f1a2466bed3cf80dcf6a36f56743a6d9cdcfdfaf9cb02b18f4890420468658acb2285e391d8a5a1427bb5ea982a777317f7e50925df291352808354fc307512
+Description: The role of this plug-in is based on the iOS tombstone mechanism of the background application retention enhancement plug-in, you can add the application application id to the whitelist, freezing the application, to prevent the killing of the background, if you feel ineffective on the uninstallation! For example, WeChat is com.tencent.xin [application id can be obtained using the Appdata plug-in to obtain].
+Name: Background Retainer
+Author: F0rd0w
+Sponsor: F0rd0w
+Icon: https://axs66.github.io/pro/icon/backgroundretainer.png
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64
