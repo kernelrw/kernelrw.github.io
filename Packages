@@ -2836,6 +2836,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
 
+Package: com.dvntm.pfpviewer
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 568
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.pfpviewer_0.0.6_iphoneos-arm.deb
+Size: 193248
+MD5sum: 10346baa39413061b007bde92cbc29ba
+SHA1: 0bd0f8d6391761336b8ad039af2cb2e90a3861bb
+SHA256: 452cd8cec6553e06f392eecb0a5db083e85dbe2ed91d73880507aef9495f4c77
+SHA512: ce4b06cdc114c89d674be00a46adb90dcfbf6abbe3855bf05bc368d33c5ef3cba80c823cd98c94db81befc6216ce8d7560ee0c3d0a6e25d2dc7e293902bd04c2
+Description: Tweak to view profile pictures
+Name: PFPViewer
+Author: dvntm
+
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -13676,6 +13693,24 @@ Name: OrwellVK
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
+
+Package: com.dvntm.pfpviewer
+Architecture: iphoneos-arm64e
+Version: 0.0.6
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 568
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.pfpviewer_0.0.6_iphoneos-arm64e.deb
+Size: 265126
+MD5sum: 1252452c11f2b19bc9bcf35c7021d6eb
+SHA1: e6a5ef758a562960df92b9da8167ea2989977400
+SHA256: 94f7dddc4543226724a52f4b1566f58f9d7bb480f8661cf0b5c74c6103836d7a
+SHA512: db3bb1c8644f703109e5f9d56f58c0b3a3ac74c9c6b5f86ed50063e2040cfa12e72eb985ba2b2b86387e9b5aaa325a4515df5887b8f8db3930e16a2421fa3593
+Description: Tweak to view profile pictures
+Name: PFPViewer
+Author: dvntm
 
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm64e
@@ -28120,6 +28155,23 @@ Name: OrwellVK
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
+
+Package: com.dvntm.pfpviewer
+Architecture: iphoneos-arm64
+Version: 0.0.6
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 568
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.pfpviewer_0.0.6_iphoneos-arm64.deb
+Size: 193696
+MD5sum: 1ba321754dd5b6e54743b381ec5bd49c
+SHA1: 5b539159f854be7ce807aea2a861a16cbf9350c1
+SHA256: ca855e113b8233e3745f60f2de3202f6074bdae738bec50eedd1722f4fda6839
+SHA512: d99f3880327802d73cdbd4c75a8728afa9035cf8e9a85dacf40ee36e25378c77551b82065f0014a5db15a8ce41d8585d2e2ac574d2d67a00db43e09cceeb2c1b
+Description: Tweak to view profile pictures
+Name: PFPViewer
+Author: dvntm
 
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm64
