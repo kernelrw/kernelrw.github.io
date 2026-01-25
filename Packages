@@ -2925,6 +2925,25 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
+Package: com.dvntm.twlegacy
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.twlegacy_0.0.1_iphoneos-arm.deb
+Size: 5960
+MD5sum: c9d062e641b696604dee935281529c8f
+SHA1: e065f47641f0a5b4bea9ef1e4692046f14110f37
+SHA256: 8f5343c817acf3bb26cf3f0606c1acd85f6271779a82285212d1213762b924c9
+SHA512: 2925315ab72089440f72467f06d59196a1970791f67155ab58f8541365dc3154c3b547f638064a00035f2b36e7408ebcf6e9b7ffbfa4dd1351978bf1cce3e742
+Description: An awesome MobileSubstrate tweak!
+Name: NoItsNotTimeToUpdate
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/NoItsNotTimeToUpdate/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/NoItsNotTimeToUpdate/main/Sileo/depiction.json
+
 Package: com.dvntm.uyoufix
 Architecture: iphoneos-arm
 Version: 3.0.3
@@ -13676,6 +13695,25 @@ Name: RateBeGone
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
+Package: com.dvntm.twlegacy
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.twlegacy_0.0.1_iphoneos-arm64e.deb
+Size: 6018
+MD5sum: f1e0336e1348f202fb4ee1199e4cc236
+SHA1: 7fba9d824bbddc91c31d64d78764f86f957ab9fd
+SHA256: 5aad476a34976623801835367036c63ca26e1467ca61c2bbdc0f80b3c6240b2b
+SHA512: 62f945e92122e4aa2ab784aade7598a8e07171f59f58555af81f4a16c97a23a084fc34b7744ec15ba11ecb909694fa9315b878d8f6ca1bad0677a03f612c35de
+Description: An awesome MobileSubstrate tweak!
+Name: NoItsNotTimeToUpdate
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/NoItsNotTimeToUpdate/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/NoItsNotTimeToUpdate/main/Sileo/depiction.json
 
 Package: com.dvntm.uyoufix
 Architecture: iphoneos-arm64e
@@ -28172,6 +28210,25 @@ Description: Displays your touch interactions!
 Name: ShowMyTouches
 Author: dvntm
 
+Package: com.dvntm.twlegacy
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.twlegacy_0.0.1_iphoneos-arm64.deb
+Size: 6036
+MD5sum: 04beac79eda9095e7d7d6bbf60850dee
+SHA1: 36a92a1b6974505a52008788f2bae34eee5840ef
+SHA256: 10058405e9db27a13a3561a2e1154e33d561aa70d2b10213022cfed266211939
+SHA512: 958066a1c7d71edb1ff682adae959d10328fde5c2eb5d070edf63da42cc0486f021d402b1fb925a6677a66282083488dae19d83ce67511af14276e8fa4a5239a
+Description: An awesome MobileSubstrate tweak!
+Name: NoItsNotTimeToUpdate
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/NoItsNotTimeToUpdate/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/NoItsNotTimeToUpdate/main/Sileo/depiction.json
+
 Package: com.dvntm.uyoufix
 Architecture: iphoneos-arm64
 Version: 3.0.3
@@ -28646,6 +28703,26 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
 
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64
+Version: 3.5.2
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 668
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/Rootless/com.f0u4d.onlinenotify_3.5.2_iphoneos-arm64.deb
+Size: 182590
+MD5sum: fb5ecab6d88eda36973c5e5264f4a041
+SHA1: aef036a29d8b16b3710d7f1ca69af02e47ce45ce
+SHA256: bf7a93ebbb756dfab2b98779b3ac657c9fe5432f0d7d7447de9d0f8c6f3d4424
+SHA512: 37780379cabd4dc13f00a3cbf040e3cebdd5a415336f0ec12820913c4ce5f468574d47720c69d764e3fb04d709eabecbf41b23c0b597114e98b98c7902ae962f
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64
 Version: 4.2.3
@@ -28741,6 +28818,26 @@ MD5sum: 1a3a2e3eb704472c409649a01f0b152c
 SHA1: 4392df54554ba9df8dd42209b0da97b4816070f8
 SHA256: 7b2a63799054f81a52b716af067e03d241aea2b8be86a5e43c95f14997a9c760
 SHA512: 6dfbabcecd6bba51d0da6387b2e6da2ccb03636208f376a8995ece0a4bd1294f86ed6826a933263f94bb48cda54e8fc6b7e0bf76a181fbf44937a7a448f1c2a9
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64
+Version: 4.2.8
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 2428
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: com.f0u4d.watusitools (<= 2.7.0)
+Enhances: WhatsApp
+Filename: ./debians/Rootless/com.f0u4d.stalky_4.2.8_iphoneos-arm64.deb
+Size: 667414
+MD5sum: 35accdfa4f9d9c7bb6f59daa448702b2
+SHA1: e6b4ac89e3ec7a57ba847fa98e2ad00ba3613ffa
+SHA256: b8c262c0455b5abaa39d9d3c64d152c034c79652be1b596555f319d0dce14fff
+SHA512: 1c386a32c699676ef8349e47e2dfede1a2d14dc87bc288611dac2c2871ad205a8e736c4e3737645dd8795715b098bb4933ae7f61a331095cb7063daafd41c3a6
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -29178,6 +29275,24 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.7.1
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.f0u4d.stalky (<< 4.2.8), com.f0u4d.onlinenotify (<< 3.5.2), com.fouadraheb.contactsync (<< 1.1.15), com.fouadraheb.watusi3 (<< 1.3.2)
+Filename: ./debians/Rootless/com.f0u4d.watusitools_2.7.1_iphoneos-arm64.deb
+Size: 5701672
+MD5sum: a2ec1ecd69bb85278f753c3f03e918cd
+SHA1: 25f359c0a03c4b818a71c4025fafb1e3acaa1ee9
+SHA256: 7d794c28002ac14bd465e2a59862eb94b4fa0ef2e1daec5b62dfcfa789485f42
+SHA512: 9dd0aa58db2744b464a89cc4446f817f122770c7ab789d052a24d3793b4111abc53f8d6259a7f84378072357ffb2faca1e2ec2c20916f79616458f1af6674475
+Description: Library for Watusi and other WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -29245,6 +29360,27 @@ Description: View & Manage Applications Data from your Home Screen
 Name: AppData
 Author: Fouad Raheb
 Icon: https://avatars.githubusercontent.com/u/6962327?v=4
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64
+Version: 1.1.15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: xyz.cypwn.watusi3, xyz.cypwn.stalky, xyz.cypwn.contactsync, xyz.cypwn.onlinenotify, xyz.cypwn.watusitools
+Filename: ./debians/Rootless/com.fouadraheb.contactsync_1.1.15_iphoneos-arm64.deb
+Size: 118670
+MD5sum: b75f16746f26856e0a23bb5b2fc1fb56
+SHA1: 5f1ed93a14e690dc65d15260f454e33ad4eddab3
+SHA256: a855a5bc2ebea256e3942c9c670c1f59de317d9c2834ff995cbad647d0e2728e
+SHA512: 2ed6aa6422aad16f2f8fcd62e485063dac9f2adf83a216fbac7a8407dd30e3c2d506f4662de6bb318d026bb0ed0f11a25a292528e3aa4edfc320c3b33579b61d
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
@@ -29920,6 +30056,26 @@ MD5sum: f6d194f90190d6a650dbcc04447b6bee
 SHA1: 3384ff57c96019b825263970d4f3edbdd5825241
 SHA256: 36a4b269665a385caa7979bdfb0111e1746a35918a250cb599e8b9b7c873a603
 SHA512: d8bda3677b7dd03697c45177b895e70338236e37c6274a0e4b44a18031575d89fc5d2c192ab88e8a90679c2e9ced8e2516575dea90a43f09b58233435e17a520
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.3.2
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 9416
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Rootless/com.fouadraheb.watusi3_1.3.2_iphoneos-arm64.deb
+Size: 2519276
+MD5sum: 77ac49ca0238cc60353225ca119e164d
+SHA1: 08012bb7b9a65a724c81a058a78f70b0fc4ab1d3
+SHA256: 9492b1a5670cd0cfe949ab117a2c640a6a2ee35a36dbff45863d128dbb46c475
+SHA512: bb83a6925c5d8e821bafc06b1a49ae0b9f4be7ae249ce38366966fa46ab31d03783df270a9211e6de83ecb4b4513cdaa28ae788882eb880658f1842011ea82e1
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
