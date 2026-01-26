@@ -1307,6 +1307,23 @@ Description: Prevent apps from changing volume/brightness
 Name: NoSlideToChangeVolumeAndBrightness
 Author: Brend0n <brendonjkding@126.com>
 
+Package: com.brend0n.noslidetochangevolumeandbrightness
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.brend0n.noslidetochangevolumeandbrightness_0.0.3_iphoneos-arm.deb
+Size: 4168
+MD5sum: cfa7820c98b13d30fdd1e53fd0c972be
+SHA1: b1de044a4ab900f4ab70151387b6a5e4e75414ab
+SHA256: d9f6b668591952cb7193c4852ee89cc90a053a8aa90465830290810994dc5b5d
+SHA512: 92ae3489338c651463e51c5f2ffe60be15d26c49947528f7179a2e1c0e5ab15c6b3d25802690c125e9609933a4f2b14ae602da000f99bd1fe0734e42b2860ef9
+Description: Prevent apps from changing volume/brightness
+Name: NoSlideToChangeVolumeAndBrightness
+Author: Brend0n <brendonjkding@126.com>
+
 Package: com.brend0n.volumemixer
 Architecture: iphoneos-arm
 Version: 0.0.7~beta1
@@ -3306,6 +3323,26 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
 
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm
+Version: 3.5.2
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 652
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1), com.muirey03.libmryipc
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/Rootful/com.f0u4d.onlinenotify_3.5.2_iphoneos-arm.deb
+Size: 185084
+MD5sum: 2864e1ff405db3aeece09cadb0ecfb70
+SHA1: f8b716a0b8e14fc4075c8d5fc0ebeaeb4a560bba
+SHA256: d050a7bc35002cd426e71928c62967f8415bc10c9e2cabeaa85170245611728f
+SHA512: cd4e1781adf777beeb170ee3d280918d035a150c757a8db9c6d0adb639dc0730196596cc38a21e2044dc8c271c4c10ed7f3bb52b606831b96feb5f29744c2c8d
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm
 Version: 4.2.6
@@ -3321,6 +3358,26 @@ MD5sum: b87e93acc619cbbf85684fda6e202e1d
 SHA1: 70179060c7da0cc3bd2f7d39e77712d7a4dd9ac5
 SHA256: ddf28d369f3ef5a8fc709a3777db0c0d3c7721d10c286223ba7bc5e2c12ba5c9
 SHA512: f39a0047e32b23fe946751b2fb55cab86c7d96b672d5a26e5fd3d85ddc8e88b1ba39bb3d9b71479e6a96202c4c1f2ad869637c18971231dbab47987cc6014d4a
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm
+Version: 4.2.8
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 2412
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1), com.muirey03.libmryipc
+Conflicts: com.f0u4d.watusitools (<= 2.7.0)
+Enhances: WhatsApp
+Filename: ./debians/Rootful/com.f0u4d.stalky_4.2.8_iphoneos-arm.deb
+Size: 670628
+MD5sum: f66abd8eba1a8766c66f9f554002348c
+SHA1: 044ab59eb0be638b150a26d0859f0a3b5b5eed83
+SHA256: 8c98a00c4ba56693d4f26f4470d1b6509ca6d05356cf2878813b762b8a639cf0
+SHA512: 6cadcf27924b6148e4a88e17ad732f536abe2919892a81c2e4689754fbbda66cc8da376aa5f2dd7b545e3573eecccf8311777e7f9596ab6a9cf67233cbeac1fe
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -3398,6 +3455,24 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm
+Version: 2.7.1
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.f0u4d.stalky (<< 4.2.8), com.f0u4d.onlinenotify (<< 3.5.2), com.fouadraheb.contactsync (<< 1.1.15), com.fouadraheb.watusi3 (<< 1.3.2)
+Filename: ./debians/Rootful/com.f0u4d.watusitools_2.7.1_iphoneos-arm.deb
+Size: 5792098
+MD5sum: 3757527dd8b625cc7f03fbcc332f0fd4
+SHA1: d74edc8045c109f3dc173cf968190d5f8e6a0435
+SHA256: 189a8fa3b86c8133e5a80c80bf1523d67be40d2e39fe490ebe07a42f002b1a85
+SHA512: ec9ff337dfd968e8d3b3ed65f7af1ce32120ffe2af6a424f23408af5a34a84d32caa34243830dd5d4cc2880cc31e493cd2d8f0b3e3102d09b146a968c088f704
+Description: Library for Watusi and other WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3447,6 +3522,27 @@ SHA512: 785dbaf74426372c13cff671f95b8214311b761c56029f31a88ad6033692a577d0e5e14e
 Description: Decrypt iOS apps with TrollStore
 Name: TrollDecrypt
 Author: fiore
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm
+Version: 1.1.15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 588
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: xyz.cypwn.watusi3, xyz.cypwn.stalky, xyz.cypwn.contactsync, xyz.cypwn.onlinenotify, xyz.cypwn.watusitools
+Filename: ./debians/Rootful/com.fouadraheb.contactsync_1.1.15_iphoneos-arm.deb
+Size: 121898
+MD5sum: 30daefe16ae28749be1cbf19b8b66c28
+SHA1: 4956287599f5163115e47bc478c3d846acd41cfb
+SHA256: c9d5a2633c58e651b40092f9c71fedeaace5087b6868bea57ee610833bc02cdc
+SHA512: 80cd892923023cfb8a13066d5b0d5912f729df79d20b9ef28412949a1af3970f7db0c60c98308bf630755f52ade476ccad6abb8a46e8edc2a99c97fed2849b9b
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm
@@ -3722,6 +3818,26 @@ MD5sum: 6f9ced42a6dd59076701f64ff5d8e39b
 SHA1: 946904f79972171f2b915a7eb84a7d7641b10c2c
 SHA256: bd6d100c44318ae862c136cd85d29c5e3263db207e193a0f6162c467d102a77c
 SHA512: d339a4db70186f8155361ab8e7352b045fbd6dbd84fcced3ba2bf8e7c6fd0817a15488a469eef1bdbc68539d548ef37a83077427c6704caec09230857b8203c4
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 9820
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1), com.muirey03.libmryipc
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Rootful/com.fouadraheb.watusi3_1.3.2_iphoneos-arm.deb
+Size: 2681542
+MD5sum: 5d6b27cdffd6d45be0ba6e4246b5bb96
+SHA1: c4f3111b98c484e55856ffbb2e83f55d55ef087f
+SHA256: 34222970fff145cfb9261f434122367b41ec422045e27e3150300efa9a3678cc
+SHA512: a6fd7706b576b848e7bef3026b270ad6071b35ea9554c56ea87fe552373027623b9a917cbecaec6732b729e9bebafa78087550c5a2a84a3ff21b753901c6c0a7
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -12374,6 +12490,24 @@ Description: Prevent apps from changing volume/brightness
 Name: NoSlideToChangeVolumeAndBrightness
 Author: Brend0n <brendonjkding@126.com>
 
+Package: com.brend0n.noslidetochangevolumeandbrightness
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.brend0n.noslidetochangevolumeandbrightness_0.0.3_iphoneos-arm64e.deb
+Size: 6064
+MD5sum: ab8f25014f22b5b895269e70ce289e15
+SHA1: fb34499fcb9e28a95dd936c26cef904d7a4c2b88
+SHA256: 3a8734f7c04394859e5f4021f204cc4f42d83580d4a6be1748177239e523cf5b
+SHA512: 5c80d02e1ac35154fb97f0210a2a48ce54bdb64dfd8dae3719e186fdc19a201bce392a2ac11f2a787fbf9b2e89581767dc2d25869ef67a3471990f4ac576a86d
+Description: Prevent apps from changing volume/brightness
+Name: NoSlideToChangeVolumeAndBrightness
+Author: Brend0n <brendonjkding@126.com>
+
 Package: com.brend0n.notransitcardversionlimit
 Architecture: iphoneos-arm64e
 Version: 0.0.2
@@ -14128,6 +14262,27 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
 
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64e
+Version: 3.5.2
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 668
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debians/Roothide/com.f0u4d.onlinenotify_3.5.2_iphoneos-arm64e.deb
+Size: 216430
+MD5sum: f140d7f9c4243a21b315bc16490b5e40
+SHA1: 9899a13fe375998c865f9712542dfbff636095ca
+SHA256: fd8dfb748a3038ec5a7ee3127d4c5d33339fd864440e2d943969d847ee3d0d18
+SHA512: dbb22d3185d3153d293b6ce8973e5deeb8b79123a932cf7ef076d2485193d2feaca264b60bb721caacf09782c24bb4e19e6f6beb26b5043d5de28d785b9b1ec0
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
 Version: 4.2.3
@@ -14228,6 +14383,27 @@ MD5sum: 53cf5de44c4a92a218a8a72df52c7dfa
 SHA1: 6170e6fa75bab993fd02e7f829fd26646a1b3606
 SHA256: 144b2db1c73e10f3bd13d50b5f7c41df7cf45ff43e677528bdb5fbc57aeafb84
 SHA512: b118841f3e19ef8091ad1523bd3d637c597f699e419721dd2edfda3e704140af4af74a040c36dcce88d6f755cc8b6bf53db92e424cdc9cfefa3749bbb9388452
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.2.8
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 2428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: com.f0u4d.watusitools (<= 2.7.0)
+Enhances: WhatsApp
+Filename: ./debians/Roothide/com.f0u4d.stalky_4.2.8_iphoneos-arm64e.deb
+Size: 1616286
+MD5sum: e31203ebbc87c5069ae08ff5be2457ea
+SHA1: baacd0e71f9b61c8217fff886d59c5bc210d0904
+SHA256: 579736ff0f636c1057dd296d51092b91615e3e14447bc9cb5878a89d31fee993
+SHA512: ed9e14325863603b4b10a18162afc8d32b16f51b1fd4563f227f2e05664fb12923a472115d26d615aba6bf5c6588f156645deca6687266299c99c3496b6c704e
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -14632,6 +14808,25 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.7.1
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: com.f0u4d.stalky (<< 4.2.8), com.f0u4d.onlinenotify (<< 3.5.2), com.fouadraheb.contactsync (<< 1.1.15), com.fouadraheb.watusi3 (<< 1.3.2)
+Filename: ./debians/Roothide/com.f0u4d.watusitools_2.7.1_iphoneos-arm64e.deb
+Size: 11327340
+MD5sum: 6dfb1e948526d7cb5df912b479d44b2e
+SHA1: 11fd9bee4c12f81e044a160f1e7249cf6ee6a124
+SHA256: 32164266de3b075e5a293a7b86338b49102bde22fd85d91924eb0f6838036fdd
+SHA512: dcd0a173fe59e950f07c7f7616733d7b3efcbf8a5c12b5dc191e27d9e709a28979b0a13dedacd9d74c06d54d1096f8818db8d81ee5b8f178fbe3740599ad62c6
+Description: Library for Watusi and other WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -14718,6 +14913,28 @@ MD5sum: 3d2f6dbee432ee27a1c9b641d916b001
 SHA1: 5bd61aef93f62aae4db667a24abbdee722e727a1
 SHA256: 2095f4ccaebdb688009d835540206eb3d3348d5c23f7ffe5b69e41b76cb87915
 SHA512: f4ea32220ceab1592fbc76b28a9cae8fd6961c000a08ff95e9422b99da1620e853d8824bc49e66fe59eb09361ba8d0a1aca537f3ed52f596f340121d81509d80
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64e
+Version: 1.1.15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: xyz.cypwn.watusi3, xyz.cypwn.stalky, xyz.cypwn.contactsync, xyz.cypwn.onlinenotify, xyz.cypwn.watusitools
+Filename: ./debians/Roothide/com.fouadraheb.contactsync_1.1.15_iphoneos-arm64e.deb
+Size: 152280
+MD5sum: 9dfeb453893bb1065438f295c90d00c4
+SHA1: 72c7f14d8e0b568b6d628efde6d1fce34ca272ca
+SHA256: 81ffe6368b1f04c9f3805cd57a05d72a1652c99915f8583f3388ffbbf1f6e6a1
+SHA512: d0eff7b134e0c5321ae15fc067de57d07a8d7e0052daa4184cb0c6000513e5ed2ff009dea62c7dd3ad31fa044d2670eb8cb25a96a3f1ab1166abe53e9170b803
 Description: Sync WhatsApp Profile Pictures to your Contacts
 Name: ContactSync
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -15370,6 +15587,27 @@ MD5sum: 6ba456a1ddfd149251ccd580f0101544
 SHA1: 6e2b794d469f1ed044ab00463b1683018b2ef30b
 SHA256: ca7bdf57aef54bd0c8ae986a1245896c70567e396ace8701c6da63b6f34b8d20
 SHA512: 9c5e6ef69a6e4e317dd8eb8c901891f98647788a324763c1d16f87094fa30480f4288a88ce284c742d44d47a19b43bd69bfe3f299bfb4c57f20d29669575f6dd
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.3.2
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 9416
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.1)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debians/Roothide/com.fouadraheb.watusi3_1.3.2_iphoneos-arm64e.deb
+Size: 6356738
+MD5sum: 08d14a3b03b400f442d0a7f07d67a539
+SHA1: a90f304b167c092344f0d5d3a8d36e3b57587331
+SHA256: dc7673917d42c4c7bc4475b242f4a00d61e92e8a09cf7955a84abf3b796de8fc
+SHA512: b9b751fe26cca201d967e5d94c04e1099070d4a903e48dee913d9078a85a768e2e288d9eaacd887042604ff9f1666dee4fd782863b7bd2a45bac2c55a5f983bb
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -26430,6 +26668,23 @@ MD5sum: 1a1cae309d35a6f53de8b9ebb76d15b3
 SHA1: f5f1579c24b04be2c40e0ad2717105edf8e2a63b
 SHA256: 618ac9741f24b16a34e66f39c9da22f144e6781c606f61a9f2b4bd93ead488c0
 SHA512: de6e5d73c02855952232e84f2ee63d0bab1d6e7feb9553b7c1e329f6a699762054b793ee60446d4c27393d83b204711a1fa2dfee7c31edd9b0e26297ea7d361d
+Description: Prevent apps from changing volume/brightness
+Name: NoSlideToChangeVolumeAndBrightness
+Author: Brend0n <brendonjkding@126.com>
+
+Package: com.brend0n.noslidetochangevolumeandbrightness
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.brend0n.noslidetochangevolumeandbrightness_0.0.3_iphoneos-arm64.deb
+Size: 4364
+MD5sum: a91c6078682ac48a93d5cf07780e53eb
+SHA1: 21340b5e724913d0bd239a16b5beba1b6ebc8d36
+SHA256: 08b1a51fed786c6c19ea95a6271be1008a2069f8e954fa3a366967030b6eef70
+SHA512: 8b35dbf47a84de110d0b3cc19e6f3a69d17d9a4416b28003c3f0c8c5500e8baf7aba344977fde6931ccadc7a7372c55884c08ccabb5e37f8da254357df5e2f6a
 Description: Prevent apps from changing volume/brightness
 Name: NoSlideToChangeVolumeAndBrightness
 Author: Brend0n <brendonjkding@126.com>
