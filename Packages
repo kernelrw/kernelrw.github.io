@@ -8906,6 +8906,31 @@ Description: Another Network Speed View!
 Name: SpeedView
 Author: Dell
 
+Package: cydia
+Architecture: iphoneos-arm
+Version: 1.1.38
+Priority: required
+Section: Packaging
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 6472
+Provides: bigbossbetarepo, cydia-sources
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=5.0)
+Depends: cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.19.1), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Filename: ./debians/Rootful/cydia_1.1.38_iphoneos-arm.deb
+Size: 1261482
+MD5sum: 22f5542012ed5d2470164db07f4b2290
+SHA1: c8b2cc6fcd28fc3e46999e78230f94ffa1690896
+SHA256: 9826ef31233cc52ba62cce2db34f09911cc7e5cde1089ad551a6461157fe461a
+SHA512: ceed2260f196d078bb4d9289056eedbf907eaa365aa943121d19ec3aa530a78c91d046fcf4932cc835070a8a7959595ddfe55803d380cc4439e30cfe3a4c8e37
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, cydia::essential, role::enduser
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+
 Package: daniel.conditional
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -11003,6 +11028,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolargetit
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 dev: coolstar
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
+Version: 2.5.3-1
+Section: Packaging
+Maintainer: Amy While
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/Rootful/org.coolstar.sileo_2.5.3-1_iphoneos-arm.deb
+Size: 2696588
+MD5sum: abdc2573e76f2d236202039b1641ff78
+SHA1: c315c002d93198adcecc80a771665e06e389f36a
+SHA256: 5f8697c543d236cac23058c22782b5f7073f47bd38da81f6c3a8971c5357d888
+SHA512: 44cbfad4a27bd326539943a25935a407aa3d4183c78e55109ee70c66ac412e8f6e8fad4462e2be3ce4cbc4921f04ce1772c4ca59110bcb68bdecea5996208dd0
+Description: A modern APT package manager frontend.
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgetsileo.app%2Fimg%2Ficon.png&s=180x180&f=webp
+Name: Sileo
+Author: Amy While
 
 Package: system-cmds-memory-pressure
 Architecture: iphoneos-arm
@@ -14271,11 +14313,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
 Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
 Filename: ./debians/Roothide/com.f0u4d.onlinenotify_3.5.1_iphoneos-arm64e.deb
-Size: 215612
-MD5sum: fdb476c00709fc505eacbaf869ed02b8
-SHA1: 84d8160550c12635433d00bdd7080abe53ab9824
-SHA256: f7d0e6bebf76316abd4a095e585f5547539150dc757b6d51458d7d2b95c5bae3
-SHA512: 832b1b3030c7275c1e9c475c3fe7248a11e410b97f82acffd4a0928926941a1494a42841dd258a1ae74cff06d413df5183462b28c56902900a7cab3ca4e2050d
+Size: 215618
+MD5sum: ba1e8f0ae023138be9164f20ef8356e9
+SHA1: 54dae8007ca14bb2b3769f3c791707a71f9ab2be
+SHA256: fbb57c12d80c19d09d15941bcec5cb02ccf268780179b2d61c92b1084f26e662
+SHA512: 8d2158e2389b29c966e7b1e16f195a44daf86b169ad524503cd2258f4d9419f0219f2e4f6d81686d9589564554629aaf20d899b09bff98eb8758c5be46a8478d
 Description: Track your friends on WhatsApp Messenger!
 Name: OnlineNotify
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -14398,11 +14440,11 @@ Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitool
 Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
 Enhances: WhatsApp
 Filename: ./debians/Roothide/com.f0u4d.stalky_4.2.7_iphoneos-arm64e.deb
-Size: 1616434
-MD5sum: 53cf5de44c4a92a218a8a72df52c7dfa
-SHA1: 6170e6fa75bab993fd02e7f829fd26646a1b3606
-SHA256: 144b2db1c73e10f3bd13d50b5f7c41df7cf45ff43e677528bdb5fbc57aeafb84
-SHA512: b118841f3e19ef8091ad1523bd3d637c597f699e419721dd2edfda3e704140af4af74a040c36dcce88d6f755cc8b6bf53db92e424cdc9cfefa3749bbb9388452
+Size: 1616444
+MD5sum: 95e2434b824f200a385b80bb7cb38386
+SHA1: 2d33628ed0eba91827289bcf225601b38ba69154
+SHA256: 13d60af853bb17a2654d582954ed3bf579bc2c243dc97fac5335453cb08338c9
+SHA512: b62126b06107a550983d5d07995685aa854d7ffb8c0c614da210b1d94273c85c5a5253788024880be08ea31404911763ca59e5fd6ddd722c97ac5519bdefa979
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -14818,11 +14860,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Conflicts: com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47)
 Filename: ./debians/Roothide/com.f0u4d.watusitools_2.7.0_iphoneos-arm64e.deb
-Size: 11326692
-MD5sum: c32b8e4ede969774626b8cdda91213b5
-SHA1: 1f20fbae11aad91c6e9f1d7d0faac0a57c274335
-SHA256: 0d9d45227170cb3d7c6221d893ee8ebb49baba1c134c34714154d13b2184bf33
-SHA512: 509110ced5fe86b063d478c2e7630ad01c1e13af13df039f83f00ef820c3eeb2fcf0ffa36c4e3a627b5813f450fc1854b25d4949e4c174c7ad47cfe52afcd429
+Size: 11326670
+MD5sum: 736b3218c760677ca9b144142521ce32
+SHA1: d30fd194a08b40288305eaedec44c19d3ec15098
+SHA256: 6412e03d7b8345a407f7eab70c1a78f58b94c06a82e858af2b02ce562e20b93a
+SHA512: 9eb40290adbbb0a4f65d919f4e9953e6886fbd6633372be9df2829f3e026d713687005dade71900dd0733050b7833078eca4250734e79331392f4d2a50671fd6
 Description: Library for Watusi and other WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -14924,15 +14966,15 @@ Version: 1.1.14
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 600
-Pre-Depends: rootless-compat (>= 0.9)
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
 Conflicts: xyz.cypwn.watusi3, xyz.cypwn.stalky, xyz.cypwn.contactsync, xyz.cypwn.onlinenotify, xyz.cypwn.watusitools
 Filename: ./debians/Roothide/com.fouadraheb.contactsync_1.1.14_iphoneos-arm64e.deb
-Size: 119256
-MD5sum: 3d2f6dbee432ee27a1c9b641d916b001
-SHA1: 5bd61aef93f62aae4db667a24abbdee722e727a1
-SHA256: 2095f4ccaebdb688009d835540206eb3d3348d5c23f7ffe5b69e41b76cb87915
-SHA512: f4ea32220ceab1592fbc76b28a9cae8fd6961c000a08ff95e9422b99da1620e853d8824bc49e66fe59eb09361ba8d0a1aca537f3ed52f596f340121d81509d80
+Size: 151610
+MD5sum: 4facecd92ee806230a9ed7a99438adff
+SHA1: 58d575b7767c6d25400172adcdd3e8014b602d42
+SHA256: 4cbdb67003b573913be9fa29359cf7511a0495349ebe50fc6bde500c263bad81
+SHA512: 4e3192a112fa54dbdbd49fd8fc6fc799035a509c57f5d8e29142b36bcc1e28b22fe6c404d98e4c602fd87699c3de71138da2a563ec1ad5a54f466168a86b3d37
 Description: Sync WhatsApp Profile Pictures to your Contacts
 Name: ContactSync
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -15602,11 +15644,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
 Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
 Filename: ./debians/Roothide/com.fouadraheb.watusi3_1.3.1_iphoneos-arm64e.deb
-Size: 6354904
-MD5sum: 6ba456a1ddfd149251ccd580f0101544
-SHA1: 6e2b794d469f1ed044ab00463b1683018b2ef30b
-SHA256: ca7bdf57aef54bd0c8ae986a1245896c70567e396ace8701c6da63b6f34b8d20
-SHA512: 9c5e6ef69a6e4e317dd8eb8c901891f98647788a324763c1d16f87094fa30480f4288a88ce284c742d44d47a19b43bd69bfe3f299bfb4c57f20d29669575f6dd
+Size: 6354966
+MD5sum: 102dcbdadb07446223e1330a02090a6d
+SHA1: f508935abec9e6bf928c7d830ae9a9cf86be0245
+SHA256: c071a2d41d7da93dc5da7a249496011786c948a6ddd9409e47f9c9cdc2be36f7
+SHA512: 5b0e21ebfdedbb1a743d64fd06ec5580529cf8dc8aa275471f6887ac3390a6a215886e90bb3f966fb8e209be936e54f973b26f7f68d42b91c898f3554d4e5103
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -29711,6 +29753,27 @@ Icon: https://avatars.githubusercontent.com/u/6962327?v=4
 
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64
+Version: 1.1.14
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
+Conflicts: xyz.cypwn.watusi3, xyz.cypwn.stalky, xyz.cypwn.contactsync, xyz.cypwn.onlinenotify, xyz.cypwn.watusitools
+Filename: ./debians/Rootless/com.fouadraheb.contactsync_1.1.14_iphoneos-arm64.deb
+Size: 118552
+MD5sum: ea42ae9d3aa255f435ea5f6d73baeaf4
+SHA1: cb5ffc13c50ea761af6a221ea3bf2dd917e23143
+SHA256: 4b1eddeccd9a114ab6b662654d245bd835916dd3df674cc543fbd19ae4ffcdc2
+SHA512: 32ba3490a8460ee7a460b3bf31930bc4372ec5768171c385cb558c13e103876f7a6aa15da8b511ab11d9061dcabc6824e8344fa4c43b50803d46796b8163004c
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64
 Version: 1.1.15
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -30399,11 +30462,11 @@ Installed-Size: 9420
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.7.0)
 Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
 Filename: ./debians/Rootless/com.fouadraheb.watusi3_1.3.1_iphoneos-arm64.deb
-Size: 2518286
-MD5sum: f6d194f90190d6a650dbcc04447b6bee
-SHA1: 3384ff57c96019b825263970d4f3edbdd5825241
-SHA256: 36a4b269665a385caa7979bdfb0111e1746a35918a250cb599e8b9b7c873a603
-SHA512: d8bda3677b7dd03697c45177b895e70338236e37c6274a0e4b44a18031575d89fc5d2c192ab88e8a90679c2e9ced8e2516575dea90a43f09b58233435e17a520
+Size: 2518440
+MD5sum: 471a5c653f49512826c7191766b66531
+SHA1: 655edaa2797b09d2ed1cab38ffc43a97c264b6a5
+SHA256: 9535c1e22d062f40e5465967a638727c59e5e2bc32cb5fc6b7f0f0fd2fe624f5
+SHA512: 47762269760766a00b7022003b9b704b8b827dfa9c4bc5825d39b18f95f6b28684e05e1a03a188fd6369785a4828ecfb7464276e92b9badbdc32cb14fdc2692d
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -39212,6 +39275,23 @@ Name: Sileo
 Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64
+Version: 2.5.3-1
+Section: Packaging
+Maintainer: Amy While
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/Rootless/org.coolstar.sileo_2.5.3-1_iphoneos-arm64.deb
+Size: 2696500
+MD5sum: 2ba7060eb63da32e688d409472756f15
+SHA1: 3a0d37e5202da45b332d8134bba222da1f8b95b8
+SHA256: b46b7bc4a1657d0b4607cd1647ccd70a5362df0acfa1248004826d6cde056d04
+SHA512: 75512fd54f2395f45455fc086b5543aacf15a3dcb03e9a001d6eae9f2a4e76aebdfee97b43360e4f8beb2a81a275d1912e3fc777c264814931bf297214d36c17
+Description: A modern APT package manager frontend.
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgetsileo.app%2Fimg%2Ficon.png&s=180x180&f=webp
+Name: Sileo
+Author: Amy While
 
 Package: org.thebigboss.ios6completetheme
 Architecture: iphoneos-arm64
