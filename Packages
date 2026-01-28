@@ -8619,32 +8619,6 @@ Description: Allows Wifi to stay connected when the device is locked , Supports 
 Name: Persistent WiFi
 Author: Tony Kraft <iostonykraft@gmail.com>
 
-Package: com.torrekie.battman
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Applications
-Maintainer: Torrekie <me@torrekie.dev>
-Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
-Filename: ./debians/Rootful/com.torrekie.battman_1.0_iphoneos-arm.deb
-Size: 2959200
-MD5sum: af7a7478a458c002fb57319ad9688f94
-SHA1: 6b4b5e21cbb06fdde31b52389c3e1d53138f3253
-SHA256: bce29cb3f9be8c4dd4bf290dc580b6a4970559ad3a08f90d4360ad1763311778
-SHA512: 55eddd30a01dbb78cd4217c5480e4a40461292fe6dac3b5f00b32646555f3565fb5342e3c6b9d06d34dc55cc2942f7491a0a44fedc714e3175fe36150c3beaa7
-Homepage: https://github.com/Torrekie/Battman
-Description: Battman the Battery Manager
- Battman is a lightweight app that provides deep
- real-time battery insights. From charging
- current, voltage, temperature, to
- Not-Charging-Reason, adapter information,
- Smart Charging, Low Power Mode and accessory
- detection.
- .
- It requires A11+ devices as for now.
-Name: Battman
-Author: Torrekie <me@torrekie.dev>
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHpttYYBntY1IMT-g-jTpC10iZxIFJUMRsXp9LShOYg&s=10
-
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm
 Version: 1.0
@@ -9391,6 +9365,27 @@ Author: Ploosh
 Name: BatteryPercent
 Icon: https://repo.ploosh.dev/assets/batterypercent.png
 SileoDepiction: https://repo.ploosh.dev/meta/batterypercent.json
+
+Package: dev.ploosh.libhooker-oss
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: System
+Maintainer: Ploosh <me@ploosh.dev>
+Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0), org.coolstar.libhooker (= 1.7.0)
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode, org.coolstar.libhooker
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode, org.coolstar.libhooker
+Filename: ./debians/Rootful/dev.ploosh.libhooker-oss_1.1.0_iphoneos-arm.deb
+Size: 50800
+MD5sum: 54713230a3aa38ebe114300b807ebbea
+SHA1: 7f60b393ae99eb6b50580f38eefdb6bf3fe81e99
+SHA256: c08a92a41ceae0dd0ee24606d885022663c4c2ee8b8403c2cd9216909a58da9f
+SHA512: 5463727ba93711c188d3ffb03e4bafde48e13b1899129f826252e0541959233934a80380a463fc8901f6cecdd0a4ba814a5165e067a371426d180f1b7db60b8d
+Description: libhooker, open source edition.
+Name: libhooker-oss
+Author: Ploosh <me@ploosh.dev>, CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.ploosh.dev/assets/libhooker-oss.png
+SileoDepiction: https://repo.ploosh.dev/meta/libhooker-oss.json
 
 Package: dev.quiprr.redditna
 Architecture: iphoneos-arm
@@ -11028,6 +11023,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolargetit
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 dev: coolstar
+
+Package: org.coolstar.safemode
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: System
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64
+Replaces: org.coolstar.libhooker (<<1.2.5)
+Filename: ./debians/Rootful/org.coolstar.safemode_1.1.4_iphoneos-arm.deb
+Size: 560536
+MD5sum: 576c66c5933c94cd89d6914135229bbe
+SHA1: c0049ab45bb11e72671013fe1d7d16771696b9f0
+SHA256: 04e804ff8c05d6f63ea0a24f94f2e48abc24120e623ff3e934e521f32fd29c6f
+SHA512: 902fcc505ed4fe954c1c8eef39d848520411685cbf27a0deeb3262adcc2d562a60c60c634ab72bec5298ace79fd29dfee60799d1493cf75b0665d58979876b5d
+Description: Safe Mode app for libhooker
+Name: Safe Mode (libhooker)
+Author: CoolStar <coolstarorganization@gmail.com>
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm
@@ -22146,33 +22158,6 @@ SHA512: a493a7b5aa86a0075eabb224f4ebab599b5b165fb6c8ebdbef3e3ea91a591f23f40349bd
 Description: Allows Wifi to stay connected when the device is locked , Supports Dopamine , Paera1n rootful and rootless & Dopamine-Roothide .
 Name: Persistent WiFi
 Author: Tony Kraft <iostonykraft@gmail.com>
-
-Package: com.torrekie.battman
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Applications
-Maintainer: Torrekie <me@torrekie.dev>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
-Filename: ./debians/Roothide/com.torrekie.battman_1.0_iphoneos-arm64e.deb
-Size: 2958280
-MD5sum: fde622772a3e4bf4f261f6326cbac619
-SHA1: 39461318a109735d632846c56b677320d3bfdd5b
-SHA256: 332dad331fea61da7f4a5ba4626d1991a2985b190b4e4391372c845231017777
-SHA512: 8a920a223a8495a446e4881363938e461b79704583fc8ec38e4b852f76a4e7fca38e04ed6f48db8d5e4fa128b5a21119cdeaa5b10603d743d5f77626c85ac5fa
-Homepage: https://github.com/Torrekie/Battman
-Description: Battman the Battery Manager
- Battman is a lightweight app that provides deep
- real-time battery insights. From charging
- current, voltage, temperature, to
- Not-Charging-Reason, adapter information,
- Smart Charging, Low Power Mode and accessory
- detection.
- .
- It requires A11+ devices as for now.
-Name: Battman
-Author: Torrekie <me@torrekie.dev>
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHpttYYBntY1IMT-g-jTpC10iZxIFJUMRsXp9LShOYg&s=10
 
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm64e
@@ -36314,32 +36299,6 @@ Name: iNoSleep
 Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 
-Package: com.torrekie.battman
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Applications
-Maintainer: Torrekie <me@torrekie.dev>
-Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
-Filename: ./debians/Rootless/com.torrekie.battman_1.0_iphoneos-arm64.deb
-Size: 2958064
-MD5sum: 6853cad049cfba57d9c523969644d11a
-SHA1: 0987f84bb8589446740ba14bf380384445dd981d
-SHA256: 0014bbd3b8a51d1a1afa8b47540801fb0510cb1d7acd630afb642c2547263ea2
-SHA512: 359d21832dcdd529a879d4b71e9785be0b2767adbbea48779b6f75050de084b469e469dec375c2ff44f9cff4930f19739827253c4f4d7db8b9822764227a6b4a
-Homepage: https://github.com/Torrekie/Battman
-Description: Battman the Battery Manager
- Battman is a lightweight app that provides deep
- real-time battery insights. From charging
- current, voltage, temperature, to
- Not-Charging-Reason, adapter information,
- Smart Charging, Low Power Mode and accessory
- detection.
- .
- It requires A11+ devices as for now.
-Name: Battman
-Author: Torrekie <me@torrekie.dev>
-Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHpttYYBntY1IMT-g-jTpC10iZxIFJUMRsXp9LShOYg&s=10
-
 Package: com.tr1fecta.autotooth
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -37375,6 +37334,46 @@ Author: Ploosh
 Name: BatteryPercent
 Icon: https://repo.ploosh.dev/assets/batterypercent.png
 SileoDepiction: https://repo.ploosh.dev/meta/batterypercent.json
+
+Package: dev.ploosh.libhooker-configurator
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Priority: required
+Section: Packaging
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: org.coolstar.libhooker (>=1.4.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 12.0)
+Filename: ./debians/Rootless/dev.ploosh.libhooker-configurator_1.3.1_iphoneos-arm64.deb
+Size: 207256
+MD5sum: 42cefcc8df1d3df4c869bd485833abc9
+SHA1: 66eadcf1ebd5d5579f05f42373588e709fcf178e
+SHA256: 169ad74424247266d80af23b8f39eee43d5f1ba84617b24375511be51aa93801
+SHA512: c29093271e825425c602cdd8143089e10caadacf53998cac42bdc50fa287bc661893ca1724211b275d28ca92a24749126d2d4d10d30c505dca0b92149a91cd2c
+Description: Configuration Utility for libhooker
+Icon: https://repo.ploosh.dev/assets/libhooker-oss.png
+SileoDepiction: https://repo.ploosh.dev/meta/libhooker-configurator.json
+Name: libhooker-configurator
+Author: CoolStar <coolstarorganization@gmail.com>
+
+Package: dev.ploosh.libhooker-oss
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: System
+Maintainer: Ploosh <me@ploosh.dev>
+Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0), org.coolstar.libhooker (= 1.7.0)
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode, org.coolstar.libhooker
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode, org.coolstar.libhooker
+Filename: ./debians/Rootless/dev.ploosh.libhooker-oss_1.1.0_iphoneos-arm64.deb
+Size: 50980
+MD5sum: 4778659fcf1eae65fe7e8458f5f4352c
+SHA1: ab59a924326d8a9c2e0bb9e2cf10e86c731d0521
+SHA256: 8950161adf385e85f42707ce9870cc16553abe5612725bcc4571de09a0783822
+SHA512: e802fe3dc529c092d70dc960a0e8d0ab99c1d625241c7f8396181a83865ddfc51211d6912cc13783d058130eedc449fbe333d1763049a1d2ab4ae0a9a933a054
+Description: libhooker, open source edition.
+Name: libhooker-oss
+Author: Ploosh <me@ploosh.dev>, CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.ploosh.dev/assets/libhooker-oss.png
+SileoDepiction: https://repo.ploosh.dev/meta/libhooker-oss.json
 
 Package: dev.quiprr.redditna
 Architecture: iphoneos-arm64
@@ -39292,6 +39291,23 @@ Description: iOS 6 folders with a modern twist for rootless jailbreaks
 Icon: file:///var/jb/Library/PreferenceBundles/ClassicFoldersSettings.bundle/icon-29@3x.png
 Name: ClassicFolders 3
 Author: CoolStar
+
+Package: org.coolstar.safemode
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: System
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64
+Replaces: org.coolstar.libhooker (<<1.2.5)
+Filename: ./debians/Rootless/org.coolstar.safemode_1.1.4_iphoneos-arm64.deb
+Size: 528656
+MD5sum: 5294dacf968ed34adb1ed15764379e6b
+SHA1: 690bc10330b07ca3844972422047f3811329dd7c
+SHA256: 1fd33d5ebb30629cfd38da5effd539a6d51d7d036fe6e615dab8f8e8e79d1991
+SHA512: 3c70566c48d5d1634cbee5126fe09bf6bed3df6f5bad4487fe3f633fbd4b12f2720c26d561f510ce8960fbbbbdbe9909e5d536a6af440231aa3a4c8a4e1472cd
+Description: Safe Mode app for libhooker
+Name: Safe Mode (libhooker)
+Author: CoolStar <coolstarorganization@gmail.com>
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm64
