@@ -11046,6 +11046,23 @@ Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgetsileo.app%2
 Name: Sileo
 Author: Amy While
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
+Version: 2.5.4
+Section: Packaging
+Maintainer: Amy While
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/Rootful/org.coolstar.sileo_2.5.4_iphoneos-arm.deb
+Size: 2645300
+MD5sum: 228ec5cdf8f4926574efd4605b69be23
+SHA1: 3f111708fb1711f5efc0d85f9f91e5939c8125b1
+SHA256: c080b37d5cebe275e986f84dadc48650171bce4bdd9b437fa7cad78ef1f9e400
+SHA512: 830191cd1bf39b22a405d73fb4c888a4b6b449060743ddc94b9a4a8769a09f3523aa9b8c6049802fdd8cdee161fb41651009399affc9883e9bcdc9060b7b4809
+Description: A modern APT package manager frontend.
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgetsileo.app%2Fimg%2Ficon.png&s=180x180&f=webp
+Name: Sileo
+Author: Amy While
+
 Package: system-cmds-memory-pressure
 Architecture: iphoneos-arm
 Version: 880.120.1
@@ -39288,6 +39305,23 @@ MD5sum: 2ba7060eb63da32e688d409472756f15
 SHA1: 3a0d37e5202da45b332d8134bba222da1f8b95b8
 SHA256: b46b7bc4a1657d0b4607cd1647ccd70a5362df0acfa1248004826d6cde056d04
 SHA512: 75512fd54f2395f45455fc086b5543aacf15a3dcb03e9a001d6eae9f2a4e76aebdfee97b43360e4f8beb2a81a275d1912e3fc777c264814931bf297214d36c17
+Description: A modern APT package manager frontend.
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgetsileo.app%2Fimg%2Ficon.png&s=180x180&f=webp
+Name: Sileo
+Author: Amy While
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64
+Version: 2.5.4
+Section: Packaging
+Maintainer: Amy While
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/Rootless/org.coolstar.sileo_2.5.4_iphoneos-arm64.deb
+Size: 2641744
+MD5sum: 14f94d95e6eb95f9619120a50a2bad50
+SHA1: 1fd1b883c4aa2e7b4c06cede38cca0491efa194d
+SHA256: 1b9351b9cc70ba6d5515439aa77148b2e02ede85d5aaade26da4aa0b299d90ae
+SHA512: e2a85f089d9095578edf4719d20b12c196d4c9ceb7e322d3a922fbe48836209d4f5f0f8b943859f87ab2ce6a42e24103722d8d8ccf8524f7995ecb8cb12a4da6
 Description: A modern APT package manager frontend.
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgetsileo.app%2Fimg%2Ficon.png&s=180x180&f=webp
 Name: Sileo
