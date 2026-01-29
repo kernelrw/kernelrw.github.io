@@ -8008,6 +8008,26 @@ Name: Liberty Lite (Beta)
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 
+Package: com.saihgupr.remotecompanion
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Saihgupr
+Installed-Size: 1048
+Depends: mobilesubstrate, firmware (>= 15.0), netcat
+Conflicts: com.pizzaman.remotecommand
+Replaces: com.pizzaman.remotecommand
+Filename: ./debians/Rootful/com.saihgupr.remotecompanion_1.1.1_iphoneos-arm.deb
+Size: 243076
+MD5sum: 0ff9c2efa1e9e9de7afae4d6936cf2c8
+SHA1: 9e674097d13b4801f57aa6a51fa35cfbe782519b
+SHA256: ab8d9561f09cfeba4220548e04f61f44887427e3b46abd5039a0aead4658cf27
+SHA512: e8bd33eae4f30eb7874cfda1b7aef9cb36ccccc655e6a5791ddf4cd3c41b421bbf4627e384a49e51f178cc1f8b162266374489bacf4eb016e13c957ba02b51da
+Description: An alternative to Activator
+Name: RemoteCompanion
+Author: Saihgupr
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/RC.png?raw=true
+
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -21128,6 +21148,27 @@ ModernDepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannai
 Icon: https://ryannair05.github.io/repo//assets/com.ryannair05.cylinderremade/icon.png
 Tags: compatible_min::ios14.0, compatible_max::ios15.7
 Author: Ryan Nair <ryannairtweaks@gmail.com>
+
+Package: com.saihgupr.remotecompanion
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Saihgupr
+Installed-Size: 1048
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), netcat
+Conflicts: com.pizzaman.remotecommand
+Replaces: com.pizzaman.remotecommand
+Filename: ./debians/Roothide/com.saihgupr.remotecompanion_1.1.1_iphoneos-arm64e.deb
+Size: 320192
+MD5sum: 1dd8dbeb8ab13b2b7ed0f843469e1775
+SHA1: 8764cdaeed01a38d56f9c81b6cbfb41c24350cf7
+SHA256: 01faf46b50ed5cbc38f5f97780935bbe5eb22186cd49a6d5aa23af659cf56967
+SHA512: cd5142f2e6b619f818fcd5267a57a38d165a523dde82f04a547445f2152f013f76f9e902b039a46499b2e60aabd0b36975ad273ac46ffb4d5dcee6a3f38a2ac1
+Description: An alternative to Activator
+Name: RemoteCompanion
+Author: Saihgupr
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/RC.png?raw=true
 
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64e
@@ -35464,6 +35505,26 @@ Description: Convert IPA to DEB
 Name: ipa2deb
 Author: rullinoiz
 Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
+
+Package: com.saihgupr.remotecompanion
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Saihgupr
+Installed-Size: 1048
+Depends: mobilesubstrate, firmware (>= 15.0), netcat
+Conflicts: com.pizzaman.remotecommand
+Replaces: com.pizzaman.remotecommand
+Filename: ./debians/Rootless/com.saihgupr.remotecompanion_1.1.1_iphoneos-arm64.deb
+Size: 247872
+MD5sum: 877e0a73ec078ebd1bee7cfd37675e7c
+SHA1: 5befc17ae8c7db2daa44878e886aa1604f739f9c
+SHA256: 55b9a8e4e4de89e86d1fb34c341714bad67f7ccbcdf79ab0a65906e46f537c17
+SHA512: 2df7f989ee8e0273f15497c50b51cc9f3b6349208871bfa331cc3383202e2138799047362c98c95260a2ec662cbc4cb3106fad68c4a307e663c6da9bb279443a
+Description: An alternative to Activator
+Name: RemoteCompanion
+Author: Saihgupr
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/RC.png?raw=true
 
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64
