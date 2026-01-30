@@ -22595,6 +22595,23 @@ Description: 自定义系统全局开关颜色・Customize System-wide Switch Co
 Name: Switch Color
 Author: iBreak <ibreak2019@qq.com>
 
+Package: com.yourepo.itweakios.ccpatch10
+Architecture: iphoneos-arm64e
+Version: 4.0.1
+Section: Tweaks
+Maintainer: Pwn20wnd <itweakios@yahoo.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 10.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debians/Roothide/com.yourepo.itweakios.ccpatch10_4.0.1_iphoneos-arm64e.deb
+Size: 44160
+MD5sum: 8560387f0744749fabc3ba438d0d0552
+SHA1: 3bc7d40724010e3680622cedd81ba7de33e47fb0
+SHA256: 13bc8a31320a13017ef3b92f52a7eeaa1ea073d45647fbf59b774b1bee489c8e
+SHA512: d4c6efcf16b6cbe0ee3ef8851d3ae0fa807206598ffd0f63bd1d6f06448cc1b2b3511e22474879dc8d22ebfa9f04e038ed0b6ed92f04a168fbea2489e0c30721
+Description: Carrier bundle verification bypass
+Name: CommCenter Patch
+Author: Pwn20wnd <itweakios@yahoo.com>
+
 Package: com.zelvorn.keyrounded
 Architecture: iphoneos-arm64e
 Version: 1.0
