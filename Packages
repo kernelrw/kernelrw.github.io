@@ -22313,6 +22313,22 @@ Description: Vanson U Know?
 Name: VansonModifier
 Author: Vanson
 
+Package: com.vanson.modifier
+Architecture: iphoneos-arm64e
+Version: 2.5.1
+Section: Utilities
+Maintainer: Vanson
+Installed-Size: 3620
+Filename: ./debians/Roothide/com.vanson.modifier_2.5.1_iphoneos-arm64e.deb
+Size: 1572480
+MD5sum: 9e459a6668e348d914a3c66e9e9f7b41
+SHA1: d2587d38e72f0aed4790a0ea99cf8888b073192f
+SHA256: f33416b2f4011acddd696ba288c54b82824f0fc8b09c5356864c8f061aaa31dd
+SHA512: ee2d46f2951214052aabc9be9e2384bcfffc660c3116c53e7c8c01b04cab1cf27cc7b744e1b8c187b475a4ec624d2775408879c6ef12d4488b310a64f68218b1
+Description: Vanson U Know?
+Name: VansonModifier
+Author: Vanson
+
 Package: com.wrp1002.growingbadges
 Architecture: iphoneos-arm64e
 Version: 1.1.0
@@ -36495,6 +36511,22 @@ MD5sum: ddae68613e04891fbad8497d3c10fe7b
 SHA1: 3b8c15a94c719f91db1ace4342c17692eca1d5ee
 SHA256: ae5f8acfacae32d512c35abe216863668f7e8090f32b1192434f8286a7666b77
 SHA512: 13d3789d06568c5904dec2b82b45aaed43177a5e3f8df4ea30c8480458847ab0922522e98a49d99dd98774d1678d62b682ee875d93b5ad350c61cd220d166226
+Description: Vanson U Know?
+Name: VansonModifier
+Author: Vanson
+
+Package: com.vanson.modifier
+Architecture: iphoneos-arm64
+Version: 2.5.1
+Section: Utilities
+Maintainer: Vanson
+Installed-Size: 3620
+Filename: ./debians/Rootless/com.vanson.modifier_2.5.1_iphoneos-arm64.deb
+Size: 1575498
+MD5sum: 1f21480a1412cc978c0f2aba879a3c99
+SHA1: cc7c15a26f24f1d0b8bb9ed3f6150f74ff2a7ec5
+SHA256: 5ad7fdda9cdcf62c81122482db59596a8a8401de6e6f97934754cdd82cc91354
+SHA512: ea3d58a62630e8d891082c585a3343665f944e21697e15f1068353441f789c973da6cf48b1a8f61c3a9bf03b3b5494c5208d70727f17b9ccf679198879665109
 Description: Vanson U Know?
 Name: VansonModifier
 Author: Vanson
