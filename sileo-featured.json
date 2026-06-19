@@ -1,0 +1,43 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{296, 148}",
+	"itemCornerRadius": 10,
+	"banners": [
+		{
+			"url": "https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Dopam1ne.png?raw=true",
+			"title": "Dopam1ne",
+			"package":
+"com.sergy.immortalizer",
+			"hideShadow": false
+		},
+            {
+			"url": "https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Unc0ver.png?raw=true",
+			"title": "Unc0ver",
+			"package": "com.anthopak.addtofolder",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Taurine.png?raw=true",
+			"title": "Taurine",
+			"package":
+"com.nepeta.axon",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Checkra1n.png?raw=true",
+			"title": "Checkra1n",
+			"package":
+"com.newwares.badgesync",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Rooth1de.png?raw=true",
+			"title": "Rooth1de",
+			"package": "com.shiftcmdk.autoalerts",
+			"hideShadow": false
+		}
+
+
+	]
+
+}

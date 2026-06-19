@@ -1,0 +1,14 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on Twitter</name>
+            <url>https://https://twitter.com/_0ffset?</url>
+            <iconclass>glyphicon glyphicon-user</iconclass>
+        </link>
+        <link>
+            <name>I want this depiction template</name>
+            <url>https://github.com/kernelrw/f0rd0w.github.io</url>
+            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+        </link>
+    </footerlinks>
+</repo>
