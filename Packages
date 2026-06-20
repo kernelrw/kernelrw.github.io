@@ -1,3 +1,19 @@
+Package: com.w3ltyyy.lead
+Architecture: iphoneos-arm
+Version: 1.4.3
+Section: Tweaks
+Maintainer: w3ltyyy
+Filename: ./debians/iphoneos-arm/com.w3ltyyy.lead_1.4.3_iphoneos-arm.deb
+Size: 5005800
+MD5sum: c913b4fd8ac1e5773215beaee8027311
+SHA1: 28b43ca5f70a233baf6798805689f333f1bc1bd5
+SHA256: 9a7c89db7620d6478396f0053e5e85dee5d3c95ac5aa873d894199cc1541d072
+SHA512: a3b7d2ec133506ef09700160dbf8d153abe69fba8ae1b86f5b28554e7d1177a9bb1b3f47e1ca9a3b6e0b64d8502dec199521216da2aad8e4bf4df343fc47e3bb
+Description: The best Tweak For Telegram iOS
+Name: Lead
+Author: w3ltyyy
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Lead@2x.png?raw=true
+
 Package: com.be-huge.insulationn
 Architecture: iphoneos-arm64
 Version: 0.1.35
@@ -15,6 +31,22 @@ Description: Unlock the temperature control and keep everything simple.
 Name: Insulation
 Author: be-huge & doimty
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
+
+Package: com.w3ltyyy.lead
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: w3ltyyy
+Filename: ./debians/iphoneos-arm64/com.w3ltyyy.lead_1.4.3_iphoneos-arm64.deb
+Size: 5015580
+MD5sum: 19337381eb6edcd7706563dc9c5530e6
+SHA1: fa6f9a270b6dbda1650e86fefb381361be50b69f
+SHA256: c267ea9bb540f1aa99ef2b973b101503bd8a70677afab5da309b4d16e74f8187
+SHA512: 4c510f190dcbf94a35325be270294ef10297d585622751e115d7b15153c3c4a07a08b63ffa36b52fd3bab0c3afb364c86d1ac6006105dd2b9b081583777cccce
+Description: The best Tweak For Telegram iOS
+Name: Lead
+Author: w3ltyyy
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Lead@2x.png?raw=true
 
 Package: com.be-huge.insulationn
 Architecture: iphoneos-arm64e
@@ -34,4 +66,20 @@ Name: Insulation
 Author: be-huge & doimty
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
 SileoDepiction: https://github.com/f0rd0w/f0rd0w.github.io/blob/main/depictions/native/Insulation/Insulation.plist
+
+Package: com.w3ltyyy.lead
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: w3ltyyy
+Filename: ./debians/iphoneos-arm64e/com.w3ltyyy.lead_1.4.3_iphoneos-arm64e.deb
+Size: 5013596
+MD5sum: 59f4c48c586c6e483638c6afc9e5a9a4
+SHA1: f8c8e3378bdb68ab90da29701dc2acffffbc6515
+SHA256: f0469ca599725a669f7ed0464227867467d380078ee6fdf4e7b209237913824f
+SHA512: b5b52276dcf8c2eda5a310b61aa6c34bdac2e201e88ee23318d0c22d716bf30bbb37024c62c0075cd127f34b2db582f3d6a0bacdb16d5139b5775c3720f6c048
+Description: The best Tweak For Telegram iOS
+Name: Lead
+Author: w3ltyyy
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Lead@2x.png?raw=true
 
