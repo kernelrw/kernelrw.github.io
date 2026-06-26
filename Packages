@@ -6126,39 +6126,20 @@ Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autol
 
 Package: com.julioverne.fiona
 Architecture: iphoneos-arm
-Version: 0.2
+Version: 0.3
 Section: Tweaks
 Maintainer: Julioverne & F0rd0w
-Depends: firmware (>=15.0), mobilesubstrate, preferenceloader
-Filename: ./debians/iphoneos-arm/com.julioverne.fiona_0.2_iphoneos-arm.deb
-Size: 24256
-MD5sum: e6e66099a9291fe5945405b869ce0b51
-SHA1: 80c8eb342d89503d4a4c6c7902c7e1ce84e87094
-SHA256: bd73c961751265df56ec0851646a60e5176e88bf52d092a94c98dc256772e05a
-SHA512: 85ca6dc40a5d4d3d8d4b898bf2dae75e0e3d32445e378862aced810d727320b2c9b799f78193aebe9b0f8d575b72dd0facdb2f08a1ec177f03dff934a39eb891
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm/com.julioverne.fiona_0.3_iphoneos-arm.deb
+Size: 20840
+MD5sum: e244788d9dcca46b3a51e387fe6e6915
+SHA1: be73780dee07994820564d65bd99d47a2cd602ce
+SHA256: 4297b21093d40e53036b2a34771afe669f355464bd1e22539ca05367a6642676
+SHA512: 77b3e35bc665d0c66ced906ce6a5b68f496697fe7d1720533a145a3a2d203c1fdeba2c5b62c5240329ccf07f98ebc7f53f3023d98030b47ada856f49f214a888
 Homepage: https://twitter.com/ijulioverne
 Description: Keep WiFi Always Connected , updated for iOS15+ .
 Name: Fiona
 Author: julioverne & F0rd0w
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Fiona.png?raw=true
-
-Package: com.julioverne.fionaa
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Tweaks
-Maintainer: Julioverne
-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
-Filename: ./debians/iphoneos-arm/com.julioverne.fionaa_0.1_iphoneos-arm.deb
-Size: 35548
-MD5sum: e542120bec38dc094726efb383ab61d7
-SHA1: 3602ce1791341ebb7ad3a6da30d985b671564c51
-SHA256: 08156202293bb8d54e568d90c546155b1e20359a307ce25ef34eeccdf8ed1826
-SHA512: eb144f75efe480400da4672a501a7bd1fc392ac00c55b35d19df687a4acd51e23e0da6492f48ddd3b23c48e4ffcff4d187dbd0276130fd723c657408ecf6446c
-Homepage: https://twitter.com/ijulioverne
-Description: Keep WiFi Always Connected
-Name: Fiona
-Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Fiona.png?raw=true
 
@@ -20313,39 +20294,20 @@ Icon: file:///var/jb/Library/PreferenceBundles/AutoLockXSettings.bundle/icon@2x.
 
 Package: com.julioverne.fiona
 Architecture: iphoneos-arm64
-Version: 0.2
+Version: 0.3
 Section: Tweaks
 Maintainer: Julioverne & F0rd0w
 Depends: firmware (>=15.0), mobilesubstrate, preferenceloader
-Filename: ./debians/iphoneos-arm64/com.julioverne.fiona_0.2_iphoneos-arm64.deb
-Size: 24340
-MD5sum: 267f9e551ad7ce81ec1b95e37d1ea523
-SHA1: cde934ca7f12e44ae50e275051bc346ed620cfbf
-SHA256: ddf1e3d170d1ce71be49a5527276c999e9785888feffb0bb4c03b883fee6f8fe
-SHA512: a5906908fc1a929523b88d8b5e8bc740e948d160ac2d91e5414673e003e0c206b2270bca8cc4a1faed4d412b04056a16e34f88d80296fc1573a15ec39bc61962
+Filename: ./debians/iphoneos-arm64/com.julioverne.fiona_0.3_iphoneos-arm64.deb
+Size: 22392
+MD5sum: 8d7ecca15cc1aa4dc593152b8dfed23a
+SHA1: 41554be2b101910818df9ab6f1e8f242eb64798a
+SHA256: b8b241ddc0dcd1f27d43bfdcbe5394adc9862dbac5a6028b0c01fa28809ce706
+SHA512: 517b59ca99d6184dba31e5fdce9cdb425bf86140ff6349dfb4334a86fac906af2c9f09d60f20d0d89344959693e1dbdd8b08fad8c210884db7c16ff78b4a53a6
 Homepage: https://twitter.com/ijulioverne
-Description: Keep WiFi Always Connected , updated for Dopamine & Roothide .
+Description: Keep WiFi Always Connected , updated for iOS15+ .
 Name: Fiona
 Author: julioverne & F0rd0w
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Fiona.png?raw=true
-
-Package: com.julioverne.fionaa
-Architecture: iphoneos-arm64
-Version: 0.1
-Section: Tweaks
-Maintainer: Julioverne
-Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8
-Filename: ./debians/iphoneos-arm64/com.julioverne.fionaa_0.1_iphoneos-arm64.deb
-Size: 25452
-MD5sum: f4f4428fd62675cb01bd56c4fbe20168
-SHA1: 23bbfe4e7c6c79b16a30bead3af0307150a0babc
-SHA256: e56f783f1a778a7755f2e470e4d6ed7eca49495aef89ff44047aeebf7e537cfd
-SHA512: 3fa2cb2a035908c331112981623e4b2da1b71332ce2b06fbf7862323353b051d36ef280e7677c5a38b17480b8b3cc56e6c864ee8dbab1d428d0cbaed88ea7fdb
-Homepage: https://twitter.com/ijulioverne
-Description: Keep WiFi Always Connected
-Name: Fiona
-Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Fiona.png?raw=true
 
@@ -35917,18 +35879,18 @@ Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autol
 
 Package: com.julioverne.fiona
 Architecture: iphoneos-arm64e
-Version: 0.2
+Version: 0.3
 Section: Tweaks
-Maintainer: Julioverne
+Maintainer: Julioverne & F0rd0w
 Depends: firmware (>=15.0), mobilesubstrate, preferenceloader
-Filename: ./debians/iphoneos-arm64e/com.julioverne.fiona_0.2_iphoneos-arm64e.deb
-Size: 23244
-MD5sum: 024a98cdc82f057081923d7c12950f19
-SHA1: aa8d4bb75332fb31a7cd4ae109bc75434f739784
-SHA256: 0ece0e59aa6d6fdeb8d027ba09d67b69afcbb3da68a2fc2b0835bd0cff30010d
-SHA512: 07bb3ced877b35a0c45b765d2bdc0d57d61fa68d474ddfb7c392eee6162896f3d437e2f71295f5e25984962918fec68346fc34e18fde11a6a160f0f872da0c23
+Filename: ./debians/iphoneos-arm64e/com.julioverne.fiona_0.3_iphoneos-arm64e.deb
+Size: 20808
+MD5sum: df65f3e7dd0e0881c7239b6b1d9be05f
+SHA1: 406e0a6746f2c199bdcbf70577cf6af4fec06265
+SHA256: 477df5d25cc91e8fcb996a4f560a481e79c7af1df97338057cbd18fdc4b4d971
+SHA512: f4898913004528a3c568ba9b919ab7cbf6774cdb3da23f2033e20058b637fc8a7aa40ad60f584169f6b1d95430b72e3f0360ee99e2a9ee16893dfee8acaafc84
 Homepage: https://twitter.com/ijulioverne
-Description: Keep WiFi Always Connected , updated for Dopamine & Roothide .
+Description: Keep WiFi Always Connected , updated for iOS15+ .
 Name: Fiona
 Author: julioverne & F0rd0w
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
