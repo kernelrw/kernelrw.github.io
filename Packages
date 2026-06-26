@@ -5755,6 +5755,24 @@ Description: Jailbreak tweak to patch CVE-2025-31207, a bug that allows sandboxe
 Name: AppEnumFix
 Author: iCraze
 
+Package: com.icraze.fibbypass
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 5972
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.icraze.fibbypass_1.0_iphoneos-arm.deb
+Size: 3237360
+MD5sum: 44c914642aab81c3718e0fdc48cc239e
+SHA1: 1fa4e5ed1f44dd1d6f3e8b2caab52c551cf16049
+SHA256: 68c77e34cae4f76af2adf2e204def8b9186dd22be29501569621aeabd3b4fe76
+SHA512: 4f53e95950633e3f35bba32ee8448f8790f831a76cbd4f104345d77acccf04f2131455e2ca40703668a6e06fadc36f408f103f738051cb7637d675c030f16f5f
+Description: First Iraqi Bank jailbreak detection bypass
+Name: FIB Jailbreak Bypass
+Author: iCraze
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/FIB.png?raw=true
+
 Package: com.icraze.nosettingsads
 Architecture: iphoneos-arm
 Version: 1.0
@@ -19940,6 +19958,24 @@ SHA512: 2430d7f60493a29adf395b6362106df7d7f918d7a42eeb711fe710f11ff11e12df755c03
 Description: Jailbreak tweak to patch CVE-2025-31207, a bug that allows sandboxed applications to enumerate a user's installed apps
 Name: AppEnumFix
 Author: iCraze
+
+Package: com.icraze.fibbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 5972
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.icraze.fibbypass_1.0_iphoneos-arm64.deb
+Size: 3237360
+MD5sum: c4ba07b08b58d3b3ba18d826965b741e
+SHA1: f8e952c781cab0000f53807ee4e359a659bb5697
+SHA256: 2bf1d0a424961a564fda12a1fa8e04a59dcd7450ebf78c83207abbed2b61dc59
+SHA512: eab5e8ff549a74acda187368a347da4d1fea0b79d042d77ad7f17db1f5fb0fd11162ce9653f7e184849c275d71f6f3d1ee30fe034c439e0758a13c148aed6885
+Description: First Iraqi Bank jailbreak detection bypass
+Name: FIB Jailbreak Bypass
+Author: iCraze
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/FIB.png?raw=true
 
 Package: com.icraze.gestures15
 Architecture: iphoneos-arm64
@@ -35472,6 +35508,24 @@ SHA512: 681215927a3205a41ca8bf164f3410a01583ac4fef1c80a987fb1418a947228b3d81bc81
 Description: Jailbreak tweak to patch CVE-2025-31207, a bug that allows sandboxed applications to enumerate a user's installed apps
 Name: AppEnumFix
 Author: iCraze
+
+Package: com.icraze.fibbypass
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 5972
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.icraze.fibbypass_1.0_iphoneos-arm64e.deb
+Size: 3237672
+MD5sum: 8e5b56b1682d656d3459bcea258470de
+SHA1: 850c80550ac85723ae0d53f40deee72f4ad06172
+SHA256: 720132a2c903d5dc135f46beea706337c3e41a195d7f374d1072b113cabff5fe
+SHA512: de694e91dc36c524b7fe8562997681d8093bcb1b45182530daeea5c240181cc6693f76d187c9a82a8c5d1ad481dbf408b5cf93d20295dc908fdd41502f99e81b
+Description: First Iraqi Bank jailbreak detection bypass
+Name: FIB Jailbreak Bypass
+Author: iCraze
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/FIB.png?raw=true
 
 Package: com.icraze.nosettingsads
 Architecture: iphoneos-arm64e
