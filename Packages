@@ -6252,6 +6252,22 @@ Name: Cartoon Color
 Author: Kernelrw
 Icon: file:///var/jb/Library/Themes/Cartoon Color.theme/Bundles/com.apple.TelephonyUI/11@3x.png
 
+Package: com.kernelrw.cocon-next-arabic
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: kernelrw
+Filename: ./debians/iphoneos-arm/com.kernelrw.cocon-next-arabic_1.0_iphoneos-arm.deb
+Size: 50872
+MD5sum: d45f66a105ed18ba23ac9029431923be
+SHA1: 68fd258f6a3f52c03ecf8b8cefcb3d5194267083
+SHA256: 9c31bb77bd3421b5ac920a2b66d14dea3888ce8bcb84ecbd148bb1739e531334
+SHA512: 7e839fcd79978ae0a5836dee332a45595dcb7e8670c427d5a8dae3d04cc2d3cc3d8e68eb862bf591be3a977450130d9856a6600033b5d93ee3196fd48180bfb9
+Description: Cocon-Next-Arabic font for A-Font
+Name: Cocon-Next-Arabic
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
+
 Package: com.kernelrw.deepclear
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -6267,6 +6283,22 @@ SHA512: f295432f67dd626c3744366b317bfae651a1a5ce0a7060576653e39dd85de3b3ea4c37f0
 Description: Test Package , Do Not Install .
 Name: Deep Clear
 Author: Kernelrw
+
+Package: com.kernelrw.hacen-tehran
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: kernelrw
+Filename: ./debians/iphoneos-arm/com.kernelrw.hacen-tehran_1.0_iphoneos-arm.deb
+Size: 35012
+MD5sum: c704b274e1875a693ee32e704091f112
+SHA1: 4927e54e7cd166c7118a36d2befeac59fa318037
+SHA256: d085fa8354d12ff756913faa6918faa6fc07142442a36b9b00ec13ba29d8a885
+SHA512: dfbe511d531cbe24f163303dac9f8b17f9fe4dc425ddb8ccc0c996015aa40f6e5f6e425a75339683256ffaecf8cb237cb12f33406ed7472991ae8190e0d41400
+Description: Hacen-Tehran font for A-Font
+Name: Hacen-Tehran
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
 
 Package: com.kernelrw.magsafe
 Architecture: iphoneos-arm
@@ -20422,6 +20454,22 @@ Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
+Package: com.kernelrw.cocon-next-arabic
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: kernelrw
+Filename: ./debians/iphoneos-arm64/com.kernelrw.cocon-next-arabic_1.0_iphoneos-arm64.deb
+Size: 50828
+MD5sum: 82ece209d9154dd663db2f431669337f
+SHA1: ac81c599ce76c9301041c8abde5049bc9583c8c4
+SHA256: db495488e85a6863902d1faecb177115cf87ff6591ee06bc3a03a6bceb3969a7
+SHA512: dd10c78576c168fc7284ba0834fec36945e356908f60de7babb1bfdc32dc6fca95db3a0a345a56d91db6a722221c1043b650f9b644264c197fcddc11de0dc913
+Description: Cocon-Next-Arabic font for A-Font
+Name: Cocon-Next-Arabic
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
+
 Package: com.kernelrw.deepclear
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -20437,6 +20485,22 @@ SHA512: 47c9b52af3d049e66bce2c3528b1b8184e5c788eddc8ff609cf25165f9c8314532be380c
 Description: Test Package , Do Not Install .
 Name: Deep Clear
 Author: Kernelrw
+
+Package: com.kernelrw.hacen-tehran
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: kernelrw
+Filename: ./debians/iphoneos-arm64/com.kernelrw.hacen-tehran_1.0_iphoneos-arm64.deb
+Size: 35040
+MD5sum: 1706a2b726a6df8f7471f5552d370872
+SHA1: 731ec563bcae1da760d44a227c970d3e7f4e74d5
+SHA256: 42d63d2616407446a45d9e29dced4dfa0a0729cf92e93de1e0c73231aa2cbba8
+SHA512: 241399706f7587c984c6c108a1bac31a4fb9a622ad801278b2f1d26818e1671a44bbcc56e50079eb8c72a1838b905d44be36152186f8e545145de4b0db51ee0a
+Description: Hacen-Tehran font for A-Font
+Name: Hacen-Tehran
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
 
 Package: com.kernelrw.hapticwake
 Architecture: iphoneos-arm64
@@ -35997,6 +36061,22 @@ Icon: https://skypain.github.io/repo/src/ccautobrightness/Icon.png
 Depiction: https://skypain.github.io/repo/static/view/?p=ccautobrightness
 SileoDepiction: https://skypain.github.io/repo/src/ccautobrightness/config/sileo/depiction.json
 
+Package: com.kernelrw.cocon-next-arabic
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: kernelrw
+Filename: ./debians/iphoneos-arm64e/com.kernelrw.cocon-next-arabic_1.0_iphoneos-arm64e.deb
+Size: 50876
+MD5sum: ca2a63a2d914adfc18003a688e944821
+SHA1: 581ba714999ef94b4716a5971458502f5b77b6bb
+SHA256: 7047d17445457f837737c9e54c2e26d8df9bbdb9c20afb3df3cb4cab703b9a10
+SHA512: 9b658282d26d7b7d10b3a88399b91ff55dd804711c7a490fc65b346faf598ca1413cc331cfef0af5abd09291ee91a4d580000fb475c775cbb3a6a690c5896549
+Description: Cocon-Next-Arabic font for A-Font
+Name: Cocon-Next-Arabic
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
+
 Package: com.kernelrw.cpuxpro
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -36016,6 +36096,22 @@ Name: CPU-x Pro
 Author: Kernelrw
 Sponsor: Kernelrw
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F62108e334bc7792972608e7c&s=150x150&f=webp
+
+Package: com.kernelrw.hacen-tehran
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: kernelrw
+Filename: ./debians/iphoneos-arm64e/com.kernelrw.hacen-tehran_1.0_iphoneos-arm64e.deb
+Size: 35024
+MD5sum: 5e12cc4335cf53d8b022445591b4f91a
+SHA1: 63fce1f34d74bb277f7225e8aa1fbde115e59005
+SHA256: 952047f2aa93f37801a03a072929cd0b85847d8d608da1630eb7de472a727097
+SHA512: cc8624f740d5ca3639f1c171fdef66dad53acda957f588314b4da512aaf51f86438a5115346d030ccf6634e1d7a85e0c6d3183f5f6eedc5ea075abdf7f5b4842
+Description: Hacen-Tehran font for A-Font
+Name: Hacen-Tehran
+Author: kernelrw
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
 
 Package: com.kernelrw.padswitcher
 Architecture: iphoneos-arm64e
