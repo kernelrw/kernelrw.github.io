@@ -3313,6 +3313,24 @@ Name: ExtractApp
 Author: developlab
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrOfl7eSAWp7HZVCyFsxOh_41NS7eSzNZGN6SL7aFGg&s=10
 
+Package: com.doimty.promotion
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/com.doimty.promotion_1.0.7_iphoneos-arm.deb
+Size: 24904
+MD5sum: 438858a230258b7594815e0a13eb935c
+SHA1: e36d0269158d66f63a1ebf02a5615e53da869c32
+SHA256: 7194f13157ebc0416c7a3b5f102b30486bc7213ede0ed46be3508145ee25750a
+SHA512: c762203be3dfbe3fec5089f1a660f4317cd31a9ad6ba92419efede18659eaaf19f44d33668307be352e5a8ee9120985edb54118395278ccda8fe6ebb83e0c001
+Description: Force 120Hz ProMotion — Overrides the 80Hz system limit. Requires iPhone 13 Pro or later , for Xian's users on early versions only .
+Tag: supports::roothide
+Name: ProMotion 120Hz
+Author: doimty
+
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -17790,6 +17808,23 @@ SHA512: 3e68c88e76a0fcf00ceb1cc4e7b445dfb139bee8088e569174f3870dc276a9a25f98d0cb
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
+
+Package: com.doimty.promotion
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.doimty.promotion_1.0.7_iphoneos-arm64.deb
+Size: 25456
+MD5sum: 5bf4af963bff0d1790b734b96abefc9a
+SHA1: ce910615f7bd199dea6814515d51e25af3c6f033
+SHA256: cd4d3169d3cb04c917b0c99d478f079165b0962cce533b7f3acb7d1ea6448504
+SHA512: 0265dc8dfd43f08ae9176220274186423790950783d257d609e41a8277978525f33eec44fdf8595fe9fc9c3507f46d167f11e9aeceed1f29cc0fdd497c098be4
+Description: Force 120Hz ProMotion — Overrides the 80Hz system limit. Requires iPhone 13 Pro or later.
+Name: ProMotion 120Hz
+Author: doimty
 
 Package: com.dopamine.swapforcer
 Architecture: iphoneos-arm64
@@ -33520,6 +33555,24 @@ SHA512: 0de765581d2b096c48ae131393110832494bfc3f3d7cb42341dc05576642692d1390fc69
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
+
+Package: com.doimty.promotion
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.doimty.promotion_1.0.7_iphoneos-arm64e.deb
+Size: 25364
+MD5sum: 54121a7541872c37696dc3e22b1736d7
+SHA1: f8b8722c4434aece43f040cefad73435288a9a28
+SHA256: cecfdfd114e67ae40f0ac444223b15449bea9337a167b52a0424acc860ec17ae
+SHA512: 6e3117e1f3f5204e3572ebdf39cd5d086e97986993c9b38aa5a7dcc8fc7b2ae57c4751abf730adf9398e373e586794b70555909b471e0c29fcb974d6f92161fa
+Description: Force 120Hz ProMotion — Overrides the 80Hz system limit. Requires iPhone 13 Pro or later.
+Tag: supports::roothide
+Name: ProMotion 120Hz
+Author: doimty
 
 Package: com.dopamine.swapforcer
 Architecture: iphoneos-arm64e
