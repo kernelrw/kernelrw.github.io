@@ -1848,6 +1848,24 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.be-huge.insulationn
+Architecture: iphoneos-arm
+Version: 0.1.36.33
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 484
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/com.be-huge.insulationn_0.1.36.33_iphoneos-arm.deb
+Size: 51328
+MD5sum: 9a5d79681c469cbc3441e34091021363
+SHA1: 2b4bbdd7e8a5f2d54ad2f9a77f57e00783d8e573
+SHA256: 1b10b6eeb6ee7b3e4101c8da1dcb3ea8815c00b80bb3fa021dd8d56da7c368df
+SHA512: de9d49db60e4c190aee1905a3a18e14531b50878591ac3aa230b500ca3547ef2f022b3ef91e526280375d72e75c0588ed7cdad36da5986c21ba447f338e6eadb
+Description: Unlock the temperature control and keep everything simple.
+Name: Insulation
+Author: be-huge & doimty
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
+
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm
 Version: 0.8
@@ -16188,6 +16206,24 @@ MD5sum: 51acc2357b327a8f0ea2a30587acf3cb
 SHA1: 05b70143e58f4f880ebc3cee7afc390f44b20908
 SHA256: 50ca1da49f14719aee5f29dabcec1798a073042557b978f3c2d0e15b02b93b3e
 SHA512: dce4f24d425c7448e04058e8202e8830a185b47cbd3bdb475a3128872c6e21b465ded99caec0bdb6aed6e70550f9e5179fe5a6bcca552680469ce22cddf8c948
+Description: Unlock the temperature control and keep everything simple.
+Name: Insulation
+Author: be-huge & doimty
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
+
+Package: com.be-huge.insulationn
+Architecture: iphoneos-arm64
+Version: 0.1.36.33
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 484
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.1.36.33_iphoneos-arm64.deb
+Size: 52952
+MD5sum: d181f6b2c2d5102c0e8c73ac84251f84
+SHA1: 14f279faa263cc4edb8fb707ca0badc0f376e542
+SHA256: 894be5d4ec1e51cd507675e600afc6e2fa278651399ed0145998067b4dea4493
+SHA512: 0f2ef463175683257cf3b2ecfc431658f48031db21c02fa1338b2eb7b030df2e8c8a2d56717803dd26d565a06bb714d09624be7aa00135182ef73b9819ef56b6
 Description: Unlock the temperature control and keep everything simple.
 Name: Insulation
 Author: be-huge & doimty
@@ -32186,6 +32222,24 @@ Name: Insulation
 Author: be-huge & doimty
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
 SileoDepiction: https://github.com/f0rd0w/f0rd0w.github.io/blob/main/depictions/native/Insulation/Insulation.plist
+
+Package: com.be-huge.insulationn
+Architecture: iphoneos-arm64e
+Version: 0.1.36.33
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 484
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.1.36.33_iphoneos-arm64e.deb
+Size: 50016
+MD5sum: 04512f19f0aad56151806e9bde6f5ddc
+SHA1: 5982aec6cb258052f330e13755fa14ad6baad59e
+SHA256: 6a7254c4b0ae2c0d8e8dc354dd795f39aadb5951ba89b9f6b6a3a7d06291cafb
+SHA512: 26abc9ea93fbcab8562526838f473abd342cc65e4215d26e6f4b387f5ff452e7de979cd40d7e8093af0dad5ec295bb6a4f0d7d58a27b9f82eb130feb57b12a0f
+Description: Unlock the temperature control and keep everything simple.
+Name: Insulation
+Author: be-huge & doimty
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm64e
