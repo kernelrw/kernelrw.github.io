@@ -10731,6 +10731,30 @@ Name: TrickFi
 Author: TheRasPiGuy
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fgithub.com%2FMTACS%2FSettingsIP%2Fraw%2Fmaster%2Fsipprefs%2FResources%2Ficon%25403x.png&s=180x180&f=webp
 
+Package: com.theronen.watchdoglite
+Architecture: iphoneos-arm
+Version: 1.0.1-31
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.theronen.watchdog, org.thebigboss.watchdog
+Filename: ./debians/iphoneos-arm/com.theronen.watchdoglite_1.0.1-31_iphoneos-arm.deb
+Size: 41360
+MD5sum: 4305e3d8421a9412ae1f129044b8d814
+SHA1: 4aa4538a6735103d0a6e3f0c203744ae5402e22a
+SHA256: ec2562225359aa1073e968300fac6cca69bed4478d6439d3dc2ee75a4d35dea2
+SHA512: 4493d1154e8627cdeaa353b0989b013b36aa9c5b45b89e895505063814213587b3783bab412104b84876835ee30fb8b7ddb04e7ce3e8093a9d12ee146eac4763
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watchdogliteDp
+Description: allow apps to run in the background
+Tag: purpose::extension, compatible::ios8
+Name: Watchdog Lite
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watchdogliteDp
+Author: Allan Kerr <Personal.AllanKerr@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: allankerr
+Icon: file:///Library/PreferenceBundles/WatchdogPreferences.bundle/Watchdog@2x.png
+
 Package: com.timbovill.liquidglass
 Architecture: all
 Version: 2.0
@@ -13859,6 +13883,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networkman
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: netskao
 Icon: file:///Library/PreferenceBundles/NetWorkManage.bundle/NetWorkManage@2x.png
+
+Package: oldabi
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 68
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/oldabi_2.0.1_iphoneos-arm.deb
+Size: 3340
+MD5sum: 8f5dd9789cd0e3de9d4298c7a290a9d6
+SHA1: 7676e3a22730a1cf970a387213635d0cfb1d46cb
+SHA256: e533826e2f49c7749f57b695aace76d8ed677a8d70ca825dd724b9514bb8715d
+SHA512: e03c465c70fa73608c4e571bee28a57565f00fba68a4c78c936b0ca1c816685662b61e16d1a4d539b26e3bc3f67345c7aff292c3c4ed2207254428ba10cee2cd
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Name: Legacy arm64e Support
+Author: Nightwind
 
 Package: online.nef0pam.glow
 Architecture: iphoneos-arm
@@ -29656,6 +29697,23 @@ dev: netskao
 
 Package: oldabi
 Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 68
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/oldabi_2.0.1_iphoneos-arm64.deb
+Size: 3420
+MD5sum: 7e88b7f873f58b63391aaff1f123d16d
+SHA1: 4b2e8027b1a696c7aa97510cad96ffe34300abdd
+SHA256: 82ad764e1bcb7e8edc5f66512fad19400769fc54e494a1fd6212279e14553b87
+SHA512: 0890fa379c793da6ebc2f012199cf7a1f8192a06898bf275e98fa5155817f96b60bcdcfc62b20fb45f9f89762eaf9512a27114006bbdbcd103dc8c0c83d5442e
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Name: Legacy arm64e Support
+Author: Nightwind
+
+Package: oldabi
+Architecture: iphoneos-arm64
 Version: 2.0
 Section: Tweaks
 Maintainer: Nightwind
@@ -45381,6 +45439,23 @@ SHA512: b09c64ce3e1b9e9595493b5d97cd6209a3b1e235c863b5fc4b7437e64cca71a0b3083b69
 Description: 隐藏X系列的所有地方的黑条，且没有任何影响（例如横屏游戏时依旧需要上滑两次退出）
 Name: HideAllBar-Rootless
 Author: Netskao
+
+Package: oldabi
+Architecture: iphoneos-arm64e
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 68
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/oldabi_2.0.1_iphoneos-arm64e.deb
+Size: 4076
+MD5sum: bd25ba1220c4b994fe716de6116e1459
+SHA1: 20830c935c3bfc58a628bbb9f6c56996a912898f
+SHA256: 10ae142376d44f565f5d5bcd96f293cb12216d965637582da15109f6f964c918
+SHA512: cb3b7ec46bf18c71bfec69ec0a74274bf300b6fcb94ada3357f43bb9839865a1acf4a733d2327d876cefd1391f7ecaa6ee5cde8be302e15231f51e722cdd3366
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Name: Legacy arm64e Support
+Author: Nightwind
 
 Package: oldabi
 Architecture: iphoneos-arm64e
