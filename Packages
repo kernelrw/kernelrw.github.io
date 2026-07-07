@@ -8500,6 +8500,23 @@ Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
 
+Package: com.nightwind.proximitydim
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/iphoneos-arm/com.nightwind.proximitydim_0.0.1_iphoneos-arm.deb
+Size: 13558
+MD5sum: b9cc4b6cb714a6f2d7d3b8a031a30695
+SHA1: 4b84a6fdc7382ee1c238a4393a0e177745b92c21
+SHA256: 97826e0a38de799f9f70b59f62ff3997db9eb09fa4857600d4e2e2aeab71ea58
+SHA512: c22962c959665acec450155699e887d27e3ae4f28db6880a6c8aa2d7be60d06ad671d871a7a8ae812ba024d7d0f499a3f56ba2dad895d536f3b06cec6ca5134a
+Description: Dim screen when proximity sensor is invoked.
+Name: ProximityDim
+Author: Nightwind
+
 Package: com.nightwind.recorddot
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -12450,11 +12467,11 @@ Maintainer: uz.ra
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/iphoneos-arm/jp.uzra.enabledsreturn_1.2_iphoneos-arm.deb
-Size: 4252
-MD5sum: 6d3a7df13f3f92dfa7f291538a43f3e3
-SHA1: 7c08f4f40011ad73312d1f99f03428d3d1c130eb
-SHA256: 7a605c520d80708517c7fd7d42e2aba795476e45b25b69a70bb15e08f55a4180
-SHA512: 4ffe4a300aadcbee54f339d3405da71a95c0c5009143c2afed0c89511f10fbdda8d62183ab67692106cb5c32c68e8b746dc6d3831444d20e068f52d49d792e01
+Size: 4248
+MD5sum: 02056a6426f2f33003d4429043b1bff5
+SHA1: 62e77022e63bf577fa3cf8a8569c5bcebefe07b0
+SHA256: c771ec7af9e1c620175b871ec513fa71d9f361e6bbb66fdce3df7649b5eda77e
+SHA512: 2d61b34075da9beed7ab5c699c47e8b1331744930e05b2b625bc77009f3126ef20024cf52c9fe421a2c2daa17ff145ae3794acf50a0b3fafad75e96e59c2a536
 Description: Enable return on DeepSeek iOS app
 Name: EnableDSReturn
 Author: uz.ra
@@ -23263,6 +23280,23 @@ Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
 
+Package: com.nightwind.proximitydim
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/iphoneos-arm64/com.nightwind.proximitydim_0.0.1_iphoneos-arm64.deb
+Size: 13622
+MD5sum: ad4e9d7b1789d0b743d952da46185e66
+SHA1: 7af189e4d2506df54c5a5ee83680822f9c6437e4
+SHA256: d51dad62872b1453454710d4a657d575666011b4159da46faa8757ac59ff31c8
+SHA512: 421b07ccbee7dc2ace8becb9b4f7fde8fc3e5b220a7dd0344db88f26a530a51195b29e5882d2e3d69f1527bdd789bcfb509e9c18d4fb35efee843dbe6be1cf27
+Description: Dim screen when proximity sensor is invoked.
+Name: ProximityDim
+Author: Nightwind
+
 Package: com.nightwind.recorddot
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -24407,6 +24441,23 @@ Name: YouTube X
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+
+Package: com.pwn20wnd.systemmemoryresetfix
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: System
+Maintainer: Pwn20wnd
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.pwn20wnd.systemmemoryresetfix_2.0_iphoneos-arm64.deb
+Size: 2848
+MD5sum: 48550038ccc705c5df8b853bb400e6d0
+SHA1: 832471231a5f40c0399b2c636799eeaef0963b0b
+SHA256: 9834b0761e1f61db432552ab470fedae34cadceba0cc57121dd548ba1cf94442
+SHA512: 6542ee7d3c48ef816496b74bc9fa8e2d7de799df78e8d0bb340d94bfe9696c890c7f1c5a0d0e67c824e1dc1fbc9701bb52d06986d3d0f3efbe45ef446d038221
+Description: Prevent overnight userspace reboots triggered by maintenanced daemon when iCloud backup occurs. This is a must have for users with nightly reboots.
+Name: System Memory Reset Fix
+Author: Pwn20wnd
 
 Package: com.pxcex.autoscroll
 Architecture: iphoneos-arm64
@@ -38845,6 +38896,23 @@ Name: PowerSettings
 Author: Nightwind
 Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
 
+Package: com.nightwind.proximitydim
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/iphoneos-arm64e/com.nightwind.proximitydim_0.0.1_iphoneos-arm64e.deb
+Size: 13368
+MD5sum: 739e08a6c51a502c9cf61924c879032b
+SHA1: 9a325775ff70a29eaea0452087e7fe9d4de98fab
+SHA256: 9a3476111fef48a2305c7d7027494bff3def759e6597752a53a10d6d1f89fa4b
+SHA512: b203cdac26f60d98bfca49796b913f9b5498c450bbe385ca6c646be62888c3ba858a138e883297240181c821e217a29e9d44b4e05d0d429bd54f7827fe6b0343
+Description: Dim screen when proximity sensor is invoked.
+Name: ProximityDim
+Author: Nightwind
+
 Package: com.nightwind.recorddot
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -42450,6 +42518,25 @@ Name: DockX
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.vedette
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 504
+Depends: roothide, preferenceloader, mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debians/iphoneos-arm64e/com.udevs.vedette_1.1.4_iphoneos-arm64e.deb
+Size: 66540
+MD5sum: ffae11d135e0e9684327224867ea7ba3
+SHA1: 2fcc6258945611d12339c4a919c67503e67da9ed
+SHA256: 0fa2ec22f5f3f5c716629b2689d57c3e756608414dd4953a5820c1d18d89ce7d
+SHA512: 635b7769713ab20b02a032d6b33d0859775a670d9d1a4008f3f6fe7aec8cdc282592b5847e55a05e84877104e3bcc9dfd37c5ebf884e7c0b8e0cdcd8c85827f0
+Description: Monitor CPU hogging processes
+Name: Vedette
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vedette
 
 Package: com.un1ockdev.proudlockx
 Architecture: iphoneos-arm64e
