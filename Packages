@@ -24989,6 +24989,26 @@ Name: RemoteCompanion
 Author: Saihgupr
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/RemoteCompanion.png?raw=true
 
+Package: com.schlub51.textmenuplus
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: schlub51
+Installed-Size: 292
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.schlub51.textmenuplus_1.0.0_iphoneos-arm64.deb
+Size: 34024
+MD5sum: e3033ee5aa6b681ec52822e014420abf
+SHA1: addb5be6640a8515e0d737406a4b175eb4736757
+SHA256: 266c900b52208865876c8ea23d7acf407d9c479966e861ecb48bf254361ffc18
+SHA512: d1af42935922e23dac4050e66a0e50d8f055a01dc090ee138478d311bedeb892dbf881a5c968481b29ec7a4c958adf99151e15f7eae8cef05ce11486d709976c
+Description: Compact vertical edit menu for iOS 16 rootless.
+Name: TextMenuPlus
+Author: schlub51
+Depiction: https://schlub51.github.io/repo/depictions/textmenuplus/depiction.html
+SileoDepiction: https://schlub51.github.io/repo/depictions/textmenuplus/sileo.json
+Icon: https://schlub51.github.io/repo/depictions/textmenuplus/icon.png
+
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -41265,6 +41285,26 @@ Description: A modern Activator replacement for rootless jailbreaks. Bind trigge
 Name: RemoteCompanion
 Author: Saihgupr
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/RemoteCompanion.png?raw=true
+
+Package: com.schlub51.textmenuplus
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: schlub51
+Installed-Size: 416
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.schlub51.textmenuplus_1.0.0_iphoneos-arm64e.deb
+Size: 55036
+MD5sum: 3c55c7fe8b8af74f1e022436076cc7fd
+SHA1: 6bcaa20df37c0c97c94ddd185b26012bab03cbaa
+SHA256: ef35ab1a6b2609cfb4393894b57d068a9f9ff98d6ce5426aee640d51c1ae41ec
+SHA512: 223747cc3302df45bf2d965babe215b26e70dd0ca270c6d7add72183cc2edd5b9cee834b23ef1a1c1ec57fbd41920fb4156fe1d364531521f34422d2b86f99cb
+Description: Compact vertical edit menu for iOS 16 rootless & roothide
+Name: TextMenuPlus
+Author: schlub51
+Depiction: https://schlub51.github.io/repo/depictions/textmenuplus/depiction.html
+SileoDepiction: https://schlub51.github.io/repo/depictions/textmenuplus/sileo.json
+Icon: https://schlub51.github.io/repo/depictions/textmenuplus/icon.png
 
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64e
