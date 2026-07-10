@@ -6857,6 +6857,23 @@ Name: PleaseDontStopTheMusic
 Author: mikey820
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/PDSTM.png?raw=true
 
+Package: com.mikey820.tweetdownloader
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mikey820
+Installed-Size: 224
+Depends: ellekit | mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.mikey820.tweetdownloader_1.0.0_iphoneos-arm.deb
+Size: 24308
+MD5sum: dfdacc15d1be5cec767738a0d6ce9ede
+SHA1: ecb8c80623265174f695880ba62d834cb8da8fd9
+SHA256: fa92762b4a6fb743ce5be9a75c0ac447286369cee8cc3b67f2d6408688a2cafa
+SHA512: b58134556bf37fc010e11fee7230e283604cc3f3cc460a9dcf7833a6c67955bac6b138dc369944ddd50e20a23230738fdd38072be9ce72ac01b9eabe96495312
+Description: Always-on, one-tap, best-quality media downloader for Twitter/X. Adds a download button at the top-right of every tweet with media; saves photos at :orig quality and videos at the highest-bitrate mp4 straight to the camera roll, no confirmation, with a download percentage at the top-left.
+Name: TweetDownloader
+Author: mikey820
+
 Package: com.mikifp.khromaa
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -21233,6 +21250,23 @@ Name: PleaseDontStopTheMusic
 Author: mikey820
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/PDSTM.png?raw=true
 
+Package: com.mikey820.tweetdownloader
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mikey820
+Installed-Size: 224
+Depends: ellekit | mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.mikey820.tweetdownloader_1.0.0_iphoneos-arm64.deb
+Size: 24836
+MD5sum: 744b0104e4514f2e186705b646a641cf
+SHA1: fbb39d525e46362d4dbc798cc998a7b78a4efb6c
+SHA256: 67b3fb20357bc2013fea4f6980f05db4be233887deee97be0d32e1b4da61a528
+SHA512: b9af82d7d148c8d284fa0cc8723a66d4b81b59476188d5ded3df8bb6c76517639ed35d50774d62d3c747d62be23af27f8dff89a440a56d2237dbe17534a1c716
+Description: Always-on, one-tap, best-quality media downloader for Twitter/X. Adds a download button at the top-right of every tweet with media; saves photos at :orig quality and videos at the highest-bitrate mp4 straight to the camera roll, no confirmation, with a download percentage at the top-left.
+Name: TweetDownloader
+Author: mikey820
+
 Package: com.mikifp.khromaa
 Architecture: iphoneos-arm64
 Version: 1.2.1
@@ -33369,6 +33403,30 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/PlayMusicOnRecord.bundle/PlayMusicOnRecord@2x.png
 
+Package: com.cydiageek.playmusiconrecord
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 377
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.cydiageek.playmusiconrecord_1.0.5_iphoneos-arm64e.deb
+Size: 41404
+MD5sum: bcbc74a8b08af63e4c59e2a66f1c2244
+SHA1: 34bc4c939953cdc0181064c037b390f75e7e507b
+SHA256: 2e9662b751bbee9ff11a02a4df58b16431523a7b14ce60048668743b9e36b7f7
+SHA512: 6ca4a0b9d0e7ec510f7473146c7b42a360d69fe4093023ebbf5260880b34a2ed03584e67e7d5a42db434f696334cfc66a3508e63f654b53a058b035179808b75
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=playmusiconrecordDp
+Description: Disable Music/Audio from stopping when recording Videos!
+Tag: purpose::extension
+Name: PlayMusicOnRecord
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=playmusiconrecordDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/PlayMusicOnRecord.bundle/PlayMusicOnRecord@2x.png
+
 Package: com.cydiageek.wanometacircle
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -37000,6 +37058,23 @@ Description: Prevent apps (e.g. Roblox) from pausing your background music
 Name: PleaseDontStopTheMusic
 Author: mikey820
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/PDSTM.png?raw=true
+
+Package: com.mikey820.tweetdownloader
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mikey820
+Installed-Size: 224
+Depends: ellekit | mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.mikey820.tweetdownloader_1.0.0_iphoneos-arm64e.deb
+Size: 24336
+MD5sum: e665ee9e412717ffc6a7c8f0a04da17c
+SHA1: 9b0b9c985a24a6708e18a7c4cb4928e1f5d9d235
+SHA256: a06c7f230d5ceb5096eb84fa078b61743bcd1be37b215c205fbcee8a81835dca
+SHA512: 804d15a2e989264cefd14b1a914560758702aa9fb3994057fc42316710c4b63b31791989d9eaa643a8e6ebc60fdfc5d8395b6acf5bdd2c6410c8d412fcd0aa14
+Description: Always-on, one-tap, best-quality media downloader for Twitter/X. Adds a download button at the top-right of every tweet with media; saves photos at :orig quality and videos at the highest-bitrate mp4 straight to the camera roll, no confirmation, with a download percentage at the top-left.
+Name: TweetDownloader
+Author: mikey820
 
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64e
