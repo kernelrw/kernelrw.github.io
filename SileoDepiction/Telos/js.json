@@ -151,13 +151,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "title": "Environment",
-                    "text": "Rootless & Roothide"
-                },
-                {
-                    "class": "DepictionTableTextView",
                     "title": "Tested Jailbreaks",
-                    "text": "Dopamine, Dopamine-Roothide"
+                    "text": "Dopamine, Roothide"
                 },
                 {
                     "class": "DepictionTableTextView",
