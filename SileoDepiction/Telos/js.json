@@ -8,7 +8,6 @@
             "class": "DepictionStackView",
             "tabname": "Details",
             "views": [
-                
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
@@ -42,16 +41,18 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Features",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionMarkdownView",
+                    "markdown": "## Features",
+                    "useRawFormat": true
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Prevent Suspension",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Prevent Suspension",
+                    "useRawFormat": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -63,10 +64,9 @@
                     "spacing": 8
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Prevent Termination",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Prevent Termination",
+                    "useRawFormat": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -78,10 +78,9 @@
                     "spacing": 8
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Fast Freeze",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Fast Freeze",
+                    "useRawFormat": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -93,16 +92,18 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Known Issues",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionMarkdownView",
+                    "markdown": "## Known Issues",
+                    "useRawFormat": true
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "WhatsApp",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### WhatsApp",
+                    "useRawFormat": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -114,10 +115,9 @@
                     "spacing": 8
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Facebook",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Facebook",
+                    "useRawFormat": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -129,10 +129,13 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Compatibility",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionMarkdownView",
+                    "markdown": "## Compatibility",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -159,20 +162,17 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Changes",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionMarkdownView",
+                    "markdown": "## Changes",
+                    "useRawFormat": true
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0.0",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Initial release.",
+                    "markdown": "**1.0.0** – Initial release.",
                     "useRawFormat": true
                 }
             ]
