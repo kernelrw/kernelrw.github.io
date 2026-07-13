@@ -1,87 +1,106 @@
 {
-  "minVersion": "0.4",
-  "class": "DepictionTabView",
-  "tintColor": "#4A90E2",
-  "headerImage": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Telos.png",
-  "tabs": [
-    {
-      "name": "Overview",
-      "views": [
+    "class": "DepictionTabView",
+    "headerImage": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Telos.png",
+    "tintColor": "#4A90E2",
+    "minVersion": "0.3",
+    "tabs": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "# Telos\n**Advanced app lifecycle manager for jailbroken iOS.**\n\nTake full control over how your apps behave in the background with a priority-based, mutually exclusive system. Choose from three intelligent modes that determine exactly what happens when an app leaves the foreground.\n",
-          "useRawFormat": true
+            "class": "DepictionStackView",
+            "tabname": "Overview",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# Telos\n**Advanced app lifecycle manager for jailbroken iOS.**\n\nTake full control over how your apps behave in the background with a priority-based, mutually exclusive system. Choose from three intelligent modes that determine exactly what happens when an app leaves the foreground.\n",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Features",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- **Prevent Suspension** – Keeps apps fully alive, never suspended.\n- **Prevent Termination** – Allows suspension but protects against system kills.\n- **Fast Freeze** – Instantly freezes apps when they leave the foreground, blocking background tasks and saving battery.\n\nModes are enforced exclusively:\n- Apps in **Prevent Suspension** cannot be in any other mode.\n- **Prevent Termination** takes priority over **Fast Freeze**.\n\nAll changes are applied in real time — no respring needed. A single Darwin notification refreshes the configuration dynamically.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Compatibility",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "iOS Versions",
+                    "text": "iOS 15.0 – 17.x"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Environment",
+                    "text": "Rootless & Roothide"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Tested Jailbreaks",
+                    "text": "Dopamine, Dopamine-Roothide, Palera1n (rootless & roothide)"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Semi-jailbreaks",
+                    "text": "Not supported"
+                }
+            ]
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 8
+            "class": "DepictionStackView",
+            "tabname": "Screenshots",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 12,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot 1",
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot 2",
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Screenshot_02.png"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "class": "DepictionSubheaderView",
-          "title": "Features"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- **Prevent Suspension** – Keeps apps fully alive, never suspended.\n- **Prevent Termination** – Allows suspension but protects against system kills.\n- **Fast Freeze** – Instantly freezes apps when they leave the foreground, blocking background tasks and saving battery.\n\nModes are enforced exclusively:\n- Apps in **Prevent Suspension** cannot be in any other mode.\n- **Prevent Termination** takes priority over **Fast Freeze**.\n\nAll changes are applied in real time — no respring needed. A single Darwin notification refreshes the configuration dynamically.",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Compatibility"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "rows": [
-            {
-              "title": "Version",
-              "text": "1.0.1"
-            },
-            {
-              "title": "iOS Versions",
-              "text": "iOS 15.0 – 17.x"
-            },
-            {
-              "title": "Environment",
-              "text": "Rootless & Roothide"
-            },
-            {
-              "title": "Tested Jailbreaks",
-              "text": "Dopamine, Dopamine-Roothide, Palera1n (rootless & roothide)"
-            },
-            {
-              "title": "Semi-jailbreaks",
-              "text": "Not supported"
-            }
-          ]
+            "class": "DepictionStackView",
+            "tabname": "Changes",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial release.",
+                    "useRawFormat": true
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "Screenshots",
-      "views": [
-        {
-          "class": "DepictionScreenshotsView",
-          "screenshots": [
-            "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Screenshot_01.png",
-            "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Screenshot_02.png"
-          ],
-          "itemCornerRadius": 12
-        }
-      ]
-    },
-    {
-      "name": "Changes",
-      "views": [
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**1.0.1** – Initial release.",
-          "useRawFormat": true
-        }
-      ]
-    }
-  ]
+    ]
 }
