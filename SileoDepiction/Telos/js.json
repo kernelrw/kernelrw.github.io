@@ -6,7 +6,7 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "Overview",
+            "tabname": "Details",
             "views": [
                 {
                     "class": "DepictionHeaderView",
@@ -20,7 +20,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "**Advanced app lifecycle manager for jailbroken iOS.** Take full control over how your apps behave in the background with a priority-based, mutually exclusive system.",
+                    "markdown": "Advanced app lifecycle manager for jailbroken iOS. Take full control over how your apps behave in the background with a priority-based, mutually exclusive system. Choose from three intelligent modes, enforced automatically, and see changes apply instantly without a respring.",
                     "useRawFormat": true
                 },
                 {
@@ -34,27 +34,44 @@
                     "useBottomMargin": false
                 },
                 {
-                    "class": "DepictionTableTextView",
+                    "class": "DepictionSubheaderView",
                     "title": "Prevent Suspension",
-                    "text": "Keeps apps fully alive, never suspended."
+                    "useBoldText": false,
+                    "useBottomMargin": false
                 },
                 {
-                    "class": "DepictionTableTextView",
-                    "title": "Prevent Termination",
-                    "text": "Allows suspension but protects against system kills."
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Fast Freeze",
-                    "text": "Instantly freezes apps when they leave the foreground, blocking background tasks and saving battery."
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Keeps apps fully alive, never suspended.",
+                    "useRawFormat": true
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
                 {
+                    "class": "DepictionSubheaderView",
+                    "title": "Prevent Termination",
+                    "useBoldText": false,
+                    "useBottomMargin": false
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Modes are enforced exclusively – apps in **Prevent Suspension** can’t be in any other mode, and **Prevent Termination** takes priority over **Fast Freeze**. Changes apply instantly without a respring.",
+                    "markdown": "Allows suspension but protects against system kills.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Fast Freeze",
+                    "useBoldText": false,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Instantly freezes apps when they leave the foreground, blocking background tasks and saving battery.",
                     "useRawFormat": true
                 },
                 {
@@ -91,13 +108,11 @@
                     "class": "DepictionTableTextView",
                     "title": "Semi-jailbreaks",
                     "text": "Not supported"
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Screenshots",
-            "views": [
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 12,
@@ -112,17 +127,21 @@
                             "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Screenshot_02.png"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Changes",
-            "views": [
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Changes",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.1",
-                    "useBoldText": true,
+                    "useBoldText": false,
                     "useBottomMargin": false
                 },
                 {
