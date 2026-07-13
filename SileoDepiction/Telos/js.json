@@ -8,12 +8,7 @@
             "class": "DepictionStackView",
             "tabname": "Details",
             "views": [
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "Telos",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
+                
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
