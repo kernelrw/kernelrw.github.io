@@ -20,7 +20,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Advanced app lifecycle manager for jailbroken iOS. Take full control over how your apps behave in the background with a priority-based, mutually exclusive system. Choose from three intelligent modes, enforced automatically, and see changes apply instantly without a respring.",
+                    "markdown": "Advanced app lifecycle manager for jailbroken iOS.",
                     "useRawFormat": true
                 },
                 {
@@ -126,7 +126,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v500 and below. I will investigate these issues as soon as possible.",
+                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v500 and below. I will investigate these issues asap.",
                     "useRawFormat": true
                 },
                 {
