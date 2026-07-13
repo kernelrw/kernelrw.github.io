@@ -28,92 +28,6 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Features",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Prevent Suspension",
-                    "useBoldText": false,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Keeps apps fully alive, never suspended.",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Prevent Termination",
-                    "useBoldText": false,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Allows suspension but protects against system kills.",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Fast Freeze",
-                    "useBoldText": false,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Instantly freezes apps when they leave the foreground, blocking background tasks and saving battery.",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Compatibility",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Version",
-                    "text": "1.0.1"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "iOS Versions",
-                    "text": "iOS 15.0 – 17.x"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Environment",
-                    "text": "Rootless & Roothide"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Tested Jailbreaks",
-                    "text": "Dopamine, Dopamine-Roothide, Palera1n (rootless & roothide)"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Semi-jailbreaks",
-                    "text": "Not supported"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 12,
                     "itemSize": "{160, 346}",
@@ -134,14 +48,136 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "Features",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Prevent Suspension",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Keeps apps fully alive, never suspended.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Prevent Termination",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Allows suspension but protects against system kills.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Fast Freeze",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Instantly freezes apps when they leave the foreground, blocking background tasks and saving battery.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Known Issues",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "WhatsApp",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "WhatsApp works perfectly with Fast Freeze and Prevent Suspension. It behaves strangely when targeted with Prevent Termination, so it has been bypassed for this category only. It functions normally with all other categories.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Facebook",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v500 and below. I will investigate these issues as soon as possible.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Compatibility",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "iOS Versions",
+                    "text": "iOS 15.0 – 17.x"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Environment",
+                    "text": "Rootless & Roothide"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Tested Jailbreaks",
+                    "text": "Dopamine, Dopamine-Roothide"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Semi-jailbreaks",
+                    "text": "Not supported"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "Changes",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.1",
-                    "useBoldText": false,
+                    "title": "1.0.0",
+                    "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
