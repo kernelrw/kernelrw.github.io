@@ -63,13 +63,13 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Prevent Suspension",
+                    "title": "Prevent Termination",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Keeps apps fully alive, never suspended.",
+                    "markdown": "Allows suspension but protects against system kills.",
                     "useRawFormat": true
                 },
                 {
@@ -78,13 +78,13 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Prevent Termination",
+                    "title": "Prevent Suspension",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Allows suspension but protects against system kills.",
+                    "markdown": "Keeps apps fully alive, never suspended.",
                     "useRawFormat": true
                 },
                 {
@@ -192,7 +192,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "**1.0.0** – Initial release.",
+                    "markdown": "1.0.0 – Initial release.",
                     "useRawFormat": true
                 }
             ]
