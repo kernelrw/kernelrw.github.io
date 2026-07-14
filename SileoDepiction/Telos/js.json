@@ -8,7 +8,6 @@
             "class": "DepictionStackView",
             "tabname": "Details",
             "views": [
-                
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
@@ -39,13 +38,28 @@
                 },
                 {
                     "class": "DepictionSpacerView",
+                    "spacing": 12
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Watch Demo Video",
+                    "action": "YOUR_VIDEO_URL_HERE",
+                    "openExternal": true,
+                    "tintColor": "#4A90E2"
+                },
+                {
+                    "class": "DepictionSpacerView",
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
+                    "class": "DepictionHeaderView",
                     "title": "Features",
                     "useBoldText": true,
                     "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -55,7 +69,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Prevents iOS from ever suspending the selected apps. They will continue running full background cycles, receive notifications instantly, and complete tasks like uploads or GPS navigation - exactly as if they were still in the foreground. Battery Impact: HIGH",
+                    "markdown": "Keeps apps fully alive, never suspended.",
                     "useRawFormat": true
                 },
                 {
@@ -70,7 +84,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Prevents iOS from killing the selected apps, even under memory pressure. When backgrounded, the app is instantly deep-frozen with no CPU activity, preserving its exact last state. This keeps the app instantly resumable but increases RAM usage. Battery Impact: SMART BALANCE",
+                    "markdown": "Allows suspension but protects against system kills.",
                     "useRawFormat": true
                 },
                 {
@@ -85,7 +99,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Forces apps to freeze the moment they leave the foreground, skipping any background task grace periods (like finishing a network request). This stops all CPU and network activity immediately, saving more power than the default iOS behaviour. The app resumes from its frozen state without reloading. Battery Impact: EXCELLENT",
+                    "markdown": "Instantly freezes apps when they leave the foreground, blocking background tasks and saving battery.",
                     "useRawFormat": true
                 },
                 {
@@ -93,10 +107,14 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
+                    "class": "DepictionHeaderView",
                     "title": "Known Issues",
                     "useBoldText": true,
                     "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -129,10 +147,14 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
+                    "class": "DepictionHeaderView",
                     "title": "Compatibility",
                     "useBoldText": true,
                     "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -159,20 +181,18 @@
                     "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
+                    "class": "DepictionHeaderView",
                     "title": "Changes",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0.0",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Initial release.",
+                    "markdown": "**1.0.0** – Initial release.",
                     "useRawFormat": true
                 }
             ]
