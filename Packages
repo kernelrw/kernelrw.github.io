@@ -940,25 +940,6 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Name: TrollVNC
 Author: 82Flex <82flex@gmail.com>
 
-Package: com.82flex.unseen
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: Tweaks
-Maintainer: 82flex
-Installed-Size: 484
-Depends: firmware (>= 15.0), preferenceloader
-Filename: ./debians/iphoneos-arm/com.82flex.unseen_0.0.2_iphoneos-arm.deb
-Size: 42868
-MD5sum: 20f6cb43af46e38752730894badb09ff
-SHA1: 285eb572225a3d3e2dc7f7ece368c6cc506394d9
-SHA256: dc69f526f13ff6cf75cc8e7edf7ca03bf6027fe3c3122bb42b4aa43348fa69bb
-SHA512: ba8c151d9ff70fe5a484813efd3716c1cea6f5c5b37d526371b750d75e5e08476373e3f4832b7c621f614efa750ac1c80aeedad449d660386c19260eb0b3bcda
-Description: Reduce ordinary iOS apps' ability to detect screenshots, screen recordings, and hidden layer flags.
- Unseen reduces ordinary apps' ability to detect or interfere with screenshots, screen recordings, and hidden layer flags. Tested on iOS 15.0/16.x/18.3, arm64/arm64e.
-Name: Unseen
-Author: 82flex
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Unseen@10x.png?raw=true
-
 Package: com.alilatif.beegram
 Architecture: iphoneos-arm
 Version: 1.0-350+debug
@@ -2210,6 +2191,30 @@ Description: Telegram Enhancement Tweak
   * Support Telegram, Turrit and other third-party clients.
   * Fixed languages 
   * Support for Telegram 12.8
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm
+Version: 1.7.7
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/iphoneos-arm/com.choco.tgextra_1.7.7_iphoneos-arm.deb
+Size: 831148
+MD5sum: eb0b951c0aacf7fb2b5c280f0972a4e2
+SHA1: 11a352fb8500a10710ef95b0a4d1c20b0414445d
+SHA256: 699bc06b66d78acf20c46b6a8bf285ff62351212534370e971f08ed2388e27e5
+SHA512: fc787987d0286aa1ac61bc4e04d600fccb97edf222b55f9e92bf7f0b52dcc74af5ceb3b637740801986af30eb2cc8289f21e9fd107165db74fd9fd2b3b5c1dd8
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages 
+  * Support for Telegram 12.9
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
@@ -15152,25 +15157,6 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Name: TrollVNC
 Author: 82Flex <82flex@gmail.com>
 
-Package: com.82flex.unseen
-Architecture: iphoneos-arm64
-Version: 0.0.2
-Section: Tweaks
-Maintainer: 82flex
-Installed-Size: 484
-Depends: firmware (>= 15.0), preferenceloader
-Filename: ./debians/iphoneos-arm64/com.82flex.unseen_0.0.2_iphoneos-arm64.deb
-Size: 42924
-MD5sum: a870738b52b3e29e024d3121edbc7bad
-SHA1: 5e0826b8a0e6818fb783fa9e8f941f6983de564f
-SHA256: b85a5adf3b59f2c733bbfc8bd51a904764c8fb0315b20213f3d2d5d524c39943
-SHA512: 3a2ddd29db11627d181a77bf571af5fcacdc1cc569cce116c5fefc552b651ed2d7d43f5048533a881ed7764ef668dbaf74b03332440142ba10f97b0ab9d25a78
-Description: Reduce ordinary iOS apps' ability to detect screenshots, screen recordings, and hidden layer flags.
- Unseen reduces ordinary apps' ability to detect or interfere with screenshots, screen recordings, and hidden layer flags. Tested on iOS 15.0/16.x/18.3, arm64/arm64e.
-Name: Unseen
-Author: 82flex
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Unseen@10x.png?raw=true
-
 Package: com.alaise.azule
 Architecture: iphoneos-arm64
 Version: 0.8.3
@@ -16634,6 +16620,30 @@ Description: Telegram Enhancement Tweak
   * Support Telegram, Turrit and other third-party clients.
   * Fixed languages 
   * Support for Telegram 12.8
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64
+Version: 1.7.7
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/iphoneos-arm64/com.choco.tgextra_1.7.7_iphoneos-arm64.deb
+Size: 833412
+MD5sum: ee4d95d1eba85279c0d5ec92e66b69ee
+SHA1: fba6d3da0106324b84aa400bd8a2b5641802bd07
+SHA256: 824c34a79b6dec5c0ecf5b298095d5a84edc84660dd6fe9268d0190fdc5a92ab
+SHA512: af5071cb0f7003a650533de068d23c2befd92fbe85d496977962fd29efb94e7cae2fc6b3949d78576294ca596f6f5ef848a970b031ae02a28ec8f81b732e96cf
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages 
+  * Support for Telegram 12.9
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
@@ -31261,25 +31271,6 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Name: TrollVNC
 Author: 82Flex <82flex@gmail.com>
 
-Package: com.82flex.unseen
-Architecture: iphoneos-arm64e
-Version: 0.0.2
-Section: Tweaks
-Maintainer: 82flex
-Installed-Size: 484
-Depends: firmware (>= 15.0), preferenceloader
-Filename: ./debians/iphoneos-arm64e/com.82flex.unseen_0.0.2_iphoneos-arm64e.deb
-Size: 42860
-MD5sum: d3afff8d804997209753c23fdf936fd5
-SHA1: 375979c009b7a791edc28d125812d8f0a557dcc4
-SHA256: 0cd13ce5c44f384388fcf54376d924bbc153cb6a3721613f71fc975d8c3cb297
-SHA512: 1e1cff838dc27407d7665e0d7c22573ea49b2e8f12a964dd1c544fe46da78a669569a63fc90103901f46b8a2326bc40beb81baaf8e586315124bc8a42aaa909f
-Description: Reduce ordinary iOS apps' ability to detect screenshots, screen recordings, and hidden layer flags.
- Unseen reduces ordinary apps' ability to detect or interfere with screenshots, screen recordings, and hidden layer flags. Tested on iOS 15.0/16.x/18.3, arm64/arm64e.
-Name: Unseen
-Author: 82flex
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Unseen@10x.png?raw=true
-
 Package: com.alaise.azule
 Architecture: iphoneos-arm64e
 Version: 0.8.3
@@ -32808,6 +32799,30 @@ Description: Telegram Enhancement Tweak
   * Support Telegram, Turrit and other third-party clients.
   * Fixed languages 
   * Support for Telegram 12.8
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64e
+Version: 1.7.7
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/iphoneos-arm64e/com.choco.tgextra_1.7.7_iphoneos-arm64e.deb
+Size: 831760
+MD5sum: 80ced1185ffe231ee89b33ffbcda9031
+SHA1: 9805860c58aad6116f6d5c3f30597f475e2eceec
+SHA256: da200414f500c4c210b180437fe276e4b9c25f632fc0feadf59cf626506f5538
+SHA512: 68234098c41a810169100d2995a3438343339bc0e4274e5fbca45e1b8a93482f09373c56a56201819bb66d8e468e40665950cf07791942a2ad7218b8c8d640a8
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages 
+  * Support for Telegram 12.9
 Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
