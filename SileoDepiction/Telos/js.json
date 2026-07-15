@@ -104,6 +104,21 @@
                 },
                 {
                     "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "PREVENT TERM+FAST FREEZE",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Combines both protections: apps cannot be killed by iOS, and they are instantly deep-frozen the moment they leave the foreground.\n\nBattery Impact: SMART BALANCE",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
                     "spacing": 16
                 },
                 {
