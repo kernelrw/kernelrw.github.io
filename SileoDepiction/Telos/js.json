@@ -154,7 +154,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v500 and below. I will investigate these issues asap.",
+                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
                     "useRawFormat": true
                 },
                 {
