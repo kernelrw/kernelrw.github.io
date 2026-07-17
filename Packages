@@ -36422,6 +36422,23 @@ Name: Hacen-Tehran
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
 
+Package: com.kernelrw.lowpowerplug
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.kernelrw.lowpowerplug_0.1_iphoneos-arm64e.deb
+Size: 3740
+MD5sum: 7057dbe0581d0d49027586e82c20b674
+SHA1: ac26453bd2c236821b7cf9b8b08e5199890e9a11
+SHA256: 65a69639607fa34d010bd9ca513202bb828ef6b20e9d457d211c2db7825905cd
+SHA512: 9b4a9f7d25b34a1eb299339dc28736b4a9db1102316689e45cc6788409e27c940bb852ca7e28be5ac47626b9942cc64b83b0b9a925743c5d54778c1fe687ad49
+Description: Enable Low Power Mode when plugging device to charge , disable when unplugged.
+Name: LowPowerPlug
+Author: Kernelrw
+
 Package: com.kernelrw.padswitcher
 Architecture: iphoneos-arm64e
 Version: 1.1.0
@@ -42668,6 +42685,25 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vedette
 
+Package: com.udevs.vedette
+Architecture: iphoneos-arm64e
+Version: 1.1.5
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 504
+Depends: roothide, preferenceloader, mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debians/iphoneos-arm64e/com.udevs.vedette_1.1.5_iphoneos-arm64e.deb
+Size: 70092
+MD5sum: a68caab6f513cfdfec9f05c274cb2598
+SHA1: 2f87d760e4c5345c27d70f07cb06e9b47de952fc
+SHA256: d621c9d3ab1772cbcc43b06c2a4fdafa18b769abca1e5d53b39c8bedc6b1f694
+SHA512: 18145e022b4d3fcb5ad0fea92a2a6ee32a3e84616b4e51ef2febb133c312a36433be24dde07069d47fa0ea5921428973525359f329647bc57cc00b0e31a727eb
+Description: Monitor CPU hogging processes
+Name: Vedette
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vedette
+
 Package: com.un1ockdev.proudlockx
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -43383,6 +43419,23 @@ SHA256: 06c897c7006e6ec0c81e09d61ffb270a8a67fd74c5b146799d396ad901af622f
 SHA512: 3c63f04634701cc5278ce22ed61c3125c4f92a3d4fcd0932c95bcca0fd419bad0260e03c3418e8b94932bb64f1551a7a90d291325bfb48857ab442d0b930d1a5
 Description: Allows restricting which apps get WiFi + Cellular
 Name: Conditional
+Author: daniel
+
+Package: daniel.lowpowerlock
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: daniel
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/daniel.lowpowerlock_0.0.1_iphoneos-arm64e.deb
+Size: 3740
+MD5sum: a4fb9d86b563bc51eb0f47205daee122
+SHA1: 5d8e5bb0c3768007a2f0f11a6d8d01b0beb046c5
+SHA256: 9cae513994ba210bc9da07729c6f2070ce7b3e8649ec07fa5a289ac8f1e56221
+SHA512: fdcfd4d523ea16e999631409bf13f1cb1841ae368851443c696c865e894597e69d1942d81b4fd405774b0adfef2fd6846e6c95d5c79ab0236505efd6d2d08be2
+Description: Enable Low Power Mode when the device is locked, disable when unlocked.
+Name: LowPowerLock
 Author: daniel
 
 Package: dev.adrian.ysrudffs
