@@ -1144,6 +1144,23 @@ Name: Beegram For Instagram
 Author: Ali Latif
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Beegram.png?raw=true
 
+Package: com.alilatif.beegram
+Architecture: iphoneos-arm
+Version: 2.8
+Section: Tweaks
+Maintainer: Ali Latif
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.alilatif.beegram_2.8_iphoneos-arm.deb
+Size: 23586048
+MD5sum: 147d15a5d38984a51b8a142cb483c846
+SHA1: 72c7c1d1508ec724daae7f5bc1c2de6ad1575878
+SHA256: 74a6fd1d27e8dcfac766746bff4362adb1cc62c0976077dc1d90d4026fe65ae7
+SHA512: 6129ed9384f8653e9e3884c260391ce1e6fa21e6000f606f3a401e3938dc8b723f3d2fcb9937fe36562947668d4279a526312986a03ce7c10e19636b76f44ad3
+Description: The ultimate Instagram tweak with deleted messages recovery and more.
+Name: Beegram For Instagram
+Author: Ali Latif
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Beegram.png?raw=true
+
 Package: com.alilatif.wgold
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -15393,6 +15410,23 @@ MD5sum: 018c30b67a3cecfe337e71d22f79831e
 SHA1: d3ae9298d6050c1ab8d8aeb9862602e0a2b30867
 SHA256: f74cee184d852118578298d77748322a72b9ba260dd66dae3c9e10d8de0c2793
 SHA512: d62a89b605613e55dea0431ef3139ebc9ff3f78e569beef92967d64b5fccf65f10f8583f5e80c86db53bbae14a06757da90f8b8d1840741d1ac44a9f71759b3b
+Description: The ultimate Instagram tweak with deleted messages recovery and more.
+Name: Beegram For Instagram
+Author: Ali Latif
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Beegram.png?raw=true
+
+Package: com.alilatif.beegram
+Architecture: iphoneos-arm64
+Version: 2.8
+Section: Tweaks
+Maintainer: Ali Latif
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.alilatif.beegram_2.8_iphoneos-arm64.deb
+Size: 23587100
+MD5sum: 43c67e8d332a0b619923ebf5aa1c1cad
+SHA1: 8d9f15f32a196f9095be37da9d4ad77b7ddfa376
+SHA256: 09ec5a907e1d10905417395f2c4cda9e15ed2ed7e503385c686b672d50eb1835
+SHA512: d82b956d970dc196ce5c046c32193bdb66cc06a2ee9f5c9af91eb28793b89e700016d5c9a8be26355188e2b096733862a4663a5b36147863c511871b6f272577
 Description: The ultimate Instagram tweak with deleted messages recovery and more.
 Name: Beegram For Instagram
 Author: Ali Latif
@@ -31525,6 +31559,23 @@ Description: The ultimate Instagram tweak with deleted messages recovery and mor
 Name: Beegram For Instagram
 Author: Ali Latif
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Beegram.png?raw=true
+
+Package: com.alilatif.beegram
+Architecture: iphoneos-arm64e
+Version: 2.8
+Section: Tweaks
+Maintainer: Ali Latif
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.alilatif.beegram_2.8_iphoneos-arm64e.deb
+Size: 23585684
+MD5sum: 1f4c66ee25d1df5aecaa0960bdfa20ab
+SHA1: a13ecb8385d4ff7b80ee2e26052647e4f8b27fe8
+SHA256: c3d31576c7cee0557134c174dd0da9d2079a52e87623825109df4c5bd3a8c3b5
+SHA512: e6d1cd3a8f89bfac30ec29a031f49380d55489a953f9379bb55e9f98f36dec36b1a05feaf89b51eea63565aeb323a28bd34096b0087db7f5349e839255483cab
+Description: The ultimate Instagram tweak with deleted messages recovery and more.
+Name: Beegram For Instagram
+Author: Ali Latif
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Beegram.png?raw=true
 
 Package: com.alilatif.wgold
 Architecture: iphoneos-arm64e
