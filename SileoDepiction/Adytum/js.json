@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Telos.png",
+    "headerImage": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Adytum.png",
     "tintColor": "#4A90E2",
     "minVersion": "0.3",
     "tabs": [
@@ -28,11 +28,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot 1",
-                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Screenshot_01.png"
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot 2",
-                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Telos/Screenshot_02.png"
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_02.png"
                         }
                     ]
                 },
@@ -183,7 +183,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "title": "Tested Jailbreaks",
+                    "title": "Jailbreaks",
                     "text": "Dopamine, Roothide"
                 },
                 {
