@@ -734,6 +734,25 @@ Description: Automatically marks messages as read after clearing their notificat
 Name: IMRead
 Author: noname
 
+Package: com.7md.iqgram
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 3324
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.7md.iqgram_1.0_iphoneos-arm.deb
+Size: 10961048
+MD5sum: 23b312dd0096ab93fcc533f38c9e8cca
+SHA1: 734b91d8820646149e76ec0c4c5d7a0309e36428
+SHA256: a2777047df8493c2247c74e48a465a591a5ead7bdf2105a1f23b01377250ae0d
+SHA512: aab0ae2fbb8962a95c532ddab73f411f0e0ff4387218def5fa0deaaffd66ce44d0b376f884788bdd75ff6deaa9503a8b81a4358e3a06e21a06c7a675f60cf9d1
+Homepage: https://t.me/r71il
+Description: Best Tweak for Instagram
+Name: iQGram
+Author: 7md
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
+
 Package: com.82flex.amlyrics
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -6453,6 +6472,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Kurrt <dev@kurrt.com>
 dev: kurrt
 Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
+
+Package: com.layii.ccrnd
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: LaYii
+Installed-Size: 168
+Depends: firmware (>= 14.0)
+Filename: ./debians/iphoneos-arm/com.layii.ccrnd_0.0.1_iphoneos-arm.deb
+Size: 4272
+MD5sum: ae0329ba128336a2941c62d368eef3a9
+SHA1: b891f549becb561951ce3fe505f478e61127f45d
+SHA256: 72384bfabecd17fa723af935185944582b8addc8846b9e97ff89b42ecbe298b0
+SHA512: 192ee1fe24a1115d21777b1b14e43f575d92c432e5f7e524b8a3da76c91210fbb40f87e62e57c5a1288eecb6231303e3aceb9c63e009fb5ef93878a90f8763fa
+Description: Removes the 3-second countdown for screen recording and automatically puts away the control center
+Name: CCRecordNoDelay
+Author: LaYii
+Icon: https://huayuarc.github.io/icon/ccrnd.jpg
 
 Package: com.lenglengyu.bypasscc
 Architecture: iphoneos-arm
@@ -14950,6 +14987,25 @@ Description: Makes ControlCenter cool.
 Name: CoolCC
 Author: 4nni3 <4nni3.14@gmail.com>
 
+Package: com.7md.iqgram
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 3324
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.7md.iqgram_1.0_iphoneos-arm64.deb
+Size: 10963140
+MD5sum: 0113f94bd1ebfbf6c7fabaf461c86066
+SHA1: 4780454c9bc8657102179b8d8457a2ad8d5b2700
+SHA256: da1a5943b4eed55ecc173a1277e01b7004b121bb831be13120a86e597fd2acad
+SHA512: 5aff47dd2a4418f3420d054115f118510330295197a0629332c4859fe648ff60b03699e287093dfff98a214830b73f8aa7da96f5c84640bd1376e876a1c25b27
+Homepage: https://t.me/r71il
+Description: Best Tweak for Instagram
+Name: iQGram
+Author: 7md
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
+
 Package: com.82flex.amlyrics
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -20814,6 +20870,24 @@ Description: A simple command-line utility to quickly enable or disable all twea
  - 'safe -a' to disable ALL tweaks ignoring exclusion list.
 Name: SafeToggle
 Author: Korboy <korboybeats@gmail.com>
+
+Package: com.layii.ccrnd
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: LaYii
+Installed-Size: 168
+Depends: firmware (>= 14.0)
+Filename: ./debians/iphoneos-arm64/com.layii.ccrnd_0.0.1_iphoneos-arm64.deb
+Size: 4176
+MD5sum: 574afc368cbdd3107d3b84e8f13ec75f
+SHA1: cd2a8a1854d6c1c917d10d9753d332d6bd0cd7d2
+SHA256: daa2973b26b606d1ab61a71e40f22707fd090e4e54d0d37fd311ac65fcae4449
+SHA512: 776fecda0a95592b2e033f7890206f9e03aac755463f52970312e8e0687c2903fb7f946368fea96be246b1601b0f7e68205172a159474304881046d86b71ab6c
+Description: Removes the 3-second countdown for screen recording and automatically puts away the control center
+Name: CCRecordNoDelay
+Author: LaYii
+Icon: https://huayuarc.github.io/icon/ccrnd.jpg
 
 Package: com.lema.wolf
 Architecture: iphoneos-arm64
@@ -31166,6 +31240,25 @@ Description: Makes ControlCenter cool.
 Name: CoolCC
 Author: 4nni3 <4nni3.14@gmail.com>
 
+Package: com.7md.iqgram
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 3324
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.7md.iqgram_1.0_iphoneos-arm64e.deb
+Size: 10842088
+MD5sum: a9ea94d3acb41ce2b6ddee9375f2490d
+SHA1: 249cf9303fb14aed5bd10435120df6c086662de6
+SHA256: e24749bb56c7c32b2473dc3d1bfd72d3536b6bb4d3216c9453b95b8d07782ad1
+SHA512: 9e6a5c40fb709dfa649fa115208eb9894eb490fdd75f3d2801fc2a5a8452218679d4b12f3068cef586ae4e7d8f8ce4aec30f9135fbaffbda3450cf1f4e9b9f65
+Homepage: https://t.me/r71il
+Description: Best Tweak for Instagram
+Name: iQGram
+Author: 7md
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
+
 Package: com.82flex.amlyrics
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -36666,6 +36759,24 @@ Description: A simple command-line utility to quickly enable or disable all twea
  - 'safe -a' to disable ALL tweaks ignoring exclusion list.
 Name: SafeToggle
 Author: Korboy <korboybeats@gmail.com>
+
+Package: com.layii.ccrnd
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: LaYii
+Installed-Size: 168
+Depends: firmware (>= 14.0)
+Filename: ./debians/iphoneos-arm64e/com.layii.ccrnd_0.0.1_iphoneos-arm64e.deb
+Size: 4120
+MD5sum: c03c1083b95008ef06013fcdccf7baa6
+SHA1: f3e93fc1c9faf39579852f041033948ea5770483
+SHA256: c3def467be2a65054f77d0b3c9746538191f78e531a1f8e11174e12a9f270dd2
+SHA512: 6b16aab895fdb20321fdf4cc4cd3cdb93ab55cd3281cd4d7b9ed6b913b699bef61bb66c2f28f54668551156fc6f1a97f6b32df5c8c8fd277eaab59443471be15
+Description: Removes the 3-second countdown for screen recording and automatically puts away the control center
+Name: CCRecordNoDelay
+Author: LaYii
+Icon: https://huayuarc.github.io/icon/ccrnd.jpg
 
 Package: com.lclrc.hammerit
 Architecture: iphoneos-arm64e
