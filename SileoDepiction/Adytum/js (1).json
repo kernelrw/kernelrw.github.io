@@ -33,14 +33,6 @@
                         {
                             "accessibilityText": "Screenshot 2",
                             "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_02.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot 3",
-                            "url": "YOUR_SCREENSHOT_3_URL_HERE"
-                        },
-                        {
-                            "accessibilityText": "Screenshot 4",
-                            "url": "YOUR_SCREENSHOT_4_URL_HERE"
                         }
                     ]
                 },
@@ -131,44 +123,6 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Control Center Integration",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Quickly toggle Adytum's master switch and manage app states directly from a convenient, native Control Center module.",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "3D Touch Integration",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Long-press any app icon on your home screen to instantly apply or change its background state right from the native quick actions menu.",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionHeaderView",
                     "title": "Known Issues",
                     "useBoldText": true,
                     "useBottomMargin": false
@@ -190,21 +144,17 @@
                 },
                 {
                     "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "spacing": 8
                 },
                 {
-                    "class": "DepictionHeaderView",
-                    "title": "Note",
+                    "class": "DepictionSubheaderView",
+                    "title": "Facebook",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Some applications, such as Safari, may require a userspace reboot for background state changes to take effect.",
+                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
                     "useRawFormat": true
                 },
                 {
