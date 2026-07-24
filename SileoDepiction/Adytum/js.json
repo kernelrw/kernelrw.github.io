@@ -36,11 +36,11 @@
                         },
                         {
                             "accessibilityText": "Screenshot 3",
-                            "url": "YOUR_SCREENSHOT_3_URL_HERE"
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_03.png"
                         },
                         {
                             "accessibilityText": "Screenshot 4",
-                            "url": "YOUR_SCREENSHOT_4_URL_HERE"
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_04.png"
                         }
                     ]
                 },
@@ -190,6 +190,21 @@
                 },
                 {
                     "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Facebook",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
                     "spacing": 16
                 },
                 {
@@ -229,7 +244,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "iOS Versions",
-                    "text": "iOS 15.0 – 17.x"
+                    "text": "iOS 15.0 – 18.x"
                 },
                 {
                     "class": "DepictionTableTextView",
