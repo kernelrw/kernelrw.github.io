@@ -4662,24 +4662,45 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
-Package: com.faroukbmiled.ryukgram
+Package: com.faroukbmiled.ryukgram.legacy
 Architecture: iphoneos-arm
-Version: 1.3.0
+Version: 1.3.3
 Section: Tweaks
 Maintainer: Ryuk
-Installed-Size: 2792
+Installed-Size: 3624
 Depends: mobilesubstrate
-Filename: ./debians/iphoneos-arm/com.faroukbmiled.ryukgram_1.3.0_iphoneos-arm.deb
-Size: 14868552
-MD5sum: 6424463f97939035dfee5443ea0d2111
-SHA1: 404078abbb1c28ad65574bf69cd7da1618869606
-SHA256: 85ec52c094d41069a6d46a30d89c559f066c0eab9469971bfe6036e3bb42538a
-SHA512: 8e98abea99539008de546c0429ee73634ed0742aa8f79164ef0a89025997786b668ca2941ebdd8470ad0d496000997041a0b3be18e4af21df2284a3bfe4a1ff3
+Conflicts: com.faroukbmiled.ryukgram
+Replaces: com.faroukbmiled.ryukgram
+Filename: ./debians/iphoneos-arm/com.faroukbmiled.ryukgram.legacy_1.3.3_iphoneos-arm.deb
+Size: 15138032
+MD5sum: 6822cfcbb17ed833be0bcd04c0def8b8
+SHA1: 708a69b45b5383d637a9e93f4b12f4cf1672a369
+SHA256: 013b20edbdadeb38f2dfe553d1fbd04911022010a339d6ac0433ee4aeb16e0b9
+SHA512: 6e39be10adc51bc2006798aed91db6b93c637e8f081f58d0d73b0ef95955fbdfc74e60a236b574762e386d9b4cbd9b8ef374caed47169989f55f4438fc250e50
 Homepage: https://github.com/faroukbmiled/RyukGram
-Description: A feature-rich tweak for Instagram on iOS, based on SCInsta
+Description: A feature-rich enhancement suite for Instagram on iOS
+Name: RyukGram (Instagram 410)
+Author: Ryuk
+
+Package: com.faroukbmiled.ryukgram
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Tweaks
+Maintainer: Ryuk
+Installed-Size: 5028
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy
+Replaces: com.faroukbmiled.ryukgram.legacy
+Filename: ./debians/iphoneos-arm/com.faroukbmiled.ryukgram_1.3.3_iphoneos-arm.deb
+Size: 16831080
+MD5sum: 8b4a2216574a61a1f93a15a72a75f356
+SHA1: cf5ed58160484043f417f73c98aa4a28730e371d
+SHA256: c63f2862fc0afc9450daec13bcd8fc27d18920df410865069d9e414680cdcc2d
+SHA512: 388ef5013087042ab525e36be7339ef0800347b80401dd64c0f5bc6f1896bbb8c801cbb8ac51379ada648783c3d588603d2d0db97218d3900f8dd35555464db9
+Homepage: https://github.com/faroukbmiled/RyukGram
+Description: A feature-rich enhancement suite for Instagram on iOS
 Name: RyukGram
 Author: Ryuk
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/RyukGram.png?raw=true
 
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm
@@ -19233,43 +19254,45 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
-Package: com.faroukbmiled.ryukgram
+Package: com.faroukbmiled.ryukgram.legacy
 Architecture: iphoneos-arm64
-Version: 1.2.2-1+debug
+Version: 1.3.3
 Section: Tweaks
 Maintainer: Ryuk
-Installed-Size: 2792
+Installed-Size: 3624
 Depends: mobilesubstrate
-Filename: ./debians/iphoneos-arm64/com.faroukbmiled.ryukgram_1.2.2-1+debug_iphoneos-arm64.deb
-Size: 12781376
-MD5sum: 7bc4ad6d13c809ded286052f1dbd2fa2
-SHA1: 677a11eee9514a9faf68285ba3f6b1b7442fccd0
-SHA256: 809e7642f5aa93103c0f5e77c31895266e46647d1ee509c1e4e9dba6496face5
-SHA512: d08e3a6629c18c0ffef6297e27be84f9256421b40c658b1b371bb420ebae3d4be4178dfa26ab3cafb0270e316be8e544f1c0a6c8be6a5b56c6279026f87576ab
+Conflicts: com.faroukbmiled.ryukgram
+Replaces: com.faroukbmiled.ryukgram
+Filename: ./debians/iphoneos-arm64/com.faroukbmiled.ryukgram.legacy_1.3.3_iphoneos-arm64.deb
+Size: 15141568
+MD5sum: 22585d19adbf29c1049da74dc47c853e
+SHA1: 25efb88a3b3e666984612bd30c5410ed9ecaf83d
+SHA256: 38ed2afb21a406e630915af2ac89b9363aa77ed40bcfc519ffd5bb131c6b0a1f
+SHA512: 22dcb6dd24b150365a7c6dccde35c89be853b95b20e53eeb24e1ff0183364e69b2c42031788c9eae6520a26d807d1b3f62c110391014ced37e335166c3d789a8
 Homepage: https://github.com/faroukbmiled/RyukGram
-Description: A feature-rich tweak for Instagram on iOS, based on SCInsta
-Name: RyukGram
+Description: A feature-rich enhancement suite for Instagram on iOS
+Name: RyukGram (Instagram 410)
 Author: Ryuk
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/RyukGram.png?raw=true
 
 Package: com.faroukbmiled.ryukgram
 Architecture: iphoneos-arm64
-Version: 1.3.0
+Version: 1.3.3
 Section: Tweaks
 Maintainer: Ryuk
-Installed-Size: 2792
+Installed-Size: 5028
 Depends: mobilesubstrate
-Filename: ./debians/iphoneos-arm64/com.faroukbmiled.ryukgram_1.3.0_iphoneos-arm64.deb
-Size: 14861992
-MD5sum: 417d98e8f223aac6b4d1c7c7394dc782
-SHA1: 526d9d3db3ce1d008201beceaba9944a068d6592
-SHA256: 4e46a43e6c66c8e6db998fdb343077ecf9f2ca95a85146e2c57cc241616d0cb7
-SHA512: afda30749688b08a741c0f88e1bfaa88b2c3294689e520164e25e8254defa86a0e4e8e2544fd7f4ef5cd543fe664d3e59bbf513203368b24277e8e1bc43453b2
+Conflicts: com.faroukbmiled.ryukgram.legacy
+Replaces: com.faroukbmiled.ryukgram.legacy
+Filename: ./debians/iphoneos-arm64/com.faroukbmiled.ryukgram_1.3.3_iphoneos-arm64.deb
+Size: 16830948
+MD5sum: 20daa1496b7e7334dae8ab77f8c2c52e
+SHA1: d9affdd0b8c18c0c6a251c3c378039dbfab59f37
+SHA256: 4385afda2beb88a6226db93b8210aaef9cfde4718b784610c08e1a01ba344f86
+SHA512: 1f7d526f85e9dda5b88df18793389b1144d2d9fe7072c9d3cbe520fd52ec27ac190383d8f8392265dcb49778514468d790df8f0a237e5886987d8e54cdcf7036
 Homepage: https://github.com/faroukbmiled/RyukGram
-Description: A feature-rich tweak for Instagram on iOS, based on SCInsta
+Description: A feature-rich enhancement suite for Instagram on iOS
 Name: RyukGram
 Author: Ryuk
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/RyukGram.png?raw=true
 
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm64
@@ -33958,6 +33981,24 @@ Author: Devvix
 
 Package: com.doimty.promotion
 Architecture: iphoneos-arm64e
+Version: 1.0.11
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.doimty.promotion_1.0.11_iphoneos-arm64e.deb
+Size: 16700
+MD5sum: a21c8004b2f3a4851d3869c27ea68a36
+SHA1: 31f0396631618aed3067b4d3aeef76e7fc068524
+SHA256: 98e56ab052373fef0a8cda4473756f6efcc6be9a892f02a51e17dc73f47949c4
+SHA512: 821832664cab657a66728657c3a43f18445f6f53e70e84265096f6aeef6320fabe18e0187c23d907e7162ba49b04cb4be0dce60f19498f54af1483a1df0c8840
+Description: Force 120Hz ProMotion — Overrides the 80Hz system limit. Requires iPhone 13 Pro or later.
+Tag: supports::roothide
+Name: ProMotion 120Hz
+Author: doimty
+
+Package: com.doimty.promotion
+Architecture: iphoneos-arm64e
 Version: 1.0.7
 Section: Tweaks
 Maintainer: doimty
@@ -34886,45 +34927,45 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
-Package: com.faroukbmiled.ryukgram
+Package: com.faroukbmiled.ryukgram.legacy
 Architecture: iphoneos-arm64e
-Version: 1.2.2-1+debug
+Version: 1.3.3
 Section: Tweaks
 Maintainer: Ryuk
-Installed-Size: 2792
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 3624
 Depends: mobilesubstrate
-Filename: ./debians/iphoneos-arm64e/com.faroukbmiled.ryukgram_1.2.2-1+debug_iphoneos-arm64e.deb
-Size: 32670258
-MD5sum: aadb3072ee2390d6821000b70217a720
-SHA1: 7f9501037689037d4b16cd50828494104eb29fbb
-SHA256: 36e03a4a810f72d5f0a38109f944c188dabf622709b61f12c2b35f812d5b7a04
-SHA512: c7345e53e0dcd83b1b4794c250a852ce029409e5d365e442eca332c7b8f79f371d637d08070f4b3ab15ee7a058a054f8b543deb65fb50b867199e8d486cdbbc2
+Conflicts: com.faroukbmiled.ryukgram
+Replaces: com.faroukbmiled.ryukgram
+Filename: ./debians/iphoneos-arm64e/com.faroukbmiled.ryukgram.legacy_1.3.3_iphoneos-arm64e.deb
+Size: 15134640
+MD5sum: e68f5d2d9ad7c5185dbd92728949a550
+SHA1: 1dcdada2ed56185dc249e7b9ea07bab6db4e1e9f
+SHA256: 60e9f032934cf5ca68e9c3b8c247bdad49b6b21ec1102bb977254432c70f89fd
+SHA512: f1e727ccfb4ecbbe88c9e9c6d4f7366ebbae1de04250e36e6b105092c026d34b68deeffc82ace225e8631f11e6dc429ab3846c87fbeeb3ee1905fb7be152036e
 Homepage: https://github.com/faroukbmiled/RyukGram
-Description: A feature-rich tweak for Instagram on iOS, based on SCInsta
-Name: RyukGram
+Description: A feature-rich enhancement suite for Instagram on iOS
+Name: RyukGram (Instagram 410)
 Author: Ryuk
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/RyukGram.png?raw=true
 
 Package: com.faroukbmiled.ryukgram
 Architecture: iphoneos-arm64e
-Version: 1.3.0
+Version: 1.3.3
 Section: Tweaks
 Maintainer: Ryuk
-Installed-Size: 2792
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 5028
 Depends: mobilesubstrate
-Filename: ./debians/iphoneos-arm64e/com.faroukbmiled.ryukgram_1.3.0_iphoneos-arm64e.deb
-Size: 41384176
-MD5sum: 49dfe01b7be63be49ffa62298c59cfe5
-SHA1: 90f2ff04d6919ada6c5fb41c7f523a9ee242c849
-SHA256: 27fc9e73397afc4ef95049a70f657013f53dbb861db12c4f67a6a81866514b25
-SHA512: c988167d1b4d496785e13b0bc141b34c213abef77e851b01361df293822e2d05ebb914728563b981491a96fd13a808fa2a8ac3305565a0df73f7e92c285321c9
+Conflicts: com.faroukbmiled.ryukgram.legacy
+Replaces: com.faroukbmiled.ryukgram.legacy
+Filename: ./debians/iphoneos-arm64e/com.faroukbmiled.ryukgram_1.3.3_iphoneos-arm64e.deb
+Size: 16831012
+MD5sum: 74939a2b2e3c51f97337a514bc360473
+SHA1: e239cd26c319049103bc27c82e54c737cd264a7e
+SHA256: 6f99772e30757af02bb31a25b9cb47538ababbc67e44f5f5aee180370281b37a
+SHA512: 88ab7c37e89a0682c234856b5f80e4889a61f5b8063aa726348ed6e84b9b5041c8c79ae5bf6f327731ebb9241d0089a44c75bf1bf1d15f2da68f1f50e073c6c2
 Homepage: https://github.com/faroukbmiled/RyukGram
-Description: A feature-rich tweak for Instagram on iOS, based on SCInsta
+Description: A feature-rich enhancement suite for Instagram on iOS
 Name: RyukGram
 Author: Ryuk
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/RyukGram.png?raw=true
 
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm64e
