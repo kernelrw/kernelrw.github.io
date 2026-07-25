@@ -502,13 +502,13 @@ Version: 1.1.0
 Section: Tweaks
 Maintainer: 0xkuj
 Installed-Size: 384
-Depends: ellekit, preferenceloader
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/iphoneos-arm/com.0xkuj.fixwanotifs_1.1.0_iphoneos-arm.deb
-Size: 30022
-MD5sum: 758c149599cc1a788f77efd3c91ab5ae
-SHA1: 9695b6620111922ad4a6bf33bd36d26fbf02e61a
-SHA256: 73e666dc7ed056c5ad55972e36cab75de76baddcf8f6a7326a7324eea6a17e0a
-SHA512: c9fc7db7f0ce4680db088effdbfdb6019734bc9a6cf541e1ccfdefa0e871d57302f1941253ed78d4677fc5e5acfdc26636e81573d9154c7eaba32594a0cd2231
+Size: 33744
+MD5sum: bd3ca1cdbce315588cba4e85fe2f0695
+SHA1: f8be606d3a021155ca79077e0cde27b1841b134b
+SHA256: 7fa96d699e35af43103ce5161a010368ede811afc8f6253797e94260255e24d0
+SHA512: c8afcd32cee8c2af5147c9c345ae10c3ec5a291f259650da11b9497f7f63361ae6b4ad67fba2469ec76d370bcc9314547e19f2e4af745f6dc95439f9d139788b
 Description: Raises the Jetsam memory limit of WhatsApp's notification ServiceExtension in order to fix missing notifications while WhatsApp is closed. Userspace reboot is needed after install
 Name: FixWANotifs
 Author: 0xkuj
@@ -14793,13 +14793,13 @@ Version: 1.1.0
 Section: Tweaks
 Maintainer: 0xkuj
 Installed-Size: 384
-Depends: ellekit, preferenceloader
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/iphoneos-arm64/com.0xkuj.fixwanotifs_1.1.0_iphoneos-arm64.deb
-Size: 30004
-MD5sum: 60d670e10dcf9f68b06acec3526f1484
-SHA1: 3e305fd2d3a6038b5424531d980a0661118041e5
-SHA256: eb217a50cec5bcae3e8903d0c2eee1d643a8620702dd6677e53195e9eaab252d
-SHA512: 4ab10ac40212f65a4f9050744424c86c590774cd8c66b6076374f4a7689bbcffbf48e4e36663526e082269d6100abb91d830ac68ce4b2026013d67dfd50f72d9
+Size: 33608
+MD5sum: 968274496e77ba8e85f28cfb8d8424f6
+SHA1: b4bcbb2e3882c19f502a9981867c90f9266bf7a0
+SHA256: 36e63d7d80780237d624935b0c641b33719615fb341a521971c2aad1f31fd2d0
+SHA512: a0553da63059ebcc58db5ec267699b10d9f63397e1e6eb31b939d5466b2628db806a56a3b84b4d514a7c0c1db9ff79870c9764a3506e1e230bc5df256d4b0e84
 Description: Raises the Jetsam memory limit of WhatsApp's notification ServiceExtension in order to fix missing notifications while WhatsApp is closed. Userspace reboot is needed after install
 Name: FixWANotifs
 Author: 0xkuj
@@ -31055,13 +31055,13 @@ Version: 1.1.0
 Section: Tweaks
 Maintainer: 0xkuj
 Installed-Size: 388
-Depends: ellekit, preferenceloader
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/iphoneos-arm64e/com.0xkuj.fixwanotifs_1.1.0_iphoneos-arm64e.deb
-Size: 30988
-MD5sum: 1774f4443091e974d1ef9ab86efa078a
-SHA1: 940ea95a49619053575b839fd80be4eb1fbadc60
-SHA256: 3b64dc70b101b5ac7ce25b697ee77f3b0a55e8963f2b60ba2e2d342ca5c16729
-SHA512: 6bf9bbdaf3990cb3b511ecbd7e85bd631bd0c6f0bc27136e7d97229ccd523a06231539533c587e8f99408275e72e9ea60939a851c1ca3c56c750096c5838bcf5
+Size: 30856
+MD5sum: c2394c092be38413b4c392ecabf10387
+SHA1: a036324bbfd0cd67543ee7b19085704e59a98561
+SHA256: dff00e6c928ad9ff069ac1dc239e3d83a1418584335bb13b2b34de80ba7d6507
+SHA512: 594ab4ae6063e8ce34a9b945f1e734734ce04f0dabdd26f840936d46b416e512d38961867f8886ff399748b171c0b8e7dde31cce39119533bdd503f9f40ce014
 Description: Raises the Jetsam memory limit of WhatsApp's notification ServiceExtension in order to fix missing notifications while WhatsApp is closed. Userspace reboot is needed after install
 Name: FixWANotifs
 Author: 0xkuj
