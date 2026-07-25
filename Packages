@@ -496,6 +496,23 @@ Description: A tweak to rescale all your existing contacts images to full screen
 Name: ContactsFS
 Author: 0xkuj
 
+Package: com.0xkuj.fixwanotifs
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 384
+Depends: ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm/com.0xkuj.fixwanotifs_1.1.0_iphoneos-arm.deb
+Size: 30022
+MD5sum: 758c149599cc1a788f77efd3c91ab5ae
+SHA1: 9695b6620111922ad4a6bf33bd36d26fbf02e61a
+SHA256: 73e666dc7ed056c5ad55972e36cab75de76baddcf8f6a7326a7324eea6a17e0a
+SHA512: c9fc7db7f0ce4680db088effdbfdb6019734bc9a6cf541e1ccfdefa0e871d57302f1941253ed78d4677fc5e5acfdc26636e81573d9154c7eaba32594a0cd2231
+Description: Raises the Jetsam memory limit of WhatsApp's notification ServiceExtension in order to fix missing notifications while WhatsApp is closed. Userspace reboot is needed after install
+Name: FixWANotifs
+Author: 0xkuj
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -14768,6 +14785,23 @@ SHA256: 780b4c25884a4b3cc4abfdc31ce33c3bfa417af5b3ab460dff206ea26029ffa2
 SHA512: a4ccaf9d7dd33a2c50c05e1939ddc84c8ea121d7af405beb9cf21cda37d6772305aff235692a3dfa8f1db8135098f8c1bc8a61b76c45c15ce6925c24780c795b
 Description: A tweak to rescale all your existing contacts images to full screen
 Name: ContactsFS
+Author: 0xkuj
+
+Package: com.0xkuj.fixwanotifs
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 384
+Depends: ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.0xkuj.fixwanotifs_1.1.0_iphoneos-arm64.deb
+Size: 30004
+MD5sum: 60d670e10dcf9f68b06acec3526f1484
+SHA1: 3e305fd2d3a6038b5424531d980a0661118041e5
+SHA256: eb217a50cec5bcae3e8903d0c2eee1d643a8620702dd6677e53195e9eaab252d
+SHA512: 4ab10ac40212f65a4f9050744424c86c590774cd8c66b6076374f4a7689bbcffbf48e4e36663526e082269d6100abb91d830ac68ce4b2026013d67dfd50f72d9
+Description: Raises the Jetsam memory limit of WhatsApp's notification ServiceExtension in order to fix missing notifications while WhatsApp is closed. Userspace reboot is needed after install
+Name: FixWANotifs
 Author: 0xkuj
 
 Package: com.0xkuj.nopastealerts166
@@ -31013,6 +31047,23 @@ SHA256: 23d0d49355af5d8cab7be840d0f22806199e8b1ca065b50c79b5cc4ff1729aa6
 SHA512: d9420baf10bbc0799d159784e200e3b894226a02443d8fcc332d30576beaf6db9655cae4744abd2411c3775d8996fc57945848676f3c00a948c4ac68709dfd7f
 Description: A tweak to rescale all your existing contacts images to full screen
 Name: ContactsFS
+Author: 0xkuj
+
+Package: com.0xkuj.fixwanotifs
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 388
+Depends: ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.0xkuj.fixwanotifs_1.1.0_iphoneos-arm64e.deb
+Size: 30988
+MD5sum: 1774f4443091e974d1ef9ab86efa078a
+SHA1: 940ea95a49619053575b839fd80be4eb1fbadc60
+SHA256: 3b64dc70b101b5ac7ce25b697ee77f3b0a55e8963f2b60ba2e2d342ca5c16729
+SHA512: 6bf9bbdaf3990cb3b511ecbd7e85bd631bd0c6f0bc27136e7d97229ccd523a06231539533c587e8f99408275e72e9ea60939a851c1ca3c56c750096c5838bcf5
+Description: Raises the Jetsam memory limit of WhatsApp's notification ServiceExtension in order to fix missing notifications while WhatsApp is closed. Userspace reboot is needed after install
+Name: FixWANotifs
 Author: 0xkuj
 
 Package: com.0xkuj.installdpkg
