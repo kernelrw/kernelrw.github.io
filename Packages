@@ -514,6 +514,25 @@ Name: FixWANotifs
 Author: 0xkuj
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/FWAN.png?raw=true
 
+Package: com.0xkuj.fixwanotifsextended
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: 0xkuj & Kernelrw
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.fixwanotifs
+Filename: ./debians/iphoneos-arm/com.0xkuj.fixwanotifsextended_1.1.0_iphoneos-arm.deb
+Size: 33904
+MD5sum: 9453906ad270fcb37a85bd2357f846b0
+SHA1: 542f0be384c267518172af30685add39663014b3
+SHA256: 27145629fc32dab8373f4257959f6e39462393c5c22a6f829a004f74d960fd0a
+SHA512: 8ef0ae8ea717a01e93f1f05529fe6caf240f26effe3dd4f47c5e4ed67d326cb123960dd6c63c900147da5f4566a6c1b3ac0d2fd5d51adc5bad1918e4389a4b77
+Description: Raises the Jetsam memory limit of WhatsApp's and common social apps notification ServiceExtension in order to fix missing notifications while those apps are closed. Userspace reboot is required after install
+Name: FixWANotifs Extended
+Author: 0xkuj & Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/FWAN.png?raw=true
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1883,23 +1902,23 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
-Package: com.be-huge.insulationn
+Package: com.be-huge.insulation
 Architecture: iphoneos-arm
-Version: 0.1.36.33
+Version: 0.1.38
 Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm/com.be-huge.insulationn_0.1.36.33_iphoneos-arm.deb
-Size: 51328
-MD5sum: 9a5d79681c469cbc3441e34091021363
-SHA1: 2b4bbdd7e8a5f2d54ad2f9a77f57e00783d8e573
-SHA256: 1b10b6eeb6ee7b3e4101c8da1dcb3ea8815c00b80bb3fa021dd8d56da7c368df
-SHA512: de9d49db60e4c190aee1905a3a18e14531b50878591ac3aa230b500ca3547ef2f022b3ef91e526280375d72e75c0588ed7cdad36da5986c21ba447f338e6eadb
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
+Maintainer: doimty
+Installed-Size: 780
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/com.be-huge.insulation_0.1.38_iphoneos-arm.deb
+Size: 56440
+MD5sum: 19bb83486eabd860218502158f4b8b30
+SHA1: 09cea26d971b34935a467b2fdf1562265cb401cd
+SHA256: f7b64a59920cf945268a5af893e341e20ab643419fbdbf2e71e74bc345766517
+SHA512: be9425a477c19ae1810cca05a61894ac8d927c5eb13c0de0ca96fa4991219fbe2562b01578c965f2c5de38975a94a44d80e3f308d67f4ab93bc305bf27abda72
+Description: Uninstall temperature control and just keep everything simple. Supports command line switching modes: ins off (native temperature control) / ins low (low power) / ins max (full performance) / ins status (view current mode)
+Name: insulation
 Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Insultation@10x.png?raw=true
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm
@@ -3389,6 +3408,24 @@ Description: Extract your installed apps
 Name: ExtractApp
 Author: developlab
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrOfl7eSAWp7HZVCyFsxOh_41NS7eSzNZGN6SL7aFGg&s=10
+
+Package: com.doimty.promotion
+Architecture: iphoneos-arm
+Version: 1.0.11
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.doimty.promotion_1.0.11_iphoneos-arm.deb
+Size: 16516
+MD5sum: f06d6990efa332f4862d190a119b8000
+SHA1: 77f8c23796a920d31e0f345414c8821ce48bc5aa
+SHA256: 045bd0c61d9825a4e7e19f53fbcf63fbbfed119fee044a20d50fe9bec8c76af3
+SHA512: a5937c42e99ae133c02c80941d7cdcdb9cf710930e78c9d6fba76041daff994564f851870873a08ffcc13913b5f4134f7c4d381f33a75557d176ea9f45e3534f
+Description: Force global 120Hz ProMotion on iPhone 13 Pro+. Bypasses the 80Hz system cap and maintains 120Hz in apps that block tweak injection via a persistent keepalive DisplayLink.
+Tag: supports::roothide
+Name: ProMotion 120Hz
+Author: doimty
 
 Package: com.doimty.promotion
 Architecture: iphoneos-arm
@@ -14806,6 +14843,25 @@ Name: FixWANotifs
 Author: 0xkuj
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/FWAN.png?raw=true
 
+Package: com.0xkuj.fixwanotifsextended
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: 0xkuj & Kernelrw
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.fixwanotifs
+Filename: ./debians/iphoneos-arm64/com.0xkuj.fixwanotifsextended_1.1.0_iphoneos-arm64.deb
+Size: 33920
+MD5sum: 47db07d729bbfdc3736da9d0e6abc0bd
+SHA1: 9c7451fadcb2a45227b936c4e3644ab2f1908ca9
+SHA256: a83b506d7dbaf6c0fe743966065063ec24a69a4f6c86fc640c1ab789e42b8f4a
+SHA512: 247f5696dc2e851f92d399e59dd75c1a57e3fe0f64f61befd29ab6ed6382363c7cb5f37b904bdc76ea4db2253b20d713df1a3e2f46c12085bc76348f5372f43c
+Description: Raises the Jetsam memory limit of WhatsApp's and common social apps notification ServiceExtension in order to fix missing notifications while those apps are closed. Userspace reboot is required after install
+Name: FixWANotifs Extended
+Author: 0xkuj & Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/FWAN.png?raw=true
+
 Package: com.0xkuj.nopastealerts166
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -16250,167 +16306,23 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
-Package: com.be-huge.insulationn
+Package: com.be-huge.insulation
 Architecture: iphoneos-arm64
-Version: 0.0.3
+Version: 0.1.38
 Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), cy+cpu.arm64e
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.0.3_iphoneos-arm64.deb
-Size: 54464
-MD5sum: d955aef5e78fc3e743315222676eb0d7
-SHA1: ecdc659f313245f7663cd3c823359404902f2db4
-SHA256: 09d7e4da5915f6399797eb1422834324cdf9e6792bae4930d168d808d43d5de1
-SHA512: 03fecd4c1e16285a0a7b131b9efd7b9fe365b63fd3c893ac0031ed2b9227971b4797dc5fbaee77f65a69a8ec7c3678007e5a948085d7b88afbaf19db6aa553cf
-Description: Just unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64
-Version: 0.0.4
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), cy+cpu.arm64e
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.0.4_iphoneos-arm64.deb
-Size: 93968
-MD5sum: 9f656288eee37b7ec3b75d2003b080e1
-SHA1: bd9f8f2df1b6e9a76ab5c673dd52f8a7ce562a18
-SHA256: a3e8068844242de3669b905a37f96046750637914d9787f279e9855606f193bd
-SHA512: e5fffb2ad5ee24176915dbea2ea9c1ccf7283efce593f60b45b88f7419c89af4b2299e2302d1b4c1e4b69ded1b9a8a5afd0bad6bb0b2164d174018725b95d2b6
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64
-Version: 0.0.5
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), cy+cpu.arm64e
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.0.5_iphoneos-arm64.deb
-Size: 112900
-MD5sum: 89ae5de47b4f6359463dce116d74a2e5
-SHA1: 45d7350b2971c8b3a97d53c4d99758bbabcb8cf7
-SHA256: f6d0f018603cfee45d06f142b91d5302a68088864b1c92ab3dc7686f2a022980
-SHA512: ea2c83bc41b73dfc9ee41d5d661e100b203429b354446367452ab6b1d824da11dea4d562cb6cb7c649d026f9046ab61435d16116a50bd1d97b13a30f5c740776
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
+Maintainer: doimty
+Installed-Size: 780
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.be-huge.insulation_0.1.38_iphoneos-arm64.deb
+Size: 58444
+MD5sum: 296737c58086e7711aa6ecd0a7efeb22
+SHA1: 58fd6b4befb9294a77b724862116d7ad7127710b
+SHA256: bd60f36066ac4c616a3f1f077e50146d97a7490a6766fbfc224c8d8a0cf02773
+SHA512: 7d2819df3daf37792cd5910ecb47e22267501165cc7184ef8a6fd1e8430efb892e30664c04994522c9737b89d9cf71d6df6c358325663649307612c1582b0b0e
+Description: Uninstall temperature control and just keep everything simple. Supports command line switching modes: ins off (native temperature control) / ins low (low power) / ins max (full performance) / ins status (view current mode)
+Name: insulation
 Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64
-Version: 0.1.20-End
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.1.20-End_iphoneos-arm64.deb
-Size: 112988
-MD5sum: 944620539db374bc15a97af83e40927d
-SHA1: ca0b5b2f6e7a6008cdf66c96a932f260f3292bd1
-SHA256: f8d53207e0aaad49864ed5b482668126d52de6c36c010902f3e3695c1afc35b2
-SHA512: d05aef91c9766be34aca18603c949e02b4eee462d474e5dfdd9e96617d656658da91d2aa17d5bea54c8e2616a32c3fd0a0d7014e74c6daf375b9c54dec629e9f
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64
-Version: 0.1.21
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.1.21_iphoneos-arm64.deb
-Size: 112896
-MD5sum: 77e2afa80651ebf8950d35be8aa9f982
-SHA1: db4669e594d4ec7b8f3e5a4951b59e3ae596cf97
-SHA256: 83e6693c56e14704a57326819f6e675100cc814191ac62630c025dd403f3d549
-SHA512: 9e634f512136142d6d3adf63bee9526ca9116192c80cffa9220f5b5e989c457c8a88f065d23f8cc49ff35fa2f4d5f7caa714b9bab7d1022dbbfc81c108dd2113
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64
-Version: 0.1.31.1
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.1.31.1_iphoneos-arm64.deb
-Size: 53412
-MD5sum: 1d39706b13cbfdf6d38364cc1dd5da28
-SHA1: 3f18d6548446d8ef615d25ff25956ea8be50b3fa
-SHA256: c08032aa325610fcdf419580a394a5f7ce78c39f02c9e66597332367d26019a4
-SHA512: 874fba504ef815ff079bbf31ccf46155a7db5e9e79fb58ee8f5e17139ad3b966d1b6f1a0c9313eeeab35614dfcf457068b6bf4814a05ba1d3a07a2e3a193f3bd
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64
-Version: 0.1.31
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.1.31_iphoneos-arm64.deb
-Size: 53040
-MD5sum: faa96ee452e5f9021580834bb7132e38
-SHA1: 92b05ef1ba254d0865225144ec8ea51652b6fcf4
-SHA256: ce54ab31d5d1896748ff17ecfde2e14d88a97f58067afa691c54df70ab780594
-SHA512: 6e36071d44cbad28675113c3b058d5499f884c7edcfa2040396663a9add519040dd5ea2037bfd356b14029ea7dd805a5d3b3aee2aa2a8ee683e530b1217724fd
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64
-Version: 0.1.35
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.1.35_iphoneos-arm64.deb
-Size: 52520
-MD5sum: 51acc2357b327a8f0ea2a30587acf3cb
-SHA1: 05b70143e58f4f880ebc3cee7afc390f44b20908
-SHA256: 50ca1da49f14719aee5f29dabcec1798a073042557b978f3c2d0e15b02b93b3e
-SHA512: dce4f24d425c7448e04058e8202e8830a185b47cbd3bdb475a3128872c6e21b465ded99caec0bdb6aed6e70550f9e5179fe5a6bcca552680469ce22cddf8c948
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64
-Version: 0.1.36.33
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64/com.be-huge.insulationn_0.1.36.33_iphoneos-arm64.deb
-Size: 52952
-MD5sum: d181f6b2c2d5102c0e8c73ac84251f84
-SHA1: 14f279faa263cc4edb8fb707ca0badc0f376e542
-SHA256: 894be5d4ec1e51cd507675e600afc6e2fa278651399ed0145998067b4dea4493
-SHA512: 0f2ef463175683257cf3b2ecfc431658f48031db21c02fa1338b2eb7b030df2e8c8a2d56717803dd26d565a06bb714d09624be7aa00135182ef73b9819ef56b6
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Insultation@10x.png?raw=true
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm64
@@ -18092,6 +18004,24 @@ SHA512: 3e68c88e76a0fcf00ceb1cc4e7b445dfb139bee8088e569174f3870dc276a9a25f98d0cb
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
+
+Package: com.doimty.promotion
+Architecture: iphoneos-arm64
+Version: 1.0.11
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.doimty.promotion_1.0.11_iphoneos-arm64.deb
+Size: 16710
+MD5sum: 25325a3c9a3b24dead546d42869d0b79
+SHA1: 5694e3949b3c33f2cfc809c24987b438d7abbb7f
+SHA256: a0d8465cf376eccfd60f39eaba986b89325d082e53fac4da9dae24fed8db5e7d
+SHA512: 49e971956a2ef63ef0dea964db24ba34b34167755caea44b00b060a98b460249608db3654f3c28029f969c5c0cf291266dfc7e58cc43a33011c862c4788f303f
+Description: Force global 120Hz ProMotion on iPhone 13 Pro+. Bypasses the 80Hz system cap and maintains 120Hz in apps that block tweak injection via a persistent keepalive DisplayLink.
+Tag: supports::roothide
+Name: ProMotion 120Hz
+Author: doimty
 
 Package: com.doimty.promotion
 Architecture: iphoneos-arm64
@@ -31069,6 +30999,25 @@ Name: FixWANotifs
 Author: 0xkuj
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/FWAN.png?raw=true
 
+Package: com.0xkuj.fixwanotifsextended
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: 0xkuj & Kernelrw
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.fixwanotifs
+Filename: ./debians/iphoneos-arm64e/com.0xkuj.fixwanotifsextended_1.1.0_iphoneos-arm64e.deb
+Size: 33960
+MD5sum: 736501887bce75b3b53a4a4ed7b1bbbe
+SHA1: 1b9d13b4c650d32ed19a905283a2545f983fa01d
+SHA256: de3549581177e6d0b099bbe11536932ab19b103a202d454acc0aff7600c5d6a9
+SHA512: fdce834fbd5eb1d6b87e5300ba7a6cf1e41c2ae951323b97e393d621005ab90e11d14c1854be26aac99cd2603f880817a2c123bf3f086be7eea34ec74471250b
+Description: Raises the Jetsam memory limit of WhatsApp's and common social apps notification ServiceExtension in order to fix missing notifications while those apps are closed. Userspace reboot is required after install
+Name: FixWANotifs Extended
+Author: 0xkuj & Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/FWAN.png?raw=true
+
 Package: com.0xkuj.installdpkg
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -32425,170 +32374,23 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
-Package: com.be-huge.insulationn
+Package: com.be-huge.insulation
 Architecture: iphoneos-arm64e
-Version: 0.0.3
+Version: 0.1.38
 Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), cy+cpu.arm64e
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.0.3_iphoneos-arm64e.deb
-Size: 69256
-MD5sum: 4bb983b39f7d7685988969d9dbe63601
-SHA1: fc8a986e71ed6f469342d4b2eb48430a0b3a4a63
-SHA256: 956454ce902e942433ccd0ea75637bb46fb20d08a432c74f7122dfd121a56cf1
-SHA512: 3e1eecd951c363df76dca1d5f7ff500d2a1abba532d361a21fa7a789a3f73ce95ce1b97cde8e6585739c7dabe2b6ca85ff387f990a3454dee9f6d1bdcf093772
-Description: Just unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64e
-Version: 0.0.4
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.0.4_iphoneos-arm64e.deb
-Size: 96476
-MD5sum: ad45d492b02123a9531309872fc14358
-SHA1: d9cc703fb4d0ca8af1073ffb569960c1ee2b82df
-SHA256: fb00bc53f37837cab535798e07b2d04a08003c5cd39c95c849027bd69bdc6f5a
-SHA512: d32fd0a76be2eb4ffbad0a99697a2026ca123a89165e19efa291155165d32a3aabc07145548a613deb97b9c980fee395a590919c8c99c9e3dee56bbae80d7d11
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64e
-Version: 0.0.5
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), cy+cpu.arm64e
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.0.5_iphoneos-arm64e.deb
-Size: 110504
-MD5sum: 76327dd4e6ebf2e6097089f7fda47d23
-SHA1: af644baf370e078e94e8cf672469260aebc36dc1
-SHA256: c6a9e65257ec4a18171a7986d2c1db94861330555af235b01e701b5d38cd10b7
-SHA512: 1c58380ec689063797bd637b49358d0f5c028fee2bc564df4060415e5928388873823c9c03a97368ee70dcc5f85b2cbdc58f47d3471117a12c3754689b530d17
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
+Maintainer: doimty
+Installed-Size: 780
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.be-huge.insulation_0.1.38_iphoneos-arm64e.deb
+Size: 55828
+MD5sum: f388db5da2d6132a1f54dd733234a7f6
+SHA1: b41f446b3389e8ba263c494a796c050fb4c862ea
+SHA256: d82f60769a15f7cdbb011c8abb2429a27ad6a0fa129b40fec353d7c48c78d2ae
+SHA512: 9137dfc8bec575bd413f595b1652d66ca27cd7b0c277d0296ba0fd802f298fc2249e45a2bedf149f9a1acaae3e6230b92a09d4b793e598c584e53fa7e4c03095
+Description: Uninstall temperature control and just keep everything simple. Supports command line switching modes: ins off (native temperature control) / ins low (low power) / ins max (full performance) / ins status (view current mode)
+Name: insulation
 Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64e
-Version: 0.1.20-End
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.1.20-End_iphoneos-arm64e.deb
-Size: 108612
-MD5sum: fcbeff9ab92a47ccbfc26864a9a4fb4d
-SHA1: ae4e1ac47be18af81be520ff0ac305a97aab70a2
-SHA256: 92b9c3bce4f50868c41090b8faa864274b8b3d9142772acd783beb0cf3043972
-SHA512: fa95c19f8c21afd4c51d11ddb9a519ec0e7ec8c994e98b64e572a3bec60349bf0b1a0bdbf18988dc51b8cefd5a4c4bc96ca32ec7f294795b8e551d8829405c70
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64e
-Version: 0.1.21
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.1.21_iphoneos-arm64e.deb
-Size: 110168
-MD5sum: 3671dd73741e35eee9fadc1e0e0b0432
-SHA1: 58eb54d1c55d0769ee9893ca5050397c01774b8c
-SHA256: 58b5cc0c6ed7db052d79b466f99407135d846b80761d08b4d6c01f32edebbc81
-SHA512: 4ceba11c4a29e4fe2ad83c07b68bfb957a38a537f31db4ac8ab9a74ca820bd15b7fbae736da142683b388440bc076786f11bf7cdf15ab295f0f47f84bb22b742
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64e
-Version: 0.1.31.1
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.1.31.1_iphoneos-arm64e.deb
-Size: 51068
-MD5sum: d349a9dba7f3ab5671f66c55daad3132
-SHA1: 42cda03fece73faf964731609b039df655b0ed67
-SHA256: d751fb33be7fe36361e1a3e01fcb10e35f98e38777a1c74bf5ff7e00d1902d45
-SHA512: 0151e635dd0b55744ab2ef2b18dc721d0e73d9cc0bcc76b99c3e9bb6153ca78535890da9fa011189daa28b33fe4fdc8ab20867437896222dc2f2d63e22027ac7
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-SileoDepiction: https://github.com/f0rd0w/f0rd0w.github.io/blob/main/depictions/native/Insulation/Insulation.plist
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64e
-Version: 0.1.31
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.1.31_iphoneos-arm64e.deb
-Size: 50524
-MD5sum: 46a32c1345bc0f27e0fda71db81dfe19
-SHA1: ff127be3c5e0994c45b929fb205cadf59f8af2d9
-SHA256: ae54430ea9d0b5b9028ffa09ea6f406b40be6ce643da891f56bddc128aa51fab
-SHA512: fdb76e92f05e4e90448968706f79a236cbc45aa65892536266389745ae8d507ee531c568d77a8802f3da74b2992268b63afa349f08ffa0e163e3291ed3048f2b
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64e
-Version: 0.1.35
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.1.35_iphoneos-arm64e.deb
-Size: 49308
-MD5sum: 41f71942028069a6f01739c0d545936e
-SHA1: f633d3ec28637037ddacf950fe2ab7fe5491b556
-SHA256: 419e28eef9eb8447562d1fec5ef6b1868e825a58fc5fedbf1fd9b6f11e1cf657
-SHA512: 6cc7f5e14b9f93613a0ee2a0349f2be7cc43d70cd72f5bdc071fa1bc02b3d1e96234b23d54c8aa5e3db237aca915efb6d72f6390ea198acab5e8ff08634b8b03
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
-SileoDepiction: https://github.com/f0rd0w/f0rd0w.github.io/blob/main/depictions/native/Insulation/Insulation.plist
-
-Package: com.be-huge.insulationn
-Architecture: iphoneos-arm64e
-Version: 0.1.36.33
-Section: Tweaks
-Maintainer: be-huge
-Installed-Size: 484
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64e/com.be-huge.insulationn_0.1.36.33_iphoneos-arm64e.deb
-Size: 50016
-MD5sum: 04512f19f0aad56151806e9bde6f5ddc
-SHA1: 5982aec6cb258052f330e13755fa14ad6baad59e
-SHA256: 6a7254c4b0ae2c0d8e8dc354dd795f39aadb5951ba89b9f6b6a3a7d06291cafb
-SHA512: 26abc9ea93fbcab8562526838f473abd342cc65e4215d26e6f4b387f5ff452e7de979cd40d7e8093af0dad5ec295bb6a4f0d7d58a27b9f82eb130feb57b12a0f
-Description: Unlock the temperature control and keep everything simple.
-Name: Insulation
-Author: be-huge & doimty
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Insultation@10x.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Insultation@10x.png?raw=true
 
 Package: com.brandonplank.haptic17
 Architecture: iphoneos-arm64e
@@ -34070,15 +33872,15 @@ Architecture: iphoneos-arm64e
 Version: 1.0.11
 Section: Tweaks
 Maintainer: doimty
-Installed-Size: 236
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Installed-Size: 108
+Depends: mobilesubstrate
 Filename: ./debians/iphoneos-arm64e/com.doimty.promotion_1.0.11_iphoneos-arm64e.deb
-Size: 16700
-MD5sum: a21c8004b2f3a4851d3869c27ea68a36
-SHA1: 31f0396631618aed3067b4d3aeef76e7fc068524
-SHA256: 98e56ab052373fef0a8cda4473756f6efcc6be9a892f02a51e17dc73f47949c4
-SHA512: 821832664cab657a66728657c3a43f18445f6f53e70e84265096f6aeef6320fabe18e0187c23d907e7162ba49b04cb4be0dce60f19498f54af1483a1df0c8840
-Description: Force 120Hz ProMotion — Overrides the 80Hz system limit. Requires iPhone 13 Pro or later.
+Size: 16586
+MD5sum: 5a0ee7e408dd8a65580c06ddf0be4c13
+SHA1: b2698740b46b77ab64d60d16e6044716b3a3adba
+SHA256: 440bf37bc3cdd0ccc5a0c823e861a4c514f4423e91dc2649ebb2e801c3596900
+SHA512: 67c507cfa2313d7da91a2b4cf122c1d1ac68e5f2efce76a4dbdd010e7820fd65bd8f40c31ee651f03b4f1608912df11c80b75bbf2373da9aa01453a29731bd51
+Description: Force global 120Hz ProMotion, bypass the 80Hz system cap. iPhone 13 Pro and above only.
 Tag: supports::roothide
 Name: ProMotion 120Hz
 Author: doimty
