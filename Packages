@@ -1910,13 +1910,13 @@ Maintainer: doimty
 Installed-Size: 780
 Depends: firmware (>= 15.0)
 Filename: ./debians/iphoneos-arm/com.be-huge.insulation_0.1.38_iphoneos-arm.deb
-Size: 56440
-MD5sum: 19bb83486eabd860218502158f4b8b30
-SHA1: 09cea26d971b34935a467b2fdf1562265cb401cd
-SHA256: f7b64a59920cf945268a5af893e341e20ab643419fbdbf2e71e74bc345766517
-SHA512: be9425a477c19ae1810cca05a61894ac8d927c5eb13c0de0ca96fa4991219fbe2562b01578c965f2c5de38975a94a44d80e3f308d67f4ab93bc305bf27abda72
+Size: 56380
+MD5sum: 25c2ea39de31e3c44aa480902dee7e18
+SHA1: e67ba9bb88e9e5f7a667041093f457ea2a874d57
+SHA256: 83bb46aa253c5c863dc8d757f7b59da1c9a4be988cdd6c5dd0d1b4217fc61c06
+SHA512: 00168a1abe1dd700417a77dee42340fdda54e57bf51011621db30cc0c58c0c523011cb7c5a008d5e067a687ad97a912a6098b1854a205ce41b07ec84a6450be1
 Description: Uninstall temperature control and just keep everything simple. Supports command line switching modes: ins off (native temperature control) / ins low (low power) / ins max (full performance) / ins status (view current mode)
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Insultation@10x.png?raw=true
 
@@ -16314,13 +16314,13 @@ Maintainer: doimty
 Installed-Size: 780
 Depends: firmware (>= 15.0)
 Filename: ./debians/iphoneos-arm64/com.be-huge.insulation_0.1.38_iphoneos-arm64.deb
-Size: 58444
-MD5sum: 296737c58086e7711aa6ecd0a7efeb22
-SHA1: 58fd6b4befb9294a77b724862116d7ad7127710b
-SHA256: bd60f36066ac4c616a3f1f077e50146d97a7490a6766fbfc224c8d8a0cf02773
-SHA512: 7d2819df3daf37792cd5910ecb47e22267501165cc7184ef8a6fd1e8430efb892e30664c04994522c9737b89d9cf71d6df6c358325663649307612c1582b0b0e
+Size: 58416
+MD5sum: 5f4b87b7baa2406edf769408f04eb27f
+SHA1: e0991f49ab1cb7b0db6825562bcec63f0905e0b1
+SHA256: bad16e966e4c0ad7b107c90c04b64c8c4e3161e8a9ae40543447d2c8bcb7fd8b
+SHA512: e1b163a80cd929e2fc7e7efe492c66f6bd4228693b8208336c4705863c9c21b02371673bbd990a40b8223f2d6a878cc3a1b4de904e94fd639054543e0ba5e219
 Description: Uninstall temperature control and just keep everything simple. Supports command line switching modes: ins off (native temperature control) / ins low (low power) / ins max (full performance) / ins status (view current mode)
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Insultation@10x.png?raw=true
 
@@ -32382,13 +32382,13 @@ Maintainer: doimty
 Installed-Size: 780
 Depends: firmware (>= 15.0)
 Filename: ./debians/iphoneos-arm64e/com.be-huge.insulation_0.1.38_iphoneos-arm64e.deb
-Size: 55828
-MD5sum: f388db5da2d6132a1f54dd733234a7f6
-SHA1: b41f446b3389e8ba263c494a796c050fb4c862ea
-SHA256: d82f60769a15f7cdbb011c8abb2429a27ad6a0fa129b40fec353d7c48c78d2ae
-SHA512: 9137dfc8bec575bd413f595b1652d66ca27cd7b0c277d0296ba0fd802f298fc2249e45a2bedf149f9a1acaae3e6230b92a09d4b793e598c584e53fa7e4c03095
+Size: 55824
+MD5sum: da8d0b81c2af718f0f80334cdb4ef90e
+SHA1: 423e38c0dc10471268b628c828e4e3118be31d79
+SHA256: 3ef18d06c7d4e91292788a15a98c3ed9ba01ff14530f3d1355e1f364e461a3be
+SHA512: 62cb7820ae1a5954af9a30deed03891cdd031b2402925ed9431e0c51e29311586703d9d7c50da5f291f72d1a01b1677cb753b4f475c49e0ab4b78a1ee01eb18e
 Description: Uninstall temperature control and just keep everything simple. Supports command line switching modes: ins off (native temperature control) / ins low (low power) / ins max (full performance) / ins status (view current mode)
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Insultation@10x.png?raw=true
 
