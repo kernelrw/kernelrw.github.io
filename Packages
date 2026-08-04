@@ -6661,6 +6661,24 @@ Author: Lee Heap <lee.heap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: lheap
 
+Package: com.liam.chatgbefree
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Liam
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.liam.chatgbefrees
+Filename: ./debians/iphoneos-arm/com.liam.chatgbefree_1.0.0_iphoneos-arm.deb
+Size: 3384
+MD5sum: 160175e6e69a63c5b905f3e59626cecd
+SHA1: 4eba190ccfbc0f2de177566df04b603588cd63f9
+SHA256: d51822233b878506b0353735fcd926512b5f66209ec4ebd9d1b906f06bb42560
+SHA512: 32823126f00afcca169d3a5c57c8a7e9c5f340a2a1d840e636d34df13d4e79e1a20e1a90f98a733afe54ddb1fc76f48be494ac5490b97515290c2eba95a32aa0
+Description: Bypass the forced 'sunset' upgrade screen in the ChatGPT app on iOS16 .
+Name: ChatGBeFree GPT
+Author: Liam
+
 Package: com.liuf.musicplayer
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -21047,6 +21065,24 @@ Author: Lee Heap <lee.heap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: lheap
 
+Package: com.liam.chatgbefree
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Liam
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.liam.chatgbefrees
+Filename: ./debians/iphoneos-arm64/com.liam.chatgbefree_1.0.0_iphoneos-arm64.deb
+Size: 3580
+MD5sum: 2b26b283438f3fb02b979205f06047a1
+SHA1: 40f0633ed4cae93bdbb1c3f4b89d8a548d17aa54
+SHA256: 45cc6c81154c01346ec9c950b5072cb7e1d245982b7653d76a4040f01c24b186
+SHA512: a51a891dec9b51bdcb64e015acc2c7e94fbc143298ef625817b8f48527716a4e1d8f028e7601c83bb22851665b0e2668f9ce52a153795376696bdf99405a11f9
+Description: Bypass the forced 'sunset' upgrade screen in the ChatGPT app on iOS16 .
+Name: ChatGBeFree GPT
+Author: Liam
+
 Package: com.liuf.musicplayer
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -31334,6 +31370,23 @@ Description: Dump lyrics from Apple Music.
 Name: AMLyrics
 Author: Lessica <82flex@gmail.com>
 
+Package: com.82flex.cranepkdserverfix
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 76
+Depends: firmware (>= 17.0), mobilesubstrate, com.opa334.crane
+Filename: ./debians/iphoneos-arm64e/com.82flex.cranepkdserverfix_0.0.1_iphoneos-arm64e.deb
+Size: 3636
+MD5sum: cc78050ed9df8729d3fd82f0a64caa4c
+SHA1: d2a76ae06f0cb3dcf68d9f1bdd6eb2365929fe2d
+SHA256: 435760e5b4c39ebafae1774cf259af5dc9b8bc34280c159ed8b90c497a33ce3d
+SHA512: 4e7ad9b68b61cef3b9f9f5f96cff089bea4639b7abe591ef1f655867bea19a472178e58853f11a75623885b5aa4807f2d6a16c9a7777bf2250722fb4444171d1
+Description: Repairs Crane PKDServer discovery on iOS 17.
+Name: Crane PKDServer Fix
+Author: 82flex
+
 Package: com.82flex.libsandyxpc
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -36903,6 +36956,25 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadDa
 Author: Lee Heap <lee.heap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: lheap
+
+Package: com.liam.chatgbefree
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Liam
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.liam.chatgbefrees
+Filename: ./debians/iphoneos-arm64e/com.liam.chatgbefree_1.0.0_iphoneos-arm64e.deb
+Size: 4850
+MD5sum: 078cfabe4e3fc3b5aaed603d4e81577d
+SHA1: 70df4bd3ea2f0202695adbcf541fb26e8540d11d
+SHA256: 2fea4ad33dd66c565383aa1f7d4e136e7025ca4f20c4d8db9e150c84c50405b8
+SHA512: 0b62350054e59899275a5e450c130955d364c05082e8ae2e6b055a7da52fde39c5a34f63974b04e622f1c8a4950af93388ba72d605a7751b8476d9fc1268a9d4
+Description: Bypass the forced 'sunset' upgrade screen in the ChatGPT app on iOS16 .
+Name: ChatGBeFree GPT
+Author: Liam
 
 Package: com.liuf.musicplayer
 Architecture: iphoneos-arm64e
