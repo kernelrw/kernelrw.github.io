@@ -14,7 +14,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Advanced, bulletproof app lifecycle manager for jailbroken devices. Re-engineered for maximum battery efficiency, thread safety, and premium native UI integration.",
+                    "markdown": "Advanced app lifecycle manager for jailbroken devices.",
                     "useRawFormat": true
                 },
                 {
@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Core Protections",
+                    "title": "Features",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -131,7 +131,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Advanced Features & UI",
+                    "title": "Control Center Integration",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -140,74 +140,27 @@
                     "spacing": 8
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Granular Menu Customization",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Declutter your UI! Choose exactly which protection categories appear in your 3D Touch and Control Center menus directly from the settings page.",
+                    "markdown": "Quickly toggle Adytum's master switch and manage app states directly from a convenient, native Control Center module.",
                     "useRawFormat": true
                 },
                 {
                     "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "spacing": 16
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Shareable Configuration Profiles",
+                    "class": "DepictionHeaderView",
+                    "title": "3D Touch Integration",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Curate your perfect app setup and export it to the clipboard as a Base64 string! Share your profiles online or instantly restore them after a RootFS restore with a single tap.",
-                    "useRawFormat": true
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "Apply & Purge Background Sweeper",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Instantly enforce your new configurations using the 'Apply & Purge' button. It safely hooks into the system to gracefully sweep and terminate unprotected backgrounded apps without needing a respring.",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Premium iOS 15+ Native Settings",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Natively styled with modern inset-grouped tables, complete with heavy, tactile haptic feedback for all destructive actions to deliver a true Apple-like experience.",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Bulletproof Under-The-Hood Architecture",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Completely re-engineered with thread-safe PID caching, asynchronous UI rendering for zero frame drops, battery-optimized daemon suppression, and universal Rootless/Roothide compatibility macros.",
+                    "markdown": "Long-press any app icon on your home screen to instantly apply or change its background state right from the native quick actions menu.",
                     "useRawFormat": true
                 },
                 {
@@ -232,7 +185,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "WhatsApp should be globally bypassed from settings for Termination Prevention due to strange behavior but you could use Prevent Suspension or Fast Freeze categories normally.",
+                    "markdown": "WhatsApp works perfectly with Fast Freeze and Prevent Suspension. It behaves strangely when targeted with Prevent Termination, so it has been bypassed for this category only. It functions normally with all other categories.",
                     "useRawFormat": true
                 },
                 {
@@ -248,6 +201,25 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Note",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Some applications, such as Safari, may require a userspace reboot for background state changes to take effect.",
                     "useRawFormat": true
                 },
                 {
@@ -300,7 +272,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.0.0 – Initial release. Packed with Shareable Profiles, Background Sweeper, Granular Customization, and bulletproof Rootless/Roothide support.",
+                    "markdown": "1.0.0 – Initial release.",
                     "useRawFormat": true
                 }
             ]
