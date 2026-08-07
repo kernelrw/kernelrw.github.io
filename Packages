@@ -737,6 +737,23 @@ Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
 
+Package: com.34306.watched
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/com.34306.watched_2.0_iphoneos-arm.deb
+Size: 5800
+MD5sum: 89d3ef47c521311409fe467be2434733
+SHA1: 75dfd4fde9b73860e59f438bece8dbac6088b2b4
+SHA256: a41568dd8c4dea03f714b4211d0e3afb67fa21f1f1ec7df803dd1f972975b514
+SHA512: 76a9b3c4833863865e0c84db7521e44366bd9bce3adabcf324ec53ba28beeacb55cc65f3a5912898548d730a848c9d1b996bcc0c5584a6aef380de86a4a402c7
+Description: Pair your Apple Watch on a newer watchOS than this iOS supports
+Name: watched
+Author: 34306
+
 Package: com.34306.watchedd
 Architecture: iphoneos-arm
 Version: 1.2-1
@@ -7046,6 +7063,23 @@ Author: mikifp
 SileoDepiction: https://raw.githubusercontent.com/miki-fp/repo/main/depictions/com.mikifp.khroma/depiction.json
 Icon: https://raw.githubusercontent.com/miki-fp/repo/main/assets/com.mikifp.khroma/icon.png
 
+Package: com.milkyway.reborn
+Architecture: iphoneos-arm
+Version: 1.0.0-23+debug
+Section: Tweaks
+Maintainer: MilkyWay Reborn
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/iphoneos-arm/com.milkyway.reborn_1.0.0-23+debug_iphoneos-arm.deb
+Size: 52216
+MD5sum: fe15a6851f62fef31f467f2dff8827e4
+SHA1: aaf55f11ab6ff64f174e5815633ef9977be1edf4
+SHA256: accc72af0aa7e1ed2bcca4ec5b6159deeeef24f45c801ec479b2e2218be5cd3f
+SHA512: 2875f53f1c6971758df398a33bb17d7441ea344fef37ae8a312a6fa96af7031b8decad3ae060bab8d0e7708c01c1e4d2cb7f2a0f86c9a56dc095bac370980e91
+Description: Windowed multitasking for iOS 17-18 and 26. A modern rewrite of MilkyWay2 by akusio.
+Name: MilkyWay Reborn
+Author: MilkyWay Reborn
+
 Package: com.miro.damnduration
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -11266,6 +11300,23 @@ Description: A powerful iOS tweak that provides an independent, gesture-based vo
 Name: VolumeBoostYT
 Author: vasirakcalgux
 
+Package: com.vivostyle.tweak
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: huy
+Installed-Size: 412
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/com.vivostyle.tweak_1.0.0_iphoneos-arm.deb
+Size: 30392
+MD5sum: 0fc759905a533abd5404fba88bd45207
+SHA1: 85e8db2287206f0617d481f5f59694d94ebe7f9e
+SHA256: 14af09c4a63b79d27925c4c4b7eebdd4bf9dd43393fd4eee3afc64b10b06a013
+SHA512: c718a6910e4503b78732d1deb2f3a6dbf0fd93f2220449da8ab270eec489199085d6ba90125a9416d04f347107c689dc8059656313fc9882b8c46caae80280ef
+Description: vivo OriginOS-style gyroscope "Flip Card" lock screen wallpapers — tilt to cross-fade between your own photos, with parallax depth. Configurable in Settings.
+Name: VivoStyle
+Author: huy
+
 Package: com.w3ltyyy.lead
 Architecture: iphoneos-arm
 Version: 1.4.2
@@ -15065,6 +15116,23 @@ SHA512: e5342bd71bf5f013b555ef2fa868aaff019b60773f76f5de147598b8bc37e49a0d3546a9
 Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
+
+Package: com.34306.watched
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.34306.watched_2.0_iphoneos-arm64.deb
+Size: 5602
+MD5sum: 460801249d001dcb607e1ec5b5840234
+SHA1: b6cbec4549a23be442d6b1e740ec64d34c32fa34
+SHA256: e5f5137fc1e85270ff4f125d707cd9c1680cc9304017031e351d669d1dbe2593
+SHA512: 510e12bf0f0cb9928f82d12320a81ee4de06d07c4cef7765ac1582f765559a0b93cf112a724c5247c00d69f1c08d36a194e453f65f00ac447d08fbe7383e3144
+Description: Pair your Apple Watch on a newer watchOS than this iOS supports
+Name: watched
+Author: 34306
 
 Package: com.34306.watchedd
 Architecture: iphoneos-arm64
@@ -19419,6 +19487,24 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.foxfort.krashkop
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 428
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.foxfort.krashkop_1.0.2_iphoneos-arm64.deb
+Size: 190944
+MD5sum: 5c6c4b8c0ee8e9f9bfc670b463e9abc6
+SHA1: edd06e9d08848ec48474a526f3072eb04fb43f64
+SHA256: 4ad3ca3d83291b21ae13933b04e77759b408c8a03b39d40e3b23ba8957e644ab
+SHA512: ca1f4b08772198d230e0a1cc4f4443ff1ea2def27851698706dedb3adc91af3d40bbcaa947c3b89f79336355c5da9d0db7750b1e3ce8f41c65ca4eb34f88864b
+Description: Lightweight crash reporter
+Name: KrashKop
+Author: FoxfortMobile
+Icon: file:///Applications/KrashKopApp.app/AppIcon60x60@2x.png
+
 Package: com.galacticdev.isponsorblock
 Architecture: iphoneos-arm64
 Version: 1.2.13
@@ -21444,6 +21530,23 @@ Name: Khroma
 Author: mikifp
 SileoDepiction: https://raw.githubusercontent.com/miki-fp/repo/main/depictions/com.mikifp.khroma/depiction.json
 Icon: https://raw.githubusercontent.com/miki-fp/repo/main/assets/com.mikifp.khroma/icon.png
+
+Package: com.milkyway.reborn
+Architecture: iphoneos-arm64
+Version: 1.0.0-23+debug
+Section: Tweaks
+Maintainer: MilkyWay Reborn
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/iphoneos-arm64/com.milkyway.reborn_1.0.0-23+debug_iphoneos-arm64.deb
+Size: 56898
+MD5sum: 94f844026f911d4f0d81b0a88491517c
+SHA1: c8e40da78480c4896daac1b6cbb2d9f9e43ba2d3
+SHA256: eb7859f71ad2925d3bf288aad865bb2704db0f7ec0a572fe1163dc71fe93d2e3
+SHA512: f2e970644e8b4f6649fbc1c7233c93053f5a25e48cef8d7e024ad26b4654e50bca4970024936f669530a729fca14dfce73592aea6e257e19b955aea1b572ff3c
+Description: Windowed multitasking for iOS 17-18 and 26. A modern rewrite of MilkyWay2 by akusio.
+Name: MilkyWay Reborn
+Author: MilkyWay Reborn
 
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64
@@ -26635,6 +26738,23 @@ Description: A powerful iOS tweak that provides an independent, gesture-based vo
 Name: VolumeBoostYT
 Author: vasirakcalgux
 
+Package: com.vivostyle.tweak
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: huy
+Installed-Size: 412
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.vivostyle.tweak_1.0.0_iphoneos-arm64.deb
+Size: 30270
+MD5sum: 98f64294f64014c11814d38c7bf6be8d
+SHA1: 5cc0ad9d63c11436a70448e3dfe24a09373242dd
+SHA256: b1ba7078635714224775be6aad382f774741330bcdd4e77197401c3951021f33
+SHA512: 40fc368a4d5e897f60369834c1896840fb3daff4f9e37902182d78dcedda04fceaf5ef5913764116b8d0a6fbb4677f5793a8cf9e765e63b6e5327702bbb0cea3
+Description: vivo OriginOS-style gyroscope "Flip Card" lock screen wallpapers — tilt to cross-fade between your own photos, with parallax depth. Configurable in Settings.
+Name: VivoStyle
+Author: huy
+
 Package: com.w3ltyyy.lead
 Architecture: iphoneos-arm64
 Version: 1.4.2
@@ -31264,6 +31384,23 @@ Description: Decrypt Appstore App that require higher iOS
 Name: TrollDecryptJB
 Author: 34306, khanhduytran0
 
+Package: com.34306.watched
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.34306.watched_2.0_iphoneos-arm64e.deb
+Size: 5544
+MD5sum: 6a7e15e8764103247f7abc05e89aa450
+SHA1: 57c6c7ce5600242dc73032dd53750ec274bd0587
+SHA256: 082c893af70a7e626f1852ef6916fd6c5d0a00a4b4c15f01b2bcb3a17b145637
+SHA512: 7beef3d8e9a9f6db6817a651832d2edbb4cacd7d2470c7653fd4095af31724c422a25c01a28df03157c416cf78212eb69d8be199b0653f305ac345ca938158d0
+Description: Pair your Apple Watch on a newer watchOS than this iOS supports
+Name: watched
+Author: 34306
+
 Package: com.34306.youtubedrl
 Architecture: iphoneos-arm64e
 Version: 1.0-2+debug
@@ -35082,6 +35219,25 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.foxfort.krashkop
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.foxfort.krashkop_1.0.2_iphoneos-arm64e.deb
+Size: 217542
+MD5sum: ef792351fc5ffc46bbd84ff2b52cfd0c
+SHA1: a9c938ec739e1cc877863eb4e1fa67634c29ee14
+SHA256: fb1c27aefb1248d7889aab88557d5ffb05cde0ec33a00f7a863ff55c961aed05
+SHA512: d93078b6a5aafde6783f9b1b37a127ce7501bb25dfdb3116c2f15e83fc0ee09514c3a087f7b0fe7a7b70a46a339be97facd64b99f7c740c72b2a8bd8ea6d893c
+Description: Lightweight crash reporter
+Name: KrashKop
+Author: FoxfortMobile
+Icon: file:///Applications/KrashKopApp.app/AppIcon60x60@2x.png
+
 Package: com.galacticdev.isponsorblock
 Architecture: iphoneos-arm64e
 Version: 1.2.13
@@ -37290,6 +37446,23 @@ SHA512: 804d15a2e989264cefd14b1a914560758702aa9fb3994057fc42316710c4b63b31791989
 Description: Always-on, one-tap, best-quality media downloader for Twitter/X. Adds a download button at the top-right of every tweet with media; saves photos at :orig quality and videos at the highest-bitrate mp4 straight to the camera roll, no confirmation, with a download percentage at the top-left.
 Name: TweetDownloader
 Author: mikey820
+
+Package: com.milkyway.reborn
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MilkyWay Reborn
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/iphoneos-arm64e/com.milkyway.reborn_1.0.0_iphoneos-arm64e.deb
+Size: 35586
+MD5sum: d97e68d55401bf0b3696dbd8f3a35e7e
+SHA1: b11ceda71523971be41d5d6c81b88e7ff848a8c0
+SHA256: 292c9bc63e5b2afebc6a27f11dd32d819ec17d7245ba379ac2b20b2d50c376c2
+SHA512: abd63de064508535ba117ebe7b637e5b2c6a8c53f32c498cdec9091bc92fbe14ddf3313d472d8278b0b0f95ae5e09f3405642820cae0da264a912ef9f93757ab
+Description: Windowed multitasking for iOS 17-18 and 26. A modern rewrite of MilkyWay2 by akusio.
+Name: MilkyWay Reborn
+Author: MilkyWay Reborn
 
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64e
@@ -43062,6 +43235,23 @@ SHA512: 89ae1f5122821ea74af86b9a101b056a4ae819b4f81019fa6baef33724597eaf474c4a6f
 Description: A powerful iOS tweak that provides an independent, gesture-based volume control for the YouTube app, completely separate from the system volume.
 Name: VolumeBoostYT
 Author: vasirakcalgux
+
+Package: com.vivostyle.tweak
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: huy
+Installed-Size: 412
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.vivostyle.tweak_1.0.0_iphoneos-arm64e.deb
+Size: 29220
+MD5sum: 80229b3b7aae0beaaeb4b8fa1b53e848
+SHA1: 3f00ccdb2059acade93ab659515bfda24c2ebdb3
+SHA256: a404bffdea1e07ec7015c7b0a6e371c448749477e4ce25ac7bbd52c6e0bb64cf
+SHA512: 5959421147dd4927f784ac586da1f3e356fe91fbb41b54ecc7cf915a91eae542085d6f5c3d2c3e9e69abbe5c2af09cd8f55a98c7bfd02234dfd27aa843538d0f
+Description: vivo OriginOS-style gyroscope "Flip Card" lock screen wallpapers — tilt to cross-fade between your own photos, with parallax depth. Configurable in Settings.
+Name: VivoStyle
+Author: huy
 
 Package: com.w3ltyyy.lead
 Architecture: iphoneos-arm64e
