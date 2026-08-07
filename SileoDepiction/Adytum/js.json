@@ -147,8 +147,19 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Includes a built-in WhatsApp ServiceExtension memory limit override that directly targets `runningboardd` to ensure reliable notification delivery. A special thanks and credit to developer [0xkuj](https://x.com/0xkuj?s=21) for his original work on the FixWANotifs tweak.",
+                    "markdown": "Includes a built-in WhatsApp ServiceExtension memory limit override that directly targets `runningboardd` to ensure reliable notification delivery. A special thanks and credit to developer 0xkuj for his original work on the FixWANotifs tweak.",
                     "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 6
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Follow 0xkuj on X",
+                    "action": "https://x.com/0xkuj?s=21",
+                    "openExternal": true,
+                    "tintColor": "#4A90E2"
                 },
                 {
                     "class": "DepictionSpacerView",
