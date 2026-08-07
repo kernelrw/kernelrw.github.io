@@ -141,6 +141,21 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "Integrated WhatsApp Notification Fix",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Includes a built-in WhatsApp ServiceExtension memory limit override that directly targets `runningboardd` to ensure reliable notification delivery. A special thanks and credit to developer [0xkuj](https://x.com/0xkuj?s=21) for his original work on the FixWANotifs tweak.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "Granular Menu Customization",
                     "useBoldText": true,
                     "useBottomMargin": false
@@ -232,7 +247,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "WhatsApp should be globally bypassed from settings for Termination Prevention due to strange behavior but you could use Prevent Suspension or Fast Freeze categories normally.",
+                    "markdown": "Due to irregular background behavior, WhatsApp should be excluded globally from Prevent Termination rules within the tweak settings. However, you can safely use the Prevent Suspension or Fast Freeze categories with it normally.",
                     "useRawFormat": true
                 },
                 {
@@ -300,7 +315,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.0.0 – Initial release. Packed with Shareable Profiles, Background Sweeper, Granular Customization, and bulletproof Rootless/Roothide support.",
+                    "markdown": "1.0.0 – Initial release. Packed with Shareable Profiles, Background Sweeper, Granular Customization, Integrated WhatsApp Notification fixes, and bulletproof Rootless/Roothide support.",
                     "useRawFormat": true
                 }
             ]
