@@ -17688,6 +17688,26 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/WireVolumeSlider.png?raw=true
 
+Package: com.daniel.sargon
+Architecture: iphoneos-arm64
+Version: 5.5
+Priority: optional
+Section: Tweaks
+Maintainer: Daniel
+Installed-Size: 29384
+Depends: ellekit | mobilesubstrate | substitute | libhooker, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.daniel.sargon_5.5_iphoneos-arm64.deb
+Size: 24100354
+MD5sum: dfb5573c1ec08749942c4b9e5ffae1c3
+SHA1: 05a9c4453c89812bb52de9ceb1c530f033f0e327
+SHA256: 791a9d288ae8d74a622ade02e5e7283d02d4f101839f5152b908719339f30f9f
+SHA512: 5e4a30b4467d0fcbbfecb5cdcb6db3380e9e048f1990671a0f79dd014f6702c12a3634ba1c9e30ffaf4829fad6c014ed39b20abfb800635704342ccfaf0e5805
+Homepage: https://aricx.app
+Description: Sargon Tweak - iOS 15+
+Name: Sargon X
+Author: Daniel
+Icon: Resources/AppIcon60x60@3x.png
+
 Package: com.darwindev.alternative-springboardservices
 Architecture: iphoneos-arm64
 Version: 0.1-2
@@ -25972,6 +25992,24 @@ Description: An awesome application!
 Name: SnowBoard
 Author: Spark
 
+Package: com.sparkle.sparkle
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: efibalogh
+Installed-Size: 36060
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.sparkle.sparkle_1.2.0_iphoneos-arm64.deb
+Size: 8890682
+MD5sum: 461157aadb2e4f4b5b83375f43491fa8
+SHA1: 0fc78dd3dbf90e5b0fec96bc136e5cedd0d2416d
+SHA256: 8f6b251fe4cb6fe5d75b04dab0fd0029052efdac41608bc1b64f93cc76fd3889
+SHA512: 944392b89159d8886f778072409d965b0658a3c102a6e7312bb3c24d7c0793053bcc108b8b8c80bbd23a17f88c8163f68acc52538f15443d87a1ec7fbc61b4fe
+Homepage: https://github.com/efibalogh/Sparkle
+Description: Bring the spark back to Instagram!
+Name: Sparkle for Instagram
+Author: efibalogh
+
 Package: com.sparklechan.swifty
 Architecture: iphoneos-arm64
 Version: 1.4.1
@@ -33755,6 +33793,27 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/WireVolumeSlider.png?raw=true
+
+Package: com.daniel.sargon
+Architecture: iphoneos-arm64e
+Version: 5.5
+Priority: optional
+Section: Tweaks
+Maintainer: Daniel
+Installed-Size: 29384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: ellekit | mobilesubstrate | substitute | libhooker, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.daniel.sargon_5.5_iphoneos-arm64e.deb
+Size: 49116158
+MD5sum: 204a2d3e1f74eb55629466f481b852f5
+SHA1: 963f84b6a5f37e715fa2a45fb0aee79143e1244d
+SHA256: 7d377204e4e6e0e12de7fdbabffc74c94c6e19ca95b56bebb56713e1f6284505
+SHA512: 0e52a9cbba5b4215d9dab44b8555294a20f5eb8007ddfc03c52240067d2520f9db412b31e6be86dc149649062ba73fcb5621c2ce38cd6b174eff19507002b675
+Homepage: https://aricx.app
+Description: Sargon Tweak - iOS 15+
+Name: Sargon X
+Author: Daniel
+Icon: Resources/AppIcon60x60@3x.png
 
 Package: com.daodao.sugarcane
 Architecture: iphoneos-arm64e
@@ -42540,6 +42599,25 @@ SHA512: 594b3be585ee78bff0cb70de7c34af993899b4f5e2f5df30f10531951c4cf581e0a9e79b
 Description: An awesome application!
 Name: SnowBoard
 Author: Spark
+
+Package: com.sparkle.sparkle
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: efibalogh
+Installed-Size: 36060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.sparkle.sparkle_1.2.0_iphoneos-arm64e.deb
+Size: 35273576
+MD5sum: f2118d0fddeacf4185804a9f37d449e9
+SHA1: 640725ed8f41807e26dfc76e5b2484c5ce031064
+SHA256: 44a58bf79f21810aec1439f3aa0dfcaae5ab47ddd4131dec796d817e557e76ec
+SHA512: ad4b6eeade64d6792e328c6ba9a2f9b6ff6304bb90abc979fdb1502001597cfd7ecf1f70e64f3c96b2a4944022ef45aa98921191971727f3c7dfb84f13f8e2ed
+Homepage: https://github.com/efibalogh/Sparkle
+Description: Bring the spark back to Instagram!
+Name: Sparkle for Instagram
+Author: efibalogh
 
 Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm64e
