@@ -18968,6 +18968,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: UISwitch changer
 Author: ElioFegh
 
+Package: com.emp0ry.localfence
+Architecture: iphoneos-arm64
+Version: 0.2.1
+Section: Applications
+Maintainer: emp0ry <avagyanerik13@gmail.com>
+Installed-Size: 3988
+Depends: firmware (>= 16.0), network-cmds
+Filename: ./debians/iphoneos-arm64/com.emp0ry.localfence_0.2.1_iphoneos-arm64.deb
+Size: 1936986
+MD5sum: 462997277723e53386e34aae22276136
+SHA1: 04e9ad318faaa1a0e5286a82819f093d656a5e5d
+SHA256: 2ec5a6938ca484430c957cdf89f1da8bdef32f038700f8396239633d80a4442c
+SHA512: ba84f67a70d34f62cac96c7f9fe2391997293bda2c6fc83f00f81e5c63259f9aa991b0b734ff0d04c912c58b7381249ff60ceecbb636203b6f1f45c697ffa4a0
+Description: Open-source local network inventory and reversible access control for authorized rootless jailbreak environments.
+Name: LocalFence
+Author: emp0ry
+
 Package: com.eolnmsuk.antidarksword
 Architecture: iphoneos-arm64
 Version: 4.9.2
@@ -21329,6 +21346,25 @@ Icon: https://github.com/roothide/RootHideManagerApp/blob/main/RootHide/Assets.x
 Depiction: https://github.com/roothide/RootHideManagerApp
 Support: https://github.com/roothide/RootHideManagerApp
 
+Package: com.m4fn3.mikkyy
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 1500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/iphoneos-arm64/com.m4fn3.mikkyy_1.0.1_iphoneos-arm64.deb
+Size: 346582
+MD5sum: f9b8626b5fd9c7800160492087290a9f
+SHA1: 8d561595a9814e8318fe57d309e7c8c3b575c7da
+SHA256: 40c01089ddfae4fb6549fb8819a0a36ef26f6f3b1063e2002d0419c16fff4792
+SHA512: a18f30fc975c10e670d3407c3783bc0798b89e3d50690e6ab39d329f102b8ab098c511791deb4e114b0592251cdf8f56366d621001db3d40be35d75e9334dcab
+Description: Modern, lightweight theme engine for iOS 16 through 26. Applies icon themes to the Home Screen, Dock, App Switcher, Share Sheet, Settings, folder previews, and live Calendar and Clock icons.
+Name: Mikkyy
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
+
 Package: com.macthemes.axolotl
 Architecture: iphoneos-arm64
 Version: 2504
@@ -23384,6 +23420,28 @@ Name: ReachToLockX
 Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.reachtolockx
 Icon: file:///Library/PreferenceBundles/ReachToLockXPrefs.bundle/icon.png
+
+Package: com.nicksworks.roadrunnerreborn
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Nick's Works <hadobedo@gmail.com>
+Installed-Size: 512
+Depends: firmware (>= 15.0), ellekit, preferenceloader, com.opa334.altlist
+Conflicts: com.nick.keepthepartygoing, se.nosskirneh.roadrunner
+Replaces: com.nick.keepthepartygoing, se.nosskirneh.roadrunner
+Filename: ./debians/iphoneos-arm64/com.nicksworks.roadrunnerreborn_1.0.0_iphoneos-arm64.deb
+Size: 48986
+MD5sum: 0a8d32a74cd15343e5bb01a8cd1278a5
+SHA1: 9a502a2025c9cf6098e588755e78ceb7268ec98f
+SHA256: a41ab174900ba6b6a4fb1556381bb12361e9477586dc3cf3c3e31b1ca469cd10
+SHA512: 2c8704a8e22c299abcddd3eb283257fcf82664310eed9d58cad8d47ac939ce09eb1cb5722a8121d039ddeaef9aeb42a882a47a435fcee5c44bafecdedf1c0268
+Homepage: https://github.com/hadobedo/RoadRunnerReborn
+Description: RoadRunner Reborn preserves Now Playing media and selected applications through SpringBoard resprings on modern iOS jailbreaks.
+Name: RoadRunner Reborn
+Author: Nick's Works (Hadobedo)
+SileoDepiction: https://hadobedo.github.io/repo/depictions/com.nicksworks.roadrunnerreborn.json
+Depiction: https://hadobedo.github.io/repo/depictions/com.nicksworks.roadrunnerreborn.html
 
 Package: com.nightwind.callendtime
 Architecture: iphoneos-arm64
@@ -37318,6 +37376,25 @@ Icon: https://github.com/roothide/RootHideManagerApp/blob/main/RootHide/Assets.x
 Depiction: https://github.com/roothide/RootHideManagerApp
 Support: https://github.com/roothide/RootHideManagerApp
 
+Package: com.m4fn3.mikkyy
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 1500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.m4fn3.mikkyy_1.0.1_iphoneos-arm64e.deb
+Size: 345370
+MD5sum: b5ca5b52c82adadef834ecf62c68c074
+SHA1: 183ab834d31e79a0c3f5c62965e0c0cdbeb54928
+SHA256: d973c9cae1fa7639c7f41fb3104e85d3b5fa372d2c5bf4b0e783642463fbdcc0
+SHA512: e12fb7e30b6f334f540ac3bda06b4149390a4f4df9e87a88a28ee86d6cf45277072f1fe36f318722f13bfdb4c914b0e0ec0afd49077c379e9d728e6a643d5ef0
+Description: Modern, lightweight theme engine for iOS 16 through 26. Applies icon themes to the Home Screen, Dock, App Switcher, Share Sheet, Settings, folder previews, and live Calendar and Clock icons.
+Name: Mikkyy
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
+
 Package: com.macthemes.axolotl
 Architecture: iphoneos-arm64e
 Version: 2504
@@ -39232,6 +39309,28 @@ Name: ReachToLockX
 Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.reachtolockx
 Icon: file:///Library/PreferenceBundles/ReachToLockXPrefs.bundle/icon.png
+
+Package: com.nicksworks.roadrunnerreborn
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Nick's Works <hadobedo@gmail.com>
+Installed-Size: 256
+Depends: firmware (>= 15.0), ellekit, preferenceloader, com.opa334.altlist
+Conflicts: com.nick.keepthepartygoing, se.nosskirneh.roadrunner
+Replaces: com.nick.keepthepartygoing, se.nosskirneh.roadrunner
+Filename: ./debians/iphoneos-arm64e/com.nicksworks.roadrunnerreborn_1.0.0_iphoneos-arm64e.deb
+Size: 37158
+MD5sum: 494be89c3d6d825ca0be920f6454e9a0
+SHA1: a691e13f79b4e545a5a458922c79df4486474651
+SHA256: 82d909e1862b32311a45c442c3476b578cd4b0bbfa892a9b7f5a287980c0a5a8
+SHA512: 31366ef2f0d631432249c030192f6e5b1c696f1f54fd64d5b4dc5feb066f0a77fff6843965ee5a98636374193627a5691994e70f0bbf8228787bfc78fa5b548e
+Homepage: https://github.com/hadobedo/RoadRunnerReborn
+Description: RoadRunner Reborn preserves Now Playing media and selected applications through SpringBoard resprings on modern iOS jailbreaks.
+Name: RoadRunner Reborn
+Author: Nick's Works (Hadobedo)
+SileoDepiction: https://hadobedo.github.io/repo/depictions/com.nicksworks.roadrunnerreborn.json
+Depiction: https://hadobedo.github.io/repo/depictions/com.nicksworks.roadrunnerreborn.html
 
 Package: com.nightwind.callendtime
 Architecture: iphoneos-arm64e
