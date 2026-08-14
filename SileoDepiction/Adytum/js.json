@@ -50,17 +50,6 @@
                 },
                 {
                     "class": "DepictionSpacerView",
-                    "spacing": 12
-                },
-                {
-                    "class": "DepictionButtonView",
-                    "text": "Watch Demo Video",
-                    "action": "YOUR_VIDEO_URL_HERE",
-                    "openExternal": true,
-                    "tintColor": "#4A90E2"
-                },
-                {
-                    "class": "DepictionSpacerView",
                     "spacing": 16
                 },
                 {
