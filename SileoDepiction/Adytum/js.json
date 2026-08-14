@@ -14,7 +14,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Advanced, bulletproof app lifecycle manager for jailbroken devices. Re-engineered for maximum battery efficiency, thread safety, and premium native UI integration.",
+                    "markdown": "Advanced app lifecycle manager for jailbroken devices. Engineered for maximum battery efficiency, thread safety, and premium native UI integration.",
                     "useRawFormat": true
                 },
                 {
@@ -41,6 +41,10 @@
                         {
                             "accessibilityText": "Screenshot 4",
                             "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_04.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot 5",
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_05.png"
                         }
                     ]
                 },
@@ -141,13 +145,13 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Integrated WhatsApp Notification Fix",
+                    "title": "Immortalizer Foregrounding Strategy",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Includes a built-in WhatsApp ServiceExtension memory limit override that directly targets `runningboardd` to ensure reliable notification delivery. A special thanks and credit to developer 0xkuj for his original work on the FixWANotifs tweak.",
+                    "markdown": "A special thanks and credit to developer SergeAlagon for his original work on the Immortalizer foregrounding strategy.",
                     "useRawFormat": true
                 },
                 {
@@ -156,8 +160,8 @@
                 },
                 {
                     "class": "DepictionButtonView",
-                    "text": "Huge Thanks 0xkuj",
-                    "action": "https://x.com/0xkuj?s=21",
+                    "text": "Huge Thanks SergeAlagon",
+                    "action": "https://x.com/srgndrlgn?s=21",
                     "openExternal": true,
                     "tintColor": "#4A90E2"
                 },
@@ -273,7 +277,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue is also present with Watchdog Pro and only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
+                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
                     "useRawFormat": true
                 },
                 {
@@ -298,7 +302,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "iOS Versions",
-                    "text": "iOS 15.0 – 18.x"
+                    "text": "iOS 15.0 – 16.7.16"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -326,7 +330,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.0.0 – Initial release. Packed with Shareable Profiles, Background Sweeper, Granular Customization, Integrated WhatsApp Notification fixes, and bulletproof Rootless/Roothide support.",
+                    "markdown": "1.0.0 – Initial release.",
                     "useRawFormat": true
                 }
             ]
