@@ -14450,6 +14450,28 @@ Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
 
+Package: Cydia
+Architecture: iphoneos-arm64
+Version: 1.1.49+rootless.1
+Priority: required
+Section: Packaging
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 3404
+Pre-Depends: dpkg (>= 1.18)
+Depends: apt, coreutils, debianutils, dpkg (>= 1.18), launchctl, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4)
+Filename: ./debians/iphoneos-arm64/Cydia_1.1.49+rootless.1_iphoneos-arm64.deb
+Size: 1120712
+MD5sum: ddbf657c2794a02f67edbe417cc4853f
+SHA1: 43dc3442af97a98c61713648c73f95483512cf07
+SHA256: 89f7eda2a7873551705e0e2acdb3181071fe8c6d76a4c8671e0455f758aa0a17
+SHA512: daabb414f51b1ce31fb372d917646a6d5c78c318c57320ec46ea2d66ca7e69bd82a7581bdac865bfb76b68b70b277b0498f60605bc061ea6a241d4b320067078
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, cydia::essential, role::enduser
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///var/jb/Applications/Cydia.app/Icon-60.png
+
 Package: ai.akemi.appinst
 Architecture: iphoneos-arm64
 Version: 2.1.1
