@@ -1013,6 +1013,43 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Name: TrollVNC
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.82flex.unseen
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debians/iphoneos-arm/com.82flex.unseen_0.0.2_iphoneos-arm.deb
+Size: 42852
+MD5sum: e8d9e83b2e2b88e257f27b26ee1fb1b8
+SHA1: ea9c0ceef72045c91c424bd90229cfe250594b2f
+SHA256: 6851b93b4849819b001d39c9db07c932f92e75ec7d8f9092a0c9c94d40741b51
+SHA512: 7cb2beb92473070f456f8e2b1ec7c63dacf56f86231439e2970e7ccce58795826e3dfb23ab78d79a1bceff0606a57c5804ac19a0a874af512c2b284754125844
+Description: Reduce ordinary iOS apps' ability to detect screenshots, screen recordings, and hidden layer flags.
+ Unseen reduces ordinary apps' ability to detect or interfere with screenshots, screen recordings, and hidden layer flags. Tested on iOS 15.0/16.x/18.3, arm64/arm64e.
+Name: Unseen
+Author: 82flex
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Unseen@10x.png?raw=true
+
+Package: com.82flex.unseen
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debians/iphoneos-arm/com.82flex.unseen_0.0.3_iphoneos-arm.deb
+Size: 44316
+MD5sum: 041b1bf97d6df7db712d462004b7eae7
+SHA1: 0fd858389e9b10ee6dc634a8a1f30a0efefc7364
+SHA256: edd960e6b6b872d2a276395cd1c247bb60de669fc84cf31c8327b77baa845f72
+SHA512: fc645c75097cd76e0316d42735b8953a7d46f1fc5293f1d0bf39a08222cae7e5b84766e4acd2a71b5bc9a453b75e1fe920bf0dc2c5ad0e381c44541f42bd2ea0
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Name: Unseen
+Author: 82flex
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Unseen@10x.png?raw=true
+
 Package: com.alilatif.beegram
 Architecture: iphoneos-arm
 Version: 1.0-350+debug
@@ -1782,18 +1819,18 @@ Maintainer: Baldaran
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Filename: ./debians/iphoneos-arm/com.baldaran.powercuff-r3vamp_1.5.0_iphoneos-arm.deb
-Size: 13104
-MD5sum: 0ad930dbe057c780c91370a6daf1fb44
-SHA1: 72514c391a6cf30157101b66171eca2069762e83
-SHA256: 51bf83881e9bb6028518025971587bc7828ec94eb0092c2b94eb7135c836fabe
-SHA512: 7bff4359583e0fa4c040852c76f300923e457d79d29c36765d5065b88003ef65372fc4367d124572dea45845c7e3de77d936aa670919a78b5de3517e5e9a15c8
+Size: 13108
+MD5sum: f4afd357d383adb0d0ff2908a68737b1
+SHA1: 73ffbcbf7e72ee7ff8b4d250eff2773c80212368
+SHA256: f7ed3da2a7d7c48ba24064078494d500c06b7aed49d1ac10b0f9794097a65633
+SHA512: 6e6dffd2bbbb5fe1750164ea414692cde84fc032513dacaed44de0e91bf87c836054e063e33a435c0166e37838ce5a6e246b6d557047eda490f3b196406f4115
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Advanced semi-autonomic power management for iOS 16. Includes IPC bridging and Iron Curtain screen-off throttling.
 Tag: role::developer, compatible::ios16
 Name: Powercuff R3vamp
 Author: rpetrich, dlevi309, Baldaran, F0rd0w
 Depiction: http://rpetri.ch/cydia/powercuff/
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff@100x.png?raw=true
+Icon: Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff@100x.png?raw=true
 
 Package: com.baldaran.powercuff-r3vamp
 Architecture: iphoneos-arm
@@ -1803,18 +1840,18 @@ Maintainer: Baldaran
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Filename: ./debians/iphoneos-arm/com.baldaran.powercuff-r3vamp_1.5.1_iphoneos-arm.deb
-Size: 29812
-MD5sum: 0e80cd19464958edd4f7c080c60ab704
-SHA1: 133c5f5cde9b2126c6b4dfe8666e5abe218c4f83
-SHA256: 98e1e648caa25e56b89e1e51d7f068461eee7a30b82589ae947f7b49eda3af2a
-SHA512: 34a4a1f9f8a3af875c44fd068d792875ec33707dbcc299beb91105e7a383c89b046559af4df8efd36a48d4742610ca7a7b7c5ae0db7444183c25fe12fa90c8a2
+Size: 29816
+MD5sum: f70d8c038ce826b430aec8834e9ddd86
+SHA1: 4a33387b5e9dbd732bb7031c5458c125eeddd0df
+SHA256: 70dfc8b8fabbd72ca3427b899bb46e16fce7bfdf95df3e3634a8fa53af1f04bc
+SHA512: 60cd486ef66ab76accf11d841e7e7a0f1494f8d4a56cf7badf50a90cbec75d7b01c33fc32650c94c398ff3cbb82d3267f5d43f8545e8a236653ca4ecd8713989
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Advanced semi-autonomic power management for iOS 16. Includes IPC bridging and Iron Curtain screen-off throttling. Added control center switch .
 Tag: role::developer, compatible::ios16
 Name: Powercuff R3vamp
 Author: rpetrich, dlevi309, Baldaran, F0rd0w
 Depiction: http://rpetri.ch/cydia/powercuff/
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff@100x.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff@100x.png?raw=true
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm
@@ -9907,11 +9944,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 388
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101)
 Filename: ./debians/iphoneos-arm/com.rpetrich.powercuffcc_0.1_iphoneos-arm.deb
-Size: 29740
-MD5sum: a76d7a2f2d7c71607aa347fc55a278e6
-SHA1: 4612365892115586e8410c94debd10fb4f20b968
-SHA256: beb9645c556c5e04f76d56cc8fa03ae731bba27579bdf0c8a10f3394fc3b7d92
-SHA512: 24e0695f101ce484336de0e4425535b0d3462e63cac71cd9a40675b45cdf47c1a8c47669e175d231dcac56cdf0e21ca1bb2586f15bdc16e0cd55daf7bd34c0f9
+Size: 29748
+MD5sum: 4547ae4afff8c05d71d9918196f028d1
+SHA1: 2bf394a3157308987d5a5788baf6fbef3d460f81
+SHA256: b73df55b9522b5e5b5c5e156a1d5c55d9b42fa3ce85d5de80521eacc9b94d279
+SHA512: c69d80a73afaf753f7a02cae870b62bc50337e7a0dfa9eb7c50f866ac5204cb11bdcfff56ada62c73609f54a9d39aa2776e0a6284dd484c61c09864ed97c76c3
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states , now with a control center toggle .
 Tag: purpose::extension
@@ -9920,7 +9957,7 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff@100x.png?raw=true
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
@@ -14460,17 +14497,17 @@ Installed-Size: 3404
 Pre-Depends: dpkg (>= 1.18)
 Depends: apt, coreutils, debianutils, dpkg (>= 1.18), launchctl, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4)
 Filename: ./debians/iphoneos-arm64/Cydia_1.1.49+rootless.1_iphoneos-arm64.deb
-Size: 1120712
-MD5sum: ddbf657c2794a02f67edbe417cc4853f
-SHA1: 43dc3442af97a98c61713648c73f95483512cf07
-SHA256: 89f7eda2a7873551705e0e2acdb3181071fe8c6d76a4c8671e0455f758aa0a17
-SHA512: daabb414f51b1ce31fb372d917646a6d5c78c318c57320ec46ea2d66ca7e69bd82a7581bdac865bfb76b68b70b277b0498f60605bc061ea6a241d4b320067078
+Size: 1120768
+MD5sum: 8667439adca5e80f481d94250233d782
+SHA1: 30474915511cdf77fb450afbf2f5a3fd0daba1a1
+SHA256: 680bb73e4eb38549ab4c43f0181b93e3bf4a4c439c4d07a2063e65896734b4d7
+SHA512: 205a1ead214cd45339003f0fa9cdb707802cadf8953b5bd1d0435fee53eb1c72c4c0d46f2e325d88bcd670d7d81dd131768242a4253c61db8f7cefbe348569a1
 Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, cydia::essential, role::enduser
 Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///var/jb/Applications/Cydia.app/Icon-60.png
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Cydia.png?raw=true
 
 Package: ai.akemi.appinst
 Architecture: iphoneos-arm64
@@ -15467,6 +15504,43 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Name: TrollVNC
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debians/iphoneos-arm64/com.82flex.unseen_0.0.2_iphoneos-arm64.deb
+Size: 42912
+MD5sum: 9f0950c431aa2fb5c79d83f9f09d5ed4
+SHA1: 577ff6911563c37990e2cb51f4d5e7ebedd92a81
+SHA256: f261b46682a5ba557b6fe6991ad6c698127a4a685649069a9ea904d93b09e511
+SHA512: c45cd45e2641f8921714811ed566df94f9e79eba5c5d125950dc27ffb451fb106f6cb91e1c003deee0b915f518d2242098533cc96ab060373176f6388f25faa8
+Description: Reduce ordinary iOS apps' ability to detect screenshots, screen recordings, and hidden layer flags.
+ Unseen reduces ordinary apps' ability to detect or interfere with screenshots, screen recordings, and hidden layer flags. Tested on iOS 15.0/16.x/18.3, arm64/arm64e.
+Name: Unseen
+Author: 82flex
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Unseen@10x.png?raw=true
+
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debians/iphoneos-arm64/com.82flex.unseen_0.0.3_iphoneos-arm64.deb
+Size: 44392
+MD5sum: 73d67c539d9863592daf74b0c2c42927
+SHA1: 7b32211572bbce146fab081f8238977c258169fc
+SHA256: 30a2c2d116d6a9fabea03548371fa0499e96e33772b50796e50a507d8e8900a0
+SHA512: 6ea5fe08c9dc90391fa2ec28402b653534c438d2d66bae79fa2b696d3504293e3f22be4d93f66b7e4b5cb3c1dc3432e40911523dbedecee5761c7bbf0bd1db80
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Name: Unseen
+Author: 82flex
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Unseen@10x.png?raw=true
+
 Package: com.alaise.azule
 Architecture: iphoneos-arm64
 Version: 0.8.3
@@ -16277,18 +16351,18 @@ Maintainer: Baldaran
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debians/iphoneos-arm64/com.baldaran.powercuff-r3vamp_1.5.0_iphoneos-arm64.deb
-Size: 13184
-MD5sum: 8a436590f08ac20288e754c8836ff5b1
-SHA1: 62c9ee2f4f51d6e1a21f9c00cbaae8699ebd6af6
-SHA256: b1ecb2fdf84e0a3db709821b41deff0e16f4dbcf7f2907e70280fa0967b23057
-SHA512: d102bf2de006e26a764184c4d50e9ed5a70916f1828bfb06ccafac7133c81e89b597f55f895bdb537707bdc3856013f3b451aab4ccb34debac13e2988fe70fc7
+Size: 13176
+MD5sum: 8e49914d890574363701d07afbdf88fd
+SHA1: 86903573d63e050c295b3729e27922612f934289
+SHA256: 9e2f3b00b019845ae0b24e18a84eabdfc14d132d52c039a0068852d7cd493eb1
+SHA512: 49bd1b390fad15d79335db6842932960c7bf57d54c8761fc5379dd5d03128d808b79746ef94f214a03fa4bd7e5be3cd6bf5180df357a4839e4c6fbba1d63e7ec
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Advanced semi-autonomic power management for iOS 16. Includes IPC bridging and Iron Curtain screen-off throttling.
 Tag: role::developer, compatible::ios16
 Name: Powercuff R3vamp
 Author: rpetrich, dlevi309, Baldaran, F0rd0w
 Depiction: http://rpetri.ch/cydia/powercuff/
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff@100x.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff@100x.png?raw=true
 
 Package: com.baldaran.powercuff-r3vamp
 Architecture: iphoneos-arm64
@@ -16298,18 +16372,18 @@ Maintainer: Baldaran
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debians/iphoneos-arm64/com.baldaran.powercuff-r3vamp_1.5.1_iphoneos-arm64.deb
-Size: 29884
-MD5sum: 49d776586d4bab51f2d74da51c7eb0e6
-SHA1: a4f0681f5f9d47c6b9351aab9babbe34ed3f15de
-SHA256: 5f47621fc1088925a76ebc2eea49639419ce97c8d64851016da1bc1695474a97
-SHA512: cf394d03721bd2538c2ab6811e91e56ef54c8a0d3ec2b7470ddd550ccd23db46b0671231f3cad6087e07df3b7c3489ba3519cbb76c31a9a8cf0edbb65d3955b5
+Size: 29900
+MD5sum: 77af15ba9a4e51e93d71f18ad42eeb6c
+SHA1: e712d640392fd69ae7a8fb6e8070f471df6afc7c
+SHA256: f9907f6ae3ecbacf7b9c1c0aa307434e95cb0ee6bb69a7fbdb9b1688e73189b8
+SHA512: 52c2d7612364dc044d475f3319b33e7f60d8f1fd9948c9a7825d79d11c7b8531a3ee1ffec7a0d10a47e96a7e533f171b8cb57bf45791dbf88decb2d5ffb2fdcc
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Advanced semi-autonomic power management for iOS 16. Includes IPC bridging and Iron Curtain screen-off throttling. Added control center switch.
 Tag: role::developer, compatible::ios16
 Name: Powercuff R3vamp
 Author: rpetrich, dlevi309, Baldaran, F0rd0w
 Depiction: http://rpetri.ch/cydia/powercuff/
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff@100x.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff@100x.png?raw=true
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64
@@ -25155,11 +25229,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 388
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101)
 Filename: ./debians/iphoneos-arm64/com.rpetrich.powercuffcc_0.1_iphoneos-arm64.deb
-Size: 29816
-MD5sum: bafaac39fc09756a30634650519d6e38
-SHA1: 645953ab66785507f2af1db99c423189ddae5675
-SHA256: fa078d3464cee81b2c21abbad47ba168e3fd50a6436d95a75b3b3276b2c2e915
-SHA512: fec6cc2ebe765ca1d36f4d053ba6d27a66e5db81eff6866b30db98fb89af2a9c17e7d38ffb73ec5be91ab5ed989f9ea346681e41b6ad5c69c8e1937491bcb3af
+Size: 29824
+MD5sum: 9f306dca67b914edb0ba7a9ed08da2a1
+SHA1: 6c3c4c26fc6ea080a4b95c4add9337eeceb379d5
+SHA256: e324a97fd5ebdc4b33a87986f7608f741b0644f62d113fd33379db813dac7eed
+SHA512: 465733b9de447822ca817707ded00737f86af921d9342ae57416e8f832bf530eb8bf304626cc35a9524ecb80a7c9475ad75296ac8c9947404c53e047186c37e3
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states , now with a control center toggle .
 Tag: purpose::extension
@@ -25168,7 +25242,7 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64
@@ -31764,6 +31838,43 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Name: TrollVNC
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.82flex.unseen_0.0.2_iphoneos-arm64e.deb
+Size: 42872
+MD5sum: ceb9ab924670157c91599ea43e970755
+SHA1: 0f3ce0f72d621bd54eabb5e92605ecc4926157ed
+SHA256: 835b762277cefbeff5b77d42d5317647763c65f0172f7bc98c1154678744092a
+SHA512: 62e89e6b6635166447a52ea7f582774f2a15e71f71a29d7292d6f7be0f05fd76af19ceaaa26a70db89cc3da14f024e42b411936ee6763fb6498fbd02e61338f3
+Description: Reduce ordinary iOS apps' ability to detect screenshots, screen recordings, and hidden layer flags.
+ Unseen reduces ordinary apps' ability to detect or interfere with screenshots, screen recordings, and hidden layer flags. Tested on iOS 15.0/16.x/18.3, arm64/arm64e.
+Name: Unseen
+Author: 82flex
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Unseen@10x.png?raw=true
+
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.82flex.unseen_0.0.3_iphoneos-arm64e.deb
+Size: 44336
+MD5sum: 7cf31d2cd09023601ef2f28a3950e112
+SHA1: 47975dedf449c00abda3958472ff83e7bb0f9fbd
+SHA256: 20aa1d5863ad8c1bbfe205af1cdf1896a051057cf01f82582af1413b50ce47ec
+SHA512: 4bfe2c0676bbe49813fa196ed30b4bac91f0341dce1db8d20191f2dde50ec04a5fc0968bce5f4dd327553869bd8ea65e0a3867ef498018b26e3e321cceb00109
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Name: Unseen
+Author: 82flex
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Unseen@10x.png?raw=true
+
 Package: com.alaise.azule
 Architecture: iphoneos-arm64e
 Version: 0.8.3
@@ -32538,18 +32649,18 @@ Maintainer: Baldaran
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debians/iphoneos-arm64e/com.baldaran.powercuff-r3vamp_1.5.0_iphoneos-arm64e.deb
-Size: 13104
-MD5sum: dc9fc273db2cf314e3c3df2cca094e59
-SHA1: 9ccca812bd57bfb934c40b51a5b58086a1b960b6
-SHA256: c780652f712af89015e55841ff384a52d32e166c6671e33f7499ce689aff5a83
-SHA512: fa8c2823219ca0b1c5caf962522ca58887acb14c96877a868d4713401b7f4922a97463e3c749f88fd724f01aca431776a56a04eae6bbe7df76127bc9e036501b
+Size: 13124
+MD5sum: 26d2ba1713fb4f024c08b3a5870c5368
+SHA1: 9c72b670826774efa70e23b323c9609deb5e51d0
+SHA256: 2e0c49aa0edf5227532666021c84151c4e4a34f25ef6b406f1cdac61ad7c606c
+SHA512: b0749b021c88a81a5e67ea59a24e644c13d9b64e0b99f813015d0987655cc757cb8235587e1d1033ed2265cf11af2b9ce8d45c6d306e1e0bcd63d3644052a2e3
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Advanced semi-autonomic power management for iOS 16. Includes IPC bridging and Iron Curtain screen-off throttling.
 Tag: role::developer, compatible::ios16
 Name: Powercuff R3vamp
 Author: rpetrich, dlevi309, Baldaran, F0rd0w
 Depiction: http://rpetri.ch/cydia/powercuff/
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff@100x.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff@100x.png?raw=true
 
 Package: com.baldaran.powercuff-r3vamp
 Architecture: iphoneos-arm64e
@@ -32559,18 +32670,18 @@ Maintainer: Baldaran
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debians/iphoneos-arm64e/com.baldaran.powercuff-r3vamp_1.5.1_iphoneos-arm64e.deb
-Size: 29824
-MD5sum: 69793259dc83edcb90e0cb3744db13e1
-SHA1: 8ff3b4bceb9ad704cc558b0baeac9cc5ad9bbd65
-SHA256: ce479d06dc8a8e0254b116637ecb09b477550cdf218a52b2ad502922dd3bc736
-SHA512: 24cfb2f42b2c068a2600ed2bc20362e8d794fd130f982d069783a7011c1108977ce2bb6ff626fc45889d5700d6edaca8ff8da6bf4382c8d9943dffd0cda87982
+Size: 29820
+MD5sum: 932ab6a77afa50a1d85669f2e2620f36
+SHA1: 2004813cad39aa3c4dfbb2e7b458eecf5e1495eb
+SHA256: 133b990baf60146ef0a1884f11c1347152bcdfac03090002038e11a11d332b03
+SHA512: 92cf52de013483ac1446ab6b28fbfe48abd5a8df9957500a75efebe5a742da27b893bbcab63918a6ab62fdc0b49770f696ce86c02ac19be5a6de2815328bf37e
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Advanced semi-autonomic power management for iOS 16. Includes IPC bridging and Iron Curtain screen-off throttling. Added control center switch.
 Tag: role::developer, compatible::ios16
 Name: Powercuff R3vamp
 Author: rpetrich, dlevi309, Baldaran, F0rd0w
 Depiction: http://rpetri.ch/cydia/powercuff/
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff@100x.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff@100x.png?raw=true
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64e
@@ -41590,11 +41701,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 388
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101)
 Filename: ./debians/iphoneos-arm64e/com.rpetrich.powercuffcc_0.1_iphoneos-arm64e.deb
-Size: 29848
-MD5sum: 5e85ff4fb63db4011aa74dd59918ed1d
-SHA1: 338773c4cf953cf3884a61fbd793945b5a4d2234
-SHA256: 3cb60d1ca932da0cca1ad15acba98d9172a5a5682bc46b3386451e4854cc080f
-SHA512: 03964cf7b77edafefd3028dcbb0fdecdb88b48992fa319f4968387cd6c8f6e6dd037a0eb2ca03c261c60ca2672ad7d7f53e7a109c9b118fd9fa4e807fe5788cd
+Size: 29844
+MD5sum: 84d49ac257d04a93936dd5f13530060d
+SHA1: baa3bcc68696b552639cbb2aa38470e2a4c23913
+SHA256: c2da7744b07efe889ea1b3588ffa61651aa8769786323e4b4debbc53d1044061
+SHA512: e3cf01339b9785139157b3b0038aee84cbcb5de654bbdc2325492591a418d09dc52ac4a95a6c31314d102892a4264cd5f1a0a83bd2bf9c48c558aadadeaebc90
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states , now with a control center toggle .
 Tag: purpose::extension
@@ -41603,7 +41714,7 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Powercuff.png?raw=true
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Powercuff.png?raw=true
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm64e
