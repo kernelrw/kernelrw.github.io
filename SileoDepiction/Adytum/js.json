@@ -63,7 +63,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "Prevent Termination",
           "useBoldText": true,
           "useBottomMargin": false
@@ -78,7 +78,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "Prevent Suspension",
           "useBoldText": true,
           "useBottomMargin": false
@@ -93,7 +93,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "Fast Freeze",
           "useBoldText": true,
           "useBottomMargin": false
@@ -108,7 +108,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "PREVENT TERM+FAST FREEZE",
           "useBoldText": true,
           "useBottomMargin": false
@@ -133,7 +133,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "WhatsApp Notification Fix",
           "useBoldText": true,
           "useBottomMargin": false
@@ -145,21 +145,20 @@
         },
         {
           "class": "DepictionSpacerView",
-          "spacing": 6
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Special Thanks 0xKuj (FixWANotifs)",
-          "action": "https://x.com/0xkuj?s=21",
-          "openExternal": true,
-          "tintColor": "#4A90E2"
-        },
-        {
-          "class": "DepictionSpacerView",
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionTableButtonView",
+          "title": "Special Thanks: 0xKuj (FixWANotifs)",
+          "action": "https://x.com/0xkuj?s=21",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "Immortalizer Foregrounding Strategy",
           "useBoldText": true,
           "useBottomMargin": false
@@ -171,21 +170,20 @@
         },
         {
           "class": "DepictionSpacerView",
-          "spacing": 6
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Huge Thanks SergeAlagon",
-          "action": "https://x.com/srgndrlgn?s=21",
-          "openExternal": true,
-          "tintColor": "#4A90E2"
-        },
-        {
-          "class": "DepictionSpacerView",
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionTableButtonView",
+          "title": "Special Thanks: SergeAlagon",
+          "action": "https://x.com/srgndrlgn?s=21",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "Granular Menu Customization",
           "useBoldText": true,
           "useBottomMargin": false
@@ -200,7 +198,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "Shareable Configuration Profiles",
           "useBoldText": true,
           "useBottomMargin": false
@@ -215,7 +213,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "Apply & Purge Background Sweeper",
           "useBoldText": true,
           "useBottomMargin": false
@@ -230,7 +228,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "Premium iOS 15+ Native Settings",
           "useBoldText": true,
           "useBottomMargin": false
@@ -245,7 +243,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "Bulletproof Under-The-Hood Architecture",
           "useBoldText": true,
           "useBottomMargin": false
@@ -270,7 +268,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "WhatsApp",
           "useBoldText": true,
           "useBottomMargin": false
@@ -285,7 +283,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
+          "class": "DepictionSubheaderView",
           "title": "Facebook",
           "useBoldText": true,
           "useBottomMargin": false
@@ -317,12 +315,12 @@
         {
           "class": "DepictionTableTextView",
           "title": "iOS Versions",
-          "text": "iOS 15.0 – 16.7.16"
+          "text": "iOS 15.0 – 16.7"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Jailbreaks",
-          "text": "Dopamine, Roothide"
+          "text": "Palera1n, Dopamine, Roothide"
         },
         {
           "class": "DepictionTableTextView",
