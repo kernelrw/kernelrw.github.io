@@ -14487,28 +14487,6 @@ Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
 
-Package: Cydia
-Architecture: iphoneos-arm64
-Version: 1.1.49+rootless.1
-Priority: required
-Section: Packaging
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Installed-Size: 3404
-Pre-Depends: dpkg (>= 1.18)
-Depends: apt, coreutils, debianutils, dpkg (>= 1.18), launchctl, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4)
-Filename: ./debians/iphoneos-arm64/Cydia_1.1.49+rootless.1_iphoneos-arm64.deb
-Size: 1120768
-MD5sum: 8667439adca5e80f481d94250233d782
-SHA1: 30474915511cdf77fb450afbf2f5a3fd0daba1a1
-SHA256: 680bb73e4eb38549ab4c43f0181b93e3bf4a4c439c4d07a2063e65896734b4d7
-SHA512: 205a1ead214cd45339003f0fa9cdb707802cadf8953b5bd1d0435fee53eb1c72c4c0d46f2e325d88bcd670d7d81dd131768242a4253c61db8f7cefbe348569a1
-Description: graphical iPhone front-end for APT
-Tag: purpose::uikit, cydia::essential, role::enduser
-Name: Cydia Installer
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/cydia/
-Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Cydia.png?raw=true
-
 Package: ai.akemi.appinst
 Architecture: iphoneos-arm64
 Version: 2.1.1
@@ -27451,6 +27429,48 @@ Description: Battery Percent on iOS 15
 Name: SnoolieBattery
 Author: Snoolie K
 
+Package: cydia-lproj
+Architecture: iphoneos-arm64
+Version: 1.1.49+rootless.1
+Priority: required
+Section: Packaging
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 356
+Depends: cydia
+Filename: ./debians/iphoneos-arm64/cydia-lproj_1.1.49+rootless.1_iphoneos-arm64.deb
+Size: 66920
+MD5sum: efb2aa11441a7b999b276621f43a2f8d
+SHA1: cf0e11b77af61ca65fa8c07d245994c5a4fb7d7e
+SHA256: b9f4a89af9b0786728efc69471a94553522c64115aecbbc61373a85a8574722c
+SHA512: 999cbb2b777d1133aeabd5d563558da4345894e216cd49eac7d8cc2d4c9a13a7efce47d6fdf86f7bf40168afe0b87a8e6d8a8dcbd8954c7f1cb6b6d4b2b65012
+Description: languages and translations for Cydia
+Tag: purpose::uikit, cydia::essential, role::enduser
+Name: Cydia Translations
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+
+Package: cydia
+Architecture: iphoneos-arm64
+Version: 1.1.49+rootless.1
+Priority: required
+Section: Packaging
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 3404
+Pre-Depends: dpkg (>= 1.18)
+Depends: apt, coreutils, cydia-lproj (>= 1.1.10), debianutils, dpkg (>= 1.18), launchctl, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4)
+Filename: ./debians/iphoneos-arm64/cydia_1.1.49+rootless.1_iphoneos-arm64.deb
+Size: 1053448
+MD5sum: 725e2edb9911fd961260b396cdca1aaa
+SHA1: f4a7ce3cbac3022660048dd87b422f911c63b95a
+SHA256: bdc5d50a57f240deebc36870826ead94f8f656d2fd2eb6f83817dd917493ead6
+SHA512: 936736046ca7ee2c5a0b244dba57b11775f4bf716e619721da839bdb75a24f6869f4beac73402686f7f4e97d7c2ff5685423f76c7d7ca4c322b383fa85025b86
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, cydia::essential, role::enduser
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///var/jb/Applications/Cydia.app/Icon-60.png
+
 Package: daniel.conditional
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -30619,6 +30639,30 @@ Author: Saily Team <support.0xa1@qaq.wiki>
 Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
+Package: wiki.qaq.ighostty
+Architecture: iphoneos-arm64
+Version: 0.2.4
+Priority: optional
+Section: Utilities
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 18760
+Depends: firmware (>= 15.0), uikittools
+Filename: ./debians/iphoneos-arm64/wiki.qaq.ighostty_0.2.4_iphoneos-arm64.deb
+Size: 8199442
+MD5sum: 9b80bce78123dce37f145414074ff931
+SHA1: b9aa6cfeaaa783bb32be0603cb1a84922046bba0
+SHA256: 5c94a7962dd91ceece5847c76718b8855fce69235b4a0420593a9addaf8564b4
+SHA512: 066a7220c7f831f34ac695e145aff5f8d84147635ea706357bad14bac6ef697065b52258bd0fe8a568a899835ba152120beba82ed9bab1d8afaeab7a820b10eb
+Description: Ghostty-powered terminal for jailbroken iOS
+ Terminal emulator built on libghostty's terminal core with a host-managed
+ I/O backend. Packaged for both roothide and rootless bootstraps; the
+ architecture field says which build this is.
+ .
+ Shells are spawned by the bundled ighosttyd daemon and survive app
+ relaunches; SSH transport is planned on the same transport interface.
+Name: iGhostty
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 
 Package: wiki.qaq.trapp.jb
 Architecture: iphoneos-arm64
@@ -46898,6 +46942,30 @@ Author: Saily Team <support.0xa1@qaq.wiki>
 Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+
+Package: wiki.qaq.ighostty
+Architecture: iphoneos-arm64e
+Version: 0.2.4
+Priority: optional
+Section: Utilities
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 18760
+Depends: firmware (>= 15.0), uikittools
+Filename: ./debians/iphoneos-arm64e/wiki.qaq.ighostty_0.2.4_iphoneos-arm64e.deb
+Size: 8197876
+MD5sum: 1eb76b61dc5f1fe2a70f8773f13fda5b
+SHA1: 5c1a2454ace6d240e535a3062ef472f60e2d1a59
+SHA256: a716556c63c0e11892eccd14a200622e2c10e60b4a8f37e5645cc48236f1ae16
+SHA512: ce9484198ae7d894bb6baabefb0c48aabfbe2d5bc74de2d1ce4fef5f3032881f5b95b15400a95b3e1078e79156e85b3d05300c38d50e7b6650340d30c0bc8c03
+Description: Ghostty-powered terminal for jailbroken iOS
+ Terminal emulator built on libghostty's terminal core with a host-managed
+ I/O backend. Packaged for both roothide and rootless bootstraps; the
+ architecture field says which build this is.
+ .
+ Shells are spawned by the bundled ighosttyd daemon and survive app
+ relaunches; SSH transport is planned on the same transport interface.
+Name: iGhostty
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 
 Package: wiki.qaq.trapp.jb
 Architecture: iphoneos-arm64e
