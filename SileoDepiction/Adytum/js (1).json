@@ -1,0 +1,328 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Adytum.png",
+    "tintColor": "#4A90E2",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Advanced app lifecycle manager for jailbroken devices. Engineered for maximum battery efficiency, thread safety, and premium native UI integration.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 12,
+                    "itemSize": "{160, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot 1",
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot 2",
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot 3",
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_03.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot 4",
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_04.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot 5",
+                            "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_05.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Core Protections",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Prevent Termination",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Prevents iOS from killing the selected apps, even under memory pressure. When backgrounded, the app is instantly deep-frozen with no CPU activity, preserving its exact last state. This keeps the app instantly resumable but increases RAM usage. Battery Impact: SMART BALANCE",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Prevent Suspension",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Prevents iOS from ever suspending the selected apps. They will continue running full background cycles, receive notifications instantly, and complete tasks like uploads or GPS navigation - exactly as if they were still in the foreground. Battery Impact: HIGH",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Fast Freeze",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Forces apps to freeze the moment they leave the foreground, skipping any background task grace periods (like finishing a network request). This stops all CPU and network activity immediately, saving more power than the default iOS behaviour. The app resumes from its frozen state without reloading. Battery Impact: EXCELLENT",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "PREVENT TERM+FAST FREEZE",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Combines both protections: apps cannot be killed by iOS, and they are instantly deep-frozen the moment they leave the foreground. Battery Impact: SMART BALANCE",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Advanced Features & UI",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Immortalizer Foregrounding Strategy",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "A special thanks and credit to developer SergeAlagon for his original work on the Immortalizer foregrounding strategy.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 6
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Huge Thanks SergeAlagon",
+                    "action": "https://x.com/srgndrlgn?s=21",
+                    "openExternal": true,
+                    "tintColor": "#4A90E2"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Granular Menu Customization",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Declutter your UI! Choose exactly which protection categories appear in your 3D Touch and Control Center menus directly from the settings page.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Shareable Configuration Profiles",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Curate your perfect app setup and export it to the clipboard as a Base64 string! Share your profiles online or instantly restore them after a RootFS restore with a single tap.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Apply & Purge Background Sweeper",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Instantly enforce your new configurations using the 'Apply & Purge' button. It safely hooks into the system to gracefully sweep and terminate unprotected backgrounded apps without needing a respring.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Premium iOS 15+ Native Settings",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Natively styled with modern inset-grouped tables, complete with heavy, tactile haptic feedback for all destructive actions to deliver a true Apple-like experience.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Bulletproof Under-The-Hood Architecture",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Completely re-engineered with thread-safe PID caching, asynchronous UI rendering for zero frame drops, battery-optimized daemon suppression, and universal Rootless/Roothide compatibility macros.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Known Issues",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "WhatsApp",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Due to irregular background behavior, WhatsApp should be excluded globally from Prevent Termination rules within the tweak settings. However, you can safely use the Prevent Suspension or Fast Freeze categories with it normally.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Facebook",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Compatibility",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "iOS Versions",
+                    "text": "iOS 15.0 – 16.7.16"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Jailbreaks",
+                    "text": "Dopamine, Roothide"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Semi-jailbreaks",
+                    "text": "Not supported"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Changes",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.0.0 – Initial release.",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
