@@ -63,7 +63,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Prevent Termination",
           "useBoldText": true,
           "useBottomMargin": false
@@ -78,7 +78,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Prevent Suspension",
           "useBoldText": true,
           "useBottomMargin": false
@@ -93,7 +93,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Fast Freeze",
           "useBoldText": true,
           "useBottomMargin": false
@@ -108,7 +108,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "PREVENT TERM+FAST FREEZE",
           "useBoldText": true,
           "useBottomMargin": false
@@ -133,7 +133,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "WhatsApp Notification Fix",
           "useBoldText": true,
           "useBottomMargin": false
@@ -159,7 +159,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Immortalizer Foregrounding Strategy",
           "useBoldText": true,
           "useBottomMargin": false
@@ -185,7 +185,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Granular Menu Customization",
           "useBoldText": true,
           "useBottomMargin": false
@@ -200,7 +200,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Shareable Configuration Profiles",
           "useBoldText": true,
           "useBottomMargin": false
@@ -215,7 +215,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Apply & Purge Background Sweeper",
           "useBoldText": true,
           "useBottomMargin": false
@@ -230,7 +230,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Premium iOS 15+ Native Settings",
           "useBoldText": true,
           "useBottomMargin": false
@@ -245,7 +245,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Bulletproof Under-The-Hood Architecture",
           "useBoldText": true,
           "useBottomMargin": false
@@ -270,7 +270,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "WhatsApp",
           "useBoldText": true,
           "useBottomMargin": false
@@ -285,7 +285,7 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Facebook",
           "useBoldText": true,
           "useBottomMargin": false
@@ -317,12 +317,12 @@
         {
           "class": "DepictionTableTextView",
           "title": "iOS Versions",
-          "text": "iOS 15.0 – 16.7"
+          "text": "iOS 15.0 – 16.7.16"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Jailbreaks",
-          "text": "Palera1n, Dopamine, Roothide"
+          "text": "Dopamine, Roothide"
         },
         {
           "class": "DepictionTableTextView",
