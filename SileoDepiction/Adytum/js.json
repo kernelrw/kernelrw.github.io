@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Advanced app lifecycle manager for jailbroken devices. Engineered for maximum battery efficiency, thread safety, and premium native UI integration.",
+          "markdown": "A background app manager for jailbroken devices. Control background app states, save battery, and keep apps in memory.",
           "useRawFormat": true
         },
         {
@@ -54,7 +54,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Core Protections",
+          "title": "Protection Modes",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -70,7 +70,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Prevents iOS from killing the selected apps, even under memory pressure. When backgrounded, the app is instantly deep-frozen with no CPU activity, preserving its exact last state. This keeps the app instantly resumable but increases RAM usage. Battery Impact: SMART BALANCE",
+          "markdown": "Stops iOS from closing chosen apps, even when RAM is low. When you leave the app, it freezes completely with no CPU usage, staying right where you left off.\n\n*Battery Impact: Balanced (Uses more RAM)*",
           "useRawFormat": true
         },
         {
@@ -85,7 +85,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Prevents iOS from ever suspending the selected apps. They will continue running full background cycles, receive notifications instantly, and complete tasks like uploads or GPS navigation - exactly as if they were still in the foreground. Battery Impact: HIGH",
+          "markdown": "Keeps selected apps running in the background constantly. Useful for keeping downloads, GPS tracking, and instant alerts active without keeping the app open on screen.\n\n*Battery Impact: High*",
           "useRawFormat": true
         },
         {
@@ -100,7 +100,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Forces apps to freeze the moment they leave the foreground, skipping any background task grace periods (like finishing a network request). This stops all CPU and network activity immediately, saving more power than the default iOS behaviour. The app resumes from its frozen state without reloading. Battery Impact: EXCELLENT",
+          "markdown": "Pauses apps immediately the moment you leave them, skipping the standard iOS background delay. Cuts background battery usage and lets apps resume without reloading.\n\n*Battery Impact: Very Low*",
           "useRawFormat": true
         },
         {
@@ -109,13 +109,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "PREVENT TERM+FAST FREEZE",
+          "title": "Prevent Termination + Fast Freeze",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Combines both protections: apps cannot be killed by iOS, and they are instantly deep-frozen the moment they leave the foreground. Battery Impact: SMART BALANCE",
+          "markdown": "Combines both modes: apps won't get closed by the system, but they freeze instantly when minimized to avoid draining power.\n\n*Battery Impact: Balanced*",
           "useRawFormat": true
         },
         {
@@ -124,7 +124,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Advanced Features & UI",
+          "title": "Extra Features",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -134,13 +134,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Freeze Inactivity Delay",
+          "title": "Freeze Delay Slider",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Fine-tune multitasking with an adjustable grace period slider (in seconds). This sets the exact delay before backgrounded apps are transitioned into deep-freeze low-power states, allowing short in-flight tasks to complete smoothly.",
+          "markdown": "Adjust how many seconds to wait before backgrounded apps freeze, giving brief tasks enough time to finish.",
           "useRawFormat": true
         },
         {
@@ -155,7 +155,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Since runningboardd is hooked, WhatsApp notifications are resolved by increasing the memory limit allocated to the WhatsApp Notification Service Extension.\n\n*Note: To ensure notifications deliver reliably, WhatsApp must be assigned an active protection state within the tweak settings.*",
+          "markdown": "Increases the memory limit for WhatsApp's notification service to fix missing or delayed alerts.\n\n*Note: WhatsApp must have an active protection rule assigned in settings for notifications to work properly.*",
           "useRawFormat": true
         },
         {
@@ -174,13 +174,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Immortalizer Foregrounding Strategy",
+          "title": "Immortalizer Method",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "A special thanks and credit to developer SergeAlagon for his original work on the Immortalizer foregrounding strategy.",
+          "markdown": "Includes foregrounding strategies based on original research and methods by SergeAlagon.",
           "useRawFormat": true
         },
         {
@@ -189,7 +189,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Special Thanks: SergeAlagon (Immortalizer)",
+          "title": "Special Thanks: SergeAlagon",
           "action": "https://x.com/srgndrlgn?s=21",
           "openExternal": true
         },
@@ -199,13 +199,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Granular Menu Customization",
+          "title": "Menu Customization",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Declutter your UI! Choose exactly which protection categories appear in your 3D Touch and Control Center menus directly from the settings page.",
+          "markdown": "Choose which options appear in your 3D Touch and Control Center menus directly from tweak settings.",
           "useRawFormat": true
         },
         {
@@ -214,13 +214,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Shareable Configuration Profiles",
+          "title": "Backup & Share Settings",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Curate your perfect app setup and export it to the clipboard as a Base64 string! Share your profiles online or instantly restore them after a RootFS restore with a single tap.",
+          "markdown": "Export your app rules as text to share with others or restore your configuration quickly after rejailbreaking.",
           "useRawFormat": true
         },
         {
@@ -229,13 +229,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Apply & Purge Background Sweeper",
+          "title": "Apply & Close Unprotected Apps",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Instantly enforce your new configurations using the 'Apply & Purge' button. It safely hooks into the system to gracefully sweep and terminate unprotected backgrounded apps without needing a respring.",
+          "markdown": "Apply your changes immediately and close any unassigned background apps in one tap without needing a respring.",
           "useRawFormat": true
         },
         {
@@ -244,28 +244,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Premium iOS 15+ Native Settings",
+          "title": "Native Settings & Compatibility",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Natively styled with modern inset-grouped tables, complete with heavy, tactile haptic feedback for all destructive actions to deliver a true Apple-like experience.",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Bulletproof Under-The-Hood Architecture",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "Completely re-engineered with thread-safe PID caching, asynchronous UI rendering for zero frame drops, battery-optimized daemon suppression, and universal Rootful/Rootless/Roothide compatibility macros.",
+          "markdown": "Built using standard iOS settings layouts, fast background handling, and full support for modern Rootless and RootHide jailbreaks.",
           "useRawFormat": true
         },
         {
@@ -290,7 +275,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Due to irregular background behavior, WhatsApp should be excluded globally from Prevent Termination rules within the tweak settings. However, you can safely use the Prevent Suspension or Fast Freeze categories with it normally.",
+          "markdown": "Do not use 'Prevent Termination' with WhatsApp due to how it handles background tasks. Use 'Prevent Suspension' or 'Fast Freeze' instead.",
           "useRawFormat": true
         },
         {
@@ -305,7 +290,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
+          "markdown": "Enabling 'Prevent Termination' on newer Facebook versions can cause a black screen. Resetting app data or reinstalling Facebook resolves it. This does not affect Facebook v560 or older.",
           "useRawFormat": true
         },
         {
@@ -335,7 +320,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Jailbreaks",
-          "text": "Palera1n, Dopamine, Roothide"
+          "text": "Palera1n, Dopamine, RootHide"
         },
         {
           "class": "DepictionTableTextView",

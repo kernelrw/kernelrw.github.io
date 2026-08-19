@@ -134,6 +134,21 @@
         },
         {
           "class": "DepictionSubheaderView",
+          "title": "Freeze Inactivity Delay",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fine-tune multitasking with an adjustable grace period slider (in seconds). This sets the exact delay before backgrounded apps are transitioned into deep-freeze low-power states, allowing short in-flight tasks to complete smoothly.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "WhatsApp Notification Fix",
           "useBoldText": true,
           "useBottomMargin": false
@@ -174,7 +189,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Special Thanks: SergeAlagon",
+          "title": "Special Thanks: SergeAlagon (Immortalizer)",
           "action": "https://x.com/srgndrlgn?s=21",
           "openExternal": true
         },
@@ -250,7 +265,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Completely re-engineered with thread-safe PID caching, asynchronous UI rendering for zero frame drops, battery-optimized daemon suppression, and universal Rootless/Roothide compatibility macros.",
+          "markdown": "Completely re-engineered with thread-safe PID caching, asynchronous UI rendering for zero frame drops, battery-optimized daemon suppression, and universal Rootful/Rootless/Roothide compatibility macros.",
           "useRawFormat": true
         },
         {
