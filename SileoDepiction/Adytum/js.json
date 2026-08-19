@@ -134,6 +134,21 @@
         },
         {
           "class": "DepictionSubheaderView",
+          "title": "Freeze Inactivity Delay",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fine-tune multitasking with an adjustable grace period slider (in seconds). This sets the exact delay before backgrounded apps are transitioned into deep-freeze low-power states, allowing short in-flight tasks to complete smoothly.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "WhatsApp Notification Fix",
           "useBoldText": true,
           "useBottomMargin": false

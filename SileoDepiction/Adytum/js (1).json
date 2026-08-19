@@ -145,18 +145,17 @@
         },
         {
           "class": "DepictionSpacerView",
-          "spacing": 6
+          "spacing": 8
         },
         {
-          "class": "DepictionButtonView",
-          "text": "Special Thanks 0xKuj (FixWANotifs)",
+          "class": "DepictionTableButtonView",
+          "title": "Special Thanks: 0xKuj (FixWANotifs)",
           "action": "https://x.com/0xkuj?s=21",
-          "openExternal": true,
-          "tintColor": "#4A90E2"
+          "openExternal": true
         },
         {
           "class": "DepictionSpacerView",
-          "spacing": 8
+          "spacing": 12
         },
         {
           "class": "DepictionSubheaderView",
@@ -171,18 +170,17 @@
         },
         {
           "class": "DepictionSpacerView",
-          "spacing": 6
+          "spacing": 8
         },
         {
-          "class": "DepictionButtonView",
-          "text": "Huge Thanks SergeAlagon",
+          "class": "DepictionTableButtonView",
+          "title": "Special Thanks: SergeAlagon",
           "action": "https://x.com/srgndrlgn?s=21",
-          "openExternal": true,
-          "tintColor": "#4A90E2"
+          "openExternal": true
         },
         {
           "class": "DepictionSpacerView",
-          "spacing": 8
+          "spacing": 12
         },
         {
           "class": "DepictionSubheaderView",
