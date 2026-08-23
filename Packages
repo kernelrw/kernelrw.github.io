@@ -1050,6 +1050,23 @@ Name: Unseen
 Author: 82flex
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Unseen@10x.png?raw=true
 
+Package: com.82flex.unseen
+Architecture: iphoneos-arm
+Version: 0.0.5
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debians/iphoneos-arm/com.82flex.unseen_0.0.5_iphoneos-arm.deb
+Size: 49816
+MD5sum: 3e726f31ca67f0571b341612e7ae9137
+SHA1: 7dc48057c5a0b445727a56f5f77aa86f13698f4c
+SHA256: 6c4aa0ca5a6f44a5ccc1c41d303f604edee80e1bf860abd8a06e95049a10c57d
+SHA512: f9fcdd6fcc88154d726274af53a01d656b03fb42b3c7796e9b79024b09b057e60e073d996ee5ae19c4b27fdcf78d6fac99d28b577638f2c462efd40ff5f8c6e5
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Name: Unseen
+Author: 82flex
+
 Package: com.alilatif.beegram
 Architecture: iphoneos-arm
 Version: 1.0-350+debug
@@ -15579,6 +15596,23 @@ Description: Neutralizes CALayer disableUpdateMask in the render server
 Name: Unseen
 Author: 82flex
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Unseen@10x.png?raw=true
+
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debians/iphoneos-arm64/com.82flex.unseen_0.0.5_iphoneos-arm64.deb
+Size: 49876
+MD5sum: 2905eaa7b25d9dbad0fd7b4b6e301405
+SHA1: ded053762c6d76ce461ca87f448620faa8c65587
+SHA256: 74f8a1df69bf25ef3a733d4b783ceeb657b61aed9872790f5e2af72f17139ebb
+SHA512: 9a95099bc75e64de1ecba1f826bb9e589b65c6bc331082bc9e06f470c2ce248fea6a83e20d9c54f32dd9297be73f801c4f9865c4a94fce38d7f970a65cf78cc1
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Name: Unseen
+Author: 82flex
 
 Package: com.alaise.azule
 Architecture: iphoneos-arm64
@@ -32043,6 +32077,23 @@ Description: Neutralizes CALayer disableUpdateMask in the render server
 Name: Unseen
 Author: 82flex
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Unseen@10x.png?raw=true
+
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.82flex.unseen_0.0.5_iphoneos-arm64e.deb
+Size: 49798
+MD5sum: 616faaf2cc2b4e60939ffc5d0e67a569
+SHA1: 576b6c576a4e795aa6b4d8705588d2cfa8f5461c
+SHA256: 883d4605ea041bc20a0770c0ed20575991cdc57cd25a38143720ba270167d28c
+SHA512: 60351b7c48100aa4b127ef75374018fa9b164e78abbdb621df5d6130ef4ffa9aac2d187fdf4d435c598bcf0e5a07cc14f3dfd56ce55a3f33c9813b5f695a2e4d
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Name: Unseen
+Author: 82flex
 
 Package: com.alaise.azule
 Architecture: iphoneos-arm64e
