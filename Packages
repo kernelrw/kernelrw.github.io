@@ -25254,6 +25254,27 @@ Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
 SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
 Author: RedenticDev <redenticdev@gmail.com>
 
+Package: com.rileytestut.altdaemons
+Architecture: iphoneos-arm64
+Version: 1.1.5
+Section: Tweaks
+Maintainer: AltDaemonModern contributors
+Conflicts: com.rileytestut.altdaemon
+Filename: ./debians/iphoneos-arm64/com.rileytestut.altdaemons_1.1.5_iphoneos-arm64.deb
+Size: 892376
+MD5sum: bcea85226b739892cbd1a52c59011c32
+SHA1: 1525d3db5d4e4e04ea766ea3bac8c028a7aca857
+SHA256: e026ccd1699890767357a5bc4246f2c37d9d10f510a7bbe04f9d880ebcd651ef
+SHA512: 89d51c51628855599c5e447a1ba49c50f602765bec6ad7ddf4284d7c2e962998ed6710bcd4d1a3120cd7eb39515c195ec1eb0b7979d7909d436eed0589c8bf54
+Description: Allows you to renew AltStore on your jailbroken device!
+ * This branch is designed for standard Dopamine rootless jailbreak environments and does not support RootHide environments!
+ * Rootless AltDaemon with modern anisette v3 support.
+ * AltDaemon allows compatible AltStore builds to install and refresh apps
+ without a computer. This fork targets standard Dopamine rootless jailbreaks.
+Name: AltDaemon Modern ID
+Author: Riley Testut and AltDaemonModern contributors
+Icon: https://TrollStoreX.Github.io/sileodepiction/AltDaemon/icon.png
+
 Package: com.roothide.lockdown
 Architecture: iphoneos-arm64
 Version: 2.0
