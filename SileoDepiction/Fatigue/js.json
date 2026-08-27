@@ -1,0 +1,165 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Fatigue/Fatigue.png",
+  "tintColor": "#4A90E2",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Intelligent autoscroll for modern jailbreaks. Fatigue eliminates scroll exhaustion by bringing smooth, hands-free autoscrolling to any scrollable view on your iPhone or iPad.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot 1",
+              "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Fatigue/Screenshot_01.png"
+            },
+            {
+              "accessibilityText": "Screenshot 2",
+              "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Fatigue/Screenshot_02.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Features",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Native Physics",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Perfect 60/120Hz adaptive smoothness.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Scroll Direction",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Support for both vertical and horizontal views.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Smart Edge Detection",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Automatically stops at content boundaries.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Accessibility",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Optimized for reading feeds and long documents.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Compatibility",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Rootless",
+          "text": "Dopamine & Palera1n"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Roothide",
+          "text": "Dopamine-Roothide & Relaxin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Rootful",
+          "text": "Palera1n"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changes",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "1.0.0 – Initial release.",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
