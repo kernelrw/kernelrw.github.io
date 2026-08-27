@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Take total control over iOS app lifecycles. Built from the ground up for seamless background management, zero overhead, and native iOS 15+ styling.",
+          "markdown": "Advanced app lifecycle manager for jailbroken devices. Engineered for maximum battery efficiency, thread safety, and premium native UI integration.",
           "useRawFormat": true
         },
         {
@@ -54,7 +54,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Core Modes",
+          "title": "Core Protections",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -64,13 +64,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Prevent Termination (Keep-Alive)",
+          "title": "Prevent Termination",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Shields target processes from Jetsam and system low-memory kills. Apps are placed in a deep freeze the second they leave the screen, preserving state without consuming background CPU cycles.\n\n• **Power Draw:** Balanced",
+          "markdown": "Prevents iOS from killing the selected apps, even under memory pressure. When backgrounded, the app is instantly deep-frozen with no CPU activity, preserving its exact last state. This keeps the app instantly resumable but increases RAM usage. Battery Impact: SMART BALANCE",
           "useRawFormat": true
         },
         {
@@ -79,13 +79,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Prevent Suspension (True Backgrounding)",
+          "title": "Prevent Suspension",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Forces apps to keep executing full run-loops in the background. Ideal for long-running uploads, active downloads, real-time GPS tracking, and uninterrupted VOIP polling.\n\n• **Power Draw:** Heavy",
+          "markdown": "Prevents iOS from ever suspending the selected apps. They will continue running full background cycles, receive notifications instantly, and complete tasks like uploads or GPS navigation - exactly as if they were still in the foreground. Battery Impact: HIGH",
           "useRawFormat": true
         },
         {
@@ -94,13 +94,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Fast Freeze (Instant Halt)",
+          "title": "Fast Freeze",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Bypasses default iOS background grace periods to pause CPU and network execution immediately on dismiss. Drops power draw to near zero while keeping the process warm in RAM.\n\n• **Power Draw:** Minimal",
+          "markdown": "Forces apps to freeze the moment they leave the foreground, skipping any background task grace periods (like finishing a network request). This stops all CPU and network activity immediately, saving more power than the default iOS behaviour. The app resumes from its frozen state without reloading. Battery Impact: EXCELLENT",
           "useRawFormat": true
         },
         {
@@ -109,13 +109,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Hybrid: Keep-Alive + Fast Freeze",
+          "title": "PREVENT TERM+FAST FREEZE",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Combines memory immunity with instant halting: processes survive memory pressure sweeps but instantly sleep when unfocused.\n\n• **Power Draw:** Balanced",
+          "markdown": "Combines both protections: apps cannot be killed by iOS, and they are instantly deep-frozen the moment they leave the foreground. Battery Impact: SMART BALANCE",
           "useRawFormat": true
         },
         {
@@ -124,7 +124,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Under the Hood & Features",
+          "title": "Advanced Features & UI",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -134,13 +134,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Custom Freeze Delay",
+          "title": "Freeze Inactivity Delay",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Dial in custom grace period sliders (in seconds) to let in-flight network requests wrap up cleanly before the app is put to sleep.",
+          "markdown": "Fine-tune multitasking with an adjustable grace period slider (in seconds). This sets the exact delay before backgrounded apps are transitioned into deep-freeze low-power states, allowing short in-flight tasks to complete smoothly.",
           "useRawFormat": true
         },
         {
@@ -149,13 +149,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "WhatsApp Push Fix (runningboardd)",
+          "title": "WhatsApp Notification Fix",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Fixes notification dropouts by raising memory limits on the WhatsApp Notification Extension.\n\n*Requires WhatsApp to have an active rule enabled in tweak preferences.*",
+          "markdown": "Since runningboardd is hooked, WhatsApp notifications are resolved by increasing the memory limit allocated to the WhatsApp Notification Service Extension.\n\n*Note: To ensure notifications deliver reliably, WhatsApp must be assigned an active protection state within the tweak settings.*",
           "useRawFormat": true
         },
         {
@@ -164,7 +164,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Credits: 0xKuj (FixWANotifs)",
+          "title": "Special Thanks: 0xKuj (FixWANotifs)",
           "action": "https://x.com/0xkuj?s=21",
           "openExternal": true
         },
@@ -174,13 +174,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Immortalizer Strategy",
+          "title": "Immortalizer Foregrounding Strategy",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Implements foreground spoofing concepts adapted from SergeAlagon's original tweak.",
+          "markdown": "A special thanks and credit to developer SergeAlagon for his original work on the Immortalizer foregrounding strategy.",
           "useRawFormat": true
         },
         {
@@ -189,7 +189,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Credits: SergeAlagon (Immortalizer)",
+          "title": "Special Thanks: SergeAlagon (Immortalizer)",
           "action": "https://x.com/srgndrlgn?s=21",
           "openExternal": true
         },
@@ -199,13 +199,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Context Menu Toggles",
+          "title": "Granular Menu Customization",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Customise quick toggles inside 3D Touch / Haptic Touch context menus and Control Center modules.",
+          "markdown": "Declutter your UI! Choose exactly which protection categories appear in your 3D Touch and Control Center menus directly from the settings page.",
           "useRawFormat": true
         },
         {
@@ -214,13 +214,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Profile Backup & Sync",
+          "title": "Shareable Configuration Profiles",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Export and import your entire rule configuration via Base64 strings. Makes restoring setups across clean installs seamless.",
+          "markdown": "Curate your perfect app setup and export it to the clipboard as a Base64 string! Share your profiles online or instantly restore them after a RootFS restore with a single tap.",
           "useRawFormat": true
         },
         {
@@ -229,13 +229,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Apply & Flush (No Respring)",
+          "title": "Apply & Purge Background Sweeper",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Dynamically reloads preference hooks and purges unmanaged background instances on demand without triggering a SpringBoard respring.",
+          "markdown": "Instantly enforce your new configurations using the 'Apply & Purge' button. It safely hooks into the system to gracefully sweep and terminate unprotected backgrounded apps without needing a respring.",
           "useRawFormat": true
         },
         {
@@ -244,13 +244,28 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Optimized Core Architecture",
+          "title": "Premium iOS 15+ Native Settings",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Thread-safe PID caching, async UI dispatch to prevent main-thread hitching, and universal rootful/rootless/roothide cross-compilation support.",
+          "markdown": "Natively styled with modern inset-grouped tables, complete with heavy, tactile haptic feedback for all destructive actions to deliver a true Apple-like experience.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Bulletproof Under-The-Hood Architecture",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Completely re-engineered with thread-safe PID caching, asynchronous UI rendering for zero frame drops, battery-optimized daemon suppression, and universal Rootful/Rootless/Roothide compatibility macros.",
           "useRawFormat": true
         },
         {
@@ -259,7 +274,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Known Quirks",
+          "title": "Known Issues",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -275,7 +290,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Exclude WhatsApp from **Prevent Termination** to avoid push sync desyncs. Use **Prevent Suspension** or **Fast Freeze** instead.",
+          "markdown": "Due to irregular background behavior, WhatsApp should be excluded globally from Prevent Termination rules within the tweak settings. However, you can safely use the Prevent Suspension or Fast Freeze categories with it normally.",
           "useRawFormat": true
         },
         {
@@ -290,7 +305,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Facebook v561+ may launch to a black screen when applying **Prevent Termination** for the first time. Clearing app container caches or a fresh install resolves the state machine desync.",
+          "markdown": "When targeting Facebook with Prevent Termination for the first time, you must reset app data or reinstall the app, otherwise a black screen appears. This issue only affects the latest versions of Facebook. It does not occur on Facebook v560 and below.",
           "useRawFormat": true
         },
         {
@@ -314,32 +329,26 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "iOS Support",
-          "text": "iOS 15.0 – 16.7.x"
+          "title": "iOS Versions",
+          "text": "iOS 15.0 – 16.7"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Environment",
-          "text": "Dopamine, Palera1n, Roothide"
+          "title": "Jailbreaks",
+          "text": "Palera1n, Dopamine, Roothide"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Bootstrap / Serotonin",
-          "text": "Unsupported"
-        }
-      ]
-    },
-    {
-      "class": "DepictionStackView",
-      "tabname": "Changelog",
-      "views": [
+          "title": "Semi-jailbreaks",
+          "text": "Not supported"
+        },
         {
           "class": "DepictionSpacerView",
-          "spacing": 8
+          "spacing": 16
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Version History",
+          "title": "Changes",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -348,14 +357,8 @@
           "spacing": 8
         },
         {
-          "class": "DepictionSubheaderView",
-          "title": "v1.0.0",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
           "class": "DepictionMarkdownView",
-          "markdown": "• Initial public release.\n• Full rootless and roothide support.\n• Integrated runningboardd hooks & push persistence fixes.\n• Base64 profile import/export support.",
+          "markdown": "1.0.0 – Initial release.",
           "useRawFormat": true
         }
       ]
