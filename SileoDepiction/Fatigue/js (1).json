@@ -97,21 +97,6 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Quick Actions",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "3D Touch menu integration for easily enabling or disabling Fatigue per app.",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionSubheaderView",
           "title": "Accessibility",
           "useBoldText": true,
           "useBottomMargin": false
@@ -137,12 +122,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "iOS Version",
-          "text": "iOS 15.0 – iOS 17.x"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Package Version",
+          "title": "Version",
           "text": "1.0.0"
         },
         {
