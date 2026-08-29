@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Adytum provides a true application background management for modern jailbroken devices (iOS15.0-iOS17.x).\n\nAdytum features four backgrounding modes which you can assign either from 3D Touch/Haptic Touch context menu or from within tweak settings page as app selections :",
+          "markdown": "Take total control over iOS app lifecycles. Built from the ground up for seamless background management, zero overhead, and native iOS 15+ styling.",
           "useRawFormat": true
         },
         {
@@ -37,6 +37,14 @@
             {
               "accessibilityText": "Screenshot 3",
               "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_03.png"
+            },
+            {
+              "accessibilityText": "Screenshot 4",
+              "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_04.png"
+            },
+            {
+              "accessibilityText": "Screenshot 5",
+              "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_05.png"
             }
           ]
         },
@@ -46,7 +54,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Backgrounding Modes",
+          "title": "Core Modes",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -56,13 +64,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Prevent Termination mode",
+          "title": "Prevent Termination (Keep-Alive)",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Prevents iOS from ever closing your protected apps even under memory pressure ; (use this feature with caution , enabling many apps randomly may run your device out of memory - sever system lag).",
+          "markdown": "Shields target processes from Jetsam and system low-memory kills. Apps are placed in a deep freeze the second they leave the screen, preserving state without consuming background CPU cycles.\n\n• **Power Draw:** Balanced",
           "useRawFormat": true
         },
         {
@@ -71,38 +79,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Prevent Suspension mode",
+          "title": "Prevent Suspension (True Backgrounding)",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Enabled apps behave as if they are running in the foreground (apps are never suspended ). Perfect for files uploads downloads - listening to music or whatever purpose you wish . Credits to SergeAlagon for his amazing tweak Immortalizer .",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Credits: SergeAlagon (Immortalizer)",
-          "action": "https://x.com/srgndrlgn?s=21",
-          "openExternal": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 12
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Fast Freeze mode",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "Instantly freezing your apps the moment they leave the foreground and return to them whenever you want to the point you left without reloading . You have a slider of 10 seconds period inside tweak settings to control FF delay .",
+          "markdown": "Forces apps to keep executing full run-loops in the background. Ideal for long-running uploads, active downloads, real-time GPS tracking, and uninterrupted VOIP polling.\n\n• **Power Draw:** Heavy",
           "useRawFormat": true
         },
         {
@@ -111,13 +94,28 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Combined PT+FF mode",
+          "title": "Fast Freeze (Instant Halt)",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Freezes enabled apps instantly & put them instantly in memory as a prevented terminate apps .",
+          "markdown": "Bypasses default iOS background grace periods to pause CPU and network execution immediately on dismiss. Drops power draw to near zero while keeping the process warm in RAM.\n\n• **Power Draw:** Minimal",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hybrid: Keep-Alive + Fast Freeze",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Combines memory immunity with instant halting: processes survive memory pressure sweeps but instantly sleep when unfocused.\n\n• **Power Draw:** Balanced",
           "useRawFormat": true
         },
         {
@@ -126,7 +124,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Other Features",
+          "title": "Under the Hood & Features",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -136,13 +134,28 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "WhatsApp Notifications Fix",
+          "title": "Custom Freeze Delay",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Since we are hooking runnigboardd , implementing WhatsApp Service Extension memory expansion is here . You have a toggle inside tweak settings to enable or disable this feature . If happened this feature is not working correctly , make sure to target WhatsApp with FF or PS mode (Fast Freeze mode preferably).  Credits to 0xkuj for FixWANotifs tweak .",
+          "markdown": "Dial in custom grace period sliders (in seconds) to let in-flight network requests wrap up cleanly before the app is put to sleep.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "WhatsApp Push Fix (runningboardd)",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fixes notification dropouts by raising memory limits on the WhatsApp Notification Extension.\n\n*Requires WhatsApp to have an active rule enabled in tweak preferences.*",
           "useRawFormat": true
         },
         {
@@ -161,13 +174,38 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Toast Notification Banner",
+          "title": "Immortalizer Strategy",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Changing any state for any app from 3D touch context menu will fire a nice toast banner containing the activated state and app name .",
+          "markdown": "Implements foreground spoofing concepts adapted from SergeAlagon's original tweak.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Credits: SergeAlagon (Immortalizer)",
+          "action": "https://x.com/srgndrlgn?s=21",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Context Menu Toggles",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Customise quick toggles inside 3D Touch / Haptic Touch context menus and Control Center modules.",
           "useRawFormat": true
         },
         {
@@ -176,13 +214,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Global System Bypass",
+          "title": "Profile Backup & Sync",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "If you encounter issues (strange behavior ) for any app , this feature is here to exclude the targeted app from the 4 protection modes .",
+          "markdown": "Export and import your entire rule configuration via Base64 strings. Makes restoring setups across clean installs seamless.",
           "useRawFormat": true
         },
         {
@@ -191,13 +229,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Profile Backup",
+          "title": "Apply & Flush (No Respring)",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "As an action inside tweak settings to export and import the entire configurations for all of your protected apps with all those 4 protection modes and restore them any time later ( for those who restore rootfs frequently ).",
+          "markdown": "Dynamically reloads preference hooks and purges unmanaged background instances on demand without triggering a SpringBoard respring.",
           "useRawFormat": true
         },
         {
@@ -206,28 +244,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Purging",
+          "title": "Optimized Core Architecture",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Safely purge unmanaged backgrounded apps from within tweak settings to apply new modes without a Respring .",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Action Logging",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "If enabled , will record all backgrounding events for the 4 protection modes & global bypasses .",
+          "markdown": "Thread-safe PID caching, async UI dispatch to prevent main-thread hitching, and universal rootful/rootless/roothide cross-compilation support.",
           "useRawFormat": true
         },
         {
@@ -236,24 +259,9 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Known Issues ( unsolvable issues )",
+          "title": "Known Quirks",
           "useBoldText": true,
           "useBottomMargin": false
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Facebook",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "v561+ may launch to a black screen when \"Prevent Termination\" for the first time. Resetting app data or reinstalling the app will solve this issue forever .",
-          "useRawFormat": true
         },
         {
           "class": "DepictionSpacerView",
@@ -267,7 +275,22 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Targeting WhatsApp with  \"Prevent Termination\" or the \"combined mode\" will make the app flushing into a black screen only in case returning to the app from a Prevented Termination state and other protected apps are in the AppSwitcher . Targeting WhatsApp with other modes is safe and works fine  .",
+          "markdown": "Exclude WhatsApp from **Prevent Termination** to avoid push sync desyncs. Use **Prevent Suspension** or **Fast Freeze** instead.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Facebook",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Facebook v561+ may launch to a black screen when applying **Prevent Termination** for the first time. Clearing app container caches or a fresh install resolves the state machine desync.",
           "useRawFormat": true
         },
         {
@@ -276,7 +299,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Compatibility & Support",
+          "title": "Compatibility",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -286,27 +309,23 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Compatibility",
-          "text": "iOS15.0 -iOS17.x"
+          "title": "Version",
+          "text": "1.0.0"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Environments",
-          "text": "Rootful , Rootless & Roothide (Relaxin)"
+          "title": "iOS Support",
+          "text": "iOS 15.0 – 16.7.x"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Tested Devices",
-          "text": "iPhone 7 15.8 , iPhone X 16.6 , iPhone 13 Pro 17.0 , iPhone 13 PM 16.3.1 & iPad Air 5 17.0"
+          "title": "Environment",
+          "text": "Dopamine, Palera1n, Roothide"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**Roothide - Relaxin Users :** You can hit me on Discord (kernelrw) for pure arm64e deb . Or you can use Roothide patcher and it will do the job.",
-          "useRawFormat": true
+          "class": "DepictionTableTextView",
+          "title": "Bootstrap / Serotonin",
+          "text": "Unsupported"
         }
       ]
     },
@@ -330,7 +349,7 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "v1.0",
+          "title": "v1.0.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
