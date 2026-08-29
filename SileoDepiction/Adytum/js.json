@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Adytum provides a true application background management for modern jailbroken devices (iOS15.0-iOS17.x).\n\nAdytum features four backgrounding modes which you can assign either from 3D Touch/Haptic Touch context menu or from within tweak settings page as app selections :",
+          "markdown": "Adytum provides a true application background management for modern jailbroken devices (iOS15.0-iOS17.x).",
           "useRawFormat": true
         },
         {
@@ -39,6 +39,15 @@
               "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/Screenshot_03.png"
             }
           ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Adytum features four backgrounding modes which you can assign either from 3D Touch/Haptic Touch context menu or from within tweak settings page as app selections :",
+          "useRawFormat": true
         },
         {
           "class": "DepictionSpacerView",
@@ -330,7 +339,7 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "v1.0",
+          "title": "v1.0.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
