@@ -345,7 +345,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• Initial public release.\n• Full rootless and roothide support.\n• Integrated runningboardd hooks & push persistence fixes.\n• Base64 profile import/export support.",
+          "markdown": "• Initial public release.\n• Full  rootful, rootless & roothide support.",
           "useRawFormat": true
         }
       ]
