@@ -261,7 +261,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "v561+ may launch to a black screen when \"Prevent Termination\" for the first time. Resetting app data or reinstalling the app will solve this issue forever .",
+          "markdown": "v561+ may launch to a black screen when applying \"Prevent Termination\" for the first time. Resetting app data or reinstalling the app will solve this issue forever .",
           "useRawFormat": true
         },
         {
@@ -314,7 +314,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Roothide - Relaxin Users :** You can hit me on Discord (kernelrw) for pure arm64e deb . Or you can use Roothide patcher and it will do the job.",
+          "markdown": "Roothide - Relaxin Users : You can hit me on Discord (kernelrw) for pure arm64e deb . Or you can use Roothide patcher and it will do the job.",
           "useRawFormat": true
         }
       ]
@@ -339,7 +339,7 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "v1.0.0",
+          "title": "v1.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
