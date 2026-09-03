@@ -2363,6 +2363,30 @@ Name: Telegram TGExtra
 Author: choco
 Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
 
+Package: com.choco.tgextra
+Architecture: iphoneos-arm
+Version: 1.7.8
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/iphoneos-arm/com.choco.tgextra_1.7.8_iphoneos-arm.deb
+Size: 834324
+MD5sum: 5926f44e41fbc3e2278266bb05d069d4
+SHA1: 0778c8265aaf67ac41dc393f00bceb74bca3753f
+SHA256: 2816353d8d17b716d8c02a0e415031a5340db9228de3214e41a2fb722bb86346
+SHA512: a0f875701338dc815e1d3862767fd1f715f5c9e5c4a248ce644692a2a6f0f1b4eff4fc350068156be587e2db9d421d45f396e35016fa4aff8f8e37d1cef265ab
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages 
+  * Support for Telegram 12.9
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
 Package: com.chocolate.redditfuck
 Architecture: iphoneos-arm
 Version: 1.0
@@ -17004,6 +17028,30 @@ MD5sum: ee4d95d1eba85279c0d5ec92e66b69ee
 SHA1: fba6d3da0106324b84aa400bd8a2b5641802bd07
 SHA256: 824c34a79b6dec5c0ecf5b298095d5a84edc84660dd6fe9268d0190fdc5a92ab
 SHA512: af5071cb0f7003a650533de068d23c2befd92fbe85d496977962fd29efb94e7cae2fc6b3949d78576294ca596f6f5ef848a970b031ae02a28ec8f81b732e96cf
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages 
+  * Support for Telegram 12.9
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64
+Version: 1.7.8
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/iphoneos-arm64/com.choco.tgextra_1.7.8_iphoneos-arm64.deb
+Size: 834036
+MD5sum: f4cd195ebeb7c0857424475f9b2d8b61
+SHA1: bb6fa53066e0fab9df3954365b3bf35cb1dff8a8
+SHA256: 0a7b33ec7fd4104563e1ff1797c5b2b1fe13fef2f70cd45a91e50723dd8fb179
+SHA512: 309fc5ad3f914c622595e56772ce0f59290a796eadb3eb5fb467a9a0beb406b9ed7b9f76d7f397d7b4ec8ca485020da7c815b239b72fb4a156b91c1c92dc43b7
 Description: Telegram Enhancement Tweak
   * Remove Ads
   * Hide some input states
@@ -33662,6 +33710,30 @@ MD5sum: 80ced1185ffe231ee89b33ffbcda9031
 SHA1: 9805860c58aad6116f6d5c3f30597f475e2eceec
 SHA256: da200414f500c4c210b180437fe276e4b9c25f632fc0feadf59cf626506f5538
 SHA512: 68234098c41a810169100d2995a3438343339bc0e4274e5fbca45e1b8a93482f09373c56a56201819bb66d8e468e40665950cf07791942a2ad7218b8c8d640a8
+Description: Telegram Enhancement Tweak
+  * Remove Ads
+  * Hide some input states
+  * Allow to save channel restricted download files
+  * Settings screen - long press the third last option "Customer Service" to open the plugin.
+  * Support Telegram, Turrit and other third-party clients.
+  * Fixed languages 
+  * Support for Telegram 12.9
+Name: Telegram TGExtra
+Author: choco
+Icon: https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/602ccc72b2f2e2001df1a885.png
+
+Package: com.choco.tgextra
+Architecture: iphoneos-arm64e
+Version: 1.7.8
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debians/iphoneos-arm64e/com.choco.tgextra_1.7.8_iphoneos-arm64e.deb
+Size: 831776
+MD5sum: ea8ddb64ec94f1365691eb8d9c739b91
+SHA1: 88f2e25064e1b0fa3028055c645795af3b3648a9
+SHA256: f799a9777807df16a51c3596fc6c48d9a4775d3e68591d52b76c04b583cb6c59
+SHA512: a8fa1cf90e20e559c4ba2733e985b982869b17e59d4e8e38a021fe9b1f6a1a3ce11e24559c0eec950f6f746ead984680c1b1b11d5de0450e000ad48032c99048
 Description: Telegram Enhancement Tweak
   * Remove Ads
   * Hide some input states
