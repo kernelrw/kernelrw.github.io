@@ -16581,6 +16581,24 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.barabadev.snowboardios17fix
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: BarabaDev
+Depends: com.spark.snowboard (= 1.5.37-Beta4-rootless)
+Conflicts: com.barabadev.snowboardsettingsiconsfix
+Replaces: com.barabadev.snowboardsettingsiconsfix
+Filename: ./debians/iphoneos-arm64/com.barabadev.snowboardios17fix_1.0_iphoneos-arm64.deb
+Size: 5464
+MD5sum: 678edab9093ddf119c5e278b1cd60eae
+SHA1: e3c089dfd6bb72779be1731c7e03bba5bf4e9994
+SHA256: b619d5ab4af4ff2d34521a65437def1770f7706735be430acfcf6b79d9dba86a
+SHA512: ff423eefdefca7b060174c097962f9944051ce8060fe9a207e03ea4547007c93cc51cd3c5f4ad1f1a6e956b66f30d78d794c5f8feef5e8696367a4586dddecf7
+Description: Fixes SnowBoard on iOS 17.
+Name: SnowBoard iOS 17 Fix
+Author: BarabaDev
+
 Package: com.be-huge.insulation
 Architecture: iphoneos-arm64
 Version: 0.1.38
@@ -19364,36 +19382,6 @@ Name: Background Retainer
 Author: F0rd0w
 Sponsor: F0rd0w
 Icon: https://axs66.github.io/pro/icon/backgroundretainer.png
-
-Package: com.f0rd0w.fatigue
-Architecture: iphoneos-arm64
-Version: 0.1
-Section: Tweaks
-Maintainer: F0rd0w
-Installed-Size: 580
-Depends: mobilesubstrate, firmware (>=15.0), preferenceloader
-Filename: ./debians/iphoneos-arm64/com.f0rd0w.fatigue_0.1_iphoneos-arm64.deb
-Size: 25416
-MD5sum: a504dfa71204addd007c965edabac80f
-SHA1: c8e0bbc5e34c60ffb429f0c929ad09a6bb218ae0
-SHA256: 87f3a4d430a8b121aa9c544146e1ce35975347719fe1940f4f345b951e3ae548
-SHA512: 2151583c2525a7721f9da13d6dbfd0dd679377a302a0dd53075c0c473253b214fa75ed0e991ad729eaebe15586ed9076ffa5eb68d7fdfcddeae62528a9adbc7a
-Description: Intelligent autoscroll for modern jailbreaks.
- Fatigue eliminates scroll exhaustion by bringing smooth, hands-free
- autoscrolling to any scrollable view on your iPhone or iPad.
- .
- Features:
- - Native Physics: Perfect 60/120Hz adaptive smoothness.
- - Scroll Direction: Support for both vertical and horizontal views.
- - Smart Edge Detection: Automatically stops at content boundaries.
- - Accessibility: Optimized for reading feeds and long documents.
- .
- Compatibility:
- - Rootless: Dopamine & Palera1n.
- - Roothide: Fully supported.
-Name: Fatigue
-Author: F0rd0w
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Fatigue@4x.png?raw=true
 
 Package: com.f0rd0w.lazycursor
 Architecture: iphoneos-arm64
@@ -33159,6 +33147,25 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.barabadev.snowboardios17fix
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: BarabaDev
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard (= 1.5.37-Beta4-rootless)
+Conflicts: com.barabadev.snowboardsettingsiconsfix
+Replaces: com.barabadev.snowboardsettingsiconsfix
+Filename: ./debians/iphoneos-arm64e/com.barabadev.snowboardios17fix_1.0_iphoneos-arm64e.deb
+Size: 7086
+MD5sum: 1254dd5daf32fd09ceb9b9068a38d2bf
+SHA1: 07bb5acbec16dc96f0844a60885c58284702b75f
+SHA256: 112c669cbf31d2620adcb81e4cb2fec3db765456c0f3ae0891ae672d85607c80
+SHA512: 88f1d13be301ae0aa7d6d97e0cf4a7eb257ad4939e2e2370fab6fdb670d02eca3e45b249ae634d23c8f5962259de76cc2029b406c3de970042d5c3aa2804bfea
+Description: Fixes SnowBoard on iOS 17.
+Name: SnowBoard iOS 17 Fix
+Author: BarabaDev
+
 Package: com.be-huge.insulation
 Architecture: iphoneos-arm64e
 Version: 0.1.38
@@ -35431,36 +35438,6 @@ Name: Background Retainer
 Author: F0rd0w
 Sponsor: F0rd0w
 Icon: https://axs66.github.io/pro/icon/backgroundretainer.png
-
-Package: com.f0rd0w.fatigue
-Architecture: iphoneos-arm64e
-Version: 0.1
-Section: Tweaks
-Maintainer: F0rd0w
-Installed-Size: 580
-Depends: mobilesubstrate, firmware (>=15.0), preferenceloader
-Filename: ./debians/iphoneos-arm64e/com.f0rd0w.fatigue_0.1_iphoneos-arm64e.deb
-Size: 25416
-MD5sum: d681496a50195ea78bef111c9024bb14
-SHA1: 891c22328837c156d184e03a8f5954faad4f9716
-SHA256: 6b5e79f01641c2577e18303b75fcf1cac72bde4ddbce89422964d017c0210525
-SHA512: 006e438358cf56e335d4279ff4e541e17537d8c3b436132a721aa0644d5f1e31f7796f760947e4f87a76b0a597c1b8478fe2fe6cd8c6ad5bcb774c1122a1dd23
-Description: Intelligent autoscroll for modern jailbreaks.
- Fatigue eliminates scroll exhaustion by bringing smooth, hands-free
- autoscrolling to any scrollable view on your iPhone or iPad.
- .
- Features:
- - Native Physics: Perfect 60/120Hz adaptive smoothness.
- - Scroll Direction: Support for both vertical and horizontal views.
- - Smart Edge Detection: Automatically stops at content boundaries.
- - Accessibility: Optimized for reading feeds and long documents.
- .
- Compatibility:
- - Rootless: Dopamine & Palera1n.
- - Roothide: Fully supported.
-Name: Fatigue
-Author: F0rd0w
-Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/Fatigue@4x.png?raw=true
 
 Package: com.f0rd0w.lazycursor
 Architecture: iphoneos-arm64e
