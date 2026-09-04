@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Intelligent autoscroll for modern jailbreaks. Fatigue eliminates scroll exhaustion by bringing smooth, hands-free autoscrolling to any scrollable view on your iPhone or iPad.",
+          "markdown": "Give your thumbs a break. Fatigue takes the hassle out of scrolling with smooth, hands-free reading on any app across your iPhone or iPad.",
           "useRawFormat": true
         },
         {
@@ -52,13 +52,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Native Physics",
+          "title": "Smooth as Butter",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Perfect 60/120Hz adaptive smoothness.",
+          "markdown": "Glides naturally at 60 or 120Hz without missing a beat.",
           "useRawFormat": true
         },
         {
@@ -67,13 +67,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Scroll Direction",
+          "title": "Any Way You Want",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Support for both vertical and horizontal views.",
+          "markdown": "Works like a charm whether you scroll up, down, or sideways.",
           "useRawFormat": true
         },
         {
@@ -82,13 +82,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Smart Edge Detection",
+          "title": "Hits the Brakes",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Automatically stops at content boundaries.",
+          "markdown": "Stops on a dime the second you reach the very top or bottom.",
           "useRawFormat": true
         },
         {
@@ -97,13 +97,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Quick Actions",
+          "title": "At Your Fingertips",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "3D Touch menu integration for easily enabling or disabling Fatigue per app.",
+          "markdown": "Turn it on or off in a snap right from your home screen app icon.",
           "useRawFormat": true
         },
         {
@@ -112,13 +112,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Accessibility",
+          "title": "Kick Back and Read",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Optimized for reading feeds and long documents.",
+          "markdown": "Breeze through long articles, books, and social feeds without lifting a finger.",
           "useRawFormat": true
         },
         {
@@ -176,7 +176,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "1.0.0 – Initial release.",
+          "markdown": "1.0.0 – Fresh out of the oven.",
           "useRawFormat": true
         }
       ]
