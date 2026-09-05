@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Give your thumbs a break. Fatigue takes the hassle out of scrolling with smooth, hands-free reading on any app across your iPhone or iPad.",
+          "markdown": "Fatigue scrolls automatically for you, letting you read hands-free inside any app on your iPhone or iPad.",
           "useRawFormat": true
         },
         {
@@ -52,13 +52,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Smooth as Butter",
+          "title": "Smooth Scrolling",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Glides naturally at 60 or 120Hz without missing a beat.",
+          "markdown": "Runs smoothly at 60Hz or 120Hz without lag.",
           "useRawFormat": true
         },
         {
@@ -67,13 +67,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Any Way You Want",
+          "title": "All Directions Supported",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Works like a charm whether you scroll up, down, or sideways.",
+          "markdown": "Scrolls automatically up, down, left, or right.",
           "useRawFormat": true
         },
         {
@@ -82,13 +82,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Hits the Brakes",
+          "title": "Automatic Stop",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Stops on a dime the second you reach the very top or bottom.",
+          "markdown": "Stops moving immediately when you reach the top or bottom of the page.",
           "useRawFormat": true
         },
         {
@@ -97,13 +97,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "At Your Fingertips",
+          "title": "Quick Access",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Turn it on or off in a snap right from your home screen app icon.",
+          "markdown": "Turn it on or off directly by holding the app icon on your home screen.",
           "useRawFormat": true
         },
         {
@@ -112,13 +112,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Kick Back and Read",
+          "title": "Comfortable Reading",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Breeze through long articles, books, and social feeds without lifting a finger.",
+          "markdown": "Read long articles, books, and social media feeds without touching the screen.",
           "useRawFormat": true
         },
         {
@@ -176,7 +176,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "1.0.0 – Fresh out of the oven.",
+          "markdown": "1.0.0 – Initial release.",
           "useRawFormat": true
         }
       ]
