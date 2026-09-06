@@ -1510,6 +1510,23 @@ Name: WGold For WhatsApp
 Author: Ali Latif
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
 
+Package: com.alilatif.wgold
+Architecture: iphoneos-arm
+Version: 2.9
+Section: Tweaks
+Maintainer: Ali Latif
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.alilatif.wgold_2.9_iphoneos-arm.deb
+Size: 6697156
+MD5sum: e48547ca308a133a88bb230111994073
+SHA1: 0d7f3e7d7308a3859086b0cc0af5e5265e1c1885
+SHA256: e1a6a9aa4e91eba33fe52a9fac4c93f587bdb0218cc8b87539e5c200cf999cb9
+SHA512: 28952f0e7354a4469a097843a36ac09e6adce86b986481d50d7dc9404a48deb7f450ea8a461a76f2a52e7835747ae004ddffe9fc968bdadeab43434889765cca
+Description: WhatsApp Customisation Tweak .
+Name: WGold For WhatsApp
+Author: Ali Latif
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
+
 Package: com.alilatif.youpro
 Architecture: iphoneos-arm
 Version: 1.0-b1
@@ -6530,6 +6547,26 @@ SHA256: 29901f259f47087af0f58199d076ef2780b10b1eaafca4043d43efd204a69578
 SHA512: f295432f67dd626c3744366b317bfae651a1a5ce0a7060576653e39dd85de3b3ea4c37f027b9e21840302c05a5eebd4eed48215ab1c7af6bbcfa9d0204664070
 Description: Test Package , Do Not Install .
 Name: Deep Clear
+Author: Kernelrw
+
+Package: com.kernelrw.fatigue
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 580
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Conflicts: autoscroll, com.pxcex.autoscroll, com.autoscroll.jb, cn.llld.autoscroll, com.sini.autoscroll15, xyz.cypwn.autoscroll15, com.dao.autoscroll, com.axs.autoscroll
+Filename: ./debians/iphoneos-arm/com.kernelrw.fatigue_1.0_iphoneos-arm.deb
+Size: 83416
+MD5sum: e0dd53c54281b5da685025958add9cf0
+SHA1: b9e27615044c2da7e82e210dfe83b00e5b8a85d6
+SHA256: 08fcaba50ce255f10bebb0116f4f69115aadd770185968726be195337bb5c608
+SHA512: 650ee910f349b09c4e7988f434555c2e85d7fec7c7fbb2aed0a172355a0b022e80d6a10738bede3e0294456b00655657aa79162447e26daed80898691d03a3f6
+Description: Customized autoscrolling for modern jailbroken devices .
+Name: Fatigue
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Fatigue.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Fatigue/js.json
 Author: Kernelrw
 
 Package: com.kernelrw.hacen-tehran
@@ -16138,6 +16175,23 @@ Name: WGold For WhatsApp
 Author: Ali Latif
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
 
+Package: com.alilatif.wgold
+Architecture: iphoneos-arm64
+Version: 2.9
+Section: Tweaks
+Maintainer: Ali Latif
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.alilatif.wgold_2.9_iphoneos-arm64.deb
+Size: 6697172
+MD5sum: e2a47386301a25daf1a5e2ee70a5b3b9
+SHA1: 0fc8d2f22efc49d0cdda3ca699af906480854396
+SHA256: 69c43ec405c29dfe52ab4efa4c4515cf9b851158b8a7fb09eb4a215c83330840
+SHA512: ada5f27db0baa5c13288961143872f4d9efbed47cfa20c7f53f468336c2b3f2b964d2188d0f791332d9e6ced9a94dcd4fe28aa8192f202032f70778b707617ba
+Description: WhatsApp Customisation Tweak .
+Name: WGold For WhatsApp
+Author: Ali Latif
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
+
 Package: com.alilatif.youpro
 Architecture: iphoneos-arm64
 Version: 1.0-b1
@@ -21101,6 +21155,26 @@ SHA256: 5a1e9248dd62a80b56dacf799b190ee81973cd39ab1be00261cee0a370f73619
 SHA512: 47c9b52af3d049e66bce2c3528b1b8184e5c788eddc8ff609cf25165f9c8314532be380c58f90110dd771388934af526b8ed33db6a1debec5ece025f11ad6ded
 Description: Test Package , Do Not Install .
 Name: Deep Clear
+Author: Kernelrw
+
+Package: com.kernelrw.fatigue
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 580
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Conflicts: autoscroll, com.pxcex.autoscroll, com.autoscroll.jb, cn.llld.autoscroll, com.sini.autoscroll15, xyz.cypwn.autoscroll15, com.dao.autoscroll, com.axs.autoscroll
+Filename: ./debians/iphoneos-arm64/com.kernelrw.fatigue_1.0_iphoneos-arm64.deb
+Size: 83472
+MD5sum: efb040824294952e96f6d978af0a2706
+SHA1: 45d0ec7ae3853a54b0de37d945e4bb163810b49f
+SHA256: bdca99cd3f0ab0737baf562a9e374d2c5ed4a4f8cdc6f0c44e8119650ec58e1a
+SHA512: e4631e3fea093407703e93a59b757a023cb7970f050bb558d3bee5a200b21db54cedf7fc400f0c87fe9557c53f9125b2aa933f797931465830d93b2f510e8d32
+Description: Customized autoscrolling for modern jailbroken devices .
+Name: Fatigue
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Fatigue.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Fatigue/js.json
 Author: Kernelrw
 
 Package: com.kernelrw.hacen-tehran
@@ -32781,6 +32855,24 @@ Name: WGold For WhatsApp
 Author: Ali Latif
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
 
+Package: com.alilatif.wgold
+Architecture: iphoneos-arm64e
+Version: 2.9
+Section: Tweaks
+Maintainer: Ali Latif
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.alilatif.wgold_2.9_iphoneos-arm64e.deb
+Size: 14013872
+MD5sum: 9c9d6b82cf747f754c3e080f74f92203
+SHA1: 0ca9f1c402d84bef0e9d9c9108634c225202393e
+SHA256: 7f3140044bbff53bb386f9d84e8d9257225c8e90d1fdd9cab8261bce78adea64
+SHA512: d6a780909fbcaeece332f02ab0db74a5bbba123313fac881e5d608253515aac637f9c5f7d42c2bb2848f524f7f7839b43901e4d7dd99876d270cbd0b438c2b60
+Description: WhatsApp Customisation Tweak .
+Name: WGold For WhatsApp
+Author: Ali Latif
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
+
 Package: com.alilatif.youpro
 Architecture: iphoneos-arm64e
 Version: 1.0-b1
@@ -37352,6 +37444,26 @@ Name: CPU-x Pro
 Author: Kernelrw
 Sponsor: Kernelrw
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F62108e334bc7792972608e7c&s=150x150&f=webp
+
+Package: com.kernelrw.fatigue
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 580
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Conflicts: autoscroll, com.pxcex.autoscroll, com.autoscroll.jb, cn.llld.autoscroll, com.sini.autoscroll15, xyz.cypwn.autoscroll15, com.dao.autoscroll, com.axs.autoscroll
+Filename: ./debians/iphoneos-arm64e/com.kernelrw.fatigue_1.0_iphoneos-arm64e.deb
+Size: 83368
+MD5sum: 925d5bebeb3f0523f4965e8c10691e87
+SHA1: 494e487b2a456525f6100720067c69147c46be7f
+SHA256: c1c305731c7967e1fc21f931ffa3874792bb5d9f1fdf92bdae6e118089d273ff
+SHA512: 23f4afe65807fc55d32ac14016e48c8b4b5c1e631fbce822c3f9726caa788398ca7c4d83415ea25929ddd408185adfc15487c9a6658b85ab703f03b7792a5039
+Description: Customized autoscrolling for modern jailbroken devices .
+Name: Fatigue
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Fatigue.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Fatigue/js.json
+Author: Kernelrw
 
 Package: com.kernelrw.hacen-tehran
 Architecture: iphoneos-arm64e
