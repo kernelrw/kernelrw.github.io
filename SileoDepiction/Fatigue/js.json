@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Fatigue scrolls automatically for you, letting you read hands-free inside any app on your iPhone or iPad.",
+          "markdown": "Fatigue eliminates scroll exhaustion by bringing smooth, hands-free autoscrolling to any scrollable view on your iPhone or iPad.",
           "useRawFormat": true
         },
         {
@@ -52,13 +52,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Smooth Scrolling",
+          "title": "Native Physics",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Runs smoothly at 60Hz or 120Hz without lag.",
+          "markdown": "Perfect 60/120Hz adaptive smoothness.",
           "useRawFormat": true
         },
         {
@@ -67,13 +67,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "All Directions Supported",
+          "title": "Scroll Direction",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Scrolls automatically up, down, left, or right.",
+          "markdown": "Support for both vertical and horizontal views.",
           "useRawFormat": true
         },
         {
@@ -82,13 +82,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Automatic Stop",
+          "title": "Smart Edge Detection",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Stops moving immediately when you reach the top or bottom of the page.",
+          "markdown": "Automatically stops at content boundaries.",
           "useRawFormat": true
         },
         {
@@ -97,28 +97,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Quick Access",
+          "title": "Accessibility",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Turn it on or off directly by holding the app icon on your home screen.",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Comfortable Reading",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "Read long articles, books, and social media feeds without touching the screen.",
+          "markdown": "Optimized for reading feeds and long documents.",
           "useRawFormat": true
         },
         {
@@ -137,13 +122,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "iOS Version",
-          "text": "iOS 15.0 – iOS 17.x"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Package Version",
-          "text": "1.0.0"
+          "title": "Version",
+          "text": "1.0"
         },
         {
           "class": "DepictionTableTextView",
