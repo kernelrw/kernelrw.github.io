@@ -108,6 +108,21 @@
         },
         {
           "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Quick Access",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Easily enable or disable Fatigue per app from the 3D Touch context menu.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
           "spacing": 16
         },
         {
@@ -119,6 +134,11 @@
         {
           "class": "DepictionSpacerView",
           "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "iOS Versions",
+          "text": "iOS 15.0 – iOS 17.x"
         },
         {
           "class": "DepictionTableTextView",
@@ -139,14 +159,20 @@
           "class": "DepictionTableTextView",
           "title": "Rootful",
           "text": "Palera1n"
-        },
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
         {
           "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 8
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Changes",
+          "title": "Version 1.0.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -156,7 +182,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "1.0.0 – Initial release.",
+          "markdown": "• Initial release.",
           "useRawFormat": true
         }
       ]
