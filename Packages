@@ -14335,18 +14335,18 @@ Package: org.brandonplank.haptic13
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Brandon Plank & Kernelrw
+Maintainer: Brandon Plank
 Installed-Size: 416
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
 Filename: ./debians/iphoneos-arm/org.brandonplank.haptic13_1.0.1_iphoneos-arm.deb
-Size: 53460
-MD5sum: 5fbac304729b84aa9c6c158d4dc051f2
-SHA1: d6ea3404d5a371e57cc3c83eb6d2507668eea4c1
-SHA256: 62813630259636627bff656973ea2b2d7367bae2645913400959c09c9287f44e
-SHA512: 9318153ac2fdbbac36ce5ff2a59bcdf1468d8fda1375208262105f746e596c74dbe1a39531615b0d8ce32a16a6bbd9c6ef96608ae32688d90083990d8a71ae36
+Size: 53432
+MD5sum: 3f1b7bcee01164367adf3bef65964478
+SHA1: 07832e603c24918117682c6b7369865e589633e9
+SHA256: 6571d8fdbef6c7f77ab33c38775e91855a1ca42ca10af3009ee80f54b517d2cd
+SHA512: 758790a3d2a98be53d3d1983d48abacd80554697c831195bb7c016955b5a1d193e2c3f294c094b53b0ea8d788980117e384b4e895375e566cfa90cfbc20d5ea4
 Description: Puts haptics in places apple should have! Updated for iOS17+
 Name: Haptic13
-Author: Brandon Plank
+Author: Brandon Plank & Kernelrw
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Haptic13.png?raw=true
 
 Package: org.coolstar.classicfolders2
@@ -30762,18 +30762,18 @@ Package: org.brandonplank.haptic13
 Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Brandon Plank & Kernelrw
+Maintainer: Brandon Plank
 Installed-Size: 416
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
 Filename: ./debians/iphoneos-arm64/org.brandonplank.haptic13_1.0.1_iphoneos-arm64.deb
-Size: 53516
-MD5sum: 657b46ea3f3dd6a9a3b3329ad9dddb88
-SHA1: c667efe53d77922dd1a88aab22be57b585419382
-SHA256: 3e8dba9d11ea5c455bf2360b00d6b4d3a1e18757bf3c6e0f258e4f55e445240d
-SHA512: 1ed616708d6fa548e19b57062b7e6f772132cd618d8fc3cf5ef555c739f1ef240ee95574c0981d51551871a50c0ee4f380dbaea15fda4e68b7c2a2a90968597c
+Size: 53528
+MD5sum: 03c66ae6073a2beb1da4373e419efd0f
+SHA1: e4df529cf8d52f95e8abf5870c1872cbd259d9e0
+SHA256: d83ef12e9caf834fd73aaf718cf1aba0ca917dbe8996eda0d84dcf4e89a09928
+SHA512: 3d00ff7df517ed47797b888ca8a74a5c54c1a5a4e30804ed77f3d09fb09b9749983281303af986bd0686d4cf459df815713b3babf98ff1a0a039542a0d90f9ad
 Description: Puts haptics in places apple should have! Updated for iOS17+
 Name: Haptic13
-Author: Brandon Plank
+Author: Brandon Plank & Kernelrw
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Haptic13.png?raw=true
 
 Package: org.coolstar.classicfolders2
@@ -47075,18 +47075,18 @@ Package: org.brandonplank.haptic13
 Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Brandon Plank & Kernelrw
+Maintainer: Brandon Plank
 Installed-Size: 416
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
 Filename: ./debians/iphoneos-arm64e/org.brandonplank.haptic13_1.0.1_iphoneos-arm64e.deb
-Size: 53464
-MD5sum: 4f4fe6cf2297706a25c7b1b70f8ba518
-SHA1: 029edf80a30a8f04a28147cab54558a7cbe63528
-SHA256: c8a68477e068c0120dac5d4902c0be5a898f07f95739e7a47079ff7340c3a8cd
-SHA512: ad50c951dfcba256a6f5fc5d08d7bcba85f456e351439c09408eed8bb01fe2783ea4794b3dd021f5297bb5af529bef00bb6fccecb82f1b9c5f67f9547e5bb401
+Size: 53452
+MD5sum: 776e86152f35fd4d1b02320a98327377
+SHA1: f767d6fac0a3db2c5800686f975eb90745989a93
+SHA256: 5226a845755922518ec94722632c794537e704d737bede4ad2b8685f9fd0c95d
+SHA512: 98a468d98a801d87ca67cf611ca399bb5165b1d553eb33d40add0cf1beebbbae5e559a7cccd434cac56af4c7d95fd90c732f1268c5ee0bab6bb23bd09956ebb6
 Description: Puts haptics in places apple should have! Updated for iOS17+
 Name: Haptic13
-Author: Brandon Plank
+Author: Brandon Plank & Kernelrw
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Haptic13.png?raw=true
 
 Package: org.coolstar.classicfolders2
