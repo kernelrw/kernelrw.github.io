@@ -16641,6 +16641,23 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.barabadev.otaguard
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BarabaDev
+Installed-Size: 2160
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.barabadev.otaguard_1.0.0_iphoneos-arm64.deb
+Size: 1338960
+MD5sum: 56493e687d1781e7b2f16663612f2876
+SHA1: 8f614054970df9fc776647bbd4bae33fc5c75f66
+SHA256: db12b4708189439a1e93fecc898685c3e4bc32cacb25f847e9c1e90df7b644de
+SHA512: 0a842067964f8763dd1afc6455b1446cb61201e26a4e011e9d6a875cf64866b1972cfa5bceae4c481a038e36a156dc8be30dd3c373ad48ee55363dda74e9ef12
+Description: Block iOS OTA updates directly from Settings.
+Name: OTA Guard
+Author: BarabaDev
+
 Package: com.barabadev.snowboardios17fix
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -33272,6 +33289,24 @@ SHA512: 277854710038f1e189ddd8eb8ee87120f6b9b2a7c5dcccb674d80ed7bdbf4fbe4ff4100c
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
+
+Package: com.barabadev.otaguard
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BarabaDev
+Installed-Size: 2160
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.barabadev.otaguard_1.0.0_iphoneos-arm64e.deb
+Size: 2729088
+MD5sum: 08800bd6f156a23336bd85aed64922fd
+SHA1: e35ab4bcc58f18cab15b3dc56933576f485488a4
+SHA256: 682302274d8c8edeb82ec1c1770e844ba2c973727fd3040530925a9bed0b026c
+SHA512: 1eb2875f1a976d527a1df2cb9b0c86d466d499643767dbc805298bf584c682c64590e17d8a6a1b5dba5a659b863c8de921b6045f29c39cfab38879db9efb4be6
+Description: Block iOS OTA updates directly from Settings.
+Name: OTA Guard
+Author: BarabaDev
 
 Package: com.barabadev.snowboardios17fix
 Architecture: iphoneos-arm64e
