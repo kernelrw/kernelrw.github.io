@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Adytum provides a true application background management for modern jailbroken devices (iOS15.0-iOS17.x).",
+          "markdown": "Adytum provides a true application backgrounding management for modern jailbroken devices.",
           "useRawFormat": true
         },
         {
@@ -46,7 +46,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Adytum features four backgrounding modes which you can assign either from 3D Touch/Haptic Touch context menu or from within tweak settings page as app selections .",
+          "markdown": "Adytum features four backgrounding modes which you can assign either from 3D Touch/Haptic Touch context menu or from within tweak settings page as app selections:",
           "useRawFormat": true
         },
         {
@@ -71,7 +71,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Prevents iOS from ever closing your protected apps even under memory pressure ; (use this feature with caution , enabling many apps randomly may run your device out of memory - sever system lag).",
+          "markdown": "Prevents iOS from ever closing your protected apps even under memory pressure. (Use this feature with caution, enabling many apps randomly may make your device run out of memory - severe system lag - firing memory warnings in the toast banner frequently.)",
           "useRawFormat": true
         },
         {
@@ -86,22 +86,12 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Enabled apps behave as if they are running in the foreground (apps are never suspended ). Perfect for files uploads downloads - listening to music or whatever purpose you wish . Credits to SergeAlagon for his amazing tweak Immortalizer .",
+          "markdown": "Enabled apps behave as if they are running in the foreground (apps are never suspended). Perfect for file uploads/downloads, listening to music, or whatever purpose you wish.",
           "useRawFormat": true
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 8
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Credits: SergeAlagon (Immortalizer)",
-          "action": "https://x.com/srgndrlgn?s=21",
-          "openExternal": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 12
         },
         {
           "class": "DepictionSubheaderView",
@@ -111,7 +101,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Instantly freezing your apps the moment they leave the foreground and return to them whenever you want to the point you left without reloading . You have a slider of 10 seconds period inside tweak settings to control FF delay .",
+          "markdown": "Instantly freezing your apps the moment they leave the foreground and return to them whenever you want to the point you left without reloading. You have a slider of a 10 second period inside tweak settings to control FF delay.",
           "useRawFormat": true
         },
         {
@@ -126,7 +116,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Freezes enabled apps instantly & put them instantly in memory as a prevented terminate apps .",
+          "markdown": "Freezes enabled apps instantly & put them in memory as prevented terminated apps.",
           "useRawFormat": true
         },
         {
@@ -145,38 +135,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "WhatsApp Notifications Fix",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "Since we are hooking runnigboardd , implementing WhatsApp Service Extension memory expansion is here . You have a toggle inside tweak settings to enable or disable this feature . If happened this feature is not working correctly , make sure to target WhatsApp with FF or PS mode (Fast Freeze mode preferably).  Credits to 0xkuj for FixWANotifs tweak .",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Credits: 0xKuj (FixWANotifs)",
-          "action": "https://x.com/0xkuj?s=21",
-          "openExternal": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 12
-        },
-        {
-          "class": "DepictionSubheaderView",
           "title": "Toast Notification Banner",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Changing any state for any app from 3D touch context menu will fire a nice toast banner containing the activated state and app name .",
+          "markdown": "Changing any state for any app from 3D touch context menu will fire a nice toast banner containing the activated state and app name.",
           "useRawFormat": true
         },
         {
@@ -191,7 +156,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "If you encounter issues (strange behavior ) for any app , this feature is here to exclude the targeted app from the 4 protection modes .",
+          "markdown": "If you encounter issues (strange behavior) for any app, this feature is here to exclude the targeted app from the 4 protection modes.",
           "useRawFormat": true
         },
         {
@@ -206,7 +171,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "As an action inside tweak settings to export and import the entire configurations for all of your protected apps with all those 4 protection modes and restore them any time later ( for those who restore rootfs frequently ).",
+          "markdown": "As an action inside tweak settings to export and import the entire configurations for all of your protected apps with all those 4 protection modes and restore them any time later (for those who restore rootfs frequently).",
           "useRawFormat": true
         },
         {
@@ -221,7 +186,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Safely purge unmanaged backgrounded apps from within tweak settings to apply new modes without a Respring .",
+          "markdown": "Safely purge unmanaged backgrounded apps from within tweak settings to apply new modes without a Respring.",
           "useRawFormat": true
         },
         {
@@ -236,7 +201,22 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "If enabled , will record all backgrounding events for the 4 protection modes & global bypasses .",
+          "markdown": "If enabled, will record all backgrounding events for the 4 protection modes & global bypasses.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Memory Pressure Guard",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Warnings will be shown in the toast banner, either scaling allocations or degrading protections to retain memory and avoid system lags.",
           "useRawFormat": true
         },
         {
@@ -245,7 +225,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Known Issues ( unsolvable issues )",
+          "title": "Known Issues (unsolvable issues)",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -261,7 +241,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "v561+ may launch to a black screen when applying \"Prevent Termination\" for the first time. Resetting app data or reinstalling the app will solve this issue forever .",
+          "markdown": "v561+ may launch to a black screen when applying \"Prevent Termination\" for the first time. Resetting app data or reinstalling the app will solve this issue forever.",
           "useRawFormat": true
         },
         {
@@ -276,7 +256,22 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Targeting WhatsApp with  \"Prevent Termination\" or the \"combined mode\" will make the app flushing into a black screen only in case returning to the app from a Prevented Termination state and other protected apps are in the AppSwitcher . Targeting WhatsApp with other modes is safe and works fine  .",
+          "markdown": "Targeting WhatsApp with \"Prevent Termination\" or the \"combined mode\" will make the app flash into a black screen only in case returning to the app from a Prevented Termination state and other protected apps are in the App Switcher. Targeting WhatsApp with other modes is safe and works fine.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Multi-scene apps",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Multi-scene apps like Safari may require a userspace reboot to correctly achieve Prevent Termination.",
           "useRawFormat": true
         },
         {
@@ -306,7 +301,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Tested Devices",
-          "text": "iPhone 7 15.8 , iPhone X 16.6 , iPhone 13 Pro 17.0 , iPhone 13 PM 16.3.1 & iPad Air 5 17.0"
+          "text": "iPhone 7 (15.8), iPhone X (16.6), iPhone 13 Pro (17.0), iPhone 13 Pro Max (16.3.1) & iPad Air 5 (17.0)"
         },
         {
           "class": "DepictionSpacerView",
@@ -314,7 +309,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Roothide - Relaxin Users : You can reach me on Discord (kernelrw) for pure arm64e deb . Or you can use Roothide patcher and it will do the job.",
+          "markdown": "RootHide - Relaxin Users: You can reach me on Discord (kernelrw) for pure arm64e deb, or you can use RootHide patcher and it will do the job.",
           "useRawFormat": true
         }
       ]
