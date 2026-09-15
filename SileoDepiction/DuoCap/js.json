@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**DuoCap** merges battery monitoring, network telemetry, and connectivity status into a sleek, unified circular orbit right within the status bar[cite: 1, 6].",
+          "markdown": "**DuoCap** merges battery monitoring, network telemetry, and connectivity status into a sleek, unified circular orbit right within the status bar.",
           "useRawFormat": true
         },
         {
@@ -66,7 +66,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Replaces cluttered status bar icons with an elegant dynamic ring indicator combining battery health, real-time cellular reception, and Wi-Fi link status[cite: 1, 6].",
+          "markdown": "Replaces cluttered status bar icons with an elegant dynamic ring indicator combining battery health, real-time cellular reception, and Wi-Fi link status.",
           "useRawFormat": true
         },
         {
@@ -81,7 +81,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Full control over battery percentage visibility directly in the orbit ring, complete with dynamic color transitions for charging, low power, and critical battery states[cite: 1].",
+          "markdown": "Full control over battery percentage visibility directly in the orbit ring, complete with dynamic color transitions for charging, low power, and critical battery states.",
           "useRawFormat": true
         },
         {
