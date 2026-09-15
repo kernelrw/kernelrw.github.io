@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**DuoCap** merges battery monitoring, network telemetry, and connectivity status into a sleek, unified circular orbit right within the status bar.",
+          "markdown": "DuoCap merges battery monitoring, network telemetry, and connectivity status into a sleek, unified circular orbit right within the status bar.",
           "useRawFormat": true
         },
         {
