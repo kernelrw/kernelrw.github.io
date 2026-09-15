@@ -1,0 +1,180 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/DuoCap/DuoCap.png",
+  "tintColor": "#007AFF",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**DuoCap** merges battery monitoring, network telemetry, and connectivity status into a sleek, unified circular orbit right within the status bar[cite: 1, 6].",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot 1",
+              "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/DuoCap/Screenshot_01.png"
+            },
+            {
+              "accessibilityText": "Screenshot 2",
+              "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/DuoCap/Screenshot_02.png"
+            },
+            {
+              "accessibilityText": "Screenshot 3",
+              "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/DuoCap/Screenshot_03.png"
+            },
+            {
+              "accessibilityText": "Screenshot 4",
+              "url": "https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/DuoCap/Screenshot_04.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Key Features",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Unified Status Orbit",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Replaces cluttered status bar icons with an elegant dynamic ring indicator combining battery health, real-time cellular reception, and Wi-Fi link status[cite: 1, 6].",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Interactive Battery Indicator",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Full control over battery percentage visibility directly in the orbit ring, complete with dynamic color transitions for charging, low power, and critical battery states[cite: 1].",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Dynamic Dimension Scaling",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Easily scale the orbit size via a dedicated preference slider to match your status bar spacing and notch or Dynamic Island geometry.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "PAC & Modern Architecture Safe",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Engineered with pointer authentication safeguards for flawless execution on arm64e architectures without sandbox or runtime issues.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Compatibility & Support",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 15.0 - iOS 17.7"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Environments",
+          "text": "Rootless, Rootful & RootHide"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Architectures",
+          "text": "arm64, arm64e"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Version History",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "v1.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "• Initial release of DuoCap.\n• Dynamic status orbit combining Wi-Fi, cellular dots, and battery state[cite: 1, 6].\n• Integrated preferences with live sizing, percentage toggle, and multi-language support (English & Arabic).",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
