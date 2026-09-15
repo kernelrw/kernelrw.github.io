@@ -6483,6 +6483,26 @@ Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 980
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm/com.kernelrw.adytum_1.0_iphoneos-arm.deb
+Size: 135996
+MD5sum: 93739a3d933aee3c9d6ceaedf79c76f0
+SHA1: d600304ddd6d8748832a3b403aa3f500f3e96018
+SHA256: fba4fdb0a348a8214e8430d5efa1b5c1385e7c3771b29f2f44ada7c4d37861ec
+SHA512: 593c9cc78e8a2368b94ad5fe402d8d555c4efafa4c417a25d789e091bc5fd32e92291ed96b27ea6df452c30b5f6a49efe3076b951b6933f2fd30bb151a7d2966
+Description: True application backgrounding management.
+Name: Adytum
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
+
 Package: com.kernelrw.cartooncolor
 Architecture: iphoneos-arm
 Version: 1.0
@@ -16658,6 +16678,23 @@ Description: Block iOS OTA updates directly from Settings.
 Name: OTA Guard
 Author: BarabaDev
 
+Package: com.barabadev.otaguard
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BarabaDev
+Installed-Size: 1044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.barabadev.otaguard_1.0.1_iphoneos-arm64.deb
+Size: 189444
+MD5sum: f44631c659bd55021deb2c4aff3a4523
+SHA1: 83035e19af938ba55f1ed3a04797087f2b8860b3
+SHA256: dc1631b30dd1ef60defa2badc272d08cb93e3ec0d66aa8f362465ab2d884b9e4
+SHA512: d76fda01ac9a8cc362a35cfe43c7f7d07f03a94ce527642e283f5c876cc01437ee2af5a52c3221fe8a14efc4c11526df7278856e882037c934d9b7f754dd1af3
+Description: Block iOS OTA updates directly from Settings.
+Name: OTA Guard
+Author: BarabaDev
+
 Package: com.barabadev.snowboardios17fix
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -21128,6 +21165,26 @@ Name: TrollPad
 Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 980
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm64/com.kernelrw.adytum_1.0_iphoneos-arm64.deb
+Size: 135900
+MD5sum: 5fe861ddd9d306a9830344859b44fc16
+SHA1: 5f78b59e55ace8514af8018d000245279a248ab4
+SHA256: b2ac6da8b01fc0c5bdfc3b500bb4477e8f75453e71e16f3ae2af1140c2f81d35
+SHA512: 44681e48a8c47f9b78bccb86556cbc6d861402fe8f53b046a9af984d0ddfdb2b584543b827525aa010acf4cb1a61b34415575df7f7fb206eb04e685b015a34f4
+Description: True application backgrounding management.
+Name: Adytum
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
 
 Package: com.kernelrw.cocon-next-arabic
 Architecture: iphoneos-arm64
@@ -33308,6 +33365,24 @@ Description: Block iOS OTA updates directly from Settings.
 Name: OTA Guard
 Author: BarabaDev
 
+Package: com.barabadev.otaguard
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BarabaDev
+Installed-Size: 1044
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.barabadev.otaguard_1.0.1_iphoneos-arm64e.deb
+Size: 221448
+MD5sum: 32ab88fd99e33091cc93fcee059f3f2d
+SHA1: f09f43e590de3d879a5e5859e2b816e78860738f
+SHA256: 091b6314f9a2ad6c81f15d619bf74a74e4781ee69124cea8176abe9491a4735b
+SHA512: 6552ba75eee07e1f38892e728df06b5d2b864e30b4dc32e73e4b915c92d2bae846d88dd6207913249624abb44388143af3c0e97e554e29dd8564980c3ee4be42
+Description: Block iOS OTA updates directly from Settings.
+Name: OTA Guard
+Author: BarabaDev
+
 Package: com.barabadev.snowboardios17fix
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -37389,6 +37464,26 @@ Name: TrollPad
 Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 980
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, preferenceloader
+Conflicts: com.sergy.immorrtalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm64e/com.kernelrw.adytum_1.0_iphoneos-arm64e.deb
+Size: 136068
+MD5sum: 6b1e796e9c56e6a8a6d64ae3cc45cf98
+SHA1: 2de46d938f9aef64d350762f9a8b8ec260631ba2
+SHA256: afb001c5c4b9b6f638dacda7a7bdb328e59a45216c494d4db2ccd4cfad1feaec
+SHA512: d9289ea254ce008a6504bb0a07d502907f533f9681bff896e4d55c5713b5aff4d0d510730ce01ece4a83c53e3c86ec86977b59458c2f030dc281ecc3c68edae2
+Description: True application background management for modern jailbroken devices (iOS15.0-iOS17.x).
+Name: Adytum
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
 
 Package: com.kernelrw.ccautobrightness
 Architecture: iphoneos-arm64e
