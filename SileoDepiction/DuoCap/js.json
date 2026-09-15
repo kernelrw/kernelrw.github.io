@@ -165,13 +165,13 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "v1.0",
+          "title": "v1.0.1",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• Initial release of DuoCap.\n• Dynamic status orbit combining Wi-Fi, cellular dots, and battery state[cite: 1, 6].\n• Integrated preferences with live sizing, percentage toggle, and multi-language support (English & Arabic).",
+          "markdown": "• Bug fixes.",
           "useRawFormat": true
         }
       ]
