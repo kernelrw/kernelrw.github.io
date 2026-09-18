@@ -6592,6 +6592,26 @@ SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/ma
 
 Package: com.kernelrw.duocap
 Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 428
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.axs.duostatus, com.callassist.caiphoneduostatus, iya.banana.iphoneduoicon, com.34306.duobars, com.34306.duobar
+Filename: ./debians/iphoneos-arm/com.kernelrw.duocap_1.0.3_iphoneos-arm.deb
+Size: 46000
+MD5sum: ba59c265c6c2a12022846139e5868a6e
+SHA1: 6d362e41a6c809943851c52da18d49da23dcc5db
+SHA256: 2df9b4a3ba762d0f3891592d48bb8a045b34f0088edcf1e64716fcb72bedda43
+SHA512: c8a30cdf0e6dfb617ad06f042d4b3ef3ded22e76531520d5e90a277f50cb05922d41a5e7033ff2e0ee748121be5623c4d7b75e905e57dc7c7ac69d620dab9e65
+Description: Brings iPhone Duo status orbit to older devices.
+Name: DuoCap
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/DuoCap.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/DuoCap/js.json
+
+Package: com.kernelrw.duocap
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Kernelrw
@@ -21307,6 +21327,26 @@ MD5sum: 3f95a78f376158939acba1d931ac8b9a
 SHA1: 074c08ceef88a6fe317ba9c187b66baf388b6395
 SHA256: 35a9cdbf0be8678140958365a7a02fa706cf10c09ac16a23bda4c1457ea02c3e
 SHA512: dca5ac164786a12891d5f498d9f741adaa8b9e5509966e2b559c5224ea2d941ea8ad99c94c566b6045d77d91ade2a18371acf794bce39fa54101420714a0e30b
+Description: Brings iPhone Duo status orbit to older devices.
+Name: DuoCap
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/DuoCap.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/DuoCap/js.json
+
+Package: com.kernelrw.duocap
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 428
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.axs.duostatus, com.callassist.caiphoneduostatus, iya.banana.iphoneduoicon, com.34306.duobars, com.34306.duobar
+Filename: ./debians/iphoneos-arm64/com.kernelrw.duocap_1.0.3_iphoneos-arm64.deb
+Size: 46052
+MD5sum: a5c00e28bcba633fe528e316d4a20982
+SHA1: e4a4894cb18f075aeceaa0d34c85c39d35d2a98d
+SHA256: 2eacf58ff3bc6dffd803b1246678755db28b7954e6ecd7e3dfa30d820d328267
+SHA512: 3425550495169611a7780dd51f72cb3a3aa8d0ffd10261b1b82d10816aa02b976b33503a18edc22bb817564d40791d89227d8a5d21db55248421e177db05cbbc
 Description: Brings iPhone Duo status orbit to older devices.
 Name: DuoCap
 Author: Kernelrw
@@ -37689,6 +37729,26 @@ MD5sum: f95fb9b1e10c536fa7d3b7e13afc6471
 SHA1: cc1ebdd4a6f141ff57fdccf1749f127dc9e707c8
 SHA256: a09353d595665ac722cca39a9f2114ec73005db6faf2c295fb5c2f1372139280
 SHA512: 6d33c6c20040a3d16303a6aa3928acb64aa4168757236a084b6af193a81104e31ef932f7cc55b1b10ab12b6bd9b4efe3dc874509d29b39c306098e3c13269466
+Description: Brings iPhone Duo status orbit to older devices.
+Name: DuoCap
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/DuoCap.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/DuoCap/js.json
+
+Package: com.kernelrw.duocap
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 428
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.axs.duostatus, com.callassist.caiphoneduostatus, iya.banana.iphoneduoicon, com.34306.duobars, com.34306.duobar
+Filename: ./debians/iphoneos-arm64e/com.kernelrw.duocap_1.0.3_iphoneos-arm64e.deb
+Size: 46028
+MD5sum: f8f86b23543f0fd87316c8613fe3a6c1
+SHA1: 89191ca308bc328924deb9152c4c20281152a5fb
+SHA256: 9c9095e6e79d7f8587e8ec50be20510ca52987405a21f5a20181adb70e225d75
+SHA512: 90b41d8b1603caeed4244aedcbf7107ab0b695294cef8a98cf7638d28606f6829c4ffe8131532f59159d0d115c01ba030d46d33fe6f7e89be5d1b86ee399a887
 Description: Brings iPhone Duo status orbit to older devices.
 Name: DuoCap
 Author: Kernelrw
