@@ -10840,6 +10840,23 @@ Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
 
+Package: com.spark.snowboard.respringextension
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 408
+Depends: firmware (>= 15.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debians/iphoneos-arm/com.spark.snowboard.respringextension_1.0.8_iphoneos-arm.deb
+Size: 25352
+MD5sum: fe0ecef025b1eea0cbcdf628acfaa0a6
+SHA1: bc1be02433a55c19200063108334597c211c7e99
+SHA256: 34615713cc72459b8d0320baeef5f817a79510fe8ec6e937b0b261d054db69df
+SHA512: aec62604facae7e214b73c7b5399a585e3a81b934c564346b70847143236d21cbc4e68809ff51221b9b8b65b96506e788297a841ca9e6b2152049c53c1f0a583
+Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 15.0 - iOS 17.3.1.
+Name: SnowBoard Respring Extension
+Author: Spark & Kernelrw
+
 Package: com.spark.snowboard.settingsicons
 Architecture: iphoneos-arm
 Version: 1.0.26~Beta3
@@ -26516,6 +26533,23 @@ SHA512: e913bf0f729d72bdc4704e3be0c8ef1bfa4703690d38c298ec85d371289219de03dd16db
 Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
+
+Package: com.spark.snowboard.respringextension
+Architecture: iphoneos-arm64
+Version: 1.0.8
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 408
+Depends: firmware (>= 15.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debians/iphoneos-arm64/com.spark.snowboard.respringextension_1.0.8_iphoneos-arm64.deb
+Size: 25464
+MD5sum: 99bd30ed462f133b5a522e57d0d57cd2
+SHA1: 0e4d4f9e5aa79611ac40a355fac5efe254a94005
+SHA256: c1df41d4a2dd07bf7d3e6d7b6538ce2208e7443855262be26d22247002d0f965
+SHA512: 0984c38db368537773983649096c27b3d1906c04141b8741044af960c891ef0e392eeb8775a41a049a99418bb077ffda959f4a9b2e0b93e32ac6ba6ba1c6951b
+Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 15.0 - iOS 17.3.1.
+Name: SnowBoard Respring Extension
+Author: Spark & Kernelrw
 
 Package: com.spark.snowboard.settingsicons
 Architecture: iphoneos-arm64
@@ -43576,6 +43610,23 @@ SHA512: 928c3e009031c6d6f7278ccb6366b1babc3b254c17137726b9b6c11368b0f1379d2ef8eb
 Description: Respring icon extension for SnowBoard
 Name: SnowBoard Respring Extension
 Author: Spark
+
+Package: com.spark.snowboard.respringextension
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 408
+Depends: firmware (>= 15.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debians/iphoneos-arm64e/com.spark.snowboard.respringextension_1.0.8_iphoneos-arm64e.deb
+Size: 25384
+MD5sum: d6d8511c561c23e4d32bef6f32cbf49d
+SHA1: 4b9265378f7e1dba5c378aa370e7b0058ec31f6c
+SHA256: ab56c691a61ded5eb30d1a6420e141dc78dd210900e2264de18714ef0c0bb272
+SHA512: 524bea7f7ffe1412fe49fef2ae952cb2cdf46389ab3969d9ecacab9a74f0f2f0e0c63ae7ed73b14f8dd60080aeeca1cea184b650d0e7eb6e621a4a954ac5fee3
+Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 15.0 - iOS 17.3.1.
+Name: SnowBoard Respring Extension
+Author: Spark & Kernelrw
 
 Package: com.spark.snowboard.settingsicons
 Architecture: iphoneos-arm64e
