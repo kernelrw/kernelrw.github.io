@@ -19483,6 +19483,29 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64
+Version: 2.2.4
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3308
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.netshield_2.2.4_iphoneos-arm64.deb
+Size: 2970002
+MD5sum: 0aad83ce74d2f1610d361a923ac49937
+SHA1: 495be603c973d008020b8975395d395dbf46ea66
+SHA256: d55ee63df14789c659681333bd525511b48a41ee307619e9eadbbabb1fc82830
+SHA512: ec705b39815f947f078dc5d4acd40df6fda1dc5e77e7531cfc50d7a1a851ae7a5b463aaa32f0c305c69a8d27b78cc062b894142d1ff42ab0cc2b65723c125c29
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -20083,6 +20106,28 @@ SHA512: 554afb5a16ea71575b931f231b301946e6280af7c72504ab3848312e451eefe3c2438e9d
 Description: Bypass passcode in many ways, support rootless & roothide Dopamine jailbreak on 16+
 Name: PassBy
 Author: Giorgio Iavicoli
+
+Package: com.gokuencinar.bandlock.dopamine
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Gokuencinar
+Installed-Size: 1588
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate
+Recommends: com.opa334.ccsupport
+Conflicts: com.gokuencinar.bandlock, com.gokuencinar.bandlock.rootful
+Filename: ./debians/iphoneos-arm64/com.gokuencinar.bandlock.dopamine_1.2_iphoneos-arm64.deb
+Size: 219170
+MD5sum: 197c313fea4367b2472b5ef86dfa75e1
+SHA1: 2f684493c78ea99e6d92705726045ae9445700e7
+SHA256: da1c60c3a1a30b51b10bcdc1cc0a9493cb564286f80903d3fa2ab00a3312563c
+SHA512: 7bbdbbd9bf89ecb19c178550029ee0d84127ce4fe56bb1b616481e051a4eb6b0f67a139a5fbf718a7dbf710d393d0a8eaee0479cf67f18065682302e6683614f
+Homepage: https://github.com/Gokuencinar/GokuEnREPO/blob/main/BANDLOCK.md
+Description: Standalone BandLock Global app for iOS 15-18 Dopamine rootless with isolated LTE/4G and 5G NR modem control, worldwide band references, Field Test, multilingual UI and write verification. iOS 17 and 18 support is experimental.
+Name: BandLock (Dopamine)
+Author: Gokuencinar
+Depiction: https://gokuencinar.github.io/GokuEnREPO/bandlock.html
+Icon: https://raw.githubusercontent.com/Gokuencinar/GokuEnREPO/main/assets/bandlock/icon.png
 
 Package: com.golddavid.manila
 Architecture: iphoneos-arm64
@@ -35766,6 +35811,29 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64e
+Version: 2.2.4
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3308
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.netshield_2.2.4_iphoneos-arm64e.deb
+Size: 2969744
+MD5sum: babead2accb4ae776dc1a9fa5fc7f3be
+SHA1: b7574fd8fcece8b7c7b3263edae1dbb84911f2c0
+SHA256: 0650ace79eb3a3fb599dddf43483278d13e1b20ce0e9ac97a8b7d0e88764f416
+SHA512: 316b94ac59b9818be419a099ce6bd499393f57de620d9e1291172e5190813eecb69da2e7e2fe108591303865b6266c35b89da5dc37b54bb10c3e1dd3cc899c83
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -36391,6 +36459,28 @@ SHA512: 1208318d1e06aadd009753131e6aa3fe0b26ce200b30132ebbc01644f9a47a02254a9235
 Description: Bypass passcode in many ways
 Name: PassBy
 Author: Giorgio Iavicoli
+
+Package: com.gokuencinar.bandlock
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: Gokuencinar
+Installed-Size: 1604
+Depends: firmware (>= 15.0), firmware (<= 17.0)
+Recommends: com.opa334.ccsupport
+Conflicts: com.gokuencinar.bandlock.dopamine, com.gokuencinar.bandlock.rootful
+Filename: ./debians/iphoneos-arm64e/com.gokuencinar.bandlock_1.2_iphoneos-arm64e.deb
+Size: 216464
+MD5sum: 506408e403291797be8af620ad41a53b
+SHA1: 8620368ae57ca86054174cd9e7b5e323a1f4b7c5
+SHA256: 808ab6a51d086dd4294882dd007ce4732afb39d2dda1f329046a321c4cf85e38
+SHA512: d2099e611396c82be36d906b95d29faff2e802b01e775ed472140f173e655a709c67a7c75a499e913550df4bff18817daba788b32dee27863efb63b681aa62f6
+Homepage: https://github.com/Gokuencinar/GokuEnREPO/blob/main/BANDLOCK.md
+Description: Standalone BandLock Global app for iOS 15-17 RootHide with isolated LTE/4G and 5G NR modem control, worldwide band references, Field Test, multilingual UI and write verification. iOS 17 support is experimental.
+Name: BandLock (RootHide)
+Author: Gokuencinar
+Depiction: https://gokuencinar.github.io/GokuEnREPO/bandlock.html
+Icon: https://raw.githubusercontent.com/Gokuencinar/GokuEnREPO/main/assets/bandlock/icon.png
 
 Package: com.golddavid.manila
 Architecture: iphoneos-arm64e
