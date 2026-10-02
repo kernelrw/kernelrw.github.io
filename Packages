@@ -4919,6 +4919,22 @@ Description: Decrypt iOS apps with TrollStore
 Name: TrollDecrypt
 Author: fiore
 
+Package: com.flo.hipcharge
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Flo
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/com.flo.hipcharge_1.4.0_iphoneos-arm.deb
+Size: 5284
+MD5sum: 25e0e2f8e4ac5d4c8500bafd27418a66
+SHA1: d7bb2ef9555020799571deb13e008b941cc76292
+SHA256: 0fdf0b9501f2fc1b95cda60443218e8a847eebe671ada46c2f9733fcbaa08cad
+SHA512: a8ddf559c178bb0d47f29eb336ef48092fbb2adef6f437ada799656e3d62f215ffc49558fc06848ea7737d8514ed683f74d708bd679ba85a112311d4c1e08e2d
+Description: Enables Simulate HIP while charging, disables it when unplugged.
+Name: HIPCharge
+Author: Flo
+
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm
 Version: 1.4.6-1
@@ -19882,6 +19898,22 @@ SHA512: 505dfb3d3a7e44d6403c70ef76e1aaff6931fdd419fe9810b2bbeacf102c52fc720a786d
 Description: Decrypt iOS apps with TrollStore
 Name: TrollDecrypt
 Author: fiore
+
+Package: com.flo.hipcharge
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Flo
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.flo.hipcharge_1.4.0_iphoneos-arm64.deb
+Size: 5316
+MD5sum: 8028051b54f8bab99bd3bc49948794dd
+SHA1: 2985493f8303584cdecb7749e56b8af507982046
+SHA256: 965effe2390b366e9685e32d5a19bb1a0a218cc5780042698edb8e24492fd33b
+SHA512: 1f22720fe59a149dc332c375c5dbb56204f8902d934dfc2eeac4544ac4a3f1a78db44d67df6882056a521819ccacdb964edd010d7aed5bffbec9a6d1779cba6e
+Description: Enables Simulate HIP while charging, disables it when unplugged.
+Name: HIPCharge
+Author: Flo
 
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm64
@@ -36247,6 +36279,22 @@ SHA512: b8112f58462aa4cf2fc889d5dbf561a22b054ca4ddc92b6c792160bd115ccfbcbec4a7b7
 Description: Decrypt iOS apps with TrollStore
 Name: TrollDecrypt
 Author: fiore
+
+Package: com.flo.hipcharge
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Flo
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.flo.hipcharge_1.4.0_iphoneos-arm64e.deb
+Size: 5292
+MD5sum: 0af791d236a4e10f594c6c336593a68c
+SHA1: 9720b2a5359efba55b8e518108896e79599226ee
+SHA256: 9997ca5ae664b72a35ed2642ff96263a6ed083ccbd5014a3b6434447dfa591b2
+SHA512: 970aad92161d570381111321eec1a1aa4a51dcb3257334d7b16bfbda8873d6056790c022542fdf0fc07cf07e60dcebcb260da7a8b6268685e684311eac04e90c
+Description: Enables Simulate HIP while charging, disables it when unplugged.
+Name: HIPCharge
+Author: Flo
 
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm64e
