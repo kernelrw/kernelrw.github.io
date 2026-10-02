@@ -11632,24 +11632,6 @@ Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
 
-Package: com.xyaman.tako
-Architecture: iphoneos-arm
-Version: 3.5.2.1
-Section: Tweaks
-Maintainer: b4db1r3
-Installed-Size: 768
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal
-Filename: ./debians/iphoneos-arm/com.xyaman.tako_3.5.2.1_iphoneos-arm.deb
-Size: 89160
-MD5sum: 825e91b9757d3535ea970657a3a68d94
-SHA1: 1753553a223c2e3789fdef44e054976e547807de
-SHA256: 0f3cd153b02f9981753a855d796d24b2732ea37db63bd6f5ef532dd8fb7847d0
-SHA512: c734101a926bd692fe2e9ba37549393dadedb625bde1e7c04d787302366314a7d97646ebf175bf5b1629706d2ee63bb15b5693c760c3350b6d3361148cd3cf6d
-Description: Notification priority hub tweak.
-Name: Tako ( iOS 15-16 )
-Author: Xyaman & b4db1r3
-Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
-
 Package: com.yan.ring
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -21123,6 +21105,25 @@ Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
 
+Package: com.johndie.density
+Architecture: iphoneos-arm64
+Version: 1.0.0~beta6
+Section: Tweaks
+Maintainer: John d_ie
+Installed-Size: 360
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.johndie.density_1.0.0~beta6_iphoneos-arm64.deb
+Size: 19434
+MD5sum: f52f73ee998b8c2fcbbc9cef27e6de09
+SHA1: 8aaec08cccf9fcfbe8c3c3ed4dac4ff83f71d8a8
+SHA256: ff6a9462e8aba2c1dc577c16d4c513f2051fc117f8893729f1084228549bd31f
+SHA512: 4b19898c35aafed1ce9073e931276dab88dd68c3c79c29d4f015c253decf0fce25c7826e9b0d346453eb34d3d4a3b991e36b1a2bd51aa4b5168d4b1fb6910e6b
+Description: More on screen in the apps you pick, like Android's display density, while the status bar and keyboard stay stock.
+Name: Density
+Author: John d_ie
+Depiction: https://jond-ie.github.io/repo/depictions/com.johndie.density.html
+SileoDepiction: https://jond-ie.github.io/repo/depictions/com.johndie.density.json
+
 Package: com.johnnywaity.continuity
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -27588,19 +27589,19 @@ Author: Wes <wes.hamster@gmail.com>
 
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64
-Version: 3.5.2.1
+Version: 1.1.12
 Section: Tweaks
 Maintainer: b4db1r3
-Installed-Size: 768
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal
-Filename: ./debians/iphoneos-arm64/com.xyaman.tako_3.5.2.1_iphoneos-arm64.deb
-Size: 99156
-MD5sum: 1e4b0f39534efd3c98da43b28d246f59
-SHA1: 43d4f7dd476f3080b5b79209b20b8845e8df028b
-SHA256: 1dffd72065e775087265a9bd9c82a8ebc5371f4c9f232cc6e88b890d6bedf31e
-SHA512: df61c54e0daac27b1628855fdabc1bc8cf70f36d5ce998b1dd55f1a61302909005ff753e13bbd5e6fb401dd75a7465cf5899a17311c0fc525538671939e379e9
-Description: Notification priority hub tweak.
-Name: Tako ( iOS 15-16 )
+Installed-Size: 744
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.xyaman.tako_1.1.12_iphoneos-arm64.deb
+Size: 105330
+MD5sum: d3efb7c2b9371b8bd1b693bb2953d76d
+SHA1: 321c5ac2f12d1e87a0ef3d75aa4a47baf64256e6
+SHA256: 24065673a0d1bbe5e44a0a371158a28518ed94c8a27675be2cf7eaee4cff97bb
+SHA512: 166bd194a2881399dcd94281d12c5b020fd5642bcfe66a933bd0a82be12fe03bf8a7db219285a09bf88cc0eb9b8525ef03a383487a76b474ad7d3c86a4ec6444
+Description: Notification priority hub tweak with iOS 17 and iOS 18 support.
+Name: Tako (iOS 15-18)
 Author: Xyaman & b4db1r3
 Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
 
@@ -44683,25 +44684,6 @@ SHA512: 334a07834e8494d4f5aa532d918e3d3dc8981c378bd97a595c948db01b9b5583e9aaa7eb
 Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
-
-Package: com.xyaman.tako
-Architecture: iphoneos-arm64e
-Version: 3.5.2.1
-Section: Tweaks
-Maintainer: b4db1r3
-Installed-Size: 768
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal
-Filename: ./debians/iphoneos-arm64e/com.xyaman.tako_3.5.2.1_iphoneos-arm64e.deb
-Size: 127700
-MD5sum: 470a38ff7e61c643ec6dc318df242374
-SHA1: 7f75cfbb10b068f7f81eb3d391b2fec585c32ea4
-SHA256: 01d9b66f6d4ec2023d01e07e926b98bc4bd753a3c1529ebabf39f63a99088313
-SHA512: 8716b473bf1d8443969534ce3775cfa62108b7a5b6266068b41eb47f6f4d127eb139d29bfcff9a2c9996b6f8832062d8baf29a75a3eb89de2cf7afb60f364b9a
-Description: Notification priority hub tweak.
-Name: Tako ( iOS 15-16 )
-Author: Xyaman & b4db1r3
-Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
 
 Package: com.xybp888.noapplemobilerepair
 Architecture: iphoneos-arm64e
