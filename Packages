@@ -1527,6 +1527,36 @@ Name: WGold For WhatsApp
 Author: Ali Latif
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
 
+Package: com.alilatif.wgold
+Architecture: iphoneos-arm
+Version: 3.4
+Section: Tweaks
+Maintainer: WGold Team
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.alilatif.wgold_3.4_iphoneos-arm.deb
+Size: 6736236
+MD5sum: c1ea4c0206d3e9df134242d155564ab8
+SHA1: dca672ded56d88dbe4ab23815c80a3e3661ec777
+SHA256: a330dce539a727c702ff6c116ad503e1ac28ae23769cafb3dd1ed20c427b6510
+SHA512: 63ef02073d99fba63b390984b99a9c18240038bf04fca4fcaa12ddda5c73d3a6cc717678302bfb7def572ae6e702542c5599fa3a03c2811a8dd31280d2c80405
+Description: WhatsApp Customisation 
+ * Incognito when viewing statuses
+ * Local viewing of statuses
+ * Ghosting messages
+ * Receive messages incognito
+ * View modified messages
+ * Save deleted statuses
+ * Save deleted messages
+ * Keep deleted messages
+ * Skip statuses
+ * Download temporary media
+ * Ghosting temporary media
+ * Upload audio from the studio
+ * Multiple accounts
+Name: WGold For WhatsApp
+Author: WGold Team
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfg5vNe4hsKpTZHQqCIWrwF_xZfYT5-qUgF5jOmOXOA&s=10
+
 Package: com.alilatif.youpro
 Architecture: iphoneos-arm
 Version: 1.0-b1
@@ -16305,6 +16335,36 @@ Description: WhatsApp Customisation Tweak .
 Name: WGold For WhatsApp
 Author: Ali Latif
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
+
+Package: com.alilatif.wgold
+Architecture: iphoneos-arm64
+Version: 3.4
+Section: Tweaks
+Maintainer: WGold Team
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.alilatif.wgold_3.4_iphoneos-arm64.deb
+Size: 6736572
+MD5sum: aafa4a34c97a7308cd74ed9f004b73b6
+SHA1: 6eb9ae58bfff291f9138787356ab8cef081f5420
+SHA256: b7f18bf82a3a36e71cf9edd562355332736fb43c4e5aad22f4b27ebe4d1afa4c
+SHA512: a1390c944516a14163570e01a96b95d7464bdc8612cd530b728727820e8cbd7c9ae6bdd3101a8d4954719a6f770192486c46c93eb80024dde201cbb5936cff50
+Description: WhatsApp Customisation 
+ * Incognito when viewing statuses
+ * Local viewing of statuses
+ * Ghosting messages
+ * Receive messages incognito
+ * View modified messages
+ * Save deleted statuses
+ * Save deleted messages
+ * Keep deleted messages
+ * Skip statuses
+ * Download temporary media
+ * Ghosting temporary media
+ * Upload audio from the studio
+ * Multiple accounts
+Name: WGold For WhatsApp
+Author: WGold Team
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfg5vNe4hsKpTZHQqCIWrwF_xZfYT5-qUgF5jOmOXOA&s=10
 
 Package: com.alilatif.youpro
 Architecture: iphoneos-arm64
@@ -33238,6 +33298,36 @@ Description: WhatsApp Customisation Tweak .
 Name: WGold For WhatsApp
 Author: Ali Latif
 Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/WGold@100x.png?raw=true
+
+Package: com.alilatif.wgold
+Architecture: iphoneos-arm64e
+Version: 3.4
+Section: Tweaks
+Maintainer: WGold Team
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.alilatif.wgold_3.4_iphoneos-arm64e.deb
+Size: 6736964
+MD5sum: ae9e48e9304eb3bf9a0c8e8be2c90832
+SHA1: b9c60e309d4915b4364145b5d122a6e74ab0cb17
+SHA256: d675431add5b6caf5a36ff11163b5214e47acb6116cc1e3834724913daf2399d
+SHA512: dcff935b1bcfa91b40c731c273dec6f8028ee415351021550cc926949d3dfabacddb9a9385c53835d568940d44f7d6997f93af1b81ac654617adecbc4c2d15eb
+Description: WhatsApp Customisation 
+ * Incognito when viewing statuses
+ * Local viewing of statuses
+ * Ghosting messages
+ * Receive messages incognito
+ * View modified messages
+ * Save deleted statuses
+ * Save deleted messages
+ * Keep deleted messages
+ * Skip statuses
+ * Download temporary media
+ * Ghosting temporary media
+ * Upload audio from the studio
+ * Multiple accounts
+Name: WGold For WhatsApp
+Author: WGold Team
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfg5vNe4hsKpTZHQqCIWrwF_xZfYT5-qUgF5jOmOXOA&s=10
 
 Package: com.alilatif.youpro
 Architecture: iphoneos-arm64e
