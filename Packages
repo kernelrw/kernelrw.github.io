@@ -4949,22 +4949,6 @@ Description: Decrypt iOS apps with TrollStore
 Name: TrollDecrypt
 Author: fiore
 
-Package: com.flo.hipcharge
-Architecture: iphoneos-arm
-Version: 1.4.0
-Section: Tweaks
-Maintainer: Flo
-Depends: firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm/com.flo.hipcharge_1.4.0_iphoneos-arm.deb
-Size: 5284
-MD5sum: 25e0e2f8e4ac5d4c8500bafd27418a66
-SHA1: d7bb2ef9555020799571deb13e008b941cc76292
-SHA256: 0fdf0b9501f2fc1b95cda60443218e8a847eebe671ada46c2f9733fcbaa08cad
-SHA512: a8ddf559c178bb0d47f29eb336ef48092fbb2adef6f437ada799656e3d62f215ffc49558fc06848ea7737d8514ed683f74d708bd679ba85a112311d4c1e08e2d
-Description: Enables Simulate HIP while charging, disables it when unplugged.
-Name: HIPCharge
-Author: Flo
-
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm
 Version: 1.4.6-1
@@ -11157,6 +11141,22 @@ Name: Mochi
 Depiction: https://sugiuta.github.io/descriptions/?p=com.sugiuta.mochi
 Author: sugiuta
 Icon: https://sugiuta.github.io/descriptions/com.sugiuta.mochi/bigIcon.png
+
+Package: com.supremeinspirit.hipcharge
+Architecture: iphoneos-arm
+Version: 1.6.1
+Section: Tweaks
+Maintainer: supremeinspirit
+Depends: firmware (>= 12.0), firmware (<< 15.0), mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.supremeinspirit.hipcharge_1.6.1_iphoneos-arm.deb
+Size: 21172
+MD5sum: 79d63d4dd3d41000cd2bbe4f8a737c41
+SHA1: 617165542d950bfd786eb6d361df67a5bb09aa35
+SHA256: 36ed7227e374d0b8d76895d6d8c6b9fbe9bde8e3a7d1b04c57bf5cb9c1491403
+SHA512: d185b065bce9de528b3bbc9142e28ecea315c5bfeec0288fef18c2379d1261ad357fba776844519605d214e7284b7511f39a5126119c77e5e4ffe7b8226da184
+Description: Enables Simulate HIP while charging, disables it when unplugged.
+Name: HIPCharge (Legacy)
+Author: supremeinspirit
 
 Package: com.swing.padswitcher
 Architecture: iphoneos-arm
@@ -19584,6 +19584,29 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64
+Version: 2.2.8
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3308
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.netshield_2.2.8_iphoneos-arm64.deb
+Size: 2973022
+MD5sum: 6f3f786362733e312d6594e9d9d4feca
+SHA1: 5aa7639ca9b034dc7ba9ab8aa959ca3634701a65
+SHA256: 2931874a5860901ca24123f4ea7c616a0a903c43e99451444f9be68d63a0116e
+SHA512: 7a4cc6831326e4a6cc9306a86738045b7bb2a126d5723c65260581ed60211e8fb48cb5a749918b4dd1483da1908c9527ec04f32e79ce66bb19d83b9f8279242e
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -19958,22 +19981,6 @@ SHA512: 505dfb3d3a7e44d6403c70ef76e1aaff6931fdd419fe9810b2bbeacf102c52fc720a786d
 Description: Decrypt iOS apps with TrollStore
 Name: TrollDecrypt
 Author: fiore
-
-Package: com.flo.hipcharge
-Architecture: iphoneos-arm64
-Version: 1.4.0
-Section: Tweaks
-Maintainer: Flo
-Depends: firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64/com.flo.hipcharge_1.4.0_iphoneos-arm64.deb
-Size: 5316
-MD5sum: 8028051b54f8bab99bd3bc49948794dd
-SHA1: 2985493f8303584cdecb7749e56b8af507982046
-SHA256: 965effe2390b366e9685e32d5a19bb1a0a218cc5780042698edb8e24492fd33b
-SHA512: 1f22720fe59a149dc332c375c5dbb56204f8902d934dfc2eeac4544ac4a3f1a78db44d67df6882056a521819ccacdb964edd010d7aed5bffbec9a6d1779cba6e
-Description: Enables Simulate HIP while charging, disables it when unplugged.
-Name: HIPCharge
-Author: Flo
 
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm64
@@ -27054,6 +27061,22 @@ Description: Multi-Tasking as to be .
 Author: sunshinesong
 Name: SVP
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.supremeinspirit.hipcharge
+Architecture: iphoneos-arm64
+Version: 1.6.1
+Section: Tweaks
+Maintainer: supremeinspirit
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.supremeinspirit.hipcharge_1.6.1_iphoneos-arm64.deb
+Size: 16272
+MD5sum: ae7bb2671e283794df0cc3011549dd59
+SHA1: a2ef0483101a74ff87be5cbfe9154acd3efe37c3
+SHA256: d973e0a52a04565392991f158734578a25aa2d30bcfb1344bae0410b9faa8b0a
+SHA512: 6e78534d427e0cc8f85e412afed54170e38b20fe20e70e782137deb09e0cbc6f9a123f127cdbac823db01c10350356de286b26a27f4e7feed80e0367874c290f
+Description: Enables Simulate HIP while charging, disables it when unplugged.
+Name: HIPCharge
+Author: supremeinspirit
 
 Package: com.swing.appstorenoads
 Architecture: iphoneos-arm64
@@ -35997,6 +36020,29 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64e
+Version: 2.2.8
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3308
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.netshield_2.2.8_iphoneos-arm64e.deb
+Size: 2973064
+MD5sum: daeaf9a9b5c925837273fe91d0794688
+SHA1: ebc817bc9af7288fb2bd19a1ad37bb03027a6881
+SHA256: 711be5c37688e25dfdeb068d82fd5c7ae916fe041e9e0f6acc4c00a5b1ad2973
+SHA512: 649610231bb02566cece1d05c394058f0ace8789d1264ef08e411feb342aede7f2bf0825147d251887a0a8cba473b2086e871ca26d27e104fc4c5fe980a6ebda
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -36369,22 +36415,6 @@ SHA512: b8112f58462aa4cf2fc889d5dbf561a22b054ca4ddc92b6c792160bd115ccfbcbec4a7b7
 Description: Decrypt iOS apps with TrollStore
 Name: TrollDecrypt
 Author: fiore
-
-Package: com.flo.hipcharge
-Architecture: iphoneos-arm64e
-Version: 1.4.0
-Section: Tweaks
-Maintainer: Flo
-Depends: firmware (>= 15.0)
-Filename: ./debians/iphoneos-arm64e/com.flo.hipcharge_1.4.0_iphoneos-arm64e.deb
-Size: 5292
-MD5sum: 0af791d236a4e10f594c6c336593a68c
-SHA1: 9720b2a5359efba55b8e518108896e79599226ee
-SHA256: 9997ca5ae664b72a35ed2642ff96263a6ed083ccbd5014a3b6434447dfa591b2
-SHA512: 970aad92161d570381111321eec1a1aa4a51dcb3257334d7b16bfbda8873d6056790c022542fdf0fc07cf07e60dcebcb260da7a8b6268685e684311eac04e90c
-Description: Enables Simulate HIP while charging, disables it when unplugged.
-Name: HIPCharge
-Author: Flo
 
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm64e
@@ -44201,6 +44231,23 @@ Description: Multi-Tasking as to be .
 Author: sunshinesong
 Name: SVP
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.supremeinspirit.hipcharge
+Architecture: iphoneos-arm64e
+Version: 1.6.1
+Section: Tweaks
+Maintainer: supremeinspirit
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.supremeinspirit.hipcharge_1.6.1_iphoneos-arm64e.deb
+Size: 21044
+MD5sum: 2dd13ec597ea51c660f94138301d7bb1
+SHA1: 2a504be996d11c62c63e22afc1d3f866a29539a4
+SHA256: aee01b478d53835c28f0ac5b466f19d0be177696311070909d44dbd88f84257f
+SHA512: 6566685b39fe7010b1eca3d4df050e9b708cc99969f3c6acbca04c59b334fd9205c396ecc85d4511c24fa9703feabfd10581bc07cb0c10c2cc2268e9ddc5cc04
+Description: Enables Simulate HIP while charging, disables it when unplugged.
+Name: HIPCharge
+Author: supremeinspirit
 
 Package: com.teslaman3092.controlcenter18
 Architecture: iphoneos-arm64e
