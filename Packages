@@ -1,3 +1,54 @@
+Package: dev.rtrdd.toprow
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: U-rTrDD-fyi <275768457+U-rTrDD-fyi@users.noreply.github.com>
+Installed-Size: 492
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: ./debians/dev.rtrdd.toprow_1.0.0_iphoneos-arm64.deb
+Size: 54528
+MD5sum: 3e5f4e606062e9bd4b3f806a198b9d82
+SHA1: d57c55de47f9be5486d8322f01e6f904db248728
+SHA256: 818d7c5f3c0555fd20367070381e26d80624d4147a7989e536b6961fcb14f76f
+SHA512: 8cbbe03383e7b81612b0662ba0d434d97d66c7bc55d78ff2d073922da5e869ee11728295a2bee3cc9ecf5ec75209590d25cf4d41bc5d73459c9a6dba0071b7e9
+Homepage: https://github.com/U-rTrDD-fyi/TopRow
+Description: A number & symbol row for the stock keyboard
+ Adds a fifth row to the stock iOS keyboard: 1-0 on letters, !@#$%^&*() with
+ shift or caps lock, and an extra symbol row on 123. Every row is editable,
+ with key height, bottom area, landscape, per-app and per-keyboard-type
+ options, all applied live. iPhone only. Free and open source.
+Name: TopRow
+Author: U-rTrDD-fyi <275768457+U-rTrDD-fyi@users.noreply.github.com>
+Icon: https://dev.rtrdd.fyi/icons/dev.rtrdd.toprow.png
+Depiction: https://dev.rtrdd.fyi/depictions/dev.rtrdd.toprow.html
+SileoDepiction: https://dev.rtrdd.fyi/depictions/dev.rtrdd.toprow.json
+
+Package: dev.rtrdd.toprow
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: U-rTrDD-fyi <275768457+U-rTrDD-fyi@users.noreply.github.com>
+Installed-Size: 492
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: ./debians/dev.rtrdd.toprow_1.0.0_iphoneos-arm64e.deb
+Size: 74162
+MD5sum: 6305bc615f19c9e39a3615131fada08a
+SHA1: 31f8de5c66d970cd7de2d6f9b97debbcc965130c
+SHA256: ee4feae40a75c45b93f081d455595b9acd751c6a9170866d65778e16a482dd9d
+SHA512: c47cc3d8a777a7ded2236dfcc3b722a6ea887c517e9a659c60cf15c83f585152751c0cb0dc357abdb6a008a09c7bdddde4b6582880b41a18c29bbf4de3d54806
+Homepage: https://github.com/U-rTrDD-fyi/TopRow
+Description: A number & symbol row for the stock keyboard
+ Adds a fifth row to the stock iOS keyboard: 1-0 on letters, !@#$%^&*() with
+ shift or caps lock, and an extra symbol row on 123. Every row is editable,
+ with key height, bottom area, landscape, per-app and per-keyboard-type
+ options, all applied live. iPhone only. Free and open source.
+Name: TopRow
+Author: U-rTrDD-fyi <275768457+U-rTrDD-fyi@users.noreply.github.com>
+Icon: https://dev.rtrdd.fyi/icons/dev.rtrdd.toprow.png
+Depiction: https://dev.rtrdd.fyi/depictions/dev.rtrdd.toprow.html
+SileoDepiction: https://dev.rtrdd.fyi/depictions/dev.rtrdd.toprow.json
+
 Package: ai.akemi.appinst
 Architecture: iphoneos-arm
 Version: 2.1.1
@@ -6552,6 +6603,27 @@ Name: Adytum
 Author: Kernelrw
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
 SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: Kernelrw <drtramadolmorphine@gmail.com>
+Installed-Size: 1798
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm/com.kernelrw.adytum_2.1_iphoneos-arm.deb
+Size: 187926
+MD5sum: 76cc88b5e38dab86e41b418a98f9c8e8
+SHA1: 62e6e6ee2ce1894e62a5531109fda07c4ec65cb6
+SHA256: df0763504f610ba84fd3bd329f9e377c3f6340937c80635e0b5f86e2bbcc2bf7
+SHA512: 044697820a547de243a8389d7113c29bb213d33e66f3eb2a732eb1ca2408ac9bc7cd50afb7aff5e994007eda996f81c7d3a7552bd27164e57b921da9333227e2
+Description: True application backgrounding management.
+Tag: compatible_min::ios15.0
+Author: Kernelrw <drtramadolmorphine@gmail.com>
+Name: Adytum
+Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
+Depiction: https://chariz.com/get/adytum
 
 Package: com.kernelrw.cartooncolor
 Architecture: iphoneos-arm
@@ -21464,6 +21536,27 @@ Name: Adytum
 Author: Kernelrw
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
 SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: Kernelrw <drtramadolmorphine@gmail.com>
+Installed-Size: 1806
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm64/com.kernelrw.adytum_2.1_iphoneos-arm64.deb
+Size: 187210
+MD5sum: 0e8e9036b95bc91db2ea75292a585c5d
+SHA1: 5d5fbfb9b730d34a3bdd6800e91644f720d24a5c
+SHA256: 7d90d344ef28557907a6c324bf0afc7da6f4e54c533ca89238d645edc894739b
+SHA512: 60085ac8e3088a6947917bb1309dab647def5649a303fe59d44c129dbc3fc65883eae260dce7365cd814483c5a5c85f6ee9d06b5763daec1aa7406313a32153c
+Description: True application backgrounding management.
+Tag: compatible_min::ios15.0
+Author: Kernelrw <drtramadolmorphine@gmail.com>
+Name: Adytum
+Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
+Depiction: https://chariz.com/get/adytum
 
 Package: com.kernelrw.cocon-next-arabic
 Architecture: iphoneos-arm64
@@ -37991,6 +38084,27 @@ Name: Adytum
 Author: Kernelrw
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
 SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: Kernelrw <drtramadolmorphine@gmail.com>
+Installed-Size: 1806
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm64e/com.kernelrw.adytum_2.1_iphoneos-arm64e.deb
+Size: 180860
+MD5sum: effbda53916257cbe491d2824e23a8bf
+SHA1: 08911c21b17eb6c1fec5249bfee557959be932e9
+SHA256: 4555e50c2cbe8cb9706b3e94aeb005481b4ea0a09b43615bb8657cdff3448ce9
+SHA512: efa797b749ec1f4a047949601288dbed48ba6c6d2dbcacabb1f884e98115f2d538761de94c2591d7fc2b19dc163279acbf88d04dec8a4071d23a77d8136e0361
+Description: True application backgrounding management.
+Tag: compatible_min::ios15.0
+Author: Kernelrw <drtramadolmorphine@gmail.com>
+Name: Adytum
+Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
+Depiction: https://chariz.com/get/adytum
 
 Package: com.kernelrw.ccautobrightness
 Architecture: iphoneos-arm64e
