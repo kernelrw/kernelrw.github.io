@@ -1,54 +1,3 @@
-Package: dev.rtrdd.toprow
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: U-rTrDD-fyi <275768457+U-rTrDD-fyi@users.noreply.github.com>
-Installed-Size: 492
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.altlist
-Filename: ./debians/dev.rtrdd.toprow_1.0.0_iphoneos-arm64.deb
-Size: 54528
-MD5sum: 3e5f4e606062e9bd4b3f806a198b9d82
-SHA1: d57c55de47f9be5486d8322f01e6f904db248728
-SHA256: 818d7c5f3c0555fd20367070381e26d80624d4147a7989e536b6961fcb14f76f
-SHA512: 8cbbe03383e7b81612b0662ba0d434d97d66c7bc55d78ff2d073922da5e869ee11728295a2bee3cc9ecf5ec75209590d25cf4d41bc5d73459c9a6dba0071b7e9
-Homepage: https://github.com/U-rTrDD-fyi/TopRow
-Description: A number & symbol row for the stock keyboard
- Adds a fifth row to the stock iOS keyboard: 1-0 on letters, !@#$%^&*() with
- shift or caps lock, and an extra symbol row on 123. Every row is editable,
- with key height, bottom area, landscape, per-app and per-keyboard-type
- options, all applied live. iPhone only. Free and open source.
-Name: TopRow
-Author: U-rTrDD-fyi <275768457+U-rTrDD-fyi@users.noreply.github.com>
-Icon: https://dev.rtrdd.fyi/icons/dev.rtrdd.toprow.png
-Depiction: https://dev.rtrdd.fyi/depictions/dev.rtrdd.toprow.html
-SileoDepiction: https://dev.rtrdd.fyi/depictions/dev.rtrdd.toprow.json
-
-Package: dev.rtrdd.toprow
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: U-rTrDD-fyi <275768457+U-rTrDD-fyi@users.noreply.github.com>
-Installed-Size: 492
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.altlist
-Filename: ./debians/dev.rtrdd.toprow_1.0.0_iphoneos-arm64e.deb
-Size: 74162
-MD5sum: 6305bc615f19c9e39a3615131fada08a
-SHA1: 31f8de5c66d970cd7de2d6f9b97debbcc965130c
-SHA256: ee4feae40a75c45b93f081d455595b9acd751c6a9170866d65778e16a482dd9d
-SHA512: c47cc3d8a777a7ded2236dfcc3b722a6ea887c517e9a659c60cf15c83f585152751c0cb0dc357abdb6a008a09c7bdddde4b6582880b41a18c29bbf4de3d54806
-Homepage: https://github.com/U-rTrDD-fyi/TopRow
-Description: A number & symbol row for the stock keyboard
- Adds a fifth row to the stock iOS keyboard: 1-0 on letters, !@#$%^&*() with
- shift or caps lock, and an extra symbol row on 123. Every row is editable,
- with key height, bottom area, landscape, per-app and per-keyboard-type
- options, all applied live. iPhone only. Free and open source.
-Name: TopRow
-Author: U-rTrDD-fyi <275768457+U-rTrDD-fyi@users.noreply.github.com>
-Icon: https://dev.rtrdd.fyi/icons/dev.rtrdd.toprow.png
-Depiction: https://dev.rtrdd.fyi/depictions/dev.rtrdd.toprow.html
-SileoDepiction: https://dev.rtrdd.fyi/depictions/dev.rtrdd.toprow.json
-
 Package: ai.akemi.appinst
 Architecture: iphoneos-arm
 Version: 2.1.1
@@ -19679,6 +19628,29 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64
+Version: 2.3.0
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3308
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.netshield_2.3.0_iphoneos-arm64.deb
+Size: 2973214
+MD5sum: 690dd264009da3c7376f6f32b91dfbd2
+SHA1: db63e3ba152e953073e8eb8b8a1da345a9e00874
+SHA256: 8461de03d53ad5a9f96f7a9ef5dfb417ca1fd51724cfadb732d64e4109436220
+SHA512: 534796ef04a4a5d2f7b2f893bad953a1f3afbac31b473841c98fa8a194d63a17ebe7549fe493e2de73f90d3f69447c18a6a61afe1bf40da34024d5e8d505cc94
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -36128,6 +36100,29 @@ MD5sum: daeaf9a9b5c925837273fe91d0794688
 SHA1: ebc817bc9af7288fb2bd19a1ad37bb03027a6881
 SHA256: 711be5c37688e25dfdeb068d82fd5c7ae916fe041e9e0f6acc4c00a5b1ad2973
 SHA512: 649610231bb02566cece1d05c394058f0ace8789d1264ef08e411feb342aede7f2bf0825147d251887a0a8cba473b2086e871ca26d27e104fc4c5fe980a6ebda
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64e
+Version: 2.3.0
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3308
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.netshield_2.3.0_iphoneos-arm64e.deb
+Size: 2973150
+MD5sum: fcdecbeb928fe0e6a8427c23ef22a4e3
+SHA1: ed8dbc487b6e595ff1107af98347c86f055c3ace
+SHA256: aa739e954033ab7cb3f047e75429c11824821eb7a453c1b61c93fa3c132532da
+SHA512: 6adcd47cff7330550d6fbddf3a9c487780813671a4bcaec6f9437650963987b63798fe69d6e0907d67b29d6aebefe470b8aada743a1913bdfbd6ad2f359f2c48
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control app internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
