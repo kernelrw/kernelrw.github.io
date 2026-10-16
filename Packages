@@ -8713,6 +8713,24 @@ Author: newwares
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F6685e9f3b31c69deb59e2cee&s=180x180&f=webp
 Depiction: https://havoc.app/depiction/badgesync
 
+Package: com.nfb.tweak
+Architecture: iphoneos-arm
+Version: 7.2.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 13808
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debians/iphoneos-arm/com.nfb.tweak_7.2.0-1+debug_iphoneos-arm.deb
+Size: 4781958
+MD5sum: 38e6f9eea16caffbac0f407188a9e42d
+SHA1: ed3459c9a278cd22d368e4fdf49eb8e33f10cbd0
+SHA256: 3c85c34078c4b74f174974d4d1435d2f7ce131cf0fda238af8a4bc4630a0e301
+SHA512: 6c0bc1f08fa68c5478729d13c329a517a6cf0bc18a2dead52f5c28bb445bdcba614dc5e397740022424a9f5cbebc65f53432d0914ff3c894869d2bea2e02e958
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
+
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -24102,6 +24120,24 @@ Name: BadgeSync
 Author: newwares
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F6685e9f3b31c69deb59e2cee&s=180x180&f=webp
 Depiction: https://havoc.app/depiction/badgesync
+
+Package: com.nfb.tweak
+Architecture: iphoneos-arm64
+Version: 7.2.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 13808
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debians/iphoneos-arm64/com.nfb.tweak_7.2.0-1+debug_iphoneos-arm64.deb
+Size: 4782026
+MD5sum: eb65045596fb3072a9991637acd94487
+SHA1: 8067eda9498231b60e5168c0f8d3cf13eeac285e
+SHA256: fbb2f2a9dc9d76c57261dbbfaa607ccc61ca66e25b6a66d23128dcac8aef9f67
+SHA512: 69db21bdaac2e1e02d3fa57c330b13212f7289aca93c3ff9dd380d6af4b031e5685c64ae5043a943a52888bf7358d43210623ec7841c3195ea316ae5b167405b
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
 
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm64
