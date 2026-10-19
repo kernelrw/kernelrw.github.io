@@ -58,7 +58,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "iOS 15.0 - iOS 18.0"
+          "text": "iOS 15.0 - iOS 26.x"
         },
         {
           "class": "DepictionTableTextView",
