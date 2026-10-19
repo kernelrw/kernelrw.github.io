@@ -6574,6 +6574,26 @@ Name: Adytum
 Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
 Depiction: https://chariz.com/get/adytum
 
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 2648
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, com.opa334.ccsupport, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm/com.kernelrw.adytum_3.0_iphoneos-arm.deb
+Size: 290648
+MD5sum: 4211c772c2e9f97487b12d518dedd872
+SHA1: 6183dec2fe00cd94faa3e23876bc4eb92d4b3467
+SHA256: 738adabd5ac4fca9af0df928188a6f45394e1052f20a98b2e5f103ff9784b949
+SHA512: 83e0d1295a74ee3c033dbcd6c9a9968b83b725313b844d814c204d9895f0863ab2ff4550a06beaf3f9d7d21614c9e4ddf4ba70efdc10142ddd0c30d7a5af0a4b
+Description: True application backgrounding management.
+Name: Adytum
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
+
 Package: com.kernelrw.cartooncolor
 Architecture: iphoneos-arm
 Version: 1.0
@@ -20928,6 +20948,33 @@ Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 dev: ichitaso
 
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 452
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debians/iphoneos-arm64/com.ichitaso.iconorder_1.0.5_iphoneos-arm64.deb
+Size: 52332
+MD5sum: e20e1c00f5ac1e9cd0abbe045d877904
+SHA1: 68574aaf224f70cb6aa2903d29953281fb09b567
+SHA256: b19728ac38572411ff507685052df77199909f17d3795af059c2412ce15b13ea
+SHA512: c2a05818e98ae9348b4dae0adf71df138a1ce303c2f67a8676fde08a4e8fbcd43fff88d8aa6dd8cacbc7fe750f2c6dc2d7fd7a446be020a7705f6f8d2d524b44
+Homepage: https://ichitaso.com/
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios26.2
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/IconOrder/refs/heads/main/Prefs/Resources/Icon%403x.png
+
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64
 Version: 0.6
@@ -21286,6 +21333,28 @@ Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
 
+Package: com.johndie.ccsupport18
+Architecture: iphoneos-arm64
+Version: 1.3.13-3~ios18fix2
+Section: Tweaks
+Maintainer: John d_ie
+Installed-Size: 664
+Provides: com.opa334.ccsupport (= 1.3.13-3), com.ioscreatix.silo
+Depends: mobilesubstrate, firmware (>= 18.0)
+Conflicts: com.opa334.ccsupport, com.ioscreatix.silo
+Replaces: com.opa334.ccsupport, com.ioscreatix.silo
+Filename: ./debians/iphoneos-arm64/com.johndie.ccsupport18_1.3.13-3~ios18fix2_iphoneos-arm64.deb
+Size: 62532
+MD5sum: 318ba5174a483f928b4d916551321b47
+SHA1: 0b70a3d58ccb7c08ad0ca3dd0703bf71240f8b4a
+SHA256: 710f2b6427f4b5a0cc6ea525acdb0342fbc67139409cbd8215758e7601a30b71
+SHA512: e19526bbb9a269e167ba8b3e5774c3e111d1f336d0c4a81b8764d0736f7f72f74a8bccb087182a7a4cf99ac0098565d8d978512cc87215e88ed24a51456c96c5
+Description: iOS 18 only. opa334's CCSupport with one fix: Control Center modules from tweaks stay after safe mode and reboots. Replaces CCSupport. By opa334; fix by John d_ie (submitted upstream).
+Name: CCSupport (iOS 18 fix)
+Author: opa334
+Depiction: https://jond-ie.github.io/repo/depictions/com.johndie.ccsupport18.html
+SileoDepiction: https://jond-ie.github.io/repo/depictions/com.johndie.ccsupport18.json
+
 Package: com.johndie.density
 Architecture: iphoneos-arm64
 Version: 1.0.0~beta6
@@ -21547,6 +21616,26 @@ Author: Kernelrw <drtramadolmorphine@gmail.com>
 Name: Adytum
 Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
 Depiction: https://chariz.com/get/adytum
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm64
+Version: 3.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 2648
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, com.opa334.ccsupport, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm64/com.kernelrw.adytum_3.0_iphoneos-arm64.deb
+Size: 291408
+MD5sum: 1a0b1299c4a27baaebfab6192dfb76ce
+SHA1: f5cffac20bfddc99b311db7ea2f0a05e5de8e0c8
+SHA256: b62459ffd47313da0e60a687bca549247533bf17e2b8d7cf6a1931b9de48caa5
+SHA512: 14aebdd53f3af63f4e236da798116168359fb9ac4b8e3a240fa17b3abf0502635ea38f63c330bc7e6511508a3780b404366525c582ab61ead13fce9512d96a64
+Description: True application backgrounding management.
+Name: Adytum
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
 
 Package: com.kernelrw.cocon-next-arabic
 Architecture: iphoneos-arm64
@@ -37418,6 +37507,33 @@ Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 dev: ichitaso
 
+Package: com.ichitaso.iconorder
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Havoc
+Installed-Size: 452
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debians/iphoneos-arm64e/com.ichitaso.iconorder_1.0.5_iphoneos-arm64e.deb
+Size: 52658
+MD5sum: 8fd18760778d2446329520963dfc9036
+SHA1: a435ff6a494985dc8487f134781068e72d1af171
+SHA256: 30c1ac671d9d062e2a760f5693fb2136c046d4064ca0b6accfd070967dd60a36
+SHA512: 1cada3bb46b5bc6380d1a31b2da07b72ec57e980f1f8c647c96be54bc927435dea825d00572578cbfd71e385ab14cf8ee393ad2c3e199bdc7384c760d705f22f
+Homepage: https://ichitaso.com/
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios26.2
+Author: ichitaso
+Name: IconOrder
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/IconOrder/refs/heads/main/Prefs/Resources/Icon%403x.png
+
 Package: com.ichitaso.locationservicecc
 Architecture: iphoneos-arm64e
 Version: 0.1-7
@@ -37904,6 +38020,29 @@ Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
 
+Package: com.johndie.ccsupport18
+Architecture: iphoneos-arm64e
+Version: 1.3.13-3~ios18fix2
+Section: Tweaks
+Maintainer: John d_ie
+Installed-Size: 664
+Provides: com.opa334.ccsupport (= 1.3.13-3), com.ioscreatix.silo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 18.0)
+Conflicts: com.opa334.ccsupport, com.ioscreatix.silo
+Replaces: com.opa334.ccsupport, com.ioscreatix.silo
+Filename: ./debians/iphoneos-arm64e/com.johndie.ccsupport18_1.3.13-3~ios18fix2_iphoneos-arm64e.deb
+Size: 82516
+MD5sum: 70e2deb672f4fa1ef298862439f65ca9
+SHA1: 87cf7db962b90355932e43467ac66a29fb2ff4fa
+SHA256: 66253af3f2069fbd5da75e00290e6bf86a6b166b8d03e9fb21d6c9c7e37371e7
+SHA512: 8666d0247fc7017cdb971adf17b24c42caf99decfe6113f3150185847e6fc97642e34f7f42f7a3668988359cb63c1e720dabfede7efe91e6f43099ee7746607b
+Description: iOS 18 only. opa334's CCSupport with one fix: Control Center modules from tweaks stay after safe mode and reboots. Replaces CCSupport. By opa334; fix by John d_ie (submitted upstream).
+Name: CCSupport (iOS 18 fix)
+Author: opa334
+Depiction: https://jond-ie.github.io/repo/depictions/com.johndie.ccsupport18.html
+SileoDepiction: https://jond-ie.github.io/repo/depictions/com.johndie.ccsupport18.json
+
 Package: com.johnnywaity.continuity
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -38136,6 +38275,26 @@ Author: Kernelrw <drtramadolmorphine@gmail.com>
 Name: Adytum
 Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
 Depiction: https://chariz.com/get/adytum
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm64e
+Version: 3.0
+Section: Tweaks
+Maintainer: Kernelrw
+Installed-Size: 2648
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, com.opa334.ccsupport, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: ./debians/iphoneos-arm64e/com.kernelrw.adytum_3.0_iphoneos-arm64e.deb
+Size: 293136
+MD5sum: df672febfe0476456894e1ae2584c42e
+SHA1: 76970f1103055ffb86da6d4ddafe3ff78a4d384d
+SHA256: 7149343422eb266c9859b2603e31cfdb15595d12468f9c044e9d159a4592d9a3
+SHA512: bc7f2444875530b7a0afab65bd9cf523b340475ba7e7022828c6e41c0f2207764fdcb93b045a02b2c8299e59f40c7f2804ca784a509499602cfbc7d980eed893
+Description: True application backgrounding management.
+Name: Adytum
+Author: Kernelrw
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Adytum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/kernelrw/kernelrw.github.io/main/SileoDepiction/Adytum/js.json
 
 Package: com.kernelrw.ccautobrightness
 Architecture: iphoneos-arm64e
