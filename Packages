@@ -4882,6 +4882,26 @@ Description: A feature-rich enhancement suite for Instagram on iOS
 Name: RyukGram
 Author: Ryuk
 
+Package: com.faroukbmiled.ryukgram
+Architecture: iphoneos-arm
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Ryuk
+Installed-Size: 7392
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy, com.socuul.scinsta
+Replaces: com.faroukbmiled.ryukgram.legacy, com.socuul.scinsta
+Filename: ./debians/iphoneos-arm/com.faroukbmiled.ryukgram_1.5.0_iphoneos-arm.deb
+Size: 18780464
+MD5sum: de1895a923dc6ce71a31550a30f13456
+SHA1: 05d17687b7ad5a55ed63ff245b81518c1652c55a
+SHA256: c775ecb6b4004ddad92917c829234899e89b2922a29a9700e7365d133003e400
+SHA512: 982307dded49cc8a52049d27301567f317955352963d35fefbedfb6b74db61db807f49aec7f1ef9cc89c111b1175d6cfe3c701dfb9c8028d9a5353a7acbd8732
+Homepage: https://github.com/faroukbmiled/RyukGram
+Description: A feature-rich enhancement suite for Instagram on iOS
+Name: RyukGram
+Author: Ryuk
+
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm
 Version: 1.0
@@ -19997,6 +20017,26 @@ Description: A feature-rich enhancement suite for Instagram on iOS
 Name: RyukGram
 Author: Ryuk
 
+Package: com.faroukbmiled.ryukgram
+Architecture: iphoneos-arm64
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Ryuk
+Installed-Size: 7392
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy, com.socuul.scinsta
+Replaces: com.faroukbmiled.ryukgram.legacy, com.socuul.scinsta
+Filename: ./debians/iphoneos-arm64/com.faroukbmiled.ryukgram_1.5.0_iphoneos-arm64.deb
+Size: 18795424
+MD5sum: cf292e02e9a50720a653cfae822c8303
+SHA1: 23b98340778afbd9aff8a73b6c1dcdc04c34224c
+SHA256: 0f859474bafb967b641edbb91734bc9c5271e3ccd1710ba2b689e87bba90ba99
+SHA512: bd61f431c1686fc2f9c5ab4c45f38e4a1c10fc687963d1c6d2b95cfac26cbfc9b6daad9e7eb7673fde586a82073dd1368ddb5e131452f3fc90b3748ce71ca892
+Homepage: https://github.com/faroukbmiled/RyukGram
+Description: A feature-rich enhancement suite for Instagram on iOS
+Name: RyukGram
+Author: Ryuk
+
 Package: com.fiore.calculatorconverter
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -27931,6 +27971,27 @@ SHA512: 39ddb80ea2d06f25580728775d17a3540baacae35a7de24a95dcb2d7420e874171a074e2
 Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
+
+Package: com.xsxs18.lumenboard
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: xsxs18-dev
+Installed-Size: 748
+Provides: com.spark.snowboard, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, firmware (>= 17.0)
+Conflicts: com.spark.snowboard, com.anemonetheming.anemone, winterboard, com.artikus.neonboard, com.xsxs18.neonboard, com.xsxs18.avalanche, com.xsxs18.lumen
+Replaces: com.xsxs18.avalanche, com.xsxs18.lumen
+Filename: ./debians/iphoneos-arm64/com.xsxs18.lumenboard_1.0.2_iphoneos-arm64.deb
+Size: 87090
+MD5sum: 407d9410b4a8c16e640664a19cf8169b
+SHA1: 8b995ea1dfdef325afc73c5dcb828912728f4f1c
+SHA256: ca37b25851c923e82e26947ff068386ce6bbfa3c34985324de368af5799c5fc9
+SHA512: 599dc97caffd5bc2d079c0f7c8690c4e56b19af778dc67f252fdd320228d95ac566edb7130641083595ef82a62b59bfc20b79c30d3fa558b7157ba3590cfcf1c
+Description: Icon theme engine for iOS 17 - 26. Works with SnowBoard, Anemone and WinterBoard themes.
+Name: LumenBoard
+Author: xsxs18-dev
+Icon: file:///var/jb/Applications/LumenBoard.app/AppIcon60x60@3x.png
 
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64
@@ -36553,6 +36614,26 @@ MD5sum: 74939a2b2e3c51f97337a514bc360473
 SHA1: e239cd26c319049103bc27c82e54c737cd264a7e
 SHA256: 6f99772e30757af02bb31a25b9cb47538ababbc67e44f5f5aee180370281b37a
 SHA512: 88ab7c37e89a0682c234856b5f80e4889a61f5b8063aa726348ed6e84b9b5041c8c79ae5bf6f327731ebb9241d0089a44c75bf1bf1d15f2da68f1f50e073c6c2
+Homepage: https://github.com/faroukbmiled/RyukGram
+Description: A feature-rich enhancement suite for Instagram on iOS
+Name: RyukGram
+Author: Ryuk
+
+Package: com.faroukbmiled.ryukgram
+Architecture: iphoneos-arm64e
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Ryuk
+Installed-Size: 7392
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy, com.socuul.scinsta
+Replaces: com.faroukbmiled.ryukgram.legacy, com.socuul.scinsta
+Filename: ./debians/iphoneos-arm64e/com.faroukbmiled.ryukgram_1.5.0_iphoneos-arm64e.deb
+Size: 18789268
+MD5sum: 42f7083fb054502c7d9b77042909fb3a
+SHA1: 2bf9a50e06eeb02f826b2ee7de2a1b9408800a5e
+SHA256: c6778bc1200d993900508dfbd364930b11076a0fd5d90302f2482483cbbc841b
+SHA512: 13e684b0ed7509ed11fa9c5d18cc640e4891b254acdfa50c60cb4d52e4f902baaac4cb55e0893ddb9534b739f82800ae09521ae226f862d05b6e5cba0b5c98c9
 Homepage: https://github.com/faroukbmiled/RyukGram
 Description: A feature-rich enhancement suite for Instagram on iOS
 Name: RyukGram
@@ -45233,6 +45314,27 @@ SHA512: 334a07834e8494d4f5aa532d918e3d3dc8981c378bd97a595c948db01b9b5583e9aaa7eb
 Description: App badges scale with how many notifications you have!
 Name: GrowingBadges
 Author: Wes <wes.hamster@gmail.com>
+
+Package: com.xsxs18.lumenboard
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: xsxs18-dev
+Installed-Size: 732
+Provides: com.spark.snowboard, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, firmware (>= 17.0)
+Conflicts: com.spark.snowboard, com.anemonetheming.anemone, winterboard, com.artikus.neonboard, com.xsxs18.neonboard, com.xsxs18.avalanche, com.xsxs18.lumen
+Replaces: com.xsxs18.avalanche, com.xsxs18.lumen
+Filename: ./debians/iphoneos-arm64e/com.xsxs18.lumenboard_1.0.2_iphoneos-arm64e.deb
+Size: 86102
+MD5sum: 2c89729239c782bf49cc4088f7beb480
+SHA1: e5ce2201aadf63057238b36fb0d88bf8357bef56
+SHA256: 0312bd015c6cf548315bc4f5cfaede201f4df7da4bd07e3bb9b0c5815a6b484d
+SHA512: 7f6a2b1c1cc7c682fc9b0a084c837f36a0380dcf4b434903c03f8a6e58c86af9320a7f07b70c6d3b1c449cca75d6b79033a2eccdbcdeadf3231b2c2438e3f30d
+Description: Icon theme engine for iOS 17 - 26. Works with SnowBoard, Anemone and WinterBoard themes.
+Name: LumenBoard
+Author: xsxs18-dev
+Icon: file:///Applications/LumenBoard.app/AppIcon60x60@3x.png
 
 Package: com.xybp888.noapplemobilerepair
 Architecture: iphoneos-arm64e
