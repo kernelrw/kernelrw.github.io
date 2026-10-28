@@ -4512,6 +4512,48 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
 
+Package: com.eolnmsuk.haptix
+Architecture: iphoneos-arm
+Version: 1.2.6
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 2668
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.haptix_1.2.6_iphoneos-arm.deb
+Size: 2212060
+MD5sum: e1a40f520cee1d0d709ca97db52674d0
+SHA1: 22dc58e3ccdca06e0ba37520d9bbe8c310478a29
+SHA256: b27c29c8632a5ecc7f87b0b80b5e3f43579deb93c3d62a25391a620f037262ca
+SHA512: 0fba2018d280ffe882a933449d55330063c0716df711f32cd47abb9c988458a4aa22e79595ca960b9a6f3996558e45fc6a3005d34e658d25b6e0f64b0fa661bc
+Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
+Name: HaptiX
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm
+Version: 2.4.5
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3440
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.netshield_2.4.5_iphoneos-arm.deb
+Size: 3003932
+MD5sum: f3a969b58b856f2183f0bfd1bace3162
+SHA1: c7d487a02a7a2e12849a752be06567ee44a71cae
+SHA256: f5d7b53c17e64c36e23a56f694b3860c2e0e81edab01f67d775cd1a239452b6f
+SHA512: 9c84028f5aa165c19fc7f95234d4add58867187dd073fdacde403ab73fd063edd2b3723939f1a9bb500b149e7f5a5d4b9294bb6156a9405cf7b7c3ea66231671
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm
 Version: 1.2
@@ -19640,6 +19682,25 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
 
+Package: com.eolnmsuk.haptix
+Architecture: iphoneos-arm64
+Version: 1.2.6
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 2668
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.haptix_1.2.6_iphoneos-arm64.deb
+Size: 2212094
+MD5sum: 94b8c6bd607afe9f3e0cfc282411896d
+SHA1: 027d4938c923f8033ed587f41008243d6e3e9e24
+SHA256: a0b3aa7f20947aba6138669632fd9b78e40998a19b406621cd3380e5293810e6
+SHA512: 2ee873d79c295910a8ebe67dc783c10b8e535a09f560198e7837e2f6cd55de9111352a1fd6c1e63768f22cc169bd560c0906d5ad54acdb0f5ef0d6aa7397e2a0
+Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
+Name: HaptiX
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
+
 Package: com.eolnmsuk.netshield
 Architecture: iphoneos-arm64
 Version: 2.2.4
@@ -19701,6 +19762,29 @@ MD5sum: 690dd264009da3c7376f6f32b91dfbd2
 SHA1: db63e3ba152e953073e8eb8b8a1da345a9e00874
 SHA256: 8461de03d53ad5a9f96f7a9ef5dfb417ca1fd51724cfadb732d64e4109436220
 SHA512: 534796ef04a4a5d2f7b2f893bad953a1f3afbac31b473841c98fa8a194d63a17ebe7549fe493e2de73f90d3f69447c18a6a61afe1bf40da34024d5e8d505cc94
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64
+Version: 2.4.5
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3440
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.netshield_2.4.5_iphoneos-arm64.deb
+Size: 3004180
+MD5sum: 29c0756ada3c0d4b5b3d0ad80c39fa81
+SHA1: 1f72e6aa4e866bc005069a963d93bd90f7dde6f0
+SHA256: af93c8e34d49fb43d939caf9819375156cec728850824308b0a73d5ba56eb941
+SHA512: 57d3d70554580297f8dc2f23d6cde5e5285a24208029d4cec8080051f0fe47c13f34de3d4e982b9c21e411a8103f76f8f8edae70c35803110377213d5351c9f3
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control app internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
@@ -36248,6 +36332,26 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
 
+Package: com.eolnmsuk.haptix
+Architecture: iphoneos-arm64e
+Version: 1.2.6
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 2668
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.haptix_1.2.6_iphoneos-arm64e.deb
+Size: 4396850
+MD5sum: ee987ad31e30dd9b846fb1dbc79ed6f8
+SHA1: 39afa34304fa296aa0da1199f6a4b799b424c100
+SHA256: 561fdb1a7d88c2049496bd3a5ca8e8f71b7d6168fc828faee6f3b3082593b466
+SHA512: 0e4d1ed9defea80f78462600b562875c098a50934f5252c2e347e6b80e2b8dd2d265a39afa3ca925d60f5f207a6cd1a3a1c2d17878c5883bebb1c790899c2464
+Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
+Name: HaptiX
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
+
 Package: com.eolnmsuk.netshield
 Architecture: iphoneos-arm64e
 Version: 2.2.4
@@ -36309,6 +36413,29 @@ MD5sum: fcdecbeb928fe0e6a8427c23ef22a4e3
 SHA1: ed8dbc487b6e595ff1107af98347c86f055c3ace
 SHA256: aa739e954033ab7cb3f047e75429c11824821eb7a453c1b61c93fa3c132532da
 SHA512: 6adcd47cff7330550d6fbddf3a9c487780813671a4bcaec6f9437650963987b63798fe69d6e0907d67b29d6aebefe470b8aada743a1913bdfbd6ad2f359f2c48
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control app internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64e
+Version: 2.4.5
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3440
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.netshield_2.4.5_iphoneos-arm64e.deb
+Size: 3003746
+MD5sum: bee31bdd6a85f6e49c7ef9965f124e8b
+SHA1: ff7f98974c53765676512b8f0c74294ef0455b0a
+SHA256: 12268fc2bc5c5858c61ce8baf98b1a0bc210c3bc3f0c9baf65332149643e7011
+SHA512: 61cadb32517e04003745d78cfebe9674839f133a189b971562305b511ac92a7064fe80099f9253ec30822faab7a418c66d124ea65a76c66e04b11d9261f46e56
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control app internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
