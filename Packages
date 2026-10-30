@@ -1,3 +1,57 @@
+Package: com.nfb.tweak
+Architecture: iphoneos-arm
+Version: 7.3.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 14016
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debians/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm.deb
+Size: 4827274
+MD5sum: 1a90df2b67a57128784189aa7c4aab6c
+SHA1: 4830c82d11f4cc1b0807fbdb301a966e622d8a38
+SHA256: 0a81445f80f2f6b66e0e4950bad634be9950bb80a941fd1787700c50a7fe4ba7
+SHA512: 86af702a58bbe2251d49fb71960a2fbcca293604fc69f9ffd012a13cf5fe22a5b4b3c631c47a02a7416ad3122dfadacf1e22c18cb4f8a1cfa8519a1b4b9df2da
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
+
+Package: com.nfb.tweak
+Architecture: iphoneos-arm64
+Version: 7.3.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 14016
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debians/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm64.deb
+Size: 4827776
+MD5sum: 7014706016a2670edda72da5ee4e086b
+SHA1: a40346e04fb8985728e0b611b58178fe0d445980
+SHA256: 19bde39f5c70f2abe4dd507f1030505e418de82cc2cd2420a14ebd7a1dd632f3
+SHA512: e1dbb46c9f3f730efd24699b00b94f6772c8dc4a80cf69ccec493af45336e2d5cd505234854de1d7b40a06cfef804a9b963413eaf79bc68d6d9b8d396697fae1
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
+
+Package: com.nfb.tweak
+Architecture: iphoneos-arm64e
+Version: 7.3.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 14016
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debians/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm64e.deb
+Size: 4361216
+MD5sum: ac87d1beaa13072798bdc6a3998bfe93
+SHA1: 23db9d7a15d1b79d999cc0c64493eae98da15dea
+SHA256: 3dc226636fd69dc2fd75c26a265c73efdadf661b49f1c083e0504e4b922b503f
+SHA512: 1e6d363dae944541428493d430acd7690ae48522825af7e10645a9755412b01a4b9cf63ae428c011d79f9c9f598c64d15854b5976f8905e23bb679244d0b1414
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
+
 Package: ai.akemi.appinst
 Architecture: iphoneos-arm
 Version: 2.1.1
@@ -10996,35 +11050,18 @@ Author: Spark
 
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm
-Version: 1.0.7~Beta3
+Version: 1.1.0
 Section: SnowBoard Extensions
 Maintainer: Spark
-Installed-Size: 596
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: ./debians/iphoneos-arm/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm.deb
-Size: 41728
-MD5sum: 6790e458b85966a05f3bf256da68d337
-SHA1: 41581ba711604986c19ee94adaf27c0a6db31a8b
-SHA256: 8c90bd7190561b7a5cd89caee3f74286d47e23c5af362466935e626f9410b971
-SHA512: 7abab5500b81143abf9544051e6ee83504b272bb104b65e301df8a1276f93756c7b454ff1bd0bb6b002408f193773b90acb45e962035874cd8fe1a08b574f6c7
-Description: Respring icon extension for SnowBoard
-Name: SnowBoard Respring Extension
-Author: Spark
-
-Package: com.spark.snowboard.respringextension
-Architecture: iphoneos-arm
-Version: 1.0.8
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 408
-Depends: firmware (>= 15.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: ./debians/iphoneos-arm/com.spark.snowboard.respringextension_1.0.8_iphoneos-arm.deb
-Size: 25352
-MD5sum: fe0ecef025b1eea0cbcdf628acfaa0a6
-SHA1: bc1be02433a55c19200063108334597c211c7e99
-SHA256: 34615713cc72459b8d0320baeef5f817a79510fe8ec6e937b0b261d054db69df
-SHA512: aec62604facae7e214b73c7b5399a585e3a81b934c564346b70847143236d21cbc4e68809ff51221b9b8b65b96506e788297a841ca9e6b2152049c53c1f0a583
-Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 15.0 - iOS 17.3.1.
+Installed-Size: 372
+Depends: firmware (>= 12.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debians/iphoneos-arm/com.spark.snowboard.respringextension_1.1.0_iphoneos-arm.deb
+Size: 25692
+MD5sum: 179e11a72d8db5d09fa83191232a595e
+SHA1: 18a3f8b020d80d039f80b748f9565a94251696a3
+SHA256: 0cf95b4366b64a9409c3a0f1541a8a8f34b69dc51b67e757ac32bd34cfdb5274
+SHA512: fc8138949d04ba9978773e69d2dc2969f25e056370c587446fc3bddd5f2d10b4296849c0a401901a1c4515c0c60a595dbd97758ea5efcea6b14a98f1c28a32de
+Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 12.0 - iOS 26.x.
 Name: SnowBoard Respring Extension
 Author: Spark & Kernelrw
 
@@ -27018,35 +27055,18 @@ Author: Spark
 
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm64
-Version: 1.0.7~Beta3
+Version: 1.1.0
 Section: SnowBoard Extensions
 Maintainer: Spark
-Installed-Size: 596
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/iphoneos-arm64/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64.deb
-Size: 22056
-MD5sum: d40f2fb7e6d43cb503159990b00b5741
-SHA1: 2f881a5f1da4a02c62f00968e3f67e7c137ef425
-SHA256: 443cdd70891310457e1cfb786359ca73a8547aacf4a1b7d0e85f941d83a59fea
-SHA512: e913bf0f729d72bdc4704e3be0c8ef1bfa4703690d38c298ec85d371289219de03dd16dbfa4cc73ebbd60eee97947e5b2b86470d0f8589df0c7460de95b9b6f1
-Description: Respring icon extension for SnowBoard
-Name: SnowBoard Respring Extension
-Author: Spark
-
-Package: com.spark.snowboard.respringextension
-Architecture: iphoneos-arm64
-Version: 1.0.8
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 408
-Depends: firmware (>= 15.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: ./debians/iphoneos-arm64/com.spark.snowboard.respringextension_1.0.8_iphoneos-arm64.deb
-Size: 25464
-MD5sum: 99bd30ed462f133b5a522e57d0d57cd2
-SHA1: 0e4d4f9e5aa79611ac40a355fac5efe254a94005
-SHA256: c1df41d4a2dd07bf7d3e6d7b6538ce2208e7443855262be26d22247002d0f965
-SHA512: 0984c38db368537773983649096c27b3d1906c04141b8741044af960c891ef0e392eeb8775a41a049a99418bb077ffda959f4a9b2e0b93e32ac6ba6ba1c6951b
-Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 15.0 - iOS 17.3.1.
+Installed-Size: 372
+Depends: firmware (>= 12.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debians/iphoneos-arm64/com.spark.snowboard.respringextension_1.1.0_iphoneos-arm64.deb
+Size: 25560
+MD5sum: cc2a45a75da5d1dba7191ab70c0e1d56
+SHA1: b1e71b0d477f98417f565eb79458101af5926d06
+SHA256: 3904aa34c82d5941643a770b759d05262e06958aec3035e6e00dbac29819574f
+SHA512: b6dc8cfc62e5b95fe6e6648d5ab697dd74c10f6c076c8d11b5765e184b41284db981593b484a915c2bab7b59db0df67859843708bd644053b2ca32447dae2598
+Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 12.0 - iOS 26.x.
 Name: SnowBoard Respring Extension
 Author: Spark & Kernelrw
 
@@ -44426,36 +44446,18 @@ Author: Spark
 
 Package: com.spark.snowboard.respringextension
 Architecture: iphoneos-arm64e
-Version: 1.0.7~Beta3
+Version: 1.1.0
 Section: SnowBoard Extensions
 Maintainer: Spark
-Installed-Size: 596
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: ./debians/iphoneos-arm64e/com.spark.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm64e.deb
-Size: 30060
-MD5sum: 66788e90bc4459c9822ab063fc6239e7
-SHA1: 205de000eb18e7b1dec12038e3bf7b9399bdb8a5
-SHA256: 6814960a18bdcba51dec4f03b27a1e2207986c7a314cf5c68c9675931c338aec
-SHA512: 928c3e009031c6d6f7278ccb6366b1babc3b254c17137726b9b6c11368b0f1379d2ef8eb6a2d2564ff6c909879fb8fce9cf220ef0c20df957978ebd9e7a0b085
-Description: Respring icon extension for SnowBoard
-Name: SnowBoard Respring Extension
-Author: Spark
-
-Package: com.spark.snowboard.respringextension
-Architecture: iphoneos-arm64e
-Version: 1.0.8
-Section: SnowBoard Extensions
-Maintainer: Spark
-Installed-Size: 408
-Depends: firmware (>= 15.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Filename: ./debians/iphoneos-arm64e/com.spark.snowboard.respringextension_1.0.8_iphoneos-arm64e.deb
-Size: 25384
-MD5sum: d6d8511c561c23e4d32bef6f32cbf49d
-SHA1: 4b9265378f7e1dba5c378aa370e7b0058ec31f6c
-SHA256: ab56c691a61ded5eb30d1a6420e141dc78dd210900e2264de18714ef0c0bb272
-SHA512: 524bea7f7ffe1412fe49fef2ae952cb2cdf46389ab3969d9ecacab9a74f0f2f0e0c63ae7ed73b14f8dd60080aeeca1cea184b650d0e7eb6e621a4a954ac5fee3
-Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 15.0 - iOS 17.3.1.
+Installed-Size: 372
+Depends: firmware (>= 12.0), mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debians/iphoneos-arm64e/com.spark.snowboard.respringextension_1.1.0_iphoneos-arm64e.deb
+Size: 25692
+MD5sum: 579741cbca7db4bc44fe6ec7d9910626
+SHA1: c88dcb92c1d31f892a43c17ccd41bdd766a90536
+SHA256: 5ae25bcc336f8df81b6c7a3922703cc2a30430f3696d8960ebcf6182e8b74c7a
+SHA512: 13a24b59d91b522d1742e6d91376a68a15ffeb64f55c2d8929ad2c7a76ad1f3cfe341f9ab4430c8c6685ed1721c32b80580e5e16a7d9a4a383ea87140db94be1
+Description: The missing piece of SnowBoard on Roothide (Relaxin), updated for iOS 12.0 - iOS 26.x.
 Name: SnowBoard Respring Extension
 Author: Spark & Kernelrw
 
