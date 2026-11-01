@@ -1,57 +1,3 @@
-Package: com.nfb.tweak
-Architecture: iphoneos-arm
-Version: 7.3.0-1+debug
-Section: Tweaks
-Maintainer: NeoFreeBird
-Installed-Size: 14016
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./debians/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm.deb
-Size: 4827274
-MD5sum: 1a90df2b67a57128784189aa7c4aab6c
-SHA1: 4830c82d11f4cc1b0807fbdb301a966e622d8a38
-SHA256: 0a81445f80f2f6b66e0e4950bad634be9950bb80a941fd1787700c50a7fe4ba7
-SHA512: 86af702a58bbe2251d49fb71960a2fbcca293604fc69f9ffd012a13cf5fe22a5b4b3c631c47a02a7416ad3122dfadacf1e22c18cb4f8a1cfa8519a1b4b9df2da
-Description: A tweak which brings back the old Twitter experience, with the features of X.
-Name: NeoFreeBird
-Author: NeoFreeBird
-
-Package: com.nfb.tweak
-Architecture: iphoneos-arm64
-Version: 7.3.0-1+debug
-Section: Tweaks
-Maintainer: NeoFreeBird
-Installed-Size: 14016
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./debians/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm64.deb
-Size: 4827776
-MD5sum: 7014706016a2670edda72da5ee4e086b
-SHA1: a40346e04fb8985728e0b611b58178fe0d445980
-SHA256: 19bde39f5c70f2abe4dd507f1030505e418de82cc2cd2420a14ebd7a1dd632f3
-SHA512: e1dbb46c9f3f730efd24699b00b94f6772c8dc4a80cf69ccec493af45336e2d5cd505234854de1d7b40a06cfef804a9b963413eaf79bc68d6d9b8d396697fae1
-Description: A tweak which brings back the old Twitter experience, with the features of X.
-Name: NeoFreeBird
-Author: NeoFreeBird
-
-Package: com.nfb.tweak
-Architecture: iphoneos-arm64e
-Version: 7.3.0-1+debug
-Section: Tweaks
-Maintainer: NeoFreeBird
-Installed-Size: 14016
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./debians/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm64e.deb
-Size: 4361216
-MD5sum: ac87d1beaa13072798bdc6a3998bfe93
-SHA1: 23db9d7a15d1b79d999cc0c64493eae98da15dea
-SHA256: 3dc226636fd69dc2fd75c26a265c73efdadf661b49f1c083e0504e4b922b503f
-SHA512: 1e6d363dae944541428493d430acd7690ae48522825af7e10645a9755412b01a4b9cf63ae428c011d79f9c9f598c64d15854b5976f8905e23bb679244d0b1414
-Description: A tweak which brings back the old Twitter experience, with the features of X.
-Name: NeoFreeBird
-Author: NeoFreeBird
-
 Package: ai.akemi.appinst
 Architecture: iphoneos-arm
 Version: 2.1.1
@@ -4608,6 +4554,29 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm
+Version: 2.6.1
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3572
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.netshield_2.6.1_iphoneos-arm.deb
+Size: 3040956
+MD5sum: f8e802aa11f863bce6f4c9e1d566a6dc
+SHA1: f1207b42d6cb710fa5c8ecb1d9db6304a694e660
+SHA256: fc660389ce3291412e3f08e719dd98f3926250ae902929e7e62750cdf537cc74
+SHA512: 121748b3eb5cfb2af9a831aa1b7a74742a34fa31c39451c916406660a57d46cd82d6e03daba87dce70826d69242f4b9f6178f9b49f3329935df1361915c03ed8
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm
 Version: 1.2
@@ -8867,6 +8836,24 @@ Description: A tweak which brings back the old Twitter experience, with the feat
 Name: NeoFreeBird
 Author: NeoFreeBird
 
+Package: com.nfb.tweak
+Architecture: iphoneos-arm
+Version: 7.3.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 14016
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debians/iphoneos-arm/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm.deb
+Size: 4827274
+MD5sum: 1a90df2b67a57128784189aa7c4aab6c
+SHA1: 4830c82d11f4cc1b0807fbdb301a966e622d8a38
+SHA256: 0a81445f80f2f6b66e0e4950bad634be9950bb80a941fd1787700c50a7fe4ba7
+SHA512: 86af702a58bbe2251d49fb71960a2fbcca293604fc69f9ffd012a13cf5fe22a5b4b3c631c47a02a7416ad3122dfadacf1e22c18cb4f8a1cfa8519a1b4b9df2da
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
+
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -10456,6 +10443,23 @@ Description: A general purpose jailbreak detection bypass patch. Configure the L
 Name: Liberty Lite (Beta)
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+
+Package: com.sahinkaa.noshutterscreenshotsounds
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: sahinkaa
+Installed-Size: 424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm/com.sahinkaa.noshutterscreenshotsounds_1.0_iphoneos-arm.deb
+Size: 55444
+MD5sum: cd2b2e939855883a59a2ff2440728e35
+SHA1: 57863cc5c8bb09dc349929885045009ac6bd3b20
+SHA256: d609c9105a03b78858a616194b9fd0ff8a92fc85ad9d9783f8efb0b741253614
+SHA512: a7e7facd86138dd75ff8849f1c9f773b833c5d8750057bfa379a81f48817c474fb1c11ff844ffcf6c2a26eff7405d3320c9f9cd6d649f1024f41d4dce8bf8ced
+Description: Silence camera shutter and screenshot sounds regardless of the ringer switch.
+Name: No Shutter & Screenshot Sounds
+Author: sahinkaa
 
 Package: com.sahinkaa.systeminfodisplayfix
 Architecture: iphoneos-arm
@@ -12899,6 +12903,23 @@ SHA512: 9acfc45ca49ac25837f3c982c3b7b8d9314f2848b7e52430e4945e775df615c42e182947
 Description: Changes the status bar battery to drain vertically instead of horizontally
 Name: VerticalBatteryDrain
 Author: Andrew6rant (Andrew Grant)
+
+Package: io.github.virenmohindra.glitchy-reuploaded
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Addons (Springy)
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.spark.snowboard.respringextension
+Filename: ./debians/iphoneos-arm/io.github.virenmohindra.glitchy-reuploaded_1.1_iphoneos-arm.deb
+Size: 3041036
+MD5sum: 610d5486dd3625dd77d6e29fc52d8929
+SHA1: 5cd76ce0ff2edcbca8be5c2b8c118f01e3943f1a
+SHA256: f90092d1a06a58dddc187fc47e1ab322478b310fdfc9a6ba80f55f7a8e57fa14
+SHA512: 2cb5870dec83097d19fbf2d8318c2f108ae79ed2b065c5cfd75b59ceaf5392db5e766d6b3c10079eeec70d8565b78d91998c55c2035b9c9621cb8057ba660570
+Description: Animated respring theme; Supports iOS12.0 through iOS26.x.
+Name: Glitchy - Springy BootLogo
+Depiction: http://virenmohindra.github.io/depictions/Glitchy
+Author: Viren Mohindra & Kernerw <viren.mohindra@gmail.com>
 
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm
@@ -19830,6 +19851,29 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64
+Version: 2.6.1
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3572
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.netshield_2.6.1_iphoneos-arm64.deb
+Size: 3040808
+MD5sum: ec01f7132d2d20a5031dc06b96f9d4dd
+SHA1: a67e997df77622023dda77be11141242cf724be0
+SHA256: 30dec67eecfb0622a858dbbcfd5e3c6b06093dbaef825d17aedab549be717221
+SHA512: 4bd7a35cf13621871564d7f20d0fa0b91c53ed9fc05cbad333972df303ab5d5430e5a83d0312f38ce06419df38ea596938bae70bc396ec443d6a72e47ef59a96
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -24389,6 +24433,24 @@ Description: A tweak which brings back the old Twitter experience, with the feat
 Name: NeoFreeBird
 Author: NeoFreeBird
 
+Package: com.nfb.tweak
+Architecture: iphoneos-arm64
+Version: 7.3.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 14016
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debians/iphoneos-arm64/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm64.deb
+Size: 4827776
+MD5sum: 7014706016a2670edda72da5ee4e086b
+SHA1: a40346e04fb8985728e0b611b58178fe0d445980
+SHA256: 19bde39f5c70f2abe4dd507f1030505e418de82cc2cd2420a14ebd7a1dd632f3
+SHA512: e1dbb46c9f3f730efd24699b00b94f6772c8dc4a80cf69ccec493af45336e2d5cd505234854de1d7b40a06cfef804a9b963413eaf79bc68d6d9b8d396697fae1
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
+
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -26318,6 +26380,23 @@ Description: Convert IPA to DEB
 Name: ipa2deb
 Author: rullinoiz
 Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
+
+Package: com.sahinkaa.noshutterscreenshotsounds
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: sahinkaa
+Installed-Size: 424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.sahinkaa.noshutterscreenshotsounds_1.0_iphoneos-arm64.deb
+Size: 56116
+MD5sum: 5e4523207a5547b77c46df501eec34d9
+SHA1: 800c7698f87f29f803c5ab49874cf0896de2cf41
+SHA256: fcacead611e3c6efd8df43807375171553a2b42c9544cc81433f174f20bfee33
+SHA512: c9f19b26acb9de5cd72fdda1f27a2b728c5ee24565d55814f3cacf211f99bdf9b69a718859e5fca7dc0319176a3f57a12d33ab86c959ab6e437156f7574c4fbb
+Description: Silence camera shutter and screenshot sounds regardless of the ringer switch.
+Name: No Shutter & Screenshot Sounds
+Author: sahinkaa
 
 Package: com.sahinkaa.systeminfodisplayfix
 Architecture: iphoneos-arm64
@@ -29515,6 +29594,23 @@ SHA512: 770e0ff5d32e0ea581eb5f6b263dc0fec023fc7a6b2ad23f741a82e56a0e94da7a3d490b
 Description: Changes the status bar battery to drain vertically instead of horizontally
 Name: VerticalBatteryDrain
 Author: Andrew6rant (Andrew Grant)
+
+Package: io.github.virenmohindra.glitchy-reuploaded
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Addons (Springy)
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.spark.snowboard.respringextension
+Filename: ./debians/iphoneos-arm64/io.github.virenmohindra.glitchy-reuploaded_1.1_iphoneos-arm64.deb
+Size: 3041072
+MD5sum: 4336f7a3666aca0e16617b0b3a6260e1
+SHA1: 4988a29ee1c1b98df557b511865416ca994558f9
+SHA256: 6749eff225d0c1469117dc5c2d8ede7670afbe8e1890df24703277e6fa7b0eca
+SHA512: e9813d183564887b9bd396f6a6c597e3222ed128ce379cd54b4d78caefc9da4894fa793e4eb4ba2472397013626705dfee63dd933f9bd53940a7cc78ce1ac483
+Description: Animated respring theme; Supports iOS12.0 through iOS26.x.
+Name: Glitchy - Springy BootLogo
+Depiction: http://virenmohindra.github.io/depictions/Glitchy
+Author: Viren Mohindra & Kernerw <viren.mohindra@gmail.com>
 
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm64
@@ -36464,6 +36560,29 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64e
+Version: 2.6.1
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3572
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.netshield_2.6.1_iphoneos-arm64e.deb
+Size: 3040844
+MD5sum: d2e9397b7c12a650aaa5ebcb5bfdf6ed
+SHA1: c69409f26b76e06eab6ef241cfd41634bd077a49
+SHA256: 714a52e8774cd0b657d5aa6d81ecfa79e80dae83acc06884eeadc6b8e77ef4f9
+SHA512: f16051f4fa80d84a60a613440ece37eaa75b8cf32dc0c0246f083d0c7f4b84b71f4be2966f4b3e3588682b2d7cce1e3340fc04d0985bafd06ca569e311c94397
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -41101,6 +41220,24 @@ Description: Replace the text in breadcrumbs with the app icon!
 Name: Croutons
 Author: burrit0z & Nezuko
 
+Package: com.nfb.tweak
+Architecture: iphoneos-arm64e
+Version: 7.3.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 14016
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debians/iphoneos-arm64e/com.nfb.tweak_7.3.0-1+debug_iphoneos-arm64e.deb
+Size: 4361216
+MD5sum: ac87d1beaa13072798bdc6a3998bfe93
+SHA1: 23db9d7a15d1b79d999cc0c64493eae98da15dea
+SHA256: 3dc226636fd69dc2fd75c26a265c73efdadf661b49f1c083e0504e4b922b503f
+SHA512: 1e6d363dae944541428493d430acd7690ae48522825af7e10645a9755412b01a4b9cf63ae428c011d79f9c9f598c64d15854b5976f8905e23bb679244d0b1414
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
+
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -43582,6 +43719,23 @@ ModernDepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannai
 Icon: https://ryannair05.github.io/repo//assets/com.ryannair05.cylinderremade/icon.png
 Tags: compatible_min::ios14.0, compatible_max::ios15.7
 Author: Ryan Nair <ryannairtweaks@gmail.com>
+
+Package: com.sahinkaa.noshutterscreenshotsounds
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: sahinkaa
+Installed-Size: 216
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.sahinkaa.noshutterscreenshotsounds_1.0_iphoneos-arm64e.deb
+Size: 51670
+MD5sum: 1a6a75669a4f59849bd804e1be7e1641
+SHA1: a9f3d118ac040beaf89b629dc59a993a5c4a6051
+SHA256: a3f44a2c201d9f061261867062f9e45a72cf919993308ef3f04728ec9db1df79
+SHA512: f11caff902f3df3c0b981faeae0d77b1a8da8a59da9eba604f0093302078e5936b9b528c3b569c88bb30ae354e0cfe7e9f939bdc4ec5d385ab7cc3d2001fa8dc
+Description: Silence camera shutter and screenshot sounds regardless of the ringer switch.
+Name: No Shutter & Screenshot Sounds
+Author: sahinkaa
 
 Package: com.sahinkaa.systeminfodisplayfix
 Architecture: iphoneos-arm64e
@@ -46450,6 +46604,23 @@ Description: Changes the status bar battery to drain vertically instead of horiz
 Name: VerticalBatteryDrain
 Author: Andrew6rant (Andrew Grant)
 
+Package: io.github.virenmohindra.glitchy-reuploaded
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Addons (Springy)
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.spark.snowboard.respringextension
+Filename: ./debians/iphoneos-arm64e/io.github.virenmohindra.glitchy-reuploaded_1.1_iphoneos-arm64e.deb
+Size: 3041020
+MD5sum: d931007fc8a663758324f68bb17c41e3
+SHA1: 899965b98a46962d82c3711ad05d15902501ff6e
+SHA256: f1ea8031ad263a1a7faa28d47e442c2805aec71e61404a11b39d344b8069aae2
+SHA512: f79d188504e486dcf0f29b38cdbcbea76d8b5bc7d34f277eb6f0a1b2f3a29a119fa13ea61808fc955e3fe44fd629dcd1e50e688017f808ff374d6389c1b4084c
+Description: Animated respring theme; Supports iOS12.0 through iOS26.x.
+Name: Glitchy - Springy BootLogo
+Depiction: http://virenmohindra.github.io/depictions/Glitchy
+Author: Viren Mohindra & Kernerw <viren.mohindra@gmail.com>
+
 Package: ios.nqt1195.ccwifijoin
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -48387,6 +48558,28 @@ Description: iOS 6 folders with a modern twist for rootless jailbreaks
 Icon: file:///var/jb/Library/PreferenceBundles/ClassicFoldersSettings.bundle/icon-29@3x.png
 Name: ClassicFolders 3
 Author: CoolStar
+
+Package: org.coolstar.libhooker
+Architecture: iphoneos-arm64e
+Version: 1.6.9-11+roothide
+Priority: optional
+Section: Tweak Injection
+Maintainer: libhooker roothide port contributors
+Installed-Size: 892
+Provides: ellekit (= 1.2-3), mobilesubstrate (= 99)
+Depends: firmware (>= 16.0), firmware (<< 18.0), roothide
+Conflicts: ellekit, mobilesubstrate, com.ex.substitute, science.xnu.substitute, com.saurik.substrate.safemode
+Replaces: ellekit, mobilesubstrate, com.ex.libsubstitute
+Filename: ./debians/iphoneos-arm64e/org.coolstar.libhooker_1.6.9-11+roothide_iphoneos-arm64e.deb
+Size: 49976
+MD5sum: 51f23e4c9513becd38ae42f1f6555096
+SHA1: 0d3fe3abcfdc8f6218aa038f1977427ff73d1cb2
+SHA256: 3963f56c6cf2192d53b6dd88a2c82626eb50b14bd5355a5c5b98a0cd16250db2
+SHA512: d93a544220baebdc6d87ace57e8583f6668a15993c37a0010c3577eddadcc2a6a61dcea4e844b92d7bdd38d65fb29da68e5d86ed9c711e675ce2313a568981e4
+Description: libhooker engine, tweak loader and safe mode for iOS 16+ roothide
+Name: libhooker (roothide port)
+Author: CoolStar and contributors
+icon: https://huayuarc.github.io/icon/libhooker.jpg
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm64e
