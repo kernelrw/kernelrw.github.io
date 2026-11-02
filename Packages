@@ -32366,6 +32366,25 @@ Description: Fix Apple watch connection issues
 Name: WatchFix
 Author: 577FKJ
 
+Package: cn.zqbb.hello.jailport
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Applications
+Maintainer: zqbb
+Installed-Size: 1520
+Depends: firmware (>= 15.0), apt, dpkg, coreutils, tar
+Filename: ./debians/iphoneos-arm64e/cn.zqbb.hello.jailport_1.0.6_iphoneos-arm64e.deb
+Size: 602356
+MD5sum: f6ad7e0e29a52daf583ee0ed6de5952d
+SHA1: 503956e1944cc5b5979bc84e4dcde6ccd5ffe857
+SHA256: b613ff8fe4c737848ae19c07df73301351840754179c9e4a04cf4a8d940035a8
+SHA512: 964c4cea9ff76f36447b5591654f12a31206be2346df1fa7604f578434743eda5393029bab237025af734fc4a1b5da5832aa2999f8c7e4499b9762cc29b504e8
+Description: 越狱插件、依赖与文件的可视化备份和恢复
+Name: HelloJailPort
+Author: zqbb
+Icon: https://apt.002599.xyz/web/icon/cn.zqbb.hello.jailport.png
+SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.hello.jailport
+
 Package: cn.zqbb.hellojoker
 Architecture: iphoneos-arm64e
 Version: 1.0.3
