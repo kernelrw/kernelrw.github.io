@@ -11825,6 +11825,23 @@ Name: Lead
 Author: w3ltyyy
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
 
+Package: com.w3ltyyy.lead
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: w3ltyyy
+Installed-Size: 6008
+Filename: ./debians/iphoneos-arm/com.w3ltyyy.lead_2.0_iphoneos-arm.deb
+Size: 1252296
+MD5sum: 44ae8dc7f311d1cac09fa88a8a024e1c
+SHA1: 1939fd3b3f51f0b54751b5fff87ccc5088d482af
+SHA256: 7a3a9085ed011518c6e7c78166c6ffa0c97cb5988a0038001f461e2cc4f53403
+SHA512: 3f2c588550d0c4ae1e0bad1411a3ec7bf418c1fc7a1d852f1f03e0b67d5608f43aeb7b64411dad27b069b0af87fc1c3679a6ec93c9a42ab21d1f91cb729356c9
+Description: The best Tweak For Telegram iOS
+Name: Lead
+Author: w3ltyyy
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
+
 Package: com.wings.rtcc
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -28097,6 +28114,23 @@ MD5sum: 0454e02d479616340e08f80da0f5943a
 SHA1: fe902463bbcef900ae71f3d15b52c006ed7748dc
 SHA256: ff74c25a026eb6c42057d64c72416993648451aae03ba40a81260d256cfdefcc
 SHA512: fe9f0df3b5c4d77cd08f888d31ed1bcc42783557f154ef4b35ec84727321248abe4b39c507ec6513fe1544848fde1e3f90e0fb4198b430103783861fbb954a04
+Description: The best Tweak For Telegram iOS
+Name: Lead
+Author: w3ltyyy
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
+
+Package: com.w3ltyyy.lead
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: w3ltyyy
+Installed-Size: 6008
+Filename: ./debians/iphoneos-arm64/com.w3ltyyy.lead_2.0_iphoneos-arm64.deb
+Size: 1256820
+MD5sum: 4466b591d64bd4d89142afd60f69f8b4
+SHA1: ddfe2705cdcbdd0539fe93d81fb992ec73ce55b4
+SHA256: fb5b0858ebfb6699a3b3964366f12e23d11c97c16b577115c8efa0c6fc802c49
+SHA512: 50990bc7547a10e55decfcca8f4fe344e7f95f908ef6fdcf589fdffb66d9225ee027a72e283db4bdd4b10d94203b9e3bbe992478b835440e23748f3c025ef5e7
 Description: The best Tweak For Telegram iOS
 Name: Lead
 Author: w3ltyyy
@@ -45537,6 +45571,23 @@ MD5sum: b98906ff9deafaea8c3b04d9fd6015e5
 SHA1: 5bfd5bbc0365b8012c73c94ac295b72ed8e640d6
 SHA256: 1aa1f6c5c92565645d3ba313ecd22ea1b7c4a663d5c4917eb8b0c41f4ad50ffd
 SHA512: 91e2bbaf6c21c7013d3c30a292bbede58856ea50f38b2c0cd1f66dd3bfe58f55ecd63cf0424bbaf175f1156295c9d5744d5fa63545b3bf87372ca91b2702a4f4
+Description: The best Tweak For Telegram iOS
+Name: Lead
+Author: w3ltyyy
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
+
+Package: com.w3ltyyy.lead
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: w3ltyyy
+Installed-Size: 6008
+Filename: ./debians/iphoneos-arm64e/com.w3ltyyy.lead_2.0_iphoneos-arm64e.deb
+Size: 1256084
+MD5sum: e635dd77317684280f651fecf42aa155
+SHA1: c1f98d554cf1bb23fe03d9f24ca91b3ce91088d4
+SHA256: b361bbbb1598f233d70a85174c65cf78f0f2e38ad30894f13c0e5d9d4519efe9
+SHA512: efcda35a44c74379f6e621de856b6671d8daa24df849495fcacc8a83cacb8ac63e68662244065e308f5568b40e14dc24f8ef38ae5c1e66e075c1166a4a648c51
 Description: The best Tweak For Telegram iOS
 Name: Lead
 Author: w3ltyyy
