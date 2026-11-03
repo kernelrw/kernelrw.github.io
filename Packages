@@ -788,6 +788,25 @@ Description: Automatically marks messages as read after clearing their notificat
 Name: IMRead
 Author: noname
 
+Package: com.7md.iqface
+Architecture: iphoneos-arm
+Version: 1.2-20260925.111919
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 15564
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.7md.iqface_1.2-20260925.111919_iphoneos-arm.deb
+Size: 5656600
+MD5sum: 0f957b99a7ad326de51c70a9a7bcfb8d
+SHA1: 701102268eaa364f25eca8555d069580eff5d9ae
+SHA256: 422d61d81fd4015c4cbec35112bfe174618b46fa519503d7e4669ca63bbd2805
+SHA512: 5f6be9cc5b0d9796495bdc7e3e8db0a67fd3962765f6f87c5fec58115ebd6922086ddeb97dd0de546eb024d378e3971a9fe9aa3eac8ecebbf389106a923a5dbd
+Homepage: https://t.me/r71il
+Description: best Tweak for Facebook
+Name: iQFace
+Author: 7md
+Icon: file:///var/jb/Library/Application Support/iQFace.bundle/icon.png
+
 Package: com.7md.iqgram
 Architecture: iphoneos-arm
 Version: 1.0
@@ -806,6 +825,24 @@ Description: Best Tweak for Instagram
 Name: iQGram
 Author: 7md
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
+
+Package: com.7md.iqtelegram
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 1964
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.7md.iqtelegram_1.5_iphoneos-arm.deb
+Size: 766148
+MD5sum: 5118c59b6b1caf6e4f99a9d56f4942c7
+SHA1: e7548b6a5e3e6e34bcf8fefbd8bc81e9dae6edf8
+SHA256: f91598b54288dbee36345ea22f1adc5f3419c0b8b938a997ed6961c60c5f9713
+SHA512: 82cd6ee80bc2ae6a81389954583b22283546b552aebe49642a05682ae96b794b224953395ae0cb69131e06781715eb7943d99ad9315e544815c58cce92458561
+Homepage: https://t.me/r71il
+Description: best Tweak for Telegram
+Name: iQTele
+Author: 7md
 
 Package: com.82flex.amlyrics
 Architecture: iphoneos-arm
@@ -15738,6 +15775,25 @@ Description: Makes ControlCenter cool.
 Name: CoolCC
 Author: 4nni3 <4nni3.14@gmail.com>
 
+Package: com.7md.iqface
+Architecture: iphoneos-arm64
+Version: 1.2-20260925.111919
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 15564
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.7md.iqface_1.2-20260925.111919_iphoneos-arm64.deb
+Size: 5736900
+MD5sum: cbdef21c71b95c3ed2fa8569bfa6f0bd
+SHA1: 95ed9549f9d6ab1243f1b792272799576b96f2d3
+SHA256: ddb1499cf97d855b99380a3cd466cfbf0f9234b03c9709520248b0f8eb8c92b7
+SHA512: c1db31ea1f62e5963f02deebba8f456d910e712628038c687572f8e181d21c136fb0742e13cfc88d31472a8750ab01013c306818be1b240227016303317629a7
+Homepage: https://t.me/r71il
+Description: best Tweak for Facebook
+Name: iQFace
+Author: 7md
+Icon: file:///var/jb/Library/Application Support/iQFace.bundle/icon.png
+
 Package: com.7md.iqgram
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -15756,6 +15812,24 @@ Description: Best Tweak for Instagram
 Name: iQGram
 Author: 7md
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
+
+Package: com.7md.iqtelegram
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 1964
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.7md.iqtelegram_1.5_iphoneos-arm64.deb
+Size: 765648
+MD5sum: 629096a5d12b0fc54e3020589fc56847
+SHA1: 4bf6f4432867531a5396138bf5520f7ed5bfdd6e
+SHA256: 934c504cf85969deeed7cc7f9976ff48c19f08f9cd6ff53437263e71c173f6e9
+SHA512: 7e017f1930d59e411a35a2ac68f7aa48db02c2aa3a3c2ca71269676a3134b933e961332229f730c7756fc3d9527965341e4784ce3cbc23da48774f5e83dba13f
+Homepage: https://t.me/r71il
+Description: best Tweak for Telegram
+Name: iQTele
+Author: 7md
 
 Package: com.82flex.amlyrics
 Architecture: iphoneos-arm64
@@ -33075,6 +33149,25 @@ Description: Makes ControlCenter cool.
 Name: CoolCC
 Author: 4nni3 <4nni3.14@gmail.com>
 
+Package: com.7md.iqface
+Architecture: iphoneos-arm64e
+Version: 1.2-20260925.111919
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 15564
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.7md.iqface_1.2-20260925.111919_iphoneos-arm64e.deb
+Size: 5663588
+MD5sum: a9cec5c0547594c2772f71e1e3798a4c
+SHA1: 378cc479c2e045f2b0b4d9e963bacb9a33b7dbdb
+SHA256: 8772905f479c0bfddd82e485b1efa62c6eb2e5951f3eae49f019861269c72a5a
+SHA512: cf9397127d9fcd91623de2a44ceca5fdc332baa546d7bfc7371493ffaf8bfc92eee75d72d03acafc79d8b39ce06759ca98eca421aab9f1be6954b4cdffed4a65
+Homepage: https://t.me/r71il
+Description: best Tweak for Facebook
+Name: iQFace
+Author: 7md
+Icon: file:///var/jb/Library/Application Support/iQFace.bundle/icon.png
+
 Package: com.7md.iqgram
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -33093,6 +33186,24 @@ Description: Best Tweak for Instagram
 Name: iQGram
 Author: 7md
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
+
+Package: com.7md.iqtelegram
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 1964
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.7md.iqtelegram_1.5_iphoneos-arm64e.deb
+Size: 758292
+MD5sum: 59c3b01a743aa95e72077ab23cdf2d2b
+SHA1: 47c20d8c90bd24bceaf0905ecfc170c8b6679147
+SHA256: b98cfcd640fdbcc5f43098365229219ea4be33bbbb84f283bd84d4b79932d7ca
+SHA512: e2dab096c6bedccca350ef8bcb676ce0302181821b54992197fb68a61452041d4d10cd114895b3592bcaa28c5eccc3b07e352cf033bc680bea768a1be5da08ab
+Homepage: https://t.me/r71il
+Description: best Tweak for Telegram
+Name: iQTele
+Author: 7md
 
 Package: com.82flex.amlyrics
 Architecture: iphoneos-arm64e
