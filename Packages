@@ -826,6 +826,24 @@ Name: iQGram
 Author: 7md
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
 
+Package: com.7md.iqgram
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 2756
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.7md.iqgram_1.3_iphoneos-arm.deb
+Size: 9619472
+MD5sum: f88eded8b125b1fcb18e7d8ae0bae9db
+SHA1: 2594d88539017d3b9ece39623f185024d482d851
+SHA256: 44c510c3b724935922a20bb2762df2c4de0d5ef71aa34b72ca0e2c00d8439543
+SHA512: f4c187572d9a1b70db0548f45e1916bae62c2bb96815f0e66fc3a0807fe8e2bf58bc7cf90fd97ca60f224efd547537564f34dea3b0f09e5ddb6c5c976fcb354e
+Homepage: https://t.me/r71il
+Description: best Tweak for Instagram
+Name: iQGram
+Author: 7md
+
 Package: com.7md.iqtelegram
 Architecture: iphoneos-arm
 Version: 1.5
@@ -15812,6 +15830,24 @@ Description: Best Tweak for Instagram
 Name: iQGram
 Author: 7md
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
+
+Package: com.7md.iqgram
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 2756
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.7md.iqgram_1.3_iphoneos-arm64.deb
+Size: 9619216
+MD5sum: 13a6d6c88247409e8c4912c4517c97bb
+SHA1: 52c7adbba9ed79e6760b7bf547c935241a42c270
+SHA256: 9829d5bbe0fbd41738c7ea537c09cce54b4fbfeae2e31e063510fe3f38ec81fd
+SHA512: 66a15d62f346571c3a85b1333b5f7ec8b2b1eb173a7f099a51cf137ba0f1abda271185abea255b8b41f1d6d54c94c5bd6b8f188c641c6d648df7d429257c0a84
+Homepage: https://t.me/r71il
+Description: best Tweak for Instagram
+Name: iQGram
+Author: 7md
 
 Package: com.7md.iqtelegram
 Architecture: iphoneos-arm64
@@ -33186,6 +33222,24 @@ Description: Best Tweak for Instagram
 Name: iQGram
 Author: 7md
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/iQGram.png?raw=true
+
+Package: com.7md.iqgram
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 2756
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.7md.iqgram_1.3_iphoneos-arm64e.deb
+Size: 9504524
+MD5sum: a1da89e3d184f166ab1a06d7c3b604de
+SHA1: aa0005ef5adf263ebe9524d62e3520d423e3a5e8
+SHA256: e1c4eb0547b455a2a5e4a48850e9ab1183774ae1133a8f4e75b67cea1d53c739
+SHA512: da0e7f769d3b7eb3af98b49d82b875e3223e61ee2503f1ac22979814c6000916c126a90ea7e71434fbda224ff4c6af741cdb5f7012cfaa6f5af6b22c4a98b617
+Homepage: https://t.me/r71il
+Description: best Tweak for Instagram
+Name: iQGram
+Author: 7md
 
 Package: com.7md.iqtelegram
 Architecture: iphoneos-arm64e
