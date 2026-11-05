@@ -4632,6 +4632,29 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm
+Version: 2.7.2
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3828
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.netshield_2.7.2_iphoneos-arm.deb
+Size: 3114120
+MD5sum: b00acdcaa11e2e6876c2807454032323
+SHA1: b279d6affdcede03bf65935b54e01d3584e3dac6
+SHA256: 830f4d4b4c0712d33e6ac24dc7ed5620185cb092048cdb2b7270802759973400
+SHA512: 2ac2a118f0ee9aabd1e7d3ac10a01010d11ac0d3edcf28a480572c2a465646b7a3c35c282c739ac7c693fe6e2e77295e06bbc70090b9ddc8021b31dcdb1211bc
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm
 Version: 1.2
@@ -19993,6 +20016,29 @@ MD5sum: ec01f7132d2d20a5031dc06b96f9d4dd
 SHA1: a67e997df77622023dda77be11141242cf724be0
 SHA256: 30dec67eecfb0622a858dbbcfd5e3c6b06093dbaef825d17aedab549be717221
 SHA512: 4bd7a35cf13621871564d7f20d0fa0b91c53ed9fc05cbad333972df303ab5d5430e5a83d0312f38ce06419df38ea596938bae70bc396ec443d6a72e47ef59a96
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64
+Version: 2.7.2
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3828
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.netshield_2.7.2_iphoneos-arm64.deb
+Size: 3114476
+MD5sum: 3cac6973ce442a3d3364a7b29feb41f3
+SHA1: cb4a5f159bd5c4c146b6e335f93a3e5f8d9d5ae2
+SHA256: c682cf2b5e8896ed57bf0f7f4e45ec9b9d4566a82322794f640227d04089ef6f
+SHA512: e5ab965507b34497725c2642c2024f443664149ae521dd578abda07a9526c19d5a55231333f4bec3b18afd1d0f058c282fd1315c5228662bf77343d89699442a
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
@@ -36793,6 +36839,29 @@ MD5sum: d2e9397b7c12a650aaa5ebcb5bfdf6ed
 SHA1: c69409f26b76e06eab6ef241cfd41634bd077a49
 SHA256: 714a52e8774cd0b657d5aa6d81ecfa79e80dae83acc06884eeadc6b8e77ef4f9
 SHA512: f16051f4fa80d84a60a613440ece37eaa75b8cf32dc0c0246f083d0c7f4b84b71f4be2966f4b3e3588682b2d7cce1e3340fc04d0985bafd06ca569e311c94397
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64e
+Version: 2.7.2
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3828
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.netshield_2.7.2_iphoneos-arm64e.deb
+Size: 3114468
+MD5sum: aebe32ff0524fb9e2881addd82b17671
+SHA1: 5abe1e404477d8c2381f637203f7d45043378500
+SHA256: 2efdb53aeca04520468e95f5cacfb2f319e8148ec7ee30eaffc7e27be2a759a0
+SHA512: 8f19484f4495a897f843b5fe7c8007aaf06370bd9535d579f87bdf160adb6b82a516b8590912f121ab02ff7c13a62db0ea340fbbe98a93cc64321c6fff025907
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
