@@ -3589,6 +3589,23 @@ Name: ExtractApp
 Author: developlab
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrOfl7eSAWp7HZVCyFsxOh_41NS7eSzNZGN6SL7aFGg&s=10
 
+Package: com.doimty.fiona
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 304
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/com.doimty.fiona_0.3_iphoneos-arm.deb
+Size: 4636
+MD5sum: 1400333ab92fd56f2e8ebeb690894abe
+SHA1: 8504684cf019dba1ff4d21dea77c63d5c2f17ed0
+SHA256: f81db94e4ab2d5ff1c5a094f80d13698a641876e0ccdca0be27f9b557450dd69
+SHA512: 61740a22d91726354fb28d8e4c203b7152de26058f4bd8d12d0ed729ecf817bfe346fdf4dc19e70d902f4b62832935438b3b4a6e094204eb93eb44a2e4a8c96f
+Description: Keep the WiFi connection when the screen is locked; the hotspot will not be automatically turned off when there is no client. No switch, it will take effect as soon as it is installed.
+Name: Fiona
+Author: doimty
+
 Package: com.doimty.promotion
 Architecture: iphoneos-arm
 Version: 1.0.11
@@ -19002,6 +19019,23 @@ SHA512: 3e68c88e76a0fcf00ceb1cc4e7b445dfb139bee8088e569174f3870dc276a9a25f98d0cb
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
+
+Package: com.doimty.fiona
+Architecture: iphoneos-arm64
+Version: 0.3
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 304
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.doimty.fiona_0.3_iphoneos-arm64.deb
+Size: 5060
+MD5sum: 9bd192f97f1927fb8a9d8996b58e1f84
+SHA1: 6d1be3a6b9ebbd5bf578ad751e86f755a60a4b40
+SHA256: e5ff2abe50779ab5c94db21443da78ef1d4b2883e0f414fff56bc6d7daac7985
+SHA512: 04bf8d59926c1574418b28272dda09310bbfd05288185a96d83418dd08e67b920798eddf6bd6497cf768b702715725c90068d070b0bc01689b5a3780509ed4ec
+Description: Keep the WiFi connection when the screen is locked; the hotspot will not be automatically turned off when there is no client. No switch, it will take effect as soon as it is installed.
+Name: Fiona
+Author: doimty
 
 Package: com.doimty.promotion
 Architecture: iphoneos-arm64
@@ -36181,6 +36215,23 @@ SHA512: 0de765581d2b096c48ae131393110832494bfc3f3d7cb42341dc05576642692d1390fc69
 Description: Hide contacts from the share menu .
 Name: NoCShare
 Author: Devvix
+
+Package: com.doimty.fiona
+Architecture: iphoneos-arm64e
+Version: 0.3
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 304
+Depends: firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.doimty.fiona_0.3_iphoneos-arm64e.deb
+Size: 5008
+MD5sum: 03983190f093be85390bec6d02055cd3
+SHA1: afa2d8cc95f3f087df5adfb6a3cb70ac94f6e29e
+SHA256: fa6dfef1d6c7232f7c4fbd56948188657d7367f4697080084dd7ad7b765632fe
+SHA512: 02e9562f7589cf3ccee149686876c821e2880db854b23b0ff4d1af9f7b9cee8c6ba9d56ed56006deda4f6e8a7d48d31e39e5dc94c01cfd84418eea0665dc6f38
+Description: Keep the WiFi connection when the screen is locked; the hotspot will not be automatically turned off when there is no client. No switch, it will take effect as soon as it is installed.
+Name: Fiona
+Author: doimty
 
 Package: com.doimty.promotion
 Architecture: iphoneos-arm64e
