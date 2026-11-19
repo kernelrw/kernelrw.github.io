@@ -4718,6 +4718,29 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm
+Version: 3.0.3
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3992
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.netshield_3.0.3_iphoneos-arm.deb
+Size: 3172832
+MD5sum: 34603b533ceb2f409c8b9b622128e6bc
+SHA1: 8859064bc202264e3e61df28d227e62b0c32a0a9
+SHA256: 794b1b175b2c7e714033bbfeb24d20f6983aa8d1b334349fa6604a1630af6fa6
+SHA512: d2b90ff38df822a145e5820c35388147fcc3ea6beccf4c511cf0ae4b48f1e0e80269844e82db9c95f5171d55c418b3f9bf43e21b3c52b4594ee7608a79fb2ec2
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm
 Version: 1.2
@@ -17466,6 +17489,148 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpples
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: cannathea
 
+Package: com.carterware.bond
+Architecture: iphoneos-arm64
+Version: 0.2.1
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 428
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.carterware.bond_0.2.1_iphoneos-arm64.deb
+Size: 45770
+MD5sum: b3de89477b102884f06e1791714a772a
+SHA1: 25f0a782b040f039ac9c2f715e0e977873b3da4d
+SHA256: a7d47c483ccd425cb2111609a24ca2f36c613391774bb3a50874e5528c01d76b
+SHA512: 1bcc00f35d318896ab8e3d2bf77f6f3d100703aad5041213a8c30bddd5530db09295ad1c1d007189dc6b201c5d7968841e1bbdff2dfd8f8b698dd0f598154fc5
+Homepage: https://tweaks.carterware.net/
+Description: Free BETA — Uses Wi-Fi and cellular together on large file downloads. Wi-Fi streams the file while cellular fetches the end, each link sharing the work by its speed, then the parts are joined. Off by default because it uses cellular data; turn it on in Settings → Fuse. Fuse becomes a paid tweak when it leaves beta; this beta stays free to keep.
+Name: Fuse
+Author: CarterWare
+Icon: https://tweaks.carterware.net/icons/bond.png?v=20261021
+Sileodepiction: https://tweaks.carterware.net/depictions/carterbond.json
+Depiction: https://tweaks.carterware.net/depictions/carterbond.json
+
+Package: com.carterware.carterblock
+Architecture: iphoneos-arm64
+Version: 1.2.19
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 572
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit, preferenceloader, curl, bash
+Filename: ./debians/iphoneos-arm64/com.carterware.carterblock_1.2.19_iphoneos-arm64.deb
+Size: 80608
+MD5sum: e0de07829f888cf866869c07a5110f5b
+SHA1: b3a103d07cab9d3c9daa1c363945c3533ed85299
+SHA256: b7448b8a35639c30c637f3e88739017236349cea392a740bfc4507c38cea85a8
+SHA512: 830915c882f52e96773208d5a3a7ca7764abffb83fd45cab76133d10892637b883894a119022f90c5fb0a3a2bac5778220eddf8cba688175523609317a6d534d
+Homepage: https://tweaks.carterware.net/
+Description: App/game ad & tracker blocker — app networking, background downloads, AVPlayer video ads, in-app web views and Safari, hosts lists, allowlist, live Settings stats.
+ Start: Settings → CarterBlock → enable, then relaunch the apps/games you care about.
+ Excluded Apps keeps CarterBlock out of anti-cheat games. Not system DNS. Free.
+Name: CarterBlock
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/carterblock.json
+Depiction: https://tweaks.carterware.net/depictions/carterblock.json
+Image: https://tweaks.carterware.net/icons/carterblock.png?v=20260910c
+Icon: https://tweaks.carterware.net/icons/carterblock.png?v=20260910c
+
+Package: com.carterware.current
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 408
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.carterware.current_1.0.2_iphoneos-arm64.deb
+Size: 40688
+MD5sum: 8aeba4c6779788947b9f75978031ce67
+SHA1: 580260c6158b91d59dbfa5749ab87cbf545e0607
+SHA256: 7af7058f3753c97e09bed2a8ff69765cd363a8647ac9101cb7e31ecffff84682
+SHA512: b4cb7db3ab68e5388fd624016aaf43dbb61d02154eaa88415f3433b31f6c4b49f2f2cd80f5ea28936852fd6a2f589bff551f13ed885063f0f3e076e01237048d
+Homepage: https://tweaks.carterware.net/current.html
+Description: See what your charger is doing, right on the Lock Screen.
+ While your iPhone charges, a small pill between the flashlight and camera buttons shows the battery percentage, the watts coming in and when it will be full. Settings shows battery health, cycle count, temperature and the charger you're using. Free.
+Name: Current
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/current.json
+Depiction: https://tweaks.carterware.net/depictions/current.json
+Image: https://tweaks.carterware.net/icons/current.png?v=20261027
+Icon: https://tweaks.carterware.net/icons/current.png?v=20261027
+
+Package: com.carterware.mountaineer
+Architecture: iphoneos-arm64
+Version: 1.4.15
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 1776
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.carterware.mountaineer_1.4.15_iphoneos-arm64.deb
+Size: 355676
+MD5sum: 64cb508c39d9d535c92ecc8074514d66
+SHA1: 14b598671749c2cde29062f0fb17593aa97d1747
+SHA256: 10212bc101cc20b8d389ea9e62bccafe0cf80a2bcc31c38b5744c3491d8a6a84
+SHA512: fc4d8872ae3045ef04fc07c6c9a3eabfa2136adffdc485be40de95cb613e125b1f27f204006167e894b3a704bd4e33be1b1d06fa3b4c9d55299adb6b24bc9640
+Homepage: https://tweaks.carterware.net/
+Description: Crash diary + App Shield for Dopamine — Timeline, Doctor, Copy Report.
+ Start: Install → open the Mountaineer app → Timeline after a weird respring. Copy Report
+ for Discord/support. Settings → Mountaineer for diary options and App Shield (third-party
+ apps that hate jailbreaks). Free.
+Name: Mountaineer
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/mountaineer.json
+Depiction: https://tweaks.carterware.net/depictions/mountaineer.json
+Image: https://tweaks.carterware.net/icons/mountaineer.png?v=20260910c
+Icon: https://tweaks.carterware.net/icons/mountaineer.png?v=20260910c
+
+Package: com.carterware.thump
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 616
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.carterware.thump_1.1.2_iphoneos-arm64.deb
+Size: 61822
+MD5sum: 156d0493829e0c84aa18e6995c13c089
+SHA1: bc301a135f06c748e1aa023f5f641519e86840b5
+SHA256: e1fd33f9052e61f4afd727dc86afca32c083288c69246445d55db9221b3ad969
+SHA512: 677f4004ecfa5f11ea30bd7a48c771540e8ac1e11ddd58b1ac8f183863fa3f0608918c6da6ffd00eabd8d793e253887c5a975f8b9a4c04179fe6d310c2ba2825
+Homepage: https://tweaks.carterware.net/thump.html
+Description: Feel the beat of anything you play. The vibration motor hits with the kick drum and rumbles with the 808s, in any app.
+ Pick Beat (kick drum), Bass (adds bass notes) or Everything (adds snares, gunshots and explosions for games and movies), and set the strength. Gets stronger as you turn the volume up.
+ Each buzz is timed to when the sound actually comes out, including Bluetooth delay, with a slider to fine-tune.
+ Listens only to what the iPhone is playing, never the microphone. Pauses with the screen off, in Low Power Mode, on calls and, if you want, on Bluetooth, AirPlay and CarPlay. Free.
+Name: Thump
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/thump.json
+Depiction: https://tweaks.carterware.net/depictions/thump.json
+Image: https://tweaks.carterware.net/icons/thump.png
+Icon: https://tweaks.carterware.net/icons/thump.png
+
+Package: com.carterware.tiktokwarm
+Architecture: iphoneos-arm64
+Version: 1.0.16
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 472
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.carterware.tiktokwarm_1.0.16_iphoneos-arm64.deb
+Size: 53018
+MD5sum: 845d45df5ce8dcd7b128f6ee960c2a6c
+SHA1: f5aca114823bdb8221733fb8929df5e068976d8f
+SHA256: bdae9024758ab38213b303248eb035f4c8da4a540c922111e113ac5b5c8ac4ad
+SHA512: 4963ecfe79ec14864920fc22eb10723cc7adadc917b3fec8f661734a984e2bf970f1ea6d754f7f912d9e02a7e8187a23ad09d4da868e8b8a06fef0157e625740
+Homepage: https://tweaks.carterware.net/
+Description: BETA — a Warm chip on TikTok's For You feed that auto-swipes and optionally likes, with timing in Settings.
+ Start: Settings → TikTok Warm → Enabled (off by default) → open TikTok → tap the Warm chip.
+ Waits while you touch the screen, type, or have comments open. Automating TikTok may violate its ToS — use at your own risk. Free.
+Name: TikTok Warm
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/tiktokwarm.json
+Depiction: https://tweaks.carterware.net/depictions/tiktokwarm.json
+Image: https://tweaks.carterware.net/icons/tiktokwarm.png?v=20260910c
+Icon: https://tweaks.carterware.net/icons/tiktokwarm.png?v=20260910c
+
 Package: com.chargelimiter.mod
 Architecture: iphoneos-arm64
 Version: 1.12.4
@@ -20182,6 +20347,29 @@ MD5sum: 188d9003a3375555d28de538385b0108
 SHA1: af4ebf2437e9d3b271796631e8ae6e06ed0a9ebf
 SHA256: 1035cc74583951b52eb0886ec4129ddf18011b6987cf85c3d04cb236f688196b
 SHA512: 4099352029b82378dedbc82ca982c9a49699064c2a6b21f407133b65ddb9fd765d7ddb1db59a0f655e748b0c840b2ff3b0fedc3b416b5ff8005065afa59c17c3
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64
+Version: 3.0.3
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3992
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.netshield_3.0.3_iphoneos-arm64.deb
+Size: 3172792
+MD5sum: f72fa5ea9c3eea49abbe76aae5ac1aaf
+SHA1: dd20bf0f5fdbb829c9d8163adaa853f6dc376e32
+SHA256: 13d68bc0b273a5f05037d4a1ea2b9769f91b9fa391d5bf8056d54a68b9bffee7
+SHA512: 743bcb975b94639f6482135da86f02e72fefb8929de8f7ba79a91210ba509feadf1546529d11d63d497c4ff62fd565f1822a34fc4e54b2281a7e46ae3247f469
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
@@ -34957,6 +35145,148 @@ Name: Apple File Conduit "2" (RootHide)
 Author: saurik, Cannathea, i_82, Shadow-
 Depiction: https://cydia.akemi.ai/?page/com.cannathea.afc2d-arm64
 
+Package: com.carterware.bond
+Architecture: iphoneos-arm64e
+Version: 0.2.1+roothide
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 428
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.carterware.bond_0.2.1+roothide_iphoneos-arm64e.deb
+Size: 45712
+MD5sum: 6dba6c96f96b621eb261ff290631e04e
+SHA1: d8ecb907be2e8d2d4e34c7d0efb8a8323ded2223
+SHA256: d9bde1469795efbd6363f3ad93bb7685c1a50024cc76373d01318a759ff1ea2b
+SHA512: 1852b0f8eaaa52ddf4db02715b9a042bf6ae96007e21bcab59023a36a366e16f47cd65bcaba4d0227e8ac431d6cd288665f48b38ae40d81e860b0cd8b66f8126
+Homepage: https://tweaks.carterware.net/
+Description: Free BETA — Uses Wi-Fi and cellular together on large file downloads. Wi-Fi streams the file while cellular fetches the end, each link sharing the work by its speed, then the parts are joined. Off by default because it uses cellular data; turn it on in Settings → Fuse. Fuse becomes a paid tweak when it leaves beta; this beta stays free to keep.
+Name: Fuse
+Author: CarterWare
+Icon: https://tweaks.carterware.net/icons/bond.png?v=20261021
+Sileodepiction: https://tweaks.carterware.net/depictions/carterbond.json
+Depiction: https://tweaks.carterware.net/depictions/carterbond.json
+
+Package: com.carterware.carterblock
+Architecture: iphoneos-arm64e
+Version: 1.2.19+roothide
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 572
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit, preferenceloader, curl, bash
+Filename: ./debians/iphoneos-arm64e/com.carterware.carterblock_1.2.19+roothide_iphoneos-arm64e.deb
+Size: 80428
+MD5sum: 094f7ab39565f1f12b063d671b5b8653
+SHA1: 40891584dfa2cb619c26f66090f1a2685854264d
+SHA256: f6f4fa199bc2fab038162fc6b1c9b5e525816f9cc3c671d00982a90dfde18557
+SHA512: ad00c836178a02c5df0f24ea14ebf8d7e108bb0f8f4c5f1da5e7857e3e4d9b9a63ecdbdaa63a148ccb7439d6b17b1b579d6942e109488ecbb475ef30024f7af1
+Homepage: https://tweaks.carterware.net/
+Description: App/game ad & tracker blocker — app networking, background downloads, AVPlayer video ads, in-app web views and Safari, hosts lists, allowlist, live Settings stats.
+ Start: Settings → CarterBlock → enable, then relaunch the apps/games you care about.
+ Excluded Apps keeps CarterBlock out of anti-cheat games. Not system DNS. Free.
+Name: CarterBlock
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/carterblock.json
+Depiction: https://tweaks.carterware.net/depictions/carterblock.json
+Image: https://tweaks.carterware.net/icons/carterblock.png?v=20260910c
+Icon: https://tweaks.carterware.net/icons/carterblock.png?v=20260910c
+
+Package: com.carterware.current
+Architecture: iphoneos-arm64e
+Version: 1.0.2+roothide
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 408
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.carterware.current_1.0.2+roothide_iphoneos-arm64e.deb
+Size: 40792
+MD5sum: c92c88845d936a437ad261b6d36982d7
+SHA1: cd6c7bf8eae248c95f8fe0532d3bf0aaf9015d03
+SHA256: f118708f685d2f9ebf8ce71a7a7aa5a9e2a1a7d757f97a9ec8ab95eb61a1d441
+SHA512: 961e45ab08c601d8314460c0e8c111c4ba1438afea3daa0c8fadf67eba45a52f75c2644904a0ed5f74e9b58e53fd2d5802b771fcc72293330174327b9af6a3e3
+Homepage: https://tweaks.carterware.net/current.html
+Description: See what your charger is doing, right on the Lock Screen.
+ While your iPhone charges, a small pill between the flashlight and camera buttons shows the battery percentage, the watts coming in and when it will be full. Settings shows battery health, cycle count, temperature and the charger you're using. Free.
+Name: Current
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/current.json
+Depiction: https://tweaks.carterware.net/depictions/current.json
+Image: https://tweaks.carterware.net/icons/current.png?v=20261027
+Icon: https://tweaks.carterware.net/icons/current.png?v=20261027
+
+Package: com.carterware.mountaineer
+Architecture: iphoneos-arm64e
+Version: 1.4.15+roothide.1
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 1776
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.carterware.mountaineer_1.4.15+roothide.1_iphoneos-arm64e.deb
+Size: 355608
+MD5sum: 3fc4c21df1f2fa20a5470c59a1e3787e
+SHA1: 22c1b92bb9b43c101f6d51410d7ea5912e443b87
+SHA256: 25a8933d66865ee0762e2498b8a7fb84aa44951f91256dc557c42c06954f6540
+SHA512: d581a60b34ff0cd07836131bec6eea255af976201a2b96e314fb47b513017cdd7da7b0ade9baa2ddef16fee32d13a745a6511f4da613daa6f3f87a1c98384906
+Homepage: https://tweaks.carterware.net/
+Description: Crash diary + App Shield for Dopamine — Timeline, Doctor, Copy Report.
+ Start: Install → open the Mountaineer app → Timeline after a weird respring. Copy Report
+ for Discord/support. Settings → Mountaineer for diary options and App Shield (third-party
+ apps that hate jailbreaks). Free.
+Name: Mountaineer
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/mountaineer.json
+Depiction: https://tweaks.carterware.net/depictions/mountaineer.json
+Image: https://tweaks.carterware.net/icons/mountaineer.png?v=20260910c
+Icon: https://tweaks.carterware.net/icons/mountaineer.png?v=20260910c
+
+Package: com.carterware.thump
+Architecture: iphoneos-arm64e
+Version: 1.1.2+roothide
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 616
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.carterware.thump_1.1.2+roothide_iphoneos-arm64e.deb
+Size: 61820
+MD5sum: a3bd66f1f44f3466742551fe937f254f
+SHA1: 990f5ff5fbfaf9a9074473e33900edd152b3c311
+SHA256: ef724f95177ecb18f528208edbc245833fe9a4c411d6356b6141b6cde6c43b5f
+SHA512: dc8293fbc415ff78d33a91010d7f5ab261ba6bf7a3159b2e4a58ed887950d38dab6b5be1740eaefd046a9cd38fca68ec499bbbe5555a90a668ef081bbd862a3a
+Homepage: https://tweaks.carterware.net/thump.html
+Description: Feel the beat of anything you play. The vibration motor hits with the kick drum and rumbles with the 808s, in any app.
+ Pick Beat (kick drum), Bass (adds bass notes) or Everything (adds snares, gunshots and explosions for games and movies), and set the strength. Gets stronger as you turn the volume up.
+ Each buzz is timed to when the sound actually comes out, including Bluetooth delay, with a slider to fine-tune.
+ Listens only to what the iPhone is playing, never the microphone. Pauses with the screen off, in Low Power Mode, on calls and, if you want, on Bluetooth, AirPlay and CarPlay. Free.
+Name: Thump
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/thump.json
+Depiction: https://tweaks.carterware.net/depictions/thump.json
+Image: https://tweaks.carterware.net/icons/thump.png
+Icon: https://tweaks.carterware.net/icons/thump.png
+
+Package: com.carterware.tiktokwarm
+Architecture: iphoneos-arm64e
+Version: 1.0.16+roothide
+Section: Tweaks
+Maintainer: CarterWare <https://tweaks.carterware.net>
+Installed-Size: 472
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.carterware.tiktokwarm_1.0.16+roothide_iphoneos-arm64e.deb
+Size: 53136
+MD5sum: 0ac3f73930abd597f5924b746fa57ff9
+SHA1: d6b2fa4dc3300c6bee3e1c3fbfa473e6d6ebe998
+SHA256: 5e74f3aaa98c49ce50acbc6e96b28be434ed5ae9c57bb539ae240071079f0f73
+SHA512: 5dfc15551d65a5bb47982a1c387463210d9e4c4d22547c063f2f7f28db2b2ac2c98d5e407081436f16d6b307c2e41b67a0386e5fb44e7de8bdc8c337afe51b7d
+Homepage: https://tweaks.carterware.net/
+Description: BETA — a Warm chip on TikTok's For You feed that auto-swipes and optionally likes, with timing in Settings.
+ Start: Settings → TikTok Warm → Enabled (off by default) → open TikTok → tap the Warm chip.
+ Waits while you touch the screen, type, or have comments open. Automating TikTok may violate its ToS — use at your own risk. Free.
+Name: TikTok Warm
+Author: CarterWare
+Sileodepiction: https://tweaks.carterware.net/depictions/tiktokwarm.json
+Depiction: https://tweaks.carterware.net/depictions/tiktokwarm.json
+Image: https://tweaks.carterware.net/icons/tiktokwarm.png?v=20260910c
+Icon: https://tweaks.carterware.net/icons/tiktokwarm.png?v=20260910c
+
 Package: com.chargelimiter.mod
 Architecture: iphoneos-arm64e
 Version: 1.12.4
@@ -37085,6 +37415,29 @@ MD5sum: 5bdc5dbead4f4c3facd525b3247623f5
 SHA1: c999f078807f99968b4114367ab79c948b59f798
 SHA256: 54402a5c9f9d6ee5c17fbfb365f30ae917299600ebcb4c4bfbc7acdf21f73941
 SHA512: f9a992c65f6f1ae79e78c818b169d5088ab3697a2a65a5d8af486fc65b4e179e346842cf95e8e6c1b46cf73697eb2a34f415e7ccf68e98efdb8437bdd04f6a4b
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64e
+Version: 3.0.3
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 3992
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.netshield_3.0.3_iphoneos-arm64e.deb
+Size: 3172836
+MD5sum: fab4c57bd236ded3b418701b3921401c
+SHA1: 86ef6df745eecf6274e5dad57faee799cf95bb11
+SHA256: 852200a9da6e7c68e3ba54c83d8ab95e6eefcfed5514fda16db3d5a19e9b4950
+SHA512: 9d4041dd120810a84a98e4693e18ee833c0addf3490ca196fa50708942a05afd976bb81bab91a4bc792d0eab1713f947ba47ac51d83ca13262897eaad53308c1
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
