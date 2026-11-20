@@ -4489,6 +4489,25 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/refs/heads/main/antidarkswordprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/main/depiction.json
 
+Package: com.eolnmsuk.antidarksword
+Architecture: iphoneos-arm
+Version: 5.0.1
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 9260
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.antidarksword_5.0.1_iphoneos-arm.deb
+Size: 7216404
+MD5sum: 47b7893a6330fcae5f02aabe88453b32
+SHA1: cf5acacf2bdba1e0ec575611ce00cc929c1842d2
+SHA256: 36887934ada7efbb1f14e55b83979adaf4a4faa62354d042517a91328184b8f8
+SHA512: c4974ba3aef16d9529203fe43e10592d76a73c4655d17a7a717c6d0fd699aae606eaca76f2cc21cd5c46a8ac756c6bace4e9967ad12113d304295cf590afabb8
+Description: Exploit mitigation tweak to defend against WebKit RCE and iMessage zero-click exploits like Coruna / DarkSword / BLASTPASS.
+Name: AntiDarkSword
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/refs/heads/main/antidarkswordprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/main/depiction.json
+
 Package: com.eolnmsuk.antidarkswordlegacy
 Architecture: iphoneos-arm
 Version: 4.9.2
@@ -4526,6 +4545,29 @@ Name: AntiDarkSword Legacy
 Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/refs/heads/main/antidarkswordprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/main/depiction.json
+
+Package: com.eolnmsuk.choysee
+Architecture: iphoneos-arm
+Version: 2.0.4
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 8828
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Replaces: com.opa334.choicy
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.choysee_2.0.4_iphoneos-arm.deb
+Size: 6360716
+MD5sum: 4516f4e8ec8418a818c5f6d5eaf7a2ee
+SHA1: 512d28387390d32152acbe62f9195282cf0e8d77
+SHA256: cca36420512842594dbffd3e7a2768c78a7e4618d31582e356749c885fe5e35a
+SHA512: 9325bc7cf7fbfdbb622c6ace9f3fb4bc32ebb066da000eff0bdac1a26218f754f6ff001663db5702356e4e6db424040886762031b4755abc70ba40c5117b2910
+Homepage: https://github.com/EolnMsuk/ChoySee/
+Description: Advanced tweak configuration. EolnMsuk's fork of opa334's Choicy.
+Name: ChoySee
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/ChoicyPrefs/Resources/ChoicyIcon@3x.png
+Header: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/ChoicyPrefs/Resources/banner.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/depiction.json
 
 Package: com.eolnmsuk.haptix.legacy
 Architecture: iphoneos-arm
@@ -4597,6 +4639,25 @@ MD5sum: e1a40f520cee1d0d709ca97db52674d0
 SHA1: 22dc58e3ccdca06e0ba37520d9bbe8c310478a29
 SHA256: b27c29c8632a5ecc7f87b0b80b5e3f43579deb93c3d62a25391a620f037262ca
 SHA512: 0fba2018d280ffe882a933449d55330063c0716df711f32cd47abb9c988458a4aa22e79595ca960b9a6f3996558e45fc6a3005d34e658d25b6e0f64b0fa661bc
+Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
+Name: HaptiX
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
+
+Package: com.eolnmsuk.haptix
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 2784
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.haptix_2.0.1_iphoneos-arm.deb
+Size: 2253958
+MD5sum: 23ca071069a8284418f6f963e8aa3a18
+SHA1: 4d345bfe37d2061d081e7033802a1d9075d9eb40
+SHA256: 21854c3bea2d89f2303d09f96c169a9a61dced2d28142bbc414c1f41433ae117
+SHA512: 661d8688eeb9064b50dd76b2694f12633f5563395087b6839d97fc77a5dd566867e7fa968901dadac155c485f9ac30986f8f8fea3079f9ce9a3a1d7496a868f5
 Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
 Name: HaptiX
 Author: EolnMsuk
@@ -4733,6 +4794,29 @@ MD5sum: 34603b533ceb2f409c8b9b622128e6bc
 SHA1: 8859064bc202264e3e61df28d227e62b0c32a0a9
 SHA256: 794b1b175b2c7e714033bbfeb24d20f6983aa8d1b334349fa6604a1630af6fa6
 SHA512: d2b90ff38df822a145e5820c35388147fcc3ea6beccf4c511cf0ae4b48f1e0e80269844e82db9c95f5171d55c418b3f9bf43e21b3c52b4594ee7608a79fb2ec2
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm
+Version: 3.0.4
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 4004
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.netshield_3.0.4_iphoneos-arm.deb
+Size: 3182958
+MD5sum: c6d7096c57c26e3c346304b61341b446
+SHA1: e41320b2e3723974b90eb9bfe2a2b0630fe27dc2
+SHA256: 0c1481e6ef05adb4a52eeb685623aab80925d0258c3adc4dca8ebcad6d72d1a6
+SHA512: aeb511efa2b1c4394bb4e0deb2d3eac02c4100e5684c9a14492044dba487c5b02dd66857b2d6104e93c91f482ff24be7c19f472d7b0a84c809b189b405486e91
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
@@ -20114,6 +20198,48 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/refs/heads/main/antidarkswordprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/main/depiction.json
 
+Package: com.eolnmsuk.antidarksword
+Architecture: iphoneos-arm64
+Version: 5.0.1
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 9260
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.antidarksword_5.0.1_iphoneos-arm64.deb
+Size: 7217042
+MD5sum: e1ef713883e19870c77a0d84ceda65ab
+SHA1: 90a46ded0a25f708c75d8600bbb1f5122812466c
+SHA256: b2287ad2ade857dd1a0a3dca9b5f8b4d203bf7d4c8d37ba55d24615e72bfcd10
+SHA512: d502ef5ed4e2339dc3d440de23e607113831d3af33367578471dff8a7526368a8118fe426c1af33b96b06b4191caae8a1169e1cd6fb341100aa3722e19c819de
+Description: Exploit mitigation tweak to defend against WebKit RCE and iMessage zero-click exploits like Coruna / DarkSword / BLASTPASS.
+Name: AntiDarkSword
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/refs/heads/main/antidarkswordprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/main/depiction.json
+
+Package: com.eolnmsuk.choysee
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 8828
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Replaces: com.opa334.choicy
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.choysee_2.0.4_iphoneos-arm64.deb
+Size: 6359478
+MD5sum: 7f4319b006dc96286343b8736a726bdd
+SHA1: 77aae57e3aad812928d11ea852f3a187e01cc805
+SHA256: ab1536cccf9e0d878b87bef64f024f721293aa6bad8135452ba3bdadacd66f24
+SHA512: 0ba38298d7dfc0cf70bdb1e4b0a0380bdafcda4189e67e7f7056fb2a5409a394841dc64dbad1ade93a04cbd672515dee63265eda3aa2015c8c06308748e197d8
+Homepage: https://github.com/EolnMsuk/ChoySee/
+Description: Advanced tweak configuration. EolnMsuk's fork of opa334's Choicy.
+Name: ChoySee
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/ChoicyPrefs/Resources/ChoicyIcon@3x.png
+Header: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/ChoicyPrefs/Resources/banner.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/depiction.json
+
 Package: com.eolnmsuk.haptix
 Architecture: iphoneos-arm64
 Version: 1.0.5
@@ -20165,6 +20291,25 @@ MD5sum: 94b8c6bd607afe9f3e0cfc282411896d
 SHA1: 027d4938c923f8033ed587f41008243d6e3e9e24
 SHA256: a0b3aa7f20947aba6138669632fd9b78e40998a19b406621cd3380e5293810e6
 SHA512: 2ee873d79c295910a8ebe67dc783c10b8e535a09f560198e7837e2f6cd55de9111352a1fd6c1e63768f22cc169bd560c0906d5ad54acdb0f5ef0d6aa7397e2a0
+Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
+Name: HaptiX
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
+
+Package: com.eolnmsuk.haptix
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 2784
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.haptix_2.0.1_iphoneos-arm64.deb
+Size: 2254042
+MD5sum: ff4a290d2694836b3727e169d7877691
+SHA1: ac947b062c66effadf2ee632cf372ad7594e29f8
+SHA256: a0922d87c42f56b73b7ebad308e4d57d47093ad48547be6c99419022a3ca652c
+SHA512: 98307b634e0c51e3969453dd61617239b8a1ffa6edff8c9d1580c73566d4c675695b03e6e6405f51554a94d2567c7b0019ea08eca5fa66f2422afef21935a24a
 Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
 Name: HaptiX
 Author: EolnMsuk
@@ -20370,6 +20515,29 @@ MD5sum: f72fa5ea9c3eea49abbe76aae5ac1aaf
 SHA1: dd20bf0f5fdbb829c9d8163adaa853f6dc376e32
 SHA256: 13d68bc0b273a5f05037d4a1ea2b9769f91b9fa391d5bf8056d54a68b9bffee7
 SHA512: 743bcb975b94639f6482135da86f02e72fefb8929de8f7ba79a91210ba509feadf1546529d11d63d497c4ff62fd565f1822a34fc4e54b2281a7e46ae3247f469
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64
+Version: 3.0.4
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 4004
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.netshield_3.0.4_iphoneos-arm64.deb
+Size: 3182932
+MD5sum: 5c33ea79607221bf558e73ea2695eafe
+SHA1: 2dcd3613fec20cd0932f78b8309dfd2ce967ab9a
+SHA256: f693edf9958e1f0e73632ab2c3bb2f5d641af2c37cd6df995ecd3dd5e39c0e00
+SHA512: 152a1b96585baa9c76e9a99a4d51d67f14af90efc246c3d40ae9c8efd2dea0b46b0c2de75e27132aed2f70b2d9fb048f520d776915931950085ebef619eecd6d
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
@@ -37179,6 +37347,48 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/refs/heads/main/antidarkswordprefs/Resources/sicon.png
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/main/depiction.json
 
+Package: com.eolnmsuk.antidarksword
+Architecture: iphoneos-arm64e
+Version: 5.0.1
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 9260
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.11), firmware (>= 15.0)
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.antidarksword_5.0.1_iphoneos-arm64e.deb
+Size: 7216966
+MD5sum: 08aa1d471aa58b6d2185180dd8fb349b
+SHA1: 9ae4d993afa723265d9d29df445e1e94657a359b
+SHA256: 8abd4cd12acf7b63cc72c236295bce7c1d869cffc7dea7648238577d79eb975c
+SHA512: e97f7454aa83149ff05862140d56e88220bbf6a486fe245c3fe7e961b692cfe2fb5b908c8c5e254d7417392d2176746902f9536939eceabbd56cabfeb755838a
+Description: Exploit mitigation tweak to defend against WebKit RCE and iMessage zero-click exploits like Coruna / DarkSword / BLASTPASS.
+Name: AntiDarkSword
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/refs/heads/main/antidarkswordprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/AntiDarkSword/main/depiction.json
+
+Package: com.eolnmsuk.choysee
+Architecture: iphoneos-arm64e
+Version: 2.0.4
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 8812
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Replaces: com.opa334.choicy
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.choysee_2.0.4_iphoneos-arm64e.deb
+Size: 6354962
+MD5sum: f698f3b1793f96df728c3f20a8c89c3f
+SHA1: 504c9034794aac6ab9ed45c6565cf742cd3e8b16
+SHA256: c05071326601279d1c0ecdcfbf394a130935866610d657437c6de283b664c730
+SHA512: f3da8e246f446a1814d5410ab490457b7dc7b404b52b42f0cb5f3d0c57d66a629b16d8e02f37dcc739189addbdea962221c9c9acdb985d76ee2b1fcfccf7a21d
+Homepage: https://github.com/EolnMsuk/ChoySee/
+Description: Advanced tweak configuration. EolnMsuk's fork of opa334's Choicy.
+Name: ChoySee
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/ChoicyPrefs/Resources/ChoicyIcon@3x.png
+Header: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/ChoicyPrefs/Resources/banner.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/ChoySee/refs/heads/master/depiction.json
+
 Package: com.eolnmsuk.haptix
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -37233,6 +37443,25 @@ MD5sum: ee987ad31e30dd9b846fb1dbc79ed6f8
 SHA1: 39afa34304fa296aa0da1199f6a4b799b424c100
 SHA256: 561fdb1a7d88c2049496bd3a5ca8e8f71b7d6168fc828faee6f3b3082593b466
 SHA512: 0e4d1ed9defea80f78462600b562875c098a50934f5252c2e347e6b80e2b8dd2d265a39afa3ca925d60f5f207a6cd1a3a1c2d17878c5883bebb1c790899c2464
+Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
+Name: HaptiX
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/HaptiX/refs/heads/main/haptixprefs/Resources/sicon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/HaptiX/main/depiction.json
+
+Package: com.eolnmsuk.haptix
+Architecture: iphoneos-arm64e
+Version: 2.0.1
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 2784
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.haptix_2.0.1_iphoneos-arm64e.deb
+Size: 2253544
+MD5sum: 17d7f4af9ce53b7c76309542a017d588
+SHA1: 84c9d35d0e35ce580515235b0307e6a3908a88d8
+SHA256: 3f6cbaa1ef864618e8b5f764ebfe85ee65d727e6e9ccd748fe08f64198bcc6a6
+SHA512: e092e625611aa5d1cca33ae55d78b97954e971220b2fd127c84a67e75e9bcd8530a863eee26a6a4a385494034ea1113507af92c29cecf152d2ae8bba8807dd83
 Description: A system-wide haptic feedback tweak for iOS 13–17 (with options).
 Name: HaptiX
 Author: EolnMsuk
@@ -37438,6 +37667,29 @@ MD5sum: fab4c57bd236ded3b418701b3921401c
 SHA1: 86ef6df745eecf6274e5dad57faee799cf95bb11
 SHA256: 852200a9da6e7c68e3ba54c83d8ab95e6eefcfed5514fda16db3d5a19e9b4950
 SHA512: 9d4041dd120810a84a98e4693e18ee833c0addf3490ca196fa50708942a05afd976bb81bab91a4bc792d0eab1713f947ba47ac51d83ca13262897eaad53308c1
+Homepage: https://github.com/EolnMsuk/NetShield2/
+Description: Control internet access with permission notifications, saved rules and connection monitoring.
+Name: NetShield2
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
+Depiction: https://github.com/EolnMsuk/NetShield2/#readme
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.netshield
+Architecture: iphoneos-arm64e
+Version: 3.0.4
+Section: Networking
+Maintainer: EolnMsuk
+Installed-Size: 4004
+Depends: firmware (>= 15.0), firmware (<< 19.0), uikittools
+Conflicts: com.netshield.tweak
+Replaces: com.netshield.tweak
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.netshield_3.0.4_iphoneos-arm64e.deb
+Size: 3183334
+MD5sum: d66826545cb08824d21cd842ea20aaa0
+SHA1: 48bacf855a6af41ba566c0652417cb47fdb8901a
+SHA256: 49e09bb734ecc1e11917cdc63b681baab1c75630f0661ee7b073622aeb24ed1f
+SHA512: d546a9dca6215cd8d7b85bd927e5bc7bbaa7d804d7373e5b46433eee6f68256d3cdc8e351121047c727485849666abb1ae91a0d0ce4386dc8d7467ebae545005
 Homepage: https://github.com/EolnMsuk/NetShield2/
 Description: Control internet access with permission notifications, saved rules and connection monitoring.
 Name: NetShield2
