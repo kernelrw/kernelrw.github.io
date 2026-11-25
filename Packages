@@ -4825,6 +4825,25 @@ Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/I
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
 
+Package: com.eolnmsuk.quicksettings
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 984
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm/com.eolnmsuk.quicksettings_1.0.6_iphoneos-arm.deb
+Size: 378172
+MD5sum: df9803bcd4f41fb233c64895b822be11
+SHA1: 56615486da9d14ec9f3b8b001f042dc1374e1e62
+SHA256: c3f55b49d24513329092a092896ab8e3cee696043b23d92cbe1cc7070965bac7
+SHA512: 90cf1da955f25eea72ae615510a3a1214dabf6b30cb42581ce5fafccc33539b2f9b4d28d487b799ae660e12d6ea79f07bb2556deef1f79cd621d86a0be4bd84c
+Description: Open a supported non-Apple app's Settings page from its Home Screen context menu.
+Name: QuickSettings
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/QuickSettings/main/quicksettingsprefs/Resources/package-icon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/QuickSettings/main/depiction.json
+
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm
 Version: 1.2
@@ -20545,6 +20564,25 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.quicksettings
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 984
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.eolnmsuk.quicksettings_1.0.6_iphoneos-arm64.deb
+Size: 378196
+MD5sum: 4c3005a558fc7b6737002cb0c0832dd6
+SHA1: 6d59e55469fcbc6e4fa68ac586ced2859416d86c
+SHA256: bde672eef3a8dd9409ad09bfb0f6b17a5d2b673e1ae1630ddb3c39a4d8fa3b91
+SHA512: 3814ff1e34d16a4d46808a123f28994f31f3cc2253cac406f77100440f592cbfcd05e25cd345ca1147d7618019376904b5e995a25af63caf8788e174297b89e2
+Description: Open a supported non-Apple app's Settings page from its Home Screen context menu.
+Name: QuickSettings
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/QuickSettings/main/quicksettingsprefs/Resources/package-icon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/QuickSettings/main/depiction.json
 
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64
@@ -37697,6 +37735,25 @@ Author: EolnMsuk
 Icon: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/App/Resources/Icon.png
 Depiction: https://github.com/EolnMsuk/NetShield2/#readme
 SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/NetShield2/HEAD/depiction.json
+
+Package: com.eolnmsuk.quicksettings
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: EolnMsuk
+Installed-Size: 984
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.eolnmsuk.quicksettings_1.0.6_iphoneos-arm64e.deb
+Size: 378162
+MD5sum: 8f598aace84543c8aa388d1365619f84
+SHA1: 48ea893241168cc87a05c8aba30c615b103fa41c
+SHA256: e506c5ff4e4b2e893167f28af15eaca00aa18f39d74e92e73262dd304254a4cc
+SHA512: d4240da5eaad35f6f96ceb31708d54111e375a7617e88530daa7efc9d880c1185fed4a2032bd656e80160c1b34c34e527c80410a7b9c6d6f791a369552aae81f
+Description: Open a supported non-Apple app's Settings page from its Home Screen context menu.
+Name: QuickSettings
+Author: EolnMsuk
+Icon: https://raw.githubusercontent.com/EolnMsuk/QuickSettings/main/quicksettingsprefs/Resources/package-icon.png
+SileoDepiction: https://raw.githubusercontent.com/EolnMsuk/QuickSettings/main/depiction.json
 
 Package: com.ethanrdoesmc.dawn
 Architecture: iphoneos-arm64e
