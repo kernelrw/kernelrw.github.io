@@ -26787,6 +26787,29 @@ Icon: https://qnblackcat.github.io/repo/assets/com.qn.callguard_iphoneos-arm64/i
 Tags: compatible_min::ios15.0
 Author: Qn
 
+Package: com.qn.tabguard
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Qn
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader
+Replaces: com.p2kdev.safariblocker
+Filename: ./debians/iphoneos-arm64/com.qn.tabguard_iphoneos-arm64.deb
+Size: 88924
+MD5sum: 84cbb1b5c2aae0ec25e7764d7d22285b
+SHA1: 5c208cbe6f048d3203b027f0c8b8310169361f1f
+SHA256: 03477b0e90d6258ea1c1c703ff4f74ff510580cd895c2646b100dcbee7dc1833
+SHA512: fa50299082d2045840d3526093cf7d6539271114952a6834ffa344974a7c6026911a2442c1d01a816b51a63418542db077d7291080f808912e583d866e6c388b
+Homepage: https://github.com/qnblackcat/TabGuard
+Description: Control pop-ups and new tabs in Safari
+Name: TabGuard
+Depiction: https://qnblackcat.github.io/repo/depiction/web/com.qn.tabguard_iphoneos-arm64.html
+SileoDepiction: https://qnblackcat.github.io/repo/depiction/native/com.qn.tabguard_iphoneos-arm64.json
+ModernDepiction: https://qnblackcat.github.io/repo/depiction/native/com.qn.tabguard_iphoneos-arm64.json
+Icon: https://qnblackcat.github.io/repo/assets/com.qn.tabguard_iphoneos-arm64/icon.png
+Tags: compatible_min::ios15.0, compatible_max::ios17.0
+Author: Qn
+
 Package: com.r333d.eqe
 Architecture: iphoneos-arm64
 Version: 2.2.241017.2202.05f8
@@ -44428,6 +44451,29 @@ SileoDepiction: https:///depiction/native/com.qn.morefreqemojiandnoautoshift.jso
 ModernDepiction: https:///depiction/native/com.qn.morefreqemojiandnoautoshift.json
 Icon: https:///assets/com.qn.morefreqemojiandnoautoshift/icon.png
 Tags: compatible_min::ios15.0, compatible_max::ios17.0
+
+Package: com.qn.tabguard
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Qn
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader
+Replaces: com.p2kdev.safariblocker
+Filename: ./debians/iphoneos-arm64e/com.qn.tabguard_iphoneos-arm64e.deb
+Size: 88724
+MD5sum: ff6086dd2ffb54d38ba7d1c0eddc566b
+SHA1: a93c82de45b0fdfd0a62a546584efcd84563c649
+SHA256: aea694040d1a8666a21048032f6eeed4f0b375b5371de62c17d21d9581dba309
+SHA512: 1139151bb58d42119dcd6db0bd9707c6eaccf9743f72e8846340b74a8bb75e88ad4712ad3db45884208c470cdbd96ef02ab77c2bcd2cdff9000d7f283574a37f
+Homepage: https://github.com/qnblackcat/TabGuard
+Description: Control pop-ups and new tabs in Safari
+Name: TabGuard
+Depiction: https://qnblackcat.github.io/repo/depiction/web/com.qn.tabguard_iphoneos-arm64e.html
+SileoDepiction: https://qnblackcat.github.io/repo/depiction/native/com.qn.tabguard_iphoneos-arm64e.json
+ModernDepiction: https://qnblackcat.github.io/repo/depiction/native/com.qn.tabguard_iphoneos-arm64e.json
+Icon: https://qnblackcat.github.io/repo/assets/com.qn.tabguard_iphoneos-arm64e/icon.png
+Tags: compatible_min::ios15.0, compatible_max::ios17.0
+Author: Qn
 
 Package: com.r333d.eqe
 Architecture: iphoneos-arm64e
