@@ -862,6 +862,24 @@ Description: best Tweak for Telegram
 Name: iQTele
 Author: 7md
 
+Package: com.7md.iqtelegram
+Architecture: iphoneos-arm
+Version: 1.6
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 2156
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm/com.7md.iqtelegram_1.6_iphoneos-arm.deb
+Size: 813232
+MD5sum: 88898c1ce56fbaf2cd762e55b7061683
+SHA1: b1290bf883aff49e3a822e37434b9645dd7f5745
+SHA256: 785793568231eb5ffca71eb1b654d9b7164163be3f083abb9bd9101d63e04ab4
+SHA512: b22cd5d6e2b174d2c3dac988593ad5387e95b57f9a3178c4f92cbb9f83b29439ebc8027c0aa7b5e222d0259a95bd6cfe99d4027ca2124595a769ce95a6ac43c6
+Homepage: https://t.me/r71il
+Description: best Tweak for Telegram
+Name: iQTele
+Author: 7md
+
 Package: com.82flex.amlyrics
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -16096,6 +16114,24 @@ Description: best Tweak for Telegram
 Name: iQTele
 Author: 7md
 
+Package: com.7md.iqtelegram
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 2156
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64/com.7md.iqtelegram_1.6_iphoneos-arm64.deb
+Size: 813144
+MD5sum: ccb422545f6c799365d348a4250ae4e0
+SHA1: 2580049c2b6a6c42a0a052ca6f3450bb7e727629
+SHA256: b3d9a2aeb26ecab6080ad8dbd6ddb9f37fb4f8a916dd3482bfd6e203374c8e9c
+SHA512: 98776fb74c451b46112a9519fabeae8fab610b78b1ff3b70beb3f0602179a54fdb00d66344321ec3911969ecef5ef52e79f50237907be5a35b93972743d0b807
+Homepage: https://t.me/r71il
+Description: best Tweak for Telegram
+Name: iQTele
+Author: 7md
+
 Package: com.82flex.amlyrics
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -26730,6 +26766,27 @@ Name: SwipeExtenderX
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Depiction: https://chariz.com/get/swipeextenderx
 
+Package: com.qn.callguard
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Qn
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64/com.qn.callguard_iphoneos-arm64.deb
+Size: 225810
+MD5sum: 13b8cfcbd6877b4699696677ea9e1e49
+SHA1: 24617c4fc36d284c2f6052603ee4331c453c1fbb
+SHA256: d14504f0ac822ea17d895595c8919c1ed93f9eccb12e4ee55066aee3a281f0b0
+SHA512: e8f661f4ae5ec5533499f2e503e0b980b427bb35d6d83aae50021e0d924442718858c8e2d86673d55004151268f2738715d03da9c55dc5c4c5133143eb6b2d88
+Description: Silently block incoming SIM calls by number prefix
+Name: CallGuard
+Depiction: https://qnblackcat.github.io/repo/depiction/web/com.qn.callguard_iphoneos-arm64.html
+SileoDepiction: https://qnblackcat.github.io/repo/depiction/native/com.qn.callguard_iphoneos-arm64.json
+ModernDepiction: https://qnblackcat.github.io/repo/depiction/native/com.qn.callguard_iphoneos-arm64.json
+Icon: https://qnblackcat.github.io/repo/assets/com.qn.callguard_iphoneos-arm64/icon.png
+Tags: compatible_min::ios15.0
+Author: Qn
+
 Package: com.r333d.eqe
 Architecture: iphoneos-arm64
 Version: 2.2.241017.2202.05f8
@@ -33854,6 +33911,24 @@ MD5sum: 59c3b01a743aa95e72077ab23cdf2d2b
 SHA1: 47c20d8c90bd24bceaf0905ecfc170c8b6679147
 SHA256: b98cfcd640fdbcc5f43098365229219ea4be33bbbb84f283bd84d4b79932d7ca
 SHA512: e2dab096c6bedccca350ef8bcb676ce0302181821b54992197fb68a61452041d4d10cd114895b3592bcaa28c5eccc3b07e352cf033bc680bea768a1be5da08ab
+Homepage: https://t.me/r71il
+Description: best Tweak for Telegram
+Name: iQTele
+Author: 7md
+
+Package: com.7md.iqtelegram
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Tweaks
+Maintainer: 7md
+Installed-Size: 2156
+Depends: mobilesubstrate
+Filename: ./debians/iphoneos-arm64e/com.7md.iqtelegram_1.6_iphoneos-arm64e.deb
+Size: 803872
+MD5sum: 8f29860e528cfe4d9d455db1bb55b840
+SHA1: 92c04d851ecb827d4b1f980dc25671c5fce3ea1c
+SHA256: e65a901640d03f7f83ca7db1cb76cb889a5850aa73cb1136cddd98c2557afe1b
+SHA512: 9ec8444de693fb4e8577a846a2a2aaf5ad9e0c061438d55216b9fdd9144294b94e8eb2de9a152cfce12c7793b37534d216ca96267afd31dced86a9e5da8b18ec
 Homepage: https://t.me/r71il
 Description: best Tweak for Telegram
 Name: iQTele
@@ -44312,6 +44387,27 @@ Author: MiRO <tweaks_support@miro92.com>
 Name: SwipeExtenderX
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Depiction: https://chariz.com/get/swipeextenderx
+
+Package: com.qn.callguard
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Qn
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/iphoneos-arm64e/com.qn.callguard_iphoneos-arm64e.deb
+Size: 222750
+MD5sum: 5067e13aebb3a90fa2403de349b5b2f1
+SHA1: c0906f270f1f59e0e2d0b8e4a2fe2acd30e36ac8
+SHA256: f36ee98e252554d17b33b612a03d676278fe161f17a162fd848e58a6fb8b5d05
+SHA512: 98b7343f11ffa9e1d067774ed3d34f2dbe91ec91308b12531337632d31712e4d3dc10d21c2ba7d8a1d1fb24a0df361a865ddf9c15a491d415d6d37bde9989018
+Description: Silently block incoming SIM calls by number prefix
+Name: CallGuard
+Depiction: https://qnblackcat.github.io/repo/depiction/web/com.qn.callguard_iphoneos-arm64e.html
+SileoDepiction: https://qnblackcat.github.io/repo/depiction/native/com.qn.callguard_iphoneos-arm64e.json
+ModernDepiction: https://qnblackcat.github.io/repo/depiction/native/com.qn.callguard_iphoneos-arm64e.json
+Icon: https://qnblackcat.github.io/repo/assets/com.qn.callguard_iphoneos-arm64e/icon.png
+Tags: compatible_min::ios15.0
+Author: Qn
 
 Package: com.qn.morefreqemojiandnoautoshift
 Architecture: iphoneos-arm64e
